@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_Hero.headerTip>指定棋子为英雄，可以直接命令英雄与其他棋子做爱</RJW_Hero.headerTip>
+  <RJW_Comfort.headerTip>将 pawn 指定为 Comfort pawn，pawn 将用于缓解压抑的性需求</RJW_Comfort.headerTip>
+  <RJW_BreedHumanlike.headerTip>指定用于繁殖的 pawn，群体动物会尝试繁殖该 pawn</RJW_BreedHumanlike.headerTip>
+  <RJW_BreederAnimal.headerTip>指定 pawn 作为繁殖者，这些动物将尝试繁殖指定用于繁殖的 pawn</RJW_BreederAnimal.headerTip>
+  <RJW_BreedAnimal.headerTip>指定用于繁殖的 pawn，群体动物会尝试繁殖此 pawn</RJW_BreedAnimal.headerTip>
+  <RJW_Whore.headerTip>指定典当为妓女，妓女为客人提供服务以换取银子</RJW_Whore.headerTip>
+
+
+</LanguageData>

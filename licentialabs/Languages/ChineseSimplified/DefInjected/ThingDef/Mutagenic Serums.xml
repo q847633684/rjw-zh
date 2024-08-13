@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ReverterSerum.label>恢复血清</ReverterSerum.label>
+  <ReverterSerum.description>将人形 pawn 恢复为具有平均人类部分。</ReverterSerum.description>
+  <ReverterSerum.ingestible.ingestCommandString>喝 {0}</ReverterSerum.ingestible.ingestCommandString>
+  <ReverterSerum.ingestible.ingestReportString>喝{0}。</ReverterSerum.ingestible.ingestReportString>
+
+  <CanineMutagenicSerum.label>犬诱变血清</CanineMutagenicSerum.label>
+  <CanineMutagenicSerum.description>为用户提供犬的生殖器。</CanineMutagenicSerum.description>
+  <CanineMutagenicSerum.ingestible.ingestCommandString>饮料 {0}</CanineMutagenicSerum.ingestible.ingestCommandString>
+  <CanineMutagenicSerum.ingestible.ingestReportString>饮用 {0}。</CanineMutagenicSerum.ingestible.ingestReportString>
+
+  <FelineMutagenicSerum.label>猫诱变血清</FelineMutagenicSerum.label>
+  <FelineMutagenicSerum.description>为用户提供猫科动物生殖器。</FelineMutagenicSerum.description>
+  <FelineMutagenicSerum.ingestible.ingestCommandString>饮料 {0}</FelineMutagenicSerum.ingestible.ingestCommandString>
+  <FelineMutagenicSerum.ingestible.ingestReportString>饮用 {0}。</FelineMutagenicSerum.ingestible.ingestReportString>
+
+  <EquineMutagenicSerum.label>马诱变血清</EquineMutagenicSerum.label>
+  <EquineMutagenicSerum.description>为用户提供马生殖器。</EquineMutagenicSerum.description>
+  <EquineMutagenicSerum.ingestible.ingestCommandString>饮料 {0}</EquineMutagenicSerum.ingestible.ingestCommandString>
+  <EquineMutagenicSerum.ingestible.ingestReportString>饮用 {0}。</EquineMutagenicSerum.ingestible.ingestReportString>
+
+  <DraconicMutagenicSerum.label>龙肉诱变血清</DraconicMutagenicSerum.label>
+  <DraconicMutagenicSerum.description>为用户提供龙类生殖器。</DraconicMutagenicSerum.description>
+  <DraconicMutagenicSerum.ingestible.ingestCommandString>喝{0}</DraconicMutagenicSerum.ingestible.ingestCommandString>
+  <DraconicMutagenicSerum.ingestible.ingestReportString>正在喝{0}。</DraconicMutagenicSerum.ingestible.ingestReportString>
+
+  <DemonicMutagenicSerum.label>恶魔诱变血清</DemonicMutagenicSerum.label>
+  <DemonicMutagenicSerum.description>给用户恶魔般的生殖器和肛门。</DemonicMutagenicSerum.description>
+  <DemonicMutagenicSerum.ingestible.ingestCommandString>饮料 {0}</DemonicMutagenicSerum.ingestible.ingestCommandString>
+  <DemonicMutagenicSerum.ingestible.ingestReportString>喝{0}。</DemonicMutagenicSerum.ingestible.ingestReportString>
+
+  <SlimeMutagenicSerum.label>史莱姆诱变血清</SlimeMutagenicSerum.label>
+  <SlimeMutagenicSerum.description>为用户提供粘液乳房、生殖器和肛门。</SlimeMutagenicSerum.description>
+  <SlimeMutagenicSerum.ingestible.ingestCommandString>饮料 {0}</SlimeMutagenicSerum.ingestible.ingestCommandString>
+  <SlimeMutagenicSerum.ingestible.ingestReportString>喝{0}。</SlimeMutagenicSerum.ingestible.ingestReportString>
+
+  <InsectoidMutagenicSerum.label>昆虫诱变血清</InsectoidMutagenicSerum.label>
+  <InsectoidMutagenicSerum.description>为用户提供产卵器和昆虫肛门。</InsectoidMutagenicSerum.description>
+  <InsectoidMutagenicSerum.ingestible.ingestCommandString>饮料 {0}</InsectoidMutagenicSerum.ingestible.ingestCommandString>
+  <InsectoidMutagenicSerum.ingestible.ingestReportString>喝{0}。</InsectoidMutagenicSerum.ingestible.ingestReportString>
+
+  <RodentMutagenicSerum.label>啮齿动物诱变血清</RodentMutagenicSerum.label>
+  <RodentMutagenicSerum.description>为用户提供啮齿动物生殖器。</RodentMutagenicSerum.description>
+  <RodentMutagenicSerum.ingestible.ingestCommandString>饮料 {0}</RodentMutagenicSerum.ingestible.ingestCommandString>
+  <RodentMutagenicSerum.ingestible.ingestReportString>喝{0}。</RodentMutagenicSerum.ingestible.ingestReportString>
+
+  <NarrowMutagenicSerum.label>窄突变血清</NarrowMutagenicSerum.label>
+  <NarrowMutagenicSerum.description>给用户狭窄的生殖器。</NarrowMutagenicSerum.description>
+  <NarrowMutagenicSerum.ingestible.ingestCommandString>饮料 {0}</NarrowMutagenicSerum.ingestible.ingestCommandString>
+  <NarrowMutagenicSerum.ingestible.ingestReportString>饮用 {0}。</NarrowMutagenicSerum.ingestible.ingestReportString>
+
+  <CloacalMutagenicSerum.label>泄殖腔诱变血清</CloacalMutagenicSerum.label>
+  <CloacalMutagenicSerum.description>为用户提供泄殖腔。</CloacalMutagenicSerum.description>
+  <CloacalMutagenicSerum.ingestible.ingestCommandString>喝{0}</CloacalMutagenicSerum.ingestible.ingestCommandString>
+  <CloacalMutagenicSerum.ingestible.ingestReportString>饮用 {0}。</CloacalMutagenicSerum.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AcuteHIV.label>急性HIV感染</AcuteHIV.label>
+  <AcuteHIV.description>一种经由性接触传播的免疫缺陷病毒.</AcuteHIV.description>
+  <AcuteHIV.stages.0.label>潜伏期</AcuteHIV.stages.0.label>
+  <AcuteHIV.stages.1.label>轻度</AcuteHIV.stages.1.label>
+  <AcuteHIV.stages.2.label>轻度</AcuteHIV.stages.2.label>
+  <AcuteHIV.stages.3.label>轻度</AcuteHIV.stages.3.label>
+  <AcuteHIV.stages.4.label>中度</AcuteHIV.stages.4.label>
+  <AcuteHIV.stages.5.label>重度</AcuteHIV.stages.5.label>
+  <AcuteHIV.stages.6.label>重度</AcuteHIV.stages.6.label>
+  <AcuteHIV.stages.7.label>重度</AcuteHIV.stages.7.label>
+  <AcuteHIV.stages.8.label>极重度</AcuteHIV.stages.8.label>
+  <AcuteHIV.stages.9.label>极重度</AcuteHIV.stages.9.label>
+
+  <ChronicHIV.label>慢性HIV感染</ChronicHIV.label>
+  <ChronicHIV.description>一种经由性接触传播的免疫缺陷病毒.</ChronicHIV.description>
+  <ChronicHIV.stages.0.label>潜伏期</ChronicHIV.stages.0.label>
+  <ChronicHIV.stages.1.label>轻度</ChronicHIV.stages.1.label>
+  <ChronicHIV.stages.2.label>轻度</ChronicHIV.stages.2.label>
+  <ChronicHIV.stages.3.label>轻度</ChronicHIV.stages.3.label>
+  <ChronicHIV.stages.4.label>中度</ChronicHIV.stages.4.label>
+  <ChronicHIV.stages.5.label>重度</ChronicHIV.stages.5.label>
+  <ChronicHIV.stages.6.label>重度</ChronicHIV.stages.6.label>
+  <ChronicHIV.stages.7.label>重度</ChronicHIV.stages.7.label>
+  <ChronicHIV.stages.8.label>极重度</ChronicHIV.stages.8.label>
+  <ChronicHIV.stages.9.label>极重度</ChronicHIV.stages.9.label>
+
+
+</LanguageData>

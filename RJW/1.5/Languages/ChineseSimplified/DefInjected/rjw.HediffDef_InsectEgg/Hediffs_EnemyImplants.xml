@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pawns with ovi's plant egg. -->
+
+  <RJW_InsectEgg.label>虫卵</RJW_InsectEgg.label>
+  <RJW_InsectEgg.description>寄生卵，进入宿主体内并以其营养为食直至孵化，很庆幸它们不会从你的胸膛钻出个洞来。</RJW_InsectEgg.description>
+
+
+  <!-- Placeholder egg/unsupported/any races -->
+
+  <RJW_UnknownEgg.label>未知的蛋</RJW_UnknownEgg.label>
+  <RJW_UnknownEgg.description>寄生卵，进入宿主体内并以其营养为食直至孵化，很庆幸它们不会从你的胸膛钻出个洞来。</RJW_UnknownEgg.description>
+
+
+  <!-- vanilla insects, can fertilize each other -->
+
+  <RJW_InsectHiveEgg.label>昆虫蜂巢卵</RJW_InsectHiveEgg.label>
+  <RJW_InsectHiveEgg.description>寄生卵，进入宿主体内并以其营养为食直至孵化，很庆幸它们不会从你的胸膛钻出个洞来。</RJW_InsectHiveEgg.description>
+
+
+</LanguageData>

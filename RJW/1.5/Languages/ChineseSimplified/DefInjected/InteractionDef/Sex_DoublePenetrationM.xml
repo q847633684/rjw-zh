@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_DoublePenetrationM.label>双洞齐插M</Sex_DoublePenetrationM.label>
+  <Sex_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry-双洞齐插了[RECIPIENT_nameDef]。M</Sex_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+  <Sex_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]双洞齐插了。M</Sex_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

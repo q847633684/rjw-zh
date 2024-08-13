@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- vanilla mechanoids. Mechs implant things. -->
+
+  <RJW_MechanoidImplant.description>放入宿主肉穴里的小型计算机。可以分析生命体征和位置数据，并将这些信息反馈给机械族的AI伪人格核心。</RJW_MechanoidImplant.description>
+
+
+  <!-- maybe re-add someday? -->
+
+  <RJW_MicroComputer.label>机械胚胎</RJW_MicroComputer.label>
+  <RJW_MicroComputer.description>放入宿主肉穴里的小型计算机。可以分析生命体征和位置数据，并将这些信息反馈给植入者。</RJW_MicroComputer.description>
+
+
+  <!-- maybe readd someday? -->
+
+</LanguageData>

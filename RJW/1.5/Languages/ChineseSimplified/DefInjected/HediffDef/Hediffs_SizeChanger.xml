@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (broken) -->
+
+  <size0.label>RJW部件尺寸设置（PC）（断开）：</size0.label>
+  <size0.description>将部件尺寸更改为：</size0.description>
+  <size0.stages.0.label>飞机场/微型</size0.stages.0.label>
+  <size0.stages.1.label>很小/紧致</size0.stages.1.label>
+  <size0.stages.2.label>平均</size0.stages.2.label>
+  <size0.stages.3.label>很大/松弛</size0.stages.3.label>
+  <size0.stages.4.label>巨大/敞口</size0.stages.4.label>
+  <size0.stages.5.label>超巨大</size0.stages.5.label>
+
+
+  <!-- For use in CE -->
+
+  <size1.label>RJW尺寸设置（CE）：飞机场/微型</size1.label>
+  <size1.description>将部件尺寸更改为：</size1.description>
+
+  <size2.label>RJW尺寸设置（CE）：很小/微型</size2.label>
+  <size2.description>将部件尺寸更改为：</size2.description>
+
+  <size3.label>RJW尺寸设置（CE）：小/紧致</size3.label>
+  <size3.description>将部件尺寸更改为：</size3.description>
+
+  <size4.label>RJW尺寸设置（CE）：平均</size4.label>
+  <size4.description>将部件尺寸更改为：</size4.description>
+
+  <size5.label>RJW尺寸设置（CE）：大/松弛</size5.label>
+  <size5.description>将部件尺寸更改为：</size5.description>
+
+  <size6.label>RJW尺寸设置（CE）：巨大/敞口</size6.label>
+  <size6.description>将部件尺寸更改为：</size6.description>
+
+  <size7.label>RJW尺寸设置（CE）：超巨大/深渊</size7.label>
+  <size7.description>将部件尺寸更改为：</size7.description>
+
+  <size8.label>RJW胸部尺寸设置（CE）：超超巨大</size8.label>
+  <size8.description>将部件尺寸更改为：</size8.description>
+
+  <size9.label>RJW胸部尺寸设置（CE）：超超超巨大</size9.label>
+  <size9.description>将部件尺寸更改为：</size9.description>
+
+  <size10.label>RJW胸部尺寸设置（CE）：超超超超巨大</size10.label>
+  <size10.description>将部件尺寸更改为：</size10.description>
+
+  <size11.label>RJW胸部尺寸设置（CE）：泰坦尼克号</size11.label>
+  <size11.description>将部件尺寸更改为：</size11.description>
+
+
+</LanguageData>

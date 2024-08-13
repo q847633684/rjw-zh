@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- S-size -->
+
+  <WAnalPlugSmall.label>小型肛塞</WAnalPlugSmall.label>
+  <WAnalPlugSmall.description>只有經過基本打磨的肛塞，長期穿戴可能不太健康，小型尺寸。</WAnalPlugSmall.description>
+  <WAnalPlugSmall.comps.0.useLabel>穿戴</WAnalPlugSmall.comps.0.useLabel>
+
+
+  <!-- M-size -->
+
+  <WAnalPlugMedium.label>中型肛塞</WAnalPlugMedium.label>
+  <WAnalPlugMedium.description>只有經過基本打磨的肛塞，長期穿戴可能不太健康，中型尺寸。</WAnalPlugMedium.description>
+  <WAnalPlugMedium.comps.0.useLabel>穿戴</WAnalPlugMedium.comps.0.useLabel>
+
+
+  <!-- L-size -->
+
+  <WAnalPlugLarge.label>大型肛塞</WAnalPlugLarge.label>
+  <WAnalPlugLarge.description>只有經過基本打磨的肛塞，長期穿戴可能不太健康，大型尺寸。</WAnalPlugLarge.description>
+  <WAnalPlugLarge.comps.0.useLabel>穿戴</WAnalPlugLarge.comps.0.useLabel>
+
+
+</LanguageData>

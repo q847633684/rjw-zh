@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--<Sex_MutualTailholding.label>尾巴交织</Sex_MutualTailholding.label>-->
+  <!--<Sex_MutualTailholding.logRulesInitiator.rulesStrings.0>r_logentry->与[RECIPIENT_nameDef]相互将尾巴交织在一起。</Sex_MutualTailholding.logRulesInitiator.rulesStrings.0>-->
+  <!--<Sex_MutualTailholding.logRulesRecipient.rulesStrings.0>r_logentry->与[INITIATOR_nameDef]相互将尾巴交织在一起。</Sex_MutualTailholding.logRulesRecipient.rulesStrings.0>-->
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <Pregnancy_Holy.label>神圣</Pregnancy_Holy.label>
+  <Pregnancy_Holy.description>怀孕是一项值得尊重的义务。女性将我们的社会带入下一代。</Pregnancy_Holy.description>
+
+  <Pregnancy_Elevated.label>升高</Pregnancy_Elevated.label>
+  <Pregnancy_Elevated.description>怀孕被认为是高尚的。</Pregnancy_Elevated.description>
+
+  <Pregnancy_NoRules.label>无所谓</Pregnancy_NoRules.label>
+  <Pregnancy_NoRules.description>没有关于怀孕的想法。</Pregnancy_NoRules.description>
+
+  <Pregnancy_Required.label>繁殖</Pregnancy_Required.label>
+  <Pregnancy_Required.description>女性应该怀孕 -那些没有怀孕的人会被视为不值得。</Pregnancy_Required.description>
+
+  <Pregnancy_Horrible.label>可怕</Pregnancy_Horrible.label>
+  <Pregnancy_Horrible.description>怀孕是不洁的。保重并保持纯洁。</Pregnancy_Horrible.description>
+
+
+</LanguageData>

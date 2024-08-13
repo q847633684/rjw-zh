@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Natural Penises -->
+
+  <Penis.label>人类阴茎</Penis.label>
+  <Penis.description>一根切下来的人类阴茎。</Penis.description>
+
+
+  <!-- Natural Vaginas -->
+
+  <Vagina.label>人类阴道</Vagina.label>
+  <Vagina.description>一个切下来的人类阴道。</Vagina.description>
+
+
+  <!-- Natural Breasts -->
+
+  <Breasts.label>人类乳房</Breasts.label>
+  <Breasts.description>一对切下来的人类乳房。</Breasts.description>
+
+
+  <!-- Natural Anuses -->
+
+  <Anus.label>人类肛门</Anus.label>
+  <Anus.description>一个切下来的人类肛门。</Anus.description>
+
+  <FeaturelessChest.label>平滑胸部</FeaturelessChest.label>
+  <FeaturelessChest.description>平滑，无特征的胸部。主要在非哺乳动物身上。</FeaturelessChest.description>
+
+
+</LanguageData>

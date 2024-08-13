@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <S16_BDSM_Harsh.label>trained harsh</S16_BDSM_Harsh.label>
+  <S16_BDSM_Harsh.description>This person was trained harsh</S16_BDSM_Harsh.description>
+  <S16_BDSM_Harsh.stages.0.label>Stage-Zero</S16_BDSM_Harsh.stages.0.label>
+  <S16_BDSM_Harsh.stages.1.label>Stage-One</S16_BDSM_Harsh.stages.1.label>
+  <S16_BDSM_Harsh.stages.2.label>Stage-Two</S16_BDSM_Harsh.stages.2.label>
+  <S16_BDSM_Harsh.stages.3.label>Stage-Three</S16_BDSM_Harsh.stages.3.label>
+  <S16_BDSM_Harsh.stages.4.label>Stage-Four</S16_BDSM_Harsh.stages.4.label>
+  <S16_BDSM_Harsh.stages.5.label>Stage-Five</S16_BDSM_Harsh.stages.5.label>
+  <S16_BDSM_Harsh.stages.6.label>Stage-Six</S16_BDSM_Harsh.stages.6.label>
+  <S16_BDSM_Harsh.stages.7.label>Stage-Seven</S16_BDSM_Harsh.stages.7.label>
+  <S16_BDSM_Harsh.stages.8.label>Stage-Eight</S16_BDSM_Harsh.stages.8.label>
+  <S16_BDSM_Harsh.stages.9.label>Stage-Nine</S16_BDSM_Harsh.stages.9.label>
+  <S16_BDSM_Harsh.stages.10.label>Stage-Ten</S16_BDSM_Harsh.stages.10.label>
+
+  <S16_BDSM_Soft.label>trained softly</S16_BDSM_Soft.label>
+  <S16_BDSM_Soft.description>This person was trained softly</S16_BDSM_Soft.description>
+  <S16_BDSM_Soft.stages.0.label>Stage-Zero</S16_BDSM_Soft.stages.0.label>
+  <S16_BDSM_Soft.stages.1.label>Stage-One</S16_BDSM_Soft.stages.1.label>
+  <S16_BDSM_Soft.stages.2.label>Stage-Two</S16_BDSM_Soft.stages.2.label>
+  <S16_BDSM_Soft.stages.3.label>Stage-Three</S16_BDSM_Soft.stages.3.label>
+  <S16_BDSM_Soft.stages.4.label>Stage-Four</S16_BDSM_Soft.stages.4.label>
+  <S16_BDSM_Soft.stages.5.label>Stage-Five</S16_BDSM_Soft.stages.5.label>
+  <S16_BDSM_Soft.stages.6.label>Stage-Six</S16_BDSM_Soft.stages.6.label>
+  <S16_BDSM_Soft.stages.7.label>Stage-Seven</S16_BDSM_Soft.stages.7.label>
+  <S16_BDSM_Soft.stages.8.label>Stage-Eight</S16_BDSM_Soft.stages.8.label>
+  <S16_BDSM_Soft.stages.9.label>Stage-Nine</S16_BDSM_Soft.stages.9.label>
+  <S16_BDSM_Soft.stages.10.label>Stage-Ten</S16_BDSM_Soft.stages.10.label>
+
+
+</LanguageData>

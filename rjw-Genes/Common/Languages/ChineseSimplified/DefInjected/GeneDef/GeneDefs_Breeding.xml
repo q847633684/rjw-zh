@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- rjw_genes_mechbreeder,rjw_genes_insectincubator and rjw_genes_insectbreeder were kindly
+  supplied by `Shabalox` https://github.com/Shabalox/RJW_Genes_Addons/ -->
+
+  <rjw_genes_mechbreeder.label>机械育种员</rjw_genes_mechbreeder.label>
+  <rjw_genes_mechbreeder.description>具有该基因的 Pawn 能够毫发无损地诞生机械生物。</rjw_genes_mechbreeder.description>
+
+  <rjw_genes_zoophile.label>动物恋者</rjw_genes_zoophile.label>
+  <rjw_genes_zoophile.description>具有该基因的异种型是动物恋者。</rjw_genes_zoophile.description>
+
+  <rjw_genes_fertile_anus.label>可育肛门</rjw_genes_fertile_anus.label>
+  <rjw_genes_fertile_anus.description>具有该基因的异种型如果不具备功能性子宫，则具有功能性子宫他们的阴道的手段。对于男性来说，它与肛腔相连并导致正常怀孕。</rjw_genes_fertile_anus.description>
+
+  <rjw_genes_insectincubator.label>昆虫孵化器</rjw_genes_insectincubator.label>
+  <rjw_genes_insectincubator.description>带有该基因的 Pawn 可以使放置在其中的昆虫卵受精。</rjw_genes_insectincubator.description>
+
+  <rjw_genes_insectbreeder.label>昆虫饲养员</rjw_genes_insectbreeder.label>
+  <rjw_genes_insectbreeder.description>带有该基因的 Pawn 能够用任何可受精的阴茎使卵子受精。</rjw_genes_insectbreeder.description>
+
+  <rjw_genes_fervent_ovipositor.label>狂热产卵器</rjw_genes_fervent_ovipositor.label>
+  <rjw_genes_fervent_ovipositor.description>具有雌性（产卵）产卵器的 Pawn 的产卵率大幅提高提高速度。</rjw_genes_fervent_ovipositor.description>
+
+  <rjw_genes_mating_call.label>交配呼叫</rjw_genes_mating_call.label>
+  <rjw_genes_mating_call.description>该基因可以召唤附近的动物并邀请它们交配。</rjw_genes_mating_call.description>
+
+  <rjw_genes_pheromone_spit.label>信息素吐</rjw_genes_pheromone_spit.label>
+  <rjw_genes_pheromone_spit.description>该基因可以标记繁殖目标，吸引附近的动物搭便车。</rjw_genes_pheromone_spit.description>
+
+  <rjw_genes_hardwired_progenity.label>硬连线后代</rjw_genes_hardwired_progenity.label>
+  <rjw_genes_hardwired_progenity.description>该基因的携带者需要繁殖。如果他们这样做，他们就会遭受负面影响
+无子嗣，如果后代数量多，能力就会增强。</rjw_genes_hardwired_progenity.description>
+
+  <rjw_genes_basic_rut.label>发情</rjw_genes_basic_rut.label>
+  <rjw_genes_basic_rut.description>该基因的携带者可以进入发情状态，导致急剧升高性活动。</rjw_genes_basic_rut.description>
+
+
+</LanguageData>

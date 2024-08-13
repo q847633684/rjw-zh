@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <whoringtab_enabled>啟用性交易介面</whoringtab_enabled>
+  <whoringtab_enabled_desc>顯示/隱藏性交易介面</whoringtab_enabled_desc>
+  <show_whore_price_factor_on_bed>床上顯示性交易價格因素</show_whore_price_factor_on_bed>
+  <show_whore_price_factor_on_bed_desc>在允許賣淫的床上顯示性交易價格因素</show_whore_price_factor_on_bed_desc>
+
+  <MoneyPrinting>印鈔票</MoneyPrinting>
+  <MoneyPrinting_desc>顧客會憑空產生白銀而非原先攜帶的白銀</MoneyPrinting_desc>
+  <ClientAlwaysAccept>取消顧客隨機拒絕</ClientAlwaysAccept>
+  <ClientAlwaysAccept_desc>顧客總是接受邀請，而非隨機拒絕</ClientAlwaysAccept_desc>
+
+  <DebugWhoring>whoring相關除錯日誌</DebugWhoring>
+  <DebugWhoring_desc>啟用一些非常繁瑣的調試日誌，以幫助查找Whoring請求操作中的錯誤。</DebugWhoring_desc>
+
+  <!--Whore Activities-->
+  <RJW_VisitorAcceptWhore>{0}接受了{1}提出的性交易。</RJW_VisitorAcceptWhore>
+  <RJW_VisitorSolicitWhore>{0}希望{1}提供性交易。</RJW_VisitorSolicitWhore>
+  <RJW_VisitorRejectWhore>{0}拒絕了{1}提出的性交易。</RJW_VisitorRejectWhore>
+  <RJW_VisitorSickWhore>{0}拒絕了性交易因為{1}看起來不健康。</RJW_VisitorSickWhore>
+
+  <!--Whore designators-->
+  <ForService>設為賣淫者</ForService>  <!-- This field is not visible -->
+  <ForServiceDesc><![CDATA[啟用勾搭：
+-會嘗試與訪客聯繫。
+-如果不忙，招待其他殖民者。
+-在工作中儘量避免自慰，可能會導致沮喪。
+]]></ForServiceDesc>
+  <ForServiceRefuseDesc>不同意進行性交易</ForServiceRefuseDesc>
+
+  <!--Bed designators-->
+  <CommandBedSetAsWhoreBedLabel>允許所有人賣淫</CommandBedSetAsWhoreBedLabel>
+  <CommandBedSetAsWhoreBedDesc>允許所有賣淫者用這張床來招待顧客。</CommandBedSetAsWhoreBedDesc>
+  <CommandBedAllowWhoringLabel>允許擁有者賣淫</CommandBedAllowWhoringLabel>
+  <CommandBedAllowWhoringDesc>是否允許擁有者用這張床賣淫。</CommandBedAllowWhoringDesc>
+  <WhorePriceCalcDesc>賣淫價格因素 (基於舒適度、房間印象及房間內的床數: {0}</WhorePriceCalcDesc>
+
+  <WhorePrice>賣淫價格區間: </WhorePrice>
+  <BrothelTabIsPrisoner>囚犯</BrothelTabIsPrisoner>
+  <BrothelTabIsSlave>奴隸</BrothelTabIsSlave>
+
+</LanguageData>

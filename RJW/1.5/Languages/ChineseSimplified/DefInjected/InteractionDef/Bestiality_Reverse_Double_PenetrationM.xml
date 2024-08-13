@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- invitation for breeding -->
+
+  <Bestiality_Reverse_Double_Penetration_M.label>动物双重插入</Bestiality_Reverse_Double_Penetration_M.label>
+  <Bestiality_Reverse_Double_Penetration_M.logRulesInitiator.rulesStrings.0>r_logentry->请求[RECIPIENT_nameDef]双重插入自己.</Bestiality_Reverse_Double_Penetration_M.logRulesInitiator.rulesStrings.0>
+  <Bestiality_Reverse_Double_Penetration_M.logRulesRecipient.rulesStrings.0>r_logentry->双重插入了[INITIATOR_nameDef].</Bestiality_Reverse_Double_Penetration_M.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

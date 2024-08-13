@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Mod strings -->
+
+  <!-- Notifications on right-clicking CP -->
+  <PawnCantRapeCP>目标不够健康或者位置不可到达。</PawnCantRapeCP>
+  <PawnCantRapeCP0>这个人不需要性交，有可能是不够健康，或者不能强奸。</PawnCantRapeCP0>
+  <PawnCantRapeCP1>这个人不是单身或者伴侣在身边。</PawnCantRapeCP1>
+  <PawnCantRapeCP2>这个人不是恋兽癖，所以不能强奸动物。</PawnCantRapeCP2>
+
+  <!--Submit button-->
+  <CommandSubmit>自我屈服</CommandSubmit>
+  <CommandSubmitDesc>躺在地上等着什么东西来上一发。</CommandSubmitDesc>
+
+  <!--Pregnancy messages-->
+  <RJW_PregnantTitle>{0}怀孕了。</RJW_PregnantTitle>
+  <RJW_PregnantText>{0}怀孕了，很快她就要做母亲了。请注意，饥饿和创伤可能会导致她失去孩子。</RJW_PregnantText>
+  <RJW_Contractions>{0}出现了宫缩，她的孩子（们）就要出生了！</RJW_Contractions>
+  <RJW_GaveBirthTitle>孩子出生了。</RJW_GaveBirthTitle>
+  <RJW_GaveBirthText>{0}已成功产出</RJW_GaveBirthText>
+  <RJW_ABaby>她的宝宝。</RJW_ABaby>
+  <RJW_NBabies>她的{0}宝宝们。</RJW_NBabies>
+  <RJW_PregnantNormal>怀上了健康的孩子……</RJW_PregnantNormal>
+  <RJW_PregnantStrange>这孩子有点不寻常……</RJW_PregnantStrange>
+  <RJW_PregnantMechStrange>孩子有点奇怪……</RJW_PregnantMechStrange>
+  <RJW_GaveBirthEggTitle>产卵</RJW_GaveBirthEggTitle>
+  <RJW_GaveBirthEggText>{0}产出了卵</RJW_GaveBirthEggText>
+  <RJW_EggContractions>{0}发生了宫缩！即将产卵！</RJW_EggContractions>
+
+  <GoToModSettings>启用选项中的功能->MOD设置</GoToModSettings>
+
+  <!--Comfort designation-->
+  <ForComfort>用于泄欲</ForComfort>
+  <ForComfortDesc>设为泄欲对象。</ForComfortDesc>
+  <ForComfortRefuseDesc>拒绝被用于泄欲。要求：受虐狂特性。</ForComfortRefuseDesc>
+
+  <!--Whore-->
+  <ForService>设为妓女</ForService>  <!-- This field is not visible -->
+  <ForServiceDesc><![CDATA[启用勾搭：
+-会尝试与访客联系。
+-如果不忙，招待其他殖民者。
+-在工作中尽量避免自慰，可能会导致沮丧。
+]]></ForServiceDesc>
+  <ForServiceRefuseDesc>拒绝做妓女。</ForServiceRefuseDesc>
+
+  <!--Breeding designations-->
+  <ForBreeding>允许动物</ForBreeding>
+  <ForBreedingDesc>设为动物配种目标。</ForBreedingDesc>
+  <ForBreedingRefuseDesc>拒绝被动物骑在身上。</ForBreedingRefuseDesc>
+
+  <ForBreedingAnimalDesc>允许这只动物骑上指定的配种目标。</ForBreedingAnimalDesc>
+
+  <BreedMessage>正试图配种</BreedMessage>
+
+  <!--Milking-->
+  <ForMilking>指定为乳汁提供者</ForMilking>
+  <ForMilkingDesc>从这个生物获得乳汁。</ForMilkingDesc>
+
+  <!--Hero-->
+  <ForHero>设为主角</ForHero>
+  <ForHeroDesc><![CDATA[将 pawn 设置为玩家角色
+-只能设置一次。
+-无法关闭。
+]]></ForHeroDesc>
+  <ForHeroRefuse1Desc>这是其他玩家的主角。</ForHeroRefuse1Desc>
+  <ForHeroRefuse2Desc>您无权更改设定。</ForHeroRefuse2Desc>
+  <ForHeroRefuseHCDesc>硬核模式下的非主角殖民者</ForHeroRefuseHCDesc>
+
+  <!-- Hediff tooltips -->
+  <RJW_hediff_braCup>罩杯: {0}</RJW_hediff_braCup>
+  <RJW_hediff_braSizeNone>胸罩尺寸：-</RJW_hediff_braSizeNone>
+  <RJW_hediff_eggs>虫卵：{0}</RJW_hediff_eggs>
+  <RJW_hediff_fluidTypeFluidAmount>{0}:{1}</RJW_hediff_fluidTypeFluidAmount>
+  <RJW_hediff_girth>周长：{0}</RJW_hediff_girth>
+  <RJW_hediff_length>长度：{0}</RJW_hediff_length>
+  <RJW_hediff_maxGirth>最大周长：{0}</RJW_hediff_maxGirth>
+  <RJW_hediff_maxLength>最大长度：{0}</RJW_hediff_maxLength>
+  <RJW_hediff_braSize>胸罩尺寸：{0}:{1}（{2}罩杯）</RJW_hediff_braSize>
+  <RJW_hediff_overbust>上胸围：{0}</RJW_hediff_overbust>
+  <RJW_hediff_underbust>下胸围：{0}</RJW_hediff_underbust>
+  <RJW_hediff_unknownSpecies>未知物种</RJW_hediff_unknownSpecies>
+  <RJW_hediff_weight>重量：{0}</RJW_hediff_weight>
+
+  <!-- RJW fertility tooltip -->
+  <AgeImpactor>年龄：</AgeImpactor>
+  <VanillaFertilityImpactor>生育力状态：{VALUE}%</VanillaFertilityImpactor>
+
+  <!-- Nymphs!!! -->
+  <RJW_nymph_incident_raid_title>流莺袭击！！！</RJW_nymph_incident_raid_title>
+  <RJW_nymph_incident_raid_description>一群流莺闯入了你的营地。</RJW_nymph_incident_raid_description>
+  <RJW_nymph_incident_wander_title>流莺访客！</RJW_nymph_incident_wander_title>
+  <RJW_nymph_incident_wander_description>一个游荡的仙女决定拜访你的居住地。</RJW_nymph_incident_wander_description>
+  <RJW_nymph_incident_join_title>流莺加入</RJW_nymph_incident_join_title>
+  <RJW_nymph_incident_join_description>一个流浪的流莺决定加入你们的营地。</RJW_nymph_incident_join_description>
+
+  <!-- Biotech integration -->
+  <PawnLacksFunctionalGenitals>{PAWN}没有可用的性器官。</PawnLacksFunctionalGenitals>
+  <PawnLacksVagina>{PAWN}没有可用的阴道。</PawnLacksVagina>
+  <PawnLacksFunctionalPenis>{PAWN}没有可用的阴茎。</PawnLacksFunctionalPenis>
+  <VaginalWeight>阴道性交机会</VaginalWeight>
+
+  <!-- Trait gain -->
+  <!-- Tip: You can easily add trait-specific versions of these two by appending the trait's defname and optionally its degree -->
+  <LetterLabelGainedTraitFromSex>获得的特质：{PAWN}</LetterLabelGainedTraitFromSex>
+  <GainedTraitFromSex>性经历导致 {PAWN} 获得了 {TRAIT} 特征。</GainedTraitFromSex>
+  <GainedTraitFromSexNymphomaniac>春药辅助的过度刺激已经永久地重新连接了 {PAWN} 的大脑.{PAWN_pronoun} 已获得 {TRAIT} 特征。</GainedTraitFromSexNymphomaniac>
+  <GainedTraitFromSexFootSlut>在 {PAWN} 中，充分享受脚感的壮举正在助长一种新的恶魔性恋物癖.{PAWN} 现已成为 {TRAIT}</GainedTraitFromSexFootSlut>
+  <LetterLabelGainedMultipleTraitsFromSex>获得的特征：{PAWN}</LetterLabelGainedMultipleTraitsFromSex>
+  <GainedMultipleTraitsFromSex>强烈的性体验使 {PAWN} 获得了以下特征：</GainedMultipleTraitsFromSex>
+  <GainedMultipleTraitsFromSexListItem> -{0}</GainedMultipleTraitsFromSexListItem>
+
+</LanguageData>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GotBredByAnimal.stages.0.label>被动物强奸</GotBredByAnimal.stages.0.label>
+  <GotBredByAnimal.stages.0.description>一只动物试图对我配种！</GotBredByAnimal.stages.0.description>
+
+  <GotAnalBredByAnimal.stages.0.label>被动物强奸屁股</GotAnalBredByAnimal.stages.0.label>
+  <GotAnalBredByAnimal.stages.0.description>我被一只动物强奸了屁股……没有比这更丢脸的了，我只想爬进洞里死。拜托，不要有人看着我……</GotAnalBredByAnimal.stages.0.description>
+
+  <MasochistGotBredByAnimal.stages.0.label>被动物强奸（受虐狂）</MasochistGotBredByAnimal.stages.0.label>
+  <MasochistGotBredByAnimal.stages.0.description>一只动物试图对我配种。我有点喜欢那样……</MasochistGotBredByAnimal.stages.0.description>
+
+  <MasochistGotAnalBredByAnimal.stages.0.label>被动物强奸屁股（受虐狂）</MasochistGotAnalBredByAnimal.stages.0.label>
+  <MasochistGotAnalBredByAnimal.stages.0.description>我被一只动物强奸了……屁股。它完全羞辱了我，在我身上发情，肆无忌惮地摧残我的屁眼，我就像是一头什么都不值得的猪……我可以习惯的。</MasochistGotAnalBredByAnimal.stages.0.description>
+
+  <ZoophileGotBredByAnimal.stages.0.label>被动物配种（恋兽癖）</ZoophileGotBredByAnimal.stages.0.label>
+  <ZoophileGotBredByAnimal.stages.0.description>一只动物和我做爱~</ZoophileGotBredByAnimal.stages.0.description>
+
+  <ZoophileGotAnalBredByAnimal.stages.0.label>被动物强奸屁股（恋兽癖）</ZoophileGotAnalBredByAnimal.stages.0.label>
+  <ZoophileGotAnalBredByAnimal.stages.0.description>那只动物把我狠狠地揍了一顿，把我变成了它的婊子……它骑在我身上，刺进我的屁股，直到它把它的种子塞满了我……让我每次想起这些就想抚摸一次自己。</ZoophileGotAnalBredByAnimal.stages.0.description>
+
+  <AllowedAnimalToBreed.stages.0.label>被动物配种</AllowedAnimalToBreed.stages.0.label>
+  <AllowedAnimalToBreed.stages.0.description>我居然欲求不满到让一只动物骑上了我，我感到很羞愧。但那还挺爽的……</AllowedAnimalToBreed.stages.0.description>
+
+  <GotLickedByAnimal.stages.0.label>被动物强奸</GotLickedByAnimal.stages.0.label>
+  <GotLickedByAnimal.stages.0.description>一只动物强行把舌头伸进我的体内。</GotLickedByAnimal.stages.0.description>
+
+  <MasochistGotLickedByAnimal.stages.0.label>被动物强奸（受虐狂）</MasochistGotLickedByAnimal.stages.0.label>
+  <MasochistGotLickedByAnimal.stages.0.description>一只动物强行把舌头伸进我的体内。但是我还蛮喜欢那样……</MasochistGotLickedByAnimal.stages.0.description>
+
+  <ZoophileGotLickedByAnimal.stages.0.label>被动物迷住了（恋兽癖）</ZoophileGotLickedByAnimal.stages.0.label>
+  <ZoophileGotLickedByAnimal.stages.0.description>一只动物为我口交，舔得我欣喜落狂！</ZoophileGotLickedByAnimal.stages.0.description>
+
+  <AllowedAnimalToLick.stages.0.label>被动物舔了</AllowedAnimalToLick.stages.0.label>
+  <AllowedAnimalToLick.stages.0.description>我让一只动物舔了我，我为自己感到羞愧，但我有点喜欢那样的……</AllowedAnimalToLick.stages.0.description>
+
+
+  <!-- Generic type for weirder animal stuff, these normally only happen if the player messes with the defaults too much -->
+
+  <GotGropedByAnimal.stages.0.label>被动物猥亵</GotGropedByAnimal.stages.0.label>
+  <GotGropedByAnimal.stages.0.description>一只动物猥亵了我！脏死了！</GotGropedByAnimal.stages.0.description>
+
+  <MasochistGotGropedByAnimal.stages.0.label>被动物猥亵（受虐狂）</MasochistGotGropedByAnimal.stages.0.label>
+  <MasochistGotGropedByAnimal.stages.0.description>一只动物猥亵了我，但我有点喜欢那样的……</MasochistGotGropedByAnimal.stages.0.description>
+
+  <ZoophileGotGropedByAnimal.stages.0.label>被动物猥亵（恋兽癖）</ZoophileGotGropedByAnimal.stages.0.label>
+  <ZoophileGotGropedByAnimal.stages.0.description>一只动物迷住了我❤</ZoophileGotGropedByAnimal.stages.0.description>
+
+  <AllowedAnimalToGrope.stages.0.label>被动物摸过</AllowedAnimalToGrope.stages.0.label>
+  <AllowedAnimalToGrope.stages.0.description>我为自己感到羞愧，我居然欲求不满到让一只动物仔细地摸了我的身体……</AllowedAnimalToGrope.stages.0.description>
+
+
+</LanguageData>

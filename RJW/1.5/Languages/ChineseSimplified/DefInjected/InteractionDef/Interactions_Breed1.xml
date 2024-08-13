@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- invitation for breeding -->
+
+  <!--<Breeding_Lick.label>交配(舔)</Breeding_Lick.label>-->
+  <!--<Breeding_Lick.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]交配(舔)。</Breeding_Lick.logRulesInitiator.rulesStrings.0>-->
+  <!--<Breeding_Lick.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]交配(舔)。</Breeding_Lick.logRulesRecipient.rulesStrings.0>-->
+
+  <!--<Breeding_Fingering.label>交配(指交)</Breeding_Fingering.label>-->
+  <!--<Breeding_Fingering.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]交配(指交)。</Breeding_Fingering.logRulesInitiator.rulesStrings.0>-->
+  <!--<Breeding_Fingering.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]交配(指交)。</Breeding_Fingering.logRulesRecipient.rulesStrings.0>-->
+
+  <!--<Breeding_OralS.label>交配(接受其用口服務)</Breeding_OralS.label>-->
+  <!--<Breeding_OralS.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]交配(用口服務)。</Breeding_OralS.logRulesInitiator.rulesStrings.0>-->
+  <!--<Breeding_OralS.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]交配(用口服務)。</Breeding_OralS.logRulesRecipient.rulesStrings.0>-->
+
+
+</LanguageData>

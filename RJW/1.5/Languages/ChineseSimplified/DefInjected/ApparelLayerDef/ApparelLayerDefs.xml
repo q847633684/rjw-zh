@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- A plugs -->
+
+  <AnalInsertableBondage.label>可插入的</AnalInsertableBondage.label>
+
+
+  <!-- V plugs -->
+
+  <VaginalInsertableBondage.label>可插入的</VaginalInsertableBondage.label>
+
+
+  <!-- C belts -->
+
+  <BeltsOnSkinBondage.label>在皮肤上</BeltsOnSkinBondage.label>
+
+
+  <!-- <ApparelLayerDef>
+		<defName>OnSkinBondage1</defName>
+		<label>Over skin</label>
+		<drawOrder>3</drawOrder>
+	</ApparelLayerDef> -->
+
+  <GagOuterBondage.label>头饰</GagOuterBondage.label>
+
+
+  <!-- chains, armbinders, etc -->
+
+  <ArmsOuterBondage.label>外面的</ArmsOuterBondage.label>
+  <LegsOuterBondage.label>外面的</LegsOuterBondage.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RepairProlapse.label>修复脱垂</RepairProlapse.label>
+  <RepairProlapse.description>修复脱垂。</RepairProlapse.description>
+  <RepairProlapse.jobString>修复脱垂。</RepairProlapse.jobString>
+  <RepairProlapse.successfullyRemovedHediffMessage>{0} 已成功修复{1}的脱垂。</RepairProlapse.successfullyRemovedHediffMessage>
+
+  <RepairExtremeProlapse.label>修复极度脱垂</RepairExtremeProlapse.label>
+  <RepairExtremeProlapse.description>手术修复脱垂。</RepairExtremeProlapse.description>
+  <RepairExtremeProlapse.jobString>修复脱垂。</RepairExtremeProlapse.jobString>
+  <RepairExtremeProlapse.successfullyRemovedHediffMessage>{0} 已成功修复{1}的脱垂.</RepairExtremeProlapse.successfullyRemovedHediffMessage>
+
+
+</LanguageData>

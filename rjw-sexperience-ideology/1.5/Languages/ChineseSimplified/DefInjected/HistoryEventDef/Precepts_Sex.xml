@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Issues -->
+
+  <RSI_VaginalSex.label>阴道性交</RSI_VaginalSex.label>
+  <RSI_AnalSex.label>肛交</RSI_AnalSex.label>
+  <RSI_OralSex.label>口交</RSI_OralSex.label>
+  <RSI_PromiscuousSex.label>乱交</RSI_PromiscuousSex.label>
+  <RSI_MiscSex.label>性别</RSI_MiscSex.label>
+
+
+  <!--<RSI_PromisceousSex.label>乱交</RSI_PromisceousSex.label>-->
+
+</LanguageData>

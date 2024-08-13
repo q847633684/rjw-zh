@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 注意：非常重要的是，rjw_genes_gender 比其他基因具有更高的优先级
+       这样它们就会按照正确的顺序运行。
+       如果性别改变发生在例如之后生殖器发生变化，就会产生错误。
+
+       一般订单：
+       1. 性别
+       2. 生殖器类型
+       3.额外的生殖器
+       4. 生殖器尺寸
+       5、其他 -->
+
+  <rjw_genes_gender.label>性别</rjw_genes_gender.label>
+  <rjw_genes_genitalia_type.label>化妆品 -生殖器类型</rjw_genes_genitalia_type.label>
+  <rjw_genes_genitalia_extras.label>生殖器数量</rjw_genes_genitalia_extras.label>
+  <rjw_genes_genitalia_size.label>生殖器尺寸/属性</rjw_genes_genitalia_size.label>
+  <rjw_genes_fertilin.label>生育素</rjw_genes_fertilin.label>
+  <rjw_genes_breeding.label>育种</rjw_genes_breeding.label>
+  <rjw_genes_cum.label>精液</rjw_genes_cum.label>
+  <rjw_genes_damage.label>生殖器相关损伤</rjw_genes_damage.label>
+  <rjw_genes_special.label>基于生殖器的特殊能力</rjw_genes_special.label>
+  <rjw_genes_diseases.label>遗传性性传播疾病</rjw_genes_diseases.label>
+
+
+  <!-- Note: It is very important that rjw_genes_gender has a higher priority than the other genes
+       That way they run in the correct order.
+       If the Gender Change happens after e.g. genitalia change, it will produce errors.
+
+       General Order:
+       1. Gender
+       2. Genitalia Types
+       3. Extra Genitalia
+       4. Genitalia Sizes
+       5. Others -->
+
+</LanguageData>

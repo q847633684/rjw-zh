@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- left for save compatibility(for now), use glowy ones -->
+
+  <RJW_EggUnfertilized.label>卵（未受精）</RJW_EggUnfertilized.label>
+  <RJW_EggUnfertilized.description>未受精的卵。</RJW_EggUnfertilized.description>
+
+  <RJW_EggFertilized.label>卵（受精）</RJW_EggFertilized.label>
+  <RJW_EggFertilized.description>受精的卵。</RJW_EggFertilized.description>
+
+
+  <!-- Insect eggs / enemy implant -->
+
+  <RJW_EggInsectUnfertilized.label>虫卵（未受精）</RJW_EggInsectUnfertilized.label>
+  <RJW_EggInsectUnfertilized.description>未受精的虫卵。</RJW_EggInsectUnfertilized.description>
+
+  <RJW_EggInsectFertilized.label>虫卵（受精）</RJW_EggInsectFertilized.label>
+  <RJW_EggInsectFertilized.description>受精的虫卵。</RJW_EggInsectFertilized.description>
+
+  <RJW_EggOrassanFertilized.label>奥拉桑蛋(带来.)</RJW_EggOrassanFertilized.label>
+  <RJW_EggOrassanFertilized.description>受精的奥拉桑蛋，覆盖着毛皮。</RJW_EggOrassanFertilized.description>
+
+</LanguageData>

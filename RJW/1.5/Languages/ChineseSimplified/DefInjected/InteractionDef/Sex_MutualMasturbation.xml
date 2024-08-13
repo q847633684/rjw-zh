@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_MutualMasturbation.label>相互手淫</Sex_MutualMasturbation.label>
+  <Sex_MutualMasturbation.logRulesInitiator.rulesStrings.0>r_logentry->与[RECIPIENT_nameDef]相互手淫。</Sex_MutualMasturbation.logRulesInitiator.rulesStrings.0>
+  <Sex_MutualMasturbation.logRulesRecipient.rulesStrings.0>r_logentry->与[INITIATOR_nameDef]相互手淫。</Sex_MutualMasturbation.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CB_BrothelColony.label>妓院殖民地</CB_BrothelColony.label>
+  <CB_BrothelColony.description>这节经文中最古老的贸易。对某些人来说甚至可能是神圣的义务。\n\n信息：神圣而必要的卖淫是一项义务。使用强制妓女戒律来选择为谁服务。\n\n神圣卖淫解锁了一种新的支付类型，神圣热情，可用于购买神圣能力</CB_BrothelColony.description>
+  <CB_BrothelColony.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;诱人的</li>
+    <li>memeAdjective-&gt;嫖娼</li>
+    <li>memeAdjective-&gt;邀请</li>
+    <li>memeAdjective-&gt;美丽</li>
+    <li>memeAdjective-&gt;郁郁葱葱</li>
+    <li>memeAdjective-&gt;诱人</li>
+    <li>memeAdjective-&gt;诱人</li>
+    <li>memeLeaderNoun-&gt;妓女</li>
+    <li>memeLeaderNoun-&gt;妓女</li>
+    <li>memeLeaderNoun-&gt;女士</li>
+    <li>memeLeaderNoun-&gt;诱惑</li>
+    <li>memeLeaderNoun-&gt;妓女</li>
+    <li>memeLeaderNoun-&gt;勾引者</li>
+    <li>memeConcept-&gt;嫖娼</li>
+    <li>memeConcept-&gt;卖淫</li>
+    <li>memeConcept-&gt;妓院</li>
+    <li>memeConcept-&gt;诱惑</li>
+    <li>memeLeaderAdjective-&gt;诱人</li>
+    <li>memeLeaderAdjective-&gt;美丽</li>
+    <li>memeLeaderAdjective-&gt;诱人</li>
+    <li>memeLeaderAdjective-&gt;郁郁葱葱</li>
+    <li>memeLeaderAdjective-&gt;诱人</li>
+  </CB_BrothelColony.generalRules.rulesStrings>
+  <CB_BrothelColony.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_CB_BrothelColony) -&gt;[deity0_name] 告诉我们与他人分享尸体并接受他们的礼物作为回报。</CB_BrothelColony.descriptionMaker.rules.rulesStrings.0>
+  <CB_BrothelColony.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_CB_BrothelColony) -&gt;多年来，[founderName] 为 [deity0_objective] 担任寺庙妓女。</CB_BrothelColony.descriptionMaker.rules.rulesStrings.1>
+  <CB_BrothelColony.symbolPacks.0.adjective>卖淫</CB_BrothelColony.symbolPacks.0.adjective>
+  <CB_BrothelColony.symbolPacks.1.adjective>嫖娼</CB_BrothelColony.symbolPacks.1.adjective>
+  <CB_BrothelColony.symbolPacks.2.adjective>妓女</CB_BrothelColony.symbolPacks.2.adjective>
+
+
+</LanguageData>

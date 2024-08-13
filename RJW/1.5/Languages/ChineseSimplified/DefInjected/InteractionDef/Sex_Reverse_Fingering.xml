@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_Reverse_Fingering.label>指交</Sex_Reverse_Fingering.label>
+  <Sex_Reverse_Fingering.logRulesInitiator.rulesStrings.0>r_logentry->用手指抚弄了[RECIPIENT_nameDef]的阴道。</Sex_Reverse_Fingering.logRulesInitiator.rulesStrings.0>
+  <Sex_Reverse_Fingering.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]用手指抚弄了阴道。</Sex_Reverse_Fingering.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

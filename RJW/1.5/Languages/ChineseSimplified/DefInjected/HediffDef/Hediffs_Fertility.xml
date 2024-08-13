@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_IUD.label>节育环</RJW_IUD.label>
+  <RJW_IUD.description>一种插入子宫防止怀孕的加铜的银色小装置，可将怀孕几率降低99%。</RJW_IUD.description>
+
+  <IncreasedFertility.label>高生育能力</IncreasedFertility.label>
+  <IncreasedFertility.description>为生儿育女提高生育能力。</IncreasedFertility.description>
+
+  <DecreasedFertility.label>低生育能力</DecreasedFertility.label>
+  <DecreasedFertility.description>低生育能力。</DecreasedFertility.description>
+
+  <ImpregnationBlocker.label>远古绝育器</ImpregnationBlocker.label>
+  <ImpregnationBlocker.description>阻止卵巢产卵的复杂装置。</ImpregnationBlocker.description>
+
+  <FertilityEnhancer.label>远古生育增强器</FertilityEnhancer.label>
+  <FertilityEnhancer.description>增加怀孕几率的复杂装置。</FertilityEnhancer.description>
+
+
+</LanguageData>

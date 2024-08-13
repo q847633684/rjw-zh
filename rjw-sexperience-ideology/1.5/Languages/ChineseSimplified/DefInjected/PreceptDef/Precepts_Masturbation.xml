@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <Masturbation_Abhorrent.label>令人厌恶</Masturbation_Abhorrent.label>
+  <Masturbation_Abhorrent.description>手淫是不可接受的。</Masturbation_Abhorrent.description>
+
+  <Masturbation_Disapproved.label>未批准</Masturbation_Disapproved.label>
+  <Masturbation_Disapproved.description>手淫有点可耻。</Masturbation_Disapproved.description>
+
+
+</LanguageData>

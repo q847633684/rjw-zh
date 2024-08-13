@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Consumable item -->
+
+  <HumpShroomEffect.stages.0.label>驼峰菇回味</HumpShroomEffect.stages.0.label>
+  <HumpShroomEffect.stages.0.description>这味道太有意思了。</HumpShroomEffect.stages.0.description>
+
+
+  <!-- Ambrosia addiction -->
+
+  <HumpShroomWithdrawal.stages.1.label>驼峰菇渴求</HumpShroomWithdrawal.stages.1.label>
+  <HumpShroomWithdrawal.stages.1.description>我下面什么都感觉不到。</HumpShroomWithdrawal.stages.1.description>
+
+
+</LanguageData>

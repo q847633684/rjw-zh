@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Plugged.label>束縛</Plugged.label>
+  <Plugged.description>束縛著。</Plugged.description>
+  <Plugged.stages.0.label>很鬆</Plugged.stages.0.label>
+  <Plugged.stages.1.label>舒適</Plugged.stages.1.label>
+  <Plugged.stages.2.label>有點緊</Plugged.stages.2.label>
+  <Plugged.stages.3.label>很緊</Plugged.stages.3.label>
+  <Plugged.stages.4.label>超緊</Plugged.stages.4.label>
+
+
+</LanguageData>

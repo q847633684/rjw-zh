@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_animal_inheritance_settings_enabled_key>已启用</rjw_genes_animal_inheritance_settings_enabled_key>
+  <rjw_genes_animal_inheritance_settings_enabled_explanation>如果切换，动物怀孕将尝试继承基因。</rjw_genes_animal_inheritance_settings_enabled_explanation>
+
+  <rjw_genes_animal_inheritance_settings_chance_key></rjw_genes_animal_inheritance_settings_chance_key>
+  <rjw_genes_animal_inheritance_settings_chance_explanation></rjw_genes_animal_inheritance_settings_chance_explanation>
+
+  <rjw_genes_animal_inheritance_settings_added_as_xenogene_key>基因作为异种</rjw_genes_animal_inheritance_settings_added_as_xenogene_key>
+  <rjw_genes_animal_inheritance_settings_added_as_xenogene_explanation>如果打开，动物基因将作为异种基因添加。</rjw_genes_animal_inheritance_settings_added_as_xenogene_explanation>
+
+  <rjw_genes_animal_inheritance_settings_ve_genetics_hybridization_key>启用 VE 遗传学杂交</rjw_genes_animal_inheritance_settings_ve_genetics_hybridization_key>
+  <rjw_genes_animal_inheritance_settings_ve_genetics_hybridization_explanation>如果启用并且您有 VE 遗传学，它将启用杂交系统。</rjw_genes_animal_inheritance_settings_ve_genetics_hybridization_explanation>
+
+  <rjw_genes_animal_inheritance_settings_detailed_debug_key></rjw_genes_animal_inheritance_settings_detailed_debug_key>
+  <rjw_genes_animal_inheritance_settings_detailed_debug_explanation></rjw_genes_animal_inheritance_settings_detailed_debug_explanation>
+
+</LanguageData>

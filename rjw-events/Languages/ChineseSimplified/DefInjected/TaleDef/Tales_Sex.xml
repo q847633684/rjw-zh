@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AttendedOrgy.label>参加了群交</AttendedOrgy.label>
+  <AttendedOrgy.rulePack.rulesStrings.0>tale_noun->[ATTENDER_nameDef] 参加了 [ORGANIZER_nameDef] 组织的群交</AttendedOrgy.rulePack.rulesStrings.0>
+  <AttendedOrgy.rulePack.rulesStrings.1>tale_noun->[ATTENDER_nameDef] 在 [ORGANIZER_nameDef] 组织的群交活动中和 [ORGANIZER_nameDef] 本人做爱</AttendedOrgy.rulePack.rulesStrings.1>
+  <AttendedOrgy.rulePack.rulesStrings.2>image->[ATTENDER_nameFull] 和 [ORGANIZER_nameFull] 深入探讨[circumstance_group]</AttendedOrgy.rulePack.rulesStrings.2>
+  <AttendedOrgy.rulePack.rulesStrings.3>image->[ATTENDER_nameFull] 接过了 [ORGANIZER_nameFull] 递上来的饮料[circumstance_group]</AttendedOrgy.rulePack.rulesStrings.3>
+  <AttendedOrgy.rulePack.rulesStrings.4>image->[ATTENDER_nameFull] 和 [ORGANIZER_nameFull] 交谈[circumstance_group]</AttendedOrgy.rulePack.rulesStrings.4>
+  <AttendedOrgy.rulePack.rulesStrings.5>image->[ORGANIZER_nameFull] 欢迎了 [ATTENDER_nameFull] [circumstance_group]</AttendedOrgy.rulePack.rulesStrings.5>
+  <AttendedOrgy.rulePack.rulesStrings.6>image->[ORGANIZER_nameFull] 把 [ATTENDER_nameFull] 介绍给一个朋友[circumstance_group]</AttendedOrgy.rulePack.rulesStrings.6>
+  <AttendedOrgy.rulePack.rulesStrings.7>circumstance_phrase->，一边咧开嘴笑。</AttendedOrgy.rulePack.rulesStrings.7>
+  <AttendedOrgy.rulePack.rulesStrings.8>circumstance_phrase->，一边大笑。</AttendedOrgy.rulePack.rulesStrings.8>
+  <AttendedOrgy.rulePack.rulesStrings.9>circumstance_phrase->，一边 [AdjectiveFriendly] 地笑。</AttendedOrgy.rulePack.rulesStrings.9>
+  <AttendedOrgy.rulePack.rulesStrings.10>circumstance_phrase->，一边放声发笑。</AttendedOrgy.rulePack.rulesStrings.10>
+  <AttendedOrgy.rulePack.rulesStrings.11>circumstance_phrase->，一边 [AdjectiveFriendly]</AttendedOrgy.rulePack.rulesStrings.11>
+  <AttendedOrgy.rulePack.rulesStrings.12>desc_sentence->[Quantity_adjphrase] [PersonJob] 参与了讨论。</AttendedOrgy.rulePack.rulesStrings.12>
+  <AttendedOrgy.rulePack.rulesStrings.13>desc_sentence->四周被装点成 [Color] 和 [Color] 的颜色。</AttendedOrgy.rulePack.rulesStrings.13>
+  <AttendedOrgy.rulePack.rulesStrings.14>desc_sentence->[Quantity_adjphrase] [Animal] 在附近玩耍。</AttendedOrgy.rulePack.rulesStrings.14>
+
+
+</LanguageData>

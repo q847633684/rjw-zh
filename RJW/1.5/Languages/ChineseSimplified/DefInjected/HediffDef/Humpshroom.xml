@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Consumable item -->
+
+  <HumpShroomEffect.label>催情</HumpShroomEffect.label>
+  <HumpShroomEffect.description>驼峰菇催情效果。</HumpShroomEffect.description>
+  <HumpShroomEffect.stages.lingering.label>挥之不去</HumpShroomEffect.stages.lingering.label>
+  <HumpShroomEffect.stages.mild.label>温和的</HumpShroomEffect.stages.mild.label>
+  <HumpShroomEffect.stages.moderate.label>缓和</HumpShroomEffect.stages.moderate.label>
+  <HumpShroomEffect.stages.high.label>高的</HumpShroomEffect.stages.high.label>
+
+  <!-- Ambrosia addiction -->
+
+  <HumpShroomTolerance.label>驼峰菇耐受</HumpShroomTolerance.label>
+  <HumpShroomTolerance.description>驼峰菇效果耐受。</HumpShroomTolerance.description>
+  <HumpShroomTolerance.stages.0.label>小的</HumpShroomTolerance.stages.0.label>
+  <HumpShroomTolerance.stages.1.label>大的</HumpShroomTolerance.stages.1.label>
+  <HumpShroomTolerance.stages.2.label>大量的</HumpShroomTolerance.stages.2.label>
+
+  <HumpShroomAddiction.label>驼峰菇成瘾</HumpShroomAddiction.label>
+  <HumpShroomAddiction.description>驼峰菇效果成瘾。</HumpShroomAddiction.description>
+  <HumpShroomAddiction.stages.1.label>未满足</HumpShroomAddiction.stages.1.label>
+
+
+  <!--<HumpShroomTolerance.stages.0.label>弱</HumpShroomTolerance.stages.0.label>-->
+  <!--<HumpShroomTolerance.stages.1.label>弱</HumpShroomTolerance.stages.1.label>-->
+  <!--<HumpShroomTolerance.stages.2.label>强</HumpShroomTolerance.stages.2.label>-->
+  <!--<HumpShroomTolerance.stages.3.label>极强</HumpShroomTolerance.stages.3.label>-->
+
+</LanguageData>

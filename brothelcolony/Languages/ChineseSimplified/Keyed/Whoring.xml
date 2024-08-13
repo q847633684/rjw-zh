@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <whoringtab_enabled>启用 嫖娼 选项卡</whoringtab_enabled>
+  <whoringtab_enabled_desc>显示/隐藏妓女标签</whoringtab_enabled_desc>
+  <show_whore_price_factor_on_bed>显示床上妓女价格因素</show_whore_price_factor_on_bed>
+  <show_whore_price_factor_on_bed_desc>在启用妓女功能的床上将妓女价格因素显示为标签。</show_whore_price_factor_on_bed_desc>
+  <show_whore_widgets_on_bed>显示床小部件</show_whore_widgets_on_bed>
+  <show_whore_widgets_on_bed_desc>显示床小部件以标记公共/私人妓女床。</show_whore_widgets_on_bed_desc>
+
+  <MoneyPrinting>金钱印刷</MoneyPrinting>
+  <MoneyPrinting_desc>客户将生成银币，而不是使用自己的/商队</MoneyPrinting_desc>
+
+  <MinimumPrice>最低价格</MinimumPrice>
+  <MinimumPrice_desc>如果客户无法全额付款，这是您的妓女可接受的最低价格</MinimumPrice_desc>
+  <PriceMultiplier>价格乘数</PriceMultiplier>
+  <PriceMultiplier_desc>默认 1. 妓女价格乘数</PriceMultiplier_desc>
+
+  <AcceptanceLower>接受，下边界</AcceptanceLower>
+  <AcceptanceLower_desc>默认 0.05。如果客户对你的妓女的评价高于这两个边界之间的随机数，则他会接受.</AcceptanceLower_desc>
+
+  <AcceptanceUpper>接受，上限</AcceptanceUpper>
+  <AcceptanceUpper_desc>默认 1。如果客户对你的妓女的评价高于这两个边界之间的随机数，则客户接受.</AcceptanceUpper_desc>
+
+  <ClientAlwaysAccept>客户端 RNG 禁用</ClientAlwaysAccept>
+  <ClientAlwaysAccept_desc>客户端总是接受请求，而不是进行滚滚。</ClientAlwaysAccept_desc>
+
+  <DebugWhoring>调试日志妓女信息</DebugWhoring>
+  <DebugWhoring_desc>启用一些非常垃圾的调试日志，以帮助查找 嫖娼 招揽操作中的错误。</DebugWhoring_desc>
+
+  <!--Whore Activities-->
+  <RJW_VisitorAcceptWhore>{0}接受了{1}提供的交易。</RJW_VisitorAcceptWhore>
+  <RJW_VisitorSolicitWhore>{0} 希望由 {1} 提供服务。</RJW_VisitorSolicitWhore>
+  <RJW_VisitorRejectWhore>{0}拒绝了{1}提供的交易。</RJW_VisitorRejectWhore>
+  <RJW_VisitorSickWhore>{0} 拒绝了该优惠，因为 {1} 看起来不健康</RJW_VisitorSickWhore>
+
+  <!--Whore designators-->
+  <ForService>分配给 whorin'</ForService>
+  <!-- This field is not visible -->
+  <ForServiceDesc>标记为嫖娼
+-将尽力招揽访客。
+-如果不忙的话，招待其他殖民者。
+-在工作中试图避免手淫可能会导致沮丧。
+</ForServiceDesc>
+  <ForServiceRefuseDesc>不同意当妓女</ForServiceRefuseDesc>
+
+  <!--Bed designators-->
+  <CommandBedSetAsWhoreBedLabel>允许所有人妓女</CommandBedSetAsWhoreBedLabel>
+  <CommandBedSetAsWhoreBedDesc>允许所有妓女使用这张床来招待顾客。</CommandBedSetAsWhoreBedDesc>
+  <CommandBedAllowWhoringLabel>允许所有者妓女</CommandBedAllowWhoringLabel>
+  <CommandBedAllowWhoringDesc>是否允许所有者使用此床进行嫖宿。</CommandBedAllowWhoringDesc>
+  <WhorePriceCalcDesc>嫖娼价格因素（基于舒适度、房间印象和房间床位数量：{0}</WhorePriceCalcDesc>
+
+  <WhorePrice>嫖娼价格范围：</WhorePrice>
+  <BrothelTabIsPrisoner>囚犯</BrothelTabIsPrisoner>
+  <BrothelTabIsSlave>奴隶</BrothelTabIsSlave>
+
+
+
+  <!--Repopulationist-->
+  <CB_AskToTakeLetterLabel>访问者请求 {0}</CB_AskToTakeLetterLabel>
+  <CB_CannotSendAwayLordLeft>{0} 不再在这里</CB_CannotSendAwayLordLeft>
+  <CB_AskToTakeLetterDescription>来自 {2} 的访客已抵达.{0} 是他们的 a 成员之一 {1} 的父亲。\n\n我们的任务是重新填充这个世界，他们现在要求带走 {0}。\n\n</CB_AskToTakeLetterDescription>
+  <CB_AskToTakeLetterDescriptionMotherWarning>\n\n母亲，{0}，{1}</CB_AskToTakeLetterDescriptionMotherWarning>
+  <CB_AskToTakeLetterNothingPaid>{0} 已加入 {1}，并会在他们加入后离开。</CB_AskToTakeLetterNothingPaid>
+  <CB_AskToTakeLetterSilverPaid>{0} 已支付 {1} 的 {2}.{2} 已加入他们，他们加入后就会离开。</CB_AskToTakeLetterSilverPaid>
+  <CB_AskToTakeLetterFavourPaid>{0} 已加入 {1}，并将在他们加入后离开。你们的关系已改善了 {2}。</CB_AskToTakeLetterFavourPaid>
+  <CB_AskToTakeLetterFervorPaid>{0} 已加入 {1}，并将在他们加入后离开。您获得了 {2} 热情。</CB_AskToTakeLetterFervorPaid>
+  <CB_AskToTakeLetterRefused>{0} 对拒绝感到不安。关系已降低{3}。他们将在 {2} 天后再次索要 {1}。</CB_AskToTakeLetterRefused>
+
+  <CB_SetToLeaveLetterLabel>{0}重新填充</CB_SetToLeaveLetterLabel>
+  <CB_SetToLeaveLetterDescription>
+	 {0} 的父亲是 {2} 的成员 {1}。\n\n我们的任务是重新填充这个世界，现在必须决定孩子是否应该准备加入下一组路过的 {2}他们自己，或者他们是否应该先询问。
+	 \n\n{0}自动离开吗？
+	 </CB_SetToLeaveLetterDescription>
+  <CB_SetToLeaveLetterDescription0>\n我们坚信这是我们的职责。</CB_SetToLeaveLetterDescription0>
+  <CB_SetToLeaveLetterDescription1>\n{0}将感谢我们的善意。</CB_SetToLeaveLetterDescription1>
+  <CB_SetToLeaveLetterDescription2>\n通常我们这样做是为了白银。</CB_SetToLeaveLetterDescription2>
+  <CB_SetToLeaveLetterYes>{0} 将自动加入来自 {1}的下一组访问者</CB_SetToLeaveLetterYes>
+  <CB_SetToLeaveLetterAsk>来自{0}的访客将询问是否可以携带{1}</CB_SetToLeaveLetterAsk>
+
+
+
+  <!--妓女活动-->
+  <!--妓女指示符-->
+  <!--该字段不可见 -->
+  <!--床位指示符-->
+
+</LanguageData>

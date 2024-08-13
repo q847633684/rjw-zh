@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_Scissoring.label>剪刀腿</Sex_Scissoring.label>
+  <Sex_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->和[RECIPIENT_nameDef]以剪刀腿的姿势磨豆腐。</Sex_Scissoring.logRulesInitiator.rulesStrings.0>
+  <Sex_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->和[INITIATOR_nameDef]以剪刀腿的姿势磨豆腐。</Sex_Scissoring.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

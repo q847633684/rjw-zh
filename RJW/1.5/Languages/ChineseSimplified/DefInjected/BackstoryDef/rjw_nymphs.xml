@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_vatgrown_sex_slave.title>人造人性奴</rjw_vatgrown_sex_slave.title>
+  <rjw_vatgrown_sex_slave.titleShort>性奴</rjw_vatgrown_sex_slave.titleShort>
+  <rjw_vatgrown_sex_slave.baseDesc>[PAWN_nameDef]被塑造成一个性爱玩具、而非作为人类长大。在[PAWN_possessive]成长期中，[PAWN_pronoun]被灌输了很多与性爱有关的技能和社交技能，以满足其主人的需求。</rjw_vatgrown_sex_slave.baseDesc>
+  <rjw_vatgrown_sex_slave.description>[PAWN_nameDef]被塑造成一个性爱玩具、而非作为人类长大。在[PAWN_possessive]成长期中，[PAWN_pronoun]被灌输了很多与性爱有关的技能和社交技能，以满足其主人的需求。</rjw_vatgrown_sex_slave.description>
+  
+  <rjw_feisty.title>活泼流莺</rjw_feisty.title>
+  <rjw_feisty.titleShort>流莺</rjw_feisty.titleShort>
+  <rjw_feisty.baseDesc>[PAWN_nameDef]生来便渴望征服，若是你在[PAWN_possessive]索求时敢说不，便会对你重拳出击。</rjw_feisty.baseDesc>
+  <rjw_feisty.description>[PAWN_nameDef]生来便渴望征服，若是你在[PAWN_possessive]索求时敢说不，便会对你重拳出击。</rjw_feisty.description>
+
+  <rjw_curious.title>好奇流莺</rjw_curious.title>
+  <rjw_curious.titleShort>流莺</rjw_curious.titleShort>
+  <rjw_curious.baseDesc>[PAWN_nameDef]喜欢制造各种东西，尤其是能提供新鲜体验的东西。</rjw_curious.baseDesc>
+  <rjw_curious.description>[PAWN_nameDef]喜欢制造各种东西，尤其是能提供新鲜体验的东西。</rjw_curious.description>
+
+  <rjw_tender.title>温婉流莺</rjw_tender.title>
+  <rjw_tender.titleShort>流莺</rjw_tender.titleShort>
+  <rjw_tender.baseDesc>[PAWN_nameDef]有着一双动人的眼睛，并且[PAWN_possessive]的声音绵软甜美。由于[PAWN_possessive]之前从事的护士工作，[PAWN_pronoun]可以很好的照料人们。</rjw_tender.baseDesc>
+  <rjw_tender.description>[PAWN_nameDef]有着一双动人的眼睛，并且[PAWN_possessive]的声音绵软甜美。由于[PAWN_possessive]之前从事的护士工作，[PAWN_pronoun]可以很好的照料人们。</rjw_tender.description>
+
+
+  <rjw_chatty.title>健谈流莺</rjw_chatty.title>
+  <rjw_chatty.titleShort>流莺</rjw_chatty.titleShort>
+  <rjw_chatty.baseDesc>没有人比 [PAWN_nameDef] 更健谈。 [PAWN_pronoun] 舌头灵活，头脑敏锐，嘴唇火辣。</rjw_chatty.baseDesc>
+  <rjw_chatty.description>没有人比 [PAWN_nameDef] 更健谈。 [PAWN_pronoun] 舌头灵活，头脑敏锐，嘴唇火辣。</rjw_chatty.description>
+
+
+  <rjw_broken.title>崩坏流莺</rjw_broken.title>
+  <rjw_broken.titleShort>流莺</rjw_broken.titleShort>
+  <rjw_broken.baseDesc>[PAWN_nameDef]遭受了一些可怕的事情，[PAWN_pronoun]看起来相当憔悴。</rjw_broken.baseDesc>
+  <rjw_broken.description>[PAWN_nameDef]遭受了一些可怕的事情，[PAWN_pronoun]看起来相当憔悴。</rjw_broken.description>
+
+  <rjw_homekeeper.title>管家流莺</rjw_homekeeper.title>
+  <rjw_homekeeper.titleShort>流莺</rjw_homekeeper.titleShort>
+  <rjw_homekeeper.baseDesc>[PAWN_nameDef] 接受过管家培训。您想吃晚饭吗？洗澡？或者也许...[PAWN_possessive]？</rjw_homekeeper.baseDesc>
+  <rjw_homekeeper.description>[PAWN_nameDef] 接受过管家培训。您想吃晚饭吗？洗澡？或者也许...[PAWN_possessive]？</rjw_homekeeper.description>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hediff_Submitting.label>摆烂</Hediff_Submitting.label>
+  <Hediff_Submitting.description>无所谓了，所以开始摆烂了。</Hediff_Submitting.description>
+
+
+  <!-- prevents 10 job stacks error, also improves performance since we don't do all the rape checks -->
+
+  <Hediff_RapeEnemyCD.label>强奸敌人冷却时间</Hediff_RapeEnemyCD.label>
+  <Hediff_RapeEnemyCD.description>“下一个是谁？”</Hediff_RapeEnemyCD.description>
+
+
+  <!-- prevents 10 job stacks error, also improves perfomance since we dont do all the rape checks -->
+  <!-- prevents 10 job stacks error -->
+
+</LanguageData>

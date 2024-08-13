@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MilkFullnessMilk>牛奶饱满度</MilkFullnessMilk>
+  <MilkFullnessMilkBottles>瓶子</MilkFullnessMilkBottles>
+
+  <MilkableColonists.settings>RJW -可挤奶的殖民者-生物技术</MilkableColonists.settings>
+
+  <MilkableColonists.breastGrowthDisabled>禁用乳房生长</MilkableColonists.breastGrowthDisabled>
+  <MilkableColonists.breastGrowthDisabledDesc>默认值：关闭。能够防止乳房因产奶或挤奶而生长。它们仍然可以通过药物或其他方式改变大小。</MilkableColonists.breastGrowthDisabledDesc>
+
+  <MilkableColonists.forceCapMaxBreastSize>最大乳房尺寸</MilkableColonists.forceCapMaxBreastSize>
+  <MilkableColonists.forceCapMaxBreastSizeDesc>默认值：打开。如果启用此功能，乳房大小将被限制为您在下面设置的值。</MilkableColonists.forceCapMaxBreastSizeDesc>
+
+  <MilkableColonists.breastGrowthMaxSize>乳房生长最大尺寸</MilkableColonists.breastGrowthMaxSize>
+  <MilkableColonists.breastGrowthMaxSizeDesc>默认 1。您可以将其设置得更高，并且根据您的 mods，它可能会正确显示。大于这个数字的乳房将会缩小到这个数字.（以防万一你搞砸了并需要修复某些东西。）</MilkableColonists.breastGrowthMaxSizeDesc>
+
+  <MilkableColonists.flatChestGivesMilk>平胸产奶</MilkableColonists.flatChestGivesMilk>
+  <MilkableColonists.flatChestGivesMilkDesc>默认：关闭（平胸没有产奶空间）；启用最低产奶量。</MilkableColonists.flatChestGivesMilkDesc>
+
+  <MilkableColonists.ignoreReproductiveStage>DEBUG：忽略生殖阶段</MilkableColonists.ignoreReproductiveStage>
+  <MilkableColonists.ignoreReproductiveStageDesc>默认：关闭。仅当您的比赛中繁殖阶段设置不正确时才启用。</MilkableColonists.ignoreReproductiveStageDesc>
+
+  <MilkableColonists.enableDebugLogging>DEBUG：记录挤奶事件</MilkableColonists.enableDebugLogging>
+  <MilkableColonists.enableDebugLoggingDesc>默认值：关闭。在控制台中显示挤奶结果。</MilkableColonists.enableDebugLoggingDesc>
+
+  <MilkableColonists.enableDebugLoggingMilkGrowth>DEBUG：记录牛奶增益。垃圾邮件</MilkableColonists.enableDebugLoggingMilkGrowth>
+  <MilkableColonists.enableDebugLoggingMilkGrowthDesc>默认值：关闭。显示每个刻度的个人牛奶收益。垃圾邮件。</MilkableColonists.enableDebugLoggingMilkGrowthDesc>
+
+  <MilkableColonists.enableMilkDrip>牛奶满时滴水</MilkableColonists.enableMilkDrip>
+  <MilkableColonists.enableMilkDripDesc>默认：打开。当饱足度高于 100% 时将牛奶滴到地上</MilkableColonists.enableMilkDripDesc>
+
+  <MilkableColonists.enabledMilkDripAmount>满时滴牛奶 -饱满度</MilkableColonists.enabledMilkDripAmount>
+  <MilkableColonists.enabledMilkDripAmountDesc>默认 100%：牛奶开始滴到地上之前需要什么饱腹度。</MilkableColonists.enabledMilkDripAmountDesc>
+
+  <MilkableColonists.enableDebugFillButton>DEBUG：显示填充牛奶调试按钮</MilkableColonists.enableDebugFillButton>
+  <MilkableColonists.enableDebugFillButtonDesc>默认值：关闭。在 pawn 上显示调试按钮以立即填充其牛奶量。</MilkableColonists.enableDebugFillButtonDesc>
+
+  <MilkableColonists.enableLessInteruptions>调试/测试：减少工作中断。</MilkableColonists.enableLessInteruptions>
+  <MilkableColonists.enableLessInteruptionsDesc>默认：打开。挤奶和母乳喂养只会阻止其他棋子在移动/睡觉/自由时进行工作。其他作业应继续不间断。</MilkableColonists.enableLessInteruptionsDesc>
+
+
+  <MilkableColonists.adultBreastfeedNutritionModAmount>成人母乳喂养营养乘数</MilkableColonists.adultBreastfeedNutritionModAmount>
+  <MilkableColonists.adultBreastfeedNutritionModAmountDesc>默认 5：母乳喂养的营养通常非常低。它将乘以这个数量，这样你的小动物在母乳喂养时就不会挨饿.1 = 婴儿食物量。</MilkableColonists.adultBreastfeedNutritionModAmountDesc>
+
+  <MilkableColonists.fullnessHungerAmount>母乳喂养：母乳喂养所需的饥饿水平</MilkableColonists.fullnessHungerAmount>
+  <MilkableColonists.fullnessHungerAmountDesc>默认 50%：成年 pawn 不会考虑母乳喂养，直到饥饿值低于此水平。尽早让小卒母乳喂养变得更高。如果设置太低，他们可能会吃食物。</MilkableColonists.fullnessHungerAmountDesc>
+
+  <MilkableColonists.fullnessMilkBreastfeedAmount>母乳喂养：所需饱腹感量</MilkableColonists.fullnessMilkBreastfeedAmount>
+  <MilkableColonists.fullnessMilkBreastfeedAmountDesc>默认 100%：Pawn 不会成为成人母乳喂养的目标，直到其饱腹感至少达到此数量。</MilkableColonists.fullnessMilkBreastfeedAmountDesc>
+
+  <MilkableColonists.fullnessMilkBottleAmount>挤奶：所需的饱满度</MilkableColonists.fullnessMilkBottleAmount>
+  <MilkableColonists.fullnessMilkBottleAmountDesc>默认 120%：Pawn 不会成为挤奶到瓶子中的目标，直到其填充度至少达到此数量。</MilkableColonists.fullnessMilkBottleAmountDesc>
+
+  <MilkableColonists.fullnessMilkSelfAmount>Milk Self：所需的饱满度</MilkableColonists.fullnessMilkSelfAmount>
+  <MilkableColonists.fullnessMilkSelfAmountDesc>默认 150%：Pawn 将无法自行挤奶到瓶子中，直到其填充度至少达到此数量。</MilkableColonists.fullnessMilkSelfAmountDesc>
+
+  <MilkableColonists.fullnessMilkMachineAmount>挤奶站的自产奶：需要饱满度</MilkableColonists.fullnessMilkMachineAmount>
+  <MilkableColonists.fullnessMilkMachineAmountDesc>默认 140%：Pawn 将无法在挤奶站自行挤奶，直到其饱足度至少达到此值。</MilkableColonists.fullnessMilkMachineAmountDesc>
+
+  <MilkableColonists.workSpeedMult>工作速度/数量乘数</MilkableColonists.workSpeedMult>
+  <MilkableColonists.workSpeedMultDesc>默认 1：这是一个乘数，用于加速此 mod 提供的不同工作。每个动作你都会挤更多的奶或喝更多的牛奶。我对拥有大量资产的典当要花多长时间感到不耐烦。</MilkableColonists.workSpeedMultDesc>
+
+  <MilkableColonists.breastMilkModifierHydraulic>人造乳房：液压：乳汁量调节剂</MilkableColonists.breastMilkModifierHydraulic>
+  <MilkableColonists.breastMilkModifierHydraulicDesc>默认 50%：在基础 RJW 液压乳房中不产奶。在 MC 中进行了更新，以便他们可以。您可以在此处调整它们相对于真实乳房生成的百分比。</MilkableColonists.breastMilkModifierHydraulicDesc>
+
+  <MilkableColonists.breastMilkModifierBionic>人造乳房：仿生：乳量调节剂</MilkableColonists.breastMilkModifierBionic>
+  <MilkableColonists.breastMilkModifierBionicDesc>默认 75%：在基础 RJW 仿生乳房中不产奶。在 MC 中进行了更新，以便他们可以。您可以在此处调整它们相对于真实乳房生成的百分比。</MilkableColonists.breastMilkModifierBionicDesc>
+
+  <MilkableColonists.breastMilkModifierArchotech>人造乳房：Archotech：乳量调节剂</MilkableColonists.breastMilkModifierArchotech>
+  <MilkableColonists.breastMilkModifierArchotechDesc>默认 125%：在基础 RJW Archotech 乳房中，产奶量与普通乳房相同.MC 已更新，所以制作稍微多一些。由于这些是超高科技，我将滑块设置得比其他滑块更高。</MilkableColonists.breastMilkModifierArchotechDesc>
+
+  <MilkableColonists.lactPermHungerRateOffset>LactMax 饥饿补偿因子</MilkableColonists.lactPermHungerRateOffset>
+  <MilkableColonists.lactPermHungerRateOffsetDesc>默认 40%：永久 LactMax Hediff 时饥饿条下降的速度有多快。</MilkableColonists.lactPermHungerRateOffsetDesc>
+
+  <MilkableColonists.lactHeavyPermHungerRateOffset>Hyper-LactMax 饥饿补偿因子</MilkableColonists.lactHeavyPermHungerRateOffset>
+  <MilkableColonists.lactHeavyPermHungerRateOffsetDesc>默认 80%：永久 Hyper-LactMax Hediff 下饥饿条下降的速度有多快。</MilkableColonists.lactHeavyPermHungerRateOffsetDesc>
+
+  <MilkableColonists.fertilityFactorOverride>哺乳生育因子覆盖</MilkableColonists.fertilityFactorOverride>
+  <MilkableColonists.fertilityFactorOverrideDesc>默认 5%：Biotech 哺乳期的生育力设置为多少。</MilkableColonists.fertilityFactorOverrideDesc>
+
+
+  <MilkTableMain_Designators>组</MilkTableMain_Designators>
+
+  <!--debug fill milk button-->
+  <DebugFillMilkGizmoLabel>调试：填充牛奶</DebugFillMilkGizmoLabel>
+  <DebugFillMilkGizmoDesc>将牛奶饱满度设置为 150%</DebugFillMilkGizmoDesc>
+
+
+</LanguageData>

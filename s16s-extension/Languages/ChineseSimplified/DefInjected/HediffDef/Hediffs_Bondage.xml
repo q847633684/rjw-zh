@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <S16_ChainHarnessAHed.label>鎖鏈挽具</S16_ChainHarnessAHed.label>
+  <S16_ChainHarnessAHed.description>Heavy chain harness on</S16_ChainHarnessAHed.description>
+  <S16_ChainHarnessAHed.stages.0.label>Just put on</S16_ChainHarnessAHed.stages.0.label>
+  <S16_ChainHarnessAHed.stages.1.label>Getting used to it</S16_ChainHarnessAHed.stages.1.label>
+  <S16_ChainHarnessAHed.stages.2.label>Comfortable</S16_ChainHarnessAHed.stages.2.label>
+
+
+</LanguageData>

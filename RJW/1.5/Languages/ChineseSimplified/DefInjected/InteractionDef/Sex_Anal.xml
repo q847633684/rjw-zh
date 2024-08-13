@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_Anal.label>肛交</Sex_Anal.label>
+  <Sex_Anal.logRulesInitiator.rulesStrings.0>r_logentry->与[RECIPIENT_nameDef]发生肛交。</Sex_Anal.logRulesInitiator.rulesStrings.0>
+  <Sex_Anal.logRulesRecipient.rulesStrings.0>r_logentry->与[INITIATOR_nameDef]发生肛交。</Sex_Anal.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

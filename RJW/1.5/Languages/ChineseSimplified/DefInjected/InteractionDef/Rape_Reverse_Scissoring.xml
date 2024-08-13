@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_Reverse_Scissoring.label>强行剪刀腿</Rape_Reverse_Scissoring.label>
+  <Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->用剪刀腿粗暴地和[RECIPIENT_nameDef]磨豆腐，并问道“剪刀脚呀，怕了吗？”。</Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]用剪刀腿粗暴地磨豆腐，什么脚？</Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

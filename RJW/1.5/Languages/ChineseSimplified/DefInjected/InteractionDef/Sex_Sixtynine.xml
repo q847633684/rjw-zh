@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_Sixtynine.label>69</Sex_Sixtynine.label>
+  <Sex_Sixtynine.logRulesInitiator.rulesStrings.0>r_logentry->和[RECIPIENT_nameDef]以69的姿势做爱。</Sex_Sixtynine.logRulesInitiator.rulesStrings.0>
+  <Sex_Sixtynine.logRulesRecipient.rulesStrings.0>r_logentry->和[INITIATOR_nameDef]以69的姿势做爱。</Sex_Sixtynine.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

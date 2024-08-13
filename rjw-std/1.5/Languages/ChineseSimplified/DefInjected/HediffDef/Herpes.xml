@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Herpes.label>疱疹</Herpes.label>
+  <Herpes.description>一种经由性接触传播的生殖器溃疡.</Herpes.description>
+  <Herpes.stages.0.label>轻度</Herpes.stages.0.label>
+  <Herpes.stages.1.label>中度</Herpes.stages.1.label>
+  <Herpes.stages.2.label>重度</Herpes.stages.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Penis -->
+
+  <rjw_genes_no_cum.label>没有精液</rjw_genes_no_cum.label>
+  <rjw_genes_no_cum.description>这些物种的雄性没有液体。</rjw_genes_no_cum.description>
+
+  <rjw_genes_much_cum.label>精液很多</rjw_genes_much_cum.label>
+  <rjw_genes_much_cum.description>该物种的雄性会产生大量液体。</rjw_genes_much_cum.description>
+
+  <rjw_genes_very_much_cum.label>非常多精液</rjw_genes_very_much_cum.label>
+  <rjw_genes_very_much_cum.description>该物种的雄性会产生大量液体。他们就像喷泉一样基本上。</rjw_genes_very_much_cum.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- part of HIV -->
+
+  <Immunodeficiency.label>免疫缺陷</Immunodeficiency.label>
+  <Immunodeficiency.description>易受疾病感染.</Immunodeficiency.description>
+  <Immunodeficiency.stages.0.label>轻微</Immunodeficiency.stages.0.label>
+  <Immunodeficiency.stages.1.label>重度</Immunodeficiency.stages.1.label>
+  <Immunodeficiency.stages.2.label>极重度</Immunodeficiency.stages.2.label>
+
+
+</LanguageData>

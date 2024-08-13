@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simple prosthetic privates -->
+
+  <PegDick.label>假阴茎</PegDick.label>
+  <PegDick.labelNoun>假阴茎</PegDick.labelNoun>
+  <PegDick.description>一根木制阳具，被设计用来代替断掉的阴茎（小心木刺）</PegDick.description>
+  <PegDick.stages.0.label>微型</PegDick.stages.0.label>
+  <PegDick.stages.1.label>很小</PegDick.stages.1.label>
+  <PegDick.stages.2.label>平均</PegDick.stages.2.label>
+  <PegDick.stages.3.label>大</PegDick.stages.3.label>
+  <PegDick.stages.4.label>巨大</PegDick.stages.4.label>
+  <PegDick.stages.5.label>超大</PegDick.stages.5.label>
+
+  <HydraulicPenis.label>液压阴茎</HydraulicPenis.label>
+  <HydraulicPenis.labelNoun>液压阴茎</HydraulicPenis.labelNoun>
+  <HydraulicPenis.description>一个假阴茎，冰冷的金属，内置流体输送系统，通过液压变大。</HydraulicPenis.description>
+  <HydraulicPenis.stages.0.label>微型</HydraulicPenis.stages.0.label>
+  <HydraulicPenis.stages.1.label>很小</HydraulicPenis.stages.1.label>
+  <HydraulicPenis.stages.2.label>平均</HydraulicPenis.stages.2.label>
+  <HydraulicPenis.stages.3.label>大</HydraulicPenis.stages.3.label>
+  <HydraulicPenis.stages.4.label>巨大</HydraulicPenis.stages.4.label>
+  <HydraulicPenis.stages.5.label>超大</HydraulicPenis.stages.5.label>
+
+  <HydraulicVagina.label>液压阴道</HydraulicVagina.label>
+  <HydraulicVagina.labelNoun>液压阴道</HydraulicVagina.labelNoun>
+  <HydraulicVagina.description>一个假阴道，它使用简单的液压系统来模拟正常阴道的紧密度，被它冰冷地裹住让人很不舒服，不过有着很强的吸力。</HydraulicVagina.description>
+  <HydraulicVagina.stages.0.label>微型</HydraulicVagina.stages.0.label>
+  <HydraulicVagina.stages.1.label>紧致</HydraulicVagina.stages.1.label>
+  <HydraulicVagina.stages.2.label>平均</HydraulicVagina.stages.2.label>
+  <HydraulicVagina.stages.3.label>松弛</HydraulicVagina.stages.3.label>
+  <HydraulicVagina.stages.4.label>敞口</HydraulicVagina.stages.4.label>
+  <HydraulicVagina.stages.5.label>深渊</HydraulicVagina.stages.5.label>
+
+  <HydraulicBreasts.label>液压乳房</HydraulicBreasts.label>
+  <HydraulicBreasts.labelNoun>液压乳房</HydraulicBreasts.labelNoun>
+  <HydraulicBreasts.description>一对并不好看的假体乳房，锥形的金属结构增加了泵送功能，可以biubiu地射你朋友一身。</HydraulicBreasts.description>
+  <HydraulicBreasts.stages.0.label>飞机场</HydraulicBreasts.stages.0.label>
+  <HydraulicBreasts.stages.1.label>很小</HydraulicBreasts.stages.1.label>
+  <HydraulicBreasts.stages.2.label>小</HydraulicBreasts.stages.2.label>
+  <HydraulicBreasts.stages.3.label>平均</HydraulicBreasts.stages.3.label>
+  <HydraulicBreasts.stages.4.label>大</HydraulicBreasts.stages.4.label>
+  <HydraulicBreasts.stages.5.label>巨大</HydraulicBreasts.stages.5.label>
+  <HydraulicBreasts.stages.6.label>超巨大</HydraulicBreasts.stages.6.label>
+  <HydraulicBreasts.stages.7.label>超超巨大</HydraulicBreasts.stages.7.label>
+  <HydraulicBreasts.stages.8.label>超超超巨大</HydraulicBreasts.stages.8.label>
+  <HydraulicBreasts.stages.9.label>超超超超巨大</HydraulicBreasts.stages.9.label>
+  <HydraulicBreasts.stages.10.label>泰坦尼克号</HydraulicBreasts.stages.10.label>
+
+  <HydraulicAnus.label>液压肛门</HydraulicAnus.label>
+  <HydraulicAnus.labelNoun>液压肛门</HydraulicAnus.labelNoun>
+  <HydraulicAnus.description>一个假肛门，用简单的液压装置来收紧，被它冰冷地裹住让人很不舒服，不过有着很强的吸力。</HydraulicAnus.description>
+  <HydraulicAnus.stages.0.label>微型</HydraulicAnus.stages.0.label>
+  <HydraulicAnus.stages.1.label>紧致</HydraulicAnus.stages.1.label>
+  <HydraulicAnus.stages.2.label>平均</HydraulicAnus.stages.2.label>
+  <HydraulicAnus.stages.3.label>松弛</HydraulicAnus.stages.3.label>
+  <HydraulicAnus.stages.4.label>敞口</HydraulicAnus.stages.4.label>
+  <HydraulicAnus.stages.5.label>深渊</HydraulicAnus.stages.5.label>
+
+
+  <!-- Bionic privates -->
+
+  <BionicPenis.label>仿生阴茎</BionicPenis.label>
+  <BionicPenis.labelNoun>仿生阴茎</BionicPenis.labelNoun>
+  <BionicPenis.description>高科技的人造阴茎，功能包括：
+-可调整大小，适合各式各样的阴道。
+-超过50种不同的振动模式，包括10种科学已知最刺激的波形。
+-最先进的神经系统链接让你感受你从未享受过的快感。</BionicPenis.description>
+  <BionicPenis.stages.0.label>微型</BionicPenis.stages.0.label>
+  <BionicPenis.stages.1.label>很小</BionicPenis.stages.1.label>
+  <BionicPenis.stages.2.label>平均</BionicPenis.stages.2.label>
+  <BionicPenis.stages.3.label>大</BionicPenis.stages.3.label>
+  <BionicPenis.stages.4.label>巨型</BionicPenis.stages.4.label>
+  <BionicPenis.stages.5.label>超大</BionicPenis.stages.5.label>
+
+  <BionicVagina.label>仿生阴道</BionicVagina.label>
+  <BionicVagina.labelNoun>仿生阴道</BionicVagina.labelNoun>
+  <BionicVagina.description>一个高科技的人造阴道，功能包括：
+-内部排列有1.5亿个微G点。
+-使用内部压力传感器来适应任何阴茎的大小、速度和压力。
+-使用硼石墨润滑液进行自动润滑，平滑但不粘连（包括可切换的粘性，防止您陷入其中）</BionicVagina.description>
+  <BionicVagina.stages.0.label>微型</BionicVagina.stages.0.label>
+  <BionicVagina.stages.1.label>紧致</BionicVagina.stages.1.label>
+  <BionicVagina.stages.2.label>平均</BionicVagina.stages.2.label>
+  <BionicVagina.stages.3.label>松弛</BionicVagina.stages.3.label>
+  <BionicVagina.stages.4.label>敞口</BionicVagina.stages.4.label>
+  <BionicVagina.stages.5.label>深渊</BionicVagina.stages.5.label>
+
+  <BionicBreasts.label>仿生乳房</BionicBreasts.label>
+  <BionicBreasts.labelNoun>仿生乳房</BionicBreasts.labelNoun>
+  <BionicBreasts.description>一个高科技的人造乳房，功能包括：
+-调整到任何你需要的大小。</BionicBreasts.description>
+  <BionicBreasts.stages.0.label>飞机场</BionicBreasts.stages.0.label>
+  <BionicBreasts.stages.1.label>很小</BionicBreasts.stages.1.label>
+  <BionicBreasts.stages.2.label>小</BionicBreasts.stages.2.label>
+  <BionicBreasts.stages.3.label>平均</BionicBreasts.stages.3.label>
+  <BionicBreasts.stages.4.label>大</BionicBreasts.stages.4.label>
+  <BionicBreasts.stages.5.label>巨大</BionicBreasts.stages.5.label>
+  <BionicBreasts.stages.6.label>超巨大</BionicBreasts.stages.6.label>
+  <BionicBreasts.stages.7.label>超超巨大</BionicBreasts.stages.7.label>
+  <BionicBreasts.stages.8.label>超超超巨大</BionicBreasts.stages.8.label>
+  <BionicBreasts.stages.9.label>超超超超巨大</BionicBreasts.stages.9.label>
+  <BionicBreasts.stages.10.label>泰坦尼克号</BionicBreasts.stages.10.label>
+
+  <BionicAnus.label>仿生肛门</BionicAnus.label>
+  <BionicAnus.labelNoun>仿生肛门</BionicAnus.labelNoun>
+  <BionicAnus.description>一个高科技的人造肛门，功能包括：
+-调整到任何你需要的大小。
+-使用硼石墨润滑液进行自动润滑，平滑但不粘连（包括可切换的粘性，防止您陷入其中）</BionicAnus.description>
+  <BionicAnus.stages.0.label>微型</BionicAnus.stages.0.label>
+  <BionicAnus.stages.1.label>紧致</BionicAnus.stages.1.label>
+  <BionicAnus.stages.2.label>平均</BionicAnus.stages.2.label>
+  <BionicAnus.stages.3.label>松弛</BionicAnus.stages.3.label>
+  <BionicAnus.stages.4.label>敞口</BionicAnus.stages.4.label>
+  <BionicAnus.stages.5.label>深渊</BionicAnus.stages.5.label>
+
+
+  <!-- Archotech -->
+
+  <ArchotechPenis.label>超凡科技阴茎</ArchotechPenis.label>
+  <ArchotechPenis.description>一根由超凡科技打造的人工阴茎。
+-它的刺激能力在各种性行为中都是无与伦比的。
+-它不仅能够改变颜色，纹理，长度与形状以达到为所有孔洞提供完美的刺激的能力。
+-它可以比塑钢还硬且具有自我修复能力。
+-它能与身体无缝连接，且直接连接到神经系统，极大地增强了所有者的耐力与性能力使得欢愉无限延长。
+-由人工智能控制的震动与定制的信息素相结合，确保每一次性行为都能成为一次难忘的体验。
+它的内部运作原理对所有人来说都是一个谜。</ArchotechPenis.description>
+  <ArchotechPenis.stages.0.label>微型</ArchotechPenis.stages.0.label>
+  <ArchotechPenis.stages.1.label>很小</ArchotechPenis.stages.1.label>
+  <ArchotechPenis.stages.2.label>平均</ArchotechPenis.stages.2.label>
+  <ArchotechPenis.stages.3.label>大</ArchotechPenis.stages.3.label>
+  <ArchotechPenis.stages.4.label>巨大</ArchotechPenis.stages.4.label>
+  <ArchotechPenis.stages.5.label>超巨大</ArchotechPenis.stages.5.label>
+
+  <ArchotechVagina.label>超凡科技阴道</ArchotechVagina.label>
+  <ArchotechVagina.description>一条由超凡科技打造的人工阴道。
+-它与它的肉质原型如出一辙，但它的特性使其完美的代替了它柔弱的有机原版。
+-顶尖的润滑、伸缩性以及自我修复能力使其能够轻松承受任何插入物体，并允许任何类型的后代通过而不会发生特殊情况.
+-它能与身体无缝连接并且对拥有对大多数已知性病的免疫能力。
+-卓越的灵敏度，温度调节以及费洛蒙能满足任何类型的对象。
+它的内部运作原理对所有人来说都是一个谜。</ArchotechVagina.description>
+  <ArchotechVagina.stages.0.label>微型</ArchotechVagina.stages.0.label>
+  <ArchotechVagina.stages.1.label>紧致</ArchotechVagina.stages.1.label>
+  <ArchotechVagina.stages.2.label>平均</ArchotechVagina.stages.2.label>
+  <ArchotechVagina.stages.3.label>松弛</ArchotechVagina.stages.3.label>
+  <ArchotechVagina.stages.4.label>敞口</ArchotechVagina.stages.4.label>
+  <ArchotechVagina.stages.5.label>深渊</ArchotechVagina.stages.5.label>
+
+  <ArchotechBreasts.label>超凡科技乳房</ArchotechBreasts.label>
+  <ArchotechBreasts.description>一对由超凡科技打造的人工乳房。
+-它们能变成任何你想要的形状，在任何时候都不会妨碍佩戴者。
+-它们的表面比任何自然皮肤都要顺滑，想要弄坏它比破坏塑钢还要困难并拥有自我修复能力。
+它们的内部运作原理对所有人来说都是一个谜。</ArchotechBreasts.description>
+  <ArchotechBreasts.stages.0.label>飞机场</ArchotechBreasts.stages.0.label>
+  <ArchotechBreasts.stages.1.label>很小</ArchotechBreasts.stages.1.label>
+  <ArchotechBreasts.stages.2.label>小</ArchotechBreasts.stages.2.label>
+  <ArchotechBreasts.stages.3.label>平均</ArchotechBreasts.stages.3.label>
+  <ArchotechBreasts.stages.4.label>大</ArchotechBreasts.stages.4.label>
+  <ArchotechBreasts.stages.5.label>巨大</ArchotechBreasts.stages.5.label>
+  <ArchotechBreasts.stages.6.label>超巨大</ArchotechBreasts.stages.6.label>
+  <ArchotechBreasts.stages.7.label>超超巨大</ArchotechBreasts.stages.7.label>
+  <ArchotechBreasts.stages.8.label>超超超巨大</ArchotechBreasts.stages.8.label>
+  <ArchotechBreasts.stages.9.label>超超超超巨大</ArchotechBreasts.stages.9.label>
+  <ArchotechBreasts.stages.10.label>泰坦尼克号</ArchotechBreasts.stages.10.label>
+
+  <ArchotechAnus.label>超凡科技肛门</ArchotechAnus.label>
+  <ArchotechAnus.description>一个由超凡科技打造的人工肛门。
+-它从外形上难以和自然肛门区分。
+-无与伦比的强度和自我修复的特性使其几乎不可能被破坏。
+它的内部运作原理对所有人来说都是一个谜。</ArchotechAnus.description>
+  <ArchotechAnus.stages.0.label>微型</ArchotechAnus.stages.0.label>
+  <ArchotechAnus.stages.1.label>紧致</ArchotechAnus.stages.1.label>
+  <ArchotechAnus.stages.2.label>平均</ArchotechAnus.stages.2.label>
+  <ArchotechAnus.stages.3.label>松弛</ArchotechAnus.stages.3.label>
+  <ArchotechAnus.stages.4.label>敞口</ArchotechAnus.stages.4.label>
+  <ArchotechAnus.stages.5.label>深渊</ArchotechAnus.stages.5.label>
+
+
+</LanguageData>

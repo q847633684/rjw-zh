@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_Fisting.label>拳交强奸</Rape_Fisting.label>
+  <Rape_Fisting.logRulesInitiator.rulesStrings.0>将拳头粗暴地插进了[RECIPIENT_nameDef]的阴道并说道“给你来一拳！”</Rape_Fisting.logRulesInitiator.rulesStrings.0>
+  <Rape_Fisting.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]用拳头粗暴地插入了阴道，这是什么拳法？</Rape_Fisting.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

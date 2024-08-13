@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Issues -->
+
+  <RSI_CloseRelativeMarriage.label>近亲结婚</RSI_CloseRelativeMarriage.label>
+  <RSI_IncestuosMarriage.label>乱伦婚姻</RSI_IncestuosMarriage.label>
+  <RSI_NonIncestuosMarriage.label>非乱伦婚姻</RSI_NonIncestuosMarriage.label>
+  <RSI_CloseRelativeSex.label>近亲之间的性行为</RSI_CloseRelativeSex.label>
+  <RSI_IncestuosSex.label>乱伦性</RSI_IncestuosSex.label>
+  <RSI_NonIncestuosSex.label>非乱伦性行为</RSI_NonIncestuosSex.label>
+
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- targetsBodyPart>true</targetsBodyPart -->
+
+  <Sterilization.label>绝育</Sterilization.label>
+  <Sterilization.description>在不切除生殖器的情况下阻止生育。</Sterilization.description>
+  <Sterilization.jobString>绝育。</Sterilization.jobString>
+
+
+  <!-- IUD Surgery -->
+
+  <RJW_InstallIUD.label>安装节育环</RJW_InstallIUD.label>
+  <RJW_InstallIUD.description>大大降低了99%的怀孕几率，可随时移除。</RJW_InstallIUD.description>
+  <RJW_InstallIUD.jobString>安装节育环。</RJW_InstallIUD.jobString>
+
+  <RJW_RemovelIUD.label>移除节育环</RJW_RemovelIUD.label>
+  <RJW_RemovelIUD.description>移除节育环后可恢复生育。</RJW_RemovelIUD.description>
+  <RJW_RemovelIUD.jobString>移除节育环。</RJW_RemovelIUD.jobString>
+
+  <InstallPegArm.label>安装钉臂</InstallPegArm.label>
+  <InstallPegArm.description>安装钉臂。</InstallPegArm.description>
+  <InstallPegArm.jobString>安装钉臂。</InstallPegArm.jobString>
+
+
+  <!-- targetsBodyPart>真的</targetsBodyPart -->
+
+</LanguageData>

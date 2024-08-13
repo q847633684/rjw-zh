@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_Handjob.label>手交</Sex_Handjob.label>
+  <Sex_Handjob.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]用手撸了一发。</Sex_Handjob.logRulesInitiator.rulesStrings.0>
+  <Sex_Handjob.logRulesRecipient.rulesStrings.0>r_logentry->用手给[INITIATOR_nameDef]撸了一发。</Sex_Handjob.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <BabyFaction_AlwaysMother.label>永远是妈妈（默认）</BabyFaction_AlwaysMother.label>
+  <BabyFaction_AlwaysMother.description>刚出生的婴儿总是追随母亲的派系和意识形态。</BabyFaction_AlwaysMother.description>
+
+  <BabyFaction_AlwaysFather.label>永远是父亲</BabyFaction_AlwaysFather.label>
+  <BabyFaction_AlwaysFather.description>新生婴儿总是追随父亲的派系和意识形态（如果存在）。</BabyFaction_AlwaysFather.description>
+
+  <BabyFaction_AlwaysColony.label>始终殖民地</BabyFaction_AlwaysColony.label>
+  <BabyFaction_AlwaysColony.description>新生婴儿始终是玩家的派系和意识形态。</BabyFaction_AlwaysColony.description>
+
+
+</LanguageData>

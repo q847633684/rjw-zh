@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<loadFolders>
+	<default>
+		<li>1.5</li>
+			<li IfModActive="rim.job.world">RJW/1.5</li>
+			<li IfModActive="rjw.cum">rjw-cum/1.5</li>
+			<li IfModActive="rjw.std">rjw-std/1.5</li>
+			<li IfModActive="rjw.fc">rjw-fc/1.5</li>
+			<!--sexperience -->
+			<li IfModActive="rjw.sexperience">rjw-Sexperience</li>
+			<li IfModActive="rjw.sexperience">rjw-Sexperience/1.5</li>
+			<li IfModActive="vanillaexpanded.skills">rjw-sexperience/Mod Compatibility/Vanilla Skills Expanded</li>
+			<li IfModActive="rjw.cum">rjw-sexperience/Mod Compatibility/1.5/RJW Cum</li>
+			<!--sexperience-ideology -->
+			<li IfModActive="rjw.sexperience.ideology">rjw-sexperience-ideology</li>
+			<li IfModActive="rjw.sexperience.ideology">rjw-sexperience-ideology/1.5</li>
+			<li IfModActive="rjw.milk.humanoid">rjw-mc/1.5</li>
+			<li IfModActive="rjw.menstruation">rjw-menstruation/1.5</li>
+			<li IfModActive="vegapnk.rjw.genes">rjw-Genes</li>
+			<li IfModActive="vegapnk.rjw.genes">rjw-Genes/Common</li>
+			<li IfModActive="vanillaracesexpanded.android">rjw-Genes/Mods/Android</li>
+			<li IfModActive="vanillaracesexpanded.genie">rjw-Genes/Mods/Genie</li>
+			<li IfModActive="LustLicentia.rjwlabs">rjw-Genes/Mods/LicentiaLabs</li>
+			<li IfModNotActive="asmr.rjw.racesupport">rjw-Genes/Mods/NotRaceSupport</li>
+			<li IfModActive="rjw.sexperience">rjw-Genes/Mods/Sexperience</li>
+			<li IfModActive="VanillaExpanded.VGeneticsE">rjw-Genes/Mods/VE_Genetics</li>
+			<li IfModActive="c0ffee.rjw.ideologyaddons">C0ffeeRIA</li>
+			<li IfModActive="rjw.milk.humanoid">C0ffeeRIA/CRIALactation</li>
+			<li IfModActive="rjw.milk.humanoid">C0ffeeRIA/CRIALactation/1.5</li>
+			<li IfModActive="c0ffee.rjw.events">C0ffeeRIA/CRIAOrgy</li>
+			<li IfModActive="c0ffee.rjw.events">rjw-events</li>
+			<li IfModActive="cryptidfarmer.stripper">StripperPole/1.5</li>
+			<li IfModActive="abscon.privacy.please">privacyplease</li>
+			<li IfModActive="abscon.privacy.please">privacyplease/1.5</li>
+			<!-- 未翻译 -->
+			<li IfModActive="rjw.dirtytalk">Dirty Talk</li>
+			<!--
+			<li IfModActive="lustlicentia.rjwlabs">licentialabs</li> 拉伸
+			<li IfModActive="calamabanana.rjw.brothelcolony">brothelcolony</li> 妓院殖民地
+			<li IfModActive="rjw.whoring">rjw-whoring</li> 嫖妓
+			<li IfModActive="Ed86.rjwia">rjw-ia</li>	交互插件
+			<li IfModActive="rimworld.ekss.rjwex">rjw-ex</li> 扩展机器
+			<li IfModActive="s16.core">s16s-extension</li>
+			<li IfModActive="s16.milk">s16s-extension-milk-economy</li>
+			-->
+	</default>
+</loadFolders>

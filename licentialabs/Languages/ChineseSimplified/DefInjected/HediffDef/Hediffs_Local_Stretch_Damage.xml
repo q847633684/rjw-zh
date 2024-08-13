@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Prolapse.label>脱垂</Prolapse.label>
+  <Prolapse.description>这个孔口的内部已经暂时被翻出来，露出了柔软的内层肉。亲密活动可能会暂时困难。</Prolapse.description>
+  <Prolapse.stages.0.label>恢复中</Prolapse.stages.0.label>
+  <Prolapse.stages.1.label>疼痛</Prolapse.stages.1.label>
+  <Prolapse.labelNoun>脱垂</Prolapse.labelNoun>
+
+  <ExtremeProlapse.label>脱垂</ExtremeProlapse.label>
+  <ExtremeProlapse.description>这个孔口的内部已经可怕地翻出来，露出了柔软的内层肉。除非通过手术修复，否则可能无法进行亲密活动。</ExtremeProlapse.description>
+  <ExtremeProlapse.stages.0.label>需要手术</ExtremeProlapse.stages.0.label>
+  <ExtremeProlapse.labelNoun>极度脱垂</ExtremeProlapse.labelNoun>
+
+  <StretchTear.label>撕裂</StretchTear.label>
+  <StretchTear.description>使用大型穿透性物体插入较小的孔口会导致痛苦的撕裂。</StretchTear.description>
+  <StretchTear.comps.0.labelTendedWell>缝合</StretchTear.comps.0.labelTendedWell>
+  <StretchTear.comps.0.labelTendedWellInner>缝合</StretchTear.comps.0.labelTendedWellInner>
+  <StretchTear.comps.0.labelSolidTendedWell>设置</StretchTear.comps.0.labelSolidTendedWell>
+  <StretchTear.injuryProps.destroyedLabel>撕裂</StretchTear.injuryProps.destroyedLabel>
+  <StretchTear.injuryProps.destroyedOutLabel>撕裂</StretchTear.injuryProps.destroyedOutLabel>
+  <StretchTear.labelNoun>撕裂</StretchTear.labelNoun>
+
+  <CervixBruise.label>宫颈穿孔</CervixBruise.label>
+  <CervixBruise.description>宫颈瘀伤。</CervixBruise.description>
+  <CervixBruise.comps.0.labelTendedWell>已造成</CervixBruise.comps.0.labelTendedWell>
+  <CervixBruise.comps.0.labelTendedWellInner>已造成</CervixBruise.comps.0.labelTendedWellInner>
+  <CervixBruise.comps.0.labelSolidTendedWell>已造成</CervixBruise.comps.0.labelSolidTendedWell>
+  <CervixBruise.injuryProps.destroyedLabel>已造成</CervixBruise.injuryProps.destroyedLabel>
+  <CervixBruise.labelNoun>子宫颈瘀伤</CervixBruise.labelNoun>
+
+
+</LanguageData>

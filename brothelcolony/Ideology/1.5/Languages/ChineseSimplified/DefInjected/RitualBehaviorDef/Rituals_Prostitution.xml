@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ###### -->
+
+  <CB_Prostitution_Present_Ritual_Behaviour.spectatorFilter.description>不允许观众。</CB_Prostitution_Present_Ritual_Behaviour.spectatorFilter.description>
+  <CB_Prostitution_Present_Ritual_Behaviour.letterText>{SPEAKER_labelShort} 正在向访客展示您的妓女。</CB_Prostitution_Present_Ritual_Behaviour.letterText>
+  <CB_Prostitution_Present_Ritual_Behaviour.roles.0.label>女士</CB_Prostitution_Present_Ritual_Behaviour.roles.0.label>
+  <CB_Prostitution_Present_Ritual_Behaviour.roles.1.label>妓女</CB_Prostitution_Present_Ritual_Behaviour.roles.1.label>
+  <CB_Prostitution_Present_Ritual_Behaviour.roles.2.label>客户端</CB_Prostitution_Present_Ritual_Behaviour.roles.2.label>
+  <CB_Prostitution_Present_Ritual_Behaviour.stages.0.postAction.text>{0}：演讲结束，聚会开始。</CB_Prostitution_Present_Ritual_Behaviour.stages.0.postAction.text>
+
+
+</LanguageData>

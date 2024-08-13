@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_childC.title>儿童</rjw_childC.title>
+  <rjw_childC.titleShort>儿童</rjw_childC.titleShort>
+  <rjw_childC.baseDesc>[PAWN_nameDef] 出生于一个文明定居点。</rjw_childC.baseDesc>
+  <rjw_childC.description>[PAWN_nameDef] 出生于文明定居点。</rjw_childC.description>
+
+  <rjw_childT.title>儿童</rjw_childT.title>
+  <rjw_childT.titleShort>儿童</rjw_childT.titleShort>
+  <rjw_childT.baseDesc>[PAWN_nameDef] 出生于一个部落。</rjw_childT.baseDesc>
+  <rjw_childT.description>[PAWN_nameDef] 出生于一个部落。</rjw_childT.description>
+
+</LanguageData>

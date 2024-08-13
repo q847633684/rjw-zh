@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Reciever -->
+
+  <Anal_Breed_Reply.label>肛门品种 — 反应</Anal_Breed_Reply.label>
+  <Anal_Breed_Reply.logRulesInitiator.rulesStrings.0>zoophile_n->[exclaim_low]！用那个[animal_penis_recipient][操]我的[ass]！</Anal_Breed_Reply.logRulesInitiator.rulesStrings.0>
+  <Anal_Breed_Reply.logRulesInitiator.rulesStrings.1>human_react_n->What the fuck! Get off! [exclaim_high]!</Anal_Breed_Reply.logRulesInitiator.rulesStrings.1>
+  <Anal_Breed_Reply.logRulesInitiator.rulesStrings.2>human_react_n->[exclaim_high]! Get your [derogadj] [animal_penis_recipient] out of my [ass]!</Anal_Breed_Reply.logRulesInitiator.rulesStrings.2>
+  <Anal_Breed_Reply.logRulesInitiator.rulesStrings.3>human_react_n->[exclaim_high]! Get your [animal_penis_recipient] out of my [ass]!</Anal_Breed_Reply.logRulesInitiator.rulesStrings.3>
+
+
+  <!-- Giver -->
+
+  <Anal_Breed_Reply_Reverse.label>肛门品种 — 反应</Anal_Breed_Reply_Reverse.label>
+  <Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>zoophile_n->If you insist, [animal_noun]!</Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>
+  <Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>zoophile_n->I'll never turn down a [RECIPIENT_kind] [ass]!</Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>
+  <Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>human_react_n->Oh...I shouldn't do this!</Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>
+  <Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>human_react_n->Oh...I shouldn't, but your [animal_ass_recipient]...</Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>
+  <Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>human_react_n->This is so wrong, [animal_noun], but your [animal_ass_recipient] is irresistable!</Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>
+  <Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>human_react_n->Your [animal_ass_recipient] shouldn't feel this good, [animal_noun]!</Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>
+
+
+  <!-- Reciever -->
+
+  <Vaginal_Breed_Reply.label>vaginalbreed — react to</Vaginal_Breed_Reply.label>
+  <Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.0>zoophile_n->[exclaim_low]! [fuck] my [vagina] with that [animal_penis_recipient], [animal_noun]!</Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.0>
+  <Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.1>human_react_n->What the fuck! Get off!</Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.1>
+  <Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.2>human_react_n->[exclaim_high]! Get your [animal_penis_recipient] out of my [vagina]!</Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.2>
+  <Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.3>human_react_n->[exclaim_high]! Get your [derogadj] [animal_penis_recipient] out of my [vagina]!</Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.3>
+
+
+  <!-- Giver -->
+
+  <Vaginal_Breed_Reply_Reverse.label>vaginalbreed — react to</Vaginal_Breed_Reply_Reverse.label>
+  <Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>zoophile_n->If you insist, [animal_noun]!</Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>
+  <Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>zoophile_n->I'll never turn down a [animal_vagina_recipient]!</Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>
+  <Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>human_react_n->Oh...I shouldn't do this!</Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>
+  <Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>human_react_n->Oh...I shouldn't, but your [animal_vagina_recipient]...</Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>
+  <Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>human_react_n->This is so wrong, [animal_noun], but your [animal_vagina_recipient] is irresistable!</Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>
+  <Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>human_react_n->Your [animal_vagina_recipient] shouldn't feel this good, [animal_noun]!</Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>
+
+  <Orally_Breed_Reply.label>oralbreed — react to</Orally_Breed_Reply.label>
+  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.0>zoophile_n->*[exclaim_oral]* yoor [animal_penis_recipient] tasds *[exclaim_oral]* so good, [animal_noun]!</Orally_Breed_Reply.logRulesInitiator.rulesStrings.0>
+  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.1>zoophile_n->*[exclaim_oral]* *[exclaim_oral]* *[exclaim_oral]* </Orally_Breed_Reply.logRulesInitiator.rulesStrings.1>
+  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.2>zoophile_n->*[exclaim_oral]* good *[exclaim_oral]* [animal_noun]! *[exclaim_oral]*</Orally_Breed_Reply.logRulesInitiator.rulesStrings.2>
+  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.3>zoophile_n->*[exclaim_oral]* cum *[exclaim_oral]* in my mouf *[exclaim_oral]* [animal_noun]!</Orally_Breed_Reply.logRulesInitiator.rulesStrings.3>
+  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.4>zoophile_n->*[exclaim_oral]* feed me *[exclaim_oral]* [cum] *[exclaim_oral]* [animal_noun]!</Orally_Breed_Reply.logRulesInitiator.rulesStrings.4>
+  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.5>human_react_n->*[exclaim_oral]* Ged oor [animal_penis_recipient] out of *[exclaim_oral]* my mouf, [animal_noun]!</Orally_Breed_Reply.logRulesInitiator.rulesStrings.5>
+  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.6>human_react_n->*[exclaim_oral]* *[exclaim_oral]* *[exclaim_oral]* </Orally_Breed_Reply.logRulesInitiator.rulesStrings.6>
+  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.7>human_react_n->*[exclaim_oral]* bad *[exclaim_oral]* [animal_noun]! *[exclaim_oral]* </Orally_Breed_Reply.logRulesInitiator.rulesStrings.7>
+
+
+  <!-- Reciever -->
+
+  <Orally_Breed_Reply_Reverse.label>oralbreed — react to</Orally_Breed_Reply_Reverse.label>
+  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>zoophile_n->[exclaim_low]! Good [animal_noun], just like that!</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>
+  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>zoophile_n->[exclaim_low]! You're mouth feels so good!</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>
+  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>zoophile_n->[exclaim_low]... How's that taste, [animal_noun]?</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>
+  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>zoophile_n->You're good with your tongue, [animal_noun]!</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>
+  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>human_react_n->Get your mouth away from my...[exclaim_low]...</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>
+  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>human_react_n->[exclaim_low]! Your mouth shouldn't feel this good, [animal_noun]...</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>
+  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.6>human_react_n->When you offer up your mouth like that...[exclaim_low]...</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.6>
+  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.7>human_react_n->[exclaim_low]...this is so wrong...</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.7>
+
+
+  <!-- Serviced -->
+
+  <Orally_Service_Reply.label>oralbreed — react to</Orally_Service_Reply.label>
+  <Orally_Service_Reply.logRulesInitiator.rulesStrings.0>zoophile_n->[exclaim_low]! Hey there [animal_noun]!</Orally_Service_Reply.logRulesInitiator.rulesStrings.0>
+  <Orally_Service_Reply.logRulesInitiator.rulesStrings.1>zoophile_n->[exclaim_low]! Good [animal_noun], just like that!</Orally_Service_Reply.logRulesInitiator.rulesStrings.1>
+  <Orally_Service_Reply.logRulesInitiator.rulesStrings.2>zoophile_n->[exclaim_low]! Good [animal_noun], right there!</Orally_Service_Reply.logRulesInitiator.rulesStrings.2>
+  <Orally_Service_Reply.logRulesInitiator.rulesStrings.3>zoophile_n->[exclaim_low]... How's that taste, [animal_noun]?</Orally_Service_Reply.logRulesInitiator.rulesStrings.3>
+  <Orally_Service_Reply.logRulesInitiator.rulesStrings.4>zoophile_n->You're good with your tongue, [animal_noun]!</Orally_Service_Reply.logRulesInitiator.rulesStrings.4>
+  <Orally_Service_Reply.logRulesInitiator.rulesStrings.5>human_react_n->Get your mouth away from my...[exclaim_low]...</Orally_Service_Reply.logRulesInitiator.rulesStrings.5>
+  <Orally_Service_Reply.logRulesInitiator.rulesStrings.6>human_react_n->Get your tongue off of my...[exclaim_low]...</Orally_Service_Reply.logRulesInitiator.rulesStrings.6>
+  <Orally_Service_Reply.logRulesInitiator.rulesStrings.7>human_react_n->[exclaim_low]...stop licking there, [animal_noun]...[exclaim_low]...</Orally_Service_Reply.logRulesInitiator.rulesStrings.7>
+  <Orally_Service_Reply.logRulesInitiator.rulesStrings.8>human_react_n->[exclaim_low]...this is so wrong...</Orally_Service_Reply.logRulesInitiator.rulesStrings.8>
+  <Orally_Service_Reply.logRulesInitiator.rulesStrings.9>human_react_n->[exclaim_low]! Bad [animal_noun]! Don't lick there! [exclaim_low]...</Orally_Service_Reply.logRulesInitiator.rulesStrings.9>
+
+
+  <!-- Handjob -->
+
+  <Handjob_Service_Reply.label>oralbreed — react to</Handjob_Service_Reply.label>
+  <Handjob_Service_Reply.logRulesInitiator.rulesStrings.0>zoophile_n->[exclaim_low]!</Handjob_Service_Reply.logRulesInitiator.rulesStrings.0>
+  <Handjob_Service_Reply.logRulesInitiator.rulesStrings.1>human_react_n->[exclaim_low]!</Handjob_Service_Reply.logRulesInitiator.rulesStrings.1>
+
+
+  <!-- Reciever -->
+
+  <DP_Breed_Reply.label>肛门品种 — 反应</DP_Breed_Reply.label>
+  <DP_Breed_Reply.logRulesInitiator.rulesStrings.0>zoophile_n->[exclaim_low]! [fuck] me with those [penis]s!</DP_Breed_Reply.logRulesInitiator.rulesStrings.0>
+  <DP_Breed_Reply.logRulesInitiator.rulesStrings.1>human_react_n->What the fuck! Get off! [exclaim_high]!</DP_Breed_Reply.logRulesInitiator.rulesStrings.1>
+  <DP_Breed_Reply.logRulesInitiator.rulesStrings.2>human_react_n->[exclaim_high]! Get your [penis]s out of me, [animal_noun]!</DP_Breed_Reply.logRulesInitiator.rulesStrings.2>
+
+
+  <!-- Giver -->
+
+  <DP_Breed_Reply_Reverse.label>肛门品种 — 反应</DP_Breed_Reply_Reverse.label>
+  <DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>zoophile_n->If you insist, [animal_noun]!</DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>
+  <DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>zoophile_n->[exclaim_low]! You like these [penis]s, [animal_noun]? [exclaim_low]!</DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>
+  <DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>human_react_n->Oh...I shouldn't do this!</DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>
+  <DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>human_react_n->Oh...I shouldn't, but...[exclaim_low]!</DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>
+  <DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>human_react_n->This is so wrong, [animal_noun], but you're irresistable!</DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>
+  <DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>human_react_n->You shouldn't make my [penis]s feel this good, [animal_noun]! [exclaim_low]!</DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>
+
+
+</LanguageData>

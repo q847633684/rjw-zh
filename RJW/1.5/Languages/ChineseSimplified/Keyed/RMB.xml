@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_RMB>互动</RJW_RMB>
+  <RJW_RMB_NoSex>拒绝与他人发生性关系</RJW_RMB_NoSex>
+
+  <RJW_RMB_Social>社交</RJW_RMB_Social>
+  <RJW_RMB_Masturbate>自慰</RJW_RMB_Masturbate>
+
+  <RJW_RMB_Sex>与某人发生性关系</RJW_RMB_Sex>
+  <RJW_RMB_Bestiality>兽交</RJW_RMB_Bestiality>
+
+  <RJW_RMB_Sex_Reverse>逆向性交</RJW_RMB_Sex_Reverse>
+  <RJW_RMB_Bestiality_Reverse>逆向兽交</RJW_RMB_Bestiality_Reverse>
+
+  <!--Social-->
+  <RJW_RMB_Insult>侮辱</RJW_RMB_Insult>
+  <RJW_RMB_SocialFight>动手打架</RJW_RMB_SocialFight>
+  <RJW_RMB_Chat>闲聊</RJW_RMB_Chat>
+  <RJW_RMB_DeepTalk>深谈</RJW_RMB_DeepTalk>
+  <RJW_RMB_RomanceAttempt>尝试浪漫</RJW_RMB_RomanceAttempt>
+  <RJW_RMB_MarriageProposal>提出求婚</RJW_RMB_MarriageProposal>
+
+  <!--Masturbate-->
+  <RJW_RMB_Masturbate_Bed>在椅子或床上自慰</RJW_RMB_Masturbate_Bed>
+  <RJW_RMB_Masturbate_At>自慰</RJW_RMB_Masturbate_At>
+  <RJW_RMB_Masturbate_Here>在这里自慰</RJW_RMB_Masturbate_Here>
+  <RJW_RMB_Masturbate_With>用道具自慰</RJW_RMB_Masturbate_With>  <!-- dildoes or something like that, someday? -->
+
+  <!--Have sex-->
+
+  <!--Rape-->
+  <RJW_RMB_Rape>强奸</RJW_RMB_Rape>
+  <RJW_RMB_Rape_Reverse>逆强奸</RJW_RMB_Rape_Reverse>
+
+  <RJW_RMB_RapeCorpse>亵渎</RJW_RMB_RapeCorpse>
+  <RJW_RMB_RapeCorpse_Reverse>逆亵渎</RJW_RMB_RapeCorpse_Reverse>
+
+  <RJW_RMB_RapeAnimal>交配</RJW_RMB_RapeAnimal>
+  <RJW_RMB_RapeAnimal_Reverse>逆交配</RJW_RMB_RapeAnimal_Reverse>
+  <!--Poses/parts?-->
+
+
+  <!--stuff-->
+  <RJW_RMB_HackMechPregnancy>黑客植入机甲</RJW_RMB_HackMechPregnancy>
+
+  <!-- dildoes or something like that -->
+
+</LanguageData>

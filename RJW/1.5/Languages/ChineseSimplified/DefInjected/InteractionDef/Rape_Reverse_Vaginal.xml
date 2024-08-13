@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_Reverse_Vaginal.label>逆强奸</Rape_Reverse_Vaginal.label>
+  <Rape_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->逆强奸了[RECIPIENT_nameDef]。</Rape_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]逆强奸了。</Rape_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

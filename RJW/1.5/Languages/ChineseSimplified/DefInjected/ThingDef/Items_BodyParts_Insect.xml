@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Insect privates parts -->
+
+  <OvipositorM.label>注卵器（雄性）</OvipositorM.label>
+  <OvipositorM.description>使虫卵受精的产卵器。</OvipositorM.description>
+
+  <OvipositorF.label>注卵器（雌性）</OvipositorF.label>
+  <OvipositorF.description>虫产卵用的产卵器，它能在宿主体内产卵。</OvipositorF.description>
+
+  <InsectAnus.label>虫肛门</InsectAnus.label>
+  <InsectAnus.description>虫肛门。</InsectAnus.description>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OvaryRegenerationPill.label>卵巢再生药物</OvaryRegenerationPill.label>
+  <OvaryRegenerationPill.description>使卵巢再生以增加可排卵的卵子
+卵子消耗量越大，效果越差
+不能缓解更年期症状</OvaryRegenerationPill.description>
+  <OvaryRegenerationPill.ingestible.ingestCommandString>拿 {0}</OvaryRegenerationPill.ingestible.ingestCommandString>
+  <OvaryRegenerationPill.ingestible.ingestReportString>服用 {0}.</OvaryRegenerationPill.ingestible.ingestReportString>
+
+  <SuperovulationInducingAgent.label>排卵药</SuperovulationInducingAgent.label>
+  <SuperovulationInducingAgent.description>诱导排卵的药物
+可导致更年期提前</SuperovulationInducingAgent.description>
+  <SuperovulationInducingAgent.ingestible.ingestCommandString>拿 {0}</SuperovulationInducingAgent.ingestible.ingestCommandString>
+  <SuperovulationInducingAgent.ingestible.ingestReportString>服用 {0}.</SuperovulationInducingAgent.ingestible.ingestReportString>
+
+  <PainReliever.label>去痛药</PainReliever.label>
+  <PainReliever.description>24小时缓解经痛。
+
+对其他疼痛来源也有效。</PainReliever.description>
+  <PainReliever.ingestible.ingestCommandString>拿 {0}</PainReliever.ingestible.ingestCommandString>
+  <PainReliever.ingestible.ingestReportString>服用 {0}.</PainReliever.ingestible.ingestReportString>
+
+  <Cyclosporine.label>环孢素</Cyclosporine.label>
+  <Cyclosporine.description>一种免疫抑制剂。
+可以治愈抗精子抗体，但会降低身体24小时抵抗感染和疾病的能力。</Cyclosporine.description>
+  <Cyclosporine.ingestible.ingestCommandString>拿 {0}</Cyclosporine.ingestible.ingestCommandString>
+  <Cyclosporine.ingestible.ingestReportString>服用 {0}.</Cyclosporine.ingestible.ingestReportString>
+
+
+</LanguageData>

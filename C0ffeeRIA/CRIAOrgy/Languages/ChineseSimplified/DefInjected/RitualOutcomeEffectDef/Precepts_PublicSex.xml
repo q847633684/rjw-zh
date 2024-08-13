@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FertilityRitualOutcome.description>狂欢仪式结果</FertilityRitualOutcome.description>
+  <FertilityRitualOutcome.outcomeChances.0.label>太糟糕了</FertilityRitualOutcome.outcomeChances.0.label>
+  <FertilityRitualOutcome.outcomeChances.0.description>{0} 太糟糕了！参与者在等待结束的同时忍受了几个小时的令人咬紧牙关的闲聊。</FertilityRitualOutcome.outcomeChances.0.description>
+  <FertilityRitualOutcome.outcomeChances.1.label>无聊</FertilityRitualOutcome.outcomeChances.1.label>
+  <FertilityRitualOutcome.outcomeChances.1.description>{0} 很无聊。每个人都觉得太尴尬，无法开口笑。</FertilityRitualOutcome.outcomeChances.1.description>
+  <FertilityRitualOutcome.outcomeChances.2.label>有趣</FertilityRitualOutcome.outcomeChances.2.label>
+  <FertilityRitualOutcome.outcomeChances.2.description>{0} 效果良好。每个人都很高兴有机会一起放松和享受乐趣。</FertilityRitualOutcome.outcomeChances.2.description>
+  <FertilityRitualOutcome.outcomeChances.3.label>难忘</FertilityRitualOutcome.outcomeChances.3.label>
+  <FertilityRitualOutcome.outcomeChances.3.description>{0}令人难忘！每个人都互相了解，感觉就像一家人。</FertilityRitualOutcome.outcomeChances.3.description>
+  <FertilityRitualOutcome.comps.0.label>参与者人数</FertilityRitualOutcome.comps.0.label>
+  <FertilityRitualOutcome.comps.1.label>房间令人印象深刻</FertilityRitualOutcome.comps.1.label>
+
+
+</LanguageData>

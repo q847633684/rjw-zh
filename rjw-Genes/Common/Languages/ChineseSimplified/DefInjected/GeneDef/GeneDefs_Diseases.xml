@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_genetic_disease_immunity.label>遗传病免疫力</rjw_genes_genetic_disease_immunity.label>
+  <rjw_genes_genetic_disease_immunity.description>该基因使典当能够抵抗遗传性传播疾病和其他一些可能带来负面影响的基因。</rjw_genes_genetic_disease_immunity.description>
+
+  <rjw_genes_minor_vulnerability.label>轻微漏洞</rjw_genes_minor_vulnerability.label>
+  <rjw_genes_minor_vulnerability.description>这种基因使典当变得更脆弱，并且成为强奸的更有吸引力的目标。</rjw_genes_minor_vulnerability.description>
+
+  <rjw_genes_major_vulnerability.label>重大漏洞</rjw_genes_major_vulnerability.label>
+  <rjw_genes_major_vulnerability.description>这种基因使棋子更容易受到攻击，也成为强奸的更有吸引力的目标。</rjw_genes_major_vulnerability.description>
+
+  <rjw_genes_infectious_blocked_masturbation.label>传染性手淫障碍</rjw_genes_infectious_blocked_masturbation.label>
+  <rjw_genes_infectious_blocked_masturbation.description>这种基因的携带者无法自慰——他们需要伴侣或装备。</rjw_genes_infectious_blocked_masturbation.description>
+
+  <rjw_genes_infectious_low_fertility.label>传染性低生育率脆弱性</rjw_genes_infectious_low_fertility.label>
+  <rjw_genes_infectious_low_fertility.description>这种遗传病的携带者的生育能力较低。</rjw_genes_infectious_low_fertility.description>
+
+  <rjw_genes_infectious_increased_sex_need.label>传染性增加的性需要</rjw_genes_infectious_increased_sex_need.label>
+  <rjw_genes_infectious_increased_sex_need.description>这种遗传病的携带者需要更多的性生活。</rjw_genes_infectious_increased_sex_need.description>
+
+  <rjw_genes_infectious_major_increased_sex_need.label>主要传染性增加性需求</rjw_genes_infectious_major_increased_sex_need.label>
+  <rjw_genes_infectious_major_increased_sex_need.description>这种遗传病的携带者需要更多的性生活。</rjw_genes_infectious_major_increased_sex_need.description>
+
+  <rjw_genes_infectious_hypersexuality.label>传染性性欲亢进</rjw_genes_infectious_hypersexuality.label>
+  <rjw_genes_infectious_hypersexuality.description>该基因使典当性欲亢进，并有机会通过性交传播。</rjw_genes_infectious_hypersexuality.description>
+
+  <rjw_genes_infectious_bisexuality.label>传染性双性恋</rjw_genes_infectious_bisexuality.label>
+  <rjw_genes_infectious_bisexuality.description>该基因使典当成为双性恋，并且有机会通过性交传播。</rjw_genes_infectious_bisexuality.description>
+
+  <rjw_genes_infectious_homosexuality.label>传染性同性恋</rjw_genes_infectious_homosexuality.label>
+  <rjw_genes_infectious_homosexuality.description>这种基因使典当成为同性恋，并有机会通过性交传播。</rjw_genes_infectious_homosexuality.description>
+
+  <rjw_genes_fluctual_sexual_needs.label>波动的性需求</rjw_genes_fluctual_sexual_needs.label>
+  <rjw_genes_fluctual_sexual_needs.description>这种遗传病的携带者有机会突然需要性行为，获得一点能量来快速缓解症状。</rjw_genes_fluctual_sexual_needs.description>
+
+  <rjw_genes_size_blinded.label>尺寸盲法</rjw_genes_size_blinded.label>
+  <rjw_genes_size_blinded.description>T他的遗传病使得携带者更容易被拥有巨大鸡鸡的棋子所吸引。</rjw_genes_size_blinded.description>
+
+  <rjw_genes_stretcher.label>基因担架</rjw_genes_stretcher.label>
+  <rjw_genes_stretcher.description>带有这种基因的小卒有机会改变其性伴侣的基因，使其更喜欢大鸡巴。</rjw_genes_stretcher.description>
+
+  <rjw_genes_infectious_rut.label>发情</rjw_genes_infectious_rut.label>
+  <rjw_genes_infectious_rut.description>该基因的携带者已经进入发情状态，从而会有更多性活动。</rjw_genes_infectious_rut.description>
+
+
+</LanguageData>

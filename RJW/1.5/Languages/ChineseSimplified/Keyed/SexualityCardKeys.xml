@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Sexuality card-->
+  <SexcardTooltip>表现性欲</SexcardTooltip>
+  <Quirks>怪癖: </Quirks>
+  <NoQuirks>没有怪癖，香草.</NoQuirks>
+  <MessyQuirk><![CDATA[
+{pawn} 不仅在性行为过程中产生大量液体，而且 {pawn_pronoun} 很少在事后清洁 {pawn_possessive} 自己。
+]]></MessyQuirk>
+  <PodophileQuirk><![CDATA[
+{pawn} 非常喜欢脚，并且更喜欢与脚相关的性行为。
+]]></PodophileQuirk>
+  <CumslutQuirk><![CDATA[
+{pawn} 真的很喜欢射精，更喜欢口交性行为。
+]]></CumslutQuirk>
+  <ButtslutQuirk><![CDATA[
+{pawn} 真的很喜欢被操屁股，更喜欢肛交行为。
+]]></ButtslutQuirk>
+  <TeratophileQuirk><![CDATA[
+{pawn} 更喜欢丑陋的伙伴。如果 {pawn_pronoun} 有兴趣的话，{pawn_pronoun} 也会更喜欢更大、更野生的动物……
+]]></TeratophileQuirk>
+  <EndytophileQuirk><![CDATA[
+{pawn} 更喜欢在做爱时穿着 {pawn_possessive} 的衣服。
+]]></EndytophileQuirk>
+  <ExhibitionistQuirk><![CDATA[
+{pawn} 喜欢在别人能看到的地方做爱。
+]]></ExhibitionistQuirk>
+  <GerontophileQuirk><![CDATA[
+{pawn} 更喜欢年长的伴侣（按人类年龄计算，55 岁以上）。
+]]></GerontophileQuirk>
+  <SomnophileQuirk><![CDATA[
+{pawn} 希望 {pawn_possessive} 伙伴睡觉
+]]></SomnophileQuirk>
+  <SapiosexualQuirk><![CDATA[
+{pawn} prefers smart partners.
+]]></SapiosexualQuirk>
+  <FertileQuirk><![CDATA[
+{pawn} 的生育能力异常高，因此更有可能生孩子。
+]]></FertileQuirk>
+  <InfertileQuirk><![CDATA[
+{pawn} 的生育率异常低，因此不太可能生育孩子。
+]]></InfertileQuirk>
+  <ImpregnationFetishQuirk><![CDATA[
+{pawn} 真的很喜欢某人怀孕的想法。 {pawn_pronoun} 更喜欢有可能怀孕的伴侣和性交姿势。 {pawn_pronoun} 并不关心 {pawn_pronoun} 是否怀孕或 {pawn_possessive} 伴侣是否存在，只要宝宝形成即可。
+]]></ImpregnationFetishQuirk>
+  <PregnancyFetishQuirk><![CDATA[
+{pawn} 更喜欢明显怀孕的伴侣。
+]]></PregnancyFetishQuirk>
+  <IncubatorQuirk><![CDATA[
+{pawn} 生下了如此多的蛋，以至于 {pawn 占有欲} 的身体已经适应了处理它们。 {典当占有}蛋孵化速度增加。
+]]></IncubatorQuirk>
+  <BreederQuirk><![CDATA[
+{pawn} 已经生育了很多次，以至于 {pawn_possessive} 的身体已经适应了繁殖。 {pawn_possessive} 怀孕时间更短，生育的后代更多。
+]]></BreederQuirk>
+  <VigorousQuirk><![CDATA[
+{pawn} 因性而充满活力。 {pawn_pronoun} 在性爱过程中不会那么累。
+]]></VigorousQuirk>
+  <ChitinLoverQuirk><![CDATA[
+{pawn} 享有几丁质外骨骼的光滑强度。 {pawn_pronoun} 更喜欢巨型蜘蛛或昆虫类做性伴侣。
+]]></ChitinLoverQuirk>
+  <DemonLoverQuirk><![CDATA[
+{pawn} 是在追寻顽皮的人。 {pawn_pronoun} 更喜欢 {pawn_possessive} 伙伴来自真正的地狱深处，或者至少看起来像这样。
+]]></DemonLoverQuirk>
+  <FeatherLoverQuirk><![CDATA[
+{pawn} 喜欢那种柔软的绒毛。 {pawn_pronoun} 更喜欢鸟类或恐龙伴侣。因为恐龙是鸟类并且有羽毛，如果有机会的话，{pawn_pronoun} 将详细解释这一点。
+]]></FeatherLoverQuirk>
+  <FurLoverQuirk><![CDATA[
+{pawn} 更喜欢拥有厚实、奢华、柔软的皮毛的伴侣。
+]]></FurLoverQuirk>
+  <PlantLoverQuirk><![CDATA[
+{pawn} 喜欢给植物浇水。如果你明白我的意思。
+]]></PlantLoverQuirk>
+  <RobotLoverQuirk><![CDATA[
+2D 和 3D 哪个更好？ {pawn} 知道 3D 打印可以让您两全其美。
+]]></RobotLoverQuirk>
+  <ScaleLoverQuirk><![CDATA[
+谁不想操龙呢？绝对不是{pawn}。 {pawn} 想要操一条龙。
+]]></ScaleLoverQuirk>
+  <SkinLoverQuirk><![CDATA[
+{pawn} 希望 {pawn_possessive} 合作伙伴拥有光滑敏感的皮肤，没有皮毛或鳞片妨碍。 {pawn_objective} 幸运的是，人类无处不在。
+]]></SkinLoverQuirk>
+  <SlimeLoverQuirk><![CDATA[
+由于它们光滑且可塑的性质，史莱姆非常非常擅长性交。如果您听 {pawn} 谈话任意时间，您都会一遍又一遍地听到。
+]]></SlimeLoverQuirk>
+  <SexPartWants>想成为: </SexPartWants>
+</LanguageData>

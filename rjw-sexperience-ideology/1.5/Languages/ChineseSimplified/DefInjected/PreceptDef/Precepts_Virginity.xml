@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <Virgin_UselessF.label>无用</Virgin_UselessF.label>
+  <Virgin_UselessF.description>女性的贞操是没有用的。</Virgin_UselessF.description>
+
+  <Virgin_UselessM.label>无用</Virgin_UselessM.label>
+  <Virgin_UselessM.description>男性的童贞是没有用的。</Virgin_UselessM.description>
+
+  <Virgin_PreciousF.label>珍贵</Virgin_PreciousF.label>
+  <Virgin_PreciousF.description>女性的童贞是宝贵的。</Virgin_PreciousF.description>
+
+  <Virgin_PreciousM.label>珍贵</Virgin_PreciousM.label>
+  <Virgin_PreciousM.description>男性的童贞是宝贵的。</Virgin_PreciousM.description>
+
+  <Virgin_OnlyForSpouseF.label>珍贵（严格）</Virgin_OnlyForSpouseF.label>
+  <Virgin_OnlyForSpouseF.description>婚前失去童贞是邪恶的。</Virgin_OnlyForSpouseF.description>
+
+  <Virgin_OnlyForSpouseM.label>珍贵（严格）</Virgin_OnlyForSpouseM.label>
+  <Virgin_OnlyForSpouseM.description>婚前失去童贞是邪恶的。</Virgin_OnlyForSpouseM.description>
+
+  <Virgin_ShamefulF.label>可耻</Virgin_ShamefulF.label>
+  <Virgin_ShamefulF.description>保持处女身份是可耻的事情，会被嘲笑。</Virgin_ShamefulF.description>
+
+  <Virgin_ShamefulM.label>可耻</Virgin_ShamefulM.label>
+  <Virgin_ShamefulM.description>保持处女身份是可耻的事情，会被嘲笑。</Virgin_ShamefulM.description>
+
+
+</LanguageData>

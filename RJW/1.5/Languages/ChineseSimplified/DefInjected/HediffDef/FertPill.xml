@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- As usual stolen from CnP -->
+
+  <RJW_FertPill.label>排卵药物</RJW_FertPill.label>
+  <RJW_FertPill.description>提高生育率。温和的催情药。</RJW_FertPill.description>
+  <RJW_FertPill.stages.0.label>高生育率</RJW_FertPill.stages.0.label>
+
+
+</LanguageData>

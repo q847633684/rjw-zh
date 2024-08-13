@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MilkHumanlike.label>帮人类挤奶</MilkHumanlike.label>
+  <MilkHumanlike.verb>挤奶</MilkHumanlike.verb>
+  <MilkHumanlike.gerund>正在挤奶</MilkHumanlike.gerund>
+
+
+  <!-- <WorkGiverDef>
+		<defName>MilkHumanlikeAtMachine</defName>
+		<label>milk humanlike at machine</label>
+		<giverClass>Milk.WorkGiver_MilkSelfAtMachine</giverClass>
+		<workType>Patient</workType> 
+		<verb>milk</verb>
+		<gerund>milking</gerund>
+		<priorityInType>89</priorityInType>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+	</WorkGiverDef> -->
+
+  <BreastfeedAdult.label>母乳喂养成人</BreastfeedAdult.label>
+  <BreastfeedAdult.verb>母乳喂养</BreastfeedAdult.verb>
+  <BreastfeedAdult.gerund>母乳喂养</BreastfeedAdult.gerund>
+
+
+  <!-- <WorkGiverDef>
+		<defName>MilkHumanlikeAtMachine</defName>
+		<label>milk humanlike at machine</label>
+		<giverClass>Milk.WorkGiver_MilkSelfAtMachine</giverClass>
+		<workType>Patient</workType>
+		<verb>milk</verb>
+		<gerund>milking</gerund>
+		<priorityInType>89</priorityInType>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+	</WorkGiverDef> -->
+
+</LanguageData>

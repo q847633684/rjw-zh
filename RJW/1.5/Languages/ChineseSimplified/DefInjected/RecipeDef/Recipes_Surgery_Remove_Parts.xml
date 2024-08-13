@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Remove privates -->
+
+  <RemoveGenitals.label>阉割</RemoveGenitals.label>
+  <RemoveGenitals.description>切除性器官。</RemoveGenitals.description>
+  <RemoveGenitals.jobString>阉割。</RemoveGenitals.jobString>
+
+
+  <!-- <RecipeDef ParentName="SexReassignmentP">
+		<defName>RemovePenis</defName>
+		<label>remove genitals</label>
+		<description>Removes penis.</description>
+		<workerClass>rjw.Recipe_RemovePenis</workerClass>
+		<jobString>Removing penis.</jobString>
+		<workAmount>1600</workAmount>
+		<skillRequirements>
+			<Medicine>2</Medicine>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+		</fixedIngredientFilter>
+	</RecipeDef>
+	
+	<RecipeDef ParentName="SexReassignmentV">
+		<defName>RemoveVagina</defName>
+		<label>remove vagina</label>
+		<description>Removes vagina.</description>
+		<workerClass>rjw.Recipe_RemoveVagina</workerClass>
+		<jobString>Removing vagina.</jobString>
+		<workAmount>1600</workAmount>
+		<skillRequirements>
+			<Medicine>2</Medicine>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+		</fixedIngredientFilter>
+	</RecipeDef> -->
+
+  <RemoveBreasts.label>切除乳房</RemoveBreasts.label>
+  <RemoveBreasts.description>切除乳房。</RemoveBreasts.description>
+  <RemoveBreasts.jobString>切除乳房。</RemoveBreasts.jobString>
+
+  <RemoveAnus.label>切除肛门</RemoveAnus.label>
+  <RemoveAnus.description>切除肛门。</RemoveAnus.description>
+  <RemoveAnus.jobString>切除肛门。</RemoveAnus.jobString>
+
+  <RemoveUdder.label>切除奶乳</RemoveUdder.label>
+  <RemoveUdder.description>切除奶乳。</RemoveUdder.description>
+  <RemoveUdder.jobString>切除奶乳。</RemoveUdder.jobString>
+
+
+</LanguageData>

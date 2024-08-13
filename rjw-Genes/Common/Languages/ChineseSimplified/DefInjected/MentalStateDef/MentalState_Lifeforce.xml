@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_lifeforce_randomrape.label>随机强奸</rjw_genes_lifeforce_randomrape.label>
+  <rjw_genes_lifeforce_randomrape.beginLetter>{0}已经耗尽了生命力，正在寻找一些。</rjw_genes_lifeforce_randomrape.beginLetter>
+  <rjw_genes_lifeforce_randomrape.beginLetterLabel>随机强奸</rjw_genes_lifeforce_randomrape.beginLetterLabel>
+  <rjw_genes_lifeforce_randomrape.recoveryMessage>{0} 不再随机强奸。</rjw_genes_lifeforce_randomrape.recoveryMessage>
+  <rjw_genes_lifeforce_randomrape.baseInspectLine>精神状态：随机强奸</rjw_genes_lifeforce_randomrape.baseInspectLine>
+
+
+</LanguageData>

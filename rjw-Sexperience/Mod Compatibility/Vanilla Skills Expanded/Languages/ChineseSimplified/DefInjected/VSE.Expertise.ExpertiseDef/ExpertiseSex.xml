@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sex ExpertiseDefs by Rain -->
+
+  <Sensualist.label>感性化</Sensualist.label>
+  <Sensualist.description>性和感官活动方面的专家。</Sensualist.description>
+
+  <Rapist.label>强奸</Rapist.label>
+  <Rapist.description>经验丰富的强奸犯。</Rapist.description>
+
+  <Victim.label>油菜花</Victim.label>
+  <Victim.description>被强奸的专业知识。</Victim.description>
+
+  <Submissive.label>正在提交</Submissive.label>
+  <Submissive.description>性服从方面的专家。</Submissive.description>
+
+  <Dominant.label>称霸</Dominant.label>
+  <Dominant.description>性统治方面的专家。</Dominant.description>
+
+  <Hypersexuality.label>性化</Hypersexuality.label>
+  <Hypersexuality.description>一个渴望性的人。</Hypersexuality.description>
+
+  <Prude.label>普鲁丁</Prude.label>
+  <Prude.description>一个在性方面有经验的人，但决定他们不喜欢它。</Prude.description>
+
+
+</LanguageData>

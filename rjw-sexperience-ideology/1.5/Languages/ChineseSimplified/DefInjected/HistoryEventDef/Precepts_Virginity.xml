@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Issues -->
+
+  <RSI_VirginTaken.label>处女被夺</RSI_VirginTaken.label>
+  <RSI_TookVirgin.label>处女</RSI_TookVirgin.label>
+  <RSI_VirginStolen.label>处女被盗</RSI_VirginStolen.label>
+  <RSI_VirginTakenNotSpouse.label>处女被陌生人夺走</RSI_VirginTakenNotSpouse.label>
+
+
+</LanguageData>

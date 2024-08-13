@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Lact-X.label>泌乳剂-X</Lact-X.label>
+  <Lact-X.description>一种诱导泌乳并具有令人上瘾的快感药物.\n\n每 3 天服用一次，以保证不间断的流动.\n\n对动物没有泌乳作用</Lact-X.description>
+  <Lact-X.ingestible.ingestCommandString>注射 {0}</Lact-X.ingestible.ingestCommandString>
+  <Lact-X.ingestible.ingestReportString>正在注射 {0}.</Lact-X.ingestible.ingestReportString>
+
+  <Lact-MAX.label>泌乳剂-MAX</Lact-MAX.label>
+  <Lact-MAX.description>一种永久诱导泌乳并导致对泌乳剂X成瘾的药物.\n\n对动物没有泌乳作用.</Lact-MAX.description>
+  <Lact-MAX.ingestible.ingestCommandString>注射 {0}</Lact-MAX.ingestible.ingestCommandString>
+  <Lact-MAX.ingestible.ingestReportString>正在注射 {0}.</Lact-MAX.ingestible.ingestReportString>
+
+  <HyperLact-MAX.label>泌乳剂-HMAX</HyperLact-MAX.label>
+  <HyperLact-MAX.description>超强力版的泌乳剂MAX。一种永久诱导泌乳的药物，与其他泌乳来源相比，流量增加了三倍.由于其效力，注射超级泌乳MAX会导致永久性脑损伤.\n\n对动物没有哺乳作用.</HyperLact-MAX.description>
+  <HyperLact-MAX.ingestible.ingestCommandString>注射 {0}</HyperLact-MAX.ingestible.ingestCommandString>
+  <HyperLact-MAX.ingestible.ingestReportString>正在注射 {0}。</HyperLact-MAX.ingestible.ingestReportString>
+
+  <Lact-X-Swell.label>泌乳剂-Swell</Lact-X-Swell.label>
+  <Lact-X-Swell.description>一种增大乳房大小的药物。</Lact-X-Swell.description>
+  <Lact-X-Swell.ingestible.ingestCommandString>注射 {0}</Lact-X-Swell.ingestible.ingestCommandString>
+  <Lact-X-Swell.ingestible.ingestReportString>注射 {0}。</Lact-X-Swell.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LactineLong.label>催乳劑後效應</LactineLong.label>
+  <LactineLong.description>Permanent changes in body and brain caused by lactine consumption</LactineLong.description>
+  <LactineLong.stages.0.label>Initial</LactineLong.stages.0.label>
+  <LactineLong.stages.1.label>Low</LactineLong.stages.1.label>
+  <LactineLong.stages.2.label>Mid</LactineLong.stages.2.label>
+  <LactineLong.stages.3.label>High</LactineLong.stages.3.label>
+  <LactineLong.stages.4.label>Severe</LactineLong.stages.4.label>
+  <LactineLong.stages.5.label>Full</LactineLong.stages.5.label>
+
+
+</LanguageData>

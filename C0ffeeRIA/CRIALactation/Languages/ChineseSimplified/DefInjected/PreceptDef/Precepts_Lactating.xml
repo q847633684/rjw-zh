@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Essential -->
+
+  <Lactating_Essential.label>必需</Lactating_Essential.label>
+  <Lactating_Essential.description>乳房中的乳汁呈奶油状且美味。它应该定期生产和消费。哺乳期殖民者可以转化为人牛，这将产生双倍正常量的乳汁。</Lactating_Essential.description>
+  <Lactating_Essential.comps.1.description>大乳房必须产奶</Lactating_Essential.comps.1.description>
+
+
+  <!-- mandatory hucow -->
+
+  <Lactating_MandatoryHucow.label>必需（强制H人牛）</Lactating_MandatoryHucow.label>
+  <Lactating_MandatoryHucow.description>母乳是最天然的寄托。对于所有大胸部来说，最大限度的表达和人牛转换是一种责任。没有母乳，不生产或不吃饭是不可想象的。</Lactating_MandatoryHucow.description>
+  <Lactating_MandatoryHucow.comps.1.description>胸部较大的殖民者必须成为人牛</Lactating_MandatoryHucow.comps.1.description>
+
+
+</LanguageData>

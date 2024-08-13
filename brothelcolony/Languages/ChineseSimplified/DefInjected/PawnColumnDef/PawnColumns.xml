@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_IsWhore.headerTip>妓女</RJW_IsWhore.headerTip>
+
+
+  <!-- </PawnColumnDef> -->
+
+  <RJW_PriceRangeOfWhore.label>价格</RJW_PriceRangeOfWhore.label>
+  <RJW_PriceRangeOfWhore.headerTip>妓女的价格范围</RJW_PriceRangeOfWhore.headerTip>
+
+  <RJW_EarnedMoneyByWhore.label>已赚取</RJW_EarnedMoneyByWhore.label>
+  <RJW_EarnedMoneyByWhore.headerTip>赚到的钱（总计）</RJW_EarnedMoneyByWhore.headerTip>
+
+  <RJW_CountOfWhore.label>客户</RJW_CountOfWhore.label>
+  <RJW_CountOfWhore.headerTip>服务的客户</RJW_CountOfWhore.headerTip>
+
+  <RJW_AverageMoneyByWhore.label>平均</RJW_AverageMoneyByWhore.label>
+  <RJW_AverageMoneyByWhore.headerTip>赚到的钱（平均）</RJW_AverageMoneyByWhore.headerTip>
+
+  <RJW_WhoreMood.label>心情</RJW_WhoreMood.label>
+  <RJW_WhoreMood.headerTip>典当情绪</RJW_WhoreMood.headerTip>
+
+  <RJW_WhoringPregnancy.label>怀孕</RJW_WhoringPregnancy.label>
+  <RJW_WhoringPregnancy.headerTip>尝试：除阴道性交外避免任何行为\n\n正常：无偏好\n\n避免：如果手头没有安全套，避免阴道性交</RJW_WhoringPregnancy.headerTip>
+
+  <RJW_WhoringCondom.label>安全套</RJW_WhoringCondom.label>
+  <RJW_WhoringCondom.headerTip>始终：不带安全套就不得嫖娼，至少携带五个。\n\n正常：有条件时使用\n\n从不：嫖娼时切勿使用，不携带安全套</RJW_WhoringCondom.headerTip>
+
+  <RJW_WhoringPayment.label>付款</RJW_WhoringPayment.label>
+  <RJW_WhoringPayment.headerTip>以性换取利益</RJW_WhoringPayment.headerTip>
+
+
+  <!--</PawnColumnDef> -->
+
+</LanguageData>

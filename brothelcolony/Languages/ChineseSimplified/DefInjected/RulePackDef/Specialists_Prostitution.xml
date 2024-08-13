@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.0>r_roleName(p=4)->[nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.0>
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.1>r_roleName(p=2)->[memeAdjective] [nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.1>
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.2>r_roleName->[chosenTheme] 的[nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.2>
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.3>r_roleName->[keyDeity] 的[nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.3>
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.4>r_roleName->[memeConcept] 的[nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.4>
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.5>r_roleName->[chosenIdeoName] 的 [nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.5>
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.6>r_roleName->[chosenAdjective] [nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.6>
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.7>r_roleName->[keyDeity] 的 [nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.7>
+
+  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.0>nounInsert->妓女</CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.0>
+  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.1>nounInsert->妓女</CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.1>
+  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.2>nounInsert->诱惑</CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.2>
+  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.3>nounInsert->女士</CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.3>
+  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.4>nounInsert->妓女</CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.4>
+  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.5>nounInsert->勾引者</CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.5>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_Fellatio.label>口交</Sex_Fellatio.label>
+  <Sex_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]口交了阴茎。</Sex_Fellatio.logRulesInitiator.rulesStrings.0>
+  <Sex_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->口交了[INITIATOR_nameDef]的阴茎。</Sex_Fellatio.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

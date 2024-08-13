@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Regular privates -->
+
+  <Penis.label>人类阴茎</Penis.label>
+  <Penis.labelNoun>人类阴茎</Penis.labelNoun>
+  <Penis.description>人类阴茎。</Penis.description>
+  <Penis.stages.0.label>牙签</Penis.stages.0.label>
+  <Penis.stages.1.label>很小</Penis.stages.1.label>
+  <Penis.stages.2.label>平均</Penis.stages.2.label>
+  <Penis.stages.3.label>大</Penis.stages.3.label>
+  <Penis.stages.4.label>巨大</Penis.stages.4.label>
+  <Penis.stages.5.label>超大</Penis.stages.5.label>
+
+  <Vagina.label>人类阴道</Vagina.label>
+  <Vagina.labelNoun>人类阴道</Vagina.labelNoun>
+  <Vagina.description>人类阴道。</Vagina.description>
+  <Vagina.stages.0.label>微型</Vagina.stages.0.label>
+  <Vagina.stages.1.label>紧致</Vagina.stages.1.label>
+  <Vagina.stages.2.label>平均</Vagina.stages.2.label>
+  <Vagina.stages.3.label>松弛</Vagina.stages.3.label>
+  <Vagina.stages.4.label>敞口</Vagina.stages.4.label>
+  <Vagina.stages.5.label>深渊</Vagina.stages.5.label>
+
+
+  <!-- Natural anuses -->
+
+  <Anus.label>人类肛门</Anus.label>
+  <Anus.labelNoun>人类肛门</Anus.labelNoun>
+  <Anus.description>人类肛门。</Anus.description>
+  <Anus.stages.0.label>微型</Anus.stages.0.label>
+  <Anus.stages.1.label>紧致</Anus.stages.1.label>
+  <Anus.stages.2.label>平均</Anus.stages.2.label>
+  <Anus.stages.3.label>松弛</Anus.stages.3.label>
+  <Anus.stages.4.label>敞口</Anus.stages.4.label>
+  <Anus.stages.5.label>深渊</Anus.stages.5.label>
+
+
+  <!-- Natural Breasts -->
+
+  <Breasts.label>人类乳房</Breasts.label>
+  <Breasts.labelNoun>人类乳房</Breasts.labelNoun>
+  <Breasts.description>人类乳房。</Breasts.description>
+  <Breasts.stages.0.label>飞机场</Breasts.stages.0.label>
+  <Breasts.stages.1.label>很小</Breasts.stages.1.label>
+  <Breasts.stages.2.label>小</Breasts.stages.2.label>
+  <Breasts.stages.3.label>平均</Breasts.stages.3.label>
+  <Breasts.stages.4.label>大</Breasts.stages.4.label>
+  <Breasts.stages.5.label>巨大</Breasts.stages.5.label>
+  <Breasts.stages.6.label>超巨大</Breasts.stages.6.label>
+  <Breasts.stages.7.label>超超巨大</Breasts.stages.7.label>
+  <Breasts.stages.8.label>超超超巨大</Breasts.stages.8.label>
+  <Breasts.stages.9.label>超超超超巨大</Breasts.stages.9.label>
+  <Breasts.stages.10.label>泰坦尼克号</Breasts.stages.10.label>
+
+
+  <!-- Natural Breasts or rather lack of -->
+
+  <FeaturelessChest.label>平滑胸部</FeaturelessChest.label>
+  <FeaturelessChest.labelNoun>平滑胸部</FeaturelessChest.labelNoun>
+  <FeaturelessChest.description>没有乳头的扁平胸部。</FeaturelessChest.description>
+
+
+</LanguageData>

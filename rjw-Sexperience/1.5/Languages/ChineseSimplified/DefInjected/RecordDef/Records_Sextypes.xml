@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VaginalSexCount.label>阴道性交</VaginalSexCount.label>
+  <VaginalSexCount.description>阴道性交的次数。</VaginalSexCount.description>
+
+  <AnalSexCount.label>肛交</AnalSexCount.label>
+  <AnalSexCount.description>肛交次数。</AnalSexCount.description>
+
+  <OralSexCount.label>口交</OralSexCount.label>
+  <OralSexCount.description>接受口交的次数。</OralSexCount.description>
+
+  <BlowjobCount.label>口交</BlowjobCount.label>
+  <BlowjobCount.description>口交次数。</BlowjobCount.description>
+
+  <CunnilingusCount.label>舔阴</CunnilingusCount.label>
+  <CunnilingusCount.description>舔阴的次数。</CunnilingusCount.description>
+
+  <GenitalCaressCount.label>触摸生殖器</GenitalCaressCount.label>
+  <GenitalCaressCount.description>打手枪/指交的次数。</GenitalCaressCount.description>
+
+  <HandjobCount.label>打手枪</HandjobCount.label>
+  <HandjobCount.description>打手枪的次数。</HandjobCount.description>
+
+  <FingeringCount.label>指法</FingeringCount.label>
+  <FingeringCount.description>指法次数。</FingeringCount.description>
+
+  <FootjobCount.label>足交</FootjobCount.label>
+  <FootjobCount.description>足交次数</FootjobCount.description>
+
+  <MiscSexualBehaviorCount.label>杂项。性交</MiscSexualBehaviorCount.label>
+  <MiscSexualBehaviorCount.description>性行为的次数。</MiscSexualBehaviorCount.description>
+
+  <OrgasmCount.label>高潮</OrgasmCount.label>
+  <OrgasmCount.description>性高潮的次数。</OrgasmCount.description>
+
+  <SexPartnerCount.label>性伴侣</SexPartnerCount.label>
+  <SexPartnerCount.description>性伴侣的数量。</SexPartnerCount.description>
+
+
+  <!--<舔阴计数.label>舔阴</舔阴计数.label>-->
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Lactating_Drug.label>泌乳中(药物)</Lactating_Drug.label>
+  <Lactating_Drug.description>药物可以迫使生物产生奶水，即使它们在正常情况下不会.随着时间的推移，这些药物的效果会逐渐减弱，奶水的生产也会停止.</Lactating_Drug.description>
+
+  <Lactating_Natural.label>泌乳中(自然)</Lactating_Natural.label>
+  <Lactating_Natural.description>生物会在怀孕期间和之后自然地开始产生奶水。随着时间的推移，奶水的生产将停止.</Lactating_Natural.description>
+
+  <Lactating_Permanent.label>泌乳中(永久)</Lactating_Permanent.label>
+  <Lactating_Permanent.description>某些种类的药物可以通过改变身体的化学成分来迫使生物永远产生奶水。如果没有进一步的外部影响，奶水生产将永远不会停止.</Lactating_Permanent.description>
+
+  <Heavy_Lactating_Permanent.label>强力泌乳中(永久)</Heavy_Lactating_Permanent.label>
+  <Heavy_Lactating_Permanent.description>某些稀有药物可以通过改变身体的化学成分来迫使生物永远产生大量的奶水.如果没有进一步的外部影响，奶水生产将永远不会停止.</Heavy_Lactating_Permanent.description>
+
+
+</LanguageData>

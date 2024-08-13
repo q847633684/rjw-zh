@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_interaction_template.label>RJW_交互_模板</rjw_interaction_template.label>
+  <rjw_interaction_template.logRulesInitiator.rulesStrings.0>r_logentry->与[RECIPIENT_nameDef]发生性关系。</rjw_interaction_template.logRulesInitiator.rulesStrings.0>
+  <rjw_interaction_template.logRulesRecipient.rulesStrings.0>r_logentry->与[INITIATOR_nameDef]发生性关系。</rjw_interaction_template.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

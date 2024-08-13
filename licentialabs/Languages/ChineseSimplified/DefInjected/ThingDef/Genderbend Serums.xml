@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GenderBendSerum.label>性别弯曲 血清</GenderBendSerum.label>
+  <GenderBendSerum.description>交换阴茎和阴道并添加或删除乳房。</GenderBendSerum.description>
+  <GenderBendSerum.ingestible.ingestCommandString>饮料 {0}</GenderBendSerum.ingestible.ingestCommandString>
+  <GenderBendSerum.ingestible.ingestReportString>喝{0}。</GenderBendSerum.ingestible.ingestReportString>
+
+  <FutaSerum.label>删除血清</FutaSerum.label>
+  <FutaSerum.description>如果用户尚未成为 删除，则将其设为 删除。</FutaSerum.description>
+  <FutaSerum.ingestible.ingestCommandString>喝{0}</FutaSerum.ingestible.ingestCommandString>
+  <FutaSerum.ingestible.ingestReportString>喝{0}。</FutaSerum.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CumTolerance.label>精液上瘾</CumTolerance.label>
+  <CumTolerance.description>更有可能对精液上瘾。</CumTolerance.description>
+  <CumTolerance.stages.0.label>小的</CumTolerance.stages.0.label>
+  <CumTolerance.stages.1.label>大的</CumTolerance.stages.1.label>
+  <CumTolerance.stages.2.label>大量的</CumTolerance.stages.2.label>
+
+  <CumAddiction.label>精液成瘾</CumAddiction.label>
+  <CumAddiction.description>精液成瘾。</CumAddiction.description>
+  <CumAddiction.stages.1.label>退出</CumAddiction.stages.1.label>
+
+
+</LanguageData>

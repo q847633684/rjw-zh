@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Disease_Boobitis.label>胸部机械化</Disease_Boobitis.label>
+  <Disease_Boobitis.letterText> 您的 {1} 人中有 {0} 人从 {2} 开始生病。\n\n确保您有医疗床位和医生。确保他们得到适当的治疗并尽可能多地卧床休息。\n\n以下 {1} 人生病了</Disease_Boobitis.letterText>
+  <Disease_Boobitis.letterLabel>疾病（胸部机械化）</Disease_Boobitis.letterLabel>
+
+
+</LanguageData>

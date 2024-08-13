@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Counts masturbation -->
+
+  <CountOfFappin.label>自慰次数</CountOfFappin.label>
+  <CountOfFappin.description>我自慰的次数。</CountOfFappin.description>
+
+
+  <!-- Counts all sex excluding masturbation -->
+
+  <CountOfSex.label>做爱次数</CountOfSex.label>
+  <CountOfSex.description>我做爱的次数。</CountOfSex.description>
+
+
+  <!-- Counts all sex + rapes -->
+
+  <CountOfSexWithHumanlikes.label>人型生物做爱次数</CountOfSexWithHumanlikes.label>
+  <CountOfSexWithHumanlikes.description>我和人型生物做爱的次数。</CountOfSexWithHumanlikes.description>
+
+  <CountOfSexWithAnimals.label>动物做爱次数</CountOfSexWithAnimals.label>
+  <CountOfSexWithAnimals.description>我和动物做爱的次数。</CountOfSexWithAnimals.description>
+
+  <CountOfSexWithInsects.label>虫族做爱次数</CountOfSexWithInsects.label>
+  <CountOfSexWithInsects.description>我和虫子做爱的次数。</CountOfSexWithInsects.description>
+
+  <CountOfSexWithOthers.label>做爱次数</CountOfSexWithOthers.label>
+  <CountOfSexWithOthers.description>我和别人做爱的次数。</CountOfSexWithOthers.description>
+
+
+  <!-- Counts rapes -->
+
+  <CountOfRapedHumanlikes.label>强奸次数</CountOfRapedHumanlikes.label>
+  <CountOfRapedHumanlikes.description>我强奸人形生物的次数。</CountOfRapedHumanlikes.description>
+
+  <CountOfRapedAnimals.label>强奸动物次数</CountOfRapedAnimals.label>
+  <CountOfRapedAnimals.description>我强奸动物的次数。</CountOfRapedAnimals.description>
+
+  <CountOfRapedInsects.label>强奸虫子次数</CountOfRapedInsects.label>
+  <CountOfRapedInsects.description>我强奸虫子的次数。</CountOfRapedInsects.description>
+
+  <CountOfRapedOthers.label>强奸人类次数</CountOfRapedOthers.label>
+  <CountOfRapedOthers.description>我强奸他人的次数。</CountOfRapedOthers.description>
+
+  <CountOfSexWithCorpse.label>亵渎尸体次数</CountOfSexWithCorpse.label>
+  <CountOfSexWithCorpse.description>我和尸体做爱的次数。</CountOfSexWithCorpse.description>
+
+  <CountOfBeenRapedByHumanlikes.label>被强奸次数</CountOfBeenRapedByHumanlikes.label>
+  <CountOfBeenRapedByHumanlikes.description>我被强奸的次数。</CountOfBeenRapedByHumanlikes.description>
+
+  <CountOfBeenRapedByAnimals.label>被动物强奸次数</CountOfBeenRapedByAnimals.label>
+  <CountOfBeenRapedByAnimals.description>我被其他动物强奸的次数。</CountOfBeenRapedByAnimals.description>
+
+  <CountOfBeenRapedByInsects.label>被虫类强奸次数</CountOfBeenRapedByInsects.label>
+  <CountOfBeenRapedByInsects.description>我被其他虫子强奸的次数。</CountOfBeenRapedByInsects.description>
+
+  <CountOfBeenRapedByOthers.label>被人型生物强奸的次数</CountOfBeenRapedByOthers.label>
+  <CountOfBeenRapedByOthers.description>被别人强奸的次数。</CountOfBeenRapedByOthers.description>
+
+  <GetRapedAsComfortPrisoner.label>被指定强奸的次数</GetRapedAsComfortPrisoner.label>
+  <GetRapedAsComfortPrisoner.description>我被当作泄欲对象强奸的次数。</GetRapedAsComfortPrisoner.description>
+
+
+  <!-- Counts birthing -->
+
+  <CountOfBirthHuman.label>生出人类数</CountOfBirthHuman.label>
+  <CountOfBirthHuman.description>我曾生出过多少人。</CountOfBirthHuman.description>
+
+  <CountOfBirthAnimal.label>生出动物数</CountOfBirthAnimal.label>
+  <CountOfBirthAnimal.description>我曾生出过多少动物。</CountOfBirthAnimal.description>
+
+  <CountOfBirthEgg.label>虫卵出生计数</CountOfBirthEgg.label>
+  <CountOfBirthEgg.description>我生了多少个蛋。</CountOfBirthEgg.description>
+
+  <CountOfCondomsUsed.label>使用避孕套数</CountOfCondomsUsed.label>
+  <CountOfCondomsUsed.description>我用过的避孕套的数量。</CountOfCondomsUsed.description>
+
+
+  <!-- Counts whoring stuff -->
+  <!--<CountOfWhore.label>卖身次数</CountOfWhore.label>-->
+  <!--<CountOfWhore.description>我卖身的次数。</CountOfWhore.description>-->
+  <!--<EarnedMoneyByWhore.label>卖身白银收入</EarnedMoneyByWhore.label>-->
+  <!--<EarnedMoneyByWhore.description>作为一名娼妓赚取的白银。</EarnedMoneyByWhore.description>-->
+
+</LanguageData>

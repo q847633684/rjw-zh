@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <ThingDef>
+		<defName>Simplelock</defName>
+		<label>Simple lock</label>
+		<description>A low-tech locking mechanism.</description>
+		<thingClass>ThingWithComps</thingClass>
+		<category>Item</category>
+		<thingCategories>
+			<li>Manufactured</li>
+		</thingCategories>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<generateCommonality>0.0</generateCommonality>
+		<statBases>
+			<MaxHitPoints>500</MaxHitPoints>
+			<Flammability>0.0</Flammability>
+			<DeteriorationRate>0.1</DeteriorationRate>
+			<Beauty>-6</Beauty>
+			<MarketValue>400</MarketValue>
+			<Mass>0.5</Mass>
+		</statBases>
+		<altitudeLayer>Item</altitudeLayer>
+		<tickerType>Never</tickerType>
+		<alwaysHaulable>true</alwaysHaulable>
+		<tradeTags>
+			<li>Exotic</li>
+		</tradeTags>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+		</comps>
+		<pathCost>2</pathCost>
+		<graphicData>
+			<texPath>Things/Pawn/Humanlike/Apparel/Bondage/hololock</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<techLevel>Medieval</techLevel>
+	</ThingDef>
+	
+	<ThingDef>
+		<defName>Simplekey</defName>
+		<label>Simple key</label>
+		<description>A low-tech key. Releases matching lock.</description>
+		<thingClass>ThingWithComps</thingClass>
+		<category>Item</category>
+		<thingCategories>
+			<li>Manufactured</li>
+		</thingCategories>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<generateCommonality>0.0</generateCommonality>
+		<statBases>
+			<MaxHitPoints>50</MaxHitPoints>
+			<Flammability>0.2</Flammability>
+			<DeteriorationRate>0.5</DeteriorationRate>
+			<Beauty>0</Beauty>
+			<MarketValue>1</MarketValue>
+			<Mass>0.1</Mass>
+		</statBases>
+		<altitudeLayer>Item</altitudeLayer>
+		<tickerType>Never</tickerType>
+		<alwaysHaulable>true</alwaysHaulable>
+		<tradeTags>
+			<li>Exotic</li>
+		</tradeTags>
+		<tradeability>Sellable</tradeability>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+			<li Class="rjw.CompProperties_CryptoStamped" />
+			<li Class="CompProperties_Usable">
+				<compClass>rjw.CompStampedApparelKey</compClass>
+				<useJob>UnlockBondageGear</useJob>
+				<useLabel>Unlock apparel</useLabel>
+			</li>
+			<li Class="CompProperties_UseEffect">
+				<compClass>rjw.CompUnlockBondageGear</compClass>
+			</li>
+		</comps>
+		<pathCost>1</pathCost>
+		<graphicData>
+			<texPath>Things/Pawn/Humanlike/Apparel/Bondage/holokey</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<techLevel>Medieval</techLevel>
+	</ThingDef>
+	
+	<ThingDef>
+		<defName>Genericlockpick</defName>
+		<label>Lock pick</label>
+		<description>A lock pick. Picks locks.</description>
+		<thingClass>ThingWithComps</thingClass>
+		<category>Item</category>
+		<thingCategories>
+			<li>Manufactured</li>
+		</thingCategories>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<generateCommonality>0.0</generateCommonality>
+		<statBases>
+			<MaxHitPoints>50</MaxHitPoints>
+			<Flammability>0.2</Flammability>
+			<DeteriorationRate>0.5</DeteriorationRate>
+			<Beauty>0</Beauty>
+			<MarketValue>50</MarketValue>
+			<Mass>0.1</Mass>
+		</statBases>
+		<altitudeLayer>Item</altitudeLayer>
+		<tickerType>Never</tickerType>
+		<alwaysHaulable>true</alwaysHaulable>
+		<tradeTags>
+			<li>Exotic</li>
+		</tradeTags>
+		<tradeability>Sellable</tradeability>
+		<comps>
+			<li Class="CompProperties_Forbiddable" />
+			<li Class="rjw.CompProperties_CryptoStamped" />
+			<li Class="CompProperties_Usable">
+				<compClass>rjw.CompStampedApparelKey</compClass>
+				<useJob>UnlockBondageGear</useJob>
+				<useLabel>Unlock apparel</useLabel>
+			</li>
+			<li Class="CompProperties_UseEffect">
+				<compClass>rjw.CompUnlockBondageGear</compClass>
+			</li>
+		</comps>
+		<pathCost>1</pathCost>
+		<graphicData>
+			<texPath>Things/Pawn/Humanlike/Apparel/Bondage/holokey</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<techLevel>Medieval</techLevel>
+	</ThingDef> -->
+
+  <PrisonerChains.label>链条</PrisonerChains.label>
+  <PrisonerChains.description>带袖口的链条，用于限制某人的行动能力和操作能力。*限制格斗能力。*建议配合口球使用。</PrisonerChains.description>
+  <PrisonerChains.comps.2.useLabel>装备</PrisonerChains.comps.2.useLabel>
+
+
+</LanguageData>

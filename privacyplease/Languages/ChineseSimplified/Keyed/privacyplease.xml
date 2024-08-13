@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Basic settings-->
+  <privacy_please_basicsettings>RJW-请保护隐私！</privacy_please_basicsettings>
+
+  <privacy_please_general>常规选项</privacy_please_general>
+
+  <worry_about_exhibitionism>人们会对暴露狂做出反应</worry_about_exhibitionism>
+  <worry_about_exhibitionism_desc>他们的反应取决于他们的暴露狂戒律以及他们是否有偷窥狂 RJW 怪癖。\n\n如果发现令人尴尬的注意力，或者入侵者有敌意，被抓住的人将停止他们的活动。</worry_about_exhibitionism_desc>
+  <worry_about_whoring>人们会对嫖娼做出反应</worry_about_whoring>
+  <worry_about_whoring_desc>他们的反应将取决于他们的卖淫戒律（如果有妓院殖民地模组）、暴露狂以及他们是否有偷窥癖 RJW 怪癖。</worry_about_whoring_desc>
+  <worry_about_masturbation> 人们会对手淫做出反应</worry_about_masturbation>
+  <worry_about_masturbation_desc>他们的反应将取决于他们的自慰戒律（需要性经验 -意识形态）。\n\n如果禁用此选项，将被视为暴露狂。</worry_about_masturbation_desc>
+  <worry_about_infidelity> 人们会对出轨的伴侣做出反应</worry_about_infidelity>
+  <worry_about_infidelity_desc>他们的反应将取决于他们的不忠戒律以及他们是否有戴绿帽子的 RJW 怪癖。\n\n如果禁用此选项，将被视为暴露癖。</worry_about_infidelity_desc>
+  <worry_about_beastiality>人们会对兽性做出反应</worry_about_beastiality>
+  <worry_about_beastiality_desc>他们的反应将取决于他们的兽交戒律（需要性体验 -意识形态）以及他们是否具有兽性特征。\n\n如果禁用此选项，将被视为暴露狂。</worry_about_beastiality_desc>
+  <worry_about_rape> 人们会对强奸做出反应</worry_about_rape>
+  <worry_about_rape_desc>他们的反应将取决于他们的强奸戒律（需要性经验 -意识形态）以及他们是否具有强奸犯特质。\n\n如果禁用此选项，将被视为暴露狂。</worry_about_rape_desc>
+  <ignore_slave_rape>如果受害者是囚犯或奴隶，人们会忽略强奸</ignore_slave_rape>
+  <worry_about_necro>人们会对恋尸癖做出反应</worry_about_necro>
+  <worry_about_necro_desc>他们的反应将取决于他们的恋尸癖戒律（需要性经验 -意识形态）以及他们是否具有恋尸癖特质。\n\n如果禁用此选项，将被视为暴露狂。</worry_about_necro_desc>
+  <worry_about_xeno>人们会对不同物种的类人生物之间的耦合做出反应</worry_about_xeno>
+  <worry_about_xeno_desc>他们的反应将取决于他们的外星人约会规则（需要人形外星种族）以及他们是否具有亲外或仇外特征。\n\n请注意，转基因个体仍然算作“人类”，如果这会被视为暴露狂选项已禁用。</worry_about_xeno_desc>
+
+  <major_taboo_can_start_fights> 目睹令人憎恶的行为可能会导致恐慌</major_taboo_can_start_fights>
+  <major_taboo_can_start_fights_desc>目睹令人厌恶的性行为的人可能会感到恐慌并逃离该地区。</major_taboo_can_start_fights_desc>
+
+  <ignore_ritual_and_party_sex>人们会忽视仪式或聚会中的性行为</ignore_ritual_and_party_sex>
+  <ignore_ritual_and_party_sex_desc>仪式和聚会期间发生的任何令人反感的事件都不会引起参与者或旁观者的任何反应。</ignore_ritual_and_party_sex_desc>
+
+  <slaves_ignore_sex>囚犯和奴隶将无视殖民者的行为</slaves_ignore_sex>
+  <slaves_ignore_sex_desc>囚犯和奴隶发现最好忽略周围发生的事情。他们不会对附近发生的任何性活动做出反应。</slaves_ignore_sex_desc>
+  <colonists_ignore_slaves>殖民者将忽略囚犯和奴隶的存在</colonists_ignore_slaves>
+  <colonists_ignore_slaves_desc>囚犯和奴隶处于殖民者的注意范围内。在任何性活动中，你的殖民者都不会对其存在做出反应。</colonists_ignore_slaves_desc>
+
+  <other_factions_ignore_sex>其他派系的成员将忽略殖民者的行为</other_factions_ignore_sex>
+  <other_factions_ignore_sex_desc>友好派系的成员会礼貌地忽略附近发生的任何性行为。\n\n敌对你的派系将始终忽略此类无聊行为，无论此设置如何。</other_factions_ignore_sex_desc>
+  <colonists_ignore_other_factions>殖民者将忽略其他派系成员的存在</colonists_ignore_other_factions>
+  <colonists_ignore_other_factions_desc>殖民者在性活动期间不会因为友好成员的存在而感到困扰。\n\n无论设置如何，敌对入侵者总是会打断性活动。</colonists_ignore_other_factions_desc>
+
+  <rape_is_uninteruptable> 强奸不会被目击者打断</rape_is_uninteruptable>
+  <rape_is_uninteruptable_desc>强奸犯无耻，不会让附近的目击者打断他们。</rape_is_uninteruptable_desc>
+  <whoring_is_uninteruptable> 嫖娼不会被目击者打断</whoring_is_uninteruptable>
+  <whoring_is_uninteruptable_desc>性工作者可能会因不合时宜的入侵而感到尴尬，但无论如何都会继续下去。</whoring_is_uninteruptable_desc>
+
+  <chance_for_other_to_join_in_sex>恋爱的人有机会邀请路人一起玩（默认0.25）</chance_for_other_to_join_in_sex>
+  <chance_for_other_to_join_in_sex_desc>当前没有从事重要工作的路人可以被邀请参加性活动。参与者之间必须有一定的吸引力，并且活动不能违反他们的特征或意识形态。\n\n请注意，将此值设置为最大值并不能保证此事件一定会发生，它只会最大限度地提高邀请被邀请的机会\n\n但是，请将此值设置为零以防止发出这些邀请。</chance_for_other_to_join_in_sex_desc>
+
+  <privacy_please_debugging>调试选项</privacy_please_debugging>
+  <debug_mode> 打开调试控制台消息</debug_mode>
+  <debug_mode_desc>仅用于调试目的。</debug_mode_desc>
+
+</LanguageData>

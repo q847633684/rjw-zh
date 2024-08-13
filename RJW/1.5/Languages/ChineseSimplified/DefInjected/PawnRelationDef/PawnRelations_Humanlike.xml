@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- close family -->
+
+  <!--[Core] <Parent.label>father</Parent.label>-->
+  <!--[Core] <Parent.labelFemale>mother</Parent.labelFemale>-->
+
+  <!--[Core] <Child.label>son</Child.label>-->
+  <!--[Core] <Child.labelFemale>daughter</Child.labelFemale>-->
+
+  <!--[Core] <Sibling.label>brother</Sibling.label>-->
+  <!--[Core] <Sibling.labelFemale>sister</Sibling.labelFemale>-->
+
+  <!--[Core] <HalfSibling.label>brother</HalfSibling.label>-->
+  <!--[Core] <HalfSibling.labelFemale>sister</HalfSibling.labelFemale>-->
+
+  <!--[Core] <Grandparent.label>grandfather</Grandparent.label>-->
+  <!--[Core] <Grandparent.labelFemale>grandmother</Grandparent.labelFemale>-->
+
+  <!--[Core] <Grandchild.label>grandson</Grandchild.label>-->
+  <!--[Core] <Grandchild.labelFemale>granddaughter</Grandchild.labelFemale>-->
+
+  <!--[Core] <NephewOrNiece.label>nephew</NephewOrNiece.label>-->
+  <!--[Core] <NephewOrNiece.labelFemale>niece</NephewOrNiece.labelFemale>-->
+
+  <!--[Core] <UncleOrAunt.label>uncle</UncleOrAunt.label>-->
+  <!--[Core] <UncleOrAunt.labelFemale>aunt</UncleOrAunt.labelFemale>-->
+
+  <!--[Core] <Cousin.label>cousin</Cousin.label>-->
+  <!--[Core] <Cousin.labelFemale>cousin</Cousin.labelFemale>-->
+
+
+  <!-- distant family -->
+
+  <!--[Core] <GreatGrandparent.label>great grandfather</GreatGrandparent.label>-->
+  <!--[Core] <GreatGrandparent.labelFemale>great grandmother</GreatGrandparent.labelFemale>-->
+
+  <!--[Core] <GreatGrandchild.label>great grandson</GreatGrandchild.label>-->
+  <!--[Core] <GreatGrandchild.labelFemale>great granddaughter</GreatGrandchild.labelFemale>-->
+
+  <!--[Core] <GranduncleOrGrandaunt.label>granduncle</GranduncleOrGrandaunt.label>-->
+  <!--[Core] <GranduncleOrGrandaunt.labelFemale>grandaunt</GranduncleOrGrandaunt.labelFemale>-->
+
+  <!--[Core] <GrandnephewOrGrandniece.label>grandnephew</GrandnephewOrGrandniece.label>-->
+  <!--[Core] <GrandnephewOrGrandniece.labelFemale>grandniece</GrandnephewOrGrandniece.labelFemale>-->
+
+  <!--[Core] <CousinOnceRemoved.label>cousin once removed</CousinOnceRemoved.label>-->
+  <!--[Core] <CousinOnceRemoved.labelFemale>cousin once removed</CousinOnceRemoved.labelFemale>-->
+
+  <!--[Core] <SecondCousin.label>second cousin</SecondCousin.label>-->
+  <!--[Core] <SecondCousin.labelFemale>second cousin</SecondCousin.labelFemale>-->
+
+
+  <!-- kin -->
+
+  <!--[Core] <Kin.label>kin</Kin.label>-->
+  <!--[Core] <Kin.labelFemale>kin</Kin.labelFemale>-->
+
+
+</LanguageData>

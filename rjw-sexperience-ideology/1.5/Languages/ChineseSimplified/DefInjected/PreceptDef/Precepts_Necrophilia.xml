@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <Necrophilia_Abhorrent.label>可恶</Necrophilia_Abhorrent.label>
+  <Necrophilia_Abhorrent.description>恋尸者是极其邪恶的。</Necrophilia_Abhorrent.description>
+
+  <Necrophilia_Horrible.label>可怕</Necrophilia_Horrible.label>
+  <Necrophilia_Horrible.description>恋尸癖是一件可怕的事情。</Necrophilia_Horrible.description>
+
+  <Necrophilia_Disapproved.label>未批准</Necrophilia_Disapproved.label>
+  <Necrophilia_Disapproved.description>恋尸癖是极其令人厌恶的。</Necrophilia_Disapproved.description>
+
+  <Necrophilia_Acceptable.label>可接受</Necrophilia_Acceptable.label>
+  <Necrophilia_Acceptable.description>恋尸癖是生活中正常、不引人注目的一部分。</Necrophilia_Acceptable.description>
+
+  <Necrophilia_Approved.label>已批准</Necrophilia_Approved.label>
+  <Necrophilia_Approved.description>他妈的尸体就是批准。</Necrophilia_Approved.description>
+
+
+</LanguageData>

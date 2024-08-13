@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RSI_Mod_Title>RJW-性经验-思想</RSI_Mod_Title>
+
+  <MemeStatFactor>迷因</MemeStatFactor>
+  <RSVictimCondition>奴隶，囚犯，仅限顺从性别</RSVictimCondition>
+  <RSBreederCondition>不适当的动物：不能繁殖或受戒律禁止</RSBreederCondition>
+  <RSNotHuman>不是人类</RSNotHuman>
+  <RSNotAnimal>不是动物</RSNotAnimal>
+  <RSShouldCanFuck>需要有性行为能力</RSShouldCanFuck>
+
+  <RSI_PatchRomanceChanceFactor>启用乱伦戒律的浪漫补丁*</RSI_PatchRomanceChanceFactor>
+  <RSI_PatchRomanceChanceFactorTip>影响 浪漫机会因素 的乱伦戒律补丁。可能与浪漫模组冲突。/n/n*需要重新启动游戏才能应用更改</RSI_PatchRomanceChanceFactorTip>
+  <RSI_PatchIncestuousManualRomance>为乱伦戒律启用手动浪漫补丁*</RSI_PatchIncestuousManualRomance>
+  <RSI_PatchIncestuousManualRomanceTip>乱伦戒律补丁会影响手动浪漫选项。/n/n*需要重新启动游戏才能应用更改</RSI_PatchIncestuousManualRomanceTip>
+
+  <RSI_PreceptTipModifyBestialityMtb>兽交尝试之间的时间 x{0}</RSI_PreceptTipModifyBestialityMtb>
+  <RSI_PreceptTipModifyFappinMtb>尝试手淫之间的时间 x{0}</RSI_PreceptTipModifyFappinMtb>
+  <RSI_PreceptTipModifyNecroMtb>恋尸尝试之间的时间间隔 x{0}</RSI_PreceptTipModifyNecroMtb>
+  <RSI_PreceptTipModifyRapeCPMtb>强奸未遂之间的时间 x{0}</RSI_PreceptTipModifyRapeCPMtb>
+
+  <CantRomanceTargetIncest>被意识形态所禁止</CantRomanceTargetIncest>
+
+</LanguageData>

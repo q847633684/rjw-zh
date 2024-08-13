@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PawnColumnWorker_RJWGender_IsHerm>赫姆</PawnColumnWorker_RJWGender_IsHerm>
+
+  <!-- todo? -->
+  <!-- or not todo? -->
+  <PawnColumnWorker_IsSlave>pawn 是从属吗？</PawnColumnWorker_IsSlave>
+  <PawnColumnWorker_IsPrisoner>pawn 是囚犯吗？</PawnColumnWorker_IsPrisoner>
+  <PawnColumnWorker_IsComfort>pawn 是舒适 Pawn 吗？</PawnColumnWorker_IsComfort>
+  <PawnColumnWorker_IsBreeder>是 pawn Breeder 吗？</PawnColumnWorker_IsBreeder>
+
+  <MainTabWindow_Designators>指示符</MainTabWindow_Designators>
+
+</LanguageData>

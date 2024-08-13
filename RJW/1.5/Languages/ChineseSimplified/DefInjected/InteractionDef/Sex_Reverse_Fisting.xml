@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_Reverse_Fisting.label>拳交</Sex_Reverse_Fisting.label>
+  <Sex_Reverse_Fisting.logRulesInitiator.rulesStrings.0>r_logentry->拳交了[RECIPIENT_nameDef]。</Sex_Reverse_Fisting.logRulesInitiator.rulesStrings.0>
+  <Sex_Reverse_Fisting.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]拳交了。</Sex_Reverse_Fisting.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

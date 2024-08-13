@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Menstruation_ShortEggLifetime.label>卵子寿命短</Menstruation_ShortEggLifetime.label>
+  <Menstruation_ShortEggLifetime.description>带有该基因的未受精卵的寿命是四分之三。</Menstruation_ShortEggLifetime.description>
+
+  <Menstruation_DoubleEggLifetime.label>双卵寿命</Menstruation_DoubleEggLifetime.label>
+  <Menstruation_DoubleEggLifetime.description>带有该基因的未受精卵的寿命是原来的两倍。</Menstruation_DoubleEggLifetime.description>
+
+  <Menstruation_QuadEggLifetime.label>四规则卵子寿命</Menstruation_QuadEggLifetime.label>
+  <Menstruation_QuadEggLifetime.description>带有该基因的卵子的寿命是原来的四倍。</Menstruation_QuadEggLifetime.description>
+
+  <Menstruation_NeverEstrus.label>从不发情</Menstruation_NeverEstrus.label>
+  <Menstruation_NeverEstrus.description>该基因的携带者永远不会进入发情期。</Menstruation_NeverEstrus.description>
+
+  <Menstruation_FullEstrus.label>完全发情</Menstruation_FullEstrus.label>
+  <Menstruation_FullEstrus.description>无论阴道类型如何，该基因的携带者都会在每个月经周期进入完全发情期。</Menstruation_FullEstrus.description>
+
+  <Menstruation_DoubleOvulation.label>双排卵</Menstruation_DoubleOvulation.label>
+  <Menstruation_DoubleOvulation.description>携带该基因的人会排卵两倍的卵子。</Menstruation_DoubleOvulation.description>
+
+  <Menstruation_QuadOvulation.label>四次排卵</Menstruation_QuadOvulation.label>
+  <Menstruation_QuadOvulation.description>携带该基因的人会排卵四倍的卵子。</Menstruation_QuadOvulation.description>
+
+  <Menstruation_NoBleeding.label>没有出血</Menstruation_NoBleeding.label>
+  <Menstruation_NoBleeding.description>该基因携带者在周期结束时不会出血。</Menstruation_NoBleeding.description>
+
+
+</LanguageData>

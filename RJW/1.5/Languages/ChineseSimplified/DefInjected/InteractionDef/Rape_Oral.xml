@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_Oral.label>强奸口交</Rape_Oral.label>
+  <Rape_Oral.logRulesInitiator.rulesStrings.0>r_logentry->深喉了[RECIPIENT_nameDef]。</Rape_Oral.logRulesInitiator.rulesStrings.0>
+  <Rape_Oral.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]深喉了。</Rape_Oral.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

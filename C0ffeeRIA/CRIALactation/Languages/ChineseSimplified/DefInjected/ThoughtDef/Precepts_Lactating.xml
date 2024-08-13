@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Essential -->
+
+  <Lactating_Essential.stages.0.label>产奶（H人牛）</Lactating_Essential.stages.0.label>
+  <Lactating_Essential.stages.0.description>我是一头产奶的好奶牛. 哞！</Lactating_Essential.stages.0.description>
+  <Lactating_Essential.stages.1.label>产奶</Lactating_Essential.stages.1.label>
+  <Lactating_Essential.stages.1.description>我很高兴能够通过生产一些牛奶来支持我的群体。</Lactating_Essential.stages.1.description>
+  <Lactating_Essential.stages.2.label>不产奶</Lactating_Essential.stages.2.label>
+  <Lactating_Essential.stages.2.description>我们生活在如此困难的时期。这是一厢情愿的想法，但我现在就想产奶。</Lactating_Essential.stages.2.description>
+  <Lactating_Essential.stages.3.label>不产奶</Lactating_Essential.stages.3.label>
+  <Lactating_Essential.stages.3.description>我就像枯井一样毫无用处。健康的乳汁供应可以使蜂群受益，但我无法生产。</Lactating_Essential.stages.3.description>
+  <Lactating_Essential.stages.4.label>不产奶</Lactating_Essential.stages.4.label>
+  <Lactating_Essential.stages.4.description>生产牛奶是一项基本责任。我对自己干燥感到尴尬和羞愧。</Lactating_Essential.stages.4.description>
+
+  <Lactating_Essential_Social.stages.0.label>hucow</Lactating_Essential_Social.stages.0.label>
+  <Lactating_Essential_Social.stages.1.label>产奶</Lactating_Essential_Social.stages.1.label>
+  <Lactating_Essential_Social.stages.2.label>不产奶（低期望）</Lactating_Essential_Social.stages.2.label>
+  <Lactating_Essential_Social.stages.3.label>不产奶（中等期望）</Lactating_Essential_Social.stages.3.label>
+  <Lactating_Essential_Social.stages.4.label>不产奶（高期望）</Lactating_Essential_Social.stages.4.label>
+
+  <DrankMilkRaw_Essential.stages.0.label>喝母乳</DrankMilkRaw_Essential.stages.0.label>
+  <DrankMilkRaw_Essential.stages.0.description>新鲜母乳的味道甜美、充实、贴心。</DrankMilkRaw_Essential.stages.0.description>
+
+  <DrankMilkMeal_Essential.stages.0.label>吃母乳</DrankMilkMeal_Essential.stages.0.label>
+  <DrankMilkMeal_Essential.stages.0.description>母乳使我的膳食更加美味。</DrankMilkMeal_Essential.stages.0.description>
+
+  <DrankNonMilkMeal_Essential.stages.0.label>吃了非母乳食品</DrankNonMilkMeal_Essential.stages.0.label>
+  <DrankNonMilkMeal_Essential.stages.0.description>我必须吃不是由胡牛乳房产生的食物。此食物仅供 H人牛 使用。</DrankNonMilkMeal_Essential.stages.0.description>
+
+  <NoRecentHumanMilk_Essential.stages.0.label>想要母乳</NoRecentHumanMilk_Essential.stages.0.label>
+  <NoRecentHumanMilk_Essential.stages.0.description>我已经很久没有尝过女人乳房的乳汁了。我现在应该已经有一些了。</NoRecentHumanMilk_Essential.stages.0.description>
+
+
+  <!-- mandatory hucow -->
+
+  <Lactating_MandatoryHucow.stages.0.label>产奶（H人牛）</Lactating_MandatoryHucow.stages.0.label>
+  <Lactating_MandatoryHucow.stages.0.description>看着人们满意的表情喝下我表达的东西，让我有一种母亲般的自豪感。我是殖民地的牛。哞！</Lactating_MandatoryHucow.stages.0.description>
+  <Lactating_MandatoryHucow.stages.1.label>产奶</Lactating_MandatoryHucow.stages.1.label>
+  <Lactating_MandatoryHucow.stages.1.description>我正在产奶，但我还不是牛。</Lactating_MandatoryHucow.stages.1.description>
+  <Lactating_MandatoryHucow.stages.2.label>不产奶</Lactating_MandatoryHucow.stages.2.label>
+  <Lactating_MandatoryHucow.stages.2.description>一想到我的乳房在我们最需要的时候却没有产奶，我就很痛苦。</Lactating_MandatoryHucow.stages.2.description>
+  <Lactating_MandatoryHucow.stages.3.label>不产奶</Lactating_MandatoryHucow.stages.3.label>
+  <Lactating_MandatoryHucow.stages.3.description>我的奶水已经干了。我很尴尬，我想我不能在公共场合露面。</Lactating_MandatoryHucow.stages.3.description>
+  <Lactating_MandatoryHucow.stages.4.label>不产奶</Lactating_MandatoryHucow.stages.4.label>
+  <Lactating_MandatoryHucow.stages.4.description>如果我有乳房但无法挤出乳汁，我的目的是什么？我没用！</Lactating_MandatoryHucow.stages.4.description>
+
+  <Lactating_MandatoryHucow_Social.stages.0.label>H人牛</Lactating_MandatoryHucow_Social.stages.0.label>
+  <Lactating_MandatoryHucow_Social.stages.1.label>产奶</Lactating_MandatoryHucow_Social.stages.1.label>
+  <Lactating_MandatoryHucow_Social.stages.2.label>不产奶（低期望）</Lactating_MandatoryHucow_Social.stages.2.label>
+  <Lactating_MandatoryHucow_Social.stages.3.label>不产奶（中等期望）</Lactating_MandatoryHucow_Social.stages.3.label>
+  <Lactating_MandatoryHucow_Social.stages.4.label>不产奶（高期望）</Lactating_MandatoryHucow_Social.stages.4.label>
+
+  <DrankMilkRaw_MandatoryHucow.stages.0.label>喝母乳</DrankMilkRaw_MandatoryHucow.stages.0.label>
+  <DrankMilkRaw_MandatoryHucow.stages.0.description>如此神圣，如此多汁。我们的奶牛产出美味的牛奶。</DrankMilkRaw_MandatoryHucow.stages.0.description>
+
+  <DrankMilkMeal_MandatoryHucow.stages.0.label>吃母乳餐</DrankMilkMeal_MandatoryHucow.stages.0.label>
+  <DrankMilkMeal_MandatoryHucow.stages.0.description>母乳使我的膳食更加美味。</DrankMilkMeal_MandatoryHucow.stages.0.description>
+
+  <DrankNonMilkMeal_MandatoryHucow.stages.0.label>吃了非母乳食品</DrankNonMilkMeal_MandatoryHucow.stages.0.label>
+  <DrankNonMilkMeal_MandatoryHucow.stages.0.description>恶心！我不得不吃不含母乳的食物。这种食物应该只适合hucows！</DrankNonMilkMeal_MandatoryHucow.stages.0.description>
+
+  <NoRecentHumanMilk_MandatoryHucow.stages.0.label>想要母乳</NoRecentHumanMilk_MandatoryHucow.stages.0.label>
+  <NoRecentHumanMilk_MandatoryHucow.stages.0.description>我已经好几天没有吃母乳了。我的身体感觉虚弱。</NoRecentHumanMilk_MandatoryHucow.stages.0.description>
+
+
+</LanguageData>

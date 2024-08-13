@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_Reverse_Anal.label>强奸肛门</Rape_Reverse_Anal.label>
+  <Rape_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->强奸了[RECIPIENT_nameDef]的屁股。</Rape_Reverse_Anal.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]强奸了屁股。</Rape_Reverse_Anal.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

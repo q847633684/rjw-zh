@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ########### -->
+
+  <CB_SacredFertility.label>神圣生育力</CB_SacredFertility.label>
+  <CB_SacredFertility.description>根据仪式结果，所有参与者都会获得生育力奖励。
+	\n这克服了因年老不孕的问题。
+	\n额外的神圣热情可以用来获得更多的生育能力。</CB_SacredFertility.description>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Death thoughts -->
+
+  <MyPupDied.stages.0.label>我的儿子{0}死了</MyPupDied.stages.0.label>
+  <MyPupDied.stages.0.description>我的儿子死了，我的血肉至亲啊……</MyPupDied.stages.0.description>
+
+  <MyPupDiedFemale.stages.0.label>我的女儿{0}死了</MyPupDiedFemale.stages.0.label>
+  <MyPupDiedFemale.stages.0.description>我的女儿死了，我的血肉至亲啊……</MyPupDiedFemale.stages.0.description>
+
+
+  <!-- Killed opinion thoughts -->
+
+  <KilledMyPup.stages.0.label>杀死我的儿子</KilledMyPup.stages.0.label>
+  <KilledMyPupFemale.stages.0.label>杀死我的女儿</KilledMyPupFemale.stages.0.label>
+
+
+  <!-- sold thought -->
+
+  <SoldMyPup.stages.0.label>出售我的爱人</SoldMyPup.stages.0.label>
+  <SoldMyPup.stages.0.description>我的孩子被卖了！</SoldMyPup.stages.0.description>
+
+
+</LanguageData>

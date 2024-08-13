@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex_Rimming.label>舔肛</Sex_Rimming.label>
+  <Sex_Rimming.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]舔了肛门。</Sex_Rimming.logRulesInitiator.rulesStrings.0>
+  <Sex_Rimming.logRulesRecipient.rulesStrings.0>r_logentry->舔了舔[INITIATOR_nameDef]的肛门。</Sex_Rimming.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

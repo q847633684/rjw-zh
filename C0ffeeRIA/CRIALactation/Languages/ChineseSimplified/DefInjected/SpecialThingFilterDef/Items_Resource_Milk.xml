@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AllowWithHumanMilk.label>允许食用母乳</AllowWithHumanMilk.label>
+  <AllowWithHumanMilk.description>允许使用母乳制成的食物。</AllowWithHumanMilk.description>
+
+  <AllowWithoutHumanMilk.label>允许不含母乳的食物</AllowWithoutHumanMilk.label>
+  <AllowWithoutHumanMilk.description>允许正常食物。</AllowWithoutHumanMilk.description>
+
+
+</LanguageData>

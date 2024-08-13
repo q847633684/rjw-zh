@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hololock.label>全息锁</Hololock.label>
+  <Hololock.description>高科技的锁定器，功能包括：
+-高度耐寒，玻璃钢装饰结构。
+-随机密钥进行高度的加密，确保无法仿制。
+-自毁触发装置，确保损坏时破坏内部物品，而不是被人缴获。
+全息锁最初是为军事用途而设计的，后来在BDSM社区中流行起来。在BDSM社区，人们习惯用匹配的名字来雕刻钥匙和锁，这样更容易辨识。</Hololock.description>
+
+  <Holokey.label>全息钥匙</Holokey.label>
+  <Holokey.description>一个高科技的钥匙，用于打开配对的锁。</Holokey.description>
+  <Holokey.comps.2.useLabel>解锁</Holokey.comps.2.useLabel>
+
+
+</LanguageData>

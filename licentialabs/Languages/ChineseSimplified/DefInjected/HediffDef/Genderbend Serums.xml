@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Genderbent.label>性别扭曲</Genderbent.label>
+  <Genderbent.description>描述文本</Genderbent.description>
+  <Genderbent.stages.0.label>需要改变</Genderbent.stages.0.label>
+  <Genderbent.stages.1.label>适应</Genderbent.stages.1.label>
+  <Genderbent.stages.2.label>性欲旺盛</Genderbent.stages.2.label>
+  <Genderbent.stages.3.label>困惑</Genderbent.stages.3.label>
+  <Genderbent.labelNoun>性别扭曲</Genderbent.labelNoun>
+
+
+</LanguageData>

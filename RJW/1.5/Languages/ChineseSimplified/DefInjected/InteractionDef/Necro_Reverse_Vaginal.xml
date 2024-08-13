@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Necro_Reverse_Vaginal.label>阴道</Necro_Reverse_Vaginal.label>
+  <Necro_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->阴道强奸 [RECIPIENT_nameDef].</Necro_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Necro_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]阴道强奸.</Necro_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

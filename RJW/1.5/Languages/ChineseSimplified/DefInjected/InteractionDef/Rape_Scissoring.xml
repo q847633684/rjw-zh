@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_Scissoring.label>剪刀腿</Rape_Scissoring.label>
+  <Rape_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->用剪刀腿粗暴地和[RECIPIENT_nameDef]磨豆腐。</Rape_Scissoring.logRulesInitiator.rulesStrings.0>
+  <Rape_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->被迫以剪刀腿的姿势和[INITIATOR_nameDef]磨豆腐。</Rape_Scissoring.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

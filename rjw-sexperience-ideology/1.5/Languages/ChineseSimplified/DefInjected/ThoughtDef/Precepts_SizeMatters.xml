@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts - Mood -->
+
+  <GenitalSize_Approved.stages.0.label>鄙视生殖器尺寸</GenitalSize_Approved.stages.0.label>
+  <GenitalSize_Approved.stages.0.description>我...我现在的样子很好！</GenitalSize_Approved.stages.0.description>
+  <GenitalSize_Approved.stages.1.label>不需要的生殖器尺寸</GenitalSize_Approved.stages.1.label>
+  <GenitalSize_Approved.stages.1.description>我认为我低于平均水平。</GenitalSize_Approved.stages.1.description>
+  <GenitalSize_Approved.stages.2.label>正常生殖器</GenitalSize_Approved.stages.2.label>
+  <GenitalSize_Approved.stages.2.description>我想我是平均水平。</GenitalSize_Approved.stages.2.description>
+  <GenitalSize_Approved.stages.3.label>欣赏生殖器</GenitalSize_Approved.stages.3.label>
+  <GenitalSize_Approved.stages.3.description>我认为我高于平均水平。</GenitalSize_Approved.stages.3.description>
+  <GenitalSize_Approved.stages.4.label>受人尊敬的生殖器</GenitalSize_Approved.stages.4.label>
+  <GenitalSize_Approved.stages.4.description>我不想成为房间里的大象，但我的一部分却是。</GenitalSize_Approved.stages.4.description>
+
+  <GenitalSize_Disapproved.stages.0.label>受人尊敬的生殖器</GenitalSize_Disapproved.stages.0.label>
+  <GenitalSize_Disapproved.stages.0.description>我不需要巨大的生殖器，因为我是一个具有至高智慧和优雅的存在。</GenitalSize_Disapproved.stages.0.description>
+  <GenitalSize_Disapproved.stages.1.label>欣赏生殖器</GenitalSize_Disapproved.stages.1.label>
+  <GenitalSize_Disapproved.stages.1.description>我认为我低于平均水平。</GenitalSize_Disapproved.stages.1.description>
+  <GenitalSize_Disapproved.stages.2.label>正常生殖器</GenitalSize_Disapproved.stages.2.label>
+  <GenitalSize_Disapproved.stages.2.description>我想我是平均水平。</GenitalSize_Disapproved.stages.2.description>
+  <GenitalSize_Disapproved.stages.3.label>不需要的生殖器</GenitalSize_Disapproved.stages.3.label>
+  <GenitalSize_Disapproved.stages.3.description>我认为我高于平均水平。</GenitalSize_Disapproved.stages.3.description>
+  <GenitalSize_Disapproved.stages.4.label>被鄙视的生殖器</GenitalSize_Disapproved.stages.4.label>
+  <GenitalSize_Disapproved.stages.4.description>我更接近动物，而不是人类。为什么我必须这样出生？ </GenitalSize_Disapproved.stages.4.description>
+
+
+  <!-- Social-Thoughts (Opinion) -->
+
+  <GenitalSize_Approved_Social.stages.0.label>不需要的生殖器</GenitalSize_Approved_Social.stages.0.label>
+  <GenitalSize_Approved_Social.stages.1.label>正常生殖器</GenitalSize_Approved_Social.stages.1.label>
+  <GenitalSize_Approved_Social.stages.2.label>良好的生殖器</GenitalSize_Approved_Social.stages.2.label>
+
+  <GenitalSize_Disapproved_Social.stages.0.label>良好的生殖器</GenitalSize_Disapproved_Social.stages.0.label>
+  <GenitalSize_Disapproved_Social.stages.1.label>正常生殖器</GenitalSize_Disapproved_Social.stages.1.label>
+  <GenitalSize_Disapproved_Social.stages.2.label>不需要的生殖器</GenitalSize_Disapproved_Social.stages.2.label>
+
+
+  <!--社会思想（意见）-->
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LactineHigh_A.label>催乳劑阿爾法亢奮</LactineHigh_A.label>
+  <LactineHigh_A.description>Artificially induced lactation</LactineHigh_A.description>
+  <LactineHigh_A.stages.0.label>low</LactineHigh_A.stages.0.label>
+  <LactineHigh_A.stages.1.label>low</LactineHigh_A.stages.1.label>
+  <LactineHigh_A.stages.2.label>low</LactineHigh_A.stages.2.label>
+  <LactineHigh_A.stages.3.label>low</LactineHigh_A.stages.3.label>
+  <LactineHigh_A.stages.4.label>mild</LactineHigh_A.stages.4.label>
+  <LactineHigh_A.stages.5.label>mild</LactineHigh_A.stages.5.label>
+  <LactineHigh_A.stages.6.label>high</LactineHigh_A.stages.6.label>
+
+  <LactineTolerance_A.label>催乳劑阿爾法耐受</LactineTolerance_A.label>
+  <LactineTolerance_A.description>A built-up tolerance to alpha lactine. The more severe this tolerance is, the more alpha lactine it takes to get the same effect.</LactineTolerance_A.description>
+
+  <LactineAddiction_A.label>催乳劑阿爾法成癮</LactineAddiction_A.label>
+  <LactineAddiction_A.description>A chemical addiction to alpha lactine. Long-term presence of alpha lactine has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of alpha lactine, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</LactineAddiction_A.description>
+  <LactineAddiction_A.stages.1.label>withdrawal</LactineAddiction_A.stages.1.label>
+
+
+</LanguageData>

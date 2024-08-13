@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_SuccubusTail_Reverse_Tailjob.label>魅魔尾尾工作</Rape_SuccubusTail_Reverse_Tailjob.label>
+  <Rape_SuccubusTail_Reverse_Tailjob.logRulesInitiator.rulesStrings.0>r_logentry->将 尾部工作 交给 [RECIPIENT_nameDef]。</Rape_SuccubusTail_Reverse_Tailjob.logRulesInitiator.rulesStrings.0>
+  <Rape_SuccubusTail_Reverse_Tailjob.logRulesRecipient.rulesStrings.0>r_logentry->由 [INITIATOR_nameDef] 给予 尾部工作。</Rape_SuccubusTail_Reverse_Tailjob.logRulesRecipient.rulesStrings.0>
+
+  <Rape_SuccubusTail_Reverse_Vaginal.label>魅魔尾 阴道</Rape_SuccubusTail_Reverse_Vaginal.label>
+  <Rape_SuccubusTail_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->由[RECIPIENT_nameDef]进行阴道尾交。</Rape_SuccubusTail_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Rape_SuccubusTail_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->给 [INITIATOR_nameDef] 进行阴道尾交。</Rape_SuccubusTail_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
+
+  <Rape_SuccubusTail_Reverse_Anal.label>魅魔尾 肛门</Rape_SuccubusTail_Reverse_Anal.label>
+  <Rape_SuccubusTail_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->由 [RECIPIENT_nameDef] 进行肛门尾交。</Rape_SuccubusTail_Reverse_Anal.logRulesInitiator.rulesStrings.0>
+  <Rape_SuccubusTail_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->对 [INITIATOR_nameDef] 进行肛门尾交。</Rape_SuccubusTail_Reverse_Anal.logRulesRecipient.rulesStrings.0>
+
+
+  <!-- Top of tail opens up and evelops the penis -->
+
+  <Rape_SuccubusTail_Reverse_Envelop.label>魅魔尾 信封</Rape_SuccubusTail_Reverse_Envelop.label>
+  <Rape_SuccubusTail_Reverse_Envelop.logRulesInitiator.rulesStrings.0>r_logentry->为 [RECIPIENT_nameDef] 提供了特殊的尾部工作.</Rape_SuccubusTail_Reverse_Envelop.logRulesInitiator.rulesStrings.0>
+  <Rape_SuccubusTail_Reverse_Envelop.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 给予了特殊的尾部工作.</Rape_SuccubusTail_Reverse_Envelop.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

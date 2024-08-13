@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HormonalSerum.label>荷尔蒙血清</HormonalSerum.label>
+  <HormonalSerum.description>荷尔蒙血清。可以出于某种乐趣而食用，但主要用于制造其他药物。</HormonalSerum.description>
+  <HormonalSerum.ingestible.ingestCommandString>饮料 {0}</HormonalSerum.ingestible.ingestCommandString>
+  <HormonalSerum.ingestible.ingestReportString>饮用 {0}。</HormonalSerum.ingestible.ingestReportString>
+
+
+</LanguageData>

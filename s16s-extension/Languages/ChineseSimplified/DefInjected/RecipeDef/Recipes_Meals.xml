@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <S16CookLoveCookie.label>製作愛情餅乾</S16CookLoveCookie.label>
+  <S16CookLoveCookie.description>製作一些可愛的心型餅乾。</S16CookLoveCookie.description>
+  <S16CookLoveCookie.jobString>正在製作愛情餅乾。</S16CookLoveCookie.jobString>
+
+  <S16CookLoveCookieBulk.label>製作愛情餅乾x4</S16CookLoveCookieBulk.label>
+  <S16CookLoveCookieBulk.description>製作一些可愛的心型餅乾。</S16CookLoveCookieBulk.description>
+  <S16CookLoveCookieBulk.jobString>正在製作愛情餅乾x4。</S16CookLoveCookieBulk.jobString>
+
+  <S16CookLoveNectar.label>製作瓶裝愛情蜜液</S16CookLoveNectar.label>
+  <S16CookLoveNectar.description>製作一瓶女孩放蕩的精華</S16CookLoveNectar.description>
+  <S16CookLoveNectar.jobString>正在製作瓶裝愛情蜜液。</S16CookLoveNectar.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_Sire.label>父亲</RJW_Sire.label>
+  <RJW_Sire.labelFemale>母亲</RJW_Sire.labelFemale>
+
+  <RJW_Pup.label>儿子</RJW_Pup.label>
+  <RJW_Pup.labelFemale>女儿</RJW_Pup.labelFemale>
+
+
+  <!-- close family -->
+
+  <Child_Beast.label>儿子</Child_Beast.label>
+  <Child_Beast.labelFemale>女儿</Child_Beast.labelFemale>
+
+  <Sibling_Beast.label>兄弟</Sibling_Beast.label>
+  <Sibling_Beast.labelFemale>姐妹</Sibling_Beast.labelFemale>
+
+  <HalfSibling_Beast.label>兄弟</HalfSibling_Beast.label>
+  <HalfSibling_Beast.labelFemale>姐妹</HalfSibling_Beast.labelFemale>
+
+  <Grandparent_Beast.label>祖父</Grandparent_Beast.label>
+  <Grandparent_Beast.labelFemale>祖母</Grandparent_Beast.labelFemale>
+
+  <Grandchild_Beast.label>孙子</Grandchild_Beast.label>
+  <Grandchild_Beast.labelFemale>孙女</Grandchild_Beast.labelFemale>
+
+  <NephewOrNiece_Beast.label>侄子</NephewOrNiece_Beast.label>
+  <NephewOrNiece_Beast.labelFemale>侄女</NephewOrNiece_Beast.labelFemale>
+
+  <UncleOrAunt_Beast.label>叔叔</UncleOrAunt_Beast.label>
+  <UncleOrAunt_Beast.labelFemale>姨妈</UncleOrAunt_Beast.labelFemale>
+
+  <Cousin_Beast.label>表亲</Cousin_Beast.label>
+  <Cousin_Beast.labelFemale>表亲</Cousin_Beast.labelFemale>
+
+
+  <!-- distant family -->
+
+  <GreatGrandparent_Beast.label>曾祖父</GreatGrandparent_Beast.label>
+  <GreatGrandparent_Beast.labelFemale>曾祖母</GreatGrandparent_Beast.labelFemale>
+
+  <GreatGrandchild_Beast.label>曾孙</GreatGrandchild_Beast.label>
+  <GreatGrandchild_Beast.labelFemale>曾孙女</GreatGrandchild_Beast.labelFemale>
+
+  <GranduncleOrGrandaunt_Beast.label>祖父</GranduncleOrGrandaunt_Beast.label>
+  <GranduncleOrGrandaunt_Beast.labelFemale>祖母</GranduncleOrGrandaunt_Beast.labelFemale>
+
+  <GrandnephewOrGrandniece_Beast.label>孙侄</GrandnephewOrGrandniece_Beast.label>
+  <GrandnephewOrGrandniece_Beast.labelFemale>孙侄女</GrandnephewOrGrandniece_Beast.labelFemale>
+
+  <CousinOnceRemoved_Beast.label>表弟曾经被删除</CousinOnceRemoved_Beast.label>
+  <CousinOnceRemoved_Beast.labelFemale>表弟曾经被删除</CousinOnceRemoved_Beast.labelFemale>
+
+  <SecondCousin_Beast.label>二表弟</SecondCousin_Beast.label>
+  <SecondCousin_Beast.labelFemale>二表弟</SecondCousin_Beast.labelFemale>
+
+
+</LanguageData>

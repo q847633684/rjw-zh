@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- this needs custom class for x10, fuck it -->
+
+  <RemoveUnknownEgg.label>移除未知的蛋</RemoveUnknownEgg.label>
+  <RemoveUnknownEgg.description>移除未知的蛋。</RemoveUnknownEgg.description>
+  <RemoveUnknownEgg.jobString>移除未知的蛋。</RemoveUnknownEgg.jobString>
+
+  <RemoveInsectHiveEgg.label>移除虫卵</RemoveInsectHiveEgg.label>
+  <RemoveInsectHiveEgg.description>移除虫卵。</RemoveInsectHiveEgg.description>
+  <RemoveInsectHiveEgg.jobString>移除虫卵。</RemoveInsectHiveEgg.jobString>
+
+  <RemoveMicroComputer.label>移除机械胚胎</RemoveMicroComputer.label>
+  <RemoveMicroComputer.description>移除机械胚胎。</RemoveMicroComputer.description>
+  <RemoveMicroComputer.jobString>移除机械胚胎。</RemoveMicroComputer.jobString>
+
+  <RJW_RemoveRestraints.label>移除束缚</RJW_RemoveRestraints.label>
+  <RJW_RemoveRestraints.description>移除束缚。</RJW_RemoveRestraints.description>
+  <RJW_RemoveRestraints.jobString>移除束缚。</RJW_RemoveRestraints.jobString>
+
+  <RJW_RemoveCocoon.label>移除结茧</RJW_RemoveCocoon.label>
+  <RJW_RemoveCocoon.description>移除结茧。</RJW_RemoveCocoon.description>
+  <RJW_RemoveCocoon.jobString>移除结茧。</RJW_RemoveCocoon.jobString>
+
+
+</LanguageData>

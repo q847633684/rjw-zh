@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Doing it yourself -->
+
+  <CB_Prostitution_Sacred_After.stages.0.label>神圣妓女</CB_Prostitution_Sacred_After.stages.0.label>
+  <CB_Prostitution_Sacred_After.stages.0.description>我履行了对访客的神圣职责</CB_Prostitution_Sacred_After.stages.0.description>
+
+  <CB_Prostitution_Essential_After.stages.0.label>尽职的妓女</CB_Prostitution_Essential_After.stages.0.label>
+  <CB_Prostitution_Essential_After.stages.0.description>我被允许向访客提供自己</CB_Prostitution_Essential_After.stages.0.description>
+
+  <CB_Prostitution_Unwilling_After.stages.0.label>不情愿的妓女</CB_Prostitution_Unwilling_After.stages.0.label>
+  <CB_Prostitution_Unwilling_After.stages.0.description>我被迫向访客推销自己</CB_Prostitution_Unwilling_After.stages.0.description>
+
+  <CB_Prostitution_Reluctant_After.stages.0.label>不情愿的妓女</CB_Prostitution_Reluctant_After.stages.0.label>
+  <CB_Prostitution_Reluctant_After.stages.0.description>我出轨了</CB_Prostitution_Reluctant_After.stages.0.description>
+
+  <CB_Prostitution_Horrendous_After.stages.0.label>不情愿的妓女</CB_Prostitution_Horrendous_After.stages.0.label>
+  <CB_Prostitution_Horrendous_After.stages.0.description>我被迫向访客推销自己</CB_Prostitution_Horrendous_After.stages.0.description>
+
+
+  <!-- Not doing it yourself -->
+
+  <CB_Prostitution_Sacred_NotTrying.stages.0.label>未能履行我的神圣职责</CB_Prostitution_Sacred_NotTrying.stages.0.label>
+  <CB_Prostitution_Sacred_NotTrying.stages.0.description>亵渎神明！我已经很久没有尝试向访客提供自己了！</CB_Prostitution_Sacred_NotTrying.stages.0.description>
+
+  <CB_Prostitution_Essential_NotTrying.stages.0.label>未履行职责</CB_Prostitution_Essential_NotTrying.stages.0.label>
+  <CB_Prostitution_Essential_NotTrying.stages.0.description>我已经很久没有尝试向访客展示自己了！</CB_Prostitution_Essential_NotTrying.stages.0.description>
+
+
+  <!-- Sacred stacks to fifty, Essential to ten -->
+
+  <CB_Prostitution_Sacred_Know.stages.0.label>是神圣妓女</CB_Prostitution_Sacred_Know.stages.0.label>
+  <CB_Prostitution_Essential_Know.stages.0.label>是妓女</CB_Prostitution_Essential_Know.stages.0.label>
+  <CB_Prostitution_Horrendous_Know.stages.0.label>是妓女</CB_Prostitution_Horrendous_Know.stages.0.label>
+
+
+  <!-- Colony wide thoughts -->
+
+  <CB_Whoring_Sacred_Required.stages.0.label>维护神圣职责</CB_Whoring_Sacred_Required.stages.0.label>
+  <CB_Whoring_Sacred_Required.stages.0.description>我们的神圣职责是与访客分享我们自己。</CB_Whoring_Sacred_Required.stages.0.description>
+  <CB_Whoring_Sacred_Required.stages.1.label>殖民地未能履行神圣职责</CB_Whoring_Sacred_Required.stages.1.label>
+  <CB_Whoring_Sacred_Required.stages.1.description>我们已经太久没有履行对访客的神圣职责了。</CB_Whoring_Sacred_Required.stages.1.description>
+
+  <CB_Whoring_Essential_Required.stages.0.label>维持职责</CB_Whoring_Essential_Required.stages.0.label>
+  <CB_Whoring_Essential_Required.stages.0.description>我们的职责是与访客分享我们自己。</CB_Whoring_Essential_Required.stages.0.description>
+  <CB_Whoring_Essential_Required.stages.1.label>殖民地失败职责</CB_Whoring_Essential_Required.stages.1.label>
+  <CB_Whoring_Essential_Required.stages.1.description>我们已经太久没有履行对访客的职责了。</CB_Whoring_Essential_Required.stages.1.description>
+
+
+  <!--不是自己做的 -->
+  <!--神圣堆栈达到 50 个，基本堆栈达到 10 个 -->
+  <!--殖民地广泛的想法 -->
+
+</LanguageData>

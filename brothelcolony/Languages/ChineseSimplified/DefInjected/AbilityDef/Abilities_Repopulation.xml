@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Todo: InteractionDef -->
+
+  <CB_OfferPawn.label>报价典当</CB_OfferPawn.label>
+  <CB_OfferPawn.description>即使不是他们中的一个所生，也许他们也会带走我们的一个。</CB_OfferPawn.description>
+
+  <CB_AddGene.label>学习基因</CB_AddGene.label>
+  <CB_AddGene.description>学习用于基因篡改的基因。</CB_AddGene.description>
+
+
+  <!-- ########## -->
+
+  <CB_GeneTampering.label>基因篡改</CB_GeneTampering.label>
+  <CB_GeneTampering.description>花费热情篡改目标或其未出生的基因。</CB_GeneTampering.description>
+
+
+  <!--########## -->
+
+</LanguageData>

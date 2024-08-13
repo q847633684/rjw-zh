@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_filled_living_cumbucket.label>充满活力精液桶</rjw_genes_filled_living_cumbucket.label>
+  <rjw_genes_filled_living_cumbucket.description>这枚棋子是一个（装满的）活精液桶。由于有人慷慨解囊，这枚棋子会慢慢产生精液，供人拾取。</rjw_genes_filled_living_cumbucket.description>
+  <rjw_genes_filled_living_cumbucket.stages.0.label>轻微</rjw_genes_filled_living_cumbucket.stages.0.label>
+  <rjw_genes_filled_living_cumbucket.stages.1.label>中等</rjw_genes_filled_living_cumbucket.stages.1.label>
+  <rjw_genes_filled_living_cumbucket.stages.2.label>完整</rjw_genes_filled_living_cumbucket.stages.2.label>
+  <rjw_genes_filled_living_cumbucket.stages.3.label>过满</rjw_genes_filled_living_cumbucket.stages.3.label>
+  <rjw_genes_filled_living_cumbucket.stages.4.label>生活水库</rjw_genes_filled_living_cumbucket.stages.4.label>
+
+
+</LanguageData>

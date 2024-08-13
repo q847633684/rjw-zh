@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CB_GeneTampering_Outcome.description>需要做出选择。</CB_GeneTampering_Outcome.description>
+  <CB_GeneTampering_Outcome.outcomeChances.0.label>去除不需要的基因需要十个热情。\n -每个复杂点都需要额外的十个热情。\n -添加学习基因的两倍\n -针对未出生的基因时，热情的一半。\ n\n如果怀孕，则只能针对孩子</CB_GeneTampering_Outcome.outcomeChances.0.label>
+  <CB_GeneTampering_Outcome.outcomeChances.0.description>基因篡改选择</CB_GeneTampering_Outcome.outcomeChances.0.description>
+  <CB_GeneTampering_Outcome.comps.0.label>参与者计数</CB_GeneTampering_Outcome.comps.0.label>
+
+
+</LanguageData>

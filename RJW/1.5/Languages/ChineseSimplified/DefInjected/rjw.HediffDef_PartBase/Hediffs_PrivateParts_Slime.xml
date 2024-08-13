@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Slime privates -->
+
+  <SlimeTentacles.label>粘液触手</SlimeTentacles.label>
+  <SlimeTentacles.labelNoun>粘液触手</SlimeTentacles.labelNoun>
+  <SlimeTentacles.description>光滑，半透明的触须，可以变成任何形状。</SlimeTentacles.description>
+  <SlimeTentacles.stages.0.label>微型</SlimeTentacles.stages.0.label>
+  <SlimeTentacles.stages.1.label>很小</SlimeTentacles.stages.1.label>
+  <SlimeTentacles.stages.2.label>平均</SlimeTentacles.stages.2.label>
+  <SlimeTentacles.stages.3.label>大</SlimeTentacles.stages.3.label>
+  <SlimeTentacles.stages.4.label>巨大</SlimeTentacles.stages.4.label>
+  <SlimeTentacles.stages.5.label>超大</SlimeTentacles.stages.5.label>
+
+  <SlimeVagina.label>粘液阴道</SlimeVagina.label>
+  <SlimeVagina.labelNoun>粘液阴道</SlimeVagina.labelNoun>
+  <SlimeVagina.description>一种光滑、半透明的阴道，可以扩张或收缩以容纳任何阴茎。</SlimeVagina.description>
+  <SlimeVagina.stages.0.label>微型</SlimeVagina.stages.0.label>
+  <SlimeVagina.stages.1.label>紧致</SlimeVagina.stages.1.label>
+  <SlimeVagina.stages.2.label>平均</SlimeVagina.stages.2.label>
+  <SlimeVagina.stages.3.label>松弛</SlimeVagina.stages.3.label>
+  <SlimeVagina.stages.4.label>敞口</SlimeVagina.stages.4.label>
+  <SlimeVagina.stages.5.label>深渊</SlimeVagina.stages.5.label>
+
+  <SlimeAnus.label>粘液肛门</SlimeAnus.label>
+  <SlimeAnus.labelNoun>粘液肛门</SlimeAnus.labelNoun>
+  <SlimeAnus.description>一种光滑、半透明的肛门，可以收紧并适应任何东西。</SlimeAnus.description>
+  <SlimeAnus.stages.0.label>微型</SlimeAnus.stages.0.label>
+  <SlimeAnus.stages.1.label>紧致</SlimeAnus.stages.1.label>
+  <SlimeAnus.stages.2.label>平均</SlimeAnus.stages.2.label>
+  <SlimeAnus.stages.3.label>松弛</SlimeAnus.stages.3.label>
+  <SlimeAnus.stages.4.label>敞口</SlimeAnus.stages.4.label>
+  <SlimeAnus.stages.5.label>深渊</SlimeAnus.stages.5.label>
+
+  <SlimeBreasts.label>粘液乳房</SlimeBreasts.label>
+  <SlimeBreasts.labelNoun>粘液乳房</SlimeBreasts.labelNoun>
+  <SlimeBreasts.description>一对光滑、半透明的乳房，可以放或缩到任何想要的大小。</SlimeBreasts.description>
+  <SlimeBreasts.stages.0.label>飞机场</SlimeBreasts.stages.0.label>
+  <SlimeBreasts.stages.1.label>很小</SlimeBreasts.stages.1.label>
+  <SlimeBreasts.stages.2.label>小</SlimeBreasts.stages.2.label>
+  <SlimeBreasts.stages.3.label>平均</SlimeBreasts.stages.3.label>
+  <SlimeBreasts.stages.4.label>大</SlimeBreasts.stages.4.label>
+  <SlimeBreasts.stages.5.label>巨大</SlimeBreasts.stages.5.label>
+  <SlimeBreasts.stages.6.label>超巨大</SlimeBreasts.stages.6.label>
+  <SlimeBreasts.stages.7.label>超超巨大</SlimeBreasts.stages.7.label>
+  <SlimeBreasts.stages.8.label>超超超巨大</SlimeBreasts.stages.8.label>
+  <SlimeBreasts.stages.9.label>超超超超巨大</SlimeBreasts.stages.9.label>
+  <SlimeBreasts.stages.10.label>泰坦尼克号</SlimeBreasts.stages.10.label>
+
+
+</LanguageData>

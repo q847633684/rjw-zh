@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- natural vaginaes -->
+
+  <AddMultiVagina.label>添加人类阴道</AddMultiVagina.label>
+  <AddMultiVagina.description>增加额外的阴道。</AddMultiVagina.description>
+  <AddMultiVagina.jobString>添加人类阴道。</AddMultiVagina.jobString>
+
+  <AddMultiHorseVagina.label>添加马阴道</AddMultiHorseVagina.label>
+  <AddMultiHorseVagina.description>增加额外的阴道。</AddMultiHorseVagina.description>
+  <AddMultiHorseVagina.jobString>添加马阴道。</AddMultiHorseVagina.jobString>
+
+  <AddMultiCatVagina.label>添加猫阴道</AddMultiCatVagina.label>
+  <AddMultiCatVagina.description>增加额外的阴道。</AddMultiCatVagina.description>
+  <AddMultiCatVagina.jobString>添加猫阴道。</AddMultiCatVagina.jobString>
+
+  <AddMultiDogVagina.label>添加犬阴道</AddMultiDogVagina.label>
+  <AddMultiDogVagina.description>增加额外的阴道。</AddMultiDogVagina.description>
+  <AddMultiDogVagina.jobString>添加犬阴道。</AddMultiDogVagina.jobString>
+
+  <AddMultiDragonVagina.label>添加龙阴道</AddMultiDragonVagina.label>
+  <AddMultiDragonVagina.description>增加额外的阴道。</AddMultiDragonVagina.description>
+  <AddMultiDragonVagina.jobString>添加龙阴道。</AddMultiDragonVagina.jobString>
+
+  <AddMultiOvipositorF.label>添加雌性产卵器</AddMultiOvipositorF.label>
+  <AddMultiOvipositorF.description>添加额外的雌性产卵器。</AddMultiOvipositorF.description>
+  <AddMultiOvipositorF.jobString>添加雌性产卵器。</AddMultiOvipositorF.jobString>
+
+
+  <!-- natural penises -->
+
+  <AddMultiPenis.label>添加人类阴茎</AddMultiPenis.label>
+  <AddMultiPenis.description>增加额外的阴茎。</AddMultiPenis.description>
+  <AddMultiPenis.jobString>添加人类阴茎。</AddMultiPenis.jobString>
+
+  <AddMultiHorsePenis.label>添加马阴茎</AddMultiHorsePenis.label>
+  <AddMultiHorsePenis.description>增加额外的阴茎。</AddMultiHorsePenis.description>
+  <AddMultiHorsePenis.jobString>添加马阴茎。</AddMultiHorsePenis.jobString>
+
+  <AddMultiCatPenis.label>添加猫阴茎</AddMultiCatPenis.label>
+  <AddMultiCatPenis.description>增加额外的阴茎。</AddMultiCatPenis.description>
+  <AddMultiCatPenis.jobString>添加猫阴茎。</AddMultiCatPenis.jobString>
+
+  <AddMultiDogPenis.label>添加狗阴茎</AddMultiDogPenis.label>
+  <AddMultiDogPenis.description>增加额外的阴茎。</AddMultiDogPenis.description>
+  <AddMultiDogPenis.jobString>添加狗阴茎。</AddMultiDogPenis.jobString>
+
+  <AddMultiDragonPenis.label>添加龙阴茎</AddMultiDragonPenis.label>
+  <AddMultiDragonPenis.description>增加额外的阴茎。</AddMultiDragonPenis.description>
+  <AddMultiDragonPenis.jobString>添加龙阴茎。</AddMultiDragonPenis.jobString>
+
+  <AddMultiRaccoonPenis.label>添加浣熊阴茎</AddMultiRaccoonPenis.label>
+  <AddMultiRaccoonPenis.description>增加额外的阴茎。</AddMultiRaccoonPenis.description>
+  <AddMultiRaccoonPenis.jobString>添加浣熊阴茎。</AddMultiRaccoonPenis.jobString>
+
+  <AddMultiHemiPenis.label>添加半阴茎</AddMultiHemiPenis.label>
+  <AddMultiHemiPenis.description>增加额外的阴茎。</AddMultiHemiPenis.description>
+  <AddMultiHemiPenis.jobString>添加半阴茎。</AddMultiHemiPenis.jobString>
+
+  <AddMultiCrocodilianPenis.label>添加鳄鱼阴茎</AddMultiCrocodilianPenis.label>
+  <AddMultiCrocodilianPenis.description>增加额外的阴茎。</AddMultiCrocodilianPenis.description>
+  <AddMultiCrocodilianPenis.jobString>添加鳄鱼阴茎。</AddMultiCrocodilianPenis.jobString>
+
+  <AddMultiOvipositorM.label>添加雄性产卵器</AddMultiOvipositorM.label>
+  <AddMultiOvipositorM.description>添加额外的雄性产卵器。</AddMultiOvipositorM.description>
+  <AddMultiOvipositorM.jobString>添加雄性产卵器。</AddMultiOvipositorM.jobString>
+
+
+  <!-- Breasts -->
+
+  <AddMultiBreasts.label>添加人类乳房</AddMultiBreasts.label>
+  <AddMultiBreasts.description>添加额外一行乳房。</AddMultiBreasts.description>
+  <AddMultiBreasts.jobString>添加人类乳房。</AddMultiBreasts.jobString>
+
+  <AddMultiUdder.label>添加乳房</AddMultiUdder.label>
+  <AddMultiUdder.description>添加额外的乳房。</AddMultiUdder.description>
+  <AddMultiUdder.jobString>添加乳房。</AddMultiUdder.jobString>
+
+  <AddMultiAnus.label>添加人类肛门</AddMultiAnus.label>
+  <AddMultiAnus.description>增加额外肛门。</AddMultiAnus.description>
+  <AddMultiAnus.jobString>添加人类肛门。</AddMultiAnus.jobString>
+
+  <AddMultiInsectAnus.label>添加昆虫肛门</AddMultiInsectAnus.label>
+  <AddMultiInsectAnus.description>添加额外的肛门。</AddMultiInsectAnus.description>
+  <AddMultiInsectAnus.jobString>添加肛门。</AddMultiInsectAnus.jobString>
+
+
+  <!--natural penises-->
+
+</LanguageData>

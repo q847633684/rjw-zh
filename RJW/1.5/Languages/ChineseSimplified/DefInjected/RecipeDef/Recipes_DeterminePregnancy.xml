@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DeterminePregnancy.label>验孕</DeterminePregnancy.label>
+  <DeterminePregnancy.description>判断殖民者是否怀孕以及怀孕是否有异常。</DeterminePregnancy.description>
+  <DeterminePregnancy.jobString>验孕。</DeterminePregnancy.jobString>
+
+
+</LanguageData>

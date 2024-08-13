@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InviteToHaveSex.label>邀请发生性行为</InviteToHaveSex.label>
+  <InviteToHaveSex.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 害羞地邀请 [RECIPIENT_nameDef] 与 [INITIATOR_objective] 发生性关系。</InviteToHaveSex.logRulesInitiator.rulesStrings.0>
+  <InviteToHaveSex.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] 向 [RECIPIENT_nameDef] 挥手，加入 [INITIATOR_objective] 的乐趣。</InviteToHaveSex.logRulesInitiator.rulesStrings.1>
+  <InviteToHaveSex.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] 引诱 [RECIPIENT_nameDef] 到 [INITIATOR_objective] 一侧。</InviteToHaveSex.logRulesInitiator.rulesStrings.2>
+
+  <InviteToHaveGroupSex.label>受邀进行群交</InviteToHaveGroupSex.label>
+  <InviteToHaveGroupSex.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 沙哑地邀请 [RECIPIENT_nameDef] 加入 [INITIATOR_objective] 组成三人组。</InviteToHaveGroupSex.logRulesInitiator.rulesStrings.0>
+  <InviteToHaveGroupSex.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] 开玩笑地询问 [RECIPIENT_nameDef] 是否想一起进行“小组活动”。</InviteToHaveGroupSex.logRulesInitiator.rulesStrings.1>
+  <InviteToHaveGroupSex.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] 狡猾地询问 [RECIPIENT_nameDef] 是否愿意加入 [INITIATOR_objective] 找点乐子。</InviteToHaveGroupSex.logRulesInitiator.rulesStrings.2>
+
+  <InviteVoyeurism.label>受邀观看</InviteVoyeurism.label>
+  <InviteVoyeurism.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 吩咐 [RECIPIENT_nameDef] 靠近一点，仔细看看 [INITIATOR_pronoun] 在做什么。</InviteVoyeurism.logRulesInitiator.rulesStrings.0>
+  <InviteVoyeurism.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] 为 [RECIPIENT_nameDef] 进行猥亵显示。</InviteVoyeurism.logRulesInitiator.rulesStrings.1>
+  <InviteVoyeurism.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] 让 [RECIPIENT_nameDef] 知道 [INITIATOR_pronoun] 不介意 [RECIPIENT_pronoun] 观看 [INITIATOR_objective]。</InviteVoyeurism.logRulesInitiator.rulesStrings.2>
+
+  <InterruptedSex.label>性爱中断</InterruptedSex.label>
+  <InterruptedSex.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]的突然出现吓了一跳[RECIPIENT_nameDef]。</InterruptedSex.logRulesInitiator.rulesStrings.0>
+  <InterruptedSex.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] 意外破坏了 [RECIPIENT_nameDef] 的私人聚会。</InterruptedSex.logRulesInitiator.rulesStrings.1>
+  <InterruptedSex.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] 无意中侵犯了 [RECIPIENT_nameDef] 的隐私。</InterruptedSex.logRulesInitiator.rulesStrings.2>
+  <InterruptedSex.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] 在 [RECIPIENT_nameDef] 正在启动时被粗鲁地打断。</InterruptedSex.logRulesInitiator.rulesStrings.3>
+
+
+</LanguageData>

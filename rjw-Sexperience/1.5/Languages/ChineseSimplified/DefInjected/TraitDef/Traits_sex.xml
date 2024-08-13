@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Virgin.degreeDatas.0.label>受损处女</Virgin.degreeDatas.0.label>
+  <Virgin.degreeDatas.0.description> [PAWN_nameDef] 从未经历过。然而，她的处女膜因某种原因受损。</Virgin.degreeDatas.0.description>
+  <Virgin.degreeDatas.0.labelMale>有问题！男性不能有此特征</Virgin.degreeDatas.0.labelMale>
+  <Virgin.degreeDatas.1.label>处女</Virgin.degreeDatas.1.label>
+  <Virgin.degreeDatas.1.description>[PAWN_nameDef]从未经历过。</Virgin.degreeDatas.1.description>
+  <Virgin.degreeDatas.2.label>处女？</Virgin.degreeDatas.2.label>
+  <Virgin.degreeDatas.2.description> [PAWN_nameDef] 看起来经验丰富。但处女膜仍然存在。</Virgin.degreeDatas.2.description>
+  <Virgin.degreeDatas.2.labelMale>有问题！男性不能有此特征</Virgin.degreeDatas.2.labelMale>
+  <Virgin.degreeDatas.3.label>处女</Virgin.degreeDatas.3.label>
+  <Virgin.degreeDatas.3.description>[PAWN_nameDef]从未经历过。</Virgin.degreeDatas.3.description>
+  <Virgin.degreeDatas.3.labelMale>有问题！男性不能有此特征</Virgin.degreeDatas.3.labelMale>
+
+
+</LanguageData>

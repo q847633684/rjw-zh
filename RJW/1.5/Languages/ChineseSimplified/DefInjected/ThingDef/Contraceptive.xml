@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- As usual stolen from CnP -->
+
+  <RJW_Contraceptive.label>避孕药</RJW_Contraceptive.label>
+  <RJW_Contraceptive.description>严重的降低生育能力。</RJW_Contraceptive.description>
+  <RJW_Contraceptive.ingestible.ingestCommandString>拿 {0}</RJW_Contraceptive.ingestible.ingestCommandString>
+  <RJW_Contraceptive.ingestible.ingestReportString>服用 {0}.</RJW_Contraceptive.ingestible.ingestReportString>
+
+
+</LanguageData>

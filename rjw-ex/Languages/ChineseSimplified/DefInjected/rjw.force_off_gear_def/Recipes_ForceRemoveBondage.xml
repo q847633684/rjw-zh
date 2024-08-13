@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ForceOffArmbinder.label>強力強制移除束手套</ForceOffArmbinder.label>
+  <ForceOffArmbinder.description>將束手套在沒有鑰匙的情況的情況下強硬移除，會因此對佩戴者造成傷害。/ForceOffArmbinder.description>
+  <ForceOffArmbinder.jobString>正在強制移除束手套。</ForceOffArmbinder.jobString>
+
+  <ForceOffGagBall.label>強制移除口枷</ForceOffGagBall.label>
+  <ForceOffGagBall.description>將口枷在沒有鑰匙的情況下強硬移除，會因此對佩戴者造成傷害。/ForceOffGagBall.description>
+  <ForceOffGagBall.jobString>正在強制移除口枷。</ForceOffGagBall.jobString>
+
+  <ForceOffGagRing.label>強制移除口枷</ForceOffGagRing.label>
+  <ForceOffGagRing.description>將口枷在沒有鑰匙的情況下強硬移除，會因此對佩戴者造成傷害。/ForceOffGagRing.description>
+  <ForceOffGagRing.jobString>正在強制移除口枷。</ForceOffGagRing.jobString>
+
+  <ForceOffChastityBelt.label>強制移除貞操帶</ForceOffChastityBelt.label>
+  <ForceOffChastityBelt.description>將貞操帶在沒有鑰匙的情況下強硬移除，會因此對佩戴者造成傷害。/ForceOffChastityBelt.description>
+  <ForceOffChastityBelt.jobString>正在強制移除貞操帶。</ForceOffChastityBelt.jobString>
+
+  <ForceOffChastityBeltOpen.label>強制移除貞操帶</ForceOffChastityBeltOpen.label>
+  <ForceOffChastityBeltOpen.description>將貞操帶在沒有鑰匙的情況下強硬移除，會因此對佩戴者造成傷害。/ForceOffChastityBeltOpen.description>
+  <ForceOffChastityBeltOpen.jobString>正在強制移除貞操帶。</ForceOffChastityBeltOpen.jobString>
+
+  <ForceOffChastityCage.label>強制移除男用貞操帶</ForceOffChastityCage.label>
+  <ForceOffChastityCage.description>將男用貞操帶在沒有鑰匙的情況下強硬移除，會因此對佩戴者造成傷害。/ForceOffChastityCage.description>
+  <ForceOffChastityCage.jobString>正在強制移除男用貞操帶</ForceOffChastityCage.jobString>
+
+  <ForceOffLegbinder.label>強制移除 legbinder</ForceOffLegbinder.label>
+  <ForceOffLegbinder.description>將束腿器在沒有鑰匙的情況下強硬移除，會因此對佩戴者造成傷害。/ForceOffLegbinder.description>
+  <ForceOffLegbinder.jobString>正在強制移除束腿器。</ForceOffLegbinder.jobString>
+
+  <ForceOffBlindfold.label>強制移除眼罩</ForceOffBlindfold.label>
+  <ForceOffBlindfold.description>將眼罩在沒有鑰匙的情況下強硬移除，會因此對佩戴者造成傷害。/ForceOffBlindfold.description>
+  <ForceOffBlindfold.jobString>正在強制移除眼罩。</ForceOffBlindfold.jobString>
+
+
+</LanguageData>

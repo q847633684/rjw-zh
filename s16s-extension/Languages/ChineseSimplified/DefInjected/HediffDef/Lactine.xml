@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LactineHigh.label>催乳劑亢奮</LactineHigh.label>
+  <LactineHigh.description>Artificially induced lactation</LactineHigh.description>
+  <LactineHigh.stages.0.label>low</LactineHigh.stages.0.label>
+  <LactineHigh.stages.1.label>low</LactineHigh.stages.1.label>
+  <LactineHigh.stages.2.label>low</LactineHigh.stages.2.label>
+  <LactineHigh.stages.3.label>low</LactineHigh.stages.3.label>
+  <LactineHigh.stages.4.label>mild</LactineHigh.stages.4.label>
+  <LactineHigh.stages.5.label>mild</LactineHigh.stages.5.label>
+  <LactineHigh.stages.6.label>high</LactineHigh.stages.6.label>
+
+  <LactineTolerance.label>催乳劑耐受</LactineTolerance.label>
+  <LactineTolerance.description>A built-up tolerance to lactine. The more severe this tolerance is, the more lactine it takes to get the same effect.</LactineTolerance.description>
+
+  <LactineAddiction.label>催乳劑成癮</LactineAddiction.label>
+  <LactineAddiction.description>A chemical addiction to lactine. Long-term presence of lactine has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.
+\nWithout regular doses of lactine, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</LactineAddiction.description>
+  <LactineAddiction.stages.1.label>withdrawal</LactineAddiction.stages.1.label>
+
+
+</LanguageData>

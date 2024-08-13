@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <wasBreastfedAdult.stages.0.label>母乳喂养</wasBreastfedAdult.stages.0.label>
+  <wasBreastfedAdult.stages.0.description>很好吃。好吃！</wasBreastfedAdult.stages.0.description>
+
+  <wasBreastfedAdultHucowIdeo.stages.0.label>母乳喂养</wasBreastfedAdultHucowIdeo.stages.0.label>
+  <wasBreastfedAdultHucowIdeo.stages.0.description>直接来自源头的牛奶。没有比这更好的了！</wasBreastfedAdultHucowIdeo.stages.0.description>
+
+  <didBreastfeedAdultGood.stages.0.label>母乳喂养</didBreastfeedAdultGood.stages.0.label>
+  <didBreastfeedAdultGood.stages.0.description>我用我的牛奶帮助了有需要的人。</didBreastfeedAdultGood.stages.0.description>
+
+  <didBreastfeedAdultGoodHucowIdeo.stages.0.label>母乳喂养</didBreastfeedAdultGoodHucowIdeo.stages.0.label>
+  <didBreastfeedAdultGoodHucowIdeo.stages.0.description>我很荣幸能够用我的牛奶帮助有需要的人。</didBreastfeedAdultGoodHucowIdeo.stages.0.description>
+
+  <didBreastfeedAdultBad.stages.0.label>母乳喂养</didBreastfeedAdultBad.stages.0.label>
+  <didBreastfeedAdultBad.stages.0.description>我不敢相信有人这样对我。</didBreastfeedAdultBad.stages.0.description>
+
+  <MilkFullness.stages.0.label>哺乳期</MilkFullness.stages.0.label>
+  <MilkFullness.stages.0.description>我正在制作牛奶。</MilkFullness.stages.0.description>
+  <MilkFullness.stages.1.label>哺乳期</MilkFullness.stages.1.label>
+  <MilkFullness.stages.1.description>我正在制作牛奶。</MilkFullness.stages.1.description>
+  <MilkFullness.stages.2.label>哺乳期（饱满）</MilkFullness.stages.2.label>
+  <MilkFullness.stages.2.description>我需要对这些牛奶做点什么。</MilkFullness.stages.2.description>
+  <MilkFullness.stages.3.label>哺乳期（非常饱）</MilkFullness.stages.3.label>
+  <MilkFullness.stages.3.description>噢。我需要缓解这个！</MilkFullness.stages.3.description>
+
+  <MilkFullnessMasochist.stages.0.label>哺乳期</MilkFullnessMasochist.stages.0.label>
+  <MilkFullnessMasochist.stages.0.description>我正在制作牛奶。</MilkFullnessMasochist.stages.0.description>
+  <MilkFullnessMasochist.stages.1.label>哺乳期</MilkFullnessMasochist.stages.1.label>
+  <MilkFullnessMasochist.stages.1.description>我正在制作牛奶。</MilkFullnessMasochist.stages.1.description>
+  <MilkFullnessMasochist.stages.2.label>哺乳期（饱）</MilkFullnessMasochist.stages.2.label>
+  <MilkFullnessMasochist.stages.2.description>这开始让人受伤了。不错！</MilkFullnessMasochist.stages.2.description>
+  <MilkFullnessMasochist.stages.3.label>哺乳期（非常饱）</MilkFullnessMasochist.stages.3.label>
+  <MilkFullnessMasochist.stages.3.description>噢。我需要更多牛奶！</MilkFullnessMasochist.stages.3.description>
+
+
+</LanguageData>

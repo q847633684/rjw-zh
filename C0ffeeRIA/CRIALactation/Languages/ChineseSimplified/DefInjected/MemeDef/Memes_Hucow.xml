@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hucow.label>H人牛</Hucow.label>
+  <Hucow.description>母乳应该为所有人生产和消费。</Hucow.description>
+  <Hucow.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;牧场</li>
+    <li>memeAdjective-&gt;牛</li>
+    <li>memeHyphenPrefix-&gt;乳糖</li>
+    <li>memeConcept-&gt;牛奶表达</li>
+    <li>memeLeaderNoun-&gt;牧场主</li>
+    <li>memeLeaderNoun-&gt;手</li>
+    <li>memeLeaderNoun-&gt;牧人</li>
+    <li>memeLeaderNoun-&gt;牧羊犬</li>
+  </Hucow.generalRules.rulesStrings>
+  <Hucow.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Hucow) -&gt;[deity0_name] 赋予人类胸部的礼物，以及产生母乳的能力。</li>
+    <li>episode(uses=1,tag=meme_Hucow) -&gt;[deity0_name] 创造了这片土地上所有高贵的动物和野兽，并说道：“带着这些高贵的野兽，通过它们创造你们为我的荣誉而硕果累累。”</li>
+    <li>intro(tag=meme_Hucow) -&gt;[place_summary] [place_name] 的早期 [ranchingAnimal] 牧场主为 [deity0_name] 建造了一座伟大的 [altarName]。</li>
+    <li>conflict(tag=meme_Hucow) -&gt;一个强大的[foeLeader]鄙视[memberNamePlural]和他们的方式，并买下了所有草原来种植[蔬菜]。</li>
+    <li>FounderJoin(tag=meme_Hucow) -&gt;[memberName] 的救世主 [FounderName] 于春天的早晨在一个简陋的谷仓里出生，周围是 [ranchingAnimal] 和 [Founder_possessive] 父母是一个 [rancherParent1] 和一个 [rancherParent2]。</li>
+    <li>胜利(tag=meme_Hucow) -&gt;[FounderName]骑着一匹好马来到[place_community]，并在中午向[foeLeader]发起与[place_personalWeapon]的决斗.[敌人领袖]不能拒绝，否则就会失去[敌人士兵]的信任.[FounderName] 杀死了 [foeLeader]。</li>
+    <li>setup(tag=meme_Hucow) -&gt;农民受到迫害，所以他们逃到乡村，在那里他们可以建立一个良好的田园社会。</li>
+    <li>story(uses=1,tag=meme_Hucow) -&gt;信徒们分散到这片土地上，并且在田园诗般的牧场和农场里生活，人数不断增长。</li>
+    <li>lessonIntro(tag=meme_Hucow) -&gt;伙伴，在练习场上，我们老手之间有一句话：</li>
+    <li>课程(tag=meme_Hucow) -&gt;美好而幸福的生活就在牧场里</li>
+    <li>lessonReinforcement(tag=meme_Hucow) -&gt;这是你逐渐接受的东西，伙伴，在山脉的孤独小路上，坐在火边聆听动物的睡眠.</li>
+    <li>archistFact(tag=meme_Hucow) -&gt;建筑技术公司像牧羊人一样关心人类，因为我们是他们最珍贵的羊群。</li>
+    <li>archistProphecy(tag=meme_Hucow) -&gt;[inTheEnd]，建筑技术公司将会离开，并驱赶在他们前面那些照顾好自己牛群的人。其余的将被留在荒野中。</li>
+    <li>animistFact(tag=meme_Hucow) -&gt;大自然的动物是奴隶的灵魂，需要被服务。</li>
+  </Hucow.descriptionMaker.rules.rulesStrings>
+  <Hucow.symbolPacks.0.adjective>牛</Hucow.symbolPacks.0.adjective>
+  <Hucow.symbolPacks.1.adjective>H人牛</Hucow.symbolPacks.1.adjective>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rape_Fingering.label>被迫指交</Rape_Fingering.label>
+  <Rape_Fingering.logRulesInitiator.rulesStrings.0>r_logentry->用阴道蹭起[RECIPIENT_nameDef]的手指。</Rape_Fingering.logRulesInitiator.rulesStrings.0>
+  <Rape_Fingering.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]用阴道蹭了蹭手指。</Rape_Fingering.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

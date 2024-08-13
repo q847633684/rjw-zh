@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RJW_IsWhore.headerTip>性工作者</RJW_IsWhore.headerTip>
+  <RJW_IsPrisoner.headerTip>囚犯</RJW_IsPrisoner.headerTip>
+  <RJW_IsSlave.headerTip>奴隸</RJW_IsSlave.headerTip>
+
+  <RJW_WhoreExperience.label>經驗</RJW_WhoreExperience.label>
+  <RJW_WhoreExperience.headerTip>性工作經驗</RJW_WhoreExperience.headerTip>
+
+  <RJW_PriceRangeOfWhore.label>價格</RJW_PriceRangeOfWhore.label>
+  <RJW_PriceRangeOfWhore.headerTip>性交易價格區間</RJW_PriceRangeOfWhore.headerTip>
+
+  <RJW_EarnedMoneyByWhore.label>總收入</RJW_EarnedMoneyByWhore.label>
+  <RJW_EarnedMoneyByWhore.headerTip>收入總額</RJW_EarnedMoneyByWhore.headerTip>
+
+  <RJW_CountOfWhore.label>次數</RJW_CountOfWhore.label>
+  <RJW_CountOfWhore.headerTip>客戶服務次數</RJW_CountOfWhore.headerTip>
+
+  <RJW_AverageMoneyByWhore.label>平均</RJW_AverageMoneyByWhore.label>
+  <RJW_AverageMoneyByWhore.headerTip>收入平均值</RJW_AverageMoneyByWhore.headerTip>
+
+  <RJW_WhoreMood.label>心情</RJW_WhoreMood.label>
+  <RJW_WhoreMood.headerTip>居民心情</RJW_WhoreMood.headerTip>
+
+
+
+</LanguageData>

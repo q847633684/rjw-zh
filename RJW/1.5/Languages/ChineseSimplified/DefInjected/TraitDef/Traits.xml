@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rapist.degreeDatas.0.label>强奸犯</Rapist.degreeDatas.0.label>
+  <Rapist.degreeDatas.0.description>[PAWN_nameDef]不接受他人的拒绝……</Rapist.degreeDatas.0.description>
+
+  <Necrophiliac.degreeDatas.0.label>恋尸癖</Necrophiliac.degreeDatas.0.label>
+  <Necrophiliac.degreeDatas.0.description>死人永远不会拒绝，不是吗？</Necrophiliac.degreeDatas.0.description>
+
+  <Zoophile.degreeDatas.0.label>恋兽癖</Zoophile.degreeDatas.0.label>
+  <Zoophile.degreeDatas.0.description>[PAWN_nameDef]喜欢走在狂野的那一边。</Zoophile.degreeDatas.0.description>
+
+
+</LanguageData>

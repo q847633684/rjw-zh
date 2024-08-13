@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Fertilin strings -->
+  <AbilityDisabledNoFertilinGene>Pawn 不具备所需的生育素基因。</AbilityDisabledNoFertilinGene>
+  <AbilityDisabledNoFertilin>没有足够的生育素来施放。</AbilityDisabledNoFertilin>
+  <MentalBreakNoFertilin>这是因为生育素低而发生的。</MentalBreakNoFertilin>
+
+  <AlertLowFertilin>低生育素</AlertLowFertilin>
+  <AlertLowFertilinDesc>殖民者的生育素水平较低。此时，他们变得绝望到足以考虑通过强奸和兽交来获得受精卵（如果他们还没有这样做的话）。当生育力为零时，他们会失去所有意识并开始随机强奸</AlertLowFertilinDesc>
+
+
+  <!--Succubus Events-->
+  <SuccubusLeaving>{0} 已经吃够了你的殖民者，现在将离开。</SuccubusLeaving>
+
+  <rjw_genes_sexdemon_visit_incident_label>肮脏的梦</rjw_genes_sexdemon_visit_incident_label>
+  <rjw_genes_sexdemon_visit_incident_description>殖民者的肮脏梦想吸引了魅魔。\n\n他们会在附近徘徊几天，试图引诱你的殖民者。如果他们对你的殖民者的性能力印象深刻，他们可能会决定加入你的殖民地。</rjw_genes_sexdemon_visit_incident_description>
+
+  <rjw_genes_succubus_joins_letter_label>访客加入</rjw_genes_succubus_joins_letter_label>
+  <rjw_genes_succubus_joins_letter_description>{0}很喜欢这里，并决定留下来。</rjw_genes_succubus_joins_letter_description>
+
+  <!--魅魔事件-->
+
+</LanguageData>

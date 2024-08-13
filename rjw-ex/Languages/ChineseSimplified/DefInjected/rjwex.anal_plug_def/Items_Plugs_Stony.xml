@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- S-size -->
+
+  <SAnalPlugSmall.label>小型肛塞</SAnalPlugSmall.label>
+  <SAnalPlugSmall.description>強烈拋光的肛塞，小型尺寸。</SAnalPlugSmall.description>
+  <SAnalPlugSmall.comps.0.useLabel>穿戴</SAnalPlugSmall.comps.0.useLabel>
+
+
+  <!-- M-size -->
+
+  <SAnalPlugMedium.label>中型肛塞</SAnalPlugMedium.label>
+  <SAnalPlugMedium.description>強烈拋光的肛塞，中型尺寸。</SAnalPlugMedium.description>
+  <SAnalPlugMedium.comps.0.useLabel>穿戴</SAnalPlugMedium.comps.0.useLabel>
+
+
+  <!-- L-size -->
+
+  <SAnalPlugLarge.label>大型肛塞</SAnalPlugLarge.label>
+  <SAnalPlugLarge.description>強烈拋光的肛塞，大型尺寸。</SAnalPlugLarge.description>
+  <SAnalPlugLarge.comps.0.useLabel>穿戴</SAnalPlugLarge.comps.0.useLabel>
+
+
+</LanguageData>

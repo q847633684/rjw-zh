@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlasticDevice.label>塑身裝置</PlasticDevice.label>
+  <PlasticDevice.description>It can be used to adjust body shape.</PlasticDevice.description>
+  <PlasticDevice.comps.0.useLabel>use Plastic device</PlasticDevice.comps.0.useLabel>
+
+
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CB_Repopulationist.label>重新填充努力</CB_Repopulationist.label>
+  <CB_Repopulationist.description>这个世界需要重新填充，我们将尽自己的一份力量\n\n信息：一旦他们学会走路，如果他们有来自其他派系的父母，他们就可以被送到这个世界\n\ n警告：职责就是职责。您需要装备您的殖民地以支持游戏风格</CB_Repopulationist.description>
+  <CB_Repopulationist.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;肥沃</li>
+    <li>memeAdjective-&gt;fecund</li>
+    <li>memeAdjective-&gt;生育</li>
+    <li>memeAdjective-&gt;育种</li>
+    <li>memeAdjective-&gt;lush</li>
+    <li>memeAdjective-&gt;富有成果</li>
+    <li>memeLeaderNoun-&gt;母亲</li>
+    <li>memeLeaderNoun-&gt;child-bearer</li>
+    <li>memeLeaderNoun-&gt;饲养员</li>
+    <li>memeConcept-&gt;再流行主义</li>
+    <li>memeConcept-&gt;育种</li>
+    <li>memeConcept-&gt;母性</li>
+    <li>memeConcept-&gt;生育力</li>
+    <li>memeLeaderAdjective-&gt;肥沃</li>
+    <li>memeLeaderAdjective-&gt;fecund</li>
+    <li>memeLeaderAdjective-&gt;富有成果</li>
+    <li>memeLeaderAdjective-&gt;郁郁葱葱</li>
+    <li>memeLeaderAdjective-&gt;育种</li>
+  </CB_Repopulationist.generalRules.rulesStrings>
+  <CB_Repopulationist.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_CB_Repopulationist) -&gt;[deity0_name] 赋予我们为这个贫瘠世界带来生命的任务。</CB_Repopulationist.descriptionMaker.rules.rulesStrings.0>
+  <CB_Repopulationist.descriptionMaker.rules.rulesStrings.1>creation(uses=1,tag=meme_CB_Repopulationist) -&gt;[FounderName]以[deity0_objective]的名义生下了许多孩子。</CB_Repopulationist.descriptionMaker.rules.rulesStrings.1>
+  <CB_Repopulationist.symbolPacks.0.adjective>重新填充</CB_Repopulationist.symbolPacks.0.adjective>
+  <CB_Repopulationist.symbolPacks.1.adjective>肥沃</CB_Repopulationist.symbolPacks.1.adjective>
+  <CB_Repopulationist.symbolPacks.2.adjective>育种</CB_Repopulationist.symbolPacks.2.adjective>
+
+
+</LanguageData>

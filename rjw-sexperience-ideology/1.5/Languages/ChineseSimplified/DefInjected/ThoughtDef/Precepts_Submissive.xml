@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <BeenRaped_Submissive.stages.0.label>被强奸</BeenRaped_Submissive.stages.0.label>
+  <BeenRaped_Submissive.stages.0.description>我不得不接受。但我感觉不太好。</BeenRaped_Submissive.stages.0.description>
+
+  <BeenRaped_NotSubmissive.stages.0.label>{0}强奸了我</BeenRaped_NotSubmissive.stages.0.label>
+  <BeenRaped_NotSubmissive.stages.0.description>怎么敢...</BeenRaped_NotSubmissive.stages.0.description>
+
+  <Raped_Know_NotBeingSubmissive.stages.0.label>不听话</Raped_Know_NotBeingSubmissive.stages.0.label>
+
+
+</LanguageData>

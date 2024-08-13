@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- - they hate others doing it -->
+
+  <CB_Prostitution_Sacred.label>神圣</CB_Prostitution_Sacred.label>
+  <CB_Prostitution_Sacred.description>用我们的身体为他人服务是一项最神圣的职责。</CB_Prostitution_Sacred.description>
+  <CB_Prostitution_Sacred.comps.0.description>神圣职责</CB_Prostitution_Sacred.comps.0.description>
+  <CB_Prostitution_Sacred.comps.1.description>有人是神圣的妓女</CB_Prostitution_Sacred.comps.1.description>
+  <CB_Prostitution_Sacred.comps.4.description>不情愿的妓女</CB_Prostitution_Sacred.comps.4.description>
+
+  <CB_Prostitution_Essential.label>基本</CB_Prostitution_Essential.label>
+  <CB_Prostitution_Essential.description>用我们的身体为他人服务是一种责任。</CB_Prostitution_Essential.description>
+  <CB_Prostitution_Essential.comps.0.description>尽职的妓女</CB_Prostitution_Essential.comps.0.description>
+  <CB_Prostitution_Essential.comps.1.description>有人是妓女</CB_Prostitution_Essential.comps.1.description>
+  <CB_Prostitution_Essential.comps.4.description>不情愿的妓女</CB_Prostitution_Essential.comps.4.description>
+
+
+  <!-- This is the truly neutral one. They don't care either way. So no moods. -->
+
+  <CB_Prostitution_Accepted.label>已接受</CB_Prostitution_Accepted.label>
+  <CB_Prostitution_Accepted.description>卖淫和其他工作一样。</CB_Prostitution_Accepted.description>
+
+  <CB_Prostitution_Neutral.label>中立</CB_Prostitution_Neutral.label>
+  <CB_Prostitution_Neutral.description>卖淫是会发生的事情，但我不想这样做。</CB_Prostitution_Neutral.description>
+  <CB_Prostitution_Neutral.comps.0.description>不情愿的妓女</CB_Prostitution_Neutral.comps.0.description>
+
+  <CB_Prostitution_Horrendous.label>可怕</CB_Prostitution_Horrendous.label>
+  <CB_Prostitution_Horrendous.description>卖淫是可怕的。</CB_Prostitution_Horrendous.description>
+  <CB_Prostitution_Horrendous.comps.0.description>强迫妓女</CB_Prostitution_Horrendous.comps.0.description>
+  <CB_Prostitution_Horrendous.comps.1.description>有人是妓女</CB_Prostitution_Horrendous.comps.1.description>
+
+
+  <!--这是真正中立的。他们不在乎。所以没有心情.-->
+
+</LanguageData>
