@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_HumanMilkBulk.label>混合母乳</Make_HumanMilkBulk.label>
+  <Make_HumanMilkBulk.description>组合较小的奶瓶。</Make_HumanMilkBulk.description>
+  <Make_HumanMilkBulk.jobString>组合较小的奶瓶。</Make_HumanMilkBulk.jobString>
+
+  <Make_HumanoidMilkBulk.label>混合人形牛奶</Make_HumanoidMilkBulk.label>
+  <Make_HumanoidMilkBulk.description>组合较小的奶瓶。</Make_HumanoidMilkBulk.description>
+  <Make_HumanoidMilkBulk.jobString>组合较小的奶瓶。</Make_HumanoidMilkBulk.jobString>
+
+  <Make_HumanMilkSmall.label>分割母乳</Make_HumanMilkSmall.label>
+  <Make_HumanMilkSmall.description>分成较小的奶瓶。</Make_HumanMilkSmall.description>
+  <Make_HumanMilkSmall.jobString>分成更小的奶瓶。</Make_HumanMilkSmall.jobString>
+
+  <Make_HumanoidMilkSmall.label>分割人形奶</Make_HumanoidMilkSmall.label>
+  <Make_HumanoidMilkSmall.description>分成较小的奶瓶。</Make_HumanoidMilkSmall.description>
+  <Make_HumanoidMilkSmall.jobString>分成更小的奶瓶。</Make_HumanoidMilkSmall.jobString>
+
+
+</LanguageData>

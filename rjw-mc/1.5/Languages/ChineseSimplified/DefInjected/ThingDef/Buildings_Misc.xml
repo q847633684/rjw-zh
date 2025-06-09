@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MilkingStation.label>挤奶站</MilkingStation.label>
+  <MilkingStation.description>允许用户更方便地自己挤奶的桌子。</MilkingStation.description>
+  <Blueprint_MilkingStation.label>挤奶站（蓝图）</Blueprint_MilkingStation.label>
+  <Blueprint_Install_MilkingStation.label>挤奶站（蓝图）</Blueprint_Install_MilkingStation.label>
+  <Frame_MilkingStation.label>挤奶站（建筑物）</Frame_MilkingStation.label>
+  <Frame_MilkingStation.description>允许用户更方便地自己挤奶的桌子。</Frame_MilkingStation.description>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <UseStripperPole.label>跳了一支舞</UseStripperPole.label>
+  <UseStripperPole.logRules.rulesStrings.0>r_logentry-&gt;[DANCER_nameDef] [dida] [dance].</UseStripperPole.logRules.rulesStrings.0>
+  <UseStripperPole.logRules.rulesStrings.1>dida-&gt;跳了一支舞</UseStripperPole.logRules.rulesStrings.1>
+  <UseStripperPole.logRules.rulesStrings.2>dida-&gt;表演了一支舞</UseStripperPole.logRules.rulesStrings.2>
+  <UseStripperPole.logRules.rulesStrings.3>dance-&gt;dance</UseStripperPole.logRules.rulesStrings.3>
+  <UseStripperPole.logRules.rulesStrings.4>舞蹈-&gt;性感舞蹈</UseStripperPole.logRules.rulesStrings.4>
+  <UseStripperPole.logRules.rulesStrings.5>舞蹈-&gt;撩人舞蹈</UseStripperPole.logRules.rulesStrings.5>
+  <UseStripperPole.logRules.rulesStrings.6>舞蹈-&gt;挑逗性展示</UseStripperPole.logRules.rulesStrings.6>
+
+  <WatchStripperPole.label>观看舞蹈</WatchStripperPole.label>
+  <WatchStripperPole.logRules.rulesStrings.0>r_logentry-&gt;[WATCHER_nameDef] [观看] [DANCER_nameDef] 的[舞蹈]。</WatchStripperPole.logRules.rulesStrings.0>
+  <WatchStripperPole.logRules.rulesStrings.1>r_logentry-&gt;[DANCER_nameDef] [dida] [舞蹈]，而 [WATCHER_nameDef] [观看]。</WatchStripperPole.logRules.rulesStrings.1>
+  <WatchStripperPole.logRules.rulesStrings.2>观看-&gt;观看</WatchStripperPole.logRules.rulesStrings.2>
+  <WatchStripperPole.logRules.rulesStrings.3>观看-&gt;目瞪口呆</WatchStripperPole.logRules.rulesStrings.3>
+  <WatchStripperPole.logRules.rulesStrings.4>观看(p=0.5)-&gt;流口水结束</WatchStripperPole.logRules.rulesStrings.4>
+  <WatchStripperPole.logRules.rulesStrings.5>舞蹈-&gt;舞蹈</WatchStripperPole.logRules.rulesStrings.5>
+  <WatchStripperPole.logRules.rulesStrings.6>舞蹈-&gt;性感舞蹈</WatchStripperPole.logRules.rulesStrings.6>
+  <WatchStripperPole.logRules.rulesStrings.7>舞蹈-&gt;撩人舞蹈</WatchStripperPole.logRules.rulesStrings.7>
+  <WatchStripperPole.logRules.rulesStrings.8>舞蹈-&gt;挑逗性展示</WatchStripperPole.logRules.rulesStrings.8>
+
+</LanguageData>

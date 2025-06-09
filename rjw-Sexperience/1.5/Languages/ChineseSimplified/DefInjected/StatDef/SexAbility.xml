@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SexAbility.label>性能力</SexAbility.label>
+  <SexAbility.description>衡量一个 pawn 是否有能力进行性行为，以及他们的表现如何</SexAbility.description>
+
+
+</LanguageData>

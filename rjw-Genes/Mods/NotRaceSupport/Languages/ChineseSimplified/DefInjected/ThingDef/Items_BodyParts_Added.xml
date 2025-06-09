@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NeedlePenis.label>针阴茎</NeedlePenis.label>
+  <NeedlePenis.description>细长的针状阴茎</NeedlePenis.description>
+
+  <PigPenis.label>螺丝阴茎</PigPenis.label>
+  <PigPenis.description>一个大螺丝阴茎。</PigPenis.description>
+
+  <MarinePenis.label>海洋阴茎</MarinePenis.label>
+  <MarinePenis.description>与海洋哺乳动物相似的阴茎。</MarinePenis.description>
+
+  <TentaclePenis.label>外星人阴茎</TentaclePenis.label>
+  <TentaclePenis.description>具有多个触手的外星阴茎。</TentaclePenis.description>
+
+
+  <GolemPenis.label>傀儡阴茎</GolemPenis.label>
+  <GolemPenis.description>一个巨大的岩石傀儡阴茎。</GolemPenis.description>
+
+  <OrcPenis.label>兽人阴茎</OrcPenis.label>
+  <OrcPenis.description>一个巨大的兽人阴茎。</OrcPenis.description>
+
+  <GhostPenis.label>幽灵阴茎</GhostPenis.label>
+  <GhostPenis.description>转瞬即逝的幽灵阴茎，你几乎感觉不到它。</GhostPenis.description>
+  <GhostPenis.stages.Micro.label>微型</GhostPenis.stages.Micro.label>
+  <GhostPenis.stages.Small.label>很小</GhostPenis.stages.Small.label>
+  <GhostPenis.stages.Average.label>平均</GhostPenis.stages.Average.label>
+  <GhostPenis.stages.Large.label>大</GhostPenis.stages.Large.label>
+  <GhostPenis.stages.Huge.label>巨大</GhostPenis.stages.Huge.label>
+  <GhostPenis.stages.Towering.label>超大</GhostPenis.stages.Towering.label>
+
+  <NecroPenis.label>不死阴茎</NecroPenis.label>
+  <NecroPenis.description>一个腐烂的、复活的阴茎。</NecroPenis.description>
+  <NecroPenis.stages.Micro.label>微型</NecroPenis.stages.Micro.label>
+  <NecroPenis.stages.Small.label>很小</NecroPenis.stages.Small.label>
+  <NecroPenis.stages.Average.label>平均</NecroPenis.stages.Average.label>
+  <NecroPenis.stages.Large.label>大</NecroPenis.stages.Large.label>
+  <NecroPenis.stages.Huge.label>巨大</NecroPenis.stages.Huge.label>
+  <NecroPenis.stages.Towering.label>超大</NecroPenis.stages.Towering.label>
+
+  <GhostVagina.label>幽灵阴道</GhostVagina.label>
+
+
+</LanguageData>

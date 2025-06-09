@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Counts number of times cumstuffed -->
+
+  <AmountOfCumstuffed.label>喝下的精液量</AmountOfCumstuffed.label>
+  <AmountOfCumstuffed.description>我喝下的精液单位数。</AmountOfCumstuffed.description>
+
+
+  <!-- Counts number of times cumflated -->
+
+  <AmountOfCumflation.label>射出的精液量</AmountOfCumflation.label>
+  <AmountOfCumflation.description>我已经塞入体内的精液单位数量。</AmountOfCumflation.description>
+
+
+  <!--计算累计次数 -->
+
+</LanguageData>

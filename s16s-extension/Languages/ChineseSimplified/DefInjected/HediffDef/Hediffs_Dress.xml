@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <S16DressIHed.label>淫穢服飾</S16DressIHed.label>
+  <S16DressIHed.description>Lewd dress on</S16DressIHed.description>
+  <S16DressIHed.stages.0.label>just put on</S16DressIHed.stages.0.label>
+  <S16DressIHed.stages.1.label>acceptance</S16DressIHed.stages.1.label>
+  <S16DressIHed.stages.2.label>humility</S16DressIHed.stages.2.label>
+
+  <S16DressZHed.label>Z dress</S16DressZHed.label>
+  <S16DressZHed.description>Z dress on</S16DressZHed.description>
+  <S16DressZHed.stages.0.label>just put on</S16DressZHed.stages.0.label>
+  <S16DressZHed.stages.1.label>acceptance</S16DressZHed.stages.1.label>
+  <S16DressZHed.stages.2.label>humility</S16DressZHed.stages.2.label>
+
+
+</LanguageData>

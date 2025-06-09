@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_lifeforce.label>生育素</rjw_genes_lifeforce.label>
+  <rjw_genes_lifeforce.description>携带该基因的个体拥有由一种名为“生育素”的资源驱动的生物能量储备。可以通过多种方式获取和消耗，其中一些方式需要其他基因来解锁。\n\n携带者每天因生物熵损失5点生育素。\n\n在携带者能够进行性行为之前，该基因处于不活跃状态。</rjw_genes_lifeforce.description>
+
+  <rjw_genes_lifeforce_drain.label>生育素排出</rjw_genes_lifeforce_drain.label>
+  <rjw_genes_lifeforce_drain.description>携带者每天会因生物熵而额外损失 7.5 个生育素。</rjw_genes_lifeforce_drain.description>
+  <rjw_genes_lifeforce.customEffectDescriptions.0>提供肥料供应。</rjw_genes_lifeforce.customEffectDescriptions.0>
+  <rjw_genes_lifeforce.resourceDescription>一种可以通过多种方式获取和消耗的生物素。\n\n通过口交或吸收储存的精液可以增加生育素。\n\n如果生育素降为零，{PAWN_nameDef}会变得非常不开心，并可能试图强行获取。</rjw_genes_lifeforce.resourceDescription>
+  <rjw_genes_lifeforce.resourceLabel>生育素</rjw_genes_lifeforce.resourceLabel>
+  <rjw_genes_lifeforce.symbolPack.prefixSymbols.0.symbol>带来</rjw_genes_lifeforce.symbolPack.prefixSymbols.0.symbol>
+  <rjw_genes_lifeforce_drain.labelShortAdj>排出</rjw_genes_lifeforce_drain.labelShortAdj>
+  <rjw_genes_lifeforce_drain.resourceLabel>生育素</rjw_genes_lifeforce_drain.resourceLabel>
+
+  <rjw_genes_pussyhealing.label>阴部治疗师</rjw_genes_pussyhealing.label>
+  <rjw_genes_pussyhealing.description>该基因的携带者能够通过阴道性交来处理他人的伤口。</rjw_genes_pussyhealing.description>
+  <rjw_genes_pussyhealing.labelShortAdj>阴部治疗师</rjw_genes_pussyhealing.labelShortAdj>
+  <rjw_genes_pussyhealing.symbolPack.suffixSymbols.0.symbol>生活</rjw_genes_pussyhealing.symbolPack.suffixSymbols.0.symbol>
+  <rjw_genes_pussyhealing.symbolPack.suffixSymbols.1.symbol>猫</rjw_genes_pussyhealing.symbolPack.suffixSymbols.1.symbol>
+  <rjw_genes_pussyhealing.symbolPack.suffixSymbols.2.symbol>愈合</rjw_genes_pussyhealing.symbolPack.suffixSymbols.2.symbol>
+
+  <rjw_genes_cockeater.label>食鸡者</rjw_genes_cockeater.label>
+  <rjw_genes_cockeater.description>该基因的携带者能够通过吃陰莖来恢复其肥力供应。
+			陰莖在这个过程中被消耗掉。</rjw_genes_cockeater.description>
+  <rjw_genes_cockeater.labelShortAdj>食鸡者</rjw_genes_cockeater.labelShortAdj>
+  <rjw_genes_cockeater.symbolPack.suffixSymbols.0.symbol>生物</rjw_genes_cockeater.symbolPack.suffixSymbols.0.symbol>
+  <rjw_genes_cockeater.symbolPack.suffixSymbols.1.symbol>公鸡</rjw_genes_cockeater.symbolPack.suffixSymbols.1.symbol>
+  <rjw_genes_cockeater.symbolPack.suffixSymbols.2.symbol>吃</rjw_genes_cockeater.symbolPack.suffixSymbols.2.symbol>
+
+  <rjw_genes_paralysingkiss.label>麻痹之吻</rjw_genes_paralysingkiss.label>
+  <rjw_genes_paralysingkiss.description>该基因的携带者能够通过亲吻短暂地击晕敌人。</rjw_genes_paralysingkiss.description>
+  <rjw_genes_paralysingkiss.labelShortAdj>paralysing kiss</rjw_genes_paralysingkiss.labelShortAdj>
+  <rjw_genes_paralysingkiss.symbolPack.suffixSymbols.0.symbol>击晕</rjw_genes_paralysingkiss.symbolPack.suffixSymbols.0.symbol>
+  <rjw_genes_paralysingkiss.symbolPack.suffixSymbols.1.symbol>吻</rjw_genes_paralysingkiss.symbolPack.suffixSymbols.1.symbol>
+
+  <rjw_genes_seduce.label>诱惑</rjw_genes_seduce.label>
+  <rjw_genes_seduce.description>该基因的携带者能够引诱棋子与其发生性关系。</rjw_genes_seduce.description>
+  <rjw_genes_seduce.labelShortAdj>诱惑</rjw_genes_seduce.labelShortAdj>
+  <rjw_genes_seduce.symbolPack.suffixSymbols.0.symbol>击晕</rjw_genes_seduce.symbolPack.suffixSymbols.0.symbol>
+  <rjw_genes_seduce.symbolPack.suffixSymbols.1.symbol>吻</rjw_genes_seduce.symbolPack.suffixSymbols.1.symbol>
+
+  <rjw_genes_naked_prowess.label>赤裸裸的实力</rjw_genes_naked_prowess.label>
+  <rjw_genes_naked_prowess.description>该基因的携带者能够暂时增强自身的力量并
+    韧性，尽管他们赤身裸体。</rjw_genes_naked_prowess.description>
+
+  <rjw_genes_cum_eater.label>食精者</rjw_genes_cum_eater.label>
+  <rjw_genes_cum_eater.description>该基因的携带者能够通过吃精液吸收施生育素。这包括口交、吃精液作为食物或吸出精液.</rjw_genes_cum_eater.description>
+
+  <rjw_genes_fertilin_absorber.label>生育素吸收器</rjw_genes_fertilin_absorber.label>
+  <rjw_genes_fertilin_absorber.description>携带这种基因的人能够通过阴道和肛门吸收精子中的生育素。</rjw_genes_fertilin_absorber.description>
+
+  <rjw_genes_lifeforce_empath.label>共情生命力</rjw_genes_lifeforce_empath.label>
+  <rjw_genes_lifeforce_empath.description>拥有这种基因的棋子在附近的棋子性需求得到满足时会生成生命力。但是，如果性需求得不到满足，这种棋子会导致共情力流失生命力。</rjw_genes_lifeforce_empath.description>
+
+  <rjw_genes_drainer.label>活力吸取器</rjw_genes_drainer.label>
+  <rjw_genes_drainer.description>拥有这种基因的个体可以通过与未被耗尽的没有这种基因的棋子进行交配，以吸收大量生育素。这是一种被动的方式。</rjw_genes_drainer.description>
+
+
+</LanguageData>

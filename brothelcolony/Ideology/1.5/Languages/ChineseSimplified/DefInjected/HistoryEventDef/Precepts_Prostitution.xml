@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- History Events -->
+
+  <CB_Whoring.label>在妓院工作</CB_Whoring.label>
+  <CB_Whoring_Reluctant.label>勉强在妓院工作</CB_Whoring_Reluctant.label>
+  <CB_Whoring_NoIdeo.label>在妓院工作</CB_Whoring_NoIdeo.label>
+  <CB_Soliciting_Success_NoIdeo.label>征求失败</CB_Soliciting_Success_NoIdeo.label>
+  <CB_Soliciting_Success.label>已成功拉客</CB_Soliciting_Success.label>
+
+
+</LanguageData>

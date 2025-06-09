@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_bionic_genitalia.label>仿生生殖器</rjw_genes_bionic_genitalia.label>
+  <rjw_genes_bionic_genitalia.description>该硬件是一套高品质的仿生生殖器</rjw_genes_bionic_genitalia.description>
+
+  <rjw_genes_hydrolic_genitalia.label>水力生殖器</rjw_genes_hydrolic_genitalia.label>
+  <rjw_genes_hydrolic_genitalia.description>这件硬件是一套简陋的液压生殖器，至少它配备了悬挂系统</rjw_genes_hydrolic_genitalia.description>
+
+  <rjw_genes_SexDisabled.label>性障碍</rjw_genes_SexDisabled.label>
+  <rjw_genes_SexDisabled.description>仿生人不会从性中感受到满足，也没有必要感受到它。</rjw_genes_SexDisabled.description>
+
+
+</LanguageData>

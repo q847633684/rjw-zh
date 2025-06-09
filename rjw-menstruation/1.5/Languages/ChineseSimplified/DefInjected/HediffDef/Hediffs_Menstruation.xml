@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hediff_MenstrualCramp.label>中枢性疼痛</Hediff_MenstrualCramp.label>
+  <Hediff_MenstrualCramp.description>经期中</Hediff_MenstrualCramp.description>
+  <Hediff_MenstrualCramp.stages.0.label>不快</Hediff_MenstrualCramp.stages.0.label>
+  <Hediff_MenstrualCramp.stages.1.label>恼人</Hediff_MenstrualCramp.stages.1.label>
+  <Hediff_MenstrualCramp.stages.2.label>疼痛</Hediff_MenstrualCramp.stages.2.label>
+  <Hediff_MenstrualCramp.stages.3.label>痛苦</Hediff_MenstrualCramp.stages.3.label>
+  <Hediff_MenstrualCramp.labelNoun>期间</Hediff_MenstrualCramp.labelNoun>
+
+  <Hediff_Estrus.label>发情</Hediff_Estrus.label>
+  <Hediff_Estrus.description>由于子宫进入月经周期最易受孕的阶段而引起的病症。当身体渴望怀孕时，性唤起和性欲急剧增加。
+阴道性交发生的机会增加，择偶标准可能降低。</Hediff_Estrus.description>
+  <Hediff_Estrus.labelNoun>发情</Hediff_Estrus.labelNoun>
+
+  <Hediff_Estrus_Concealed.label>发情期（隐藏）</Hediff_Estrus_Concealed.label>
+  <Hediff_Estrus_Concealed.description>由子宫在月经周期中最容易受孕的阶段引起的病症。性唤起和性欲略有增加。
+阴道性交的机会略有增加。</Hediff_Estrus_Concealed.description>
+  <Hediff_Estrus_Concealed.labelNoun>发情</Hediff_Estrus_Concealed.labelNoun>
+
+  <Hediff_AffectedByPheromones.label>受信息素影响</Hediff_AffectedByPheromones.label>
+  <Hediff_AffectedByPheromones.description>因与发情期的人在一起而引起的病症。热量的气味会增加性欲和满足感。</Hediff_AffectedByPheromones.description>
+  <Hediff_AffectedByPheromones.stages.0.label>虚弱的</Hediff_AffectedByPheromones.stages.0.label>
+  <Hediff_AffectedByPheromones.stages.1.label>缓和</Hediff_AffectedByPheromones.stages.1.label>
+  <Hediff_AffectedByPheromones.stages.2.label>强的</Hediff_AffectedByPheromones.stages.2.label>
+
+  <Hediff_PainReliever.label>去痛药</Hediff_PainReliever.label>
+  <Hediff_PainReliever.description>轻微缓解经期（和其他）疼痛。</Hediff_PainReliever.description>
+
+  <Hediff_Cyclosporine.label>环孢素</Hediff_Cyclosporine.label>
+  <Hediff_Cyclosporine.description>在免疫抑制剂的作用下，阻碍身体抵抗感染和疾病的能力。</Hediff_Cyclosporine.description>
+
+
+</LanguageData>

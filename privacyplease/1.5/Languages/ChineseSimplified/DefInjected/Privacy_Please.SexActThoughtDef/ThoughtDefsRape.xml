@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SawRape_Abhorrent.stages.0.label>被强奸吓坏了</SawRape_Abhorrent.stages.0.label>
+  <SawRape_Abhorrent.stages.0.description>天哪...这不可能真的发生...</SawRape_Abhorrent.stages.0.description>
+
+  <SawRape_Horrible.stages.0.label>因强奸而感到不安</SawRape_Horrible.stages.0.label>
+  <SawRape_Horrible.stages.0.description>他们……他们怎么能侵犯这样的人？</SawRape_Horrible.stages.0.description>
+
+  <SawRape_Disapproved.stages.0.label>因强奸而心烦意乱</SawRape_Disapproved.stages.0.label>
+  <SawRape_Disapproved.stages.0.description>这真的是这里的生活吗？</SawRape_Disapproved.stages.0.description>
+
+  <SawRape_Acceptable.stages.0.label>目击强奸</SawRape_Acceptable.stages.0.label>
+  <SawRape_Acceptable.stages.0.description>哦。嗯。继续...？</SawRape_Acceptable.stages.0.description>
+
+  <SawRape_Honorable.stages.0.label>批准强奸</SawRape_Honorable.stages.0.label>
+  <SawRape_Honorable.stages.0.description>强者必胜弱者。</SawRape_Honorable.stages.0.description>
+
+
+</LanguageData>

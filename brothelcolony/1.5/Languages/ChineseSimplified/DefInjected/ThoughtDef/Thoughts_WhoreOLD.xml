@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Used to keep track of customers, so a whore doesn't repeatedly solicit the same guest -->
+
+  <RJWFailedSolicitation.stages.0.label>试图招揽我</RJWFailedSolicitation.stages.0.label>
+
+
+  <!-- Same as above, but for colonists -->
+
+  <RJWTurnedDownWhore.stages.0.label>打扰了我</RJWTurnedDownWhore.stages.0.label>
+
+  <SleptInBrothel.stages.0.label>睡在妓院</SleptInBrothel.stages.0.label>
+  <SleptInBrothel.stages.0.description>呃，床单都粘粘的.</SleptInBrothel.stages.0.description>
+  <SleptInBrothel.stages.1.label>睡在妓院！</SleptInBrothel.stages.1.label>
+  <SleptInBrothel.stages.1.description>我就是喜欢这个地方，这里的气味，这里的声音...</SleptInBrothel.stages.1.description>
+
+
+</LanguageData>

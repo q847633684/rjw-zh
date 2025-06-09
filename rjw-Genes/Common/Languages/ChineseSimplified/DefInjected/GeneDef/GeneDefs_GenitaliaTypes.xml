@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_equine_genitalia.label>马生殖器</rjw_genes_equine_genitalia.label>
+  <rjw_genes_equine_genitalia.description>该基因的携带者发育出马生殖器。</rjw_genes_equine_genitalia.description>
+
+  <rjw_genes_human_genitalia.label>人类生殖器</rjw_genes_human_genitalia.label>
+  <rjw_genes_human_genitalia.description>该基因的携带者发育出人类生殖器。</rjw_genes_human_genitalia.description>
+
+  <rjw_genes_canine_genitalia.label>犬生殖器</rjw_genes_canine_genitalia.label>
+  <rjw_genes_canine_genitalia.description>该基因的携带者发育出犬科动物生殖器。</rjw_genes_canine_genitalia.description>
+
+  <rjw_genes_feline_genitalia.label>猫生殖器</rjw_genes_feline_genitalia.label>
+  <rjw_genes_feline_genitalia.description>该基因的携带者发育出猫的生殖器。</rjw_genes_feline_genitalia.description>
+
+  <rjw_genes_demonic_genitalia.label>恶魔生殖器</rjw_genes_demonic_genitalia.label>
+  <rjw_genes_demonic_genitalia.description>该基因的携带者拥有恶魔般的生殖器。</rjw_genes_demonic_genitalia.description>
+
+  <rjw_genes_dragon_genitalia.label>龙生殖器</rjw_genes_dragon_genitalia.label>
+  <rjw_genes_dragon_genitalia.description>该基因的携带者发育出龙的生殖器。</rjw_genes_dragon_genitalia.description>
+
+  <rjw_genes_slime_genitalia.label>粘液生殖器</rjw_genes_slime_genitalia.label>
+  <rjw_genes_slime_genitalia.description>该基因的携带者拥有粘液生殖器。</rjw_genes_slime_genitalia.description>
+
+  <rjw_genes_demonicT_genitalia.label>恶魔触手生殖器</rjw_genes_demonicT_genitalia.label>
+  <rjw_genes_demonicT_genitalia.description>该基因的携带者拥有恶魔般的触手生殖器。</rjw_genes_demonicT_genitalia.description>
+
+  <rjw_genes_crocodilian_genitalia.label>鳄鱼生殖器</rjw_genes_crocodilian_genitalia.label>
+  <rjw_genes_crocodilian_genitalia.description>该基因的携带者具有鳄鱼生殖器。</rjw_genes_crocodilian_genitalia.description>
+
+  <rjw_genes_racoon_genitalia.label>浣熊生殖器</rjw_genes_racoon_genitalia.label>
+  <rjw_genes_racoon_genitalia.description>该基因的携带者具有浣熊生殖器。</rjw_genes_racoon_genitalia.description>
+
+  <rjw_genes_reptilian_genitalia.label>爬行动物生殖器</rjw_genes_reptilian_genitalia.label>
+  <rjw_genes_reptilian_genitalia.description>该基因的携带者具有爬行动物生殖器。</rjw_genes_reptilian_genitalia.description>
+
+  <rjw_genes_Ghost_genitalia.label>幽灵生殖器</rjw_genes_Ghost_genitalia.label>
+  <rjw_genes_Ghost_genitalia.description>该基因的携带者拥有幽灵生殖器。</rjw_genes_Ghost_genitalia.description>
+
+  <rjw_genes_Golem_genitalia.label>傀儡生殖器</rjw_genes_Golem_genitalia.label>
+  <rjw_genes_Golem_genitalia.description>该基因的携带者拥有岩石般的傀儡生殖器。</rjw_genes_Golem_genitalia.description>
+
+  <rjw_genes_Marine_genitalia.label>海洋生殖器</rjw_genes_Marine_genitalia.label>
+  <rjw_genes_Marine_genitalia.description>该基因的携带者具有类似海洋哺乳动物的生殖器。</rjw_genes_Marine_genitalia.description>
+
+  <rjw_genes_Necro_genitalia.label>不死生殖器</rjw_genes_Necro_genitalia.label>
+  <rjw_genes_Necro_genitalia.description>该基因的携带者拥有坏死的不死生殖器。</rjw_genes_Necro_genitalia.description>
+
+  <rjw_genes_Needle_genitalia.label>狭窄的生殖器</rjw_genes_Needle_genitalia.label>
+  <rjw_genes_Needle_genitalia.description>该基因携带者的生殖器非常薄。</rjw_genes_Needle_genitalia.description>
+
+  <rjw_genes_Orc_genitalia.label>兽人生殖器</rjw_genes_Orc_genitalia.label>
+  <rjw_genes_Orc_genitalia.description>该基因的携带者拥有兽人生殖器。</rjw_genes_Orc_genitalia.description>
+
+  <rjw_genes_Pig_genitalia.label>螺丝生殖器</rjw_genes_Pig_genitalia.label>
+  <rjw_genes_Pig_genitalia.description>该基因的携带者具有螺旋生殖器。</rjw_genes_Pig_genitalia.description>
+
+  <rjw_genes_Tentacle_genitalia.label>外星生殖器</rjw_genes_Tentacle_genitalia.label>
+  <rjw_genes_Tentacle_genitalia.description>该基因的携带者拥有外星生殖器。</rjw_genes_Tentacle_genitalia.description>
+
+  <rjw_genes_ovipositor_genitalia.label>昆虫生殖器</rjw_genes_ovipositor_genitalia.label>
+  <rjw_genes_ovipositor_genitalia.description>该基因的携带者具有与昆虫相似的产卵器。</rjw_genes_ovipositor_genitalia.description>
+
+
+</LanguageData>

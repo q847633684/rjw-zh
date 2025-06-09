@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <SocialAffection_Normal.label>正常（普通）</SocialAffection_Normal.label>
+  <SocialAffection_Normal.description>正常。</SocialAffection_Normal.description>
+
+  <SocialAffection_Small.label>仅限直系亲属</SocialAffection_Small.label>
+  <SocialAffection_Small.description>只关心直系亲属。</SocialAffection_Small.description>
+
+  <SocialAffection_OnlyFamily.label>仅限家庭</SocialAffection_OnlyFamily.label>
+  <SocialAffection_OnlyFamily.description>不要关心非家庭成员的悲剧。</SocialAffection_OnlyFamily.description>
+
+  <SocialAffection_Dry.label>不是家人</SocialAffection_Dry.label>
+  <SocialAffection_Dry.description>不要关心家人的悲剧。</SocialAffection_Dry.description>
+
+  <SocialAffection_Psychopath.label>精神病患者</SocialAffection_Psychopath.label>
+  <SocialAffection_Psychopath.description>不关心别人。</SocialAffection_Psychopath.description>
+
+
+</LanguageData>

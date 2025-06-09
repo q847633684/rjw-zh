@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <S16_Flogger.label>鞭子</S16_Flogger.label>
+  <S16_Flogger.description>Soft multi-tail whip for naughty games. Ideal for warming up.</S16_Flogger.description>
+  <S16_Flogger.tools.0.label>Grip</S16_Flogger.tools.0.label>
+
+  <Bullet_S16_Flogger.label>flogger tail</Bullet_S16_Flogger.label>
+
+  <S16_Whip.label>鞭子</S16_Whip.label>
+  <S16_Whip.description>wip</S16_Whip.description>
+  <S16_Whip.tools.0.label>Grip</S16_Whip.tools.0.label>
+
+  <S16_Wand.label>按摩棒</S16_Wand.label>
+  <S16_Wand.description>wip</S16_Wand.description>
+  <S16_Wand.tools.0.label>Grip</S16_Wand.tools.0.label>
+
+
+</LanguageData>

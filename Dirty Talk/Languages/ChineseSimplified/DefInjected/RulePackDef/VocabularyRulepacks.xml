@@ -1,0 +1,727 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Constants across all sexual interactions "Sex.xml" -->
+
+  <Sexuali.rulePack.rulesStrings>
+    <li>exclaim_low->ngh</li>
+    <li>exclaim_low->mph</li>
+    <li>exclaim_low->ah</li>
+    <li>exclaim_low->aah</li>
+    <li>exclaim_low->ooh</li>
+    <li>exclaim_high->ARGH</li>
+    <li>exclaim_high->AAH</li>
+    <li>exclaim_high->OH</li>
+    <li>exclaim_high->OGH</li>
+    <li>exclaim_high->EEK</li>
+    <li>exclaim_high->ERGH</li>
+    <li>exclaim_high->OOF</li>
+    <li>exclaim_high->UNG</li>
+    <li>exclaim_oral->ngh</li>
+    <li>exclaim_oral->mph</li>
+    <li>exclaim_oral->slurp</li>
+    <li>exclaim_oral->ung</li>
+    <li>exclaim_oral->slorp</li>
+    <li>suck->li</li>
+    <li>suck->suck</li>
+    <li>forces->forces</li>
+    <li>forces->sli</li>
+    <li>forces->presses</li>
+    <li>forces->inserts</li>
+    <li>forces->pushes</li>
+    <li>forces->shoves</li>
+    <li>forces->果酱</li>
+    <li>forces->stuffs</li>
+    <li>forces->公羊</li>
+    <li>forces->thrusts</li>
+    <li>forces->sticks</li>
+    <li>forces->crams</li>
+    <li>forces->挤压</li>
+    <li>forces->shoehorns</li>
+    <li>li->li</li>
+    <li>li->tongues</li>
+    <li>fuck->fuck</li>
+    <li>fuck->breed</li>
+    <li>fuck->pound</li>
+    <li>fuck->bang</li>
+    <li>fuck->screw</li>
+    <li>fuck->peg</li>
+    <li>fuck->bone</li>
+    <li>fuck->boink</li>
+    <li>fuck->bonk</li>
+    <li>fuck->nail</li>
+    <li>fuck->shag</li>
+    <li>fuck->tap</li>
+    <li>fuck->pork</li>
+    <li>fuck->shag</li>
+    <li>fuck->hump</li>
+    <li>fuck->root</li>
+    <li>fuck->ride</li>
+    <li>fuck->clap</li>
+    <li>fuck->smash</li>
+    <li>fuck->mash</li>
+    <li>fuck->bump</li>
+    <li>fuck->poke</li>
+    <li>fuck->dock</li>
+    <li>fuck->doink</li>
+    <li>fuck->dunk</li>
+    <li>fuck->slam-dunk</li>
+    <li>fuck->fork</li>
+    <li>fuck->pile-drive</li>
+    <li>fuck->tombstone</li>
+    <li>fuck->pogo</li>
+    <li>fuck->pump</li>
+    <li>fuck->rut</li>
+    <li>fuck->shuck</li>
+    <li>fuck->throttle</li>
+    <li>fuck->thump</li>
+    <li>fuck->drill</li>
+    <li>fuck->hammer</li>
+    <li>desire->need</li>
+    <li>desire->want</li>
+    <li>desire->crave</li>
+    <li>penis_adj_good->big</li>
+    <li>penis_adj_good->fat</li>
+    <li>penis_adj_good->hard</li>
+    <li>penis_adj_good-></li>
+    <li>boobs_adj_good->milky</li>
+    <li>boobs_adj_good->creamy</li>
+    <li>boobs_adj_good->perky</li>
+    <li>boobs_adj_good->li</li>
+    <li>boobs_adj_good->fat</li>
+    <li>boobs_adj_good->giant</li>
+    <li>boobs_adj_good->big-ass</li>
+    <li>boobs_adj_good->soft</li>
+    <li>boobs_adj_good-></li>
+    <li>vagina_adj_good->hot</li>
+    <li>vagina_adj_good->tight</li>
+    <li>vagina_adj_good->wet</li>
+    <li>vagina_adj_good-></li>
+    <li>ass_adj_good->big</li>
+    <li>ass_adj_good->fat</li>
+    <li>ass_adj_good->firm</li>
+    <li>ass_adj_good->round</li>
+    <li>ass_adj_good->cute</li>
+    <li>ass_adj_good-></li>
+    <li>asshole_adj_good->li</li>
+    <li>asshole_adj_good->tight</li>
+    <li>asshole_adj_good-></li>
+    <li>penis_adj_bad->filthy</li>
+    <li>penis_adj_bad->dirty</li>
+    <li>penis_adj_bad->hard</li>
+    <li>penis_adj_bad->fat</li>
+    <li>penis_adj_bad->big</li>
+    <li>penis_adj_bad-></li>
+    <li>vagina_adj_bad->hot</li>
+    <li>vagina_adj_bad->tight</li>
+    <li>vagina_adj_bad->wet</li>
+    <li>vagina_adj_bad->filthy</li>
+    <li>vagina_adj_bad->dirty</li>
+    <li>participant_adj_good->bad</li>
+    <li>participant_adj_good->good</li>
+    <li>participant_adj_good->horny</li>
+    <li>participant_adj_good->dirty</li>
+    <li>participant_adj_good->naughty</li>
+    <li>participant_adj_bad->bad</li>
+    <li>participant_adj_bad->horny</li>
+    <li>participant_adj_bad->dirty</li>
+    <li>participant_adj_bad->naughty</li>
+    <li>participant_adj_bad->nasty</li>
+    <li>counterpart_adj_age(RECIPIENT_age&gt;=INITIATOR_age)->big</li>
+    <li>counterpart_adj_age(INITIATOR_age&gt;=RECIPIENT_age)->li</li>
+    <li>counterpart_adj_age-></li>
+    <li>derogadj->nasty</li>
+    <li>derogadj->gross</li>
+    <li>derogadj->disgusting</li>
+    <li>penis->dick</li>
+    <li>penis->cock</li>
+    <li>penis->prick</li>
+    <li>penis->member</li>
+    <li>penis->weenie</li>
+    <li>penis->pecker</li>
+    <li>penis->peter</li>
+    <li>penis->shaft</li>
+    <li>penis->tool</li>
+    <li>penis->putz</li>
+    <li>penis->dong</li>
+    <li>penis->knob</li>
+    <li>penis->joystick</li>
+    <li>penis->whang</li>
+    <li>penis->tadger</li>
+    <li>penis->willi</li>
+    <li>penis->wang</li>
+    <li>penis->chopper</li>
+    <li>penis->plonker</li>
+    <li>penis->organ</li>
+    <li>penis->johnson</li>
+    <li>penis->manhood</li>
+    <li>penis->schlong</li>
+    <li>penis->willy</li>
+    <li>penis->wood</li>
+    <li>penis->winkle</li>
+    <li>penis->pizzle</li>
+    <li>penis->pecker</li>
+    <li>penis->trouser snake</li>
+    <li>penis->worm</li>
+    <li>penis->balogny-pony</li>
+    <li>penis->appendage</li>
+    <li>penis->eggplant</li>
+    <li>penis->third leg</li>
+    <li>penis->custard thruster</li>
+    <li>penis->sausage</li>
+    <li>penis->furless ferret</li>
+    <li>penis->one-eyed willy</li>
+    <li>penis->one-eyed willi</li>
+    <li>penis->babymaker</li>
+    <li>penis->banana</li>
+    <li>penis->beef whistle</li>
+    <li>penis->bald-headed giggle stick</li>
+    <li>penis->chub</li>
+    <li>penis->corndog</li>
+    <li>penis->creamer</li>
+    <li>penis->cucumber</li>
+    <li>penis->disco stick</li>
+    <li>penis->hose</li>
+    <li>penis->boner</li>
+    <li>penis->magic beanstalk</li>
+    <li>penis->jawbreaker</li>
+    <li>penis->jizz launcher</li>
+    <li>penis->John Handcock</li>
+    <li>penis->jizz injector</li>
+    <li>penis->leg of lamb</li>
+    <li>penis->cumspitter</li>
+    <li>penis->commitment stick</li>
+    <li>penis->meat scepter</li>
+    <li>penis->mushroom</li>
+    <li>penis->one-eyed wonder weasel</li>
+    <li>penis->one-eyed pete</li>
+    <li>penis->one-eyed snake</li>
+    <li>penis->one-eyed trouser snake</li>
+    <li>penis->package</li>
+    <li>penis->flesh oboe</li>
+    <li>penis->flesh flute</li>
+    <li>penis->pole</li>
+    <li>penis->rod</li>
+    <li>penis->spigot</li>
+    <li>penis->semen spigot</li>
+    <li>penis->love spigot</li>
+    <li>penis->spear</li>
+    <li>penis->spunk gun</li>
+    <li>penis->spurtgun</li>
+    <li>penis->stiffy</li>
+    <li>penis->sweetmeat</li>
+    <li>penis->tallywhacker</li>
+    <li>penis->yogurt gun</li>
+    <li>penis->yogurt cannon</li>
+    <li>penis->yogurt pistol</li>
+    <li>penis->yogurt hose</li>
+    <li>penis->yogurt sli</li>
+    <li>penis->yogurt thrower</li>
+    <li>penis->semen sli</li>
+    <li>penis->beanstalk</li>
+    <li>penis->babyblaster</li>
+    <li>penis->fleshneedle</li>
+    <li>penis->baby shotgun</li>
+    <li>penis->babytube</li>
+    <li>penis->babyfiller</li>
+    <li>penis->tube steak</li>
+    <li>ass->ass</li>
+    <li>ass->booty</li>
+    <li>ass->bootie</li>
+    <li>ass->butt</li>
+    <li>ass->bum</li>
+    <li>ass->backside</li>
+    <li>ass->behind</li>
+    <li>ass->bottom</li>
+    <li>ass->derriere</li>
+    <li>ass->tush</li>
+    <li>ass->posterior</li>
+    <li>ass->gluteus maximus</li>
+    <li>ass->keister</li>
+    <li>ass->rear</li>
+    <li>ass->rearend</li>
+    <li>ass->tail</li>
+    <li>ass->tushie</li>
+    <li>ass->hindquarters</li>
+    <li>ass->arse</li>
+    <li>ass->buns</li>
+    <li>ass->patootie</li>
+    <li>ass->dumptruck</li>
+    <li>ass->caboose</li>
+    <li>ass->bunghole</li>
+    <li>ass->tukkus</li>
+    <li>ass->badonkadonk</li>
+    <li>ass->rump</li>
+    <li>ass->haunches</li>
+    <li>ass->hams</li>
+    <li>ass->can</li>
+    <li>ass->bubble butt</li>
+    <li>ass->wobble wagon</li>
+    <li>ass->bouncy caked-up dump-truck</li>
+    <li>ass->thick chonky double-wide badonkadonk</li>
+    <li>ass->jean-spli thunder-clapping doorframe-shattering wobble wagon</li>
+    <li>vagina->pussy</li>
+    <li>vagina->cunt</li>
+    <li>vagina->coochie</li>
+    <li>vagina->beaver</li>
+    <li>vagina->muff</li>
+    <li>vagina->beef curtains</li>
+    <li>vagina->fanny</li>
+    <li>vagina->box</li>
+    <li>vagina->hooha</li>
+    <li>vagina->lady bits</li>
+    <li>vagina->twat</li>
+    <li>vagina->minge</li>
+    <li>vagina->flower</li>
+    <li>vagina->bits</li>
+    <li>vagina->cookie</li>
+    <li>vagina->clam</li>
+    <li>vagina->vajayjay</li>
+    <li>vagina->foof</li>
+    <li>vagina->furburger</li>
+    <li>vagina->clunge</li>
+    <li>vagina->nunny</li>
+    <li>vagina->tuppence</li>
+    <li>vagina->vagina</li>
+    <li>vagina->scabbard</li>
+    <li>vagina->sheath</li>
+    <li>vagina->meat sheath</li>
+    <li>vagina->otter pocket</li>
+    <li>vagina->whisker biscuit</li>
+    <li>vagina->squish mitten</li>
+    <li>vagina->sli</li>
+    <li>vagina->vagoo</li>
+    <li>vagina->taco</li>
+    <li>vagina->cooter</li>
+    <li>vagina->bone hole</li>
+    <li>vagina->vertical smile</li>
+    <li>vagina->poontang</li>
+    <li>vagina->meat wallet</li>
+    <li>vagina->baby maker</li>
+    <li>vagina->fuckhole</li>
+    <li>vagina->ferret hole</li>
+    <li>vagina->cocksleeve</li>
+    <li>vagina->cockpit</li>
+    <li>vagina->coochie</li>
+    <li>vagina->bearded clam</li>
+    <li>vagina->cameltoe</li>
+    <li>vagina->cock socket</li>
+    <li>vagina->hot pocket</li>
+    <li>vagina->Hot Pocket™</li>
+    <li>vagina->snatch</li>
+    <li>vagina->south mouth</li>
+    <li>vagina->baby room</li>
+    <li>vagina->squeezebox</li>
+    <li>vagina->vajingo</li>
+    <li>vagina->lady garden</li>
+    <li>vagina->queef tunnel</li>
+    <li>boobs->tits</li>
+    <li>boobs->jugs</li>
+    <li>boobs->milkers</li>
+    <li>boobs->boobs</li>
+    <li>boobs->melons</li>
+    <li>boobs->funbags</li>
+    <li>boobs->hooters</li>
+    <li>boobs->knockers</li>
+    <li>boobs->mommy milkers</li>
+    <li>boobs->bosom</li>
+    <li>boobs->teats</li>
+    <li>boobs->cans</li>
+    <li>boobs->breasts</li>
+    <li>boobs->titties</li>
+    <li>boobs->bongos</li>
+    <li>boobs->tatas</li>
+    <li>boobs->chesticles</li>
+    <li>boobs->gazongas</li>
+    <li>boobs->kahunas</li>
+    <li>boobs->golden globes</li>
+    <li>boobs->honkers</li>
+    <li>boobs->headlamps</li>
+    <li>boobs->titays</li>
+    <li>boobs->lady bubbles</li>
+    <li>boobs->mankillers</li>
+    <li>boobs->sweater stretchers</li>
+    <li>boobs->sweater puppies</li>
+    <li>boobs->marshmallows</li>
+    <li>boobs->twin peaks</li>
+    <li>boobs->titter tots</li>
+    <li>boobs->shoulder boulders</li>
+    <li>boobs->party pillows</li>
+    <li>boobs->built-in stress balls</li>
+    <li>boobs->dumpli</li>
+    <li>cum->cum</li>
+    <li>cum->seed</li>
+    <li>cum->splooge</li>
+    <li>cum->jizz</li>
+    <li>cum->baby batter</li>
+    <li>cum->li soldiers</li>
+    <li>cum->li' soldiers</li>
+    <li>cum->semen</li>
+    <li>cum->sperm</li>
+    <li>cum->spunk</li>
+    <li>cum->custard</li>
+    <li>cum->cream</li>
+    <li>cum->yogurt</li>
+    <li>cum->GoGurt™</li>
+    <li>cum->commitment cream</li>
+    <li>cum->cream filli</li>
+    <li>cum->essence</li>
+    <li>cum->thigh cream</li>
+    <li>cum->gene juice</li>
+    <li>cum->gene jam</li>
+    <li>cum->gene jello</li>
+    <li>cum->swimmers</li>
+    <li>cum->future kids</li>
+    <li>cum->trouser snake venom</li>
+    <li>cum->CoolWhip™</li>
+    <li>cum->whipped cream</li>
+    <li>cum->nut</li>
+    <li>cum->nut butter</li>
+    <li>cum->cottage cheese</li>
+    <li>cum->babyfilli</li>
+    <li>cum->egg infiltrators</li>
+    <li>cum->egg invaders</li>
+    <li>cum->filthy fertili</li>
+    <li>cum->mommy makers</li>
+    <li>cum->schlong juice</li>
+  </Sexuali.rulePack.rulesStrings>
+
+
+  <!-- Constants across all sexual social interactions "SexualChitchat.xml" -->
+  <SexualChitchatConstants.rulePack.rulesStrings>
+    <li>normal_sex_reaction->wow</li>
+    <li>normal_sex_reaction->oh my</li>
+    <li>normal_sex_reaction->*gasp*</li>
+    <li>normal_sex_reaction->ah</li>
+    <li>horny_sex_reaction->wow</li>
+    <li>horny_sex_reaction->ooh</li>
+    <li>horny_sex_reaction->hot</li>
+    <li>gross_sex_reaction->ew</li>
+    <li>gross_sex_reaction->ugh</li>
+    <li>gross_sex_reaction->gross</li>
+    <li>gross_sex_reaction->yuck</li>
+    <li>cheer_sex_reaction->woo</li>
+    <li>cheer_sex_reaction->nice</li>
+    <li>leaving_sex_reaction->i'll get out of here</li>
+    <li>leaving_sex_reaction->i'll go</li>
+    <li>leaving_sex_reaction->i'll leave you to it</li>
+    <li>expletive_adj->fucking</li>
+    <li>expletive_adj->goddamn</li>
+    <li>expletive->god</li>
+    <li>expletive->goddamn</li>
+    <li>expletive->fuck</li>
+    <li>fuck->fuck</li>
+    <li>fuck->breed</li>
+    <li>fuck->pound</li>
+    <li>fuck->bang</li>
+    <li>fuck->screw</li>
+    <li>fuck->peg</li>
+    <li>fuck->bone</li>
+    <li>fuck->boink</li>
+    <li>fuck->bonk</li>
+    <li>fuck->nail</li>
+    <li>fuck->shag</li>
+    <li>fuck->tap</li>
+    <li>fuck->pork</li>
+    <li>fuck->shag</li>
+    <li>fuck->hump</li>
+    <li>fuck->root</li>
+    <li>fuck->ride</li>
+    <li>fuck->clap</li>
+    <li>fuck->smash</li>
+    <li>fuck->mash</li>
+    <li>fuck->bump</li>
+    <li>fuck->poke</li>
+    <li>fuck->dock</li>
+    <li>fuck->doink</li>
+    <li>fuck->dunk</li>
+    <li>fuck->slam-dunk</li>
+    <li>fuck->fork</li>
+    <li>fuck->pile-drive</li>
+    <li>fuck->tombstone</li>
+    <li>fuck->pogo</li>
+    <li>fuck->pump</li>
+    <li>fuck->rut</li>
+    <li>fuck->shuck</li>
+    <li>fuck->throttle</li>
+    <li>fuck->thump</li>
+    <li>fuck->drill</li>
+    <li>fuck->hammer</li>
+    <li>insult->fucker</li>
+    <li>insult->shitlord</li>
+    <li>insult->bastard</li>
+    <li>insult->motherfucker</li>
+    <li>insult->son of a bitch</li>
+    <li>insult->piece of shit</li>
+    <li>insult->fucker</li>
+    <li>laughs->AHAHAHA</li>
+    <li>laughs->HA HA</li>
+    <li>counterpart(INITIATOR_opinion&gt;=25)->[friend]</li>
+    <li>friend->friend</li>
+    <li>friend->pal</li>
+    <li>friend(RECIPIENT_gender==Female)->gal</li>
+    <li>friend(RECIPIENT_gender==Male)->dude</li>
+    <li>friend(RECIPIENT_gender==Male)->bud</li>
+    <li>friend(RECIPIENT_gender==Male, INITIATOR_gender==Male)->bro</li>
+    <li>friend(RECIPIENT_gender==Male, INITIATOR_gender==Male)->man</li>
+    <li>friend(RECIPIENT_gender==Female, INITIATOR_gender==Female)->gurl</li>
+    <li>friend(RECIPIENT_gender==Female, INITIATOR_gender==Female)->girlfriend</li>
+    <li>counterpart->[neutral]</li>
+    <li>neutral->[RECIPIENT_nameDef]</li>
+    <li>counterpart(INITIATOR_opinion&lt;=-25)->[rival]</li>
+    <li>rival(RECIPIENT_trait==masochist, INITIATOR_trait!=masochist, priority=1)->[disapprove]</li>
+    <li>disapprove(RECIPIENT_trait==zoophile, INITIATOR_trait!=zoophile)->animal fucker</li>
+    <li>disapprove(RECIPIENT_trait==rapist, INITIATOR_trait!=rapist)->rapist</li>
+    <li>disapprove->degenerate</li>
+    <li>disapprove->freak</li>
+    <li>disapprove(INITIATOR_intellectual_level&gt;=10)->profli</li>
+    <li>rival->punk</li>
+    <li>rival(RECIPIENT_gender==Male)->asshole</li>
+    <li>rival(RECIPIENT_gender==Female)->bitch</li>
+  </SexualChitchatConstants.rulePack.rulesStrings>
+
+  <!-- Constants across all sex initiator interactions "Sex.xml" -->
+
+  <SexConstants.rulePack.rulesStrings.0>sex(INITIATOR_gender==Male, priority=1)->[sex_m]</SexConstants.rulePack.rulesStrings.0>
+  <SexConstants.rulePack.rulesStrings.1>sex(INITIATOR_gender==Female, priority=1)->[sex_f]</SexConstants.rulePack.rulesStrings.1>
+  <SexConstants.rulePack.rulesStrings.2>sex_m->[sex_n]</SexConstants.rulePack.rulesStrings.2>
+  <SexConstants.rulePack.rulesStrings.3>sex_f->[sex_n]</SexConstants.rulePack.rulesStrings.3>
+  <SexConstants.rulePack.rulesStrings.4>lover(INITIATOR_opinion&gt;=85)->[best]</SexConstants.rulePack.rulesStrings.4>
+  <SexConstants.rulePack.rulesStrings.5>best->babe</SexConstants.rulePack.rulesStrings.5>
+  <SexConstants.rulePack.rulesStrings.6>best->sweetheart</SexConstants.rulePack.rulesStrings.6>
+  <SexConstants.rulePack.rulesStrings.7>best->love</SexConstants.rulePack.rulesStrings.7>
+  <SexConstants.rulePack.rulesStrings.8>best->sweetie</SexConstants.rulePack.rulesStrings.8>
+  <SexConstants.rulePack.rulesStrings.9>lover(INITIATOR_opinion&gt;=25)->[friend]</SexConstants.rulePack.rulesStrings.9>
+  <SexConstants.rulePack.rulesStrings.10>friend->cutie</SexConstants.rulePack.rulesStrings.10>
+  <SexConstants.rulePack.rulesStrings.11>friend->sweetcheeks</SexConstants.rulePack.rulesStrings.11>
+  <SexConstants.rulePack.rulesStrings.12>friend->hun</SexConstants.rulePack.rulesStrings.12>
+  <SexConstants.rulePack.rulesStrings.13>friend(RECIPIENT_gender==Female)->beautiful</SexConstants.rulePack.rulesStrings.13>
+  <SexConstants.rulePack.rulesStrings.14>friend(RECIPIENT_gender==Male)->handsome</SexConstants.rulePack.rulesStrings.14>
+  <SexConstants.rulePack.rulesStrings.15>lover->[neutral]</SexConstants.rulePack.rulesStrings.15>
+  <SexConstants.rulePack.rulesStrings.16>neutral->[RECIPIENT_nameDef]</SexConstants.rulePack.rulesStrings.16>
+  <SexConstants.rulePack.rulesStrings.17>lover(INITIATOR_opinion&lt;=-25)->[rival]</SexConstants.rulePack.rulesStrings.17>
+  <SexConstants.rulePack.rulesStrings.18>rival(RECIPIENT_gender==Female)->skank</SexConstants.rulePack.rulesStrings.18>
+  <SexConstants.rulePack.rulesStrings.19>rival(RECIPIENT_gender==Female)->slut</SexConstants.rulePack.rulesStrings.19>
+  <SexConstants.rulePack.rulesStrings.20>rival(RECIPIENT_gender==Male)->fuckboy</SexConstants.rulePack.rulesStrings.20>
+  <SexConstants.rulePack.rulesStrings.21>rival(RECIPIENT_gender==Male)->sleaze</SexConstants.rulePack.rulesStrings.21>
+  <SexConstants.rulePack.rulesStrings.22>lover(INITIATOR_opinion&lt;=-85)->[worst]</SexConstants.rulePack.rulesStrings.22>
+  <SexConstants.rulePack.rulesStrings.23>worst(RECIPIENT_gender==Female)->whore</SexConstants.rulePack.rulesStrings.23>
+  <SexConstants.rulePack.rulesStrings.24>worst(RECIPIENT_gender==Female)->bitch</SexConstants.rulePack.rulesStrings.24>
+  <SexConstants.rulePack.rulesStrings.25>worst(RECIPIENT_gender==Male)->scumbag</SexConstants.rulePack.rulesStrings.25>
+
+
+  <!-- Constants across all sex recipient interactions "SexReply.xml" -->
+
+  <SexReplyConstants.rulePack.rulesStrings.0>r_logentry->[sex_react]</SexReplyConstants.rulePack.rulesStrings.0>
+  <SexReplyConstants.rulePack.rulesStrings.1>sex_react(RECIPIENT_gender==Female, priority=1)->[sex_react_f]</SexReplyConstants.rulePack.rulesStrings.1>
+  <SexReplyConstants.rulePack.rulesStrings.2>sex_react(RECIPIENT_gender==Male, priority=1)->[sex_react_m]</SexReplyConstants.rulePack.rulesStrings.2>
+  <SexReplyConstants.rulePack.rulesStrings.3>sex_react_f->[sex_react_n]</SexReplyConstants.rulePack.rulesStrings.3>
+  <SexReplyConstants.rulePack.rulesStrings.4>sex_react_m->[sex_react_n]</SexReplyConstants.rulePack.rulesStrings.4>
+  <SexReplyConstants.rulePack.rulesStrings.5>lover(INITIATOR_opinion&gt;=85)->[best]</SexReplyConstants.rulePack.rulesStrings.5>
+  <SexReplyConstants.rulePack.rulesStrings.6>best->babe</SexReplyConstants.rulePack.rulesStrings.6>
+  <SexReplyConstants.rulePack.rulesStrings.7>best->sweetheart</SexReplyConstants.rulePack.rulesStrings.7>
+  <SexReplyConstants.rulePack.rulesStrings.8>best->love</SexReplyConstants.rulePack.rulesStrings.8>
+  <SexReplyConstants.rulePack.rulesStrings.9>best->sweetie</SexReplyConstants.rulePack.rulesStrings.9>
+  <SexReplyConstants.rulePack.rulesStrings.10>lover(INITIATOR_opinion&gt;=25)->[friend]</SexReplyConstants.rulePack.rulesStrings.10>
+  <SexReplyConstants.rulePack.rulesStrings.11>friend->cutie</SexReplyConstants.rulePack.rulesStrings.11>
+  <SexReplyConstants.rulePack.rulesStrings.12>friend->sweetcheeks</SexReplyConstants.rulePack.rulesStrings.12>
+  <SexReplyConstants.rulePack.rulesStrings.13>friend->hun</SexReplyConstants.rulePack.rulesStrings.13>
+  <SexReplyConstants.rulePack.rulesStrings.14>friend(RECIPIENT_gender==Female)->beautiful</SexReplyConstants.rulePack.rulesStrings.14>
+  <SexReplyConstants.rulePack.rulesStrings.15>friend(RECIPIENT_gender==Male)->handsome</SexReplyConstants.rulePack.rulesStrings.15>
+  <SexReplyConstants.rulePack.rulesStrings.16>lover->[neutral]</SexReplyConstants.rulePack.rulesStrings.16>
+  <SexReplyConstants.rulePack.rulesStrings.17>neutral->[RECIPIENT_nameDef]</SexReplyConstants.rulePack.rulesStrings.17>
+  <SexReplyConstants.rulePack.rulesStrings.18>lover(INITIATOR_opinion&lt;=-25)->[rival]</SexReplyConstants.rulePack.rulesStrings.18>
+  <SexReplyConstants.rulePack.rulesStrings.19>rival(RECIPIENT_gender==Female)->skank</SexReplyConstants.rulePack.rulesStrings.19>
+  <SexReplyConstants.rulePack.rulesStrings.20>rival(RECIPIENT_gender==Female)->slut</SexReplyConstants.rulePack.rulesStrings.20>
+  <SexReplyConstants.rulePack.rulesStrings.21>rival(RECIPIENT_gender==Male)->fuckboy</SexReplyConstants.rulePack.rulesStrings.21>
+  <SexReplyConstants.rulePack.rulesStrings.22>rival(RECIPIENT_gender==Male)->sleaze</SexReplyConstants.rulePack.rulesStrings.22>
+  <SexReplyConstants.rulePack.rulesStrings.23>lover(INITIATOR_opinion&lt;=-85)->[worst]</SexReplyConstants.rulePack.rulesStrings.23>
+  <SexReplyConstants.rulePack.rulesStrings.24>worst(RECIPIENT_gender==Female)->whore</SexReplyConstants.rulePack.rulesStrings.24>
+  <SexReplyConstants.rulePack.rulesStrings.25>worst(RECIPIENT_gender==Female)->bitch</SexReplyConstants.rulePack.rulesStrings.25>
+  <SexReplyConstants.rulePack.rulesStrings.26>worst(RECIPIENT_gender==Male)->scumbag</SexReplyConstants.rulePack.rulesStrings.26>
+
+
+  <!-- Constants across all rapist interactions "Rape.xml" -->
+
+  <RapeConstants.rulePack.rulesStrings.0>rape(INITIATOR_gender==Male, priority=1)->[rape_m]</RapeConstants.rulePack.rulesStrings.0>
+  <RapeConstants.rulePack.rulesStrings.1>rape(INITIATOR_gender==Female, priority=1)->[rape_f]</RapeConstants.rulePack.rulesStrings.1>
+  <RapeConstants.rulePack.rulesStrings.2>rape_m->[rape_n]</RapeConstants.rulePack.rulesStrings.2>
+  <RapeConstants.rulePack.rulesStrings.3>rape_f->[rape_n]</RapeConstants.rulePack.rulesStrings.3>
+  <RapeConstants.rulePack.rulesStrings.4>victim->[RECIPIENT_nameDef]</RapeConstants.rulePack.rulesStrings.4>
+  <RapeConstants.rulePack.rulesStrings.5>victim(RECIPIENT_gender==Female)->[victim_f]</RapeConstants.rulePack.rulesStrings.5>
+  <RapeConstants.rulePack.rulesStrings.6>victim(RECIPIENT_gender==Male)->[victim_m]</RapeConstants.rulePack.rulesStrings.6>
+  <RapeConstants.rulePack.rulesStrings.7>victim_f(INITIATOR_opinion&gt;=25,  priority=1)->[RECIPIENT_nameDef]</RapeConstants.rulePack.rulesStrings.7>
+  <RapeConstants.rulePack.rulesStrings.8>victim_f->bitch</RapeConstants.rulePack.rulesStrings.8>
+  <RapeConstants.rulePack.rulesStrings.9>victim_f->slut</RapeConstants.rulePack.rulesStrings.9>
+  <RapeConstants.rulePack.rulesStrings.10>victim_f->whore</RapeConstants.rulePack.rulesStrings.10>
+  <RapeConstants.rulePack.rulesStrings.11>victim_m(INITIATOR_opinion&gt;=25,  priority=1)->[RECIPIENT_nameDef]</RapeConstants.rulePack.rulesStrings.11>
+  <RapeConstants.rulePack.rulesStrings.12>victim_m->bitch</RapeConstants.rulePack.rulesStrings.12>
+  <RapeConstants.rulePack.rulesStrings.13>victim_m->pussy</RapeConstants.rulePack.rulesStrings.13>
+  <RapeConstants.rulePack.rulesStrings.14>victim_m->weakli</RapeConstants.rulePack.rulesStrings.14>
+
+
+  <!-- Constants across all victim interactions "RapeReply.xml" -->
+
+  <RapeReplyConstants.rulePack.rulesStrings.0>r_logentry->[rape_react]</RapeReplyConstants.rulePack.rulesStrings.0>
+  <RapeReplyConstants.rulePack.rulesStrings.1>rape_react(RECIPIENT_gender==Female, priority=1)->[rape_react_f]</RapeReplyConstants.rulePack.rulesStrings.1>
+  <RapeReplyConstants.rulePack.rulesStrings.2>rape_react_f(INITIATOR_trait==masochist, priority=2)->[masochist_f]</RapeReplyConstants.rulePack.rulesStrings.2>
+  <RapeReplyConstants.rulePack.rulesStrings.3>rape_react_f(INITIATOR_thoughtLabel==begging for more, priority=1)->[masochist_f]</RapeReplyConstants.rulePack.rulesStrings.3>
+  <RapeReplyConstants.rulePack.rulesStrings.4>rape_react_f(INITIATOR_thoughtLabel==my body feels broken, priority=1)->[broken2_f]</RapeReplyConstants.rulePack.rulesStrings.4>
+  <RapeReplyConstants.rulePack.rulesStrings.5>rape_react_f(INITIATOR_thoughtLabel==dizzy, priority=1)->[broken1_f]</RapeReplyConstants.rulePack.rulesStrings.5>
+  <RapeReplyConstants.rulePack.rulesStrings.6>rape_react(RECIPIENT_gender==Male, priority=1)->[rape_react_m]</RapeReplyConstants.rulePack.rulesStrings.6>
+  <RapeReplyConstants.rulePack.rulesStrings.7>rape_react_m(INITIATOR_trait==masochist, priority=2)->[masochist_m]</RapeReplyConstants.rulePack.rulesStrings.7>
+  <RapeReplyConstants.rulePack.rulesStrings.8>rape_react_m(INITIATOR_thoughtLabel==begging for more, priority=1)->[masochist_m]</RapeReplyConstants.rulePack.rulesStrings.8>
+  <RapeReplyConstants.rulePack.rulesStrings.9>rape_react_m(INITIATOR_thoughtLabel==my body feels broken, priority=1)->[broken2_m]</RapeReplyConstants.rulePack.rulesStrings.9>
+  <RapeReplyConstants.rulePack.rulesStrings.10>rape_react_m(INITIATOR_thoughtLabel==dizzy, priority=1)->[broken1_m]</RapeReplyConstants.rulePack.rulesStrings.10>
+  <RapeReplyConstants.rulePack.rulesStrings.11>rape_react_m->[rape_react_n]</RapeReplyConstants.rulePack.rulesStrings.11>
+  <RapeReplyConstants.rulePack.rulesStrings.12>rape_react_f->[rape_react_n]</RapeReplyConstants.rulePack.rulesStrings.12>
+  <RapeReplyConstants.rulePack.rulesStrings.13>masochist_m->[masochist_n]</RapeReplyConstants.rulePack.rulesStrings.13>
+  <RapeReplyConstants.rulePack.rulesStrings.14>masochist_f->[masochist_n]</RapeReplyConstants.rulePack.rulesStrings.14>
+  <RapeReplyConstants.rulePack.rulesStrings.15>broken2_m->[broken2_n]</RapeReplyConstants.rulePack.rulesStrings.15>
+  <RapeReplyConstants.rulePack.rulesStrings.16>broken2_f->[broken2_n]</RapeReplyConstants.rulePack.rulesStrings.16>
+  <RapeReplyConstants.rulePack.rulesStrings.17>broken1_m->[broken2_n]</RapeReplyConstants.rulePack.rulesStrings.17>
+  <RapeReplyConstants.rulePack.rulesStrings.18>broken1_f->[broken2_n]</RapeReplyConstants.rulePack.rulesStrings.18>
+  <RapeReplyConstants.rulePack.rulesStrings.19>rapist(INITIATOR_opinion&gt;=25, priority=1)->[RECIPIENT_nameDef]</RapeReplyConstants.rulePack.rulesStrings.19>
+  <RapeReplyConstants.rulePack.rulesStrings.20>rapist(INITIATOR_trait==masochist, priority=2)->[master]</RapeReplyConstants.rulePack.rulesStrings.20>
+  <RapeReplyConstants.rulePack.rulesStrings.21>master->master</RapeReplyConstants.rulePack.rulesStrings.21>
+  <RapeReplyConstants.rulePack.rulesStrings.22>master(RECIPIENT_gender==Male)->daddy</RapeReplyConstants.rulePack.rulesStrings.22>
+  <RapeReplyConstants.rulePack.rulesStrings.23>master->[RECIPIENT_nameDef]</RapeReplyConstants.rulePack.rulesStrings.23>
+  <RapeReplyConstants.rulePack.rulesStrings.24>rapist->[rapist_bad_opinion]</RapeReplyConstants.rulePack.rulesStrings.24>
+  <RapeReplyConstants.rulePack.rulesStrings.25>rapist_bad_opinion(RECIPIENT_gender==Female)->bitch</RapeReplyConstants.rulePack.rulesStrings.25>
+  <RapeReplyConstants.rulePack.rulesStrings.26>rapist_bad_opinion(RECIPIENT_gender==Male)->creep</RapeReplyConstants.rulePack.rulesStrings.26>
+  <RapeReplyConstants.rulePack.rulesStrings.27>rapist_bad_opinion->you fuck</RapeReplyConstants.rulePack.rulesStrings.27>
+  <RapeReplyConstants.rulePack.rulesStrings.28>rapist_bad_opinion->fucker</RapeReplyConstants.rulePack.rulesStrings.28>
+  <RapeReplyConstants.rulePack.rulesStrings.29>rapist_bad_opinion->you piece of shit</RapeReplyConstants.rulePack.rulesStrings.29>
+  <RapeReplyConstants.rulePack.rulesStrings.30>rapist_bad_opinion->freak</RapeReplyConstants.rulePack.rulesStrings.30>
+
+
+  <!-- Constants across all breeder interactions "Bestiali.xml" -->
+
+  <Bestiali.rulePack.rulesStrings.0>r_logentry(INITIATOR_ali==Human, priority=2)->[human_breed]</Bestiali.rulePack.rulesStrings.0>
+  <Bestiali.rulePack.rulesStrings.1>human_breed(INITIATOR_gender==Male)->[human_breed_m]</Bestiali.rulePack.rulesStrings.1>
+  <Bestiali.rulePack.rulesStrings.2>human_breed(INITIATOR_gender==Female)->[human_breed_f]</Bestiali.rulePack.rulesStrings.2>
+  <Bestiali.rulePack.rulesStrings.3>human_breed_m(INITIATOR_trait==zoophile, priority=2)->[zoophile_m]</Bestiali.rulePack.rulesStrings.3>
+  <Bestiali.rulePack.rulesStrings.4>human_breed_f(INITIATOR_trait==zoophile, priority=2)->[zoophile_f]</Bestiali.rulePack.rulesStrings.4>
+  <Bestiali.rulePack.rulesStrings.5>zoophile_f->[zoophile_n]</Bestiali.rulePack.rulesStrings.5>
+  <Bestiali.rulePack.rulesStrings.6>zoophile_m->[zoophile_n]</Bestiali.rulePack.rulesStrings.6>
+  <Bestiali.rulePack.rulesStrings.7>human_breed_m->[human_breed_n]</Bestiali.rulePack.rulesStrings.7>
+  <Bestiali.rulePack.rulesStrings.8>human_breed_f->[human_breed_n]</Bestiali.rulePack.rulesStrings.8>
+  <Bestiali.rulePack.rulesStrings.9>r_logentry(INITIATOR_ali!=Human, RECIPIENT_ali==Human, priority=1)->[animal_breed_with_reply]</Bestiali.rulePack.rulesStrings.9>
+  <Bestiali.rulePack.rulesStrings.10>r_logentry(INITIATOR_ali!=Human, priority=0.5)->[animal_breed]</Bestiali.rulePack.rulesStrings.10>
+  <Bestiali.rulePack.rulesStrings.11>animal_breed(INITIATOR_gender==Male)->[animal_breed_m]</Bestiali.rulePack.rulesStrings.11>
+  <Bestiali.rulePack.rulesStrings.12>animal_breed(INITIATOR_gender==Female)->[animal_breed_f]</Bestiali.rulePack.rulesStrings.12>
+  <Bestiali.rulePack.rulesStrings.13>animal_breed_m->[animal_breed_n]</Bestiali.rulePack.rulesStrings.13>
+  <Bestiali.rulePack.rulesStrings.14>animal_breed_f->[animal_breed_n]</Bestiali.rulePack.rulesStrings.14>
+  <Bestiali.rulePack.rulesStrings.15>fuck->breed</Bestiali.rulePack.rulesStrings.15>
+  <Bestiali.rulePack.rulesStrings.16>animal_noun->[RECIPIENT_nameDef]</Bestiali.rulePack.rulesStrings.16>
+  <Bestiali.rulePack.rulesStrings.17>animal_noun(RECIPIENT_gender==Male)->boy</Bestiali.rulePack.rulesStrings.17>
+  <Bestiali.rulePack.rulesStrings.18>animal_noun(RECIPIENT_gender==Female)->girl</Bestiali.rulePack.rulesStrings.18>
+  <Bestiali.rulePack.rulesStrings.19>animal_noun(RECIPIENT_gender==Female)->lady</Bestiali.rulePack.rulesStrings.19>
+  <Bestiali.rulePack.rulesStrings.20>animal_genitals_initiator(INITIATOR_gender==Male, priority=5)->[animal_penis_initiator]</Bestiali.rulePack.rulesStrings.20>
+  <Bestiali.rulePack.rulesStrings.21>animal_genitals_initiator(INITIATOR_gender==Female, priority=5)->[animal_vagina_initiator]</Bestiali.rulePack.rulesStrings.21>
+  <Bestiali.rulePack.rulesStrings.22>animal_genitals_recipient(RECIPIENT_gender==Male, priority=5)->[animal_penis_recipient]</Bestiali.rulePack.rulesStrings.22>
+  <Bestiali.rulePack.rulesStrings.23>animal_genitals_recipient(RECIPIENT_gender==Female, priority=5)->[animal_vagina_recipient]</Bestiali.rulePack.rulesStrings.23>
+  <Bestiali.rulePack.rulesStrings.24>animal_penis_initiator(INITIATOR_ali==Human, priority=5)->[penis]</Bestiali.rulePack.rulesStrings.24>
+  <Bestiali.rulePack.rulesStrings.25>animal_penis_initiator->[penis]</Bestiali.rulePack.rulesStrings.25>
+  <Bestiali.rulePack.rulesStrings.26>animal_penis_initiator->[INITIATOR_kind] [penis]</Bestiali.rulePack.rulesStrings.26>
+  <Bestiali.rulePack.rulesStrings.27>animal_penis_recipient(RECIPIENT_ali==Human, priority=5)->[penis]</Bestiali.rulePack.rulesStrings.27>
+  <Bestiali.rulePack.rulesStrings.28>animal_penis_recipient->[penis]</Bestiali.rulePack.rulesStrings.28>
+  <Bestiali.rulePack.rulesStrings.29>animal_penis_recipient->[RECIPIENT_kind] [penis]</Bestiali.rulePack.rulesStrings.29>
+  <Bestiali.rulePack.rulesStrings.30>animal_vagina_initiator(INITIATOR_ali==Human, priority=5)->[vagina]</Bestiali.rulePack.rulesStrings.30>
+  <Bestiali.rulePack.rulesStrings.31>animal_vagina_initiator->[vagina]</Bestiali.rulePack.rulesStrings.31>
+  <Bestiali.rulePack.rulesStrings.32>animal_vagina_initiator->[INITIATOR_kind] [vagina]</Bestiali.rulePack.rulesStrings.32>
+  <Bestiali.rulePack.rulesStrings.33>animal_vagina_recipient(RECIPIENT_ali==Human, priority=5)->[vagina]</Bestiali.rulePack.rulesStrings.33>
+  <Bestiali.rulePack.rulesStrings.34>animal_vagina_recipient->[vagina]</Bestiali.rulePack.rulesStrings.34>
+  <Bestiali.rulePack.rulesStrings.35>animal_vagina_recipient->[RECIPIENT_kind] [vagina]</Bestiali.rulePack.rulesStrings.35>
+  <Bestiali.rulePack.rulesStrings.36>animal_ass_initiator(INITIATOR_ali==Human, priority=5)->[ass]</Bestiali.rulePack.rulesStrings.36>
+  <Bestiali.rulePack.rulesStrings.37>animal_ass_initiator->[ass]</Bestiali.rulePack.rulesStrings.37>
+  <Bestiali.rulePack.rulesStrings.38>animal_ass_initiator->[INITIATOR_kind] [ass]</Bestiali.rulePack.rulesStrings.38>
+  <Bestiali.rulePack.rulesStrings.39>animal_ass_recipient(RECIPIENT_ali==Human, priority=5)->[ass]</Bestiali.rulePack.rulesStrings.39>
+  <Bestiali.rulePack.rulesStrings.40>animal_ass_recipient->[ass]</Bestiali.rulePack.rulesStrings.40>
+  <Bestiali.rulePack.rulesStrings.41>animal_ass_recipient->[RECIPIENT_kind] [ass]</Bestiali.rulePack.rulesStrings.41>
+  <Bestiali.rulePack.rulesStrings.42>animal_penis_recipient(RECIPIENT_kind==husky, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.42>
+  <Bestiali.rulePack.rulesStrings.43>animal_penis_recipient(RECIPIENT_kind==labrador retriever, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.43>
+  <Bestiali.rulePack.rulesStrings.44>animal_penis_recipient(RECIPIENT_kind==yorkshire terrier, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.44>
+  <Bestiali.rulePack.rulesStrings.45>animal_penis_recipient(RECIPIENT_kind==warg, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.45>
+  <Bestiali.rulePack.rulesStrings.46>animal_penis_recipient(RECIPIENT_kind==timber wolf, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.46>
+  <Bestiali.rulePack.rulesStrings.47>animal_penis_recipient(RECIPIENT_kind==arctic wolf, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.47>
+  <Bestiali.rulePack.rulesStrings.48>animal_penis_recipient(RECIPIENT_kind==fennec fox, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.48>
+  <Bestiali.rulePack.rulesStrings.49>animal_penis_recipient(RECIPIENT_kind==red fox, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.49>
+  <Bestiali.rulePack.rulesStrings.50>animal_penis_recipient(RECIPIENT_kind==arctic fox, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.50>
+  <Bestiali.rulePack.rulesStrings.51>animal_penis_initiator(RECIPIENT_kind==husky, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.51>
+  <Bestiali.rulePack.rulesStrings.52>animal_penis_initiator(RECIPIENT_kind==labrador retriever, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.52>
+  <Bestiali.rulePack.rulesStrings.53>animal_penis_initiator(RECIPIENT_kind==yorkshire terrier, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.53>
+  <Bestiali.rulePack.rulesStrings.54>animal_penis_initiator(RECIPIENT_kind==warg, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.54>
+  <Bestiali.rulePack.rulesStrings.55>animal_penis_initiator(RECIPIENT_kind==timber wolf, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.55>
+  <Bestiali.rulePack.rulesStrings.56>animal_penis_initiator(RECIPIENT_kind==arctic wolf, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.56>
+  <Bestiali.rulePack.rulesStrings.57>animal_penis_initiator(RECIPIENT_kind==fennec fox, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.57>
+  <Bestiali.rulePack.rulesStrings.58>animal_penis_initiator(RECIPIENT_kind==red fox, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.58>
+  <Bestiali.rulePack.rulesStrings.59>animal_penis_initiator(RECIPIENT_kind==arctic fox, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.59>
+  <Bestiali.rulePack.rulesStrings.60>canine_penis->red rocket</Bestiali.rulePack.rulesStrings.60>
+  <Bestiali.rulePack.rulesStrings.61>canine_penis->knot</Bestiali.rulePack.rulesStrings.61>
+  <Bestiali.rulePack.rulesStrings.62>canine_penis->[penis]</Bestiali.rulePack.rulesStrings.62>
+
+
+  <!-- Constants across all breedee interactions "Bestiali.xml" -->
+
+  <Bestiali.rulePack.rulesStrings.0>r_logentry(INITIATOR_ali==Human, priority=2)->[human_react]</Bestiali.rulePack.rulesStrings.0>
+  <Bestiali.rulePack.rulesStrings.1>human_react(RECIPIENT_gender==Male)->[human_react_m]</Bestiali.rulePack.rulesStrings.1>
+  <Bestiali.rulePack.rulesStrings.2>human_react_m(INITIATOR_trait==zoophile, priority=2)->[zoophile_m]</Bestiali.rulePack.rulesStrings.2>
+  <Bestiali.rulePack.rulesStrings.3>human_react(RECIPIENT_gender==Female)->[human_react_f]</Bestiali.rulePack.rulesStrings.3>
+  <Bestiali.rulePack.rulesStrings.4>human_react_f(INITIATOR_trait==zoophile, priority=2)->[zoophile_f]</Bestiali.rulePack.rulesStrings.4>
+  <Bestiali.rulePack.rulesStrings.5>r_logentry(INITIATOR_ali!=Human, priority=1)->...</Bestiali.rulePack.rulesStrings.5>
+  <Bestiali.rulePack.rulesStrings.6>zoophile_f->[zoophile_n]</Bestiali.rulePack.rulesStrings.6>
+  <Bestiali.rulePack.rulesStrings.7>zoophile_m->[zoophile_n]</Bestiali.rulePack.rulesStrings.7>
+  <Bestiali.rulePack.rulesStrings.8>human_react_m->[human_react_n]</Bestiali.rulePack.rulesStrings.8>
+  <Bestiali.rulePack.rulesStrings.9>human_react_f->[human_react_n]</Bestiali.rulePack.rulesStrings.9>
+  <Bestiali.rulePack.rulesStrings.10>fuck->breed</Bestiali.rulePack.rulesStrings.10>
+  <Bestiali.rulePack.rulesStrings.11>animal_noun->[RECIPIENT_nameDef]</Bestiali.rulePack.rulesStrings.11>
+  <Bestiali.rulePack.rulesStrings.12>animal_noun(RECIPIENT_gender==Male)->boy</Bestiali.rulePack.rulesStrings.12>
+  <Bestiali.rulePack.rulesStrings.13>animal_noun(RECIPIENT_gender==Female)->girl</Bestiali.rulePack.rulesStrings.13>
+  <Bestiali.rulePack.rulesStrings.14>animal_noun(RECIPIENT_gender==Female)->lady</Bestiali.rulePack.rulesStrings.14>
+  <Bestiali.rulePack.rulesStrings.15>animal_genitals_initiator(INITIATOR_gender==Male, priority=5)->[animal_penis_initiator]</Bestiali.rulePack.rulesStrings.15>
+  <Bestiali.rulePack.rulesStrings.16>animal_genitals_initiator(INITIATOR_gender==Female, priority=5)->[animal_vagina_initiator]</Bestiali.rulePack.rulesStrings.16>
+  <Bestiali.rulePack.rulesStrings.17>animal_genitals_recipient(RECIPIENT_gender==Male, priority=5)->[animal_penis_recipient]</Bestiali.rulePack.rulesStrings.17>
+  <Bestiali.rulePack.rulesStrings.18>animal_genitals_recipient(RECIPIENT_gender==Female, priority=5)->[animal_vagina_recipient]</Bestiali.rulePack.rulesStrings.18>
+  <Bestiali.rulePack.rulesStrings.19>animal_penis_initiator(INITIATOR_ali==Human, priority=5)->[penis]</Bestiali.rulePack.rulesStrings.19>
+  <Bestiali.rulePack.rulesStrings.20>animal_penis_initiator->[penis]</Bestiali.rulePack.rulesStrings.20>
+  <Bestiali.rulePack.rulesStrings.21>animal_penis_initiator->[INITIATOR_kind] [penis]</Bestiali.rulePack.rulesStrings.21>
+  <Bestiali.rulePack.rulesStrings.22>animal_penis_recipient(RECIPIENT_ali==Human, priority=5)->[penis]</Bestiali.rulePack.rulesStrings.22>
+  <Bestiali.rulePack.rulesStrings.23>animal_penis_recipient->[penis]</Bestiali.rulePack.rulesStrings.23>
+  <Bestiali.rulePack.rulesStrings.24>animal_penis_recipient->[RECIPIENT_kind] [penis]</Bestiali.rulePack.rulesStrings.24>
+  <Bestiali.rulePack.rulesStrings.25>animal_vagina_initiator(INITIATOR_ali==Human, priority=5)->[vagina]</Bestiali.rulePack.rulesStrings.25>
+  <Bestiali.rulePack.rulesStrings.26>animal_vagina_initiator->[vagina]</Bestiali.rulePack.rulesStrings.26>
+  <Bestiali.rulePack.rulesStrings.27>animal_vagina_initiator->[INITIATOR_kind] [vagina]</Bestiali.rulePack.rulesStrings.27>
+  <Bestiali.rulePack.rulesStrings.28>animal_vagina_recipient(RECIPIENT_ali==Human, priority=5)->[vagina]</Bestiali.rulePack.rulesStrings.28>
+  <Bestiali.rulePack.rulesStrings.29>animal_vagina_recipient->[vagina]</Bestiali.rulePack.rulesStrings.29>
+  <Bestiali.rulePack.rulesStrings.30>animal_vagina_recipient->[RECIPIENT_kind] [vagina]</Bestiali.rulePack.rulesStrings.30>
+  <Bestiali.rulePack.rulesStrings.31>animal_ass_initiator(INITIATOR_ali==Human, priority=5)->[ass]</Bestiali.rulePack.rulesStrings.31>
+  <Bestiali.rulePack.rulesStrings.32>animal_ass_initiator->[ass]</Bestiali.rulePack.rulesStrings.32>
+  <Bestiali.rulePack.rulesStrings.33>animal_ass_initiator->[INITIATOR_kind] [ass]</Bestiali.rulePack.rulesStrings.33>
+  <Bestiali.rulePack.rulesStrings.34>animal_ass_recipient(RECIPIENT_ali==Human, priority=5)->[ass]</Bestiali.rulePack.rulesStrings.34>
+  <Bestiali.rulePack.rulesStrings.35>animal_ass_recipient->[ass]</Bestiali.rulePack.rulesStrings.35>
+  <Bestiali.rulePack.rulesStrings.36>animal_ass_recipient->[RECIPIENT_kind] [ass]</Bestiali.rulePack.rulesStrings.36>
+  <Bestiali.rulePack.rulesStrings.37>animal_penis_recipient(RECIPIENT_kind==husky, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.37>
+  <Bestiali.rulePack.rulesStrings.38>animal_penis_recipient(RECIPIENT_kind==labrador retriever, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.38>
+  <Bestiali.rulePack.rulesStrings.39>animal_penis_recipient(RECIPIENT_kind==yorkshire terrier, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.39>
+  <Bestiali.rulePack.rulesStrings.40>animal_penis_recipient(RECIPIENT_kind==warg, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.40>
+  <Bestiali.rulePack.rulesStrings.41>animal_penis_recipient(RECIPIENT_kind==timber wolf, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.41>
+  <Bestiali.rulePack.rulesStrings.42>animal_penis_recipient(RECIPIENT_kind==arctic wolf, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.42>
+  <Bestiali.rulePack.rulesStrings.43>animal_penis_recipient(RECIPIENT_kind==fennec fox, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.43>
+  <Bestiali.rulePack.rulesStrings.44>animal_penis_recipient(RECIPIENT_kind==red fox, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.44>
+  <Bestiali.rulePack.rulesStrings.45>animal_penis_recipient(RECIPIENT_kind==arctic fox, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.45>
+  <Bestiali.rulePack.rulesStrings.46>animal_penis_initiator(RECIPIENT_kind==husky, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.46>
+  <Bestiali.rulePack.rulesStrings.47>animal_penis_initiator(RECIPIENT_kind==labrador retriever, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.47>
+  <Bestiali.rulePack.rulesStrings.48>animal_penis_initiator(RECIPIENT_kind==yorkshire terrier, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.48>
+  <Bestiali.rulePack.rulesStrings.49>animal_penis_initiator(RECIPIENT_kind==warg, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.49>
+  <Bestiali.rulePack.rulesStrings.50>animal_penis_initiator(RECIPIENT_kind==timber wolf, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.50>
+  <Bestiali.rulePack.rulesStrings.51>animal_penis_initiator(RECIPIENT_kind==arctic wolf, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.51>
+  <Bestiali.rulePack.rulesStrings.52>animal_penis_initiator(RECIPIENT_kind==fennec fox, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.52>
+  <Bestiali.rulePack.rulesStrings.53>animal_penis_initiator(RECIPIENT_kind==red fox, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.53>
+  <Bestiali.rulePack.rulesStrings.54>animal_penis_initiator(RECIPIENT_kind==arctic fox, priority=1)->[canine_penis]</Bestiali.rulePack.rulesStrings.54>
+  <Bestiali.rulePack.rulesStrings.55>canine_penis->red rocket</Bestiali.rulePack.rulesStrings.55>
+  <Bestiali.rulePack.rulesStrings.56>canine_penis->knot</Bestiali.rulePack.rulesStrings.56>
+  <Bestiali.rulePack.rulesStrings.57>canine_penis->[penis]</Bestiali.rulePack.rulesStrings.57>
+
+
+</LanguageData>

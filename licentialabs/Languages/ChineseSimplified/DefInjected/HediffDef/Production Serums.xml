@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ProducingHormonalSerum.label>生产血清</ProducingHormonalSerum.label>
+  <ProducingHormonalSerum.description>描述文本</ProducingHormonalSerum.description>
+  <ProducingHormonalSerum.stages.0.label>空</ProducingHormonalSerum.stages.0.label>
+  <ProducingHormonalSerum.stages.1.label>生产</ProducingHormonalSerum.stages.1.label>
+  <ProducingHormonalSerum.stages.2.label>满</ProducingHormonalSerum.stages.2.label>
+  <ProducingHormonalSerum.labelNoun>生产血清</ProducingHormonalSerum.labelNoun>
+
+
+</LanguageData>

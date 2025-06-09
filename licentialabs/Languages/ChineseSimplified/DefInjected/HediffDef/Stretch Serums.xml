@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Elasticised.label>弹性化</Elasticised.label>
+  <Elasticised.description>描述文本</Elasticised.description>
+  <Elasticised.stages.0.label>逐渐消失</Elasticised.stages.0.label>
+  <Elasticised.stages.1.label>弹性化</Elasticised.stages.1.label>
+  <Elasticised.stages.2.label>滑溜溜的</Elasticised.stages.2.label>
+
+  <Enlarged.label>生殖器增大</Enlarged.label>
+  <Enlarged.description>描述文本</Enlarged.description>
+  <Enlarged.stages.0.label>增大</Enlarged.stages.0.label>
+  <Enlarged.stages.1.label>充血</Enlarged.stages.1.label>
+
+  <Diminished.label>生殖器缩小</Diminished.label>
+  <Diminished.description>描述文本</Diminished.description>
+  <Diminished.stages.0.label>减少</Diminished.stages.0.label>
+  <Diminished.stages.1.label>严重减少</Diminished.stages.1.label>
+
+  <Untearable.label>无法撕裂</Untearable.label>
+  <Untearable.description>描述文本</Untearable.description>
+  <Untearable.stages.0.label>逐渐消失</Untearable.stages.0.label>
+
+
+</LanguageData>

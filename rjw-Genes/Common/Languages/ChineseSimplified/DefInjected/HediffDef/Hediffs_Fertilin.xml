@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_fertilin_lost.label>失去生育素</rjw_genes_fertilin_lost.label>
+  <rjw_genes_fertilin_lost.description>肥素丢失百分比。</rjw_genes_fertilin_lost.description>
+
+  <rjw_genes_succubus_drained.label>抽干</rjw_genes_succubus_drained.label>
+  <rjw_genes_succubus_drained.description>该棋子的生命力已被耗尽。在完全恢复之前无法再次耗尽。</rjw_genes_succubus_drained.description>
+  <rjw_genes_succubus_drained.stages.0.label>轻微</rjw_genes_succubus_drained.stages.0.label>
+  <rjw_genes_succubus_drained.stages.1.label>中等</rjw_genes_succubus_drained.stages.1.label>
+  <rjw_genes_succubus_drained.stages.2.label>严重</rjw_genes_succubus_drained.stages.2.label>
+
+  <rjw_genes_fertilin_craving.label>渴望生育素</rjw_genes_fertilin_craving.label>
+  <rjw_genes_fertilin_craving.description>由于生育素耗尽而变得虚弱。</rjw_genes_fertilin_craving.description>
+  <rjw_genes_fertilin_craving.stages.0.label>轻微</rjw_genes_fertilin_craving.stages.0.label>
+  <rjw_genes_fertilin_craving.stages.1.label>中等</rjw_genes_fertilin_craving.stages.1.label>
+  <rjw_genes_fertilin_craving.stages.2.label>严重</rjw_genes_fertilin_craving.stages.2.label>
+
+  <rjw_genes_naked_prowess.label>赤裸裸的实力</rjw_genes_naked_prowess.label>
+  <rjw_genes_naked_prowess.description>这种基因的携带者在赤身裸体时，能够暂时增强自身的力量和恢复力。</rjw_genes_naked_prowess.description>
+
+
+</LanguageData>

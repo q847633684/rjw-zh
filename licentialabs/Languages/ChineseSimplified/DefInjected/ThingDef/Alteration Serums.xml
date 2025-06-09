@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BreastExpansionSerum.label>丰胸精华液</BreastExpansionSerum.label>
+  <BreastExpansionSerum.description>增加用户的乳房尺寸。</BreastExpansionSerum.description>
+  <BreastExpansionSerum.ingestible.ingestCommandString>喝{0}</BreastExpansionSerum.ingestible.ingestCommandString>
+  <BreastExpansionSerum.ingestible.ingestReportString>饮用 {0}。</BreastExpansionSerum.ingestible.ingestReportString>
+
+  <BreastReductionSerum.label>丰胸精华液</BreastReductionSerum.label>
+  <BreastReductionSerum.description>减小用户的乳房尺寸。</BreastReductionSerum.description>
+  <BreastReductionSerum.ingestible.ingestCommandString>喝{0}</BreastReductionSerum.ingestible.ingestCommandString>
+  <BreastReductionSerum.ingestible.ingestReportString>饮用 {0}。</BreastReductionSerum.ingestible.ingestReportString>
+
+  <GenitalExtrusionSerum.label>生殖器挤压血清</GenitalExtrusionSerum.label>
+  <GenitalExtrusionSerum.description>增加用户阴茎的尺寸。或者，它会缩小阴道的大小。</GenitalExtrusionSerum.description>
+  <GenitalExtrusionSerum.ingestible.ingestCommandString>饮料 {0}</GenitalExtrusionSerum.ingestible.ingestCommandString>
+  <GenitalExtrusionSerum.ingestible.ingestReportString>饮用 {0}。</GenitalExtrusionSerum.ingestible.ingestReportString>
+
+  <GenitalRetractionSerum.label>生殖器回缩血清</GenitalRetractionSerum.label>
+  <GenitalRetractionSerum.description>减小用户阴茎的尺寸。或者，它会增加阴道的大小。</GenitalRetractionSerum.description>
+  <GenitalRetractionSerum.ingestible.ingestCommandString>喝{0}</GenitalRetractionSerum.ingestible.ingestCommandString>
+  <GenitalRetractionSerum.ingestible.ingestReportString>饮用 {0}。</GenitalRetractionSerum.ingestible.ingestReportString>
+
+  <CumIncreaseSerum.label>Cum+血清</CumIncreaseSerum.label>
+  <CumIncreaseSerum.description>增加精液产生量。</CumIncreaseSerum.description>
+  <CumIncreaseSerum.ingestible.ingestCommandString>喝{0}</CumIncreaseSerum.ingestible.ingestCommandString>
+  <CumIncreaseSerum.ingestible.ingestReportString>喝{0}。</CumIncreaseSerum.ingestible.ingestReportString>
+
+  <CumDecreaseSerum.label>Cum-血清</CumDecreaseSerum.label>
+  <CumDecreaseSerum.description>减少精液产生量。</CumDecreaseSerum.description>
+  <CumDecreaseSerum.ingestible.ingestCommandString>喝{0}</CumDecreaseSerum.ingestible.ingestCommandString>
+  <CumDecreaseSerum.ingestible.ingestReportString>喝{0}。</CumDecreaseSerum.ingestible.ingestReportString>
+
+  <TighteningSerumAnal.label>肛门紧缩精华液</TighteningSerumAnal.label>
+  <TighteningSerumAnal.description>收紧使用者的肛门...</TighteningSerumAnal.description>
+  <TighteningSerumAnal.ingestible.ingestCommandString>饮料 {0}</TighteningSerumAnal.ingestible.ingestCommandString>
+  <TighteningSerumAnal.ingestible.ingestReportString>饮用 {0}。</TighteningSerumAnal.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_RoundStickers.label>製作圓乳貼</Make_RoundStickers.label>
+  <Make_RoundStickers.description>製作圓乳貼。</Make_RoundStickers.description>
+  <Make_RoundStickers.jobString>正在製作圓乳貼。</Make_RoundStickers.jobString>
+
+  <Make_BlackStickers.label>製作黑乳貼</Make_BlackStickers.label>
+  <Make_BlackStickers.description>製作黑乳貼。</Make_BlackStickers.description>
+  <Make_BlackStickers.jobString>正在製作黑乳貼。</Make_BlackStickers.jobString>
+
+
+</LanguageData>

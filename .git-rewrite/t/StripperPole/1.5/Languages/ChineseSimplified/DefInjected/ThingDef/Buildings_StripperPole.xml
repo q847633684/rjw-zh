@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StripperPole.label>脱衣舞钢管</StripperPole.label>
+  <StripperPole.description>一根又大又结实的钢管。绕着它、用它、在上面跳一支性感的舞。</StripperPole.description>
+  <Blueprint_StripperPole.label>脱衣舞钢管（蓝图）</Blueprint_StripperPole.label>
+  <StripperPole_Frame.label>脱衣舞钢管（建筑）</StripperPole_Frame.label>
+  <StripperPole_Frame.description>一根又大又结实的钢管。围绕它、和它一起、在上面跳一支性感的舞。</StripperPole_Frame.description>
+
+  <DanceSpot.label>舞蹈场所</DanceSpot.label>
+  <DanceSpot.description>跳一支小舞的好地方。</DanceSpot.description>
+  <Blueprint_DanceSpot.label>舞蹈场所（蓝图）</Blueprint_DanceSpot.label>
+  <Frame_DanceSpot.label>舞蹈场所（建筑）</Frame_DanceSpot.label>
+  <Frame_DanceSpot.description>跳一支小舞的好地方。</Frame_DanceSpot.description>
+
+
+</LanguageData>

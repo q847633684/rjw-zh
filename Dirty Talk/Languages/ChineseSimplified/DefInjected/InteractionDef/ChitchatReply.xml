@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sexlife_Generic_Good.label>sexlife-generic-good</Sexlife_Generic_Good.label>
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings>
+    <li>r_logentry(INITIATOR_opinion&lt;-25, priority=1)->[bad_opinion]</li>
+    <li>bad_opinion(INITIATOR_thoughtDefName==GotRaped, RECIPIENT_trait==rapist, priority=2)->[bad_opinion_rapist]</li>
+    <li>bad_opinion(INITIATOR_thoughtDefName==GotRaped, RECIPIENT_thoughtLabel==stole some lovin’, priority=2)->[bad_opinion_rapist]</li>
+    <li>bad_opinion_rapist(INITIATOR_trait==masochist, priority=1)->[bad_opinion2]</li>
+    <li>bad_opinion_rapist(INITIATOR_trait==rapist, priority=1)->[bad_opinion2]</li>
+    <li>bad_opinion_rapist->Fuck off, rapist!</li>
+    <li>bad_opinion_rapist->Leave me alone, rapist!</li>
+    <li>bad_opinion_rapist->Fuck off, you raping cunt!</li>
+    <li>bad_opinion_rapist->You make me sick, [RECIPIENT_nameDef]!</li>
+    <li>bad_opinion->None of your business, [counterpart].</li>
+    <li>bad_opinion->Fuck off, [counterpart].</li>
+    <li>bad_opinion->...ugh...</li>
+    <li>bad_opinion2->None of your business, [counterpart].</li>
+    <li>bad_opinion2->Fuck off, [counterpart].</li>
+    <li>bad_opinion2->...ugh...</li>
+    <li>r_logentry->[neutral_opinion]</li>
+    <li>neutral_opinion->I don't really feel comfortable talking about that.</li>
+    <li>neutral_opinion->I'd rather not talk to you about it.</li>
+    <li>r_logentry(INITIATOR_opinion&gt;=25, priority=1)->[good_opinion]</li>
+    <li>good_opinion(INITIATOR_thoughtLabel==sexually frustrated, tag=Colonist_Horny, priority=1)->[good_opinion_frustrated]</li>
+    <li>good_opinion_frustrated->Nonexistent, unfortunately!</li>
+    <li>good_opinion_frustrated->I'm so [expletive_adj] horny!</li>
+    <li>good_opinion_frustrated(INITIATOR_gender==Male)->My [expletive_adj] balls are gonna explode!</li>
+    <li>good_opinion(INITIATOR_thoughtLabel==horny, tag=Colonist_Horny, priority=1)->[good_opinion_horny]</li>
+    <li>good_opinion_horny->Not much going on lately...</li>
+    <li>good_opinion_horny->Could be better...</li>
+    <li>good_opinion(INITIATOR_thoughtLabel==sexually satisfied, priority=1)->[good_opinion_satisfied]</li>
+    <li>good_opinion_satisfied->I'm doing pretty well for myself.</li>
+    <li>good_opinion_satisfied->No complaints!</li>
+    <li>good_opinion(INITIATOR_thoughtLabel==ahegao, priority=1)->[good_opinion_ahegao]</li>
+    <li>good_opinion_ahegao->Phenomenal!</li>
+    <li>good_opinion_ahegao->Hehe...I feel numb all over...</li>
+    <li>good_opinion(INITIATOR_thoughtLabel==got some lovin', priority=0.5)->[good_opinion_loved]</li>
+    <li>good_opinion_loved->I'm doing pretty well for myself.</li>
+    <li>good_opinion_loved->Not bad.</li>
+    <li>good_opinion->Meh...</li>
+    <li>good_opinion(tag=Sexlife_Generic_Good_Raped, INITIATOR_thoughtDefName==GotAnalRaped, INITIATOR_trait!=masochist, INITIATOR_thoughtLabel!=begging for more, priority=2)->[good_opinion_analraped]</li>
+    <li>good_opinion_analraped->[RECIPIENT_nameDef], I...was raped...in the ass...*sobs*</li>
+    <li>good_opinion_analraped->My asshole...*sniffles*...was violated...</li>
+    <li>good_opinion_analraped->I've been raped in the ass...I feel so dirty...*sobs*</li>
+    <li>good_opinion(tag=Sexlife_Generic_Good_Raped, INITIATOR_thoughtDefName==GotAnalRapedByFemale, INITIATOR_trait!=masochist, INITIATOR_thoughtLabel!=begging for more, priority=2)->[good_opinion_analraped]</li>
+    <li>good_opinion_analraped->[RECIPIENT_nameDef], I was raped...in the ass...by a girl...*sobs*</li>
+    <li>good_opinion_analraped->My asshole...*sniffles*...was violated...</li>
+    <li>good_opinion_analraped->I've been raped in the ass...I feel so dirty...*sobs*</li>
+    <li>good_opinion(tag=Sexlife_Generic_Good_Raped, INITIATOR_thoughtDefName==GotRaped, INITIATOR_trait!=masochist, INITIATOR_thoughtLabel!=begging for more, priority=2)->[good_opinion_raped]</li>
+    <li>good_opinion_raped->[RECIPIENT_nameDef], I...I was raped...*sobs*</li>
+    <li>good_opinion_raped->I...*sniffles*...was taken advantage of...</li>
+    <li>good_opinion_raped->I've been raped...I feel so helpless and used...*sobs*</li>
+    <li>good_opinion(tag=Sexlife_Generic_Good_Raped, INITIATOR_thoughtDefName==GotRapedUnconscious, INITIATOR_trait!=masochist, INITIATOR_thoughtLabel!=begging for more, priority=2)->[good_opinion_ucraped]</li>
+    <li>good_opinion_ucraped->[RECIPIENT_nameDef], I...I was raped...*sobs*</li>
+    <li>good_opinion_ucraped->I...was taken advantage of...while I was unconscious...*sobs*</li>
+    <li>good_opinion_ucraped->I was raped...and I didn't even have a chance to defend myself...*sobs*</li>
+    <li>good_opinion(tag=Sexlife_Generic_Good_Raped_Masochist, INITIATOR_thoughtDefName==MasochistGotAnalRaped, INITIATOR_trait==masochist, priority=2)->[good_opinion_analraped_masochist]</li>
+    <li>good_opinion_analraped_masochist->[RECIPIENT_nameDef], I was raped...in the ass...it was [masochist_amazing]!</li>
+    <li>good_opinion_analraped_masochist->My asshole...*sniffles*...was violated...</li>
+    <li>good_opinion_analraped_masochist->I've been raped in the ass...I feel so dirty...it was [masochist_amazing]!</li>
+    <li>good_opinion(tag=Sexlife_Generic_Good_Raped_Masochist, INITIATOR_thoughtDefName==MasochistGotAnalRapedByFemale, INITIATOR_trait==masochist, priority=2)->[good_opinion_analraped_masochist]</li>
+    <li>good_opinion_analraped_masochist->[RECIPIENT_nameDef], I was raped...in the ass...by a girl...it was [masochist_amazing]!</li>
+    <li>good_opinion_analraped_masochist->My asshole...*sniffles*...was violated...</li>
+    <li>good_opinion_analraped_masochist->我的屁股被强奸了...我感觉很肮脏...这真是[masochist_amazing]！</li>
+    <li>good_opinion(tag=Sexlife_Generic_Good_Raped_Masochist, INITIATOR_thoughtDefName==MasochistGotRaped, INITIATOR_trait==masochist, priority=2)->[good_opinion_raped_masochist]</li>
+    <li>good_opinion_raped_masochist->[RECIPIENT_nameDef], 我被强奸了……这是[masochist_amazing]!</li>
+    <li>good_opinion_raped_masochist->我被强奸了。他们只是压制我并利用我......[masochist_amazing]!</li>
+    <li>good_opinion_raped_masochist->我像一块肉一样被扔来扔去。喜欢它！</li>
+    <li>good_opinion(tag=Sexlife_Generic_Good_Raped_Masochist, INITIATOR_thoughtDefName==MasochistGotRapedUnconscious, INITIATOR_trait==masochist, priority=2)->[good_opinion_ucraped_masochist]</li>
+    <li>good_opinion_ucraped_masochist->[RECIPIENT_nameDef],我被强奸了……有点热，但我没有任何感觉。</li>
+    <li>good_opinion_ucraped_masochist->我……在我失去知觉的时候被利用了……可惜我错过了乐趣。</li>
+    <li>good_opinion_ucraped_masochist->我被强奸了……我什至都没有享受过……</li>
+    <li>good_opinion(tag=Sexlife_Generic_Good_Rapist, INITIATOR_thoughtLabel==stole some lovin', priority=2)->[good_opinion_rapist]</li>
+    <li>good_opinion_rapist->好吧，我强迫自己爱上了某个婊子......</li>
+    <li>good_opinion_rapist->当我需要的时候我就强奸了。</li>
+    <li>good_opinion(tag=Sexlife_Generic_Good_Zoophile, INITIATOR_trait==zoophile, INITIATOR_thoughtLabel==sexually satisfied, priority=1)->[good_opinion_zoophile]</li>
+    <li>good_opinion(tag=Sexlife_Generic_Good_Zoophile, INITIATOR_trait==zoophile, INITIATOR_thoughtLabel==horny, priority=1)->[good_opinion_zoophile]</li>
+    <li>good_opinion_zoophile->我和动物们度过了一段愉快的时光！</li>
+    <li>good_opinion_zoophile->动物们对我很好！</li>
+    <li>masochist_amazing->惊人的</li>
+    <li>masochist_amazing->太热了</li>
+    <li>masochist_amazing->伟大的</li>
+    <li>masochist_amazing->极好的</li>
+  </Sexlife_Generic_Good.logRulesInitiator.rulesStrings>
+
+  <Sexlife_Generic_Good_Raped.label>sexlife-generic-good-raped</Sexlife_Generic_Good_Raped.label>
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings>
+    <li>r_logentry(INITIATOR_trait!=rapist, priority=1)->[not_rapist]</li>
+    <li>r_logentry(INITIATOR_thoughtLabel!=stole some lovin’, priority=1)->[not_rapist]</li>
+    <li>not_rapist(INITIATOR_thoughtDefName==GotRaped, INITIATOR_trait!=masochist, priority=2)->[also_raped]</li>
+    <li>also_raped->I know what you're going through...</li>
+    <li>also_raped->I know how it feels...how terrible...</li>
+    <li>also_raped->We'll get through it together, [RECIPIENT_nameDef]...</li>
+    <li>not_rapist(INITIATOR_shooting_passion!=None, priority=1)->[violent_reaction]</li>
+    <li>not_rapist(INITIATOR_melee_passion!=None, priority=1)->[violent_reaction]</li>
+    <li>violent_reaction->What!? Where is the [insult]!?</li>
+    <li>violent_reaction->What!? I'll kill the [insult]!</li>
+    <li>not_rapist(INITIATOR_trait==masochist, priority=2)->[masochist_reaction]</li>
+    <li>not_rapist(INITIATOR_thoughtLabel==begging for more, priority=2)->[masochist_reaction]</li>
+    <li>masochist_reaction(INITIATOR_thoughtLabel!=sexually satisfied, INITIATOR_thoughtLabel!=ahegao)->Lucky!</li>
+    <li>masochist_reaction->Sounds hot!</li>
+    <li>masochist_reaction->Wow...any chance I could get their name?</li>
+    <li>not_rapist->Oh, you poor thing!</li>
+    <li>not_rapist->I can't believe it! Are you okay?</li>
+    <li>not_rapist->Oh my...Are you alright?</li>
+    <li>r_logentry->[rapist]</li>
+    <li>rapist->...</li>
+    <li>rapist->Oh...</li>
+  </Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings>
+  <Sexlife_Generic_Good_Raped_Masochist.label>sexlife-generic-good-raped-masochist</Sexlife_Generic_Good_Raped_Masochist.label>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.0>r_logentry->[masochist_react]</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.0>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.1>masochist_react(INITIATOR_trait!=masochist, priority=2)->[also_masochist]</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.1>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.2>also_masochist(INITIATOR_thoughtLabel=horny, priority=1)->Lucky!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.2>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.3>also_masochist(INITIATOR_thoughtLabel=horny, priority=1)->[expletive], I wish that were me...</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.3>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.4>also_masochist(INITIATOR_thoughtLabel=sexually frustrated, priority=1)->Lucky!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.4>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.5>also_masochist(INITIATOR_thoughtLabel=sexually frustrated, priority=1)->[expletive], I wish that were me...</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.5>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.6>also_masochist->[expletive], I love getting used like that!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.6>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.7>also_masochist->[expletive], I love when that happens!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.7>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.8>also_masochist->That sounds so [expletive_adj] hot!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.8>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.9>masochist_react(INITIATOR_trait==kind, priority=1)->You shouldn't be okay with people treating you like that!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.9>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.10>masochist_react(INITIATOR_trait==kind, priority=1)->That's not okay!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.10>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.11>masochist_react->...Good for you.</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.11>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.12>masochist_react->Oh, geez...</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.12>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.13>masochist_react(INITIATOR_trait==rapist, priority=2)->[rapist]</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.13>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.14>rapist->Maybe I'll use you later...</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.14>
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.15>rapist->Maybe I'll take a turn in a bit...</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.15>
+
+  <Sexlife_Generic_Good_Rapist.label>sexlife-generic-good-rapist</Sexlife_Generic_Good_Rapist.label>
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==rapist, priority=2)->[also_rapist]</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.0>
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.1>also_rapist->Nice!</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.1>
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.2>r_logentry(INITIATOR_trait==masochist, priority=2)->[masochist]</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.2>
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.3>masochist->Hot!</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.3>
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.4>masochist->Sounds hot!</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.4>
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.5>masochist->Do me next!</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.5>
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.6>r_logentry(tag=Sexlife_Generic_Good_Rapistb)->That is not okay, [RECIPIENT_nameDef]!</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.6>
+
+  <Sexlife_Generic_Good_Zoophile.label>sexlife-generic-good-zoophile</Sexlife_Generic_Good_Zoophile.label>
+  <Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==zoophile, priority=2)->[also_zoophile]</Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.0>
+  <Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.1>also_zoophile->Nice!</Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.1>
+  <Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.2>also_zoophile->Hot!</Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.2>
+  <Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.3>also_zoophile->Sounds hot!</Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.3>
+  <Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.4>r_logentry(tag=Sexlife_Generic_Good_Zoophileb)->That is not okay, [RECIPIENT_nameDef]!</Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.4>
+
+  <Sexlife_Generic_Good_Zoophileb.label>sexlife-generic-good-zoophile</Sexlife_Generic_Good_Zoophileb.label>
+  <Sexlife_Generic_Good_Zoophileb.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==zoophile, priority=2)->[also_zoophile]</Sexlife_Generic_Good_Zoophileb.logRulesInitiator.rulesStrings.0>
+  <Sexlife_Generic_Good_Zoophileb.logRulesInitiator.rulesStrings.1>also_zoophile->Why not?</Sexlife_Generic_Good_Zoophileb.logRulesInitiator.rulesStrings.1>
+  <Sexlife_Generic_Good_Zoophileb.logRulesInitiator.rulesStrings.2>also_zoophile->The animal had a good time too!</Sexlife_Generic_Good_Zoophileb.logRulesInitiator.rulesStrings.2>
+
+  <Sexlife_Generic_Good_Rapistb.label>sexlife-generic-good-rapistb</Sexlife_Generic_Good_Rapistb.label>
+  <Sexlife_Generic_Good_Rapistb.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==rapist, priority=2)->[rapist]</Sexlife_Generic_Good_Rapistb.logRulesInitiator.rulesStrings.0>
+  <Sexlife_Generic_Good_Rapistb.logRulesInitiator.rulesStrings.1>rapist->Deal with it!</Sexlife_Generic_Good_Rapistb.logRulesInitiator.rulesStrings.1>
+  <Sexlife_Generic_Good_Rapistb.logRulesInitiator.rulesStrings.2>r_logentry->I know...</Sexlife_Generic_Good_Rapistb.logRulesInitiator.rulesStrings.2>
+
+  <Getting_Raped_React.label>getting-raped-react</Getting_Raped_React.label>
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==masochist, priority=3)->[masochist]</Getting_Raped_React.logRulesInitiator.rulesStrings.0>
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.1>masochist->[exclaim]! I love when master treats me like this! [exclaim]!</Getting_Raped_React.logRulesInitiator.rulesStrings.1>
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.2>r_logentry(RECIPIENT_trait==rapist, priority=2)->[rapist]</Getting_Raped_React.logRulesInitiator.rulesStrings.2>
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.3>rapist(INITIATOR_opinion&gt;=25)->How could you, [RECIPIENT_nameDef]!?</Getting_Raped_React.logRulesInitiator.rulesStrings.3>
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.4>rapist->Fuck you, [RECIPIENT_nameDef]!</Getting_Raped_React.logRulesInitiator.rulesStrings.4>
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.5>r_logentry(RECIPIENT_moving==Yes)->Don't just walk away! Help me!</Getting_Raped_React.logRulesInitiator.rulesStrings.5>
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.6>r_logentry->Don't just stand there! Do something!</Getting_Raped_React.logRulesInitiator.rulesStrings.6>
+
+  <New_Colony_Masochist.label>new-colony-masochist</New_Colony_Masochist.label>
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==masochist, priority=1)->Just thinking about it gets me weak in the knees!</New_Colony_Masochist.logRulesInitiator.rulesStrings.0>
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.1>r_logentry(INITIATOR_trait==masochist, priority=1)->Yeah...hehe...that would be "terrible!"</New_Colony_Masochist.logRulesInitiator.rulesStrings.1>
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.2>r_logentry(INITIATOR_trait==abrasive, tag=New_Colony_Masochistb)->Why do you say it like that? Are you some kind of pervert?</New_Colony_Masochist.logRulesInitiator.rulesStrings.2>
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.3>r_logentry(INITIATOR_opinion&lt;-25, tag=New_Colony_Masochistb)->Why do you say it like that? Are you some kind of pervert?</New_Colony_Masochist.logRulesInitiator.rulesStrings.3>
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.4>r_logentry(INITIATOR_intellectual_level&lt;3, priority=0.5)->Yeah, that wouldn't be good!</New_Colony_Masochist.logRulesInitiator.rulesStrings.4>
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.5>r_logentry->Um...yeah...</New_Colony_Masochist.logRulesInitiator.rulesStrings.5>
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.6>r_logentry->...yeah...</New_Colony_Masochist.logRulesInitiator.rulesStrings.6>
+
+  <New_Colony_Masochistb.label>new-colony-masochist</New_Colony_Masochistb.label>
+  <New_Colony_Masochistb.logRulesInitiator.rulesStrings.0>r_logentry->Why? Are you gonna *blushes* do something about it?</New_Colony_Masochistb.logRulesInitiator.rulesStrings.0>
+  <New_Colony_Masochistb.logRulesInitiator.rulesStrings.1>r_logentry->*shivers* You're right, I am a pervert. Punish me!</New_Colony_Masochistb.logRulesInitiator.rulesStrings.1>
+  <New_Colony_Masochistb.logRulesInitiator.rulesStrings.2>r_logentry->*blushes* What would you do to me if I was?</New_Colony_Masochistb.logRulesInitiator.rulesStrings.2>
+
+  <New_Colony_Zoophile.label>new-colony-zoophile</New_Colony_Zoophile.label>
+  <New_Colony_Zoophile.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==zoophile, priority=1)->Me too!</New_Colony_Zoophile.logRulesInitiator.rulesStrings.0>
+  <New_Colony_Zoophile.logRulesInitiator.rulesStrings.1>r_logentry(INITIATOR_trait==zoophile, priority=1)->Same!</New_Colony_Zoophile.logRulesInitiator.rulesStrings.1>
+  <New_Colony_Zoophile.logRulesInitiator.rulesStrings.2>r_logentry->...excuse me?</New_Colony_Zoophile.logRulesInitiator.rulesStrings.2>
+  <New_Colony_Zoophile.logRulesInitiator.rulesStrings.3>r_logentry->...what was that?</New_Colony_Zoophile.logRulesInitiator.rulesStrings.3>
+  <New_Colony_Zoophile.logRulesInitiator.rulesStrings.4>r_logentry->...did I just hear that right?</New_Colony_Zoophile.logRulesInitiator.rulesStrings.4>
+
+  <Colonist_Horny.label>colonist-horny</Colonist_Horny.label>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_opinion&lt;-25, priority=1)->[bad_opinion]</Colonist_Horny.logRulesInitiator.rulesStrings.0>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.1>bad_opinion->...gross</Colonist_Horny.logRulesInitiator.rulesStrings.1>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.2>bad_opinion->...ew...</Colonist_Horny.logRulesInitiator.rulesStrings.2>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.3>bad_opinion->...ugh...</Colonist_Horny.logRulesInitiator.rulesStrings.3>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.4>bad_opinion->Not my problem, [counterpart].</Colonist_Horny.logRulesInitiator.rulesStrings.4>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.5>r_logentry->[neutral_opinion]</Colonist_Horny.logRulesInitiator.rulesStrings.5>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.6>neutral_opinion->Didn't need to know that, [counterpart].</Colonist_Horny.logRulesInitiator.rulesStrings.6>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.7>neutral_opinion->Can't help you with that, [counterpart].</Colonist_Horny.logRulesInitiator.rulesStrings.7>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.8>r_logentry(INITIATOR_opinion&gt;=25, priority=1)->[good_opinion]</Colonist_Horny.logRulesInitiator.rulesStrings.8>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.9>good_opinion(INITIATOR_thoughtLabel==sexually frustrated, priority=1)->[good_opinion_horny]</Colonist_Horny.logRulesInitiator.rulesStrings.9>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.10>good_opinion(INITIATOR_thoughtLabel==horny, priority=1)->[good_opinion_horny]</Colonist_Horny.logRulesInitiator.rulesStrings.10>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.11>good_opinion_horny(INITIATOR_gender==Male, RECIPIENT_gender==Male, INITIATOR_opinion&gt;=50, INITIATOR_trait==gay)->Maybe we can figure something out...*winks*</Colonist_Horny.logRulesInitiator.rulesStrings.11>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.12>good_opinion_horny(INITIATOR_gender==Female, RECIPIENT_gender==Female, INITIATOR_opinion&gt;=50, INITIATOR_trait==gay)->Maybe we can figure something out...*winks*</Colonist_Horny.logRulesInitiator.rulesStrings.12>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.13>good_opinion_horny(INITIATOR_gender==Female, RECIPIENT_gender==Male, INITIATOR_opinion&gt;=50, INITIATOR_trait!=gay)->Maybe we can figure something out...*winks*</Colonist_Horny.logRulesInitiator.rulesStrings.13>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.14>good_opinion_horny(INITIATOR_gender==Male, RECIPIENT_gender==Female, INITIATOR_opinion&gt;=50, INITIATOR_trait!=gay)->Maybe we can figure something out...*winks*</Colonist_Horny.logRulesInitiator.rulesStrings.14>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.15>good_opinion_horny->I'm right there with you, [counterpart].</Colonist_Horny.logRulesInitiator.rulesStrings.15>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.16>good_opinion(RECIPIENT_gender==Male)->Just go jack off or something, [counterpart].</Colonist_Horny.logRulesInitiator.rulesStrings.16>
+  <Colonist_Horny.logRulesInitiator.rulesStrings.17>good_opinion->I'm sure you'll figure it out, [counterpart].</Colonist_Horny.logRulesInitiator.rulesStrings.17>
+
+
+</LanguageData>

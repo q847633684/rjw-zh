@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Stretched.label>拉伸</Stretched.label>
+  <Stretched.description>插入对于孔口来说太大的物体会导致拉伸，这是很痛苦的。随着时间的推移，拉伸会逐渐消失。</Stretched.description>
+  <Stretched.stages.0.label>疼痛</Stretched.stages.0.label>
+  <Stretched.stages.1.label>疼痛</Stretched.stages.1.label>
+  <Stretched.labelNoun>变异部位</Stretched.labelNoun>
+
+
+</LanguageData>

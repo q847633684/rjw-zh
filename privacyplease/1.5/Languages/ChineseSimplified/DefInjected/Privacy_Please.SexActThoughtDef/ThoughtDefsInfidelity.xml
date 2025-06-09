@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pawn thoughts -->
+
+  <PartookInInfidelity_Heartbreaking.stages.0.label>被发现作弊</PartookInInfidelity_Heartbreaking.stages.0.label>
+  <PartookInInfidelity_Heartbreaking.stages.0.description>我很抱歉，亲爱的。请原谅我...</PartookInInfidelity_Heartbreaking.stages.0.description>
+
+  <PartookInInfidelity_Disapproved.stages.0.label>被发现鬼混</PartookInInfidelity_Disapproved.stages.0.label>
+  <PartookInInfidelity_Disapproved.stages.0.description>嗯，抱歉，亲爱的。请不要太生气？</PartookInInfidelity_Disapproved.stages.0.description>
+
+  <PartookInInfidelity_Acceptable.stages.0.label>恋爱时经过的伴侣</PartookInInfidelity_Acceptable.stages.0.label>
+  <PartookInInfidelity_Acceptable.stages.0.description>哦嘿宝贝，你想加入我们吗？</PartookInInfidelity_Acceptable.stages.0.description>
+
+  <PartookInInfidelity_Approved.stages.0.label>戴绿帽子的伴侣</PartookInInfidelity_Approved.stages.0.label>
+  <PartookInInfidelity_Approved.stages.0.description>他们脸上的表情......让我心跳加速！</PartookInInfidelity_Approved.stages.0.description>
+
+
+  <!-- Witness thoughts -->
+
+  <SawInfidelity_Heartbreaking.stages.0.label>发现伴侣作弊</SawInfidelity_Heartbreaking.stages.0.label>
+  <SawInfidelity_Heartbreaking.stages.0.description>我感到内心麻木。</SawInfidelity_Heartbreaking.stages.0.description>
+
+  <SawInfidelity_Disapproved.stages.0.label>发现伴侣鬼混</SawInfidelity_Disapproved.stages.0.label>
+  <SawInfidelity_Disapproved.stages.0.description>什么，我对你来说还不够吗？</SawInfidelity_Disapproved.stages.0.description>
+
+  <SawInfidelity_Acceptable.stages.0.label>看到那个合作伙伴得到了一些爱</SawInfidelity_Acceptable.stages.0.label>
+  <SawInfidelity_Acceptable.stages.0.description>嘿，稍后为我节省一些精力，好吗？</SawInfidelity_Acceptable.stages.0.description>
+
+  <SawInfidelity_Approved.stages.0.label>被伴侣戴绿帽</SawInfidelity_Approved.stages.0.label>
+  <SawInfidelity_Approved.stages.0.description>邪恶的东西！我必须为此惩罚你......</SawInfidelity_Approved.stages.0.description>
+
+
+  <!--见证想法 -->
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts -->
+
+  <Virgin_Precious_Taken_Forcefully.stages.0.label>贞操被盗</Virgin_Precious_Taken_Forcefully.stages.0.label>
+  <Virgin_Precious_Taken_Forcefully.stages.0.description>我的贞操被强行夺走.</Virgin_Precious_Taken_Forcefully.stages.0.description>
+
+  <Virgin_Precious_Taken.stages.0.label>对{0}失去童贞</Virgin_Precious_Taken.stages.0.label>
+  <Virgin_Precious_Taken.stages.0.description>我不再是处女了。</Virgin_Precious_Taken.stages.0.description>
+  <Virgin_Precious_Taken.stages.1.label>对{0}失去童贞</Virgin_Precious_Taken.stages.1.label>
+  <Virgin_Precious_Taken.stages.1.description>我不再是处女了。</Virgin_Precious_Taken.stages.1.description>
+  <Virgin_Precious_Taken.stages.2.label>对{0}失去童贞</Virgin_Precious_Taken.stages.2.label>
+  <Virgin_Precious_Taken.stages.2.description>我不再是处女了。</Virgin_Precious_Taken.stages.2.description>
+  <Virgin_Precious_Taken.stages.3.label>给了{0}童贞</Virgin_Precious_Taken.stages.3.label>
+  <Virgin_Precious_Taken.stages.3.description>我把童贞献给了我的爱人。</Virgin_Precious_Taken.stages.3.description>
+
+  <Virgin_Shameful_Taken.stages.0.label>对 {0} 失去童贞</Virgin_Shameful_Taken.stages.0.label>
+  <Virgin_Shameful_Taken.stages.0.description>终于！</Virgin_Shameful_Taken.stages.0.description>
+  <Virgin_Shameful_Taken.stages.1.label>对 {0} 失去童贞</Virgin_Shameful_Taken.stages.1.label>
+  <Virgin_Shameful_Taken.stages.1.description>终于！</Virgin_Shameful_Taken.stages.1.description>
+  <Virgin_Shameful_Taken.stages.2.label>对 {0} 失去童贞</Virgin_Shameful_Taken.stages.2.label>
+  <Virgin_Shameful_Taken.stages.2.description>终于！</Virgin_Shameful_Taken.stages.2.description>
+
+  <Virgin_OnlyForSpouse_Know_Taken.stages.0.label>荡妇</Virgin_OnlyForSpouse_Know_Taken.stages.0.label>
+
+
+</LanguageData>

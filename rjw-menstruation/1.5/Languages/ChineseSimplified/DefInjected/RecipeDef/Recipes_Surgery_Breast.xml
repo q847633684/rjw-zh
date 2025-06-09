@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Surgery_ExpandAreola.label>扩大乳晕</Surgery_ExpandAreola.label>
+  <Surgery_ExpandAreola.description>扩大乳晕。</Surgery_ExpandAreola.description>
+  <Surgery_ExpandAreola.jobString>扩大乳晕</Surgery_ExpandAreola.jobString>
+
+  <Surgery_ContractAreola.label>收缩乳晕</Surgery_ContractAreola.label>
+  <Surgery_ContractAreola.description>收缩乳晕。</Surgery_ContractAreola.description>
+  <Surgery_ContractAreola.jobString>收缩乳晕</Surgery_ContractAreola.jobString>
+
+  <Surgery_ExpandNipple.label>扩张乳头</Surgery_ExpandNipple.label>
+  <Surgery_ExpandNipple.description>扩张乳头。</Surgery_ExpandNipple.description>
+  <Surgery_ExpandNipple.jobString>扩张乳头</Surgery_ExpandNipple.jobString>
+
+  <Surgery_ContractNipple.label>收缩乳头</Surgery_ContractNipple.label>
+  <Surgery_ContractNipple.description>收缩乳头。</Surgery_ContractNipple.description>
+  <Surgery_ContractNipple.jobString>收缩乳头</Surgery_ContractNipple.jobString>
+
+  <Surgery_DarkenNipple.label>乳头变黑</Surgery_DarkenNipple.label>
+  <Surgery_DarkenNipple.description>使乳头变黑。</Surgery_DarkenNipple.description>
+  <Surgery_DarkenNipple.jobString>乳头变黑</Surgery_DarkenNipple.jobString>
+
+  <Surgery_LightenNipple.label>减轻乳头</Surgery_LightenNipple.label>
+  <Surgery_LightenNipple.description>减轻乳头。</Surgery_LightenNipple.description>
+  <Surgery_LightenNipple.jobString>减轻乳头</Surgery_LightenNipple.jobString>
+
+
+</LanguageData>

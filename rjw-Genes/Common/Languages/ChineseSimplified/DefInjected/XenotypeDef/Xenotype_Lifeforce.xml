@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_succubus.label>魅魔</rjw_genes_succubus.label>
+  <rjw_genes_succubus.description>魅魔是经过强化的异种人。这些超自然美丽的生物
+      寄生在精液中发现的生育素上。</rjw_genes_succubus.description>
+  <rjw_genes_succubus.descriptionShort>魅魔是美丽且极度饥饿的异形人类。他们努力发生性行为并通过这种方式提取受害者的生命力。</rjw_genes_succubus.descriptionShort>
+
+  <rjw_genes_incubus.label>梦魇</rjw_genes_incubus.label>
+  <rjw_genes_incubus.description>梦魇是经过强化的异种人。这些超自然美丽的生物
+寄生于精液中发现的生育素上。</rjw_genes_incubus.description>
+  <rjw_genes_incubus.descriptionShort>梦魇是美丽且极度饥饿的异形人类。他们努力发生性行为并通过这种方式提取受害者的生命力。</rjw_genes_incubus.descriptionShort>
+
+
+  <rjw_genes_cumazone.label>库马酮</rjw_genes_cumazone.label>
+  <rjw_genes_cumazone.description>Cumazone 是一种擅长近战战斗的女性异种型。最初创建
+      作为闪光世界亚马逊社区的保镖，他们仅仅通过
+      力量并提供一些迷恋。他们可以使用 Fertilin 来增强皮肤
+压倒米勒中的任何战斗人员。它们获取生育素的唯一来源是咬男性生殖器——
+      因此，请确保有稳定的受害男性供应，或者准备好袭击毫无戒心的男性
+      边缘。</rjw_genes_cumazone.description>
+  <rjw_genes_cumazone.descriptionShort>仅限女性，强大的混战战士，使用被咬掉的公鸡中的肥精\n来获得强大的增益。</rjw_genes_cumazone.descriptionShort>
+
+
+</LanguageData>

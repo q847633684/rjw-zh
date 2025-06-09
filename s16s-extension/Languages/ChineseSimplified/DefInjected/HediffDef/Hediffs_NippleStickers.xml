@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <S16DressIIIHed.label>乳貼</S16DressIIIHed.label>
+  <S16DressIIIHed.description>Nipple stickers on</S16DressIIIHed.description>
+  <S16DressIIIHed.stages.0.label>just put on</S16DressIIIHed.stages.0.label>
+  <S16DressIIIHed.stages.1.label>acceptance</S16DressIIIHed.stages.1.label>
+  <S16DressIIIHed.stages.2.label>humility</S16DressIIIHed.stages.2.label>
+
+  <S16DressIVHed.label>乳貼</S16DressIVHed.label>
+  <S16DressIVHed.description>Nipple stickers on</S16DressIVHed.description>
+  <S16DressIVHed.stages.0.label>just put on</S16DressIVHed.stages.0.label>
+  <S16DressIVHed.stages.1.label>acceptance</S16DressIVHed.stages.1.label>
+  <S16DressIVHed.stages.2.label>humility</S16DressIVHed.stages.2.label>
+
+
+</LanguageData>

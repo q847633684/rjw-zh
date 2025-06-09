@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Penis -->
+
+  <rjw_genes_big_male_genitalia.label>大男性生殖器</rjw_genes_big_male_genitalia.label>
+  <rjw_genes_big_male_genitalia.description>此异种型的阴茎更大。（在 20 岁生日时调整大小）</rjw_genes_big_male_genitalia.description>
+
+  <rjw_genes_small_male_genitalia.label>小型男性生殖器</rjw_genes_small_male_genitalia.label>
+  <rjw_genes_small_male_genitalia.description>该异型的阴茎较小.（大小调整发生在 20 岁生日时）</rjw_genes_small_male_genitalia.description>
+
+
+  <!-- Vagina -->
+
+  <rjw_genes_loose_female_genitalia.label>女性生殖器松弛</rjw_genes_loose_female_genitalia.label>
+  <rjw_genes_loose_female_genitalia.description>这种异种型的阴道非常宽敞.（大小调整发生在 20 岁生日时）</rjw_genes_loose_female_genitalia.description>
+
+  <rjw_genes_tight_female_genitalia.label>紧致的女性生殖器</rjw_genes_tight_female_genitalia.label>
+  <rjw_genes_tight_female_genitalia.description>这个异型的阴道非常紧。（在20岁生日时调整大小）</rjw_genes_tight_female_genitalia.description>
+
+
+  <!-- Breasts -->
+
+  <rjw_genes_big_breasts.label>巨乳</rjw_genes_big_breasts.label>
+  <rjw_genes_big_breasts.description>该异型的雌性有大喇叭。（大小调整发生在20岁生日时）</rjw_genes_big_breasts.description>
+
+  <rjw_genes_small_breasts.label>小乳房</rjw_genes_small_breasts.label>
+  <rjw_genes_small_breasts.description>该异种型的女性乳房较小。（在 20 岁生日时调整大小）</rjw_genes_small_breasts.description>
+
+
+  <!-- Anus -->
+
+  <rjw_genes_loose_anus.label>肛门松弛</rjw_genes_loose_anus.label>
+  <rjw_genes_loose_anus.description>这个异型的肛门很宽敞。（在20岁生日时调整大小）</rjw_genes_loose_anus.description>
+
+  <rjw_genes_tight_anus.label>肛门紧绷</rjw_genes_tight_anus.label>
+  <rjw_genes_tight_anus.description>该异型的肛门很小。（在20岁生日时调整大小）</rjw_genes_tight_anus.description>
+
+
+  <!-- Extra -->
+
+  <rjw_genes_evergrowth.label>永恒生长</rjw_genes_evergrowth.label>
+  <rjw_genes_evergrowth.description>闪光世界中最令人遗憾的基因改造之一：（初级）生殖器将永远继续生长。这会影响尺寸和液体输出。过度成长也会影响心理稳定！ （大小调整发生在 20 岁生日时）</rjw_genes_evergrowth.description>
+
+
+  <!--阴道 -->
+  <!--乳房 -->
+  <!--肛门 -->
+  <!--额外 -->
+
+</LanguageData>

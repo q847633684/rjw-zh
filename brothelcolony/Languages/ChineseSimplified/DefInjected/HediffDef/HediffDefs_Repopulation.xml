@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CB_MarkedForDeparture_Hediff.label>标记为出发</CB_MarkedForDeparture_Hediff.label>
+  <CB_MarkedForDeparture_Hediff.description>我们神圣的仪式赋予我们生育能力。</CB_MarkedForDeparture_Hediff.description>
+
+
+  <!-- At 1 severity, you get a 100% modifier, which decays over ~15days -->
+
+  <CB_SacredFertility_Hediff.label>神圣生育</CB_SacredFertility_Hediff.label>
+  <CB_SacredFertility_Hediff.description>我们神圣的仪式赋予我们生育能力。</CB_SacredFertility_Hediff.description>
+
+
+  <!-- to overcome age seting fertility to 0%, we need to do this, sadly. A patch in the age calculation for fertility catches it -->
+
+  <CB_SacredOvercomeAge_Hediff.label>永恒的生育力</CB_SacredOvercomeAge_Hediff.label>
+  <CB_SacredOvercomeAge_Hediff.description>我们的神圣仪式赋予我们生育能力，即使在年老时也是如此。</CB_SacredOvercomeAge_Hediff.description>
+
+
+  <!--严重程度为 1 时，您将获得 100% 修饰符，该修饰符会在约 15 天的时间内衰减 -->
+  <!--为了克服年龄设定生育率为 0% 的问题，我们需要这样做，遗憾的是。生育年龄计算中的一个补丁抓住了它 -->
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <Infidelity_Heartbreaking.label>心碎</Infidelity_Heartbreaking.label>
+  <Infidelity_Heartbreaking.description>不忠是一种不会很快被原谅或遗忘的背叛。</Infidelity_Heartbreaking.description>
+
+  <Infidelity_Disapproved.label>未批准</Infidelity_Disapproved.label>
+  <Infidelity_Disapproved.description>欺骗伴侣被视为对他们的不尊重。</Infidelity_Disapproved.description>
+
+  <Infidelity_Acceptable.label>可接受</Infidelity_Acceptable.label>
+  <Infidelity_Acceptable.description>性是可以自由探索的事物，即使它们跨越了传统关系设定的界限。</Infidelity_Acceptable.description>
+
+
+</LanguageData>

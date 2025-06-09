@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ### -->
+
+  <CB_NoneOutcome.description>没有其他结果。</CB_NoneOutcome.description>
+  <CB_NoneOutcome.outcomeChances.0.label>无</CB_NoneOutcome.outcomeChances.0.label>
+  <CB_NoneOutcome.outcomeChances.0.description>什么都没有</CB_NoneOutcome.outcomeChances.0.description>
+  <CB_NoneOutcome.comps.0.label>参与者计数</CB_NoneOutcome.comps.0.label>
+
+
+</LanguageData>

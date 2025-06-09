@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ConvertToHucow.label>转换为人牛</ConvertToHucow.label>
+  <ConvertToHucow.description>乘以该 pawn 的泌乳持续时间，并在其泌乳期间增加其产量。</ConvertToHucow.description>
+
+  <BeginInducingLactation.label>开始诱导泌乳</BeginInducingLactation.label>
+  <BeginInducingLactation.description>刺激某人的乳管开始哺乳过程，无需分娩。</BeginInducingLactation.description>
+
+
+</LanguageData>

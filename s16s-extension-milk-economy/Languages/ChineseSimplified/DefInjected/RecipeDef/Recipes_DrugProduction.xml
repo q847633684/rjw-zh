@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <S16_MakeLactine.label>製作催乳劑</S16_MakeLactine.label>
+  <S16_MakeLactine.description>製作催乳劑</S16_MakeLactine.description>
+  <S16_MakeLactine.jobString>正在製作催乳劑</S16_MakeLactine.jobString>
+
+  <S16_MakeLactineBulk.label>製作催乳劑x4</S16_MakeLactineBulk.label>
+  <S16_MakeLactineBulk.description>製作催乳劑x4</S16_MakeLactineBulk.description>
+  <S16_MakeLactineBulk.jobString>正在製作催乳劑x4</S16_MakeLactineBulk.jobString>
+
+  <S16_MakeLactine_A.label>製作催乳劑阿爾法</S16_MakeLactine_A.label>
+  <S16_MakeLactine_A.description>製作催乳劑阿爾法</S16_MakeLactine_A.description>
+  <S16_MakeLactine_A.jobString>正在製作催乳劑阿爾法</S16_MakeLactine_A.jobString>
+
+  <S16_MakeLactine_A_Bulk.label>製作催乳劑阿爾法x4</S16_MakeLactine_A_Bulk.label>
+  <S16_MakeLactine_A_Bulk.description>製作催乳劑阿爾法x4</S16_MakeLactine_A_Bulk.description>
+  <S16_MakeLactine_A_Bulk.jobString>正在製作催乳劑阿爾法x4</S16_MakeLactine_A_Bulk.jobString>
+
+
+</LanguageData>

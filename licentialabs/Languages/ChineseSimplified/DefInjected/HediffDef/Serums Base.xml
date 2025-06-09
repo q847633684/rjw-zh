@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HormonalSerumTolerance.label>激素血清耐受性</HormonalSerumTolerance.label>
+  <HormonalSerumTolerance.description>描述文本</HormonalSerumTolerance.description>
+  <HormonalSerumTolerance.stages.0.label>小的</HormonalSerumTolerance.stages.0.label>
+  <HormonalSerumTolerance.stages.1.label>大的</HormonalSerumTolerance.stages.1.label>
+  <HormonalSerumTolerance.stages.2.label>大量的</HormonalSerumTolerance.stages.2.label>
+
+  <HormonalSerumAddiction.label>荷尔蒙血清成瘾</HormonalSerumAddiction.label>
+  <HormonalSerumAddiction.description>描述文本</HormonalSerumAddiction.description>
+  <HormonalSerumAddiction.stages.1.label>退出</HormonalSerumAddiction.stages.1.label>
+
+  <HormonalSerumHigh.label>荷尔蒙失调</HormonalSerumHigh.label>
+  <HormonalSerumHigh.description>描述文本</HormonalSerumHigh.description>
+  <HormonalSerumHigh.labelNoun>荷尔蒙温暖</HormonalSerumHigh.labelNoun>
+
+
+</LanguageData>

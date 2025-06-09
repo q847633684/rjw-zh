@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PsychicArouse.label>心灵唤起</PsychicArouse.label>
+  <PsychicArouse.description>一个遥远的古科技正在通过轨道放大器发射心灵信号，激发人们的性欲。</PsychicArouse.description>
+  <PsychicArouse.endMessage>心灵嗡嗡声即将结束。</PsychicArouse.endMessage>
+  <PsychicArouse.letterText>每个{0}殖民者都兴奋得脸红。\n\n某个遥远的欲望引擎正在搅动。它通过轨道放大器将心灵嗡嗡声投射到这个地点，调整为只影响{0}。几天内，每个{0}都会经历更高的性欲和性需求。</PsychicArouse.letterText>
+
+</LanguageData>

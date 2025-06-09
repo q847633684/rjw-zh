@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>DD-RJW-zh</name>
+	<author>dayday</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+		<li>1.7</li>
+		<li>1.8</li>
+		<li>1.9</li>
+	</supportedVersions>
+	<packageId>RJW.CHT.DD</packageId>
+	<loadAfter>
+		<li>rim.job.world</li>
+		<li>rjw.cum</li>
+		<li>rjw.std</li>
+		<li>cryptidfarmer.stripper</li>
+		<li>c0ffee.rjw.ideologyaddons</li>
+		<li>vegapnk.rjw.genes</li>
+		<li>rjw.milk.humanoid</li>
+		<li>Ed86.rjwia</li>
+		<li>rjw.menstruation</li>
+		<li>rjw.sexperience</li>
+		<li>rjw.sexperience.ideology</li>
+		<li>calamabanana.rjw.brothelcolony</li>
+		<li>lustlicentia.rjwlabs</li>
+		<li>c0ffee.rjw.events</li>
+		<li>vegapnk.rjw.genes</li>
+		<li>abscon.privacy.please</li>
+		<li>rjw.dirtytalk</li>
+	 </loadAfter>
+    <description>
+		目前支援MOD:
+		RJW本體
+		RJW-cum
+		RJW-STD
+		RJW-Milkable Colonists
+		RJW-Whoring
+		RJW-Interaction Addon
+		RJW-Extension
+		RJW-Menstruation
+		RJW-Sexperience
+		RJW-Sexperience-Ideology
+		S16's Extension
+		S16's Milk Economy
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>rim.job.world</packageId>
+			<displayName>RimJobWorld</displayName>
+			<steamWorkshopUrl>https://www.loverslab.com/files/file/7257-rimjobworld/</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+
+</ModMetaData>

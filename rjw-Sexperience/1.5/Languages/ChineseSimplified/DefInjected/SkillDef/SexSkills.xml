@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sex.label>性</Sex.label>
+  <Sex.description>性技巧。</Sex.description>
+  <Sex.skillLabel>性</Sex.skillLabel>
+  <Sex.generalRules.rulesStrings.0>subject-&gt;性</Sex.generalRules.rulesStrings.0>
+  <Sex.generalRules.rulesStrings.1>subject-&gt;他妈的</Sex.generalRules.rulesStrings.1>
+  <Sex.generalRules.rulesStrings.2>subject-&gt;亲密</Sex.generalRules.rulesStrings.2>
+
+
+  <!--<性别标签>性别</性别标签>-->
+
+</LanguageData>

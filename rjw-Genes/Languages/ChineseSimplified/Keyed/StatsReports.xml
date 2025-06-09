@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StatsReport_NoChildren>Pawn 没有任何子项。</StatsReport_NoChildren>
+  <StatsReport_ManyChildren>Pawn 有相当数量的子级。</StatsReport_ManyChildren>
+  <StatsReport_VeryManyChildren>Pawn 有很多子级。</StatsReport_VeryManyChildren>
+
+</LanguageData>

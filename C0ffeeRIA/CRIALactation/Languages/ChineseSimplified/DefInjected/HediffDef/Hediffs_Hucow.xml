@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hucow.label>H人牛</Hucow.label>
+  <Hucow.description>由于有人使用转换为H人牛能力，此人已转换为H人牛。结果，泌乳速度和产量提高，但工作和运动速度降低。</Hucow.description>
+
+  <InducingLactation.label>诱导泌乳</InducingLactation.label>
+  <InducingLactation.description>正在鼓励此人的乳房泌乳。这是一个漫长而艰巨的乳房和乳头刺激过程。</InducingLactation.description>
+
+  <InducingLactationCooldown.label>最近催乳</InducingLactationCooldown.label>
+  <InducingLactationCooldown.description>此人的乳房正在被鼓励泌乳，并且最近已被鼓励。这会导致酸痛、肿胀和不适的感觉。</InducingLactationCooldown.description>
+
+
+</LanguageData>

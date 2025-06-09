@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_orgasm_rush.label>高潮高峰</rjw_genes_orgasm_rush.label>
+  <rjw_genes_orgasm_rush.description>在性高潮时，这种基因的携带者的活动会增强.（休息需求已部分满足）</rjw_genes_orgasm_rush.description>
+
+  <rjw_genes_youth_fountain.label>青春喷泉</rjw_genes_youth_fountain.label>
+  <rjw_genes_youth_fountain.description>与该基因携带者发生性行为会使伴侣稍微年轻一些。（伴侣保持成年）</rjw_genes_youth_fountain.description>
+
+  <rjw_genes_sex_age_drain.label>性年龄流失</rjw_genes_sex_age_drain.label>
+  <rjw_genes_sex_age_drain.description>发生性行为会将一些伴侣的一生转移到自己身上.（典当保持成人状态）</rjw_genes_sex_age_drain.description>
+
+  <rjw_genes_aphrodisiac_pheromones.label>催情信息素</rjw_genes_aphrodisiac_pheromones.label>
+  <rjw_genes_aphrodisiac_pheromones.description>该典当的信息素会引起附近其他人的性欲增强。</rjw_genes_aphrodisiac_pheromones.description>
+
+  <rjw_genes_sexual_mytosis.label>性高潮有丝分裂</rjw_genes_sexual_mytosis.label>
+  <rjw_genes_sexual_mytosis.description>载体的再生架构出现故障，随着载体的增加而变得更加不稳定
+            持续的多次性高潮 -在有丝分裂过程中达到高潮。这将导致
+            （生物学上）相同的棋子和双胞胎都处于再生状态。另外，
+            pawn 可以有多次高潮：在不稳定的状态下，高潮来得更快。</rjw_genes_sexual_mytosis.description>
+
+  <rjw_genes_hormonal_saliva.label>荷尔蒙唾液</rjw_genes_hormonal_saliva.label>
+  <rjw_genes_hormonal_saliva.description>这种异种型的唾液会刺激阴茎的生长。定期接触将带来显着的成长。</rjw_genes_hormonal_saliva.description>
+
+  <rjw_genes_cocoonweaver.label>茧织工</rjw_genes_cocoonweaver.label>
+  <rjw_genes_cocoonweaver.description>这种基因的携带者可以结出茧来准备无助（或愿意）
+            繁殖的受害者。</rjw_genes_cocoonweaver.description>
+  <rjw_genes_cocoonweaver.labelShortAdj>茧纳</rjw_genes_cocoonweaver.labelShortAdj>
+
+  <rjw_genes_sex_tamer.label>性驯服者</rjw_genes_sex_tamer.label>
+  <rjw_genes_sex_tamer.description>兽交有机会驯服动物或促进它们的训练。</rjw_genes_sex_tamer.description>
+  <rjw_genes_sex_tamer.labelShortAdj>性驯服者</rjw_genes_sex_tamer.labelShortAdj>
+
+  <rjw_genes_sexual_genetic_swap.label>性基因交换</rjw_genes_sexual_genetic_swap.label>
+  <rjw_genes_sexual_genetic_swap.description>携带这种基因的携带者可能会与他们的性伴侣交换基因。转换基因始终是内基因。</rjw_genes_sexual_genetic_swap.description>
+
+  <rjw_genes_sexual_genetic_thief.label>性基因窃贼</rjw_genes_sexual_genetic_thief.label>
+  <rjw_genes_sexual_genetic_thief.description>带有这种基因的携带者可能会从性伴侣那里窃取基因。被盗的基因总是异种基因。</rjw_genes_sexual_genetic_thief.description>
+
+  <rjw_genes_feminizer.label>女性化者</rjw_genes_feminizer.label>
+  <rjw_genes_feminizer.description>带有这种基因的携带者会慢慢地将男性性伴侣变成女性。</rjw_genes_feminizer.description>
+
+  <rjw_genes_twinkifier.label>双胞胎</rjw_genes_twinkifier.label>
+  <rjw_genes_twinkifier.description>带有这种基因的携带者会慢慢地将男性性伴侣变成可繁殖的可爱的年轻男孩。</rjw_genes_twinkifier.description>
+
+
+</LanguageData>
