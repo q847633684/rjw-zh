@@ -9,11 +9,12 @@ access_key_id = ''
 access_secret = ''
 REGION_ID = 'cn-hangzhou'
 
-client = AcsClient(
-    access_key_id,
-    access_secret,
-    REGION_ID
-)
+# 初始化AcsClient
+if not access_key_id or not access_secret:
+    raise ValueError('请设置有效的阿里云AccessKey ID和Secret')
+
+client = AcsClient(access_key_id, access_secret, REGION_ID)
+
 
 def aliyun_translate(text, from_lang='en', to_lang='zh'):
     # 分割文本与占位符
@@ -90,4 +91,3 @@ if __name__ == '__main__':
         r'RJW/1.5/rjw_Translation/Languages/ChineseSimplified/translations.csv',
         r'RJW/1.5/rjw_Translation/Languages/ChineseSimplified/translations_zh.csv'
     )
-    
