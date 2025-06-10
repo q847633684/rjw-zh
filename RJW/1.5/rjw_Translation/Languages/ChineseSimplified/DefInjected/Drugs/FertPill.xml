@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <RJW_FertPill.label>hyperfertility pill</RJW_FertPill.label>
+    <RJW_FertPill.description>Enhances fertility for 48 hours. Also works as a mild aphrodisiac.</RJW_FertPill.description>
+    <RJW_FertPill.label>fertpill</RJW_FertPill.label>
+    <RJW_FertPill.description>Enhanced fertility. A mild aphrodisiac.</RJW_FertPill.description>
+    <RJW_FertPill.stages.0.label>Hyperfertility</RJW_FertPill.stages.0.label>
+</LanguageData>

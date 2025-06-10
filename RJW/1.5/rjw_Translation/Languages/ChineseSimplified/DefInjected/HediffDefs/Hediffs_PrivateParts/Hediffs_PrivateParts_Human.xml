@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Penis.label>penis</Penis.label>
+    <Penis.labelNoun>a penis</Penis.labelNoun>
+    <Penis.description>A penis.</Penis.description>
+    <Vagina.label>vagina</Vagina.label>
+    <Vagina.labelNoun>a vagina</Vagina.labelNoun>
+    <Vagina.description>A vagina.</Vagina.description>
+    <Anus.label>anus</Anus.label>
+    <Anus.labelNoun>an anus</Anus.labelNoun>
+    <Anus.description>A anus.</Anus.description>
+    <Breasts.label>breasts</Breasts.label>
+    <Breasts.labelNoun>a pair of breasts</Breasts.labelNoun>
+    <Breasts.description>A pair of breasts.</Breasts.description>
+    <FeaturelessChest.label>featureless chest</FeaturelessChest.label>
+    <FeaturelessChest.labelNoun>a featureless chest</FeaturelessChest.labelNoun>
+    <FeaturelessChest.description>a flat chest without any nipples where there should be.</FeaturelessChest.description>
+</LanguageData>

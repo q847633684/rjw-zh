@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <AnalInsertableBondage.label>insertable</AnalInsertableBondage.label>
+    <VaginalInsertableBondage.label>insertable</VaginalInsertableBondage.label>
+    <BeltsOnSkinBondage.label>Over skin</BeltsOnSkinBondage.label>
+    <GagOuterBondage.label>headgear</GagOuterBondage.label>
+    <ArmsOuterBondage.label>outer</ArmsOuterBondage.label>
+    <LegsOuterBondage.label>outer</LegsOuterBondage.label>
+</LanguageData>

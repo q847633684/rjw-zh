@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Condom.label>Condom</Condom.label>
+    <Condom.description>Prevents a single case of pregnancy. Hint: Auto used from pawn inventory or stack next to bed.</Condom.description>
+    <UsedCondom.label>Used Condom</UsedCondom.label>
+    <UsedCondom.description>A condom filled with sperm. MMMM So good and tasty!</UsedCondom.description>
+    <MakeCondom.label>make condom x10</MakeCondom.label>
+    <MakeCondom.description>Craft 10 condoms.</MakeCondom.description>
+    <SexWithCondom.stages.0.label>Had to wear condom</SexWithCondom.stages.0.label>
+    <SexWithCondom.stages.0.description>Had to wear condom</SexWithCondom.stages.0.description>
+</LanguageData>

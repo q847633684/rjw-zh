@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <FortunateGaveVirginity.stages.0.label>Gave virginity</FortunateGaveVirginity.stages.0.label>
+    <FortunateGaveVirginity.stages.0.description>I gave my virginity.</FortunateGaveVirginity.stages.0.description>
+    <UnfortunateLostVirginity.stages.0.label>Lost virginity</UnfortunateLostVirginity.stages.0.label>
+    <UnfortunateLostVirginity.stages.0.description>I lost my virginity and I'll never get it back.</UnfortunateLostVirginity.stages.0.description>
+    <TookVirginity.stages.0.label>Took virginity</TookVirginity.stages.0.label>
+    <TookVirginity.stages.0.description>I've taken someone's virginity.</TookVirginity.stages.0.description>
+</LanguageData>

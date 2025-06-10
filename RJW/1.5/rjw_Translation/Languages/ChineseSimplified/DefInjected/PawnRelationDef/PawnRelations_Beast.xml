@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <RJW_Sire.label>father</RJW_Sire.label>
+    <RJW_Pup.label>son</RJW_Pup.label>
+    <Child_Beast.label>son</Child_Beast.label>
+    <Sibling_Beast.label>brother</Sibling_Beast.label>
+    <HalfSibling_Beast.label>brother</HalfSibling_Beast.label>
+    <Grandparent_Beast.label>grandfather</Grandparent_Beast.label>
+    <Grandchild_Beast.label>grandson</Grandchild_Beast.label>
+    <NephewOrNiece_Beast.label>nephew</NephewOrNiece_Beast.label>
+    <UncleOrAunt_Beast.label>uncle</UncleOrAunt_Beast.label>
+    <Cousin_Beast.label>cousin</Cousin_Beast.label>
+    <GreatGrandparent_Beast.label>great grandfather</GreatGrandparent_Beast.label>
+    <GreatGrandchild_Beast.label>great grandson</GreatGrandchild_Beast.label>
+    <GranduncleOrGrandaunt_Beast.label>granduncle</GranduncleOrGrandaunt_Beast.label>
+    <GrandnephewOrGrandniece_Beast.label>grandnephew</GrandnephewOrGrandniece_Beast.label>
+    <CousinOnceRemoved_Beast.label>cousin once removed</CousinOnceRemoved_Beast.label>
+    <SecondCousin_Beast.label>second cousin</SecondCousin_Beast.label>
+</LanguageData>

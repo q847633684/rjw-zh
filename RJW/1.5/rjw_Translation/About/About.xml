@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>rjw Translation (ChineseSimplified)</name>
+    <author>YourName</author>
+    <packageId>rjw.translation.chinesesimplified</packageId>
+    <supportedVersions><li>1.5</li></supportedVersions>
+    <description>Translation for rjw in ChineseSimplified</description>
+    <modDependencies>
+        <li>
+            <packageId>rjw</packageId>
+            <displayName>rjw</displayName>
+        </li>
+    </modDependencies>
+</ModMetaData>

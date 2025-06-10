@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <SexSatisfaction.label>sex satisfaction</SexSatisfaction.label>
+    <SexSatisfaction.description>Determines how much satisfaction a pawn receives from sex.</SexSatisfaction.description>
+    <Vulnerability.label>vulnerability</Vulnerability.label>
+    <Vulnerability.description>Measures how likely a pawn is to be taken advantage of sexually</Vulnerability.description>
+    <SexFrequency.label>sex drive</SexFrequency.label>
+    <SexFrequency.description>Measures how sexually active the pawn is.</SexFrequency.description>
+</LanguageData>

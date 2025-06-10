@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <RJW_IUD.label>IUD</RJW_IUD.label>
+    <RJW_IUD.description>A small silver device inserted into the womb that greatly reduces the chance of pregnancy.</RJW_IUD.description>
+    <IncreasedFertility.label>Fertile</IncreasedFertility.label>
+    <IncreasedFertility.description>Increased fertility, for baby making.</IncreasedFertility.description>
+    <DecreasedFertility.label>Infertile</DecreasedFertility.label>
+    <DecreasedFertility.description>Low fertility, not for baby making.</DecreasedFertility.description>
+    <ImpregnationBlocker.label>Archotech pregnancy blocker</ImpregnationBlocker.label>
+    <ImpregnationBlocker.description>A complex device that prevents fertilization and pregnancy.</ImpregnationBlocker.description>
+    <FertilityEnhancer.label>Archotech fertility enhancer</FertilityEnhancer.label>
+    <FertilityEnhancer.description>A complex device that increases the likelihood of pregnancy.</FertilityEnhancer.description>
+</LanguageData>

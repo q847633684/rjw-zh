@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <RJW_BabyState.label>child is growing</RJW_BabyState.label>
+    <RJW_BabyState.description>A growing child.</RJW_BabyState.description>
+    <RJW_BabyState.stages.0.label>baby</RJW_BabyState.stages.0.label>
+    <RJW_BabyState.stages.1.label>toddler</RJW_BabyState.stages.1.label>
+    <RJW_BabyState.stages.2.label>child</RJW_BabyState.stages.2.label>
+    <RJW_NoManipulationFlag.label>Too young to work</RJW_NoManipulationFlag.label>
+    <RJW_NoManipulationFlag.description>Too young to work.</RJW_NoManipulationFlag.description>
+</LanguageData>

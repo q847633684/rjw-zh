@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <AddMultiVagina.label>add vagina</AddMultiVagina.label>
+    <AddMultiHorseVagina.label>add equine vagina</AddMultiHorseVagina.label>
+    <AddMultiCatVagina.label>add feline vagina</AddMultiCatVagina.label>
+    <AddMultiDogVagina.label>add canine vagina</AddMultiDogVagina.label>
+    <AddMultiDragonVagina.label>add dragon vagina</AddMultiDragonVagina.label>
+    <AddMultiOvipositorF.label>add female ovipositor</AddMultiOvipositorF.label>
+    <AddMultiOvipositorF.description>Adds additional female ovipositor.</AddMultiOvipositorF.description>
+    <AddMultiPenis.label>add penis</AddMultiPenis.label>
+    <AddMultiHorsePenis.label>add equine penis</AddMultiHorsePenis.label>
+    <AddMultiCatPenis.label>add feline penis</AddMultiCatPenis.label>
+    <AddMultiDogPenis.label>add canine penis</AddMultiDogPenis.label>
+    <AddMultiDragonPenis.label>add dragon penis</AddMultiDragonPenis.label>
+    <AddMultiRaccoonPenis.label>add procyonine penis</AddMultiRaccoonPenis.label>
+    <AddMultiHemiPenis.label>add hemipenis</AddMultiHemiPenis.label>
+    <AddMultiCrocodilianPenis.label>add crocodilian penis</AddMultiCrocodilianPenis.label>
+    <AddMultiOvipositorM.label>add male ovipositor</AddMultiOvipositorM.label>
+    <AddMultiOvipositorM.description>Adds additional male ovipositor.</AddMultiOvipositorM.description>
+    <AddMultiBreasts.label>add breasts</AddMultiBreasts.label>
+    <AddMultiAnus.label>add anus</AddMultiAnus.label>
+    <AddMultiInsectAnus.label>add insect anus</AddMultiInsectAnus.label>
+    <MultiVagina.description>Adds additional vagina.</MultiVagina.description>
+    <MultiPenis.description>Adds additional penis.</MultiPenis.description>
+    <MultiBreast.description>Adds additional breast row.</MultiBreast.description>
+    <MultiAnus.description>Adds additional anus.</MultiAnus.description>
+</LanguageData>

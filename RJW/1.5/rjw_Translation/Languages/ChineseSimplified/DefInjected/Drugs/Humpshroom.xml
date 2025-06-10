@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <PlantHumpShroom.label>humpshroom shroom</PlantHumpShroom.label>
+    <PlantHumpShroom.description>Thick shroom with tough flesh, thick juice and smooth soft skin. Exhibits aphrodisiac effects when consumed, refills psyfocus.</PlantHumpShroom.description>
+    <HumpShroom.label>Hump shroom</HumpShroom.label>
+    <HumpShroom.description>A shroom with tough flesh, thick juice and smooth soft skin. Exhibits aphrodisiac effects when consumed, refills psyfocus.</HumpShroom.description>
+    <HumpShroomEffect.label>induced libido</HumpShroomEffect.label>
+    <HumpShroomEffect.description>Hump shroom aphrodisiac effects.</HumpShroomEffect.description>
+    <HumpShroomEffect.stages.0.label>Humpshroom aftertaste</HumpShroomEffect.stages.0.label>
+    <HumpShroomEffect.stages.0.description>Tastes funny.</HumpShroomEffect.stages.0.description>
+    <HumpShroom.label>humpshroom</HumpShroom.label>
+    <Chemical_HumpShroom.label>humpshroom</Chemical_HumpShroom.label>
+    <Chemical_HumpShroom.description>Person is now hooked on shrooms. Without them, their bedroom performance may fall.</Chemical_HumpShroom.description>
+    <HumpShroomTolerance.label>humpshroom tolerance</HumpShroomTolerance.label>
+    <HumpShroomTolerance.description>Hump shroom effects tolerance.</HumpShroomTolerance.description>
+    <HumpShroomAddiction.label>humpshroom addiction</HumpShroomAddiction.label>
+    <HumpShroomAddiction.description>Hump shroom effects addiction.</HumpShroomAddiction.description>
+    <HumpShroomAddiction.stages.0.label>withdrawal</HumpShroomAddiction.stages.0.label>
+    <HumpShroomWithdrawal.stages.0.label>humpshroom withdrawal</HumpShroomWithdrawal.stages.0.label>
+    <HumpShroomWithdrawal.stages.1.description>I just feel nothing down there.</HumpShroomWithdrawal.stages.1.description>
+</LanguageData>

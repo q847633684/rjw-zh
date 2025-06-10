@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Chains.label>chains</Chains.label>
+    <Chains.labelNoun>chains</Chains.labelNoun>
+    <Chains.description>A series of chains that restrict its wearer.</Chains.description>
+    <BoundHands.label>bound hands</BoundHands.label>
+    <BoundHands.labelNoun>bound hands</BoundHands.labelNoun>
+    <BoundHands.description>Bound hands.</BoundHands.description>
+    <BoundLegs.label>bound legs</BoundLegs.label>
+    <BoundLegs.labelNoun>bound legs</BoundLegs.labelNoun>
+    <BoundLegs.description>Bound legs.</BoundLegs.description>
+    <RJW_Restraints.label>Restraints</RJW_Restraints.label>
+    <RJW_Restraints.labelNoun>restraints</RJW_Restraints.labelNoun>
+    <RJW_Restraints.description>A set of restraints.</RJW_Restraints.description>
+    <RJW_Cocoon.label>Cocoon</RJW_Cocoon.label>
+    <RJW_Cocoon.labelNoun>A cocoon</RJW_Cocoon.labelNoun>
+    <RJW_Cocoon.description>A cocoon that tends to its host until ready to procreate.</RJW_Cocoon.description>
+</LanguageData>

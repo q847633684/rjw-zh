@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DeterminePaternity.label>check Paternity</DeterminePaternity.label>
+    <DeterminePaternity.description>Try to figure out who is the father.</DeterminePaternity.description>
+</LanguageData>

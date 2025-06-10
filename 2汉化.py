@@ -15,43 +15,38 @@ client = AcsClient(
     REGION_ID
 )
 
-def replace_placeholders(text):
-    # 匹配所有 [xxx] 占位符
-    pattern = re.compile(r'(\[[^\]]+\])')
-    placeholders = pattern.findall(text)
-    replaced = text
-    mapping = {}
-    for idx, ph in enumerate(placeholders):
-        key = f'__PLACEHOLDER_{idx}__'
-        replaced = replaced.replace(ph, key)
-        mapping[key] = ph
-    return replaced, mapping
-
-def restore_placeholders(text, mapping):
-    for key, ph in mapping.items():
-        text = text.replace(key, ph)
-    return text
-
 def aliyun_translate(text, from_lang='en', to_lang='zh'):
-    # 只翻译非全占位符内容
-    replaced, mapping = replace_placeholders(text)
-    request = TranslateGeneralRequest()
-    request.set_SourceLanguage(from_lang)
-    request.set_TargetLanguage(to_lang)
-    request.set_SourceText(replaced)
-    request.set_FormatType('text')
-    try:
-        response = client.do_action_with_exception(request)
-        response_str = str(response, encoding='utf-8')
-        print(f"[调试] 翻译API返回：{response_str}")
-        import json
-        result = json.loads(response_str)
-        zh = result.get('Data', {}).get('Translated', '')
-        zh = restore_placeholders(zh, mapping)
-        return zh
-    except Exception as e:
-        print('翻译失败:', e)
-        return text
+    # 分割文本与占位符
+    parts = re.split(r'($[^]]+$)', text)
+    translated_parts = []
+    
+    for part in parts:
+        if re.match(r'$$[^]]+$$', part):
+            # 是 [xxx] 占位符，直接保留
+            translated_parts.append(part)
+        elif part.strip():
+            # 非空文本，进行翻译
+            request = TranslateGeneralRequest()
+            request.set_SourceLanguage(from_lang)
+            request.set_TargetLanguage(to_lang)
+            request.set_SourceText(part)
+            request.set_FormatType('text')
+            try:
+                response = client.do_action_with_exception(request)
+                response_str = str(response, encoding='utf-8')
+                print(f"[调试] 翻译API返回：{response_str}")
+                import json
+                result = json.loads(response_str)
+                zh = result.get('Data', {}).get('Translated', '')
+                translated_parts.append(zh)
+            except Exception as e:
+                print('翻译失败:', e)
+                translated_parts.append(part)
+        else:
+            # 空内容，直接保留
+            translated_parts.append(part)
+
+    return ''.join(translated_parts)
     
 def translate_csv(input_path, output_path):
     with open(input_path, 'r', encoding='utf-8') as infile, \
