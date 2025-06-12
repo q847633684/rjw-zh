@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-    <Sterilization.label>sterilize</Sterilization.label>
-    <Sterilization.description>Prevents reproduction without removing genitals.</Sterilization.description>
-    <RJW_InstallIUD.label>install IUD</RJW_InstallIUD.label>
-    <RJW_InstallIUD.description>Greatly reduces the chance of pregnancy. Reversible anytime.</RJW_InstallIUD.description>
-    <RJW_RemovelIUD.label>remove IUD</RJW_RemovelIUD.label>
-    <RJW_RemovelIUD.description>Remove an installed IUD, restoring fertility.</RJW_RemovelIUD.description>
-</LanguageData>

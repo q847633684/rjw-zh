@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-    <RJW_UnknownEgg.label>generic insect egg</RJW_UnknownEgg.label>
-    <RJW_InsectHiveEgg.label>insectoid egg</RJW_InsectHiveEgg.label>
-    <RJW_MechanoidImplant.label>implanted mechanoid</RJW_MechanoidImplant.label>
-    <RJW_ImplantEgg.description>Parasitic egg(s) that enter the host's body and feeds off their nutrients until ready to hatch. Just be glad they don't hatch by bursting out of your chest.</RJW_ImplantEgg.description>
-    <RJW_ImplantMech.description>A small computer that enters a host through one of their orifices. Can analyze vital signs and location data, and relay that information back to mechanoid ai.</RJW_ImplantMech.description>
-</LanguageData>

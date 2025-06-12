@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-    <RJW_pregnancy_template.label>Pregnant</RJW_pregnancy_template.label>
-    <RJW_pregnancy_template.description>Baby in the oven.</RJW_pregnancy_template.description>
-    <RJW_pregnancy_template.stages.0.label>early-stage</RJW_pregnancy_template.stages.0.label>
-    <RJW_pregnancy_template.stages.1.label>middle-stage</RJW_pregnancy_template.stages.1.label>
-    <RJW_pregnancy_template.stages.2.label>late-stage</RJW_pregnancy_template.stages.2.label>
-    <RJW_pregnancy_template.stages.3.label>having contractions</RJW_pregnancy_template.stages.3.label>
-</LanguageData>

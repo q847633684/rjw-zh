@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-    <SexReassignment.description>Install genital part.</SexReassignment.description>
-    <SexReassignmentV.description>Installs a vagina, replaces other bodyparts if present.</SexReassignmentV.description>
-    <SexReassignmentP.description>Attaches a penis, replaces other bodyparts if present.</SexReassignmentP.description>
-    <BreastSurgery.description>Attaches a pair of breasts, replaces other bodyparts if present.</BreastSurgery.description>
-    <AnalSurgery.description>Installs an anus, replaces other bodyparts if present.</AnalSurgery.description>
-</LanguageData>

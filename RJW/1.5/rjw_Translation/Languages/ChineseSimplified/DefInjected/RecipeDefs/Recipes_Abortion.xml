@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-    <RJW_AbortionMech.label>Neutralize mechanoid</RJW_AbortionMech.label>
-    <RJW_AbortionMech.description>Safely neutralize mechanoid nanites.</RJW_AbortionMech.description>
-    <RJW_HackMech.label>Hack mechanoid</RJW_HackMech.label>
-    <RJW_HackMech.description>Hack mechanoid AI, cutting it from global mechanoid AI, results docile(unless provoked) mechanoid.</RJW_HackMech.description>
-    <RJW_Abortion.label>Abort pregnancy</RJW_Abortion.label>
-    <RJW_Abortion.description>Removes an unwanted pregnancy.</RJW_Abortion.description>
-</LanguageData>

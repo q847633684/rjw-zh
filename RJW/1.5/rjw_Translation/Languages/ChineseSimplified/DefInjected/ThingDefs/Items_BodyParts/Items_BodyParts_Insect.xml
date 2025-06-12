@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-    <OvipositorM.label>ovipositor (Male)</OvipositorM.label>
-    <OvipositorM.description>Ovipositor used to fertilize eggs.</OvipositorM.description>
-    <OvipositorF.label>ovipositor (Female)</OvipositorF.label>
-    <OvipositorF.description>Ovipositor used to lay eggs.</OvipositorF.description>
-    <InsectAnus.label>insect anus</InsectAnus.label>
-    <InsectAnus.description>Insect anus.</InsectAnus.description>
-</LanguageData>
