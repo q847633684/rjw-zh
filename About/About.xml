@@ -1,60 +1,90 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>DD-RJW-zh</name>
-	<author>dayday</author>
+	<name>RJW 汉化整合包 (DD版)</name>
+	<author>q84763384</author>
+	<url>https://github.com/q847633684/rjw-zh</url>
+	<packageId>RJW.ZH.DD</packageId>
 	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-		<li>1.2</li>
-		<li>1.3</li>
-		<li>1.4</li>
 		<li>1.5</li>
 		<li>1.6</li>
-		<li>1.7</li>
-		<li>1.8</li>
-		<li>1.9</li>
 	</supportedVersions>
-	<packageId>RJW.CHT.DD</packageId>
-	<loadAfter>
-		<li>rim.job.world</li>
-		<li>rjw.cum</li>
-		<li>rjw.std</li>
-		<li>cryptidfarmer.stripper</li>
-		<li>c0ffee.rjw.ideologyaddons</li>
-		<li>vegapnk.rjw.genes</li>
-		<li>rjw.milk.humanoid</li>
-		<li>Ed86.rjwia</li>
-		<li>rjw.menstruation</li>
-		<li>rjw.sexperience</li>
-		<li>rjw.sexperience.ideology</li>
-		<li>calamabanana.rjw.brothelcolony</li>
-		<li>lustlicentia.rjwlabs</li>
-		<li>c0ffee.rjw.events</li>
-		<li>vegapnk.rjw.genes</li>
-		<li>abscon.privacy.please</li>
-		<li>rjw.dirtytalk</li>
-	 </loadAfter>
-    <description>
-		目前支援MOD:
-		RJW本體
-		RJW-cum
-		RJW-STD
-		RJW-Milkable Colonists
-		RJW-Whoring
-		RJW-Interaction Addon
-		RJW-Extension
-		RJW-Menstruation
-		RJW-Sexperience
-		RJW-Sexperience-Ideology
-		S16's Extension
-		S16's Milk Economy
-	</description>
 	<modDependencies>
 		<li>
 			<packageId>rim.job.world</packageId>
-			<displayName>RimJobWorld</displayName>
-			<steamWorkshopUrl>https://www.loverslab.com/files/file/7257-rimjobworld/</steamWorkshopUrl>
+			<displayName>RimJob World</displayName>
+			<steamWorkshopUrl>https://gitgud.io/Ed86/rjw</steamWorkshopUrl>
 		</li>
 	</modDependencies>
+	<loadAfter>
+		<!-- RJW 核心模块 -->
+		<li>rim.job.world</li>
+		<!-- RJW 系统扩展 -->
+		<li>rjw.cum</li>
+		<li>rjw.std</li>
+		<li>rjw.fc</li>
+		<li>rjw.fb</li>
+		<li>rjw.milk.humanoid</li>
+		<li>rjw.menstruation</li>
+		<!-- RJW 内容扩展 -->
+		<li>rjw.sexperience</li>
+		<li>rjw.sexperience.ideology</li>
+		<li>rjw.quirks</li>
+		<!-- RJW 相关MOD -->
+		<li>c0ffee.rjw.ideologyaddons</li>
+		<li>c0ffee.rjw.events</li>
+		<li>c0ffee.rimworld.animations</li>
+		<li>vegapnk.rjw.genes</li>
+		<li>vegapnk.cumpilation</li>
+		<!-- RJW 扩展 -->
+		<li>rimworld.ekss.rjwex</li>
+		<li>ed86.rjw.whorebeds</li>
+		<li>ed86.rjwinsects</li>
+		<li>eltoro.stretching</li>
+		<li>Ed86.rjwia</li>
+		<!-- RJW 其他相关 -->
+		<li>cryptidfarmer.stripper</li>
+		<li>calamabanana.rjw.brothelcolony</li>
+		<li>lustlicentia.rjwlabs</li>
+		<li>abscon.privacy.please</li>
+		<li>rjw.dirtytalk</li>
+		<!-- 其他兼容性mod -->
+		<li>nugerumon.romancetweaksmoreoptions</li>
+		<li>dord.nuditymattersmore</li>
+		<li>otyoty.sizedapparel</li>
+	</loadAfter>
+	<description>
+【简介】
+RimJob World (RJW) 汉化整合包，包含官方mod及多个相关同人mod的汉化翻译。
 
+【支持的RJW相关MOD】
+RJW 本体 - RimJob World 核心mod
+RJW-cum - 精液系统（与性交互动相关）
+RJW-STD - 性病系统
+RJW-FC - 流体动力学系统
+RJW-Milkable Colonists - 可挤奶殖民者
+RJW-Menstruation - 月经系统
+RJW-Sexperience - 性经验与技能系统
+RJW-Sexperience-Ideology - 性经验与意识形态整合
+RJW-Genes - 基因扩展
+RJW-Events - 事件系统
+C0ffee RIA - C0ffee意识形态附加组件
+Giddy-Up 2 - 动物骑乘
+StripperPole - 脱衣舞杆
+Privacy Please - 隐私系统
+Brothel Colony - 妓院殖民地
+Cryptid Farmer - 加密农民（涉及特殊生物）
+
+【汉化覆盖范围】
+该汉化包支持 RimWorld 1.5 和 1.6 版本。
+包含对主mod及其兼容性补丁的完整汉化。
+
+【使用须知】
+1. 必须先安装 RimJob World 官方mod
+2. 将本汉化包放在RJW及其相关mod之后加载
+3. 本包兼容 1.5 和 1.6 版本，会自动加载对应版本的汉化文件
+
+【许可证和归属】
+汉化翻译基于原始mod的许可证条款。
+感谢所有RJW相关mod的原作者和贡献者。
+	</description>
 </ModMetaData>
