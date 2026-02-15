@@ -310,7 +310,7 @@
 
 你可以在微调设置中配置此冷却时间间隔。</RV2_Settings_Features_RMBProposalsUseAutoVoreInterval_Tip>
   <!--EN: Scat-->
-  <RV2_Settings_Features_ScatEnabled>粪便💩</RV2_Settings_Features_ScatEnabled>
+  <RV2_Settings_Features_ScatEnabled>粪便</RV2_Settings_Features_ScatEnabled>
   <!--EN: This will not affect any already existing items or curently ongoing Vore!-->
   <RV2_Settings_Features_ScatEnabled_Tip>这不会影响任何已经存在的或目前正在进行的物品吃人不!</RV2_Settings_Features_ScatEnabled_Tip>
   <!--EN: Gizmo-->
@@ -437,7 +437,7 @@
   <!--EN: Turning this on will automatically forbid vore containers produced by pawns that do not belong to the player faction.\n\nThis means your colonists won't automatically haul scat piles and the likes from wild animals.-->
   <RV2_Settings_FineTuning_ForbidNonFactionVoreContainer_Tip>开启后将会自动禁用吃人由不属于玩家派系的殖民者生产的容器。
 
-这意味着你的殖民者不会自动搬运粪便💩来自野生动物的堆和类似的东西。</RV2_Settings_FineTuning_ForbidNonFactionVoreContainer_Tip>
+这意味着你的殖民者不会自动搬运粪便来自野生动物的堆和类似的东西。</RV2_Settings_FineTuning_ForbidNonFactionVoreContainer_Tip>
   <!--EN: Denied proposal leads to forced vore fight chance:-->
   <RV2_Settings_FineTuning_ForcedVoreChanceOnFailedProposal>拒绝求婚导致forcedvore战斗几率:</RV2_Settings_FineTuning_ForcedVoreChanceOnFailedProposal>
   <!--EN: The likelihood an initiator engages in combat with their target when they deny a proposal from them.-->
@@ -474,7 +474,7 @@
   <!--EN: Predator animals only use digest goal-->
   <RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal>捕食动物仅使用摘要目标点</RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal>
   <!--EN: Predator animals are animals with the base game predator icon (warg, fox, jaguar, etc.). Whenever they vore someone through normal hunting or grappling, they only use digestive vore. Turning this off means wild animals may non-fatally vore pawns.-->
-  <RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal_Tip>捕食动物是具有基础游戏捕食者图标的动物 (座狼,狐狸🦊、美洲虎等)。每当他们吃人普通狩猎或格斗的人，他们只使用消化能力吃人关闭此选项意味着野生动物可能不会死亡吃人爪子。</RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal_Tip>
+  <RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal_Tip>捕食动物是具有基础游戏捕食者图标的动物 (座狼,狐狸、美洲虎等)。每当他们吃人普通狩猎或格斗的人，他们只使用消化能力吃人关闭此选项意味着野生动物可能不会死亡吃人爪子。</RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal_Tip>
   <!--EN: Prisoners must agree to be vored-->
   <RV2_Settings_FineTuning_PrisonersMustConsentToProposal>囚犯必须同意被伏击</RV2_Settings_FineTuning_PrisonersMustConsentToProposal>
   <!--EN: Enabling this means that prisoners can deny vore proposals.-->

@@ -2,32 +2,29 @@
 <LanguageData>
   <!--翻译内容: 'Items that are considered bodily fluids.',新增于2026-02-15-->
   <!--EN: Items that are considered bodily fluids.-->
-  <Cumpilation_BodilyFluid.description>Items that are considered bodily fluids.</Cumpilation_BodilyFluid.description>
+  <Cumpilation_BodilyFluid.description>被视为体液的物品。</Cumpilation_BodilyFluid.description>
   <!--翻译内容: 'bodily fluid',新增于2026-02-15-->
   <!--EN: bodily fluid-->
-  <Cumpilation_BodilyFluid.label>bodily fluid</Cumpilation_BodilyFluid.label>
+  <Cumpilation_BodilyFluid.label>体液</Cumpilation_BodilyFluid.label>
   <!--翻译内容: 'A light and resilient but not durable material, samenstein has its use by being
             a very obtainable material. Made of processed semen, it can eventually be made by anyone
             capable of ejaculating.',新增于2026-02-15-->
   <!--EN: A light and resilient but not durable material, samenstein has its use by being
             a very obtainable material. Made of processed semen, it can eventually be made by anyone
             capable of ejaculating.-->
-  <Cumpilation_Samenstein.description>A light and resilient but not durable material, samenstein has its use by being
-            a very obtainable material. Made of processed semen, it can eventually be made by anyone
-            capable of ejaculating.</Cumpilation_Samenstein.description>
+  <Cumpilation_Samenstein.description>精结石是一种轻便且有弹性但不耐用的材料，其用途在于它是一种非常容易获取的材料。由加工过的精液制成，最终任何能够射精的人都可以制作。</Cumpilation_Samenstein.description>
   <!--翻译内容: 'samenstein',新增于2026-02-15-->
   <!--EN: samenstein-->
-  <Cumpilation_Samenstein.label>samenstein</Cumpilation_Samenstein.label>
+  <Cumpilation_Samenstein.label>精结石</Cumpilation_Samenstein.label>
   <!--翻译内容: 'samensteiny',新增于2026-02-15-->
   <!--EN: samensteiny-->
-  <Cumpilation_Samenstein.stuffProps.stuffAdjective>samensteiny</Cumpilation_Samenstein.stuffProps.stuffAdjective>
+  <Cumpilation_Samenstein.stuffProps.stuffAdjective>精结石质的</Cumpilation_Samenstein.stuffProps.stuffAdjective>
   <!--翻译内容: 'Fabric microscopically spun from microfibers made from semen. It is very tough,
             good at insulating, but highly flammable.',新增于2026-02-15-->
   <!--EN: Fabric microscopically spun from microfibers made from semen. It is very tough,
             good at insulating, but highly flammable.-->
-  <Cumpilation_Spermatuch.description>Fabric microscopically spun from microfibers made from semen. It is very tough,
-            good at insulating, but highly flammable.</Cumpilation_Spermatuch.description>
+  <Cumpilation_Spermatuch.description>由精液制成的超细纤维在微观尺度上纺成的织物。它非常坚韧，隔热性好，但高度易燃。</Cumpilation_Spermatuch.description>
   <!--翻译内容: 'spermatuch',新增于2026-02-15-->
   <!--EN: spermatuch-->
-  <Cumpilation_Spermatuch.label>spermatuch</Cumpilation_Spermatuch.label>
+  <Cumpilation_Spermatuch.label>精液布</Cumpilation_Spermatuch.label>
 </LanguageData>

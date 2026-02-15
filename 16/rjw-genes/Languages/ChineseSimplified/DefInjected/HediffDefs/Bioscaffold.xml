@@ -1,21 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--原中文: '该女性子宫内植入了生物支架网格，能够提供营养富集的环境，使胎儿发育得更加迅速。', 原英文: 'This woman has an bioscaffold mesh within her womb, providing an enriching environment for an unborn baby to grow more quickly.' -> 新英文: 'A single-use nanite-constructed lattice of organic mesh material meant to be installed inside a woman's womb prior to pregnancy. It provides an enriching environment for an unborn baby to grow more quickly.',更新于2026-02-15-->
-  <!--EN: This woman has an bioscaffold mesh within her womb, providing an enriching environment for an unborn baby to grow more quickly.-->
-  <!--重复key，需删除-->
-  <!--EN: 这是一种单次使用的纳米结构有机网状晶格材料，旨在怀孕前植入女性子宫。它能提供一个肥沃（富集）的环境，让胎儿发育得更加迅速。-->
-  <!--原中文: '这是一种单次使用的纳米结构有机网状晶格材料，旨在怀孕前植入女性子宫。它能提供一个肥沃（富集）的环境，让胎儿发育得更加迅速。', 原英文: '无' -> 新英文: 'A single-use nanite-constructed lattice of organic mesh material meant to be installed inside a woman's womb prior to pregnancy. It provides an enriching environment for an unborn baby to grow more quickly.',更新于2026-02-15-->
-  <!--EN: A single-use nanite-constructed lattice of organic mesh material meant to be installed inside a woman's womb prior to pregnancy. It provides an enriching environment for an unborn baby to grow more quickly.-->
-  <!--重复key，需删除-->
-  <!--重复key，需删除-->
-  <Bioscaffold.description>这是一种单次使用的纳米结构有机网状晶格材料，旨在怀孕前植入女性子宫。它能提供一个肥沃（富集）的环境，让胎儿发育得更加迅速。</Bioscaffold.description>
   <!--EN: A single-use nanite-constructed lattice of organic mesh material meant to be installed inside a woman's womb prior to pregnancy. It provides an enriching environment for an unborn baby to grow more quickly.-->
   <Bioscaffold.description>这是一种单次使用的纳米结构有机网状晶格材料，旨在怀孕前植入女性子宫。它能提供一个肥沃（富集）的环境，让胎儿发育得更加迅速。</Bioscaffold.description>
-  <!--EN: bioscaffold-->
-  <!--重复key，需删除-->
-  <!--重复key，需删除-->
-  <!--重复key，需删除-->
-  <Bioscaffold.label>生物支架</Bioscaffold.label>
   <!--EN: bioscaffold-->
   <Bioscaffold.label>生物支架</Bioscaffold.label>
   <!--EN: Remove the bioscaffold.-->

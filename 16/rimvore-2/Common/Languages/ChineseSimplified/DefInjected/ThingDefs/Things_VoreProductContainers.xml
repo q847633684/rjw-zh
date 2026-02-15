@@ -35,5 +35,5 @@
   <!--EN: The reeking aftermath of digestion. If you're okay with getting your hands dirty, you can dig around in it to retrieve undigested items.-->
   <RV2_Container_Scat.description>消化产生的恶臭。如果你可以把手弄脏，你可以在里面四处挖掘以回收未消化的物品。</RV2_Container_Scat.description>
   <!--EN: Scat-->
-  <RV2_Container_Scat.label>粪便💩</RV2_Container_Scat.label>
+  <RV2_Container_Scat.label>粪便</RV2_Container_Scat.label>
 </LanguageData>

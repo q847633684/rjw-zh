@@ -2,17 +2,17 @@
 <LanguageData>
   <!--翻译内容: 'Due to a drug, the cum has been changed to slug.',新增于2026-02-15-->
   <!--EN: Due to a drug, the cum has been changed to slug.-->
-  <Cumpilation_temporarySlugged.description>Due to a drug, the cum has been changed to slug.</Cumpilation_temporarySlugged.description>
+  <Cumpilation_temporarySlugged.description>由于药物作用，精液已转变为黏液。</Cumpilation_temporarySlugged.description>
   <!--翻译内容: 'temporary slugged',新增于2026-02-15-->
   <!--EN: temporary slugged-->
-  <Cumpilation_temporarySlugged.label>temporary slugged</Cumpilation_temporarySlugged.label>
+  <Cumpilation_temporarySlugged.label>临时黏液化</Cumpilation_temporarySlugged.label>
   <!--翻译内容: 'wearing off',新增于2026-02-15-->
   <!--EN: wearing off-->
-  <Cumpilation_temporarySlugged.stages.0.label>wearing off</Cumpilation_temporarySlugged.stages.0.label>
+  <Cumpilation_temporarySlugged.stages.0.label>逐渐消退</Cumpilation_temporarySlugged.stages.0.label>
   <!--翻译内容: 'altered',新增于2026-02-15-->
   <!--EN: altered-->
-  <Cumpilation_temporarySlugged.stages.1.label>altered</Cumpilation_temporarySlugged.stages.1.label>
+  <Cumpilation_temporarySlugged.stages.1.label>改变</Cumpilation_temporarySlugged.stages.1.label>
   <!--翻译内容: 'fresh',新增于2026-02-15-->
   <!--EN: fresh-->
-  <Cumpilation_temporarySlugged.stages.2.label>fresh</Cumpilation_temporarySlugged.stages.2.label>
+  <Cumpilation_temporarySlugged.stages.2.label>新鲜</Cumpilation_temporarySlugged.stages.2.label>
 </LanguageData>

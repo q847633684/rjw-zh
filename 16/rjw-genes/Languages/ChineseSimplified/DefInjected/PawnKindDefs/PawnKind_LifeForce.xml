@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: incubus-->
-  <!--重复key，需删除-->
-  <!--重复key，需删除-->
-  <!--重复key，需删除-->
   <rjw_genes_incubus.label>梦魔</rjw_genes_incubus.label>
   <!--EN: succubus-->
-  <!--重复key，需删除-->
-  <!--重复key，需删除-->
-  <!--重复key，需删除-->
   <rjw_genes_succubus.label>魅魔</rjw_genes_succubus.label>
 </LanguageData>
