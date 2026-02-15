@@ -1,59 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <loadFolders>
-	<v1.5>
-		<!-- RJW 本体 -->
-		<li IfModActive="rim.job.world">RJW/1.5</li>
-		<!-- RJW 精液系统 -->
-		<li IfModActive="rjw.cum">rjw-cum/1.5</li>
-		<!-- RJW STD（性病） -->
-		<li IfModActive="rjw.std">rjw-std/1.5</li>
-		<!-- RJW FC（流体动力学） -->
-		<li IfModActive="rjw.fc">rjw-fc/1.5</li>
-		<!-- RJW Sexperience 系列 -->
-		<li IfModActive="rjw.sexperience">rjw-Sexperience</li>
-		<li IfModActive="rjw.sexperience">rjw-Sexperience/1.5</li>
-		<li IfModActive="vanillaexpanded.skills">rjw-sexperience/Mod Compatibility/Vanilla Skills Expanded</li>
-		<li IfModActive="rjw.cum">rjw-sexperience/Mod Compatibility/1.5/RJW Cum</li>
-		<!-- RJW Sexperience-Ideology（意识形态兼容） -->
-		<li IfModActive="rjw.sexperience.ideology">rjw-sexperience-ideology</li>
-		<li IfModActive="rjw.sexperience.ideology">rjw-sexperience-ideology/1.5</li>
-		<!-- RJW 可挤奶殖民者 -->
-		<li IfModActive="rjw.milk.humanoid">rjw-mc/1.5</li>
-		<!-- RJW 月经系统 -->
-		<li IfModActive="rjw.menstruation">rjw-menstruation/1.5</li>
-		<!-- RJW 基因扩展 -->
-		<li IfModActive="vegapnk.rjw.genes">rjw-Genes</li>
-		<li IfModActive="vegapnk.rjw.genes">rjw-Genes/Common</li>
-		<li IfModActive="vanillaracesexpanded.android">rjw-Genes/Mods/Android</li>
-		<li IfModActive="vanillaracesexpanded.genie">rjw-Genes/Mods/Genie</li>
-		<li IfModActive="LustLicentia.rjwlabs">rjw-Genes/Mods/LicentiaLabs</li>
-		<li IfModNotActive="asmr.rjw.racesupport">rjw-Genes/Mods/NotRaceSupport</li>
-		<li IfModActive="rjw.sexperience">rjw-Genes/Mods/Sexperience</li>
-		<li IfModActive="VanillaExpanded.VGeneticsE">rjw-Genes/Mods/VE_Genetics</li>
-		<!-- RJW C0ffee 意识形态附加 -->
-		<li IfModActive="c0ffee.rjw.ideologyaddons">C0ffeeRIA</li>
-		<li IfModActive="rjw.milk.humanoid">C0ffeeRIA/CRIALactation</li>
-		<li IfModActive="rjw.milk.humanoid">C0ffeeRIA/CRIALactation/1.5</li>
-		<li IfModActive="c0ffee.rjw.events">C0ffeeRIA/CRIAOrgy</li>
-		<!-- RJW 事件系统 -->
-		<li IfModActive="c0ffee.rjw.events">rjw-events</li>
-		<!-- RJW 脱衣舞杆 -->
-		<li IfModActive="cryptidfarmer.stripper">StripperPole/1.5</li>
-		<!-- RJW 隐私系统 -->
-		<li IfModActive="abscon.privacy.please">privacyplease</li>
-		<li IfModActive="abscon.privacy.please">privacyplease/1.5</li>
-		<!-- 未翻译的 mod -->
-		<li IfModActive="rjw.dirtytalk">Dirty Talk</li>
-		<!-- 已注释的 mod（暂未启用的翻译）
-		<li IfModActive="lustlicentia.rjwlabs">licentialabs</li>
-		<li IfModActive="calamabanana.rjw.brothelcolony">brothelcolony</li>
-		<li IfModActive="rjw.whoring">rjw-whoring</li>
-		<li IfModActive="Ed86.rjwia">rjw-ia</li>
-		<li IfModActive="rimworld.ekss.rjwex">rjw-ex</li>
-		<li IfModActive="s16.core">s16s-extension</li>
-		<li IfModActive="s16.milk">s16s-extension-milk-economy</li>
-		-->
-	</v1.5>
 	<v1.6>
 		<!-- RJW 本体 1.6 版 完成-->
 		<li IfModActive="rim.job.world">16/RJW</li>
@@ -124,6 +70,11 @@
 		<li IfModActive="rim.job.world.onahole.ext">16/rimjobworld-onahole-extension</li>
 		<!-- RJWPE儿童	完成-->
 		<li IfModActive="rim.job.world.pe">16/RJWPE</li>
+			<li IfModActive="Ludeon.RimWorld.Ideology">16/RJWPE/Ideology</li><!--未完成-->
+			<li IfModActive="Ludeon.RimWorld.Biotech">16/RJWPE/Biotech</li><!--未完成-->
+			<li IfModActive="Vegapnk.rjw.genes">16/RJWPE/Genes</li><!--未完成-->
+			<li IfModActive="calamabanana.rjw.brothelcolony">16/RJWPE/BrothelColony</li><!--未完成-->
+			<li IfModActive="c0ffee.rimworld.animations">16/RJWPE/Voice Patch</li><!--未完成-->
 		<!-- RJW 风味文字 完成-->
 		<li IfModActive="moth.rjw.flavor">16/rjw-flavor-text</li>
 		<!-- RJW 特征 完成-->

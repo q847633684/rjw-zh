@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'Enabling this causes all limitations and consequences of ideology precepts to be applied.',新增于2026-02-16-->
+  <!--EN: Enabling this causes all limitations and consequences of ideology precepts to be applied.-->
+  <ideology_precept_effects_desc>启用此选项后，文化教条的所有限制和后果都将生效。</ideology_precept_effects_desc>
+  <!--翻译内容: 'Enable precept effects',新增于2026-02-16-->
+  <!--EN: Enable precept effects-->
+  <ideology_precept_effects_title>启用教条效果</ideology_precept_effects_title>
+  <!--翻译内容: 'Role requirements',新增于2026-02-16-->
+  <!--EN: Role requirements-->
+  <roleRequirement_header>角色要求</roleRequirement_header>
+  <!--翻译内容: 'Eligible ages is based on the race's minimum age for sex.',新增于2026-02-16-->
+  <!--EN: Eligible ages is based on the race's minimum age for sex.-->
+  <roleRequirement_notChild_Complex_desc>合格年龄基于该种族的最低性行为年龄计算。</roleRequirement_notChild_Complex_desc>
+  <!--翻译内容: 'Calculated',新增于2026-02-16-->
+  <!--EN: Calculated-->
+  <roleRequirement_notChild_Complex_title>计算模式</roleRequirement_notChild_Complex_title>
+  <!--翻译内容: 'No patch will be applied.',新增于2026-02-16-->
+  <!--EN: No patch will be applied.-->
+  <roleRequirement_notChild_None_desc>不会应用任何补丁。</roleRequirement_notChild_None_desc>
+  <!--翻译内容: 'Off',新增于2026-02-16-->
+  <!--EN: Off-->
+  <roleRequirement_notChild_None_title>关闭</roleRequirement_notChild_None_title>
+  <!--翻译内容: 'All ages will become eligible.',新增于2026-02-16-->
+  <!--EN: All ages will become eligible.-->
+  <roleRequirement_notChild_Simple_desc>所有年龄都将符合条件。</roleRequirement_notChild_Simple_desc>
+  <!--翻译内容: 'Simple',新增于2026-02-16-->
+  <!--EN: Simple-->
+  <roleRequirement_notChild_Simple_title>简单模式</roleRequirement_notChild_Simple_title>
+  <!--翻译内容: 'Method of patching for the 'NotChild' requirement.',新增于2026-02-16-->
+  <!--EN: Method of patching for the 'NotChild' requirement.-->
+  <roleRequirement_notChild_desc>针对“非儿童”要求的补丁方法。</roleRequirement_notChild_desc>
+  <!--翻译内容: 'Child patch',新增于2026-02-16-->
+  <!--EN: Child patch-->
+  <roleRequirement_notChild_title>儿童补丁</roleRequirement_notChild_title>
+  <!--翻译内容: 'Ideology',新增于2026-02-16-->
+  <!--EN: Ideology-->
+  <settings_tabs_ideology>文化</settings_tabs_ideology>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'harming children',新增于2026-02-16-->
+  <!--EN: harming children-->
+  <Harm_Child.label>伤害儿童</Harm_Child.label>
+  <!--翻译内容: 'Children must be protected. To be violent with a child is an irredeemable act.',新增于2026-02-16-->
+  <!--EN: Children must be protected. To be violent with a child is an irredeemable act.-->
+  <Harm_Child_Abhorrent.description>儿童必须受到保护。对儿童施暴是一种不可原谅的行为。</Harm_Child_Abhorrent.description>
+  <!--翻译内容: 'abhorrent',新增于2026-02-16-->
+  <!--EN: abhorrent-->
+  <Harm_Child_Abhorrent.label>令人憎恶</Harm_Child_Abhorrent.label>
+  <!--翻译内容: 'A child is just another mouth to feed. Either they are useful or they are not.',新增于2026-02-16-->
+  <!--EN: A child is just another mouth to feed. Either they are useful or they are not.-->
+  <Harm_Child_Accepted.description>孩子只是另一张要吃饭的嘴。他们要么有用，要么没用。</Harm_Child_Accepted.description>
+  <!--翻译内容: 'accepted',新增于2026-02-16-->
+  <!--EN: accepted-->
+  <Harm_Child_Accepted.label>可接受</Harm_Child_Accepted.label>
+  <!--翻译内容: 'Only the honorless, the weak, or the desperate resort to harming children.',新增于2026-02-16-->
+  <!--EN: Only the honorless, the weak, or the desperate resort to harming children.-->
+  <Harm_Child_Disapproved.description>只有无耻、软弱或绝望的人才会去伤害儿童。</Harm_Child_Disapproved.description>
+  <!--翻译内容: 'disapproved',新增于2026-02-16-->
+  <!--EN: disapproved-->
+  <Harm_Child_Disapproved.label>不赞成</Harm_Child_Disapproved.label>
+  <!--翻译内容: 'Few are the pleasures deeper than drawing the blood of the innocent.',新增于2026-02-16-->
+  <!--EN: Few are the pleasures deeper than drawing the blood of the innocent.-->
+  <Harm_Child_Honorable.description>很少有比让无辜者流血更深层的快感。</Harm_Child_Honorable.description>
+  <!--翻译内容: 'honorable',新增于2026-02-16-->
+  <!--EN: honorable-->
+  <Harm_Child_Honorable.label>光荣</Harm_Child_Honorable.label>
+  <!--翻译内容: 'Regardless of our position on violence between adults, harming a child is despicable.',新增于2026-02-16-->
+  <!--EN: Regardless of our position on violence between adults, harming a child is despicable.-->
+  <Harm_Child_Prohibited.description>无论我们对成人间暴力的立场如何，伤害儿童都是可鄙的。</Harm_Child_Prohibited.description>
+  <!--翻译内容: 'prohibited',新增于2026-02-16-->
+  <!--EN: prohibited-->
+  <Harm_Child_Prohibited.label>禁止</Harm_Child_Prohibited.label>
+  <!--翻译内容: 'harmed a child',新增于2026-02-16-->
+  <!--EN: harmed a child-->
+  <Harmed_Child.label>伤害了儿童</Harmed_Child.label>
+</LanguageData>

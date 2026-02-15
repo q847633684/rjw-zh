@@ -3,19 +3,19 @@
   <!--EN: RimJobWorld - Pedophilia Edition-->
   <RJWPE_name>RJW - 幼儿(PE)</RJWPE_name>
   <!--EN: Adult -> Child-->
-  <attraction_age_adult_to_child_title>成年 -> 幼年</attraction_age_adult_to_child_title>
+  <attraction_age_adult_to_child_title>成年 -&gt; 幼年</attraction_age_adult_to_child_title>
   <!--EN: Child -> Adult-->
-  <attraction_age_child_to_adult_title>幼年 -> 成年</attraction_age_child_to_adult_title>
+  <attraction_age_child_to_adult_title>幼年 -&gt; 成年</attraction_age_child_to_adult_title>
   <!--EN: Child -> Child-->
-  <attraction_age_child_to_child_title>幼年 -> 幼年</attraction_age_child_to_child_title>
+  <attraction_age_child_to_child_title>幼年 -&gt; 幼年</attraction_age_child_to_child_title>
   <!--EN: Default age attractiveness multiplier-->
   <attraction_age_header>默认年龄吸引力倍数</attraction_age_header>
   <!--EN: Adult -> Child-->
-  <attraction_bodysize_adult_to_child_title>成年 -> 幼年</attraction_bodysize_adult_to_child_title>
+  <attraction_bodysize_adult_to_child_title>成年 -&gt; 幼年</attraction_bodysize_adult_to_child_title>
   <!--EN: Child -> Adult-->
-  <attraction_bodysize_child_to_adult_title>幼年 -> 成年</attraction_bodysize_child_to_adult_title>
+  <attraction_bodysize_child_to_adult_title>幼年 -&gt; 成年</attraction_bodysize_child_to_adult_title>
   <!--EN: Child -> Child-->
-  <attraction_bodysize_child_to_child_title>幼年 -> 幼年</attraction_bodysize_child_to_child_title>
+  <attraction_bodysize_child_to_child_title>幼年 -&gt; 幼年</attraction_bodysize_child_to_child_title>
   <!--EN: Default relative body size attractiveness multiplier-->
   <attraction_bodysize_header>默认相对体型吸引力倍数</attraction_bodysize_header>
   <!--EN: Modify-->
@@ -47,7 +47,7 @@
   <!--EN: Genitals development-->
   <bodypart_curve_genitals_title>生殖器发育度</bodypart_curve_genitals_title>
   <!--EN: -> Age (for obvious reasons) cannot go below 0. \n->Development is a multiplier for the size of the body part, and as such limited from 0 to 1.-->
-  <bodypart_curve_info>-> 年龄（显而易见）不能低于 0。\n-> 发育度是身体部位尺寸的倍数，范围被限制在 0 到 1 之间。</bodypart_curve_info>
+  <bodypart_curve_info>-&gt; 年龄（显而易见）不能低于 0。\n-&gt; 发育度是身体部位尺寸的倍数，范围被限制在 0 到 1 之间。</bodypart_curve_info>
   <!--EN: Genitals-->
   <bodypart_genitals_title>生殖器</bodypart_genitals_title>
   <!--EN: Body parts development-->
@@ -57,7 +57,7 @@
   <!--EN: Y-->
   <curve_editor_axis_y>Y</curve_editor_axis_y>
   <!--EN: The editor allows you to add or remove points in a visual graph. \n-> Right-click to add or remove points. Left-click to drag the graph or move points. \n-> Scroll to zoom. Hold shift to zoom horizontally. Hold ctrl to zoom vertically. \n-> The points are automatically sorted, meaning if you drag a point left or right past another point, it will move that point along with the one you are dragging.-->
-  <curve_editor_info>编辑器允许你在可视化图表中添加或移除点。\n-> 右键点击：添加或移除点。左键点击：拖动图表或移动点。\n-> 滚轮：缩放。按住 Shift 水平缩放。按住 Ctrl 垂直缩放。\n-> 点位会自动排序，这意味着如果你将一个点左右拖动超过另一个点，它会连带移动该点。</curve_editor_info>
+  <curve_editor_info>编辑器允许你在可视化图表中添加或移除点。\n-&gt; 右键点击：添加或移除点。左键点击：拖动图表或移动点。\n-&gt; 滚轮：缩放。按住 Shift 水平缩放。按住 Ctrl 垂直缩放。\n-&gt; 点位会自动排序，这意味着如果你将一个点左右拖动超过另一个点，它会连带移动该点。</curve_editor_info>
   <!--EN: Fertility editor-->
   <curve_editor_title>生育力编辑器</curve_editor_title>
   <!--EN: Apply-->
@@ -93,7 +93,7 @@
   <!--EN: Female fertility-->
   <fertility_curve_female_title>女性生育能力</fertility_curve_female_title>
   <!--EN: -> You cannot go below 0 for either fertility or age. \n-> A minimum of 0.1 fertility is required for a pawn to be able to reproduce.-->
-  <fertility_curve_info>-> 年龄或生育能力均不能低于 0。\n-> 小人至少需要 0.1 的生育能力才能进行繁殖。</fertility_curve_info>
+  <fertility_curve_info>-&gt; 年龄或生育能力均不能低于 0。\n-&gt; 小人至少需要 0.1 的生育能力才能进行繁殖。</fertility_curve_info>
   <!--EN: Male-->
   <fertility_curve_male_edit>男性</fertility_curve_male_edit>
   <!--EN: Male fertility-->
@@ -118,8 +118,12 @@
   <global_reset>重置</global_reset>
   <!--EN: Back-->
   <import_back_button_title>返回</import_back_button_title>
-  <import_header>请在此粘贴你的导出代码。</import_header>
-  <import_import_button_title>导入</import_import_button_title>
+  <!--原中文: '请在此粘贴你的导出代码。', 原英文: 'Back' -> 新英文: 'Please paste your export code here.',更新于2026-02-16-->
+  <!--EN: Back-->
+  <import_header>请在此处粘贴您的导出代码。</import_header>
+  <!--原中文: '导入', 原英文: 'Back' -> 新英文: 'Import',更新于2026-02-16-->
+  <!--EN: Back-->
+  <import_import_button_title>进口</import_import_button_title>
   <!--EN: The export code can not be applied on this page.-->
   <import_invalid_code>导出代码无法在此页面应用。</import_invalid_code>
   <!--EN: Load settings-->
@@ -195,7 +199,7 @@
   <!--EN: Female sex need factor-->
   <need_factor_curve_female_title>女性性需求系数</need_factor_curve_female_title>
   <!--EN: -> You cannot go below 0 for either factor or age.-->
-  <need_factor_curve_info>-> You cannot go below 0 for either factor or age.</need_factor_curve_info>
+  <need_factor_curve_info>-&gt; 无论是因素还是年龄，都不能低于 0。</need_factor_curve_info>
   <!--EN: Male-->
   <need_factor_curve_male_edit>男性</need_factor_curve_male_edit>
   <!--EN: Male sex need factor-->
@@ -260,7 +264,7 @@
   <!--EN: Females-->
   <romance_relative_curve_female_edit>女性</romance_relative_curve_female_edit>
   <!--EN: -> Relative age is based on the age difference between pawns.-->
-  <romance_relative_curve_info>-> 相对年龄基于小人之间的年龄差。</romance_relative_curve_info>
+  <romance_relative_curve_info>-&gt; 相对年龄基于小人之间的年龄差。</romance_relative_curve_info>
   <!--EN: Males-->
   <romance_relative_curve_male_edit>男性</romance_relative_curve_male_edit>
   <!--EN: Age relative modifier-->
@@ -296,7 +300,7 @@
   <!--EN: Age attraction multiplier-->
   <trait_curve_attraction_age_edit>年龄吸引力倍数</trait_curve_attraction_age_edit>
   <!--EN: -> Multiplier ranges from 0 to 10. ->Values past the age of maturity for a race are not used.-->
-  <trait_curve_attraction_age_info>-> 倍数范围为 0 到 10。\n-> 超过种族成熟年龄的数值将失效。</trait_curve_attraction_age_info>
+  <trait_curve_attraction_age_info>-&gt; 倍数范围为 0 到 10。\n-&gt; 超过种族成熟年龄的数值将失效。</trait_curve_attraction_age_info>
   <!--EN: Attraction editor-->
   <trait_curve_attraction_age_title>吸引力编辑器</trait_curve_attraction_age_title>
   <!--EN: Age-->
@@ -306,7 +310,7 @@
   <!--EN: Body size attraction multiplier-->
   <trait_curve_attraction_bodysize_edit>体型吸引力倍数</trait_curve_attraction_bodysize_edit>
   <!--EN: -> Multiplier ranges from 0 to 10. ->Values past the age of maturity for a race are not used.-->
-  <trait_curve_attraction_bodysize_info>-> 倍数范围为 0 到 10。\n-> 超过种族成熟年龄的数值将失效。</trait_curve_attraction_bodysize_info>
+  <trait_curve_attraction_bodysize_info>-&gt; 倍数范围为 0 到 10。\n-&gt; 超过种族成熟年龄的数值将失效。</trait_curve_attraction_bodysize_info>
   <!--EN: Body size attraction editor-->
   <trait_curve_attraction_bodysize_title>体型吸引力编辑器</trait_curve_attraction_bodysize_title>
   <!--EN: Use [PAWN_nameDef] as a placeholder for the name of the pawn.-->
@@ -315,5 +319,4 @@
   <trait_description_title>描述</trait_description_title>
   <!--EN: Name-->
   <trait_name_title>名称</trait_name_title>
-  
 </LanguageData>

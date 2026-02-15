@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<settings_tabs_biotech>Biotech</settings_tabs_biotech>
+	
+	<baby_header>Baby options</baby_header>
+	<baby_disable_giggling_title>Disable giggling</baby_disable_giggling_title>
+	
+	<ageless_header>Ageless gene</ageless_header>
+	<ageless_age_tick_factor_title>Age tick factor</ageless_age_tick_factor_title>
+	<ageless_age_tick_factor_desc>Multiplier for the amount by which a pawn (biologically) ages per tick.</ageless_age_tick_factor_desc>
+	<ageless_age_tick_factor_edit>Edit</ageless_age_tick_factor_edit>
+	<ageless_age_tick_factor_editor_title>Ageless gene age tick factor</ageless_age_tick_factor_editor_title>
+	<ageless_age_tick_factor_editor_info>-> As this is for becoming ageless, you cannot go above a multipler of 1.</ageless_age_tick_factor_editor_info>
+	<ageless_age_tick_factor_editor_axis_x>Age</ageless_age_tick_factor_editor_axis_x>
+	<ageless_age_tick_factor_editor_axis_y>Multiplier</ageless_age_tick_factor_editor_axis_y>
+	
+	<ageless_gene_desc>Carriers of this gene have archites in the bloodstream which continuously reverse the process of aging. Starting at the age of {0}, carriers begin to biologically age slower. By {1}, the aging process stops completely.</ageless_gene_desc>
+</LanguageData>
