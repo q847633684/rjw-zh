@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: {0} has changed their belief in {1}-->
+  <RV2_OutcomeMessage_IdeologyConversionAttempt>{0}改变了他们的信仰{1}</RV2_OutcomeMessage_IdeologyConversionAttempt>
+  <!--EN: {0} has been reassured in their blief in {1}-->
+  <RV2_OutcomeMessage_IdeologyReassured>{0}因其在{1}</RV2_OutcomeMessage_IdeologyReassured>
+</LanguageData>

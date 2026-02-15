@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Family Died Thoughts -->
+  <!--原中文: '我的儿子{0}死了', 原英文: '无' -> 新英文: 'my son {0} died',更新于2026-02-14-->
+  <!--EN: my son {0} died-->
+  <MySonDied_Beast.stages.0.label>我的儿子{0}死了</MySonDied_Beast.stages.0.label>
+  <!--原中文: '我的儿子死了，我的血肉至亲啊……', 原英文: '无' -> 新英文: 'My son is dead. My own flesh and blood...',更新于2026-02-14-->
+  <!--EN: My son is dead. My own flesh and blood...-->
+  <MySonDied_Beast.stages.0.description>我的儿子死了，我的血肉至亲啊……</MySonDied_Beast.stages.0.description>
+  <!--原中文: '我的女儿{0}死了', 原英文: '无' -> 新英文: 'my daughter {0} died',更新于2026-02-14-->
+  <!--EN: my daughter {0} died-->
+  <MyDaughterDied_Beast.stages.0.label>我的女儿{0}死了</MyDaughterDied_Beast.stages.0.label>
+  <!--原中文: '我的女儿死了，我的血肉至亲啊……', 原英文: '无' -> 新英文: 'My daughter is dead. My own flesh and blood...',更新于2026-02-14-->
+  <!--EN: My daughter is dead. My own flesh and blood...-->
+  <MyDaughterDied_Beast.stages.0.description>我的女儿死了，我的血肉至亲啊……</MyDaughterDied_Beast.stages.0.description>
+  <!--原中文: '我的兄弟{0}死了', 原英文: '无' -> 新英文: 'my brother {0} died',更新于2026-02-14-->
+  <!--EN: my brother {0} died-->
+  <MyBrotherDied_Beast.stages.0.label>我的兄弟{0}死了</MyBrotherDied_Beast.stages.0.label>
+  <!--原中文: '我的兄弟死了，我的血肉至亲啊……', 原英文: '无' -> 新英文: 'My brother died. My own flesh and blood...',更新于2026-02-14-->
+  <!--EN: My brother died. My own flesh and blood...-->
+  <MyBrotherDied_Beast.stages.0.description>我的兄弟死了，我的血肉至亲啊……</MyBrotherDied_Beast.stages.0.description>
+  <!--原中文: '我的姐妹{0}死了', 原英文: '无' -> 新英文: 'my sister {0} died',更新于2026-02-14-->
+  <!--EN: my sister {0} died-->
+  <MySisterDied_Beast.stages.0.label>我的姐妹{0}死了</MySisterDied_Beast.stages.0.label>
+  <!--原中文: '我的姐妹死了，我的血肉至亲啊……', 原英文: '无' -> 新英文: 'My sister died. My own flesh and blood...',更新于2026-02-14-->
+  <!--EN: My sister died. My own flesh and blood...-->
+  <MySisterDied_Beast.stages.0.description>我的姐妹死了，我的血肉至亲啊……</MySisterDied_Beast.stages.0.description>
+  <!--原中文: '我的孙儿{0}死了', 原英文: '无' -> 新英文: 'my grandchild {0} died',更新于2026-02-14-->
+  <!--EN: my grandchild {0} died-->
+  <MyGrandchildDied_Beast.stages.0.label>我的孙儿{0}死了</MyGrandchildDied_Beast.stages.0.label>
+  <!--原中文: '我的孙儿死了，我的血肉至亲啊……', 原英文: '无' -> 新英文: 'My grandchild died. My own flesh and blood...',更新于2026-02-14-->
+  <!--EN: My grandchild died. My own flesh and blood...-->
+  <MyGrandchildDied_Beast.stages.0.description>我的孙儿死了，我的血肉至亲啊……</MyGrandchildDied_Beast.stages.0.description>
+  <!--原中文: '我的侄女{0}死了', 原英文: '无' -> 新英文: 'my niece {0} died',更新于2026-02-14-->
+  <!--EN: my niece {0} died-->
+  <MyNieceDied_Beast.stages.0.label>我的侄女{0}死了</MyNieceDied_Beast.stages.0.label>
+  <!--原中文: '我的侄女死了，她曾是一个那么美妙的孩子。', 原英文: '无' -> 新英文: 'My niece died. Such a wonderful child.',更新于2026-02-14-->
+  <!--EN: My niece died. Such a wonderful child.-->
+  <MyNieceDied_Beast.stages.0.description>我的侄女死了，她曾是一个那么美妙的孩子。</MyNieceDied_Beast.stages.0.description>
+  <!--原中文: '我的侄子{0}死了', 原英文: '无' -> 新英文: 'my nephew {0} died',更新于2026-02-14-->
+  <!--EN: my nephew {0} died-->
+  <MyNephewDied_Beast.stages.0.label>我的侄子{0}死了</MyNephewDied_Beast.stages.0.label>
+  <!--原中文: '我的侄子死了，他曾是一个那么美妙的孩子。', 原英文: '无' -> 新英文: 'My nephew died. Such a wonderful child.',更新于2026-02-14-->
+  <!--EN: My nephew died. Such a wonderful child.-->
+  <MyNephewDied_Beast.stages.0.description>我的侄子死了，他曾是一个那么美妙的孩子。</MyNephewDied_Beast.stages.0.description>
+  <!--原中文: '我的半同胞{0}死了', 原英文: '无' -> 新英文: 'my half-sibling {0} died',更新于2026-02-14-->
+  <!--EN: my half-sibling {0} died-->
+  <MyHalfSiblingDied_Beast.stages.0.label>我的半同胞{0}死了</MyHalfSiblingDied_Beast.stages.0.label>
+  <!--原中文: '我的半同胞死了，我的血肉至亲啊……', 原英文: '无' -> 新英文: 'My half-sibling died. My own flesh and blood...',更新于2026-02-14-->
+  <!--EN: My half-sibling died. My own flesh and blood...-->
+  <MyHalfSiblingDied_Beast.stages.0.description>我的半同胞死了，我的血肉至亲啊……</MyHalfSiblingDied_Beast.stages.0.description>
+  <!--原中文: '我的姨妈{0}死了', 原英文: '无' -> 新英文: 'my aunt {0} died',更新于2026-02-14-->
+  <!--EN: my aunt {0} died-->
+  <MyAuntDied_Beast.stages.0.label>我的姨妈{0}死了</MyAuntDied_Beast.stages.0.label>
+  <!--原中文: '我的姨妈死了', 原英文: '无' -> 新英文: 'My aunt died.',更新于2026-02-14-->
+  <!--EN: My aunt died.-->
+  <MyAuntDied_Beast.stages.0.description>我的姨妈死了</MyAuntDied_Beast.stages.0.description>
+  <!--原中文: '我的叔叔{0}死了', 原英文: '无' -> 新英文: 'my uncle {0} died',更新于2026-02-14-->
+  <!--EN: my uncle {0} died-->
+  <MyUncleDied_Beast.stages.0.label>我的叔叔{0}死了</MyUncleDied_Beast.stages.0.label>
+  <!--原中文: '我的叔叔死了。', 原英文: '无' -> 新英文: 'My uncle died.',更新于2026-02-14-->
+  <!--EN: My uncle died.-->
+  <MyUncleDied_Beast.stages.0.description>我的叔叔死了。</MyUncleDied_Beast.stages.0.description>
+  <!--原中文: '我的祖父母{0}死了', 原英文: '无' -> 新英文: 'my grandparent {0} died',更新于2026-02-14-->
+  <!--EN: my grandparent {0} died-->
+  <MyGrandparentDied_Beast.stages.0.label>我的祖父母{0}死了</MyGrandparentDied_Beast.stages.0.label>
+  <!--原中文: '我的祖父母死了。', 原英文: '无' -> 新英文: 'My grandparent died.',更新于2026-02-14-->
+  <!--EN: My grandparent died.-->
+  <MyGrandparentDied_Beast.stages.0.description>我的祖父母死了。</MyGrandparentDied_Beast.stages.0.description>
+  <!--原中文: '我的表亲{0}死了', 原英文: '无' -> 新英文: 'my cousin {0} died',更新于2026-02-14-->
+  <!--EN: my cousin {0} died-->
+  <MyCousinDied_Beast.stages.0.label>我的表亲{0}死了</MyCousinDied_Beast.stages.0.label>
+  <!--原中文: '我的表亲死了，我的血肉至亲啊……', 原英文: '无' -> 新英文: 'My cousin died. My own flesh and blood...',更新于2026-02-14-->
+  <!--EN: My cousin died. My own flesh and blood...-->
+  <MyCousinDied_Beast.stages.0.description>我的表亲死了，我的血肉至亲啊……</MyCousinDied_Beast.stages.0.description>
+  <!--原中文: '我的亲戚{0}死了', 原英文: '无' -> 新英文: 'my kin {0} died',更新于2026-02-14-->
+  <!--EN: my kin {0} died-->
+  <MyKinDied_Beast.stages.0.label>我的亲戚{0}死了</MyKinDied_Beast.stages.0.label>
+  <!--原中文: '我的亲戚死了。', 原英文: '无' -> 新英文: 'My kin died.',更新于2026-02-14-->
+  <!--EN: My kin died.-->
+  <MyKinDied_Beast.stages.0.description>我的亲戚死了。</MyKinDied_Beast.stages.0.description>
+  <!-- Family Lost Thoughts -->
+  <!--原中文: '我的儿子{0}失踪了', 原英文: '无' -> 新英文: 'my son {0} lost',更新于2026-02-14-->
+  <!--EN: my son {0} lost-->
+  <MySonLost_Beast.stages.0.label>我的儿子{0}失踪了</MySonLost_Beast.stages.0.label>
+  <!--原中文: '我的儿子失踪了，我希望他能有一日回到我们身边。', 原英文: '无' -> 新英文: 'My son has gone lost. I hope he will get back to us someday.',更新于2026-02-14-->
+  <!--EN: My son has gone lost. I hope he will get back to us someday.-->
+  <MySonLost_Beast.stages.0.description>我的儿子失踪了，我希望他能有一日回到我们身边。</MySonLost_Beast.stages.0.description>
+  <!--原中文: '我的女儿{0}失踪了', 原英文: '无' -> 新英文: 'my daughter {0} lost',更新于2026-02-14-->
+  <!--EN: my daughter {0} lost-->
+  <MyDaughterLost_Beast.stages.0.label>我的女儿{0}失踪了</MyDaughterLost_Beast.stages.0.label>
+  <!--原中文: '我的女儿失踪了，我希望她能有一日回到我们身边。', 原英文: '无' -> 新英文: 'My daughter has gone lost. I hope she will get back to us someday.',更新于2026-02-14-->
+  <!--EN: My daughter has gone lost. I hope she will get back to us someday.-->
+  <MyDaughterLost_Beast.stages.0.description>我的女儿失踪了，我希望她能有一日回到我们身边。</MyDaughterLost_Beast.stages.0.description>
+  <!--原中文: '我的兄弟{0}失踪了', 原英文: '无' -> 新英文: 'my brother {0} lost',更新于2026-02-14-->
+  <!--EN: my brother {0} lost-->
+  <MyBrotherLost_Beast.stages.0.label>我的兄弟{0}失踪了</MyBrotherLost_Beast.stages.0.label>
+  <!--原中文: '我的兄弟失踪了，我希望他能有一日回到我们身边。', 原英文: '无' -> 新英文: 'My brother has gone lost. I hope he will get back to us someday.',更新于2026-02-14-->
+  <!--EN: My brother has gone lost. I hope he will get back to us someday.-->
+  <MyBrotherLost_Beast.stages.0.description>我的兄弟失踪了，我希望他能有一日回到我们身边。</MyBrotherLost_Beast.stages.0.description>
+  <!--原中文: '我的姐妹{0}失踪了', 原英文: '无' -> 新英文: 'my sister {0} lost',更新于2026-02-14-->
+  <!--EN: my sister {0} lost-->
+  <MySisterLost_Beast.stages.0.label>我的姐妹{0}失踪了</MySisterLost_Beast.stages.0.label>
+  <!--原中文: '我的姐妹失踪了，我希望她能有一日回到我们身边。', 原英文: '无' -> 新英文: 'My sister has gone lost. I hope she will get back to us someday.',更新于2026-02-14-->
+  <!--EN: My sister has gone lost. I hope she will get back to us someday.-->
+  <MySisterLost_Beast.stages.0.description>我的姐妹失踪了，我希望她能有一日回到我们身边。</MySisterLost_Beast.stages.0.description>
+  <!--原中文: '我的孙儿{0}失踪了', 原英文: '无' -> 新英文: 'my grandchild {0} lost',更新于2026-02-14-->
+  <!--EN: my grandchild {0} lost-->
+  <MyGrandchildLost_Beast.stages.0.label>我的孙儿{0}失踪了</MyGrandchildLost_Beast.stages.0.label>
+  <!--原中文: '我的孙儿失踪了，我希望能有一日重新团聚。', 原英文: '无' -> 新英文: 'My grandchild has gone lost. I hope they will get back to us someday.',更新于2026-02-14-->
+  <!--EN: My grandchild has gone lost. I hope they will get back to us someday.-->
+  <MyGrandchildLost_Beast.stages.0.description>我的孙儿失踪了，我希望能有一日重新团聚。</MyGrandchildLost_Beast.stages.0.description>
+  <!--原中文: '我的侄女{0}失踪了', 原英文: '无' -> 新英文: 'my niece {0} lost',更新于2026-02-14-->
+  <!--EN: my niece {0} lost-->
+  <MyNieceLost_Beast.stages.0.label>我的侄女{0}失踪了</MyNieceLost_Beast.stages.0.label>
+  <!--原中文: '我的侄女失踪了，我希望她能有一日回到我们身边。', 原英文: '无' -> 新英文: 'My niece has gone lost. I hope she will get back to us someday.',更新于2026-02-14-->
+  <!--EN: My niece has gone lost. I hope she will get back to us someday.-->
+  <MyNieceLost_Beast.stages.0.description>我的侄女失踪了，我希望她能有一日回到我们身边。</MyNieceLost_Beast.stages.0.description>
+  <!--原中文: '我的侄子{0}失踪了', 原英文: '无' -> 新英文: 'my nephew {0} lost',更新于2026-02-14-->
+  <!--EN: my nephew {0} lost-->
+  <MyNephewLost_Beast.stages.0.label>我的侄子{0}失踪了</MyNephewLost_Beast.stages.0.label>
+  <!--原中文: '我的侄子失踪了，我希望他能有一日回到我们身边。', 原英文: '无' -> 新英文: 'My nephew has gone lost. I hope he will get back to us someday.',更新于2026-02-14-->
+  <!--EN: My nephew has gone lost. I hope he will get back to us someday.-->
+  <MyNephewLost_Beast.stages.0.description>我的侄子失踪了，我希望他能有一日回到我们身边。</MyNephewLost_Beast.stages.0.description>
+  <!--原中文: '我的半同胞{0}失踪了', 原英文: '无' -> 新英文: 'my half-sibling {0} lost',更新于2026-02-14-->
+  <!--EN: my half-sibling {0} lost-->
+  <MyHalfSiblingLost_Beast.stages.0.label>我的半同胞{0}失踪了</MyHalfSiblingLost_Beast.stages.0.label>
+  <!--原中文: '我的半同胞失踪了。', 原英文: '无' -> 新英文: 'My half-sibling has gone lost.',更新于2026-02-14-->
+  <!--EN: My half-sibling has gone lost.-->
+  <MyHalfSiblingLost_Beast.stages.0.description>我的半同胞失踪了。</MyHalfSiblingLost_Beast.stages.0.description>
+  <!--原中文: '我的姨妈{0}失踪了', 原英文: '无' -> 新英文: 'my aunt {0} lost',更新于2026-02-14-->
+  <!--EN: my aunt {0} lost-->
+  <MyAuntLost_Beast.stages.0.label>我的姨妈{0}失踪了</MyAuntLost_Beast.stages.0.label>
+  <!--原中文: '我的姨妈失踪了，我希望她能有一日回到我们身边。', 原英文: '无' -> 新英文: 'My aunt has gone lost. I hope she will get back to us someday.',更新于2026-02-14-->
+  <!--EN: My aunt has gone lost. I hope she will get back to us someday.-->
+  <MyAuntLost_Beast.stages.0.description>我的姨妈失踪了，我希望她能有一日回到我们身边。</MyAuntLost_Beast.stages.0.description>
+  <!--原中文: '我的叔叔{0}失踪了', 原英文: '无' -> 新英文: 'my uncle {0} lost',更新于2026-02-14-->
+  <!--EN: my uncle {0} lost-->
+  <MyUncleLost_Beast.stages.0.label>我的叔叔{0}失踪了</MyUncleLost_Beast.stages.0.label>
+  <!--原中文: '我的叔叔失踪了，我希望他能有一日回到我们身边。', 原英文: '无' -> 新英文: 'My uncle has gone lost. I hope he will get back to us someday.',更新于2026-02-14-->
+  <!--EN: My uncle has gone lost. I hope he will get back to us someday.-->
+  <MyUncleLost_Beast.stages.0.description>我的叔叔失踪了，我希望他能有一日回到我们身边。</MyUncleLost_Beast.stages.0.description>
+  <!--原中文: '我的祖父母{0}失踪了', 原英文: '无' -> 新英文: 'my grandparent {0} lost',更新于2026-02-14-->
+  <!--EN: my grandparent {0} lost-->
+  <MyGrandparentLost_Beast.stages.0.label>我的祖父母{0}失踪了</MyGrandparentLost_Beast.stages.0.label>
+  <!--原中文: '我的祖父母失踪了', 原英文: '无' -> 新英文: 'My grandparent has gone lost.',更新于2026-02-14-->
+  <!--EN: My grandparent has gone lost.-->
+  <MyGrandparentLost_Beast.stages.0.description>我的祖父母失踪了</MyGrandparentLost_Beast.stages.0.description>
+  <!--原中文: '我的表亲{0}失踪了', 原英文: '无' -> 新英文: 'my cousin {0} lost',更新于2026-02-14-->
+  <!--EN: my cousin {0} lost-->
+  <MyCousinLost_Beast.stages.0.label>我的表亲{0}失踪了</MyCousinLost_Beast.stages.0.label>
+  <!--原中文: '我的表亲失踪了。', 原英文: '无' -> 新英文: 'My cousin has gone lost.',更新于2026-02-14-->
+  <!--EN: My cousin has gone lost.-->
+  <MyCousinLost_Beast.stages.0.description>我的表亲失踪了。</MyCousinLost_Beast.stages.0.description>
+  <!--原中文: '我的亲戚{0}失踪了', 原英文: '无' -> 新英文: 'my kin {0} lost',更新于2026-02-14-->
+  <!--EN: my kin {0} lost-->
+  <MyKinLost_Beast.stages.0.label>我的亲戚{0}失踪了</MyKinLost_Beast.stages.0.label>
+  <!--原中文: '我的亲戚失踪了。', 原英文: '无' -> 新英文: 'My kin has gone lost.',更新于2026-02-14-->
+  <!--EN: My kin has gone lost.-->
+  <MyKinLost_Beast.stages.0.description>我的亲戚失踪了。</MyKinLost_Beast.stages.0.description>
+  <!-- Family Social Memories -->
+  <!--原中文: '杀了我的父亲', 原英文: '无' -> 新英文: 'killed my father',更新于2026-02-14-->
+  <!--EN: killed my father-->
+  <KilledMyFather_Beast.stages.0.label>杀了我的父亲</KilledMyFather_Beast.stages.0.label>
+  <!--原中文: '杀了我的母亲', 原英文: '无' -> 新英文: 'killed my mother',更新于2026-02-14-->
+  <!--EN: killed my mother-->
+  <KilledMyMother_Beast.stages.0.label>杀了我的母亲</KilledMyMother_Beast.stages.0.label>
+  <!--原中文: '杀了我的儿子', 原英文: '无' -> 新英文: 'killed my son',更新于2026-02-14-->
+  <!--EN: killed my son-->
+  <KilledMySon_Beast.stages.0.label>杀了我的儿子</KilledMySon_Beast.stages.0.label>
+  <!--原中文: '杀了我的女儿', 原英文: '无' -> 新英文: 'killed my daughter',更新于2026-02-14-->
+  <!--EN: killed my daughter-->
+  <KilledMyDaughter_Beast.stages.0.label>杀了我的女儿</KilledMyDaughter_Beast.stages.0.label>
+  <!--原中文: '杀了我的兄弟', 原英文: '无' -> 新英文: 'killed my brother',更新于2026-02-14-->
+  <!--EN: killed my brother-->
+  <KilledMyBrother_Beast.stages.0.label>杀了我的兄弟</KilledMyBrother_Beast.stages.0.label>
+  <!--原中文: '杀了我的姐妹', 原英文: '无' -> 新英文: 'killed my sister',更新于2026-02-14-->
+  <!--EN: killed my sister-->
+  <KilledMySister_Beast.stages.0.label>杀了我的姐妹</KilledMySister_Beast.stages.0.label>
+  <!--原中文: '杀了我的亲戚', 原英文: '无' -> 新英文: 'killed my kin',更新于2026-02-14-->
+  <!--EN: killed my kin-->
+  <KilledMyKin_Beast.stages.0.label>杀了我的亲戚</KilledMyKin_Beast.stages.0.label>
+  <!--原中文: '卖掉了我的亲戚', 原英文: '无' -> 新英文: 'sold my kin',更新于2026-02-14-->
+  <!--EN: sold my kin-->
+  <SoldMyLovedOne_Beast.stages.0.label>卖掉了我的亲戚</SoldMyLovedOne_Beast.stages.0.label>
+</LanguageData>

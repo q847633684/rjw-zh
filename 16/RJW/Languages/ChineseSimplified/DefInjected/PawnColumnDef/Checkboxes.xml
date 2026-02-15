@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '将角色指定为<color=yellow>主角</color>，<color=yellow>主角</color>可以被直接命令与其他角色进行亲密行为。', 原英文: '无' -> 新英文: 'Designate pawn as the <color=yellow>Hero</color>. A <color=yellow>Hero</color> can be directly ordered to do lovin' with other pawns.',更新于2026-02-14-->
+  <!--EN: Designate pawn as the <color=yellow>Hero</color>. A <color=yellow>Hero</color> can be directly ordered to do lovin' with other pawns.-->
+  <RJW_Hero.headerTip>将角色指定为<color=yellow>主角</color>，<color=yellow>主角</color>可以被直接命令与其他角色进行亲密行为。</RJW_Hero.headerTip>
+  <!--原中文: '将角色指定为泄欲对象，其他角色会利用该角色释放压抑的性需求。', 原英文: '无' -> 新英文: 'Designate pawn as a comfort pawn. This pawn will then be used by others to relieve their pent-up needs.',更新于2026-02-14-->
+  <!--EN: Designate pawn as a comfort pawn. This pawn will then be used by others to relieve their pent-up needs.-->
+  <RJW_Comfort.headerTip>将角色指定为泄欲对象，其他角色会利用该角色释放压抑的性需求。</RJW_Comfort.headerTip>
+  <!--原中文: '将角色指定为配种对象，殖民地的动物将尝试与该角色交配。', 原英文: '无' -> 新英文: 'Designate pawn for breeding. The colony animals will try to breed this pawn.',更新于2026-02-14-->
+  <!--EN: Designate pawn for breeding. The colony animals will try to breed this pawn.-->
+  <RJW_BreedHumanlike.headerTip>将角色指定为配种对象，殖民地的动物将尝试与该角色交配。</RJW_BreedHumanlike.headerTip>
+  <!--原中文: '将动物指定为配种者，这些动物将尝试与被指定为配种对象的角色交配。', 原英文: '无' -> 新英文: 'Designate animal as a breeder. These animals will try to breed pawns desiganted for breeding.',更新于2026-02-14-->
+  <!--EN: Designate animal as a breeder. These animals will try to breed pawns desiganted for breeding.-->
+  <RJW_BreederAnimal.headerTip>将动物指定为配种者，这些动物将尝试与被指定为配种对象的角色交配。</RJW_BreederAnimal.headerTip>
+  <!--原中文: '将动物指定为配种对象，殖民地的动物将尝试与该动物交配。', 原英文: '无' -> 新英文: 'Designate animal for breeding. The colony animals will try to breed this animal.',更新于2026-02-14-->
+  <!--EN: Designate animal for breeding. The colony animals will try to breed this animal.-->
+  <RJW_BreedAnimal.headerTip>将动物指定为配种对象，殖民地的动物将尝试与该动物交配。</RJW_BreedAnimal.headerTip>
+  <!--原中文: '将角色指定为妓女，妓女为客人提供服务以换取白银。', 原英文: '无' -> 新英文: 'Designate pawn as a prostitute. Prostitutes provide service to guests for silver.',更新于2026-02-14-->
+  <!--EN: Designate pawn as a prostitute. Prostitutes provide service to guests for silver.-->
+  <RJW_Whore.headerTip>将角色指定为妓女，妓女为客人提供服务以换取白银。</RJW_Whore.headerTip>
+</LanguageData>

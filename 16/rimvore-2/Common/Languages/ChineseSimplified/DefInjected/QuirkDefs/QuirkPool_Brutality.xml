@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: If a proposal initiated by this pawn fails, these quirks control the chance of this pawn beating up and forcing the vore on their target.-->
+  <Brutality.description>若提案由此发起pawn失败，这些怪癖控制着几率pawn殴打和强迫吃人目标。</Brutality.description>
+  <!--EN: Brutality-->
+  <Brutality.label>暴行</Brutality.label>
+  <!--EN: Forget a silver tongue; [PAWN_label] won't take no for an answer.-->
+  <Brutality_Always.description>忘记一个银舌;[PAWN_label]不会接受否定的答案。</Brutality_Always.description>
+  <!--EN: Bad Listener-->
+  <Brutality_Always.label>糟糕的听众</Brutality_Always.label>
+  <!--EN: [PAWN_label] only respects consent half the time. The other half, [PAWN_possessive] prey better get ready for a fight.-->
+  <Brutality_High.description>[PAWN_label]只有一半时间尊重同意。另一半,[PAWN_possessive]猎物最好做好战斗准备。</Brutality_High.description>
+  <!--EN: Coin flip-->
+  <Brutality_High.label>掷硬币</Brutality_High.label>
+  <!--EN: [PAWN_label] is even less inclined than most, to use violence for persuasion.-->
+  <Brutality_Low.description>[PAWN_label]比大多数人更不愿意用暴力来说服别人。</Brutality_Low.description>
+  <!--EN: Rare-->
+  <Brutality_Low.label>极少</Brutality_Low.label>
+  <!--EN: [PAWN_label] wouldn't use violence to coerce [PAWN_possessive] prey if a proposal was turned down.-->
+  <Brutality_Never.description>[PAWN_label]不会使用暴力来强制[PAWN_possessive]如果一个提议被拒绝，将会被捕食。</Brutality_Never.description>
+  <!--EN: Peaceful-->
+  <Brutality_Never.label>和平的</Brutality_Never.label>
+  <!--EN: Most of the time [PAWN_label] wouldn't think of fighting to vore any prey that wasn't interested.-->
+  <Brutality_Normal.description>大多数时候[PAWN_label]不会想到战斗中的到吃人任何不感兴趣的猎物。</Brutality_Normal.description>
+  <!--EN: Normal-->
+  <Brutality_Normal.label>普通</Brutality_Normal.label>
+</LanguageData>

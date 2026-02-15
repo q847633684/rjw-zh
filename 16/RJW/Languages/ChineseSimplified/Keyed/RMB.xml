@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '互动', 原英文: '无' -> 新英文: 'Interact',更新于2026-02-14-->
+  <!--EN: Interact-->
+  <RJW_RMB>互动</RJW_RMB>
+  <!--原中文: '拒绝发生性关系与', 原英文: '无' -> 新英文: ' refuses to have sex with ',更新于2026-02-14-->
+  <!--EN:  refuses to have sex with-->
+  <RJW_RMB_NoSex>拒绝发生性关系与</RJW_RMB_NoSex>
+  <!--原中文: '与{0_labelShort}社交', 原英文: '无' -> 新英文: 'Socialize with {0_labelShort}',更新于2026-02-14-->
+  <!--EN: Socialize with {0_labelShort}-->
+  <RJW_RMB_Social>与{0_labelShort}社交</RJW_RMB_Social>
+  <!--原中文: '自慰', 原英文: '无' -> 新英文: 'Masturbate',更新于2026-02-14-->
+  <!--EN: Masturbate-->
+  <RJW_RMB_Masturbate>自慰</RJW_RMB_Masturbate>
+  <!--原中文: '与{0_labelShort}性交', 原英文: '无' -> 新英文: 'Have sex with {0_labelShort}',更新于2026-02-14-->
+  <!--EN: Have sex with {0_labelShort}-->
+  <RJW_RMB_Sex>与{0_labelShort}性交</RJW_RMB_Sex>
+  <!--原中文: '与{0_labelShort}兽交', 原英文: '无' -> 新英文: 'Bestiality {0_labelShort}',更新于2026-02-14-->
+  <!--EN: Bestiality {0_labelShort}-->
+  <RJW_RMB_Bestiality>与{0_labelShort}兽交</RJW_RMB_Bestiality>
+  <!--原中文: '与{0_labelShort}逆性交', 原英文: '无' -> 新英文: '(Reverse)Sex {0_labelShort}',更新于2026-02-14-->
+  <!--EN: (Reverse)Sex {0_labelShort}-->
+  <RJW_RMB_Sex_Reverse>与{0_labelShort}逆性交</RJW_RMB_Sex_Reverse>
+  <!--原中文: '与{0_labelShort}逆兽交', 原英文: '无' -> 新英文: '(Reverse)Bestiality {0_labelShort}',更新于2026-02-14-->
+  <!--EN: (Reverse)Bestiality {0_labelShort}-->
+  <RJW_RMB_Bestiality_Reverse>与{0_labelShort}逆兽交</RJW_RMB_Bestiality_Reverse>
+  <!--Social-->
+  <!--原中文: '侮辱', 原英文: '无' -> 新英文: 'Insult',更新于2026-02-14-->
+  <!--EN: Insult-->
+  <RJW_RMB_Insult>侮辱</RJW_RMB_Insult>
+  <!--原中文: '打架', 原英文: '无' -> 新英文: 'Start a fight',更新于2026-02-14-->
+  <!--EN: Start a fight-->
+  <RJW_RMB_SocialFight>打架</RJW_RMB_SocialFight>
+  <!--原中文: '闲聊', 原英文: '无' -> 新英文: 'Chat',更新于2026-02-14-->
+  <!--EN: Chat-->
+  <RJW_RMB_Chat>闲聊</RJW_RMB_Chat>
+  <!--原中文: '深入交流', 原英文: '无' -> 新英文: 'Deep talk',更新于2026-02-14-->
+  <!--EN: Deep talk-->
+  <RJW_RMB_DeepTalk>深入交流</RJW_RMB_DeepTalk>
+  <!--原中文: '浪漫互动', 原英文: '无' -> 新英文: 'Attempt romance',更新于2026-02-14-->
+  <!--EN: Attempt romance-->
+  <RJW_RMB_RomanceAttempt>浪漫互动</RJW_RMB_RomanceAttempt>
+  <!--原中文: '提出求婚', 原英文: '无' -> 新英文: 'Make marriage proposal',更新于2026-02-14-->
+  <!--EN: Make marriage proposal-->
+  <RJW_RMB_MarriageProposal>提出求婚</RJW_RMB_MarriageProposal>
+  <!--Masturbate-->
+  <!--原中文: '在椅子或床上自慰', 原英文: '无' -> 新英文: 'Masturbate on chair or bed',更新于2026-02-14-->
+  <!--EN: Masturbate on chair or bed-->
+  <RJW_RMB_Masturbate_Bed>在椅子或床上自慰</RJW_RMB_Masturbate_Bed>
+  <!--原中文: '在指定位置自慰', 原英文: '无' -> 新英文: 'Masturbate at',更新于2026-02-14-->
+  <!--EN: Masturbate at-->
+  <RJW_RMB_Masturbate_At>在指定位置自慰</RJW_RMB_Masturbate_At>
+  <!--原中文: '在原地自慰', 原英文: '无' -> 新英文: 'Masturbate here',更新于2026-02-14-->
+  <!--EN: Masturbate here-->
+  <RJW_RMB_Masturbate_Here>在原地自慰</RJW_RMB_Masturbate_Here>
+  <!--原中文: '用道具自慰', 原英文: '无' -> 新英文: 'Masturbate with',更新于2026-02-14-->
+  <!--EN: Masturbate with-->
+  <RJW_RMB_Masturbate_With>用道具自慰</RJW_RMB_Masturbate_With>
+  <!-- dildoes or something like that, someday? -->
+  <!--Have sex-->
+  <!--Rape-->
+  <!--原中文: '强奸{0_labelShort}', 原英文: '无' -> 新英文: 'Rape {0_labelShort}',更新于2026-02-14-->
+  <!--EN: Rape {0_labelShort}-->
+  <RJW_RMB_Rape>强奸{0_labelShort}</RJW_RMB_Rape>
+  <!--原中文: '逆强奸{0_labelShort}', 原英文: '无' -> 新英文: '(Reverse)Rape {0_labelShort}',更新于2026-02-14-->
+  <!--EN: (Reverse)Rape {0_labelShort}-->
+  <RJW_RMB_Rape_Reverse>逆强奸{0_labelShort}</RJW_RMB_Rape_Reverse>
+  <!--原中文: '奸尸{0_labelShort}', 原英文: '无' -> 新英文: 'Violate corpse of {0_labelShort}',更新于2026-02-14-->
+  <!--EN: Violate corpse of {0_labelShort}-->
+  <RJW_RMB_RapeCorpse>奸尸{0_labelShort}</RJW_RMB_RapeCorpse>
+  <!--原中文: '逆奸尸{0_labelShort}', 原英文: '无' -> 新英文: '(Reverse)Violate corpse of {0_labelShort}',更新于2026-02-14-->
+  <!--EN: (Reverse)Violate corpse of {0_labelShort}-->
+  <RJW_RMB_RapeCorpse_Reverse>逆奸尸{0_labelShort}</RJW_RMB_RapeCorpse_Reverse>
+  <!--原中文: '配种{0_labelShort}', 原英文: '无' -> 新英文: 'Breed {0_labelShort}',更新于2026-02-14-->
+  <!--EN: Breed {0_labelShort}-->
+  <RJW_RMB_RapeAnimal>配种{0_labelShort}</RJW_RMB_RapeAnimal>
+  <!--原中文: '逆配种{0_labelShort}', 原英文: '无' -> 新英文: '(Reverse)Be Bred by {0_labelShort}',更新于2026-02-14-->
+  <!--EN: (Reverse)Be Bred by {0_labelShort}-->
+  <RJW_RMB_RapeAnimal_Reverse>逆配种{0_labelShort}</RJW_RMB_RapeAnimal_Reverse>
+  <!--Poses/parts?-->
+  <!--stuff-->
+  <!--原中文: '破解植入的机械', 原英文: '无' -> 新英文: 'Hack implanted mech',更新于2026-02-14-->
+  <!--EN: Hack implanted mech-->
+  <RJW_RMB_HackMechPregnancy>破解植入的机械</RJW_RMB_HackMechPregnancy>
+  <!--Reasons for why RMB option is unavailable-->
+  <!--原中文: '角色对目标评价过低', 原英文: '无' -> 新英文: 'Low opinion of target',更新于2026-02-14-->
+  <!--EN: Low opinion of target-->
+  <RJW_RMB_ReasonLowOpinionOfTarget>角色对目标评价过低</RJW_RMB_ReasonLowOpinionOfTarget>
+  <!--原中文: '角色对目标不起性欲（性吸引力不足）', 原英文: '无' -> 新英文: 'Not sexually attracted to target',更新于2026-02-14-->
+  <!--EN: Not sexually attracted to target-->
+  <RJW_RMB_ReasonUnappealingTarget>角色对目标不起性欲（性吸引力不足）</RJW_RMB_ReasonUnappealingTarget>
+  <!--原中文: '目标对角色评价过低', 原英文: '无' -> 新英文: 'Low opinion of me',更新于2026-02-14-->
+  <!--EN: Low opinion of me-->
+  <RJW_RMB_ReasonLowOpinionOfPawn>目标对角色评价过低</RJW_RMB_ReasonLowOpinionOfPawn>
+  <!--原中文: '目标对角色不起性欲（性吸引力不足）', 原英文: '无' -> 新英文: 'Not sexually attracted to me',更新于2026-02-14-->
+  <!--EN: Not sexually attracted to me-->
+  <RJW_RMB_ReasonUnappealingPawn>目标对角色不起性欲（性吸引力不足）</RJW_RMB_ReasonUnappealingPawn>
+  <!--原中文: '需要分配床位', 原英文: '无' -> 新英文: 'Need assigned bed',更新于2026-02-14-->
+  <!--EN: Need assigned bed-->
+  <RJW_RMB_ReasonNeedBed>需要分配床位</RJW_RMB_ReasonNeedBed>
+  <!--原中文: '无法到达分配床位', 原英文: '无' -> 新英文: 'Can't reach assigned bed',更新于2026-02-14-->
+  <!--EN: Can't reach assigned bed-->
+  <RJW_RMB_ReasonCantReachBed>无法到达分配床位</RJW_RMB_ReasonCantReachBed>
+  <!--原中文: '未找到适用于{0}的有效互动', 原英文: '无' -> 新英文: 'No valid interactions found for {0}',更新于2026-02-14-->
+  <!--EN: No valid interactions found for {0}-->
+  <RJW_RMB_NoValidInteractions>未找到适用于{0}的有效互动</RJW_RMB_NoValidInteractions>
+  <!-- Bondage gear -->
+  <!--原中文: '将{0}穿在{1}身上', 原英文: '无' -> 新英文: '{0} on {1}',更新于2026-02-14-->
+  <!--EN: {0} on {1}-->
+  <RJW_RMB_BG_Put_On>将{0}穿在{1}身上</RJW_RMB_BG_Put_On>
+  <!--原中文: '未穿戴锁定束缚装备', 原英文: '无' -> 新英文: 'Not wearing locked apparel',更新于2026-02-14-->
+  <!--EN: Not wearing locked apparel-->
+  <RJW_RMB_BG_NotWearingBondage>未穿戴锁定束缚装备</RJW_RMB_BG_NotWearingBondage>
+</LanguageData>

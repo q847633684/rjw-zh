@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '避孕套', 原英文: '无' -> 新英文: 'Condom',更新于2026-02-14-->
+  <!--EN: Condom-->
+  <Condom.label>避孕套</Condom.label>
+  <!--原中文: '预防一例妊娠。提示：当嫖娼时，自动从小人身上或床边的储存区中使用。', 原英文: '无' -> 新英文: 'Prevents a single case of pregnancy. Hint: Auto used from pawn inventory or stack next to bed.',更新于2026-02-14-->
+  <!--EN: Prevents a single case of pregnancy. Hint: Auto used from pawn inventory or stack next to bed.-->
+  <Condom.description>预防一例妊娠。提示：当嫖娼时，自动从小人身上或床边的储存区中使用。</Condom.description>
+  <!--原中文: '用过的套套', 原英文: '无' -> 新英文: 'Used Condom',更新于2026-02-14-->
+  <!--EN: Used Condom-->
+  <UsedCondom.label>用过的套套</UsedCondom.label>
+  <!--原中文: '装满精子的避孕套。嗯~真好吃！（什么鬼！(╯‵□′)╯︵┻━┻）', 原英文: '无' -> 新英文: 'A condom filled with sperm. MMMM So good and tasty!',更新于2026-02-14-->
+  <!--EN: A condom filled with sperm. MMMM So good and tasty!-->
+  <UsedCondom.description>装满精子的避孕套。嗯~真好吃！（什么鬼！(╯‵□′)╯︵┻━┻）</UsedCondom.description>
+</LanguageData>

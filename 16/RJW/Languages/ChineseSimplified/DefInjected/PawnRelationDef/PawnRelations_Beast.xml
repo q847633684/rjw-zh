@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '父亲', 原英文: '无' -> 新英文: 'father',更新于2026-02-14-->
+  <!--EN: father-->
+  <RJW_Sire.label>父亲</RJW_Sire.label>
+  <!--原中文: '母亲', 原英文: '无' -> 新英文: 'mother',更新于2026-02-14-->
+  <!--EN: mother-->
+  <RJW_Sire.labelFemale>母亲</RJW_Sire.labelFemale>
+  <!--原中文: '儿子', 原英文: '无' -> 新英文: 'son',更新于2026-02-14-->
+  <!--EN: son-->
+  <RJW_Pup.label>儿子</RJW_Pup.label>
+  <!--原中文: '女儿', 原英文: '无' -> 新英文: 'daughter',更新于2026-02-14-->
+  <!--EN: daughter-->
+  <RJW_Pup.labelFemale>女儿</RJW_Pup.labelFemale>
+  <!-- close family -->
+  <!--原中文: '儿子', 原英文: '无' -> 新英文: 'son',更新于2026-02-14-->
+  <!--EN: son-->
+  <Child_Beast.label>儿子</Child_Beast.label>
+  <!--原中文: '女儿', 原英文: '无' -> 新英文: 'daughter',更新于2026-02-14-->
+  <!--EN: daughter-->
+  <Child_Beast.labelFemale>女儿</Child_Beast.labelFemale>
+  <!--原中文: '兄弟', 原英文: '无' -> 新英文: 'brother',更新于2026-02-14-->
+  <!--EN: brother-->
+  <Sibling_Beast.label>兄弟</Sibling_Beast.label>
+  <!--原中文: '姐妹', 原英文: '无' -> 新英文: 'sister',更新于2026-02-14-->
+  <!--EN: sister-->
+  <Sibling_Beast.labelFemale>姐妹</Sibling_Beast.labelFemale>
+  <!--原中文: '兄弟', 原英文: '无' -> 新英文: 'brother',更新于2026-02-14-->
+  <!--EN: brother-->
+  <HalfSibling_Beast.label>兄弟</HalfSibling_Beast.label>
+  <!--原中文: '姐妹', 原英文: '无' -> 新英文: 'sister',更新于2026-02-14-->
+  <!--EN: sister-->
+  <HalfSibling_Beast.labelFemale>姐妹</HalfSibling_Beast.labelFemale>
+  <!--原中文: '祖父', 原英文: '无' -> 新英文: 'grandfather',更新于2026-02-14-->
+  <!--EN: grandfather-->
+  <Grandparent_Beast.label>祖父</Grandparent_Beast.label>
+  <!--原中文: '祖母', 原英文: '无' -> 新英文: 'grandmother',更新于2026-02-14-->
+  <!--EN: grandmother-->
+  <Grandparent_Beast.labelFemale>祖母</Grandparent_Beast.labelFemale>
+  <!--原中文: '孙子', 原英文: '无' -> 新英文: 'grandson',更新于2026-02-14-->
+  <!--EN: grandson-->
+  <Grandchild_Beast.label>孙子</Grandchild_Beast.label>
+  <!--原中文: '孙女', 原英文: '无' -> 新英文: 'granddaughter',更新于2026-02-14-->
+  <!--EN: granddaughter-->
+  <Grandchild_Beast.labelFemale>孙女</Grandchild_Beast.labelFemale>
+  <!--原中文: '侄子', 原英文: '无' -> 新英文: 'nephew',更新于2026-02-14-->
+  <!--EN: nephew-->
+  <NephewOrNiece_Beast.label>侄子</NephewOrNiece_Beast.label>
+  <!--原中文: '侄女', 原英文: '无' -> 新英文: 'niece',更新于2026-02-14-->
+  <!--EN: niece-->
+  <NephewOrNiece_Beast.labelFemale>侄女</NephewOrNiece_Beast.labelFemale>
+  <!--原中文: '叔叔', 原英文: '无' -> 新英文: 'uncle',更新于2026-02-14-->
+  <!--EN: uncle-->
+  <UncleOrAunt_Beast.label>叔叔</UncleOrAunt_Beast.label>
+  <!--原中文: '姨妈', 原英文: '无' -> 新英文: 'aunt',更新于2026-02-14-->
+  <!--EN: aunt-->
+  <UncleOrAunt_Beast.labelFemale>姨妈</UncleOrAunt_Beast.labelFemale>
+  <!--原中文: '表亲', 原英文: '无' -> 新英文: 'cousin',更新于2026-02-14-->
+  <!--EN: cousin-->
+  <Cousin_Beast.label>表亲</Cousin_Beast.label>
+  <!--过时key，需删除-->
+  <Cousin_Beast.labelFemale>表亲</Cousin_Beast.labelFemale>
+  <!-- distant family -->
+  <!--原中文: '曾祖父', 原英文: '无' -> 新英文: 'great grandfather',更新于2026-02-14-->
+  <!--EN: great grandfather-->
+  <GreatGrandparent_Beast.label>曾祖父</GreatGrandparent_Beast.label>
+  <!--原中文: '曾祖母', 原英文: '无' -> 新英文: 'great grandmother',更新于2026-02-14-->
+  <!--EN: great grandmother-->
+  <GreatGrandparent_Beast.labelFemale>曾祖母</GreatGrandparent_Beast.labelFemale>
+  <!--原中文: '曾孙', 原英文: '无' -> 新英文: 'great grandson',更新于2026-02-14-->
+  <!--EN: great grandson-->
+  <GreatGrandchild_Beast.label>曾孙</GreatGrandchild_Beast.label>
+  <!--原中文: '曾孙女', 原英文: '无' -> 新英文: 'great granddaughter',更新于2026-02-14-->
+  <!--EN: great granddaughter-->
+  <GreatGrandchild_Beast.labelFemale>曾孙女</GreatGrandchild_Beast.labelFemale>
+  <!--原中文: '祖叔', 原英文: '无' -> 新英文: 'granduncle',更新于2026-02-14-->
+  <!--EN: granduncle-->
+  <GranduncleOrGrandaunt_Beast.label>祖叔</GranduncleOrGrandaunt_Beast.label>
+  <!--原中文: '祖姑', 原英文: '无' -> 新英文: 'grandaunt',更新于2026-02-14-->
+  <!--EN: grandaunt-->
+  <GranduncleOrGrandaunt_Beast.labelFemale>祖姑</GranduncleOrGrandaunt_Beast.labelFemale>
+  <!--原中文: '侄孙', 原英文: '无' -> 新英文: 'grandnephew',更新于2026-02-14-->
+  <!--EN: grandnephew-->
+  <GrandnephewOrGrandniece_Beast.label>侄孙</GrandnephewOrGrandniece_Beast.label>
+  <!--原中文: '侄女', 原英文: '无' -> 新英文: 'grandniece',更新于2026-02-14-->
+  <!--EN: grandniece-->
+  <GrandnephewOrGrandniece_Beast.labelFemale>侄女</GrandnephewOrGrandniece_Beast.labelFemale>
+  <!--原中文: '堂表亲', 原英文: '无' -> 新英文: 'cousin once removed',更新于2026-02-14-->
+  <!--EN: cousin once removed-->
+  <CousinOnceRemoved_Beast.label>堂表亲</CousinOnceRemoved_Beast.label>
+  <!--过时key，需删除-->
+  <CousinOnceRemoved_Beast.labelFemale>堂表亲</CousinOnceRemoved_Beast.labelFemale>
+  <!--原中文: '表亲', 原英文: '无' -> 新英文: 'second cousin',更新于2026-02-14-->
+  <!--EN: second cousin-->
+  <SecondCousin_Beast.label>表亲</SecondCousin_Beast.label>
+  <!--过时key，需删除-->
+  <SecondCousin_Beast.labelFemale>表亲</SecondCousin_Beast.labelFemale>
+</LanguageData>

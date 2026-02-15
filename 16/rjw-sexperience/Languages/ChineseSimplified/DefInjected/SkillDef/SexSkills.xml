@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--过时key，需删除-->
+  <Sex.label>性</Sex.label>
+  <!--原中文: '性的技巧', 原英文: '无' -> 新英文: 'Sex skill.',更新于2026-02-14-->
+  <!--EN: Sex skill.-->
+  <Sex.description>性的技巧</Sex.description>
+  <!--原中文: '性', 原英文: '无' -> 新英文: 'sex',更新于2026-02-14-->
+  <!--EN: sex-->
+  <Sex.skillLabel>性</Sex.skillLabel>
+</LanguageData>

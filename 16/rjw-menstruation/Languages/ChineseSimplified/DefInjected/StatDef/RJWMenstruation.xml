@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '可吸收量', 原英文: '无' -> 新英文: 'Absorbable',更新于2026-02-14-->
+  <!--EN: Absorbable-->
+  <MaxAbsorbable.label>可吸收量</MaxAbsorbable.label>
+  <!--原中文: '最大可吸收的液体量', 原英文: '无' -> 新英文: 'Maximum amount of fluid that this item can absorb.',更新于2026-02-14-->
+  <!--EN: Maximum amount of fluid that this item can absorb.-->
+  <MaxAbsorbable.description>最大可吸收的液体量</MaxAbsorbable.description>
+</LanguageData>

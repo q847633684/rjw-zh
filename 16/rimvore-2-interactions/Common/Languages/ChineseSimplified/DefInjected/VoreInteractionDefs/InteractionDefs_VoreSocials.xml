@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][TalkTopicLight]</RV2I_Chitchat.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef][talkedabout][TalkTopicLight]伴[RECIPIENT_nameDef]</RV2I_Chitchat.logRulesInitiator.rulesStrings.1>
+  <!--EN: talkedabout->quipped about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.10>talkedabout->说了几句</RV2I_Chitchat.logRulesInitiator.rulesStrings.10>
+  <!--EN: talkedabout(p=4)->chatted about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.11>talkedabout(p=4)-> 聊了聊</RV2I_Chitchat.logRulesInitiator.rulesStrings.11>
+  <!--EN: talkedabout->shared a word about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.12>talkedabout->交流</RV2I_Chitchat.logRulesInitiator.rulesStrings.12>
+  <!--EN: talkedabout->spoke about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.13>talkedabout->谈论</RV2I_Chitchat.logRulesInitiator.rulesStrings.13>
+  <!--EN: talkedabout->gabbed about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.14>talkedabout->开玩笑地说到</RV2I_Chitchat.logRulesInitiator.rulesStrings.14>
+  <!--EN: talkedabout->talked about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.15>talkedabout->谈论</RV2I_Chitchat.logRulesInitiator.rulesStrings.15>
+  <!--EN: talkedabout->joked about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.16>talkedabout->开玩笑说</RV2I_Chitchat.logRulesInitiator.rulesStrings.16>
+  <!--EN: talkedabout->quipped about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.17>talkedabout->说了几句</RV2I_Chitchat.logRulesInitiator.rulesStrings.17>
+  <!--EN: teaseadd->playfully-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.18>teaseadd->顽皮</RV2I_Chitchat.logRulesInitiator.rulesStrings.18>
+  <!--EN: teaseadd->harmlessly-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.19>teaseadd->无害</RV2I_Chitchat.logRulesInitiator.rulesStrings.19>
+  <!--EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [teaseadd][teaseask] [RECIPIENT_nameDef] about [teasesubject].-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef][teaseadd][teaseask][RECIPIENT_nameDef]关于[teasesubject]</RV2I_Chitchat.logRulesInitiator.rulesStrings.2>
+  <!--EN: teaseadd->-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.20>teaseadd-></RV2I_Chitchat.logRulesInitiator.rulesStrings.20>
+  <!--EN: teaseadd->-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.21>teaseadd-></RV2I_Chitchat.logRulesInitiator.rulesStrings.21>
+  <!--EN: teaseadd->-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.22>teaseadd-></RV2I_Chitchat.logRulesInitiator.rulesStrings.22>
+  <!--EN: teaseask->teased-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.23>teaseask->被取笑</RV2I_Chitchat.logRulesInitiator.rulesStrings.23>
+  <!--EN: teaseask->joked with-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.24>teaseask->开玩笑地说</RV2I_Chitchat.logRulesInitiator.rulesStrings.24>
+  <!--EN: teaseask->gaffed with-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.25>teaseask->出丑</RV2I_Chitchat.logRulesInitiator.rulesStrings.25>
+  <!--EN: teaseask->told a joke with-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.26>teaseask->讲了一个笑话</RV2I_Chitchat.logRulesInitiator.rulesStrings.26>
+  <!--EN: teasesubject->[RECIPIENT_possessive] flavor-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.27>teasesubject->[RECIPIENT_possessive]味道</RV2I_Chitchat.logRulesInitiator.rulesStrings.27>
+  <!--EN: teasesubject->[RECIPIENT_possessive] comfort-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.28>teasesubject->[RECIPIENT_possessive]舒适度</RV2I_Chitchat.logRulesInitiator.rulesStrings.28>
+  <!--EN: teasesubject->being full-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.29>teasesubject->已满</RV2I_Chitchat.logRulesInitiator.rulesStrings.29>
+  <!--EN: r_logentry(p=2)->[INITIATOR_nameDef] [check] [internal].-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.3>r_logentry(p=2)->[INITIATOR_nameDef][check][internal]</RV2I_Chitchat.logRulesInitiator.rulesStrings.3>
+  <!--EN: teasesubject->being prey-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.30>teasesubject->成为猎物</RV2I_Chitchat.logRulesInitiator.rulesStrings.30>
+  <!--EN: teasesubject->belching-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.31>teasesubject->喷火</RV2I_Chitchat.logRulesInitiator.rulesStrings.31>
+  <!--EN: teasesubject->entrapment-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.32>teasesubject->捕获</RV2I_Chitchat.logRulesInitiator.rulesStrings.32>
+  <!--EN: teasesubject->captorism-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.33>teasesubject->俘虏主义</RV2I_Chitchat.logRulesInitiator.rulesStrings.33>
+  <!--EN: teasesubject->perma vore-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.34>teasesubject->永久吃人</RV2I_Chitchat.logRulesInitiator.rulesStrings.34>
+  <!--EN: teasesubject->forgetting who [RECIPIENT_pronoun] ate-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.35>teasesubject->遗忘了谁[RECIPIENT_pronoun]吃了</RV2I_Chitchat.logRulesInitiator.rulesStrings.35>
+  <!--EN: teasesubject->living colonies-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.36>teasesubject->殖民地</RV2I_Chitchat.logRulesInitiator.rulesStrings.36>
+  <!--EN: check->checked up on [RECIPIENT_nameDef]-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.37>check->已体检[RECIPIENT_nameDef]</RV2I_Chitchat.logRulesInitiator.rulesStrings.37>
+  <!--EN: check->asked if [RECIPIENT_nameDef] needed anything-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.38>check->询问是否[RECIPIENT_nameDef]有需要</RV2I_Chitchat.logRulesInitiator.rulesStrings.38>
+  <!--EN: check->made sure [RECIPIENT_nameDef] was comfortable-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.39>check->确定[RECIPIENT_nameDef]非常舒适</RV2I_Chitchat.logRulesInitiator.rulesStrings.39>
+  <!--EN: talkedabout(p=4)->chatted about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.4>talkedabout(p=4)-> 聊了聊</RV2I_Chitchat.logRulesInitiator.rulesStrings.4>
+  <!--EN: check->casually talked with [INITIATOR_possessive] prey-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.40>check->闲聊[INITIATOR_possessive]猎物</RV2I_Chitchat.logRulesInitiator.rulesStrings.40>
+  <!--EN: check->gently comforted [INITIATOR_possessive] prey-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.41>check->轻轻安慰[INITIATOR_possessive]猎物</RV2I_Chitchat.logRulesInitiator.rulesStrings.41>
+  <!--EN: internal->within [INITIATOR_objective]-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.42>internal->以内[INITIATOR_objective]</RV2I_Chitchat.logRulesInitiator.rulesStrings.42>
+  <!--EN: internal->inside [INITIATOR_objective]-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.43>internal->内[INITIATOR_objective]</RV2I_Chitchat.logRulesInitiator.rulesStrings.43>
+  <!--EN: internal->trapped within [INITIATOR_objective]-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.44>internal->陷于[INITIATOR_objective]</RV2I_Chitchat.logRulesInitiator.rulesStrings.44>
+  <!--EN: internal->trapped inside [INITIATOR_objective]-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.45>internal->陷在里面[INITIATOR_objective]</RV2I_Chitchat.logRulesInitiator.rulesStrings.45>
+  <!--EN: internal->stowed within [INITIATOR_objective]-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.46>internal->存放于[INITIATOR_objective]</RV2I_Chitchat.logRulesInitiator.rulesStrings.46>
+  <!--EN: internal->stowed inside [INITIATOR_objective]-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.47>internal->藏在里面[INITIATOR_objective]</RV2I_Chitchat.logRulesInitiator.rulesStrings.47>
+  <!--EN: talkedabout->shared a word about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.5>talkedabout->交流</RV2I_Chitchat.logRulesInitiator.rulesStrings.5>
+  <!--EN: talkedabout->spoke about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.6>talkedabout->谈论</RV2I_Chitchat.logRulesInitiator.rulesStrings.6>
+  <!--EN: talkedabout->gabbed about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.7>talkedabout->开玩笑地说到</RV2I_Chitchat.logRulesInitiator.rulesStrings.7>
+  <!--EN: talkedabout->talked about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.8>talkedabout->谈论</RV2I_Chitchat.logRulesInitiator.rulesStrings.8>
+  <!--EN: talkedabout->joked about-->
+  <RV2I_Chitchat.logRulesInitiator.rulesStrings.9>talkedabout->开玩笑说</RV2I_Chitchat.logRulesInitiator.rulesStrings.9>
+  <!--EN: comfort-->
+  <RV2I_Comfort.label>舒适度</RV2I_Comfort.label>
+  <!--EN: r_logentry->[INITIATOR_nameDef] [gentleAdv][embraced] [prey].-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef][gentleAdv][embraced][prey]</RV2I_Comfort.logRulesInitiator.rulesStrings.0>
+  <!--EN: gentleAdv(p=2)->-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.1>gentleAdv(p=2)-></RV2I_Comfort.logRulesInitiator.rulesStrings.1>
+  <!--EN: embraced->embraced-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.10>embraced->拥抱</RV2I_Comfort.logRulesInitiator.rulesStrings.10>
+  <!--EN: embraced->caressed-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.11>embraced->受到爱抚</RV2I_Comfort.logRulesInitiator.rulesStrings.11>
+  <!--EN: embraced->cradled-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.12>embraced->抱着</RV2I_Comfort.logRulesInitiator.rulesStrings.12>
+  <!--EN: prey(p=4)->[RECIPIENT_nameDef][internal]-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.13>prey(p=4)->[RECIPIENT_nameDef][internal]</RV2I_Comfort.logRulesInitiator.rulesStrings.13>
+  <!--EN: prey->[INITIATOR_possessive] prey[internal]-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.14>prey->[INITIATOR_possessive]猎物[internal]</RV2I_Comfort.logRulesInitiator.rulesStrings.14>
+  <!--EN: prey->[INITIATOR_possessive] occupant[internal]-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.15>prey->[INITIATOR_possessive]占用[internal]</RV2I_Comfort.logRulesInitiator.rulesStrings.15>
+  <!--EN: internal(p=5)->-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.16>internal(p=5)-></RV2I_Comfort.logRulesInitiator.rulesStrings.16>
+  <!--EN: internal-> within [INITIATOR_objective]-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.17>internal->以内[INITIATOR_objective]</RV2I_Comfort.logRulesInitiator.rulesStrings.17>
+  <!--EN: internal-> inside [INITIATOR_objective]-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.18>internal->内[INITIATOR_objective]</RV2I_Comfort.logRulesInitiator.rulesStrings.18>
+  <!--EN: internal-> trapped within [INITIATOR_objective]-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.19>internal->陷于[INITIATOR_objective]</RV2I_Comfort.logRulesInitiator.rulesStrings.19>
+  <!--EN: gentleAdv->gently-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.2>gentleAdv->温柔地</RV2I_Comfort.logRulesInitiator.rulesStrings.2>
+  <!--EN: internal-> trapped inside [INITIATOR_objective]-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.20>internal->陷在里面[INITIATOR_objective]</RV2I_Comfort.logRulesInitiator.rulesStrings.20>
+  <!--EN: internal-> stowed within [INITIATOR_objective]-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.21>internal->存放于[INITIATOR_objective]</RV2I_Comfort.logRulesInitiator.rulesStrings.21>
+  <!--EN: internal-> stowed inside [INITIATOR_objective]-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.22>internal->藏在里面[INITIATOR_objective]</RV2I_Comfort.logRulesInitiator.rulesStrings.22>
+  <!--EN: gentleAdv->carefully-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.3>gentleAdv->谨慎</RV2I_Comfort.logRulesInitiator.rulesStrings.3>
+  <!--EN: gentleAdv->slowly-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.4>gentleAdv->缓慢</RV2I_Comfort.logRulesInitiator.rulesStrings.4>
+  <!--EN: gentleAdv->sweetly-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.5>gentleAdv->甜美地</RV2I_Comfort.logRulesInitiator.rulesStrings.5>
+  <!--EN: gentleAdv->lovingly-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.6>gentleAdv->亲切地</RV2I_Comfort.logRulesInitiator.rulesStrings.6>
+  <!--EN: embraced(p=4)->held-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.7>embraced(p=4)-> 举行</RV2I_Comfort.logRulesInitiator.rulesStrings.7>
+  <!--EN: embraced->embraced-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.8>embraced->拥抱</RV2I_Comfort.logRulesInitiator.rulesStrings.8>
+  <!--EN: embraced->hugged-->
+  <RV2I_Comfort.logRulesInitiator.rulesStrings.9>embraced->拥抱</RV2I_Comfort.logRulesInitiator.rulesStrings.9>
+  <!--EN: deep talk-->
+  <RV2I_DeepTalk.label>深入交流</RV2I_DeepTalk.label>
+  <!--EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].-->
+  <RV2I_DeepTalk.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][subject]</RV2I_DeepTalk.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].-->
+  <RV2I_DeepTalk.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef][talkedabout][subject]伴[RECIPIENT_nameDef]</RV2I_DeepTalk.logRulesInitiator.rulesStrings.1>
+  <!--EN: talkedabout->talked deeply about-->
+  <RV2I_DeepTalk.logRulesInitiator.rulesStrings.10>talkedabout->深入讨论</RV2I_DeepTalk.logRulesInitiator.rulesStrings.10>
+  <!--EN: talkedabout->connected on the topic of-->
+  <RV2I_DeepTalk.logRulesInitiator.rulesStrings.11>talkedabout->已连接</RV2I_DeepTalk.logRulesInitiator.rulesStrings.11>
+  <!--EN: subject->[TalkTopicHeavy]-->
+  <RV2I_DeepTalk.logRulesInitiator.rulesStrings.12>subject->[TalkTopicHeavy]</RV2I_DeepTalk.logRulesInitiator.rulesStrings.12>
+  <!--EN: talkedabout->communicated thoughts about-->
+  <RV2I_DeepTalk.logRulesInitiator.rulesStrings.2>talkedabout->交流思想</RV2I_DeepTalk.logRulesInitiator.rulesStrings.2>
+  <!--EN: talkedabout->exchanged thoughts about-->
+  <RV2I_DeepTalk.logRulesInitiator.rulesStrings.3>talkedabout->交换想法</RV2I_DeepTalk.logRulesInitiator.rulesStrings.3>
+  <!--EN: talkedabout->exchanged ideas about-->
+  <RV2I_DeepTalk.logRulesInitiator.rulesStrings.4>talkedabout->交换意见</RV2I_DeepTalk.logRulesInitiator.rulesStrings.4>
+  <!--EN: talkedabout->shared views on-->
+  <RV2I_DeepTalk.logRulesInitiator.rulesStrings.5>talkedabout->分享观点</RV2I_DeepTalk.logRulesInitiator.rulesStrings.5>
+  <!--EN: talkedabout->shared beliefs on-->
+  <RV2I_DeepTalk.logRulesInitiator.rulesStrings.6>talkedabout->分享信仰</RV2I_DeepTalk.logRulesInitiator.rulesStrings.6>
+  <!--EN: talkedabout->discussed the topic of-->
+  <RV2I_DeepTalk.logRulesInitiator.rulesStrings.7>talkedabout->讨论了以下主题</RV2I_DeepTalk.logRulesInitiator.rulesStrings.7>
+  <!--EN: talkedabout->had a heartfelt conversation about-->
+  <RV2I_DeepTalk.logRulesInitiator.rulesStrings.8>talkedabout->进行了真诚的交谈</RV2I_DeepTalk.logRulesInitiator.rulesStrings.8>
+  <!--EN: talkedabout->talked quietly about-->
+  <RV2I_DeepTalk.logRulesInitiator.rulesStrings.9>talkedabout->窃窃私语</RV2I_DeepTalk.logRulesInitiator.rulesStrings.9>
+  <!--EN: insult-->
+  <RV2I_InsultPred.label>侮辱</RV2I_InsultPred.label>
+  <!--EN: r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.0>r_logentry(p=3)->[INITIATOR_nameDef][insulted][target]的[PersonalCharacteristic]</RV2I_InsultPred.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]已比较[target]到 a[insultcomparison]</RV2I_InsultPred.logRulesInitiator.rulesStrings.1>
+  <!--EN: insulted->viciously insulted-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.10>insulted->恶意侮辱</RV2I_InsultPred.logRulesInitiator.rulesStrings.10>
+  <!--EN: insulted->flagrantly disrespected-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.11>insulted->公然不尊重</RV2I_InsultPred.logRulesInitiator.rulesStrings.11>
+  <!--EN: insulted->slandered-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.12>insulted->诽谤</RV2I_InsultPred.logRulesInitiator.rulesStrings.12>
+  <!--EN: insulted->hurled invective about-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.13>insulted->被辱骂</RV2I_InsultPred.logRulesInitiator.rulesStrings.13>
+  <!--EN: insulted->derided-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.14>insulted->被嘲笑</RV2I_InsultPred.logRulesInitiator.rulesStrings.14>
+  <!--EN: insultcomparison(p=2)->[Animal]-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.15>insultcomparison(p=2)->[Animal]</RV2I_InsultPred.logRulesInitiator.rulesStrings.15>
+  <!--EN: insultcomparison->[Enemy]-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.16>insultcomparison->[Enemy]</RV2I_InsultPred.logRulesInitiator.rulesStrings.16>
+  <!--EN: r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]已呼叫[target]a[insultcomparison]</RV2I_InsultPred.logRulesInitiator.rulesStrings.2>
+  <!--EN: target(p=4)->[RECIPIENT_nameDef]-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.3>target(p=4)->[RECIPIENT_nameDef]</RV2I_InsultPred.logRulesInitiator.rulesStrings.3>
+  <!--EN: target->[RECIPIENT_nameDef]'s [PersonFamily]-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.4>target->[RECIPIENT_nameDef]的[PersonFamily]</RV2I_InsultPred.logRulesInitiator.rulesStrings.4>
+  <!--EN: insulted(p=3)->insulted-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.5>insulted(p=3)-> 被羞辱</RV2I_InsultPred.logRulesInitiator.rulesStrings.5>
+  <!--EN: insulted->openly insulted-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.6>insulted->公开侮辱</RV2I_InsultPred.logRulesInitiator.rulesStrings.6>
+  <!--EN: insulted->loudly insulted-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.7>insulted->大声侮辱</RV2I_InsultPred.logRulesInitiator.rulesStrings.7>
+  <!--EN: insulted->flagrantly insulted-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.8>insulted->公然侮辱</RV2I_InsultPred.logRulesInitiator.rulesStrings.8>
+  <!--EN: insulted->directly insulted-->
+  <RV2I_InsultPred.logRulesInitiator.rulesStrings.9>insulted->当面侮辱</RV2I_InsultPred.logRulesInitiator.rulesStrings.9>
+  <!--EN: insult-->
+  <RV2I_InsultPrey.label>侮辱</RV2I_InsultPrey.label>
+  <!--EN: r_logentry(p=3)->[RECIPIENT_nameDef] [insulted] [target]'s [PersonalCharacteristic].-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.0>r_logentry(p=3)->[RECIPIENT_nameDef][insulted][target]的[PersonalCharacteristic]</RV2I_InsultPrey.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->[RECIPIENT_nameDef] compared [target] to a [insultcomparison].-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.1>r_logentry->[RECIPIENT_nameDef]已比较[target]到 a[insultcomparison]</RV2I_InsultPrey.logRulesInitiator.rulesStrings.1>
+  <!--EN: insulted->viciously insulted-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.10>insulted->恶意侮辱</RV2I_InsultPrey.logRulesInitiator.rulesStrings.10>
+  <!--EN: insulted->flagrantly disrespected-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.11>insulted->公然不尊重</RV2I_InsultPrey.logRulesInitiator.rulesStrings.11>
+  <!--EN: insulted->slandered-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.12>insulted->诽谤</RV2I_InsultPrey.logRulesInitiator.rulesStrings.12>
+  <!--EN: insulted->hurled invective about-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.13>insulted->被辱骂</RV2I_InsultPrey.logRulesInitiator.rulesStrings.13>
+  <!--EN: insulted->derided-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.14>insulted->被嘲笑</RV2I_InsultPrey.logRulesInitiator.rulesStrings.14>
+  <!--EN: insultcomparison(p=2)->[Animal]-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.15>insultcomparison(p=2)->[Animal]</RV2I_InsultPrey.logRulesInitiator.rulesStrings.15>
+  <!--EN: insultcomparison->[Enemy]-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.16>insultcomparison->[Enemy]</RV2I_InsultPrey.logRulesInitiator.rulesStrings.16>
+  <!--EN: r_logentry->[RECIPIENT_nameDef] called [target] a [insultcomparison].-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.2>r_logentry->[RECIPIENT_nameDef]已呼叫[target]a[insultcomparison]</RV2I_InsultPrey.logRulesInitiator.rulesStrings.2>
+  <!--EN: target(p=4)->[INITIATOR_nameDef]-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.3>target(p=4)->[INITIATOR_nameDef]</RV2I_InsultPrey.logRulesInitiator.rulesStrings.3>
+  <!--EN: target->[INITIATOR_nameDef]'s [PersonFamily]-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.4>target->[INITIATOR_nameDef]的[PersonFamily]</RV2I_InsultPrey.logRulesInitiator.rulesStrings.4>
+  <!--EN: insulted(p=3)->insulted-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.5>insulted(p=3)-> 被羞辱</RV2I_InsultPrey.logRulesInitiator.rulesStrings.5>
+  <!--EN: insulted->openly insulted-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.6>insulted->公开侮辱</RV2I_InsultPrey.logRulesInitiator.rulesStrings.6>
+  <!--EN: insulted->loudly insulted-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.7>insulted->大声侮辱</RV2I_InsultPrey.logRulesInitiator.rulesStrings.7>
+  <!--EN: insulted->flagrantly insulted-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.8>insulted->公然侮辱</RV2I_InsultPrey.logRulesInitiator.rulesStrings.8>
+  <!--EN: insulted->directly insulted-->
+  <RV2I_InsultPrey.logRulesInitiator.rulesStrings.9>insulted->当面侮辱</RV2I_InsultPrey.logRulesInitiator.rulesStrings.9>
+  <!--EN: nuzzle-->
+  <RV2I_Nuzzle_Pred.label>亲昵</RV2I_Nuzzle_Pred.label>
+  <!--EN: r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb][nuzzled] [prey].-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.0>r_logentry(p=2)->[INITIATOR_nameDef][nuzzleadverb][nuzzled][prey]</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->[INITIATOR_nameDef] [nuzzleadverb]licked over [prey].-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef][nuzzleadverb]舔倒[prey]</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.1>
+  <!--EN: nuzzleadverb->happily-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.10>nuzzleadverb->欢快地</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.10>
+  <!--EN: nuzzleadverb->softly-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.11>nuzzleadverb->轻柔</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.11>
+  <!--EN: nuzzleadverb->supportively-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.12>nuzzleadverb->支持地</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.12>
+  <!--EN: nuzzleadverb->lightly-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.13>nuzzleadverb->轻轻地</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.13>
+  <!--EN: nuzzleadverb->warmly-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.14>nuzzleadverb->暖心的</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.14>
+  <!--EN: nuzzleadverb->plaintively-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.15>nuzzleadverb->哀怨地</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.15>
+  <!--EN: nuzzleadverb->lovingly-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.16>nuzzleadverb->亲切地</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.16>
+  <!--EN: nuzzleadverb->affectionately-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.17>nuzzleadverb->热烈地</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.17>
+  <!--EN: snout(p=2)->nose-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.18>snout(p=2)-> 鼻子</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.18>
+  <!--EN: snout->snout-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.19>snout->鼻子</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.19>
+  <!--EN: r_logentry->[INITIATOR_nameDef] [nuzzleadverb]clenched [prey] deeper into [INITIATOR_objective].-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef][nuzzleadverb]紧绷[prey]深入[INITIATOR_objective]</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.2>
+  <!--EN: snout->head-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.20>snout->锤头</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.20>
+  <!--EN: snout->head-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.21>snout->锤头</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.21>
+  <!--EN: prey(p=2)->[RECIPIENT_nameDef]-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.22>prey(p=2)->[RECIPIENT_nameDef]</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.22>
+  <!--EN: prey->[INITIATOR_possessive] prey-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.23>prey->[INITIATOR_possessive]猎物</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.23>
+  <!--EN: prey->[INITIATOR_possessive] meal-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.24>prey->[INITIATOR_possessive]烹饪食品</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.24>
+  <!--EN: prey->[INITIATOR_possessive] snack-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.25>prey->[INITIATOR_possessive]小食</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.25>
+  <!--EN: r_logentry->[INITIATOR_nameDef] [nuzzleadverb]rubbed [INITIATOR_possessive] [snout] against [prey].-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef][nuzzleadverb]已蹭[INITIATOR_possessive][snout]反对[prey]</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.3>
+  <!--EN: nuzzled(p=2)->nuzzled-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.4>nuzzled(p=2)-> 被亲昵</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.4>
+  <!--EN: nuzzled->snuggled up to-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.5>nuzzled->依偎着</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.5>
+  <!--EN: nuzzleadverb(p=4)->-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.6>nuzzleadverb(p=4)-></RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.6>
+  <!--EN: nuzzleadverb->playfully-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.7>nuzzleadverb->顽皮</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.7>
+  <!--EN: nuzzleadverb->gently-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.8>nuzzleadverb->温柔地</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.8>
+  <!--EN: nuzzleadverb->encouragingly-->
+  <RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.9>nuzzleadverb->鼓舞人心的</RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.9>
+  <!--EN: nuzzle-->
+  <RV2I_Nuzzle_Prey.label>亲昵</RV2I_Nuzzle_Prey.label>
+  <!--EN: r_logentry(p=2)->[RECIPIENT_nameDef][nuzzleadverb] [nuzzled] [INITIATOR_nameDef]'s [adjt][rubbedpart].-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.0>r_logentry(p=2)->[RECIPIENT_nameDef][nuzzleadverb][nuzzled][INITIATOR_nameDef]的[adjt][rubbedpart]</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->[INITIATOR_nameDef] [act] as [RECIPIENT_nameDef][nuzzleadverb] [nuzzled] [INITIATOR_possessive] [adjt][rubbedpart].-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef][act]机械体[RECIPIENT_nameDef][nuzzleadverb][nuzzled][INITIATOR_possessive][adjt][rubbedpart]</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.1>
+  <!--EN: nuzzled(p=2)->nuzzled-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.10>nuzzled(p=2)-> 被亲昵</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.10>
+  <!--EN: nuzzled->snuggled up against-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.11>nuzzled->依偎着</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.11>
+  <!--EN: nuzzled->brushed against-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.12>nuzzled->擦肩而过</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.12>
+  <!--EN: nuzzled->leaned into-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.13>nuzzled->倚入</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.13>
+  <!--EN: nuzzled->streches into-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.14>nuzzled->拉伸</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.14>
+  <!--EN: nuzzleadverb(p=4)->-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.15>nuzzleadverb(p=4)-></RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.15>
+  <!--EN: nuzzleadverb-> gently-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.16>nuzzleadverb->温柔地</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.16>
+  <!--EN: nuzzleadverb-> encouragingly-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.17>nuzzleadverb->鼓舞人心的</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.17>
+  <!--EN: nuzzleadverb-> happily-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.18>nuzzleadverb->欢快地</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.18>
+  <!--EN: nuzzleadverb-> softly-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.19>nuzzleadverb->轻柔</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.19>
+  <!--EN: r_logentry->[RECIPIENT_nameDef][nuzzleadverb] [nuzzled] against [INITIATOR_nameDef]'s [adjt][rubbedpart].-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.2>r_logentry->[RECIPIENT_nameDef][nuzzleadverb][nuzzled]反对[INITIATOR_nameDef]的[adjt][rubbedpart]</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.2>
+  <!--EN: nuzzleadverb-> supportively-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.20>nuzzleadverb->支持地</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.20>
+  <!--EN: nuzzleadverb-> playfully-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.21>nuzzleadverb->顽皮</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.21>
+  <!--EN: nuzzleadverb-> warmly-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.22>nuzzleadverb->暖心的</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.22>
+  <!--EN: nuzzleadverb-> plaintively-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.23>nuzzleadverb->哀怨地</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.23>
+  <!--EN: nuzzleadverb-> lovingly-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.24>nuzzleadverb->亲切地</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.24>
+  <!--EN: nuzzleadverb-> affectionately-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.25>nuzzleadverb->热烈地</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.25>
+  <!--EN: adjt(p=4)->-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.26>adjt(p=4)-></RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.26>
+  <!--EN: adjt->warm-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.27>adjt->喜暖的</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.27>
+  <!--EN: adjt->comfortable-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.28>adjt->舒适</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.28>
+  <!--EN: adjt->snug-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.29>adjt->贴身</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.29>
+  <!--EN: r_logentry->[RECIPIENT_nameDef] [relax] into [INITIATOR_nameDef]'s body as [INITIATOR_pronoun][nuzzleadverb] [hold] [INITIATOR_objective].-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.3>r_logentry->[RECIPIENT_nameDef][relax]入[INITIATOR_nameDef]的身体为[INITIATOR_pronoun][nuzzleadverb][hold][INITIATOR_objective]</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.3>
+  <!--EN: relax(p=3)->relaxes-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.30>relax(p=3)-> 放松</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.30>
+  <!--EN: relax->nuzzles softly-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.31>relax->温柔地亲昵</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.31>
+  <!--EN: relax->goes limp-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.32>relax->变得软弱无力</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.32>
+  <!--EN: relax->rests-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.33>relax->休养</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.33>
+  <!--EN: relax->curls up-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.34>relax->卷曲</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.34>
+  <!--EN: hold(p=3)->holds-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.35>hold(p=3)-> 举行</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.35>
+  <!--EN: hold->comforts-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.36>hold->舒适</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.36>
+  <!--EN: hold->pets-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.37>hold->宠物</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.37>
+  <!--EN: hold->cradles-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.38>hold->摇篮</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.38>
+  <!--EN: hold->hugs-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.39>hold->拥抱</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.39>
+  <!--EN: act(p=2)->sighs-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.4>act(p=2)-> 叹气</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.4>
+  <!--EN: rubbedpart->innards-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.40>rubbedpart->内向的</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.40>
+  <!--EN: rubbedpart->insides-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.41>rubbedpart->内部</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.41>
+  <!--EN: rubbedpart->inner walls-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.42>rubbedpart->内墙</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.42>
+  <!--EN: act->squirms a little-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.5>act->有点蠕动</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.5>
+  <!--EN: act->pets over [INITIATOR_possessive] prey-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.6>act->宠物结束[INITIATOR_possessive]猎物</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.6>
+  <!--EN: act->nearly trips-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.7>act->接近旅行</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.7>
+  <!--EN: act->bites [INITIATOR_possessive] lip a little-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.8>act->咬伤[INITIATOR_possessive]有点低</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.8>
+  <!--EN: act->instictualy clenches [INITIATOR_possessive] prey-->
+  <RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.9>act->圣兽剑爪[INITIATOR_possessive]猎物</RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.9>
+  <!--EN: squirm-->
+  <RV2I_PreySquirm.label>蠕动</RV2I_PreySquirm.label>
+  <!--EN: r_logentry->[INITIATOR_nameDef] [shiver] as [prey] [squirm][inside].-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef][shiver]机械体[prey][squirm][inside]</RV2I_PreySquirm.logRulesInitiator.rulesStrings.0>
+  <!--EN: shiver(p=4)->shivered-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.1>shiver(p=4)-> 颤抖</RV2I_PreySquirm.logRulesInitiator.rulesStrings.1>
+  <!--EN: squirm->squirms-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.10>squirm->蠕动</RV2I_PreySquirm.logRulesInitiator.rulesStrings.10>
+  <!--EN: squirm->wriggles-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.11>squirm->蠕动</RV2I_PreySquirm.logRulesInitiator.rulesStrings.11>
+  <!--EN: squirm->nuzzles-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.12>squirm->亲昵</RV2I_PreySquirm.logRulesInitiator.rulesStrings.12>
+  <!--EN: squirm->shuffles-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.13>squirm->搬运</RV2I_PreySquirm.logRulesInitiator.rulesStrings.13>
+  <!--EN: squirm->rubs around-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.14>squirm->四处打磨</RV2I_PreySquirm.logRulesInitiator.rulesStrings.14>
+  <!--EN: squirm->slowly rolls-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.15>squirm->缓慢滚动</RV2I_PreySquirm.logRulesInitiator.rulesStrings.15>
+  <!--EN: squirm->gently writhes-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.16>squirm->轻柔蠕动</RV2I_PreySquirm.logRulesInitiator.rulesStrings.16>
+  <!--EN: squirm->gently pushes out-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.17>squirm->轻轻推出</RV2I_PreySquirm.logRulesInitiator.rulesStrings.17>
+  <!--EN: squirm->streches-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.18>squirm->拉伸</RV2I_PreySquirm.logRulesInitiator.rulesStrings.18>
+  <!--EN: inside(p=4)->-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.19>inside(p=4)-></RV2I_PreySquirm.logRulesInitiator.rulesStrings.19>
+  <!--EN: shiver->sighs-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.2>shiver->叹气</RV2I_PreySquirm.logRulesInitiator.rulesStrings.2>
+  <!--EN: inside-> within [INITIATOR_objective]-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.20>inside->以内[INITIATOR_objective]</RV2I_PreySquirm.logRulesInitiator.rulesStrings.20>
+  <!--EN: inside-> inside [INITIATOR_objective]-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.21>inside->内[INITIATOR_objective]</RV2I_PreySquirm.logRulesInitiator.rulesStrings.21>
+  <!--EN: inside-> trapped within [INITIATOR_objective]-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.22>inside->陷于[INITIATOR_objective]</RV2I_PreySquirm.logRulesInitiator.rulesStrings.22>
+  <!--EN: inside-> trapped inside [INITIATOR_objective]-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.23>inside->陷在里面[INITIATOR_objective]</RV2I_PreySquirm.logRulesInitiator.rulesStrings.23>
+  <!--EN: inside-> stowed within [INITIATOR_objective]-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.24>inside->存放于[INITIATOR_objective]</RV2I_PreySquirm.logRulesInitiator.rulesStrings.24>
+  <!--EN: inside-> stowed inside [INITIATOR_objective]-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.25>inside->藏在里面[INITIATOR_objective]</RV2I_PreySquirm.logRulesInitiator.rulesStrings.25>
+  <!--EN: shiver->lightly bites [INITIATOR_possessive] lip-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.3>shiver->轻微咬伤[INITIATOR_possessive]口器</RV2I_PreySquirm.logRulesInitiator.rulesStrings.3>
+  <!--EN: shiver->relaxes-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.4>shiver->放松</RV2I_PreySquirm.logRulesInitiator.rulesStrings.4>
+  <!--EN: shiver->adjusts-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.5>shiver->调整</RV2I_PreySquirm.logRulesInitiator.rulesStrings.5>
+  <!--EN: prey(p=4)->[RECIPIENT_nameDef]-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.6>prey(p=4)->[RECIPIENT_nameDef]</RV2I_PreySquirm.logRulesInitiator.rulesStrings.6>
+  <!--EN: prey->[INITIATOR_possessive] prey-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.7>prey->[INITIATOR_possessive]猎物</RV2I_PreySquirm.logRulesInitiator.rulesStrings.7>
+  <!--EN: prey->[INITIATOR_possessive] meal-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.8>prey->[INITIATOR_possessive]烹饪食品</RV2I_PreySquirm.logRulesInitiator.rulesStrings.8>
+  <!--EN: prey->[INITIATOR_possessive] snack-->
+  <RV2I_PreySquirm.logRulesInitiator.rulesStrings.9>prey->[INITIATOR_possessive]小食</RV2I_PreySquirm.logRulesInitiator.rulesStrings.9>
+  <!--EN: slight-->
+  <RV2I_SlightPred.label>怠慢</RV2I_SlightPred.label>
+  <!--EN: r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [PersonalCharacteristic].-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef][madefunof][target]的[PersonalCharacteristic]</RV2I_SlightPred.logRulesInitiator.rulesStrings.0>
+  <!--EN: target(p=4)->[RECIPIENT_nameDef]-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.1>target(p=4)->[RECIPIENT_nameDef]</RV2I_SlightPred.logRulesInitiator.rulesStrings.1>
+  <!--EN: madefunof->sniggered at-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.10>madefunof->窃笑</RV2I_SlightPred.logRulesInitiator.rulesStrings.10>
+  <!--EN: madefunof->implied negative things about-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.11>madefunof->委婉地否定</RV2I_SlightPred.logRulesInitiator.rulesStrings.11>
+  <!--EN: madefunof->belittled-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.12>madefunof->小看</RV2I_SlightPred.logRulesInitiator.rulesStrings.12>
+  <!--EN: madefunof->made a contemptuous remark about-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.13>madefunof->轻蔑地评价了</RV2I_SlightPred.logRulesInitiator.rulesStrings.13>
+  <!--EN: madefunof->offered a backhanded compliment about-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.14>madefunof->提供了一个反向恭维</RV2I_SlightPred.logRulesInitiator.rulesStrings.14>
+  <!--EN: target->[RECIPIENT_nameDef]'s [PersonFamily]-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.2>target->[RECIPIENT_nameDef]的[PersonFamily]</RV2I_SlightPred.logRulesInitiator.rulesStrings.2>
+  <!--EN: madefunof->made fun of-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.3>madefunof->取笑</RV2I_SlightPred.logRulesInitiator.rulesStrings.3>
+  <!--EN: madefunof->disrespected-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.4>madefunof->不尊重</RV2I_SlightPred.logRulesInitiator.rulesStrings.4>
+  <!--EN: madefunof->subtly scorned-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.5>madefunof->委婉地蔑视</RV2I_SlightPred.logRulesInitiator.rulesStrings.5>
+  <!--EN: madefunof->subtly shamed-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.6>madefunof->巧妙地羞辱</RV2I_SlightPred.logRulesInitiator.rulesStrings.6>
+  <!--EN: madefunof->spoke badly of-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.7>madefunof->嘲弄</RV2I_SlightPred.logRulesInitiator.rulesStrings.7>
+  <!--EN: madefunof->spoke negatively of-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.8>madefunof->不看好</RV2I_SlightPred.logRulesInitiator.rulesStrings.8>
+  <!--EN: madefunof->laughed at-->
+  <RV2I_SlightPred.logRulesInitiator.rulesStrings.9>madefunof->被嘲笑</RV2I_SlightPred.logRulesInitiator.rulesStrings.9>
+  <!--EN: slight-->
+  <RV2I_SlightPrey.label>怠慢</RV2I_SlightPrey.label>
+  <!--EN: r_logentry->[RECIPIENT_nameDef] [madefunof] [target]'s [PersonalCharacteristic].-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef][madefunof][target]的[PersonalCharacteristic]</RV2I_SlightPrey.logRulesInitiator.rulesStrings.0>
+  <!--EN: target(p=4)->[INITIATOR_nameDef]-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.1>target(p=4)->[INITIATOR_nameDef]</RV2I_SlightPrey.logRulesInitiator.rulesStrings.1>
+  <!--EN: madefunof->sniggered at-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.10>madefunof->窃笑</RV2I_SlightPrey.logRulesInitiator.rulesStrings.10>
+  <!--EN: madefunof->implied negative things about-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.11>madefunof->委婉地否定</RV2I_SlightPrey.logRulesInitiator.rulesStrings.11>
+  <!--EN: madefunof->belittled-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.12>madefunof->小看</RV2I_SlightPrey.logRulesInitiator.rulesStrings.12>
+  <!--EN: madefunof->made a contemptuous remark about-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.13>madefunof->轻蔑地评价了</RV2I_SlightPrey.logRulesInitiator.rulesStrings.13>
+  <!--EN: madefunof->offered a backhanded compliment about-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.14>madefunof->提供了一个反向恭维</RV2I_SlightPrey.logRulesInitiator.rulesStrings.14>
+  <!--EN: target->[INITIATOR_nameDef]'s [PersonFamily]-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.2>target->[INITIATOR_nameDef]的[PersonFamily]</RV2I_SlightPrey.logRulesInitiator.rulesStrings.2>
+  <!--EN: madefunof->made fun of-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.3>madefunof->取笑</RV2I_SlightPrey.logRulesInitiator.rulesStrings.3>
+  <!--EN: madefunof->disrespected-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.4>madefunof->不尊重</RV2I_SlightPrey.logRulesInitiator.rulesStrings.4>
+  <!--EN: madefunof->subtly scorned-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.5>madefunof->委婉地蔑视</RV2I_SlightPrey.logRulesInitiator.rulesStrings.5>
+  <!--EN: madefunof->subtly shamed-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.6>madefunof->巧妙地羞辱</RV2I_SlightPrey.logRulesInitiator.rulesStrings.6>
+  <!--EN: madefunof->spoke badly of-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.7>madefunof->嘲弄</RV2I_SlightPrey.logRulesInitiator.rulesStrings.7>
+  <!--EN: madefunof->spoke negatively of-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.8>madefunof->不看好</RV2I_SlightPrey.logRulesInitiator.rulesStrings.8>
+  <!--EN: madefunof->laughed at-->
+  <RV2I_SlightPrey.logRulesInitiator.rulesStrings.9>madefunof->被嘲笑</RV2I_SlightPrey.logRulesInitiator.rulesStrings.9>
+</LanguageData>

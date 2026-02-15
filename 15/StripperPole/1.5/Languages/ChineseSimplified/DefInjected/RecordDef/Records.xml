@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DancesPerformed.label>表演的舞蹈</DancesPerformed.label>
+  <DancesPerformed.description>表演的舞蹈数量。</DancesPerformed.description>
+
+  <TimeSpentDancing.label>跳舞所用的时间</TimeSpentDancing.label>
+  <TimeSpentDancing.description>跳舞所用的总时间。</TimeSpentDancing.description>
+
+  <DancesWatched.label>观看的舞蹈</DancesWatched.label>
+  <DancesWatched.description>观看的舞蹈数量。</DancesWatched.description>
+
+  <TimeSpentWatchingDancing.label>观看舞蹈所用的时间</TimeSpentWatchingDancing.label>
+  <TimeSpentWatchingDancing.description>观看某人跳舞所用的总时间。</TimeSpentWatchingDancing.description>
+
+</LanguageData>

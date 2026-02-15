@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HormonalSerums.label>荷尔蒙血清</HormonalSerums.label>
+  <HormonalSerums.description>了解如何将驼峰草和精神类叶子加工成荷尔蒙血清来改变身体。</HormonalSerums.description>
+
+  <BasicSerums.label>改变血清</BasicSerums.label>
+  <BasicSerums.description>了解如何制作能够改变身体的血清。</BasicSerums.description>
+
+  <MutagenicSerums.label>诱变血清</MutagenicSerums.label>
+  <MutagenicSerums.description>学习创建能够将身体部位改变为其他物种的高级血清。</MutagenicSerums.description>
+
+  <GenderChangeSerums.label>性别改变血清</GenderChangeSerums.label>
+  <GenderChangeSerums.description>学习创建能够改变性别的高级血清。</GenderChangeSerums.description>
+
+  <PsycheSerums.label>精神血清</PsycheSerums.label>
+  <PsycheSerums.description>学习创建能够改变用户特征的血清。</PsycheSerums.description>
+
+  <ReverterSerum.label>恢复血清</ReverterSerum.label>
+  <ReverterSerum.description>学习创建恢复血清以恢复突变的身体部位。</ReverterSerum.description>
+
+  <ProducingSerum.label>生产血清</ProducingSerum.label>
+  <ProducingSerum.description>学习创建一种生产血清，改变身体产生荷尔蒙血清。</ProducingSerum.description>
+
+
+</LanguageData>

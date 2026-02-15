@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- natural vaginaes -->
+  <!--原中文: '添加人类阴道', 原英文: '无' -> 新英文: 'add vagina',更新于2026-02-14-->
+  <!--EN: add vagina-->
+  <AddMultiVagina.label>添加人类阴道</AddMultiVagina.label>
+  <!--过时key，需删除-->
+  <AddMultiVagina.description>增加额外的阴道。</AddMultiVagina.description>
+  <!--过时key，需删除-->
+  <AddMultiVagina.jobString>添加人类阴道。</AddMultiVagina.jobString>
+  <!--原中文: '添加马阴道', 原英文: '无' -> 新英文: 'add equine vagina',更新于2026-02-14-->
+  <!--EN: add equine vagina-->
+  <AddMultiHorseVagina.label>添加马阴道</AddMultiHorseVagina.label>
+  <!--过时key，需删除-->
+  <AddMultiHorseVagina.description>增加额外的阴道。</AddMultiHorseVagina.description>
+  <!--过时key，需删除-->
+  <AddMultiHorseVagina.jobString>添加马阴道。</AddMultiHorseVagina.jobString>
+  <!--原中文: '添加猫阴道', 原英文: '无' -> 新英文: 'add feline vagina',更新于2026-02-14-->
+  <!--EN: add feline vagina-->
+  <AddMultiCatVagina.label>添加猫阴道</AddMultiCatVagina.label>
+  <!--过时key，需删除-->
+  <AddMultiCatVagina.description>增加额外的阴道。</AddMultiCatVagina.description>
+  <!--过时key，需删除-->
+  <AddMultiCatVagina.jobString>添加猫阴道。</AddMultiCatVagina.jobString>
+  <!--原中文: '添加犬阴道', 原英文: '无' -> 新英文: 'add canine vagina',更新于2026-02-14-->
+  <!--EN: add canine vagina-->
+  <AddMultiDogVagina.label>添加犬阴道</AddMultiDogVagina.label>
+  <!--过时key，需删除-->
+  <AddMultiDogVagina.description>增加额外的阴道。</AddMultiDogVagina.description>
+  <!--过时key，需删除-->
+  <AddMultiDogVagina.jobString>添加犬阴道。</AddMultiDogVagina.jobString>
+  <!--原中文: '添加龙阴道', 原英文: '无' -> 新英文: 'add dragon vagina',更新于2026-02-14-->
+  <!--EN: add dragon vagina-->
+  <AddMultiDragonVagina.label>添加龙阴道</AddMultiDragonVagina.label>
+  <!--过时key，需删除-->
+  <AddMultiDragonVagina.description>增加额外的阴道。</AddMultiDragonVagina.description>
+  <!--过时key，需删除-->
+  <AddMultiDragonVagina.jobString>添加龙阴道。</AddMultiDragonVagina.jobString>
+  <!--原中文: '添加雌性产卵器', 原英文: '无' -> 新英文: 'add female ovipositor',更新于2026-02-14-->
+  <!--EN: add female ovipositor-->
+  <AddMultiOvipositorF.label>添加雌性产卵器</AddMultiOvipositorF.label>
+  <!--原中文: '增加额外的产卵器。', 原英文: '无' -> 新英文: 'Adds additional female ovipositor.',更新于2026-02-14-->
+  <!--EN: Adds additional female ovipositor.-->
+  <AddMultiOvipositorF.description>增加额外的产卵器。</AddMultiOvipositorF.description>
+  <!--原中文: '添加雌性产卵器。', 原英文: '无' -> 新英文: 'Adding female ovipositor.',更新于2026-02-14-->
+  <!--EN: Adding female ovipositor.-->
+  <AddMultiOvipositorF.jobString>添加雌性产卵器。</AddMultiOvipositorF.jobString>
+  <!-- natural penises -->
+  <!--原中文: '添加人类阴茎', 原英文: '无' -> 新英文: 'add penis',更新于2026-02-14-->
+  <!--EN: add penis-->
+  <AddMultiPenis.label>添加人类阴茎</AddMultiPenis.label>
+  <!--过时key，需删除-->
+  <AddMultiPenis.description>增加额外的阴茎。</AddMultiPenis.description>
+  <!--过时key，需删除-->
+  <AddMultiPenis.jobString>添加人类阴茎。</AddMultiPenis.jobString>
+  <!--原中文: '添加马阴茎', 原英文: '无' -> 新英文: 'add equine penis',更新于2026-02-14-->
+  <!--EN: add equine penis-->
+  <AddMultiHorsePenis.label>添加马阴茎</AddMultiHorsePenis.label>
+  <!--过时key，需删除-->
+  <AddMultiHorsePenis.description>增加额外的阴茎。</AddMultiHorsePenis.description>
+  <!--过时key，需删除-->
+  <AddMultiHorsePenis.jobString>添加马阴茎。</AddMultiHorsePenis.jobString>
+  <!--原中文: '添加猫阴茎', 原英文: '无' -> 新英文: 'add feline penis',更新于2026-02-14-->
+  <!--EN: add feline penis-->
+  <AddMultiCatPenis.label>添加猫阴茎</AddMultiCatPenis.label>
+  <!--过时key，需删除-->
+  <AddMultiCatPenis.description>增加额外的阴茎。</AddMultiCatPenis.description>
+  <!--过时key，需删除-->
+  <AddMultiCatPenis.jobString>添加猫阴茎。</AddMultiCatPenis.jobString>
+  <!--原中文: '添加狗阴茎', 原英文: '无' -> 新英文: 'add canine penis',更新于2026-02-14-->
+  <!--EN: add canine penis-->
+  <AddMultiDogPenis.label>添加狗阴茎</AddMultiDogPenis.label>
+  <!--过时key，需删除-->
+  <AddMultiDogPenis.description>增加额外的阴茎。</AddMultiDogPenis.description>
+  <!--过时key，需删除-->
+  <AddMultiDogPenis.jobString>添加狗阴茎。</AddMultiDogPenis.jobString>
+  <!--原中文: '添加龙阴茎', 原英文: '无' -> 新英文: 'add dragon penis',更新于2026-02-14-->
+  <!--EN: add dragon penis-->
+  <AddMultiDragonPenis.label>添加龙阴茎</AddMultiDragonPenis.label>
+  <!--过时key，需删除-->
+  <AddMultiDragonPenis.description>增加额外的阴茎。</AddMultiDragonPenis.description>
+  <!--过时key，需删除-->
+  <AddMultiDragonPenis.jobString>添加龙阴茎。</AddMultiDragonPenis.jobString>
+  <!--原中文: '添加浣熊阴茎', 原英文: '无' -> 新英文: 'add procyonine penis',更新于2026-02-14-->
+  <!--EN: add procyonine penis-->
+  <AddMultiRaccoonPenis.label>添加浣熊阴茎</AddMultiRaccoonPenis.label>
+  <!--过时key，需删除-->
+  <AddMultiRaccoonPenis.description>增加额外的阴茎。</AddMultiRaccoonPenis.description>
+  <!--过时key，需删除-->
+  <AddMultiRaccoonPenis.jobString>添加浣熊阴茎。</AddMultiRaccoonPenis.jobString>
+  <!--原中文: '添加半阴茎', 原英文: '无' -> 新英文: 'add hemipenis',更新于2026-02-14-->
+  <!--EN: add hemipenis-->
+  <AddMultiHemiPenis.label>添加半阴茎</AddMultiHemiPenis.label>
+  <!--过时key，需删除-->
+  <AddMultiHemiPenis.description>增加额外的阴茎。</AddMultiHemiPenis.description>
+  <!--过时key，需删除-->
+  <AddMultiHemiPenis.jobString>添加半阴茎。</AddMultiHemiPenis.jobString>
+  <!--原中文: '添加鳄鱼阴茎', 原英文: '无' -> 新英文: 'add crocodilian penis',更新于2026-02-14-->
+  <!--EN: add crocodilian penis-->
+  <AddMultiCrocodilianPenis.label>添加鳄鱼阴茎</AddMultiCrocodilianPenis.label>
+  <!--过时key，需删除-->
+  <AddMultiCrocodilianPenis.description>增加额外的阴茎。</AddMultiCrocodilianPenis.description>
+  <!--过时key，需删除-->
+  <AddMultiCrocodilianPenis.jobString>添加鳄鱼阴茎。</AddMultiCrocodilianPenis.jobString>
+  <!--原中文: '添加雄性产卵器', 原英文: '无' -> 新英文: 'add male ovipositor',更新于2026-02-14-->
+  <!--EN: add male ovipositor-->
+  <AddMultiOvipositorM.label>添加雄性产卵器</AddMultiOvipositorM.label>
+  <!--原中文: '添加额外的雄性产卵器。', 原英文: '无' -> 新英文: 'Adds additional male ovipositor.',更新于2026-02-14-->
+  <!--EN: Adds additional male ovipositor.-->
+  <AddMultiOvipositorM.description>添加额外的雄性产卵器。</AddMultiOvipositorM.description>
+  <!--原中文: '添加雄性产卵器。', 原英文: '无' -> 新英文: 'Adding male ovipositor.',更新于2026-02-14-->
+  <!--EN: Adding male ovipositor.-->
+  <AddMultiOvipositorM.jobString>添加雄性产卵器。</AddMultiOvipositorM.jobString>
+  <!-- Breasts -->
+  <!--原中文: '添加人类乳房', 原英文: '无' -> 新英文: 'add breasts',更新于2026-02-14-->
+  <!--EN: add breasts-->
+  <AddMultiBreasts.label>添加人类乳房</AddMultiBreasts.label>
+  <!--过时key，需删除-->
+  <AddMultiBreasts.description>添加额外一行乳房。</AddMultiBreasts.description>
+  <!--过时key，需删除-->
+  <AddMultiBreasts.jobString>添加人类乳房。</AddMultiBreasts.jobString>
+  <!--过时key，需删除-->
+  <AddMultiUdder.label>添加奶乳</AddMultiUdder.label>
+  <!--过时key，需删除-->
+  <AddMultiUdder.description>添加额外的奶乳。</AddMultiUdder.description>
+  <!--过时key，需删除-->
+  <AddMultiUdder.jobString>添加奶乳。</AddMultiUdder.jobString>
+  <!--原中文: '添加人类肛门', 原英文: '无' -> 新英文: 'add anus',更新于2026-02-14-->
+  <!--EN: add anus-->
+  <AddMultiAnus.label>添加人类肛门</AddMultiAnus.label>
+  <!--过时key，需删除-->
+  <AddMultiAnus.description>添加额外的肛门。</AddMultiAnus.description>
+  <!--过时key，需删除-->
+  <AddMultiAnus.jobString>添加肛门。</AddMultiAnus.jobString>
+  <!--原中文: '添加昆虫肛门', 原英文: '无' -> 新英文: 'add insect anus',更新于2026-02-14-->
+  <!--EN: add insect anus-->
+  <AddMultiInsectAnus.label>添加昆虫肛门</AddMultiInsectAnus.label>
+  <!--过时key，需删除-->
+  <AddMultiInsectAnus.description>添加额外的肛门。</AddMultiInsectAnus.description>
+  <!--过时key，需删除-->
+  <AddMultiInsectAnus.jobString>添加肛门。</AddMultiInsectAnus.jobString>
+</LanguageData>

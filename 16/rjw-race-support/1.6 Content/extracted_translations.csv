@@ -1,0 +1,715 @@
+key,text,tag,file,type,protected_text
+EctoFluid.label,ectoplasm fluid,label,Custom Sexfluids.xml,def,ectoplasm fluid
+FilthEctoFluid.label,ethereal splater,label,Custom Sexfluids.xml,def,ethereal splater
+DemonSpunk.label,demonic cum,label,Custom Sexfluids.xml,def,demonic <ALIMT >cum</ALIMT>
+FilthDemonSpunk.label,foul cum splater,label,Custom Sexfluids.xml,def,foul <ALIMT >cum</ALIMT> splater
+BioferriteCum.label,bioferrite cum,label,Custom Sexfluids.xml,def,bioferrite <ALIMT >cum</ALIMT>
+FilthBioferriteCum.label,bioferrite splater,label,Custom Sexfluids.xml,def,bioferrite splater
+BioferriteLube.label,bioferrite lubricant,label,Custom Sexfluids.xml,def,bioferrite <ALIMT >lubricant</ALIMT>
+FilthBioferriteLube.label,bioferrite lubricant splater,label,Custom Sexfluids.xml,def,bioferrite <ALIMT >lubricant</ALIMT> splater
+BioferriteMilk.label,bioferrite milk,label,Custom Sexfluids.xml,def,bioferrite milk
+FilthBioferriteMilk.label,bioferrite milk splatter,label,Custom Sexfluids.xml,def,bioferrite milk splatter
+RJW_InsectLargeEgg.label,Egg,label,Eggs.xml,def,Egg
+RJW_InsectLargeEgg.description,"Enormous parasitic egg(s) that enter the host's body and feeds off their nutrients until ready to hatch.
+Just be glad they don't hatch by bursting out of your chest.",description,Eggs.xml,def,Enormous parasitic <ALIMT >(PH_2)</ALIMT> that enter the host's body and feeds off their nutrients until ready to hatch.<ALIMT >(PH_1)</ALIMT>Just be glad they don't hatch by bursting out of your chest.
+BearPenis.label,bear penis,label,Items_BodyParts.xml,def,bear <ALIMT >penis</ALIMT>
+BearPenis.description,A small penis supported by a bone.,description,Items_BodyParts.xml,def,A <ALIMT >small <ALIMT >penis</ALIMT></ALIMT> supported by a bone.
+BovinePenis.label,bovine penis,label,Items_BodyParts.xml,def,bovine <ALIMT >penis</ALIMT>
+BovinePenis.description,A rather long but thin penis with large testicles.,description,Items_BodyParts.xml,def,A rather long but thin <ALIMT >penis</ALIMT> with large <ALIMT >testicles</ALIMT>.
+BovineVagina.label,bovine vagina,label,Items_BodyParts.xml,def,bovine <ALIMT >vagina</ALIMT>
+BovineVagina.description,"A rather thin and deep vagina, likely belonging to a large mammal.",description,Items_BodyParts.xml,def,"A rather thin and deep <ALIMT >vagina</ALIMT>, likely belonging to a large mammal."
+DogAnus.label,dog anus,label,Items_BodyParts.xml,def,dog <ALIMT >anus</ALIMT>
+DogAnus.description,A canine anus.,description,Items_BodyParts.xml,def,A canine <ALIMT >anus</ALIMT>.
+DinoPenis.label,dino penis,label,Items_BodyParts.xml,def,dino <ALIMT >penis</ALIMT>
+DinoPenis.description,A large tapered penis that is slightly flattened at the top. It looks similar to a large tongue.,description,Items_BodyParts.xml,def,A large tapered <ALIMT >penis</ALIMT> that is slightly flattened at the top. It looks similar to a large tongue.
+DinoVagina.label,dinosaur vagina,label,Items_BodyParts.xml,def,<ALIMT >dinosaur</ALIMT> <ALIMT >vagina</ALIMT>
+DinoVagina.description,A egg-laying vagina with a tough hide on the outside.,description,Items_BodyParts.xml,def,A egg-laying <ALIMT >vagina</ALIMT> with a tough hide on the outside.
+DinoAnus.label,dinosaur anus,label,Items_BodyParts.xml,def,<ALIMT >dinosaur</ALIMT> <ALIMT >anus</ALIMT>
+DinoAnus.description,An anus with a tough hide on the outside.,description,Items_BodyParts.xml,def,An <ALIMT >anus</ALIMT> with a tough hide on the outside.
+DragonAnus.label,dragon anus,label,Items_BodyParts.xml,def,<ALIMT >dragon</ALIMT> <ALIMT >anus</ALIMT>
+DragonAnus.description,"An somewhat elongated anus with unexpectedly soft scales covering it on the outside, found normaly under tails of draconoids.",description,Items_BodyParts.xml,def,"An somewhat elongated <ALIMT >anus</ALIMT> with unexpectedly soft scales covering it on the outside, found normaly under tails of draconoids."
+ElephantPenis.label,elephant penis,label,Items_BodyParts.xml,def,elephant <ALIMT >penis</ALIMT>
+ElephantPenis.description,A large and flexible prehensile penis.,description,Items_BodyParts.xml,def,A large and flexible prehensile <ALIMT >penis</ALIMT>.
+ElephantVagina.label,elephant vagina,label,Items_BodyParts.xml,def,elephant <ALIMT >vagina</ALIMT>
+ElephantVagina.description,The deep vagina of a female elephant.,description,Items_BodyParts.xml,def,The deep <ALIMT >vagina</ALIMT> of a female elephant.
+FelineAnus.label,feline anus,label,Items_BodyParts.xml,def,feline <ALIMT >anus</ALIMT>
+FelineAnus.description,A feline anus.,description,Items_BodyParts.xml,def,A feline <ALIMT >anus</ALIMT>.
+MonkeyPenis.label,monkey penis,label,Items_BodyParts.xml,def,monkey <ALIMT >penis</ALIMT>
+MonkeyPenis.description,"A very thin, but otherwise humanoid-looking penis.",description,Items_BodyParts.xml,def,"A very thin, but otherwise humanoid-looking <ALIMT >penis</ALIMT>."
+PigPenis.label,pig penis,label,Items_BodyParts.xml,def,<ALIMT >pig</ALIMT> <ALIMT >penis</ALIMT>
+PigPenis.description,A corkscrew shaped penis.,description,Items_BodyParts.xml,def,A corkscrew shaped <ALIMT >penis</ALIMT>.
+PigVagina.label,pig vagina,label,Items_BodyParts.xml,def,<ALIMT >pig</ALIMT> <ALIMT >vagina</ALIMT>
+PigVagina.description,The foldy vagina of a female pig.,description,Items_BodyParts.xml,def,The foldy <ALIMT >vagina</ALIMT> of a female <ALIMT >pig</ALIMT>.
+MammalPenis.label,mammal penis,label,Items_BodyParts.xml,def,mammal <ALIMT >penis</ALIMT>
+MammalPenis.description,A generic mammalian animal's penis.,description,Items_BodyParts.xml,def,A generic mammalian animal's <ALIMT >penis</ALIMT>.
+MammalVagina.label,mammal vagina,label,Items_BodyParts.xml,def,mammal <ALIMT >vagina</ALIMT>
+MammalVagina.description,A generic vagina that probably belongs to some mammal.,description,Items_BodyParts.xml,def,A generic <ALIMT >vagina</ALIMT> that probably belongs to some mammal.
+MammalAnus.label,mammal anus,label,Items_BodyParts.xml,def,mammal <ALIMT >anus</ALIMT>
+MammalAnus.description,A generic mammalian animal's anus.,description,Items_BodyParts.xml,def,A generic mammalian animal's <ALIMT >anus</ALIMT>.
+CervineAnus.label,cervine anus,label,Items_BodyParts.xml,def,cervine <ALIMT >anus</ALIMT>
+CervineAnus.description,A deer's anus.,description,Items_BodyParts.xml,def,A <ALIMT >deer</ALIMT>'s <ALIMT >anus</ALIMT>.
+HorseAnus.label,equine anus,label,Items_BodyParts.xml,def,equine <ALIMT >anus</ALIMT>
+HorseAnus.description,An anus shaped like a doughnut.,description,Items_BodyParts.xml,def,An <ALIMT >anus</ALIMT> shaped like a doughnut.
+HyenaVagina.label,hyena pseudo-penis,label,Items_BodyParts.xml,def,hyena pseudo-<ALIMT >penis</ALIMT>
+HyenaVagina.description,"The clitoris of the female spotted hyena is enlarged into a pseudo-penis, through which the female urinates and reproduces. It can even get erect!",description,Items_BodyParts.xml,def,"The <ALIMT >clitoris</ALIMT> of the female spotted hyena is enlarged into a pseudo-<ALIMT >penis</ALIMT>, through which the female urinates and reproduces. It can even get erect!"
+MarinePenis.label,marine penis,label,Items_BodyParts.xml,def,marine <ALIMT >penis</ALIMT>
+MarinePenis.description,"A girthy, retractable penis that tapers to a point; it likely belongs to a seal, walrus, or hippo.",description,Items_BodyParts.xml,def,"A girthy, <ALIMT >retractable <ALIMT >penis</ALIMT></ALIMT> that tapers to a point; it likely belongs to a seal, walrus, or hippo."
+MarineVagina.label,marine vagina,label,Items_BodyParts.xml,def,marine <ALIMT >vagina</ALIMT>
+MarineVagina.description,A slippery vagina.,description,Items_BodyParts.xml,def,A slippery <ALIMT >vagina</ALIMT>.
+CactoidPenis.label,cactoid penis,label,Items_BodyParts.xml,def,cactoid <ALIMT >penis</ALIMT>
+CactoidPenis.description,"A rough plant-like penis, with thorns along the shaft.",description,Items_BodyParts.xml,def,"A rough plant-like <ALIMT >penis</ALIMT>, with thorns along the shaft."
+CactoidVagina.label,cactoid vagina,label,Items_BodyParts.xml,def,cactoid <ALIMT >vagina</ALIMT>
+CactoidVagina.description,"A rough plant-like vagina, with thorns lining the inner walls. The thorns grip male genitals during sex.",description,Items_BodyParts.xml,def,"A rough plant-like <ALIMT >vagina</ALIMT>, with thorns lining the inner walls. The thorns grip male genitals during <ALIMT >sex</ALIMT>."
+CactoidAnus.label,cactoid anus,label,Items_BodyParts.xml,def,cactoid <ALIMT >anus</ALIMT>
+CactoidAnus.description,A rough plant-like anus. No thorns this time.,description,Items_BodyParts.xml,def,A rough plant-like <ALIMT >anus</ALIMT>. No thorns this time.
+TurtlePenis.label,turtle penis,label,Items_BodyParts.xml,def,turtle <ALIMT >penis</ALIMT>
+TurtlePenis.description,A large penis with a huge flare at the tip.,description,Items_BodyParts.xml,def,A large <ALIMT >penis</ALIMT> with a huge flare at the tip.
+ReptilePenis.label,reptile penis,label,Items_BodyParts.xml,def,reptile <ALIMT >penis</ALIMT>
+ReptilePenis.description,"A smooth and tapering to point penis, hidden inside a cloacal slit when its owner are not aroused.",description,Items_BodyParts.xml,def,"A smooth and tapering to point <ALIMT >penis</ALIMT>, hidden inside a cloacal slit when its owner are not <ALIMT >aroused</ALIMT>."
+AedeagusPenis.label,aedeagus,label,Items_BodyParts.xml,def,aedeagus
+AedeagusPenis.description,"The phallus of a male arthropod, for excreting a spermatophore to inseminate a female arthropod.",description,Items_BodyParts.xml,def,"The phallus of a male arthropod, for excreting a spermatophore to inseminate a female arthropod."
+OviporeVagina.label,ovipore,label,Items_BodyParts.xml,def,ovipore
+OviporeVagina.description,A pore-like sexual organ of a female arthropod for receiving a spermatophore. Very loosely comparable to a vagina.,description,Items_BodyParts.xml,def,A pore-like <ALIMT >sexual</ALIMT> organ of a female arthropod for receiving a spermatophore. Very loosely comparable to a <ALIMT >vagina</ALIMT>.
+AntherPenis.label,anther,label,Items_BodyParts.xml,def,anther
+AntherPenis.description,"A flower's male reproductive organ. A long and thin filament, with a large pollen-producing head in the tip.",description,Items_BodyParts.xml,def,"A flower's male reproductive organ. A long and thin filament, with a large pollen-producing head in the tip."
+PistilVagina.label,pistil,label,Items_BodyParts.xml,def,pistil
+PistilVagina.description,A flower's female reproductive organ. The sticky entrance is connected to the ovaries via a long tube-like structure.,description,Items_BodyParts.xml,def,A flower's female reproductive organ. The sticky entrance is connected to the ovaries via a long <ALIMT >tube</ALIMT>-like structure.
+TentaclePenis.label,tentacles,label,Items_BodyParts.xml,def,tentacles
+TentaclePenis.description,"A mass of tentacle-like penises, capable of both restraining and pleasuring.",description,Items_BodyParts.xml,def,"A mass of <ALIMT >tentacle</ALIMT>-like penises, capable of both restraining and pleasuring."
+VinePenis.label,vines,label,Items_BodyParts.xml,def,vines
+VinePenis.description,A mass of vines where a penis would be.,description,Items_BodyParts.xml,def,A mass of vines where a <ALIMT >penis</ALIMT> would be.
+NecroPenis.label,necro penis,label,Items_BodyParts.xml,def,necro <ALIMT >penis</ALIMT>
+NecroPenis.description,"A disgusting, rotting penis that somehow still works.",description,Items_BodyParts.xml,def,"A disgusting, rotting <ALIMT >penis</ALIMT> that somehow still works."
+NecroVagina.label,necro vagina,label,Items_BodyParts.xml,def,necro <ALIMT >vagina</ALIMT>
+NecroVagina.description,"A disgusting, rotting vagina. Its insides are as cold as a grave.",description,Items_BodyParts.xml,def,"A disgusting, rotting <ALIMT >vagina</ALIMT>. Its insides are as cold as a grave."
+NecroAnus.label,necro anus,label,Items_BodyParts.xml,def,necro <ALIMT >anus</ALIMT>
+NecroAnus.description,"A disgusting, rotting anus. Its insides are as cold as a grave.",description,Items_BodyParts.xml,def,"A disgusting, rotting <ALIMT >anus</ALIMT>. Its insides are as cold as a grave."
+ElfPenis.label,elf penis,label,Items_BodyParts.xml,def,<ALIMT >elf</ALIMT> <ALIMT >penis</ALIMT>
+ElfPenis.description,A thinner and longer humanlike penis. Is that glitter?,description,Items_BodyParts.xml,def,A thinner and longer humanlike <ALIMT >penis</ALIMT>. Is that glitter?
+ElfVagina.label,elf vagina,label,Items_BodyParts.xml,def,<ALIMT >elf</ALIMT> <ALIMT >vagina</ALIMT>
+ElfVagina.description,A tighter humanlike vagina. Tastes like oranges.,description,Items_BodyParts.xml,def,A tighter humanlike <ALIMT >vagina</ALIMT>. Tastes like oranges.
+ElfAnus.label,elf anus,label,Items_BodyParts.xml,def,<ALIMT >elf</ALIMT> <ALIMT >anus</ALIMT>
+ElfAnus.description,A tighter humanlike anus. Smells of flowers.,description,Items_BodyParts.xml,def,A tighter humanlike <ALIMT >anus</ALIMT>. Smells of flowers.
+GolemPenis.label,golem penis,label,Items_BodyParts.xml,def,golem <ALIMT >penis</ALIMT>
+GolemPenis.description,A rough and jagged stone-like penis.,description,Items_BodyParts.xml,def,A rough and jagged stone-like <ALIMT >penis</ALIMT>.
+GhoulPenis.label,ghoul penis,label,Items_BodyParts.xml,def,ghoul <ALIMT >penis</ALIMT>
+GhoulPenis.description,A humanlike penis that glows slightly. It's very hot to the touch.,description,Items_BodyParts.xml,def,A humanlike <ALIMT >penis</ALIMT> that glows slightly. It's very <ALIMT >hot</ALIMT> to the <ALIMT >touch</ALIMT>.
+GhoulVagina.label,ghoul vagina,label,Items_BodyParts.xml,def,ghoul <ALIMT >vagina</ALIMT>
+GhoulVagina.description,A humanlike vagina that glows slightly. It is uncomfortably hot inside.,description,Items_BodyParts.xml,def,A humanlike <ALIMT >vagina</ALIMT> that glows slightly. It is uncomfortably <ALIMT >hot</ALIMT> inside.
+GhoulAnus.label,ghoul anus,label,Items_BodyParts.xml,def,ghoul <ALIMT >anus</ALIMT>
+GhoulAnus.description,An anus that glows slightly. It is uncomfortably hot inside.,description,Items_BodyParts.xml,def,An <ALIMT >anus</ALIMT> that glows slightly. It is uncomfortably <ALIMT >hot</ALIMT> inside.
+OrcPenis.label,orc penis,label,Items_BodyParts.xml,def,orc <ALIMT >penis</ALIMT>
+OrcPenis.description,"A girthy penis with a preputial ring, but otherwise similar to a humanoid penis.",description,Items_BodyParts.xml,def,"A girthy <ALIMT >penis</ALIMT> with a preputial ring, but otherwise similar to a humanoid <ALIMT >penis</ALIMT>."
+OrcVagina.label,orc vagina,label,Items_BodyParts.xml,def,orc <ALIMT >vagina</ALIMT>
+OrcVagina.description,A loose humanlike vagina with very large lips.,description,Items_BodyParts.xml,def,A loose humanlike <ALIMT >vagina</ALIMT> with very large lips.
+OrcAnus.label,orc anus,label,Items_BodyParts.xml,def,orc <ALIMT >anus</ALIMT>
+OrcAnus.description,An anus that looks like a mix between an humanlike anus and an equine anus.,description,Items_BodyParts.xml,def,An <ALIMT >anus</ALIMT> that looks like a mix between an humanlike <ALIMT >anus</ALIMT> and an equine <ALIMT >anus</ALIMT>.
+TreePenis.label,bark penis,label,Items_BodyParts.xml,def,bark <ALIMT >penis</ALIMT>
+TreePenis.description,"A naturally grown wooden penis. The testicles are completely covered in hard, wooden bark, while the texture along the shaft is softer, leaving the tip uncovered.",description,Items_BodyParts.xml,def,"A naturally grown wooden <ALIMT >penis</ALIMT>. The <ALIMT >testicles</ALIMT> are completely covered in hard, wooden bark, while the texture along the shaft is softer, leaving the tip uncovered."
+TreeVagina.label,bark vagina,label,Items_BodyParts.xml,def,bark <ALIMT >vagina</ALIMT>
+TreeVagina.description,"A naturally grown wooden vagina. While the outside looks like bark, the inside is soft.",description,Items_BodyParts.xml,def,"A naturally grown wooden <ALIMT >vagina</ALIMT>. While the outside looks like bark, the inside is soft."
+TreeAnus.label,bark anus,label,Items_BodyParts.xml,def,bark <ALIMT >anus</ALIMT>
+TreeAnus.description,"A naturally grown wooden anus. While the outside looks like bark, the inside is soft.",description,Items_BodyParts.xml,def,"A naturally grown wooden <ALIMT >anus</ALIMT>. While the outside looks like bark, the inside is soft."
+MammalBreasts.label,mammal breasts,label,Items_BodyParts.xml,def,mammal <ALIMT >breasts</ALIMT>
+MammalBreasts.description,A group of breasts/nipples that mammals use to suckle their young.,description,Items_BodyParts.xml,def,A group of <ALIMT >breasts</ALIMT>/<ALIMT >nipples</ALIMT> that mammals use to suckle their young.
+GhostBreasts.label,immaterial breasts,label,Items_BodyParts.xml,def,immaterial <ALIMT >breasts</ALIMT>
+GhostBreasts.description,"A translucent, almost intangible pair of breasts. Touching them sends chills down the spine.",description,Items_BodyParts.xml,def,"A translucent, almost intangible pair of <ALIMT >breasts</ALIMT>. Touching them sends chills down the spine."
+CactoidBreasts.label,cactoid breasts,label,Items_BodyParts.xml,def,cactoid <ALIMT >breasts</ALIMT>
+CactoidBreasts.description,"A pair of rough plant-like breasts, with thorns all around them, and flower-like nipples.",description,Items_BodyParts.xml,def,"A pair of rough plant-like <ALIMT >breasts</ALIMT>, with thorns all around them, and flower-like <ALIMT >nipples</ALIMT>."
+GhoulBreasts.label,irradiated breasts,label,Items_BodyParts.xml,def,irradiated <ALIMT >breasts</ALIMT>
+GhoulBreasts.description,A pair of humanlike breasts that glow slightly. They're very hot to the touch.,description,Items_BodyParts.xml,def,A pair of humanlike <ALIMT >breasts</ALIMT> that glow slightly. They're very <ALIMT >hot</ALIMT> to the <ALIMT >touch</ALIMT>.
+NecroBreasts.label,decayed breasts,label,Items_BodyParts.xml,def,decayed <ALIMT >breasts</ALIMT>
+NecroBreasts.description,"A disgusting, rotting pair of breasts.",description,Items_BodyParts.xml,def,"A disgusting, rotting pair of <ALIMT >breasts</ALIMT>."
+OrcBreasts.label,orc breasts,label,Items_BodyParts.xml,def,orc <ALIMT >breasts</ALIMT>
+OrcBreasts.description,A pair of humanlike breasts that sag greatly.,description,Items_BodyParts.xml,def,A pair of humanlike <ALIMT >breasts</ALIMT> that sag greatly.
+ScaleBreasts.label,scaly breasts,label,Items_BodyParts.xml,def,scaly <ALIMT >breasts</ALIMT>
+ScaleBreasts.description,"A pair of scale-covered breasts, without nipples.",description,Items_BodyParts.xml,def,"A pair of scale-covered <ALIMT >breasts</ALIMT>, without <ALIMT >nipples</ALIMT>."
+TreeBreasts.label,bark breasts,label,Items_BodyParts.xml,def,bark <ALIMT >breasts</ALIMT>
+TreeBreasts.description,"A pair of naturally grown wooden breasts. Hard bark covers the entire outer portion, while leaving the nipples underneath exposed.",description,Items_BodyParts.xml,def,"A pair of naturally grown wooden <ALIMT >breasts</ALIMT>. Hard bark covers the entire outer portion, while leaving the <ALIMT >nipples</ALIMT> underneath <ALIMT >exposed</ALIMT>."
+GhostPenis.label,immaterial penis,label,Items_BodyParts.xml,def,immaterial <ALIMT >penis</ALIMT>
+GhostPenis.description,"A translucent, almost intangible penis. Touching it sends chills down the spine.",description,Items_BodyParts.xml,def,"A translucent, almost intangible <ALIMT >penis</ALIMT>. Touching it sends chills down the spine."
+GhostVagina.label,immaterial vagina,label,Items_BodyParts.xml,def,immaterial <ALIMT >vagina</ALIMT>
+GhostVagina.description,"A translucent, almost intangible vagina. Penetrating it sends chills down the spine.",description,Items_BodyParts.xml,def,"A translucent, almost intangible <ALIMT >vagina</ALIMT>. Penetrating it sends chills down the spine."
+GhostAnus.label,immaterial anus,label,Items_BodyParts.xml,def,immaterial <ALIMT >anus</ALIMT>
+GhostAnus.description,"A translucent, almost intangible anus. Penetrating it sends chills down the spine.",description,Items_BodyParts.xml,def,"A translucent, almost intangible <ALIMT >anus</ALIMT>. Penetrating it sends chills down the spine."
+DemonTentaclesF.label,demon tentacle,label,Items_BodyParts.xml,def,demon <ALIMT >tentacle</ALIMT>
+DemonTentaclesF.description,"A long and flexible tentacle, capable of laying eggs.",description,Items_BodyParts.xml,def,"A long and flexible <ALIMT >tentacle</ALIMT>, capable of laying eggs."
+BioferriteBreasts.label,bioferrite breasts,label,Items_BodyParts.xml,def,bioferrite <ALIMT >breasts</ALIMT>
+BioferriteBreasts.description,"A pair of breasts made of a strange, metallic-organic fibrous substance. They possess an unsettling shimmer and a subtle psychic resonance, feeling both firm and strangely yielding to the touch. Their surface might display faint, shifting patterns, hinting at the chaotic mechanite processes within.",description,Items_BodyParts.xml,def,"A pair of <ALIMT >breasts</ALIMT> made of a strange, metallic-organic fibrous substance. They possess an unsettling shimmer and a subtle psychic resonance, feeling both firm and strangely yielding to the <ALIMT >touch</ALIMT>. Their surface might display faint, shifting patterns, hinting at the chaotic mechanite processes within."
+BioferritePenis.label,bioferrite penis,label,Items_BodyParts.xml,def,bioferrite <ALIMT >penis</ALIMT>
+BioferritePenis.description,"An exotic penis composed of bioferrite, a fibrous substance with both organic and metallic properties. Its shaft has a peculiar, almost segmented texture, and it feels strangely warm and cool to the touch. Subtle psychic flows can cause a faint, unsettling vibration during arousal, and its chaotic, cancer-like formation gives it an unnaturally perfect, yet alien, symmetry.",description,Items_BodyParts.xml,def,"An exotic <ALIMT >penis</ALIMT> composed of bioferrite, a fibrous substance with both organic and metallic properties. Its shaft has a peculiar, almost segmented texture, and it feels strangely warm and cool to the <ALIMT >touch</ALIMT>. Subtle psychic flows can cause a faint, unsettling vibration during <ALIMT >arousal</ALIMT>, and its chaotic, cancer-like formation gives it an unnaturally perfect, yet alien, symmetry."
+BioferriteVagina.label,bioferrite vagina,label,Items_BodyParts.xml,def,bioferrite <ALIMT >vagina</ALIMT>
+BioferriteVagina.description,"An exotic vagina crafted from bioferrite, a unique material blending organic and metallic traits. Its inner folds possess a peculiar, almost shifting texture, and it seems to subtly resonate with psychic energies during penetration. The chaotic, cancer-like process of its creation by mechanites has resulted in a form that is both alien and alluring, providing an unnerving yet intense sensation.",description,Items_BodyParts.xml,def,"An exotic <ALIMT >vagina</ALIMT> crafted from bioferrite, a unique material blending organic and metallic traits. Its inner folds possess a peculiar, almost shifting texture, and it seems to subtly resonate with psychic energies during <ALIMT >penetration</ALIMT>. The chaotic, cancer-like process of its creation by mechanites has resulted in a form that is both alien and alluring, providing an unnerving yet intense sensation."
+BioferriteAnus.label,bioferrite anus,label,Items_BodyParts.xml,def,bioferrite <ALIMT >anus</ALIMT>
+BioferriteAnus.description,"An exotic anus made of bioferrite, an unusual substance possessing both organic and metallic characteristics. Its sphincter is remarkably resilient yet surprisingly flexible, and it can feel unnervingly responsive to psychic influence. The chaotic growth patterns of mechanites during its formation have given it a distinct, almost crystalline structure, offering a unique and intense experience.",description,Items_BodyParts.xml,def,"An exotic <ALIMT >anus</ALIMT> made of bioferrite, an unusual substance possessing both organic and metallic characteristics. Its sphincter is remarkably resilient yet surprisingly flexible, and it can feel unnervingly responsive to psychic influence. The chaotic growth patterns of mechanites during its formation have given it a distinct, almost crystalline structure, offering a unique and intense experience."
+MultiPenisBearPenis.label,add bear penis,label,Recipes_Surgery.xml,def,add bear <ALIMT >penis</ALIMT>
+MultiPenisBearPenis.description,Adds a bear penis,description,Recipes_Surgery.xml,def,Adds a bear <ALIMT >penis</ALIMT>
+MultiPenisBearPenis.jobString,Adding a bear penis,jobString,Recipes_Surgery.xml,def,Adding a bear <ALIMT >penis</ALIMT>
+SexReassignmentPBearPenis.label,attach bear penis,label,Recipes_Surgery.xml,def,attach bear <ALIMT >penis</ALIMT>
+SexReassignmentPBearPenis.description,Attaches a bear penis,description,Recipes_Surgery.xml,def,Attaches a bear <ALIMT >penis</ALIMT>
+SexReassignmentPBearPenis.jobString,Attaching a bear penis,jobString,Recipes_Surgery.xml,def,Attaching a bear <ALIMT >penis</ALIMT>
+MultiPenisBovinePenis.label,add bovine penis,label,Recipes_Surgery.xml,def,add bovine <ALIMT >penis</ALIMT>
+MultiPenisBovinePenis.description,Adds a bovine penis,description,Recipes_Surgery.xml,def,Adds a bovine <ALIMT >penis</ALIMT>
+MultiPenisBovinePenis.jobString,Adding a bovine penis,jobString,Recipes_Surgery.xml,def,Adding a bovine <ALIMT >penis</ALIMT>
+SexReassignmentPBovinePenis.label,attach bovine penis,label,Recipes_Surgery.xml,def,attach bovine <ALIMT >penis</ALIMT>
+SexReassignmentPBovinePenis.description,Attaches a bovine penis,description,Recipes_Surgery.xml,def,Attaches a bovine <ALIMT >penis</ALIMT>
+SexReassignmentPBovinePenis.jobString,Attaching a bovine penis,jobString,Recipes_Surgery.xml,def,Attaching a bovine <ALIMT >penis</ALIMT>
+MultiVaginaBovineVagina.label,add bovine vagina,label,Recipes_Surgery.xml,def,add bovine <ALIMT >vagina</ALIMT>
+MultiVaginaBovineVagina.description,Adds a bovine vagina,description,Recipes_Surgery.xml,def,Adds a bovine <ALIMT >vagina</ALIMT>
+MultiVaginaBovineVagina.jobString,Adding a bovine vagina,jobString,Recipes_Surgery.xml,def,Adding a bovine <ALIMT >vagina</ALIMT>
+SexReassignmentVBovineVagina.label,attach bovine vagina,label,Recipes_Surgery.xml,def,attach bovine <ALIMT >vagina</ALIMT>
+SexReassignmentVBovineVagina.description,Attaches a bovine vagina,description,Recipes_Surgery.xml,def,Attaches a bovine <ALIMT >vagina</ALIMT>
+SexReassignmentVBovineVagina.jobString,Attaching a bovine vagina,jobString,Recipes_Surgery.xml,def,Attaching a bovine <ALIMT >vagina</ALIMT>
+MultiAnusDogAnus.label,add dog anus,label,Recipes_Surgery.xml,def,add dog <ALIMT >anus</ALIMT>
+MultiAnusDogAnus.description,Adds a dog anus,description,Recipes_Surgery.xml,def,Adds a dog <ALIMT >anus</ALIMT>
+MultiAnusDogAnus.jobString,Adding a dog anus,jobString,Recipes_Surgery.xml,def,Adding a dog <ALIMT >anus</ALIMT>
+AnalSurgeryDogAnus.label,attach dog anus,label,Recipes_Surgery.xml,def,attach dog <ALIMT >anus</ALIMT>
+AnalSurgeryDogAnus.description,Attaches a dog anus,description,Recipes_Surgery.xml,def,Attaches a dog <ALIMT >anus</ALIMT>
+AnalSurgeryDogAnus.jobString,Attaching a dog anus,jobString,Recipes_Surgery.xml,def,Attaching a dog <ALIMT >anus</ALIMT>
+MultiAnusDragonAnus.label,add dragon anus,label,Recipes_Surgery.xml,def,add <ALIMT >dragon</ALIMT> <ALIMT >anus</ALIMT>
+MultiAnusDragonAnus.description,Adds a dragon anus,description,Recipes_Surgery.xml,def,Adds a <ALIMT >dragon</ALIMT> <ALIMT >anus</ALIMT>
+MultiAnusDragonAnus.jobString,Adding a dragon anus,jobString,Recipes_Surgery.xml,def,Adding a <ALIMT >dragon</ALIMT> <ALIMT >anus</ALIMT>
+AnalSurgeryDragonAnus.label,attach dragon anus,label,Recipes_Surgery.xml,def,attach <ALIMT >dragon</ALIMT> <ALIMT >anus</ALIMT>
+AnalSurgeryDragonAnus.description,Attaches a dragon anus,description,Recipes_Surgery.xml,def,Attaches a <ALIMT >dragon</ALIMT> <ALIMT >anus</ALIMT>
+AnalSurgeryDragonAnus.jobString,Attaching a dragon anus,jobString,Recipes_Surgery.xml,def,Attaching a <ALIMT >dragon</ALIMT> <ALIMT >anus</ALIMT>
+MultiPenisDinoPenis.label,add dino penis,label,Recipes_Surgery.xml,def,add dino <ALIMT >penis</ALIMT>
+MultiPenisDinoPenis.description,Adds a dino penis,description,Recipes_Surgery.xml,def,Adds a dino <ALIMT >penis</ALIMT>
+MultiPenisDinoPenis.jobString,Adding a dino penis,jobString,Recipes_Surgery.xml,def,Adding a dino <ALIMT >penis</ALIMT>
+SexReassignmentPDinoPenis.label,attach dino penis,label,Recipes_Surgery.xml,def,attach dino <ALIMT >penis</ALIMT>
+SexReassignmentPDinoPenis.description,Attaches a dino penis,description,Recipes_Surgery.xml,def,Attaches a dino <ALIMT >penis</ALIMT>
+SexReassignmentPDinoPenis.jobString,Attaching a dino penis,jobString,Recipes_Surgery.xml,def,Attaching a dino <ALIMT >penis</ALIMT>
+MultiPenisElephantPenis.label,add elephant penis,label,Recipes_Surgery.xml,def,add elephant <ALIMT >penis</ALIMT>
+MultiPenisElephantPenis.description,Adds an elephant penis,description,Recipes_Surgery.xml,def,Adds an elephant <ALIMT >penis</ALIMT>
+MultiPenisElephantPenis.jobString,Adding an elephant penis,jobString,Recipes_Surgery.xml,def,Adding an elephant <ALIMT >penis</ALIMT>
+SexReassignmentPElephantPenis.label,attach elephant penis,label,Recipes_Surgery.xml,def,attach elephant <ALIMT >penis</ALIMT>
+SexReassignmentPElephantPenis.description,Attaches an elephant penis,description,Recipes_Surgery.xml,def,Attaches an elephant <ALIMT >penis</ALIMT>
+SexReassignmentPElephantPenis.jobString,Attaching an elephant penis,jobString,Recipes_Surgery.xml,def,Attaching an elephant <ALIMT >penis</ALIMT>
+MultiVaginaElephantVagina.label,add elephant vagina,label,Recipes_Surgery.xml,def,add elephant <ALIMT >vagina</ALIMT>
+MultiVaginaElephantVagina.description,Adds an elephant vagina,description,Recipes_Surgery.xml,def,Adds an elephant <ALIMT >vagina</ALIMT>
+MultiVaginaElephantVagina.jobString,Adding an elephant vagina,jobString,Recipes_Surgery.xml,def,Adding an elephant <ALIMT >vagina</ALIMT>
+SexReassignmentVElephantVagina.label,attach elephant vagina,label,Recipes_Surgery.xml,def,attach elephant <ALIMT >vagina</ALIMT>
+SexReassignmentVElephantVagina.description,Attaches an elephant vagina,description,Recipes_Surgery.xml,def,Attaches an elephant <ALIMT >vagina</ALIMT>
+SexReassignmentVElephantVagina.jobString,Attaching an elephant vagina,jobString,Recipes_Surgery.xml,def,Attaching an elephant <ALIMT >vagina</ALIMT>
+MultiAnusFelineAnus.label,add feline anus,label,Recipes_Surgery.xml,def,add feline <ALIMT >anus</ALIMT>
+MultiAnusFelineAnus.description,Adds a feline anus,description,Recipes_Surgery.xml,def,Adds a feline <ALIMT >anus</ALIMT>
+MultiAnusFelineAnus.jobString,Adding a feline anus,jobString,Recipes_Surgery.xml,def,Adding a feline <ALIMT >anus</ALIMT>
+AnalSurgeryFelineAnus.label,attach feline anus,label,Recipes_Surgery.xml,def,attach feline <ALIMT >anus</ALIMT>
+AnalSurgeryFelineAnus.description,Attaches a feline anus,description,Recipes_Surgery.xml,def,Attaches a feline <ALIMT >anus</ALIMT>
+AnalSurgeryFelineAnus.jobString,Attaching a feline anus,jobString,Recipes_Surgery.xml,def,Attaching a feline <ALIMT >anus</ALIMT>
+MultiPenisMonkeyPenis.label,add monkey penis,label,Recipes_Surgery.xml,def,add monkey <ALIMT >penis</ALIMT>
+MultiPenisMonkeyPenis.description,Adds a monkey penis,description,Recipes_Surgery.xml,def,Adds a monkey <ALIMT >penis</ALIMT>
+MultiPenisMonkeyPenis.jobString,Adding a monkey penis,jobString,Recipes_Surgery.xml,def,Adding a monkey <ALIMT >penis</ALIMT>
+SexReassignmentPMonkeyPenis.label,attach monkey penis,label,Recipes_Surgery.xml,def,attach monkey <ALIMT >penis</ALIMT>
+SexReassignmentPMonkeyPenis.description,Attaches a monkey penis,description,Recipes_Surgery.xml,def,Attaches a monkey <ALIMT >penis</ALIMT>
+SexReassignmentPMonkeyPenis.jobString,Attaching a monkey penis,jobString,Recipes_Surgery.xml,def,Attaching a monkey <ALIMT >penis</ALIMT>
+MultiPenisPigPenis.label,add pig penis,label,Recipes_Surgery.xml,def,add <ALIMT >pig</ALIMT> <ALIMT >penis</ALIMT>
+MultiPenisPigPenis.description,Adds a pig penis,description,Recipes_Surgery.xml,def,Adds a <ALIMT >pig</ALIMT> <ALIMT >penis</ALIMT>
+MultiPenisPigPenis.jobString,Adding a pig penis,jobString,Recipes_Surgery.xml,def,Adding a <ALIMT >pig</ALIMT> <ALIMT >penis</ALIMT>
+SexReassignmentPPigPenis.label,attach pig penis,label,Recipes_Surgery.xml,def,attach <ALIMT >pig</ALIMT> <ALIMT >penis</ALIMT>
+SexReassignmentPPigPenis.description,Attaches a pig penis,description,Recipes_Surgery.xml,def,Attaches a <ALIMT >pig</ALIMT> <ALIMT >penis</ALIMT>
+SexReassignmentPPigPenis.jobString,Attaching a pig penis,jobString,Recipes_Surgery.xml,def,Attaching a <ALIMT >pig</ALIMT> <ALIMT >penis</ALIMT>
+MultiVaginaPigVagina.label,add pig vagina,label,Recipes_Surgery.xml,def,add <ALIMT >pig</ALIMT> <ALIMT >vagina</ALIMT>
+MultiVaginaPigVagina.description,Adds a pig vagina,description,Recipes_Surgery.xml,def,Adds a <ALIMT >pig</ALIMT> <ALIMT >vagina</ALIMT>
+MultiVaginaPigVagina.jobString,Adding a pig vagina,jobString,Recipes_Surgery.xml,def,Adding a <ALIMT >pig</ALIMT> <ALIMT >vagina</ALIMT>
+SexReassignmentVPigVagina.label,attach pig vagina,label,Recipes_Surgery.xml,def,attach <ALIMT >pig</ALIMT> <ALIMT >vagina</ALIMT>
+SexReassignmentVPigVagina.description,Attaches a pig vagina,description,Recipes_Surgery.xml,def,Attaches a <ALIMT >pig</ALIMT> <ALIMT >vagina</ALIMT>
+SexReassignmentVPigVagina.jobString,Attaching a pig vagina,jobString,Recipes_Surgery.xml,def,Attaching a <ALIMT >pig</ALIMT> <ALIMT >vagina</ALIMT>
+MultiPenisMammalPenis.label,add mammal penis,label,Recipes_Surgery.xml,def,add mammal <ALIMT >penis</ALIMT>
+MultiPenisMammalPenis.description,Adds a mammalian penis,description,Recipes_Surgery.xml,def,Adds a mammalian <ALIMT >penis</ALIMT>
+MultiPenisMammalPenis.jobString,Adding a mammalian penis,jobString,Recipes_Surgery.xml,def,Adding a mammalian <ALIMT >penis</ALIMT>
+SexReassignmentPMammalPenis.label,attach mammal penis,label,Recipes_Surgery.xml,def,attach mammal <ALIMT >penis</ALIMT>
+SexReassignmentPMammalPenis.description,Attaches a mammalian penis,description,Recipes_Surgery.xml,def,Attaches a mammalian <ALIMT >penis</ALIMT>
+SexReassignmentPMammalPenis.jobString,Attaching a mammalian penis,jobString,Recipes_Surgery.xml,def,Attaching a mammalian <ALIMT >penis</ALIMT>
+MultiVaginaMammalVagina.label,add mammal vagina,label,Recipes_Surgery.xml,def,add mammal <ALIMT >vagina</ALIMT>
+MultiVaginaMammalVagina.description,Adds a mammalian vagina,description,Recipes_Surgery.xml,def,Adds a mammalian <ALIMT >vagina</ALIMT>
+MultiVaginaMammalVagina.jobString,Adding a mammalian vagina,jobString,Recipes_Surgery.xml,def,Adding a mammalian <ALIMT >vagina</ALIMT>
+SexReassignmentVMammalVagina.label,attach mammal vagina,label,Recipes_Surgery.xml,def,attach mammal <ALIMT >vagina</ALIMT>
+SexReassignmentVMammalVagina.description,Attaches a mammalian vagina,description,Recipes_Surgery.xml,def,Attaches a mammalian <ALIMT >vagina</ALIMT>
+SexReassignmentVMammalVagina.jobString,Attaching a mammalian vagina,jobString,Recipes_Surgery.xml,def,Attaching a mammalian <ALIMT >vagina</ALIMT>
+MultiAnusMammalAnus.label,add mammal anus,label,Recipes_Surgery.xml,def,add mammal <ALIMT >anus</ALIMT>
+MultiAnusMammalAnus.description,Adds a mammalian anus,description,Recipes_Surgery.xml,def,Adds a mammalian <ALIMT >anus</ALIMT>
+MultiAnusMammalAnus.jobString,Adding a mammalian anus,jobString,Recipes_Surgery.xml,def,Adding a mammalian <ALIMT >anus</ALIMT>
+AnalSurgeryMammalAnus.label,attach mammal anus,label,Recipes_Surgery.xml,def,attach mammal <ALIMT >anus</ALIMT>
+AnalSurgeryMammalAnus.description,Attaches a mammalian anus,description,Recipes_Surgery.xml,def,Attaches a mammalian <ALIMT >anus</ALIMT>
+AnalSurgeryMammalAnus.jobString,Attaching a mammalian anus,jobString,Recipes_Surgery.xml,def,Attaching a mammalian <ALIMT >anus</ALIMT>
+MultiAnusCervineAnus.label,add cervine anus,label,Recipes_Surgery.xml,def,add cervine <ALIMT >anus</ALIMT>
+MultiAnusCervineAnus.description,Adds a deer anus,description,Recipes_Surgery.xml,def,Adds a <ALIMT >deer</ALIMT> <ALIMT >anus</ALIMT>
+MultiAnusCervineAnus.jobString,Adding a deer anus,jobString,Recipes_Surgery.xml,def,Adding a <ALIMT >deer</ALIMT> <ALIMT >anus</ALIMT>
+AnalSurgeryCervineAnus.label,attach cervine anus,label,Recipes_Surgery.xml,def,attach cervine <ALIMT >anus</ALIMT>
+AnalSurgeryCervineAnus.description,Attaches a deer anus,description,Recipes_Surgery.xml,def,Attaches a <ALIMT >deer</ALIMT> <ALIMT >anus</ALIMT>
+AnalSurgeryCervineAnus.jobString,Attaching a deer anus,jobString,Recipes_Surgery.xml,def,Attaching a <ALIMT >deer</ALIMT> <ALIMT >anus</ALIMT>
+MultiAnusHorseAnus.label,add equine anus,label,Recipes_Surgery.xml,def,add equine <ALIMT >anus</ALIMT>
+MultiAnusHorseAnus.description,Adds an quine anus,description,Recipes_Surgery.xml,def,Adds an quine <ALIMT >anus</ALIMT>
+MultiAnusHorseAnus.jobString,Adding an quine anus,jobString,Recipes_Surgery.xml,def,Adding an quine <ALIMT >anus</ALIMT>
+AnalSurgeryHorseAnus.label,attach equine anus,label,Recipes_Surgery.xml,def,attach equine <ALIMT >anus</ALIMT>
+AnalSurgeryHorseAnus.description,Attaches an quine anus,description,Recipes_Surgery.xml,def,Attaches an quine <ALIMT >anus</ALIMT>
+AnalSurgeryHorseAnus.jobString,Attaching an quine anus,jobString,Recipes_Surgery.xml,def,Attaching an quine <ALIMT >anus</ALIMT>
+MultiVaginaHyenaVagina.label,add hyena pseudo-penis,label,Recipes_Surgery.xml,def,add hyena pseudo-<ALIMT >penis</ALIMT>
+MultiVaginaHyenaVagina.description,Adds a hyena pseudo-penis,description,Recipes_Surgery.xml,def,Adds a hyena pseudo-<ALIMT >penis</ALIMT>
+MultiVaginaHyenaVagina.jobString,Adding a hyena pseudo-penis,jobString,Recipes_Surgery.xml,def,Adding a hyena pseudo-<ALIMT >penis</ALIMT>
+SexReassignmentVHyenaVagina.label,attach hyena pseudo-penis,label,Recipes_Surgery.xml,def,attach hyena pseudo-<ALIMT >penis</ALIMT>
+SexReassignmentVHyenaVagina.description,Attaches a hyena pseudo-penis,description,Recipes_Surgery.xml,def,Attaches a hyena pseudo-<ALIMT >penis</ALIMT>
+SexReassignmentVHyenaVagina.jobString,Attaching a hyena pseudo-penis,jobString,Recipes_Surgery.xml,def,Attaching a hyena pseudo-<ALIMT >penis</ALIMT>
+MultiPenisMarinePenis.label,add marine penis,label,Recipes_Surgery.xml,def,add marine <ALIMT >penis</ALIMT>
+MultiPenisMarinePenis.description,Adds a marine mammal penis,description,Recipes_Surgery.xml,def,Adds a marine mammal <ALIMT >penis</ALIMT>
+MultiPenisMarinePenis.jobString,Adding a marine mammal penis,jobString,Recipes_Surgery.xml,def,Adding a marine mammal <ALIMT >penis</ALIMT>
+SexReassignmentPMarinePenis.label,attach marine penis,label,Recipes_Surgery.xml,def,attach marine <ALIMT >penis</ALIMT>
+SexReassignmentPMarinePenis.description,Attaches a marine mammal penis,description,Recipes_Surgery.xml,def,Attaches a marine mammal <ALIMT >penis</ALIMT>
+SexReassignmentPMarinePenis.jobString,Attaching a marine mammal penis,jobString,Recipes_Surgery.xml,def,Attaching a marine mammal <ALIMT >penis</ALIMT>
+MultiVaginaMarineVagina.label,add marine vagina,label,Recipes_Surgery.xml,def,add marine <ALIMT >vagina</ALIMT>
+MultiVaginaMarineVagina.description,Adds a marine mammal vagina,description,Recipes_Surgery.xml,def,Adds a marine mammal <ALIMT >vagina</ALIMT>
+MultiVaginaMarineVagina.jobString,Adding a marine mammal vagina,jobString,Recipes_Surgery.xml,def,Adding a marine mammal <ALIMT >vagina</ALIMT>
+SexReassignmentVMarineVagina.label,attach marine vagina,label,Recipes_Surgery.xml,def,attach marine <ALIMT >vagina</ALIMT>
+SexReassignmentVMarineVagina.description,Attaches a marine mammal vagina,description,Recipes_Surgery.xml,def,Attaches a marine mammal <ALIMT >vagina</ALIMT>
+SexReassignmentVMarineVagina.jobString,Attaching a marine mammal vagina,jobString,Recipes_Surgery.xml,def,Attaching a marine mammal <ALIMT >vagina</ALIMT>
+MultiPenisCactoidPenis.label,add cactoid penis,label,Recipes_Surgery.xml,def,add cactoid <ALIMT >penis</ALIMT>
+MultiPenisCactoidPenis.description,Adds a cactoid penis,description,Recipes_Surgery.xml,def,Adds a cactoid <ALIMT >penis</ALIMT>
+MultiPenisCactoidPenis.jobString,Adding a cactoid penis,jobString,Recipes_Surgery.xml,def,Adding a cactoid <ALIMT >penis</ALIMT>
+SexReassignmentPCactoidPenis.label,attach cactoid penis,label,Recipes_Surgery.xml,def,attach cactoid <ALIMT >penis</ALIMT>
+SexReassignmentPCactoidPenis.description,Attaches a cactoid penis,description,Recipes_Surgery.xml,def,Attaches a cactoid <ALIMT >penis</ALIMT>
+SexReassignmentPCactoidPenis.jobString,Attaching a cactoid penis,jobString,Recipes_Surgery.xml,def,Attaching a cactoid <ALIMT >penis</ALIMT>
+MultiVaginaCactoidVagina.label,add cactoid vagina,label,Recipes_Surgery.xml,def,add cactoid <ALIMT >vagina</ALIMT>
+MultiVaginaCactoidVagina.description,Adds a cactoid vagina,description,Recipes_Surgery.xml,def,Adds a cactoid <ALIMT >vagina</ALIMT>
+MultiVaginaCactoidVagina.jobString,Adding a cactoid vagina,jobString,Recipes_Surgery.xml,def,Adding a cactoid <ALIMT >vagina</ALIMT>
+SexReassignmentVCactoidVagina.label,attach cactoid vagina,label,Recipes_Surgery.xml,def,attach cactoid <ALIMT >vagina</ALIMT>
+SexReassignmentVCactoidVagina.description,Attaches a cactoid vagina,description,Recipes_Surgery.xml,def,Attaches a cactoid <ALIMT >vagina</ALIMT>
+SexReassignmentVCactoidVagina.jobString,Attaching a cactoid vagina,jobString,Recipes_Surgery.xml,def,Attaching a cactoid <ALIMT >vagina</ALIMT>
+MultiAnusCactoidAnus.label,add cactoid anus,label,Recipes_Surgery.xml,def,add cactoid <ALIMT >anus</ALIMT>
+MultiAnusCactoidAnus.description,Adds a cactoid anus,description,Recipes_Surgery.xml,def,Adds a cactoid <ALIMT >anus</ALIMT>
+MultiAnusCactoidAnus.jobString,Adding a cactoid anus,jobString,Recipes_Surgery.xml,def,Adding a cactoid <ALIMT >anus</ALIMT>
+AnalSurgeryCactoidAnus.label,attach cactoid anus,label,Recipes_Surgery.xml,def,attach cactoid <ALIMT >anus</ALIMT>
+AnalSurgeryCactoidAnus.description,Attaches a cactoid anus,description,Recipes_Surgery.xml,def,Attaches a cactoid <ALIMT >anus</ALIMT>
+AnalSurgeryCactoidAnus.jobString,Attaching a cactoid anus,jobString,Recipes_Surgery.xml,def,Attaching a cactoid <ALIMT >anus</ALIMT>
+MultiPenisTurtlePenis.label,add turtle penis,label,Recipes_Surgery.xml,def,add turtle <ALIMT >penis</ALIMT>
+MultiPenisTurtlePenis.description,Adds a turtle penis,description,Recipes_Surgery.xml,def,Adds a turtle <ALIMT >penis</ALIMT>
+MultiPenisTurtlePenis.jobString,Adding a turtle penis,jobString,Recipes_Surgery.xml,def,Adding a turtle <ALIMT >penis</ALIMT>
+SexReassignmentPTurtlePenis.label,attach turtle penis,label,Recipes_Surgery.xml,def,attach turtle <ALIMT >penis</ALIMT>
+SexReassignmentPTurtlePenis.description,Attaches a turtle penis,description,Recipes_Surgery.xml,def,Attaches a turtle <ALIMT >penis</ALIMT>
+SexReassignmentPTurtlePenis.jobString,Attaching a turtle penis,jobString,Recipes_Surgery.xml,def,Attaching a turtle <ALIMT >penis</ALIMT>
+MultiPenisReptilePenis.label,add reptile penis,label,Recipes_Surgery.xml,def,add reptile <ALIMT >penis</ALIMT>
+MultiPenisReptilePenis.description,Adds a reptile penis,description,Recipes_Surgery.xml,def,Adds a reptile <ALIMT >penis</ALIMT>
+MultiPenisReptilePenis.jobString,Adding a reptile penis,jobString,Recipes_Surgery.xml,def,Adding a reptile <ALIMT >penis</ALIMT>
+SexReassignmentPReptilePenis.label,attach reptile penis,label,Recipes_Surgery.xml,def,attach reptile <ALIMT >penis</ALIMT>
+SexReassignmentPReptilePenis.description,Attaches a reptile penis,description,Recipes_Surgery.xml,def,Attaches a reptile <ALIMT >penis</ALIMT>
+SexReassignmentPReptilePenis.jobString,Attaching a reptile penis,jobString,Recipes_Surgery.xml,def,Attaching a reptile <ALIMT >penis</ALIMT>
+MultiPenisAedeagusPenis.label,add aedeagus,label,Recipes_Surgery.xml,def,add aedeagus
+MultiPenisAedeagusPenis.description,Adds an aedeagus,description,Recipes_Surgery.xml,def,Adds an aedeagus
+MultiPenisAedeagusPenis.jobString,Adding an aedeagus,jobString,Recipes_Surgery.xml,def,Adding an aedeagus
+SexReassignmentPAedeagusPenis.label,attach aedeagus,label,Recipes_Surgery.xml,def,attach aedeagus
+SexReassignmentPAedeagusPenis.description,Attaches an aedeagus,description,Recipes_Surgery.xml,def,Attaches an aedeagus
+SexReassignmentPAedeagusPenis.jobString,Attaching an aedeagus,jobString,Recipes_Surgery.xml,def,Attaching an aedeagus
+MultiVaginaOviporeVagina.label,add ovipore,label,Recipes_Surgery.xml,def,add ovipore
+MultiVaginaOviporeVagina.description,Adds an ovipore,description,Recipes_Surgery.xml,def,Adds an ovipore
+MultiVaginaOviporeVagina.jobString,Adding an ovipore,jobString,Recipes_Surgery.xml,def,Adding an ovipore
+SexReassignmentVOviporeVagina.label,attach ovipore,label,Recipes_Surgery.xml,def,attach ovipore
+SexReassignmentVOviporeVagina.description,Attaches an ovipore,description,Recipes_Surgery.xml,def,Attaches an ovipore
+SexReassignmentVOviporeVagina.jobString,Attaching an ovipore,jobString,Recipes_Surgery.xml,def,Attaching an ovipore
+MultiPenisAntherPenis.label,add anther,label,Recipes_Surgery.xml,def,add anther
+MultiPenisAntherPenis.description,Adds a flower's anther,description,Recipes_Surgery.xml,def,Adds a flower's anther
+MultiPenisAntherPenis.jobString,Adding a flower's anther,jobString,Recipes_Surgery.xml,def,Adding a flower's anther
+SexReassignmentPAntherPenis.label,attach anther,label,Recipes_Surgery.xml,def,attach anther
+SexReassignmentPAntherPenis.description,Attaches a flower's anther,description,Recipes_Surgery.xml,def,Attaches a flower's anther
+SexReassignmentPAntherPenis.jobString,Attaching a flower's anther,jobString,Recipes_Surgery.xml,def,Attaching a flower's anther
+MultiVaginaPistilVagina.label,add pistil,label,Recipes_Surgery.xml,def,add pistil
+MultiVaginaPistilVagina.description,Adds a flower's pistil,description,Recipes_Surgery.xml,def,Adds a flower's pistil
+MultiVaginaPistilVagina.jobString,Adding a flower's pistil,jobString,Recipes_Surgery.xml,def,Adding a flower's pistil
+SexReassignmentVPistilVagina.label,attach pistil,label,Recipes_Surgery.xml,def,attach pistil
+SexReassignmentVPistilVagina.description,Attaches a flower's pistil,description,Recipes_Surgery.xml,def,Attaches a flower's pistil
+SexReassignmentVPistilVagina.jobString,Attaching a flower's pistil,jobString,Recipes_Surgery.xml,def,Attaching a flower's pistil
+MultiPenisTentaclePenis.label,add tentacles,label,Recipes_Surgery.xml,def,add tentacles
+MultiPenisTentaclePenis.description,Adds reproductive tentacles,description,Recipes_Surgery.xml,def,Adds reproductive tentacles
+MultiPenisTentaclePenis.jobString,Adding reproductive tentacles,jobString,Recipes_Surgery.xml,def,Adding reproductive tentacles
+SexReassignmentPTentaclePenis.label,attach tentacles,label,Recipes_Surgery.xml,def,attach tentacles
+SexReassignmentPTentaclePenis.description,Attaches reproductive tentacles,description,Recipes_Surgery.xml,def,Attaches reproductive tentacles
+SexReassignmentPTentaclePenis.jobString,Attaching reproductive tentacles,jobString,Recipes_Surgery.xml,def,Attaching reproductive tentacles
+MultiPenisVinePenis.label,add vines,label,Recipes_Surgery.xml,def,add vines
+MultiPenisVinePenis.description,Adds a mass of vines,description,Recipes_Surgery.xml,def,Adds a mass of vines
+MultiPenisVinePenis.jobString,Adding a mass of vines,jobString,Recipes_Surgery.xml,def,Adding a mass of vines
+SexReassignmentPVinePenis.label,attach vines,label,Recipes_Surgery.xml,def,attach vines
+SexReassignmentPVinePenis.description,Attaches a mass of vines,description,Recipes_Surgery.xml,def,Attaches a mass of vines
+SexReassignmentPVinePenis.jobString,Attaching a mass of vines,jobString,Recipes_Surgery.xml,def,Attaching a mass of vines
+MultiPenisNecroPenis.label,add necro penis,label,Recipes_Surgery.xml,def,add necro <ALIMT >penis</ALIMT>
+MultiPenisNecroPenis.description,Adds a necro penis,description,Recipes_Surgery.xml,def,Adds a necro <ALIMT >penis</ALIMT>
+MultiPenisNecroPenis.jobString,Adding a necro penis,jobString,Recipes_Surgery.xml,def,Adding a necro <ALIMT >penis</ALIMT>
+SexReassignmentPNecroPenis.label,attach necro penis,label,Recipes_Surgery.xml,def,attach necro <ALIMT >penis</ALIMT>
+SexReassignmentPNecroPenis.description,Attaches a necro penis,description,Recipes_Surgery.xml,def,Attaches a necro <ALIMT >penis</ALIMT>
+SexReassignmentPNecroPenis.jobString,Attaching a necro penis,jobString,Recipes_Surgery.xml,def,Attaching a necro <ALIMT >penis</ALIMT>
+MultiVaginaNecroVagina.label,add necro vagina,label,Recipes_Surgery.xml,def,add necro <ALIMT >vagina</ALIMT>
+MultiVaginaNecroVagina.description,Adds a necro vagina,description,Recipes_Surgery.xml,def,Adds a necro <ALIMT >vagina</ALIMT>
+MultiVaginaNecroVagina.jobString,Adding a necro vagina,jobString,Recipes_Surgery.xml,def,Adding a necro <ALIMT >vagina</ALIMT>
+SexReassignmentVNecroVagina.label,attach necro vagina,label,Recipes_Surgery.xml,def,attach necro <ALIMT >vagina</ALIMT>
+SexReassignmentVNecroVagina.description,Attaches a necro vagina,description,Recipes_Surgery.xml,def,Attaches a necro <ALIMT >vagina</ALIMT>
+SexReassignmentVNecroVagina.jobString,Attaching a necro vagina,jobString,Recipes_Surgery.xml,def,Attaching a necro <ALIMT >vagina</ALIMT>
+MultiAnusNecroAnus.label,add necro anus,label,Recipes_Surgery.xml,def,add necro <ALIMT >anus</ALIMT>
+MultiAnusNecroAnus.description,Adds a necro anus,description,Recipes_Surgery.xml,def,Adds a necro <ALIMT >anus</ALIMT>
+MultiAnusNecroAnus.jobString,Adding a necro anus,jobString,Recipes_Surgery.xml,def,Adding a necro <ALIMT >anus</ALIMT>
+AnalSurgeryNecroAnus.label,attach necro anus,label,Recipes_Surgery.xml,def,attach necro <ALIMT >anus</ALIMT>
+AnalSurgeryNecroAnus.description,Attaches a necro anus,description,Recipes_Surgery.xml,def,Attaches a necro <ALIMT >anus</ALIMT>
+AnalSurgeryNecroAnus.jobString,Attaching a necro anus,jobString,Recipes_Surgery.xml,def,Attaching a necro <ALIMT >anus</ALIMT>
+MultiPenisElfPenis.label,add elf penis,label,Recipes_Surgery.xml,def,add <ALIMT >elf</ALIMT> <ALIMT >penis</ALIMT>
+MultiPenisElfPenis.description,Adds an elf penis,description,Recipes_Surgery.xml,def,Adds an <ALIMT >elf</ALIMT> <ALIMT >penis</ALIMT>
+MultiPenisElfPenis.jobString,Adding an elf penis,jobString,Recipes_Surgery.xml,def,Adding an <ALIMT >elf</ALIMT> <ALIMT >penis</ALIMT>
+SexReassignmentPElfPenis.label,attach elf penis,label,Recipes_Surgery.xml,def,attach <ALIMT >elf</ALIMT> <ALIMT >penis</ALIMT>
+SexReassignmentPElfPenis.description,Attaches an elf penis,description,Recipes_Surgery.xml,def,Attaches an <ALIMT >elf</ALIMT> <ALIMT >penis</ALIMT>
+SexReassignmentPElfPenis.jobString,Attaching an elf penis,jobString,Recipes_Surgery.xml,def,Attaching an <ALIMT >elf</ALIMT> <ALIMT >penis</ALIMT>
+MultiVaginaElfVagina.label,add elf vagina,label,Recipes_Surgery.xml,def,add <ALIMT >elf</ALIMT> <ALIMT >vagina</ALIMT>
+MultiVaginaElfVagina.description,Adds an elf vagina,description,Recipes_Surgery.xml,def,Adds an <ALIMT >elf</ALIMT> <ALIMT >vagina</ALIMT>
+MultiVaginaElfVagina.jobString,Adding an elf vagina,jobString,Recipes_Surgery.xml,def,Adding an <ALIMT >elf</ALIMT> <ALIMT >vagina</ALIMT>
+SexReassignmentVElfVagina.label,attach elf vagina,label,Recipes_Surgery.xml,def,attach <ALIMT >elf</ALIMT> <ALIMT >vagina</ALIMT>
+SexReassignmentVElfVagina.description,Attaches an elf vagina,description,Recipes_Surgery.xml,def,Attaches an <ALIMT >elf</ALIMT> <ALIMT >vagina</ALIMT>
+SexReassignmentVElfVagina.jobString,Attaching an elf vagina,jobString,Recipes_Surgery.xml,def,Attaching an <ALIMT >elf</ALIMT> <ALIMT >vagina</ALIMT>
+MultiAnusElfAnus.label,add elf anus,label,Recipes_Surgery.xml,def,add <ALIMT >elf</ALIMT> <ALIMT >anus</ALIMT>
+MultiAnusElfAnus.description,Adds an elf anus,description,Recipes_Surgery.xml,def,Adds an <ALIMT >elf</ALIMT> <ALIMT >anus</ALIMT>
+MultiAnusElfAnus.jobString,Adding an elf anus,jobString,Recipes_Surgery.xml,def,Adding an <ALIMT >elf</ALIMT> <ALIMT >anus</ALIMT>
+AnalSurgeryElfAnus.label,attach elf anus,label,Recipes_Surgery.xml,def,attach <ALIMT >elf</ALIMT> <ALIMT >anus</ALIMT>
+AnalSurgeryElfAnus.description,Attaches an elf anus,description,Recipes_Surgery.xml,def,Attaches an <ALIMT >elf</ALIMT> <ALIMT >anus</ALIMT>
+AnalSurgeryElfAnus.jobString,Attaching an elf anus,jobString,Recipes_Surgery.xml,def,Attaching an <ALIMT >elf</ALIMT> <ALIMT >anus</ALIMT>
+MultiPenisGolemPenis.label,add golem penis,label,Recipes_Surgery.xml,def,add golem <ALIMT >penis</ALIMT>
+MultiPenisGolemPenis.description,Adds a golem penis,description,Recipes_Surgery.xml,def,Adds a golem <ALIMT >penis</ALIMT>
+MultiPenisGolemPenis.jobString,Adding a golem penis,jobString,Recipes_Surgery.xml,def,Adding a golem <ALIMT >penis</ALIMT>
+SexReassignmentPGolemPenis.label,attach golem penis,label,Recipes_Surgery.xml,def,attach golem <ALIMT >penis</ALIMT>
+SexReassignmentPGolemPenis.description,Attaches a golem penis,description,Recipes_Surgery.xml,def,Attaches a golem <ALIMT >penis</ALIMT>
+SexReassignmentPGolemPenis.jobString,Attaching a golem penis,jobString,Recipes_Surgery.xml,def,Attaching a golem <ALIMT >penis</ALIMT>
+MultiPenisGhoulPenis.label,add ghoul penis,label,Recipes_Surgery.xml,def,add ghoul <ALIMT >penis</ALIMT>
+MultiPenisGhoulPenis.description,Adds an ghoul penis,description,Recipes_Surgery.xml,def,Adds an ghoul <ALIMT >penis</ALIMT>
+MultiPenisGhoulPenis.jobString,Adding an ghoul penis,jobString,Recipes_Surgery.xml,def,Adding an ghoul <ALIMT >penis</ALIMT>
+SexReassignmentPGhoulPenis.label,attach ghoul penis,label,Recipes_Surgery.xml,def,attach ghoul <ALIMT >penis</ALIMT>
+SexReassignmentPGhoulPenis.description,Attaches an ghoul penis,description,Recipes_Surgery.xml,def,Attaches an ghoul <ALIMT >penis</ALIMT>
+SexReassignmentPGhoulPenis.jobString,Attaching an ghoul penis,jobString,Recipes_Surgery.xml,def,Attaching an ghoul <ALIMT >penis</ALIMT>
+MultiVaginaGhoulVagina.label,add ghoul vagina,label,Recipes_Surgery.xml,def,add ghoul <ALIMT >vagina</ALIMT>
+MultiVaginaGhoulVagina.description,Adds a ghoul vagina,description,Recipes_Surgery.xml,def,Adds a ghoul <ALIMT >vagina</ALIMT>
+MultiVaginaGhoulVagina.jobString,Adding a ghoul vagina,jobString,Recipes_Surgery.xml,def,Adding a ghoul <ALIMT >vagina</ALIMT>
+SexReassignmentVGhoulVagina.label,attach ghoul vagina,label,Recipes_Surgery.xml,def,attach ghoul <ALIMT >vagina</ALIMT>
+SexReassignmentVGhoulVagina.description,Attaches a ghoul vagina,description,Recipes_Surgery.xml,def,Attaches a ghoul <ALIMT >vagina</ALIMT>
+SexReassignmentVGhoulVagina.jobString,Attaching a ghoul vagina,jobString,Recipes_Surgery.xml,def,Attaching a ghoul <ALIMT >vagina</ALIMT>
+MultiAnusGhoulAnus.label,add ghoul anus,label,Recipes_Surgery.xml,def,add ghoul <ALIMT >anus</ALIMT>
+MultiAnusGhoulAnus.description,Adds a ghoul anus,description,Recipes_Surgery.xml,def,Adds a ghoul <ALIMT >anus</ALIMT>
+MultiAnusGhoulAnus.jobString,Adding a ghoul anus,jobString,Recipes_Surgery.xml,def,Adding a ghoul <ALIMT >anus</ALIMT>
+AnalSurgeryGhoulAnus.label,attach ghoul anus,label,Recipes_Surgery.xml,def,attach ghoul <ALIMT >anus</ALIMT>
+AnalSurgeryGhoulAnus.description,Attaches a ghoul anus,description,Recipes_Surgery.xml,def,Attaches a ghoul <ALIMT >anus</ALIMT>
+AnalSurgeryGhoulAnus.jobString,Attaching a ghoul anus,jobString,Recipes_Surgery.xml,def,Attaching a ghoul <ALIMT >anus</ALIMT>
+MultiPenisOrcPenis.label,add orc penis,label,Recipes_Surgery.xml,def,add orc <ALIMT >penis</ALIMT>
+MultiPenisOrcPenis.description,Adds an orc penis,description,Recipes_Surgery.xml,def,Adds an orc <ALIMT >penis</ALIMT>
+MultiPenisOrcPenis.jobString,Adding an orc penis,jobString,Recipes_Surgery.xml,def,Adding an orc <ALIMT >penis</ALIMT>
+SexReassignmentPOrcPenis.label,attach orc penis,label,Recipes_Surgery.xml,def,attach orc <ALIMT >penis</ALIMT>
+SexReassignmentPOrcPenis.description,Attaches an orc penis,description,Recipes_Surgery.xml,def,Attaches an orc <ALIMT >penis</ALIMT>
+SexReassignmentPOrcPenis.jobString,Attaching an orc penis,jobString,Recipes_Surgery.xml,def,Attaching an orc <ALIMT >penis</ALIMT>
+MultiVaginaOrcVagina.label,add orc vagina,label,Recipes_Surgery.xml,def,add orc <ALIMT >vagina</ALIMT>
+MultiVaginaOrcVagina.description,Adds an orc vagina,description,Recipes_Surgery.xml,def,Adds an orc <ALIMT >vagina</ALIMT>
+MultiVaginaOrcVagina.jobString,Adding an orc vagina,jobString,Recipes_Surgery.xml,def,Adding an orc <ALIMT >vagina</ALIMT>
+SexReassignmentVOrcVagina.label,attach orc vagina,label,Recipes_Surgery.xml,def,attach orc <ALIMT >vagina</ALIMT>
+SexReassignmentVOrcVagina.description,Attaches an orc vagina,description,Recipes_Surgery.xml,def,Attaches an orc <ALIMT >vagina</ALIMT>
+SexReassignmentVOrcVagina.jobString,Attaching an orc vagina,jobString,Recipes_Surgery.xml,def,Attaching an orc <ALIMT >vagina</ALIMT>
+MultiAnusOrcAnus.label,add orc anus,label,Recipes_Surgery.xml,def,add orc <ALIMT >anus</ALIMT>
+MultiAnusOrcAnus.description,Adds an orc anus,description,Recipes_Surgery.xml,def,Adds an orc <ALIMT >anus</ALIMT>
+MultiAnusOrcAnus.jobString,Adding an orc anus,jobString,Recipes_Surgery.xml,def,Adding an orc <ALIMT >anus</ALIMT>
+AnalSurgeryOrcAnus.label,attach orc anus,label,Recipes_Surgery.xml,def,attach orc <ALIMT >anus</ALIMT>
+AnalSurgeryOrcAnus.description,Attaches an orc anus,description,Recipes_Surgery.xml,def,Attaches an orc <ALIMT >anus</ALIMT>
+AnalSurgeryOrcAnus.jobString,Attaching an orc anus,jobString,Recipes_Surgery.xml,def,Attaching an orc <ALIMT >anus</ALIMT>
+MultiPenisTreePenis.label,add bark penis,label,Recipes_Surgery.xml,def,add bark <ALIMT >penis</ALIMT>
+MultiPenisTreePenis.description,Adds a wooden penis,description,Recipes_Surgery.xml,def,Adds a wooden <ALIMT >penis</ALIMT>
+MultiPenisTreePenis.jobString,Adding a wooden penis,jobString,Recipes_Surgery.xml,def,Adding a wooden <ALIMT >penis</ALIMT>
+SexReassignmentPTreePenis.label,attach bark penis,label,Recipes_Surgery.xml,def,attach bark <ALIMT >penis</ALIMT>
+SexReassignmentPTreePenis.description,Attaches a wooden penis,description,Recipes_Surgery.xml,def,Attaches a wooden <ALIMT >penis</ALIMT>
+SexReassignmentPTreePenis.jobString,Attaching a wooden penis,jobString,Recipes_Surgery.xml,def,Attaching a wooden <ALIMT >penis</ALIMT>
+MultiVaginaTreeVagina.label,add bark vagina,label,Recipes_Surgery.xml,def,add bark <ALIMT >vagina</ALIMT>
+MultiVaginaTreeVagina.description,Adds a wooden vagina,description,Recipes_Surgery.xml,def,Adds a wooden <ALIMT >vagina</ALIMT>
+MultiVaginaTreeVagina.jobString,Adding a wooden vagina,jobString,Recipes_Surgery.xml,def,Adding a wooden <ALIMT >vagina</ALIMT>
+SexReassignmentVTreeVagina.label,attach bark vagina,label,Recipes_Surgery.xml,def,attach bark <ALIMT >vagina</ALIMT>
+SexReassignmentVTreeVagina.description,Attaches a wooden vagina,description,Recipes_Surgery.xml,def,Attaches a wooden <ALIMT >vagina</ALIMT>
+SexReassignmentVTreeVagina.jobString,Attaching a wooden vagina,jobString,Recipes_Surgery.xml,def,Attaching a wooden <ALIMT >vagina</ALIMT>
+MultiAnusTreeAnus.label,add bark anus,label,Recipes_Surgery.xml,def,add bark <ALIMT >anus</ALIMT>
+MultiAnusTreeAnus.description,Adds a wooden anus,description,Recipes_Surgery.xml,def,Adds a wooden <ALIMT >anus</ALIMT>
+MultiAnusTreeAnus.jobString,Adding a wooden anus,jobString,Recipes_Surgery.xml,def,Adding a wooden <ALIMT >anus</ALIMT>
+AnalSurgeryTreeAnus.label,attach bark anus,label,Recipes_Surgery.xml,def,attach bark <ALIMT >anus</ALIMT>
+AnalSurgeryTreeAnus.description,Attaches a wooden anus,description,Recipes_Surgery.xml,def,Attaches a wooden <ALIMT >anus</ALIMT>
+AnalSurgeryTreeAnus.jobString,Attaching a wooden anus,jobString,Recipes_Surgery.xml,def,Attaching a wooden <ALIMT >anus</ALIMT>
+MultiBreastMammalBreasts.label,add mammal breasts,label,Recipes_Surgery.xml,def,add mammal <ALIMT >breasts</ALIMT>
+MultiBreastMammalBreasts.description,Adds a pair of mammalian breasts,description,Recipes_Surgery.xml,def,Adds a pair of mammalian <ALIMT >breasts</ALIMT>
+MultiBreastMammalBreasts.jobString,Adding a pair of mammalian breasts,jobString,Recipes_Surgery.xml,def,Adding a pair of mammalian <ALIMT >breasts</ALIMT>
+BreastSurgeryMammalBreasts.label,attach mammal breasts,label,Recipes_Surgery.xml,def,attach mammal <ALIMT >breasts</ALIMT>
+BreastSurgeryMammalBreasts.description,Attaches a pair of mammalian breasts,description,Recipes_Surgery.xml,def,Attaches a pair of mammalian <ALIMT >breasts</ALIMT>
+BreastSurgeryMammalBreasts.jobString,Attaching a pair of mammalian breasts,jobString,Recipes_Surgery.xml,def,Attaching a pair of mammalian <ALIMT >breasts</ALIMT>
+MultiBreastGhostBreasts.label,add immaterial breasts,label,Recipes_Surgery.xml,def,add immaterial <ALIMT >breasts</ALIMT>
+MultiBreastGhostBreasts.description,Adds a pair of immaterial breasts,description,Recipes_Surgery.xml,def,Adds a pair of immaterial <ALIMT >breasts</ALIMT>
+MultiBreastGhostBreasts.jobString,Adding a pair of immaterial breasts,jobString,Recipes_Surgery.xml,def,Adding a pair of immaterial <ALIMT >breasts</ALIMT>
+BreastSurgeryGhostBreasts.label,attach immaterial breasts,label,Recipes_Surgery.xml,def,attach immaterial <ALIMT >breasts</ALIMT>
+BreastSurgeryGhostBreasts.description,Attaches a pair of immaterial breasts,description,Recipes_Surgery.xml,def,Attaches a pair of immaterial <ALIMT >breasts</ALIMT>
+BreastSurgeryGhostBreasts.jobString,Attaching a pair of immaterial breasts,jobString,Recipes_Surgery.xml,def,Attaching a pair of immaterial <ALIMT >breasts</ALIMT>
+MultiBreastCactoidBreasts.label,add cactoid breasts,label,Recipes_Surgery.xml,def,add cactoid <ALIMT >breasts</ALIMT>
+MultiBreastCactoidBreasts.description,Adds a pair of cactoid breasts,description,Recipes_Surgery.xml,def,Adds a pair of cactoid <ALIMT >breasts</ALIMT>
+MultiBreastCactoidBreasts.jobString,Adding a pair of cactoid breasts,jobString,Recipes_Surgery.xml,def,Adding a pair of cactoid <ALIMT >breasts</ALIMT>
+BreastSurgeryCactoidBreasts.label,attach cactoid breasts,label,Recipes_Surgery.xml,def,attach cactoid <ALIMT >breasts</ALIMT>
+BreastSurgeryCactoidBreasts.description,Attaches a pair of cactoid breasts,description,Recipes_Surgery.xml,def,Attaches a pair of cactoid <ALIMT >breasts</ALIMT>
+BreastSurgeryCactoidBreasts.jobString,Attaching a pair of cactoid breasts,jobString,Recipes_Surgery.xml,def,Attaching a pair of cactoid <ALIMT >breasts</ALIMT>
+MultiBreastGhoulBreasts.label,add irradiated breasts,label,Recipes_Surgery.xml,def,add irradiated <ALIMT >breasts</ALIMT>
+MultiBreastGhoulBreasts.description,Adds a pair of irradiated breasts,description,Recipes_Surgery.xml,def,Adds a pair of irradiated <ALIMT >breasts</ALIMT>
+MultiBreastGhoulBreasts.jobString,Adding a pair of irradiated breasts,jobString,Recipes_Surgery.xml,def,Adding a pair of irradiated <ALIMT >breasts</ALIMT>
+BreastSurgeryGhoulBreasts.label,attach irradiated breasts,label,Recipes_Surgery.xml,def,attach irradiated <ALIMT >breasts</ALIMT>
+BreastSurgeryGhoulBreasts.description,Attaches a pair of irradiated breasts,description,Recipes_Surgery.xml,def,Attaches a pair of irradiated <ALIMT >breasts</ALIMT>
+BreastSurgeryGhoulBreasts.jobString,Attaching a pair of irradiated breasts,jobString,Recipes_Surgery.xml,def,Attaching a pair of irradiated <ALIMT >breasts</ALIMT>
+MultiBreastNecroBreasts.label,add decayed breasts,label,Recipes_Surgery.xml,def,add decayed <ALIMT >breasts</ALIMT>
+MultiBreastNecroBreasts.description,Adds A pair of decayed breasts,description,Recipes_Surgery.xml,def,Adds A pair of decayed <ALIMT >breasts</ALIMT>
+MultiBreastNecroBreasts.jobString,Adding A pair of decayed breasts,jobString,Recipes_Surgery.xml,def,Adding A pair of decayed <ALIMT >breasts</ALIMT>
+BreastSurgeryNecroBreasts.label,attach decayed breasts,label,Recipes_Surgery.xml,def,attach decayed <ALIMT >breasts</ALIMT>
+BreastSurgeryNecroBreasts.description,Attaches A pair of decayed breasts,description,Recipes_Surgery.xml,def,Attaches A pair of decayed <ALIMT >breasts</ALIMT>
+BreastSurgeryNecroBreasts.jobString,Attaching A pair of decayed breasts,jobString,Recipes_Surgery.xml,def,Attaching A pair of decayed <ALIMT >breasts</ALIMT>
+MultiBreastOrcBreasts.label,add orc breasts,label,Recipes_Surgery.xml,def,add orc <ALIMT >breasts</ALIMT>
+MultiBreastOrcBreasts.description,Adds a pair of orc breasts,description,Recipes_Surgery.xml,def,Adds a pair of orc <ALIMT >breasts</ALIMT>
+MultiBreastOrcBreasts.jobString,Adding a pair of orc breasts,jobString,Recipes_Surgery.xml,def,Adding a pair of orc <ALIMT >breasts</ALIMT>
+BreastSurgeryOrcBreasts.label,attach orc breasts,label,Recipes_Surgery.xml,def,attach orc <ALIMT >breasts</ALIMT>
+BreastSurgeryOrcBreasts.description,Attaches a pair of orc breasts,description,Recipes_Surgery.xml,def,Attaches a pair of orc <ALIMT >breasts</ALIMT>
+BreastSurgeryOrcBreasts.jobString,Attaching a pair of orc breasts,jobString,Recipes_Surgery.xml,def,Attaching a pair of orc <ALIMT >breasts</ALIMT>
+MultiBreastScaleBreasts.label,add scaly breasts,label,Recipes_Surgery.xml,def,add scaly <ALIMT >breasts</ALIMT>
+MultiBreastScaleBreasts.description,Adds a pair of scaly breasts,description,Recipes_Surgery.xml,def,Adds a pair of scaly <ALIMT >breasts</ALIMT>
+MultiBreastScaleBreasts.jobString,Adding a pair of scaly breasts,jobString,Recipes_Surgery.xml,def,Adding a pair of scaly <ALIMT >breasts</ALIMT>
+BreastSurgeryScaleBreasts.label,attach scaly breasts,label,Recipes_Surgery.xml,def,attach scaly <ALIMT >breasts</ALIMT>
+BreastSurgeryScaleBreasts.description,Attaches a pair of scaly breasts,description,Recipes_Surgery.xml,def,Attaches a pair of scaly <ALIMT >breasts</ALIMT>
+BreastSurgeryScaleBreasts.jobString,Attaching a pair of scaly breasts,jobString,Recipes_Surgery.xml,def,Attaching a pair of scaly <ALIMT >breasts</ALIMT>
+MultiBreastTreeBreasts.label,add bark breasts,label,Recipes_Surgery.xml,def,add bark <ALIMT >breasts</ALIMT>
+MultiBreastTreeBreasts.description,Adds a pair of wooden breasts,description,Recipes_Surgery.xml,def,Adds a pair of wooden <ALIMT >breasts</ALIMT>
+MultiBreastTreeBreasts.jobString,Adding a pair of wooden breasts,jobString,Recipes_Surgery.xml,def,Adding a pair of wooden <ALIMT >breasts</ALIMT>
+BreastSurgeryTreeBreasts.label,attach bark breasts,label,Recipes_Surgery.xml,def,attach bark <ALIMT >breasts</ALIMT>
+BreastSurgeryTreeBreasts.description,Attaches a pair of wooden breasts,description,Recipes_Surgery.xml,def,Attaches a pair of wooden <ALIMT >breasts</ALIMT>
+BreastSurgeryTreeBreasts.jobString,Attaching a pair of wooden breasts,jobString,Recipes_Surgery.xml,def,Attaching a pair of wooden <ALIMT >breasts</ALIMT>
+MultiPenisGhostPenis.label,add immaterial penis,label,Recipes_Surgery.xml,def,add immaterial <ALIMT >penis</ALIMT>
+MultiPenisGhostPenis.description,Adds an immaterial penis,description,Recipes_Surgery.xml,def,Adds an immaterial <ALIMT >penis</ALIMT>
+MultiPenisGhostPenis.jobString,Adding an immaterial penis,jobString,Recipes_Surgery.xml,def,Adding an immaterial <ALIMT >penis</ALIMT>
+SexReassignmentPGhostPenis.label,attach immaterial penis,label,Recipes_Surgery.xml,def,attach immaterial <ALIMT >penis</ALIMT>
+SexReassignmentPGhostPenis.description,Attaches an immaterial penis,description,Recipes_Surgery.xml,def,Attaches an immaterial <ALIMT >penis</ALIMT>
+SexReassignmentPGhostPenis.jobString,Attaching an immaterial penis,jobString,Recipes_Surgery.xml,def,Attaching an immaterial <ALIMT >penis</ALIMT>
+MultiVaginaGhostVagina.label,add immaterial vagina,label,Recipes_Surgery.xml,def,add immaterial <ALIMT >vagina</ALIMT>
+MultiVaginaGhostVagina.description,Adds an immaterial vagina,description,Recipes_Surgery.xml,def,Adds an immaterial <ALIMT >vagina</ALIMT>
+MultiVaginaGhostVagina.jobString,Adding an immaterial vagina,jobString,Recipes_Surgery.xml,def,Adding an immaterial <ALIMT >vagina</ALIMT>
+SexReassignmentVGhostVagina.label,attach immaterial vagina,label,Recipes_Surgery.xml,def,attach immaterial <ALIMT >vagina</ALIMT>
+SexReassignmentVGhostVagina.description,Attaches an immaterial vagina,description,Recipes_Surgery.xml,def,Attaches an immaterial <ALIMT >vagina</ALIMT>
+SexReassignmentVGhostVagina.jobString,Attaching an immaterial vagina,jobString,Recipes_Surgery.xml,def,Attaching an immaterial <ALIMT >vagina</ALIMT>
+MultiAnusGhostAnus.label,add immaterial anus,label,Recipes_Surgery.xml,def,add immaterial <ALIMT >anus</ALIMT>
+MultiAnusGhostAnus.description,Adds an immaterial anus,description,Recipes_Surgery.xml,def,Adds an immaterial <ALIMT >anus</ALIMT>
+MultiAnusGhostAnus.jobString,Adding an immaterial anus,jobString,Recipes_Surgery.xml,def,Adding an immaterial <ALIMT >anus</ALIMT>
+AnalSurgeryGhostAnus.label,attach immaterial anus,label,Recipes_Surgery.xml,def,attach immaterial <ALIMT >anus</ALIMT>
+AnalSurgeryGhostAnus.description,Attaches an immaterial anus,description,Recipes_Surgery.xml,def,Attaches an immaterial <ALIMT >anus</ALIMT>
+AnalSurgeryGhostAnus.jobString,Attaching an immaterial anus,jobString,Recipes_Surgery.xml,def,Attaching an immaterial <ALIMT >anus</ALIMT>
+MultiVaginaDemonTentaclesF.label,add demon tentacle,label,Recipes_Surgery.xml,def,add demon <ALIMT >tentacle</ALIMT>
+MultiVaginaDemonTentaclesF.description,Adds a female demon tentacle,description,Recipes_Surgery.xml,def,Adds a female demon <ALIMT >tentacle</ALIMT>
+MultiVaginaDemonTentaclesF.jobString,Adding a female demon tentacle,jobString,Recipes_Surgery.xml,def,Adding a female demon <ALIMT >tentacle</ALIMT>
+SexReassignmentVDemonTentaclesF.label,attach demon tentacle,label,Recipes_Surgery.xml,def,attach demon <ALIMT >tentacle</ALIMT>
+SexReassignmentVDemonTentaclesF.description,Attaches a female demon tentacle,description,Recipes_Surgery.xml,def,Attaches a female demon <ALIMT >tentacle</ALIMT>
+SexReassignmentVDemonTentaclesF.jobString,Attaching a female demon tentacle,jobString,Recipes_Surgery.xml,def,Attaching a female demon <ALIMT >tentacle</ALIMT>
+MultiPenisBioferritePenis.label,add bioferrite penis,label,Recipes_Surgery.xml,def,add bioferrite <ALIMT >penis</ALIMT>
+MultiPenisBioferritePenis.description,Adds a bioferrite penis,description,Recipes_Surgery.xml,def,Adds a bioferrite <ALIMT >penis</ALIMT>
+MultiPenisBioferritePenis.jobString,Adding a bioferrite penis,jobString,Recipes_Surgery.xml,def,Adding a bioferrite <ALIMT >penis</ALIMT>
+SexReassignmentPBioferritePenis.label,attach bioferrite penis,label,Recipes_Surgery.xml,def,attach bioferrite <ALIMT >penis</ALIMT>
+SexReassignmentPBioferritePenis.description,Attaches a bioferrite penis,description,Recipes_Surgery.xml,def,Attaches a bioferrite <ALIMT >penis</ALIMT>
+SexReassignmentPBioferritePenis.jobString,Attaching a bioferrite penis,jobString,Recipes_Surgery.xml,def,Attaching a bioferrite <ALIMT >penis</ALIMT>
+MultiVaginaBioferriteVagina.label,add bioferrite vagina,label,Recipes_Surgery.xml,def,add bioferrite <ALIMT >vagina</ALIMT>
+MultiVaginaBioferriteVagina.description,Adds a bioferrite vagina,description,Recipes_Surgery.xml,def,Adds a bioferrite <ALIMT >vagina</ALIMT>
+MultiVaginaBioferriteVagina.jobString,Adding a bioferrite vagina,jobString,Recipes_Surgery.xml,def,Adding a bioferrite <ALIMT >vagina</ALIMT>
+SexReassignmentVBioferriteVagina.label,attach bioferrite vagina,label,Recipes_Surgery.xml,def,attach bioferrite <ALIMT >vagina</ALIMT>
+SexReassignmentVBioferriteVagina.description,Attaches a bioferrite vagina,description,Recipes_Surgery.xml,def,Attaches a bioferrite <ALIMT >vagina</ALIMT>
+SexReassignmentVBioferriteVagina.jobString,Attaching a bioferrite vagina,jobString,Recipes_Surgery.xml,def,Attaching a bioferrite <ALIMT >vagina</ALIMT>
+MultiAnusBioferriteAnus.label,add bioferrite anus,label,Recipes_Surgery.xml,def,add bioferrite <ALIMT >anus</ALIMT>
+MultiAnusBioferriteAnus.description,Adds a bioferrite anus,description,Recipes_Surgery.xml,def,Adds a bioferrite <ALIMT >anus</ALIMT>
+MultiAnusBioferriteAnus.jobString,Adding a bioferrite anus,jobString,Recipes_Surgery.xml,def,Adding a bioferrite <ALIMT >anus</ALIMT>
+AnalSurgeryBioferriteAnus.label,attach bioferrite anus,label,Recipes_Surgery.xml,def,attach bioferrite <ALIMT >anus</ALIMT>
+AnalSurgeryBioferriteAnus.description,Attaches a bioferrite anus,description,Recipes_Surgery.xml,def,Attaches a bioferrite <ALIMT >anus</ALIMT>
+AnalSurgeryBioferriteAnus.jobString,Attaching a bioferrite anus,jobString,Recipes_Surgery.xml,def,Attaching a bioferrite <ALIMT >anus</ALIMT>
+BioferriteBreasts.label,bioferrite breasts,label,Hediffs_PrivateParts\Hediffs_Anomaly.xml,def,bioferrite <ALIMT >breasts</ALIMT>
+BioferriteBreasts.labelNoun,a pair of bioferrite breasts,labelNoun,Hediffs_PrivateParts\Hediffs_Anomaly.xml,def,a pair of bioferrite <ALIMT >breasts</ALIMT>
+BioferriteBreasts.description,"A pair of breasts made of a strange, metallic-organic fibrous substance. They possess an unsettling shimmer and a subtle psychic resonance, feeling both firm and strangely yielding to the touch. Their surface might display faint, shifting patterns, hinting at the chaotic mechanite processes within.",description,Hediffs_PrivateParts\Hediffs_Anomaly.xml,def,"A pair of <ALIMT >breasts</ALIMT> made of a strange, metallic-organic fibrous substance. They possess an unsettling shimmer and a subtle psychic resonance, feeling both firm and strangely yielding to the <ALIMT >touch</ALIMT>. Their surface might display faint, shifting patterns, hinting at the chaotic mechanite processes within."
+BioferritePenis.label,bioferrite penis,label,Hediffs_PrivateParts\Hediffs_Anomaly.xml,def,bioferrite <ALIMT >penis</ALIMT>
+BioferritePenis.labelNoun,an bioferrite penis,labelNoun,Hediffs_PrivateParts\Hediffs_Anomaly.xml,def,an bioferrite <ALIMT >penis</ALIMT>
+BioferritePenis.description,"An exotic penis composed of bioferrite, a fibrous substance with both organic and metallic properties. Its shaft has a peculiar, almost segmented texture, and it feels strangely warm and cool to the touch. Subtle psychic flows can cause a faint, unsettling vibration during arousal, and its chaotic, cancer-like formation gives it an unnaturally perfect, yet alien, symmetry.",description,Hediffs_PrivateParts\Hediffs_Anomaly.xml,def,"An exotic <ALIMT >penis</ALIMT> composed of bioferrite, a fibrous substance with both organic and metallic properties. Its shaft has a peculiar, almost segmented texture, and it feels strangely warm and cool to the <ALIMT >touch</ALIMT>. Subtle psychic flows can cause a faint, unsettling vibration during <ALIMT >arousal</ALIMT>, and its chaotic, cancer-like formation gives it an unnaturally perfect, yet alien, symmetry."
+BioferriteVagina.label,bioferrite vagina,label,Hediffs_PrivateParts\Hediffs_Anomaly.xml,def,bioferrite <ALIMT >vagina</ALIMT>
+BioferriteVagina.labelNoun,an bioferrite vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Anomaly.xml,def,an bioferrite <ALIMT >vagina</ALIMT>
+BioferriteVagina.description,"An exotic vagina crafted from bioferrite, a unique material blending organic and metallic traits. Its inner folds possess a peculiar, almost shifting texture, and it seems to subtly resonate with psychic energies during penetration. The chaotic, cancer-like process of its creation by mechanites has resulted in a form that is both alien and alluring, providing an unnerving yet intense sensation.",description,Hediffs_PrivateParts\Hediffs_Anomaly.xml,def,"An exotic <ALIMT >vagina</ALIMT> crafted from bioferrite, a unique material blending organic and metallic traits. Its inner folds possess a peculiar, almost shifting texture, and it seems to subtly resonate with psychic energies during <ALIMT >penetration</ALIMT>. The chaotic, cancer-like process of its creation by mechanites has resulted in a form that is both alien and alluring, providing an unnerving yet intense sensation."
+BioferriteAnus.label,bioferrite anus,label,Hediffs_PrivateParts\Hediffs_Anomaly.xml,def,bioferrite <ALIMT >anus</ALIMT>
+BioferriteAnus.labelNoun,an bioferrite anus,labelNoun,Hediffs_PrivateParts\Hediffs_Anomaly.xml,def,an bioferrite <ALIMT >anus</ALIMT>
+BioferriteAnus.description,"An exotic anus made of bioferrite, an unusual substance possessing both organic and metallic characteristics. Its sphincter is remarkably resilient yet surprisingly flexible, and it can feel unnervingly responsive to psychic influence. The chaotic growth patterns of mechanites during its formation have given it a distinct, almost crystalline structure, offering a unique and intense experience.",description,Hediffs_PrivateParts\Hediffs_Anomaly.xml,def,"An exotic <ALIMT >anus</ALIMT> made of bioferrite, an unusual substance possessing both organic and metallic characteristics. Its sphincter is remarkably resilient yet surprisingly flexible, and it can feel unnervingly responsive to psychic influence. The chaotic growth patterns of mechanites during its formation have given it a distinct, almost crystalline structure, offering a unique and intense experience."
+GenitalDud.label,genital dud,label,Hediffs_PrivateParts\Hediffs_Dud.xml,def,genital dud
+GenitalDud.labelNoun,genital dud,labelNoun,Hediffs_PrivateParts\Hediffs_Dud.xml,def,genital dud
+GenitalDud.description,"An fake genitals intended to dissapear from herm pawns swiftly after pawn generated to leave them either pure female or male, you also aren't supposed to see this, so turn off dev mode or don't pay attention.",description,Hediffs_PrivateParts\Hediffs_Dud.xml,def,"An fake genitals intended to dissapear from herm pawns swiftly after <ALIMT >(PH_1)</ALIMT> generated to leave them either pure female or male, you also aren't supposed to see this, so turn off dev mode or don't pay attention."
+GenitalDud.stages.0.label,Nan.,label,Hediffs_PrivateParts\Hediffs_Dud.xml,def,Nan.
+BearPenis.label,bear penis,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,bear <ALIMT >penis</ALIMT>
+BearPenis.labelNoun,a bear penis,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,a bear <ALIMT >penis</ALIMT>
+BearPenis.description,A small penis supported by a bone.,description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,A <ALIMT >small <ALIMT >penis</ALIMT></ALIMT> supported by a bone.
+BovinePenis.label,bovine penis,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,bovine <ALIMT >penis</ALIMT>
+BovinePenis.labelNoun,a bovine penis,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,a bovine <ALIMT >penis</ALIMT>
+BovinePenis.description,A rather long but thin penis with large testicles.,description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,A rather long but thin <ALIMT >penis</ALIMT> with large <ALIMT >testicles</ALIMT>.
+BovineVagina.label,bovine vagina,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,bovine <ALIMT >vagina</ALIMT>
+BovineVagina.labelNoun,a bovine vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,a bovine <ALIMT >vagina</ALIMT>
+BovineVagina.description,"A rather thin and deep vagina, likely belonging to a large mammal.",description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,"A rather thin and deep <ALIMT >vagina</ALIMT>, likely belonging to a large mammal."
+DogAnus.label,dog anus,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,dog <ALIMT >anus</ALIMT>
+DogAnus.labelNoun,a dog anus,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,a dog <ALIMT >anus</ALIMT>
+DogAnus.description,A canine anus.,description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,A canine <ALIMT >anus</ALIMT>.
+ElephantPenis.label,elephant penis,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,elephant <ALIMT >penis</ALIMT>
+ElephantPenis.labelNoun,an elephant penis,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,an elephant <ALIMT >penis</ALIMT>
+ElephantPenis.description,A large and flexible prehensile penis.,description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,A large and flexible prehensile <ALIMT >penis</ALIMT>.
+ElephantVagina.label,elephant vagina,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,elephant <ALIMT >vagina</ALIMT>
+ElephantVagina.labelNoun,an elephant vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,an elephant <ALIMT >vagina</ALIMT>
+ElephantVagina.description,The deep vagina of a female elephant.,description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,The deep <ALIMT >vagina</ALIMT> of a female elephant.
+FelineAnus.label,feline anus,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,feline <ALIMT >anus</ALIMT>
+FelineAnus.labelNoun,a feline anus,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,a feline <ALIMT >anus</ALIMT>
+FelineAnus.description,A feline anus.,description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,A feline <ALIMT >anus</ALIMT>.
+MonkeyPenis.label,monkey penis,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,monkey <ALIMT >penis</ALIMT>
+MonkeyPenis.labelNoun,a monkey penis,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,a monkey <ALIMT >penis</ALIMT>
+MonkeyPenis.description,"A very thin, but otherwise humanoid-looking penis.",description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,"A very thin, but otherwise humanoid-looking <ALIMT >penis</ALIMT>."
+PigPenis.label,pig penis,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,<ALIMT >pig</ALIMT> <ALIMT >penis</ALIMT>
+PigPenis.labelNoun,a pig penis,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,a <ALIMT >pig</ALIMT> <ALIMT >penis</ALIMT>
+PigPenis.description,A corkscrew shaped penis.,description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,A corkscrew shaped <ALIMT >penis</ALIMT>.
+PigVagina.label,pig vagina,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,<ALIMT >pig</ALIMT> <ALIMT >vagina</ALIMT>
+PigVagina.labelNoun,a pig vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,a <ALIMT >pig</ALIMT> <ALIMT >vagina</ALIMT>
+PigVagina.description,The foldy vagina of a female pig.,description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,The foldy <ALIMT >vagina</ALIMT> of a female <ALIMT >pig</ALIMT>.
+CervineAnus.label,cervine anus,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,cervine <ALIMT >anus</ALIMT>
+CervineAnus.labelNoun,a deer anus,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,a <ALIMT >deer</ALIMT> <ALIMT >anus</ALIMT>
+CervineAnus.description,A deer's anus.,description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,A <ALIMT >deer</ALIMT>'s <ALIMT >anus</ALIMT>.
+HorseAnus.label,equine anus,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,equine <ALIMT >anus</ALIMT>
+HorseAnus.labelNoun,an quine anus,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,an quine <ALIMT >anus</ALIMT>
+HorseAnus.description,An anus shaped like a doughnut.,description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,An <ALIMT >anus</ALIMT> shaped like a doughnut.
+HyenaVagina.label,hyena pseudo-penis,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,hyena pseudo-<ALIMT >penis</ALIMT>
+HyenaVagina.labelNoun,a hyena pseudo-penis,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,a hyena pseudo-<ALIMT >penis</ALIMT>
+HyenaVagina.description,"The clitoris of the female spotted hyena is enlarged into a pseudo-penis, through which the female urinates and reproduces. It can even get erect!",description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,"The <ALIMT >clitoris</ALIMT> of the female spotted hyena is enlarged into a pseudo-<ALIMT >penis</ALIMT>, through which the female urinates and reproduces. It can even get erect!"
+MarinePenis.label,marine penis,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,marine <ALIMT >penis</ALIMT>
+MarinePenis.labelNoun,a marine mammal penis,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,a marine mammal <ALIMT >penis</ALIMT>
+MarinePenis.description,"A girthy, retractable penis that tapers to a point; it likely belongs to a seal, walrus, or hippo.",description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,"A girthy, <ALIMT >retractable <ALIMT >penis</ALIMT></ALIMT> that tapers to a point; it likely belongs to a seal, walrus, or hippo."
+MarineVagina.label,marine vagina,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,marine <ALIMT >vagina</ALIMT>
+MarineVagina.labelNoun,a marine mammal vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,a marine mammal <ALIMT >vagina</ALIMT>
+MarineVagina.description,A slippery vagina.,description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,A slippery <ALIMT >vagina</ALIMT>.
+TurtlePenis.label,turtle penis,label,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,turtle <ALIMT >penis</ALIMT>
+TurtlePenis.labelNoun,a turtle penis,labelNoun,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,a turtle <ALIMT >penis</ALIMT>
+TurtlePenis.description,A large penis with a huge flare at the tip.,description,Hediffs_PrivateParts\Hediffs_Earth_Animals.xml,def,A large <ALIMT >penis</ALIMT> with a huge flare at the tip.
+TentaclePenis.label,tentacles,label,Hediffs_PrivateParts\Hediffs_Exotic.xml,def,tentacles
+TentaclePenis.labelNoun,reproductive tentacles,labelNoun,Hediffs_PrivateParts\Hediffs_Exotic.xml,def,reproductive tentacles
+TentaclePenis.description,"A mass of tentacle-like penises, capable of both restraining and pleasuring.",description,Hediffs_PrivateParts\Hediffs_Exotic.xml,def,"A mass of <ALIMT >tentacle</ALIMT>-like penises, capable of both restraining and pleasuring."
+DemonTentaclesF.label,demon tentacle,label,Hediffs_PrivateParts\Hediffs_Exotic.xml,def,demon <ALIMT >tentacle</ALIMT>
+DemonTentaclesF.labelNoun,a female demon tentacle,labelNoun,Hediffs_PrivateParts\Hediffs_Exotic.xml,def,a female demon <ALIMT >tentacle</ALIMT>
+DemonTentaclesF.description,"A long and flexible tentacle, capable of laying eggs.",description,Hediffs_PrivateParts\Hediffs_Exotic.xml,def,"A long and flexible <ALIMT >tentacle</ALIMT>, capable of laying eggs."
+GolemPenis.label,golem penis,label,Hediffs_PrivateParts\Hediffs_Exotic.xml,def,golem <ALIMT >penis</ALIMT>
+GolemPenis.labelNoun,a golem penis,labelNoun,Hediffs_PrivateParts\Hediffs_Exotic.xml,def,a golem <ALIMT >penis</ALIMT>
+GolemPenis.description,A rough and jagged stone-like penis.,description,Hediffs_PrivateParts\Hediffs_Exotic.xml,def,A rough and jagged stone-like <ALIMT >penis</ALIMT>.
+MammalBreasts.label,mammal breasts,label,Hediffs_PrivateParts\Hediffs_Generic.xml,def,mammal <ALIMT >breasts</ALIMT>
+MammalBreasts.labelNoun,a pair of mammalian breasts,labelNoun,Hediffs_PrivateParts\Hediffs_Generic.xml,def,a pair of mammalian <ALIMT >breasts</ALIMT>
+MammalBreasts.description,A group of breasts/nipples that mammals use to suckle their young.,description,Hediffs_PrivateParts\Hediffs_Generic.xml,def,A group of <ALIMT >breasts</ALIMT>/<ALIMT >nipples</ALIMT> that mammals use to suckle their young.
+MammalPenis.label,mammal penis,label,Hediffs_PrivateParts\Hediffs_Generic.xml,def,mammal <ALIMT >penis</ALIMT>
+MammalPenis.labelNoun,a mammalian penis,labelNoun,Hediffs_PrivateParts\Hediffs_Generic.xml,def,a mammalian <ALIMT >penis</ALIMT>
+MammalPenis.description,A generic mammalian animal's penis.,description,Hediffs_PrivateParts\Hediffs_Generic.xml,def,A generic mammalian animal's <ALIMT >penis</ALIMT>.
+MammalVagina.label,mammal vagina,label,Hediffs_PrivateParts\Hediffs_Generic.xml,def,mammal <ALIMT >vagina</ALIMT>
+MammalVagina.labelNoun,a mammalian vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Generic.xml,def,a mammalian <ALIMT >vagina</ALIMT>
+MammalVagina.description,A generic vagina that probably belongs to some mammal.,description,Hediffs_PrivateParts\Hediffs_Generic.xml,def,A generic <ALIMT >vagina</ALIMT> that probably belongs to some mammal.
+MammalAnus.label,mammal anus,label,Hediffs_PrivateParts\Hediffs_Generic.xml,def,mammal <ALIMT >anus</ALIMT>
+MammalAnus.labelNoun,a mammalian anus,labelNoun,Hediffs_PrivateParts\Hediffs_Generic.xml,def,a mammalian <ALIMT >anus</ALIMT>
+MammalAnus.description,A generic mammalian animal's anus.,description,Hediffs_PrivateParts\Hediffs_Generic.xml,def,A generic mammalian animal's <ALIMT >anus</ALIMT>.
+ElfPenis.label,elf penis,label,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,<ALIMT >elf</ALIMT> <ALIMT >penis</ALIMT>
+ElfPenis.labelNoun,an elf penis,labelNoun,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,an <ALIMT >elf</ALIMT> <ALIMT >penis</ALIMT>
+ElfPenis.description,A thinner and longer humanlike penis. Is that glitter?,description,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,A thinner and longer humanlike <ALIMT >penis</ALIMT>. Is that glitter?
+ElfVagina.label,elf vagina,label,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,<ALIMT >elf</ALIMT> <ALIMT >vagina</ALIMT>
+ElfVagina.labelNoun,an elf vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,an <ALIMT >elf</ALIMT> <ALIMT >vagina</ALIMT>
+ElfVagina.description,A tighter humanlike vagina. Tastes like oranges.,description,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,A tighter humanlike <ALIMT >vagina</ALIMT>. Tastes like oranges.
+ElfAnus.label,elf anus,label,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,<ALIMT >elf</ALIMT> <ALIMT >anus</ALIMT>
+ElfAnus.labelNoun,an elf anus,labelNoun,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,an <ALIMT >elf</ALIMT> <ALIMT >anus</ALIMT>
+ElfAnus.description,A tighter humanlike anus. Smells of flowers.,description,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,A tighter humanlike <ALIMT >anus</ALIMT>. Smells of flowers.
+OrcBreasts.label,orc breasts,label,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,orc <ALIMT >breasts</ALIMT>
+OrcBreasts.labelNoun,a pair of orc breasts,labelNoun,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,a pair of orc <ALIMT >breasts</ALIMT>
+OrcBreasts.description,A pair of humanlike breasts that sag greatly.,description,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,A pair of humanlike <ALIMT >breasts</ALIMT> that sag greatly.
+OrcPenis.label,orc penis,label,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,orc <ALIMT >penis</ALIMT>
+OrcPenis.labelNoun,an orc penis,labelNoun,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,an orc <ALIMT >penis</ALIMT>
+OrcPenis.description,"A girthy penis with a preputial ring, but otherwise similar to a humanoid penis.",description,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,"A girthy <ALIMT >penis</ALIMT> with a preputial ring, but otherwise similar to a humanoid <ALIMT >penis</ALIMT>."
+OrcVagina.label,orc vagina,label,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,orc <ALIMT >vagina</ALIMT>
+OrcVagina.labelNoun,an orc vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,an orc <ALIMT >vagina</ALIMT>
+OrcVagina.description,A loose humanlike vagina with very large lips.,description,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,A loose humanlike <ALIMT >vagina</ALIMT> with very large lips.
+OrcAnus.label,orc anus,label,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,orc <ALIMT >anus</ALIMT>
+OrcAnus.labelNoun,an orc anus,labelNoun,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,an orc <ALIMT >anus</ALIMT>
+OrcAnus.description,An anus that looks like a mix between an humanlike anus and an equine anus.,description,Hediffs_PrivateParts\Hediffs_Humanlike.xml,def,An <ALIMT >anus</ALIMT> that looks like a mix between an humanlike <ALIMT >anus</ALIMT> and an equine <ALIMT >anus</ALIMT>.
+AedeagusPenis.label,aedeagus,label,Hediffs_PrivateParts\Hediffs_Insect.xml,def,aedeagus
+AedeagusPenis.labelNoun,an aedeagus,labelNoun,Hediffs_PrivateParts\Hediffs_Insect.xml,def,an aedeagus
+AedeagusPenis.description,"The phallus of a male arthropod, for excreting a spermatophore to inseminate a female arthropod.",description,Hediffs_PrivateParts\Hediffs_Insect.xml,def,"The phallus of a male arthropod, for excreting a spermatophore to inseminate a female arthropod."
+OviporeVagina.label,ovipore,label,Hediffs_PrivateParts\Hediffs_Insect.xml,def,ovipore
+OviporeVagina.labelNoun,an ovipore,labelNoun,Hediffs_PrivateParts\Hediffs_Insect.xml,def,an ovipore
+OviporeVagina.description,A pore-like sexual organ of a female arthropod for receiving a spermatophore. Very loosely comparable to a vagina.,description,Hediffs_PrivateParts\Hediffs_Insect.xml,def,A pore-like <ALIMT >sexual</ALIMT> organ of a female arthropod for receiving a spermatophore. Very loosely comparable to a <ALIMT >vagina</ALIMT>.
+CactoidBreasts.label,cactoid breasts,label,Hediffs_PrivateParts\Hediffs_Plant.xml,def,cactoid <ALIMT >breasts</ALIMT>
+CactoidBreasts.labelNoun,a pair of cactoid breasts,labelNoun,Hediffs_PrivateParts\Hediffs_Plant.xml,def,a pair of cactoid <ALIMT >breasts</ALIMT>
+CactoidBreasts.description,"A pair of rough plant-like breasts, with thorns all around them, and flower-like nipples.",description,Hediffs_PrivateParts\Hediffs_Plant.xml,def,"A pair of rough plant-like <ALIMT >breasts</ALIMT>, with thorns all around them, and flower-like <ALIMT >nipples</ALIMT>."
+CactoidPenis.label,cactoid penis,label,Hediffs_PrivateParts\Hediffs_Plant.xml,def,cactoid <ALIMT >penis</ALIMT>
+CactoidPenis.labelNoun,a cactoid penis,labelNoun,Hediffs_PrivateParts\Hediffs_Plant.xml,def,a cactoid <ALIMT >penis</ALIMT>
+CactoidPenis.description,"A rough plant-like penis, with thorns along the shaft.",description,Hediffs_PrivateParts\Hediffs_Plant.xml,def,"A rough plant-like <ALIMT >penis</ALIMT>, with thorns along the shaft."
+CactoidVagina.label,cactoid vagina,label,Hediffs_PrivateParts\Hediffs_Plant.xml,def,cactoid <ALIMT >vagina</ALIMT>
+CactoidVagina.labelNoun,a cactoid vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Plant.xml,def,a cactoid <ALIMT >vagina</ALIMT>
+CactoidVagina.description,"A rough plant-like vagina, with thorns lining the inner walls. The thorns grip male genitals during sex.",description,Hediffs_PrivateParts\Hediffs_Plant.xml,def,"A rough plant-like <ALIMT >vagina</ALIMT>, with thorns lining the inner walls. The thorns grip male genitals during <ALIMT >sex</ALIMT>."
+CactoidAnus.label,cactoid anus,label,Hediffs_PrivateParts\Hediffs_Plant.xml,def,cactoid <ALIMT >anus</ALIMT>
+CactoidAnus.labelNoun,a cactoid anus,labelNoun,Hediffs_PrivateParts\Hediffs_Plant.xml,def,a cactoid <ALIMT >anus</ALIMT>
+CactoidAnus.description,A rough plant-like anus. No thorns this time.,description,Hediffs_PrivateParts\Hediffs_Plant.xml,def,A rough plant-like <ALIMT >anus</ALIMT>. No thorns this time.
+AntherPenis.label,anther,label,Hediffs_PrivateParts\Hediffs_Plant.xml,def,anther
+AntherPenis.labelNoun,a flower's anther,labelNoun,Hediffs_PrivateParts\Hediffs_Plant.xml,def,a flower's anther
+AntherPenis.description,"A flower's male reproductive organ. A long and thin filament, with a large pollen-producing head in the tip.",description,Hediffs_PrivateParts\Hediffs_Plant.xml,def,"A flower's male reproductive organ. A long and thin filament, with a large pollen-producing head in the tip."
+PistilVagina.label,pistil,label,Hediffs_PrivateParts\Hediffs_Plant.xml,def,pistil
+PistilVagina.labelNoun,a flower's pistil,labelNoun,Hediffs_PrivateParts\Hediffs_Plant.xml,def,a flower's pistil
+PistilVagina.description,A flower's female reproductive organ. The sticky entrance is connected to the ovaries via a long tube-like structure.,description,Hediffs_PrivateParts\Hediffs_Plant.xml,def,A flower's female reproductive organ. The sticky entrance is connected to the ovaries via a long <ALIMT >tube</ALIMT>-like structure.
+VinePenis.label,vines,label,Hediffs_PrivateParts\Hediffs_Plant.xml,def,vines
+VinePenis.labelNoun,a mass of vines,labelNoun,Hediffs_PrivateParts\Hediffs_Plant.xml,def,a mass of vines
+VinePenis.description,A mass of vines where a penis would be.,description,Hediffs_PrivateParts\Hediffs_Plant.xml,def,A mass of vines where a <ALIMT >penis</ALIMT> would be.
+TreeBreasts.label,bark breasts,label,Hediffs_PrivateParts\Hediffs_Plant.xml,def,bark <ALIMT >breasts</ALIMT>
+TreeBreasts.labelNoun,a pair of wooden breasts,labelNoun,Hediffs_PrivateParts\Hediffs_Plant.xml,def,a pair of wooden <ALIMT >breasts</ALIMT>
+TreeBreasts.description,"A pair of naturally grown wooden breasts. Hard bark covers the entire outer portion, while leaving the nipples underneath exposed.",description,Hediffs_PrivateParts\Hediffs_Plant.xml,def,"A pair of naturally grown wooden <ALIMT >breasts</ALIMT>. Hard bark covers the entire outer portion, while leaving the <ALIMT >nipples</ALIMT> underneath <ALIMT >exposed</ALIMT>."
+TreePenis.label,bark penis,label,Hediffs_PrivateParts\Hediffs_Plant.xml,def,bark <ALIMT >penis</ALIMT>
+TreePenis.labelNoun,a wooden penis,labelNoun,Hediffs_PrivateParts\Hediffs_Plant.xml,def,a wooden <ALIMT >penis</ALIMT>
+TreePenis.description,"A naturally grown wooden penis. The testicles are completely covered in hard, wooden bark, while the texture along the shaft is softer, leaving the tip uncovered.",description,Hediffs_PrivateParts\Hediffs_Plant.xml,def,"A naturally grown wooden <ALIMT >penis</ALIMT>. The <ALIMT >testicles</ALIMT> are completely covered in hard, wooden bark, while the texture along the shaft is softer, leaving the tip uncovered."
+TreeVagina.label,bark vagina,label,Hediffs_PrivateParts\Hediffs_Plant.xml,def,bark <ALIMT >vagina</ALIMT>
+TreeVagina.labelNoun,a wooden vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Plant.xml,def,a wooden <ALIMT >vagina</ALIMT>
+TreeVagina.description,"A naturally grown wooden vagina. While the outside looks like bark, the inside is soft.",description,Hediffs_PrivateParts\Hediffs_Plant.xml,def,"A naturally grown wooden <ALIMT >vagina</ALIMT>. While the outside looks like bark, the inside is soft."
+TreeAnus.label,bark anus,label,Hediffs_PrivateParts\Hediffs_Plant.xml,def,bark <ALIMT >anus</ALIMT>
+TreeAnus.labelNoun,a wooden anus,labelNoun,Hediffs_PrivateParts\Hediffs_Plant.xml,def,a wooden <ALIMT >anus</ALIMT>
+TreeAnus.description,"A naturally grown wooden anus. While the outside looks like bark, the inside is soft.",description,Hediffs_PrivateParts\Hediffs_Plant.xml,def,"A naturally grown wooden <ALIMT >anus</ALIMT>. While the outside looks like bark, the inside is soft."
+ReptilePenis.label,reptile penis,label,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,reptile <ALIMT >penis</ALIMT>
+ReptilePenis.labelNoun,a reptilian penis,labelNoun,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,a reptilian <ALIMT >penis</ALIMT>
+ReptilePenis.description,"A smooth and tapering to point penis, hidden inside a cloacal slit when its owner are not aroused.",description,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,"A smooth and tapering to point <ALIMT >penis</ALIMT>, hidden inside a cloacal slit when its owner are not <ALIMT >aroused</ALIMT>."
+ScaleBreasts.label,scaly breasts,label,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,scaly <ALIMT >breasts</ALIMT>
+ScaleBreasts.labelNoun,a pair of scaly breasts,labelNoun,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,a pair of scaly <ALIMT >breasts</ALIMT>
+ScaleBreasts.description,"A pair of scale-covered breasts, without nipples.",description,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,"A pair of scale-covered <ALIMT >breasts</ALIMT>, without <ALIMT >nipples</ALIMT>."
+DinoPenis.label,dino penis,label,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,dino <ALIMT >penis</ALIMT>
+DinoPenis.labelNoun,a dino penis,labelNoun,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,a dino <ALIMT >penis</ALIMT>
+DinoPenis.description,A large tapered penis that is slightly flattened at the top. It looks similar to a large tongue.,description,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,A large tapered <ALIMT >penis</ALIMT> that is slightly flattened at the top. It looks similar to a large tongue.
+DinoVagina.label,dinosaur vagina,label,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,<ALIMT >dinosaur</ALIMT> <ALIMT >vagina</ALIMT>
+DinoVagina.labelNoun,a dinosaur's vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,a <ALIMT >dinosaur</ALIMT>'s <ALIMT >vagina</ALIMT>
+DinoVagina.description,A vagina with a tough hide on the outside.,description,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,A <ALIMT >vagina</ALIMT> with a tough hide on the outside.
+DinoAnus.label,dinosaur anus,label,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,<ALIMT >dinosaur</ALIMT> <ALIMT >anus</ALIMT>
+DinoAnus.labelNoun,a dinosaur's anus,labelNoun,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,a <ALIMT >dinosaur</ALIMT>'s <ALIMT >anus</ALIMT>
+DinoAnus.description,An anus with a tough hide on the outside.,description,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,An <ALIMT >anus</ALIMT> with a tough hide on the outside.
+DragonAnus.label,dragon anus,label,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,<ALIMT >dragon</ALIMT> <ALIMT >anus</ALIMT>
+DragonAnus.labelNoun,a scally anus,labelNoun,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,a scally <ALIMT >anus</ALIMT>
+DragonAnus.description,"An somewhat elongated anus with unexpectedly soft scales covering it on the outside, found normaly under tails of draconoids.",description,Hediffs_PrivateParts\Hediffs_Scalie.xml,def,"An somewhat elongated <ALIMT >anus</ALIMT> with unexpectedly soft scales covering it on the outside, found normaly under tails of draconoids."
+GhostBreasts.label,immaterial breasts,label,Hediffs_PrivateParts\Hediffs_Undead.xml,def,immaterial <ALIMT >breasts</ALIMT>
+GhostBreasts.labelNoun,a pair of immaterial breasts,labelNoun,Hediffs_PrivateParts\Hediffs_Undead.xml,def,a pair of immaterial <ALIMT >breasts</ALIMT>
+GhostBreasts.description,"A translucent, almost intangible pair of breasts. Touching them sends chills down the spine.",description,Hediffs_PrivateParts\Hediffs_Undead.xml,def,"A translucent, almost intangible pair of <ALIMT >breasts</ALIMT>. Touching them sends chills down the spine."
+GhostPenis.label,immaterial penis,label,Hediffs_PrivateParts\Hediffs_Undead.xml,def,immaterial <ALIMT >penis</ALIMT>
+GhostPenis.labelNoun,an immaterial penis,labelNoun,Hediffs_PrivateParts\Hediffs_Undead.xml,def,an immaterial <ALIMT >penis</ALIMT>
+GhostPenis.description,"A translucent, almost intangible penis. Touching it sends chills down the spine.",description,Hediffs_PrivateParts\Hediffs_Undead.xml,def,"A translucent, almost intangible <ALIMT >penis</ALIMT>. Touching it sends chills down the spine."
+GhostVagina.label,immaterial vagina,label,Hediffs_PrivateParts\Hediffs_Undead.xml,def,immaterial <ALIMT >vagina</ALIMT>
+GhostVagina.labelNoun,an immaterial vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Undead.xml,def,an immaterial <ALIMT >vagina</ALIMT>
+GhostVagina.description,"A translucent, almost intangible vagina. Penetrating it sends chills down the spine.",description,Hediffs_PrivateParts\Hediffs_Undead.xml,def,"A translucent, almost intangible <ALIMT >vagina</ALIMT>. Penetrating it sends chills down the spine."
+GhostAnus.label,immaterial anus,label,Hediffs_PrivateParts\Hediffs_Undead.xml,def,immaterial <ALIMT >anus</ALIMT>
+GhostAnus.labelNoun,an immaterial anus,labelNoun,Hediffs_PrivateParts\Hediffs_Undead.xml,def,an immaterial <ALIMT >anus</ALIMT>
+GhostAnus.description,"A translucent, almost intangible anus. Penetrating it sends chills down the spine.",description,Hediffs_PrivateParts\Hediffs_Undead.xml,def,"A translucent, almost intangible <ALIMT >anus</ALIMT>. Penetrating it sends chills down the spine."
+NecroBreasts.label,decayed breasts,label,Hediffs_PrivateParts\Hediffs_Undead.xml,def,decayed <ALIMT >breasts</ALIMT>
+NecroBreasts.labelNoun,A pair of decayed breasts,labelNoun,Hediffs_PrivateParts\Hediffs_Undead.xml,def,A pair of decayed <ALIMT >breasts</ALIMT>
+NecroBreasts.description,"A disgusting, rotting pair of breasts.",description,Hediffs_PrivateParts\Hediffs_Undead.xml,def,"A disgusting, rotting pair of <ALIMT >breasts</ALIMT>."
+NecroPenis.label,necro penis,label,Hediffs_PrivateParts\Hediffs_Undead.xml,def,necro <ALIMT >penis</ALIMT>
+NecroPenis.labelNoun,a necro penis,labelNoun,Hediffs_PrivateParts\Hediffs_Undead.xml,def,a necro <ALIMT >penis</ALIMT>
+NecroPenis.description,"A disgusting, rotting penis that somehow still works.",description,Hediffs_PrivateParts\Hediffs_Undead.xml,def,"A disgusting, rotting <ALIMT >penis</ALIMT> that somehow still works."
+NecroVagina.label,necro vagina,label,Hediffs_PrivateParts\Hediffs_Undead.xml,def,necro <ALIMT >vagina</ALIMT>
+NecroVagina.labelNoun,a necro vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Undead.xml,def,a necro <ALIMT >vagina</ALIMT>
+NecroVagina.description,"A disgusting, rotting vagina. Its insides are as cold as a grave.",description,Hediffs_PrivateParts\Hediffs_Undead.xml,def,"A disgusting, rotting <ALIMT >vagina</ALIMT>. Its insides are as cold as a grave."
+NecroAnus.label,necro anus,label,Hediffs_PrivateParts\Hediffs_Undead.xml,def,necro <ALIMT >anus</ALIMT>
+NecroAnus.labelNoun,a necro anus,labelNoun,Hediffs_PrivateParts\Hediffs_Undead.xml,def,a necro <ALIMT >anus</ALIMT>
+NecroAnus.description,"A disgusting, rotting anus. Its insides are as cold as a grave.",description,Hediffs_PrivateParts\Hediffs_Undead.xml,def,"A disgusting, rotting <ALIMT >anus</ALIMT>. Its insides are as cold as a grave."
+GhoulBreasts.label,irradiated breasts,label,Hediffs_PrivateParts\Hediffs_Undead.xml,def,irradiated <ALIMT >breasts</ALIMT>
+GhoulBreasts.labelNoun,a pair of irradiated breasts,labelNoun,Hediffs_PrivateParts\Hediffs_Undead.xml,def,a pair of irradiated <ALIMT >breasts</ALIMT>
+GhoulBreasts.description,A pair of humanlike breasts that glow slightly. They're very hot to the touch.,description,Hediffs_PrivateParts\Hediffs_Undead.xml,def,A pair of humanlike <ALIMT >breasts</ALIMT> that glow slightly. They're very <ALIMT >hot</ALIMT> to the <ALIMT >touch</ALIMT>.
+GhoulPenis.label,ghoul penis,label,Hediffs_PrivateParts\Hediffs_Undead.xml,def,ghoul <ALIMT >penis</ALIMT>
+GhoulPenis.labelNoun,an ghoul penis,labelNoun,Hediffs_PrivateParts\Hediffs_Undead.xml,def,an ghoul <ALIMT >penis</ALIMT>
+GhoulPenis.description,A humanlike penis that glows slightly. It's very hot to the touch.,description,Hediffs_PrivateParts\Hediffs_Undead.xml,def,A humanlike <ALIMT >penis</ALIMT> that glows slightly. It's very <ALIMT >hot</ALIMT> to the <ALIMT >touch</ALIMT>.
+GhoulVagina.label,ghoul vagina,label,Hediffs_PrivateParts\Hediffs_Undead.xml,def,ghoul <ALIMT >vagina</ALIMT>
+GhoulVagina.labelNoun,a ghoul vagina,labelNoun,Hediffs_PrivateParts\Hediffs_Undead.xml,def,a ghoul <ALIMT >vagina</ALIMT>
+GhoulVagina.description,A humanlike vagina that glows slightly. It is uncomfortably hot inside.,description,Hediffs_PrivateParts\Hediffs_Undead.xml,def,A humanlike <ALIMT >vagina</ALIMT> that glows slightly. It is uncomfortably <ALIMT >hot</ALIMT> inside.
+GhoulAnus.label,ghoul anus,label,Hediffs_PrivateParts\Hediffs_Undead.xml,def,ghoul <ALIMT >anus</ALIMT>
+GhoulAnus.labelNoun,a ghoul anus,labelNoun,Hediffs_PrivateParts\Hediffs_Undead.xml,def,a ghoul <ALIMT >anus</ALIMT>
+GhoulAnus.description,An anus that glows slightly. It is uncomfortably hot inside.,description,Hediffs_PrivateParts\Hediffs_Undead.xml,def,An <ALIMT >anus</ALIMT> that glows slightly. It is uncomfortably <ALIMT >hot</ALIMT> inside.

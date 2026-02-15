@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Opinion offset-->
+  <RV2Interaction_Settings_BaseOpinionMod>意见偏移</RV2Interaction_Settings_BaseOpinionMod>
+  <!--EN: How much to offset the predator and prey's opinion of each other, when determining what interactions to use. High opinion leads to more amicable interactions. Does not affect their base opinions of each other.-->
+  <RV2Interaction_Settings_BaseOpinionMod_Tip>在决定使用什么交互作用时，捕食者和猎物对彼此的看法抵消了多少。高评价会带来更友好的互动。不影响双方的基本看法。</RV2Interaction_Settings_BaseOpinionMod_Tip>
+  <!--EN: Interaction chance-->
+  <RV2Interaction_Settings_InteractionChance>互动几率</RV2Interaction_Settings_InteractionChance>
+  <!--EN: How likely predator and prey will interact with each other, each vore-tick.-->
+  <RV2Interaction_Settings_InteractionChanceTip>捕食者和猎物相互影响的可能性吃人-Tick 一下。</RV2Interaction_Settings_InteractionChanceTip>
+  <!--EN: Kind modifier-->
+  <RV2Interaction_Settings_KindOpinionMod>种类修改器</RV2Interaction_Settings_KindOpinionMod>
+  <!--EN: How much opinion to add if either the pred or prey have the Kind trait.-->
+  <RV2Interaction_Settings_KindOpinionMod_Tip>如果 pred 或猎物具有善良特性，需要增加多少意见。</RV2Interaction_Settings_KindOpinionMod_Tip>
+  <!--EN: Multi-prey modifier-->
+  <RV2Interaction_Settings_MultiPreyModifier>多猎物修改器</RV2Interaction_Settings_MultiPreyModifier>
+  <!--EN: Interation odds are lowered if the pred has multiple prey. At 100%, each prey lowers interaction odds by a factor of 1, keeping the total chance for an interaction to the base chance.\n\nNote that preds can potentaly interact with multiple prey at once.-->
+  <RV2Interaction_Settings_MultiPreyModifier_Tip>如果 pred 有多个猎物，互动几率会降低。在 100% 处，每只猎物都将交互几率降低 1 倍，使交互的总几率与基础几率一致。
+
+请注意，preds 可以同时与多个猎物有效地互动。</RV2Interaction_Settings_MultiPreyModifier_Tip>
+  <!--EN: Opinion modifier-->
+  <RV2Interaction_Settings_OpinionModifier>看法修改器</RV2Interaction_Settings_OpinionModifier>
+  <!--EN: How much the pred and prey's opinion of each other affect interaction odds. 100% doubles odds at 100 opinion, and halves at -100.-->
+  <RV2Interaction_Settings_OpinionModifierTip>Pred 和猎物对彼此的看法会影响互动几率。100% 以 100 的观点加倍赔率，以-100 减半。</RV2Interaction_Settings_OpinionModifierTip>
+  <!--EN: Skill modifier-->
+  <RV2Interaction_Settings_SkillOpinionMod>技能修改器</RV2Interaction_Settings_SkillOpinionMod>
+  <!--EN: How much opinion to add for the pred or prey's skills in Social or Animals. Maxes out to this value at level 20.-->
+  <RV2Interaction_Settings_SkillOpinionMod_Tip>对 pred 或猎物的社交技能或动物技能的看法。最大值为 20 级。</RV2Interaction_Settings_SkillOpinionMod_Tip>
+  <!--EN: Interactions-->
+  <RV2Interactions_Tab>互动</RV2Interactions_Tab>
+</LanguageData>

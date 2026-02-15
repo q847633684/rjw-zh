@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <PreceptDef ParentName="PreceptRoleMultiBase">
+		<defName>IdeoRole_Hucow</defName>
+		<label>hucow</label>
+		<description>A special ideoligious status focusing on the production of breast milk. This specialized role can only be given to lactating pawns and gives greatly increased breast milk production yield, at the cost of decreased work speed and movement speed.</description>
+		<iconPath>UI/Roles/SpecialistMelee</iconPath>
+		<nameMaker>NamerRoleMoralist</nameMaker>
+		<roleRequirements>
+			<li Class="CRIALactation.RoleRequirement_Lactating" />
+		</roleRequirements>
+		<requiredMemes>
+			<li>Hucow</li>
+		</requiredMemes>
+		<roleEffects>
+			<li Class="CRIALactation.RoleEffect_Hucow" />
+			<li Class="RoleEffect_PawnStatFactor">
+				<statDef>WorkSpeedGlobal</statDef>
+				<modifier>0.25</modifier>
+			</li>
+			<li Class="RoleEffect_PawnStatFactor">
+				<statDef>MoveSpeed</statDef>
+				<modifier>0.6</modifier>
+			</li>
+		</roleEffects>
+		<displayOrderInImpact>2</displayOrderInImpact>
+		<roleTags>
+			<li>Hucow</li>
+		</roleTags>
+	</PreceptDef> -->
+
+  <HucowHandling.label>H人牛处理</HucowHandling.label>
+
+
+</LanguageData>

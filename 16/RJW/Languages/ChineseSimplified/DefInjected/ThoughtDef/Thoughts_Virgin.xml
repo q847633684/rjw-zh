@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Added by Hoge. -->
+  <!--原中文: '献出初夜', 原英文: '无' -> 新英文: 'Gave virginity',更新于2026-02-14-->
+  <!--EN: Gave virginity-->
+  <FortunateGaveVirginity.stages.0.label>献出初夜</FortunateGaveVirginity.stages.0.label>
+  <!--原中文: '我献出了我的初夜。', 原英文: '无' -> 新英文: 'I gave my virginity.',更新于2026-02-14-->
+  <!--EN: I gave my virginity.-->
+  <FortunateGaveVirginity.stages.0.description>我献出了我的初夜。</FortunateGaveVirginity.stages.0.description>
+  <!--原中文: '失去初夜', 原英文: '无' -> 新英文: 'Lost virginity',更新于2026-02-14-->
+  <!--EN: Lost virginity-->
+  <UnfortunateLostVirginity.stages.0.label>失去初夜</UnfortunateLostVirginity.stages.0.label>
+  <!--原中文: '我失去了我的初夜，并且我再也找不回来了。', 原英文: '无' -> 新英文: 'I lost my virginity and I'll never get it back.',更新于2026-02-14-->
+  <!--EN: I lost my virginity and I'll never get it back.-->
+  <UnfortunateLostVirginity.stages.0.description>我失去了我的初夜，并且我再也找不回来了。</UnfortunateLostVirginity.stages.0.description>
+  <!--原中文: '夺走初夜', 原英文: '无' -> 新英文: 'Took virginity',更新于2026-02-14-->
+  <!--EN: Took virginity-->
+  <TookVirginity.stages.0.label>夺走初夜</TookVirginity.stages.0.label>
+  <!--原中文: '我夺走了某人的初夜。', 原英文: '无' -> 新英文: 'I've taken someone's virginity.',更新于2026-02-14-->
+  <!--EN: I've taken someone's virginity.-->
+  <TookVirginity.stages.0.description>我夺走了某人的初夜。</TookVirginity.stages.0.description>
+</LanguageData>

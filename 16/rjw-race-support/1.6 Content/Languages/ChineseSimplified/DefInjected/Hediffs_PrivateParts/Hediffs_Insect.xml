@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: The phallus of a male arthropod, for excreting a spermatophore to inseminate a female arthropod.-->
+  <AedeagusPenis.description>一种雄性节肢动物的阳具，用于排泄精囊使雌性节肢动物授精。</AedeagusPenis.description>
+  <!--EN: aedeagus-->
+  <AedeagusPenis.label>阳茎</AedeagusPenis.label>
+  <!--EN: an aedeagus-->
+  <AedeagusPenis.labelNoun>一只阳茎</AedeagusPenis.labelNoun>
+  <!--EN: A pore-like sexual organ of a female arthropod for receiving a spermatophore. Very loosely comparable to a vagina.-->
+  <OviporeVagina.description>毛孔状的性的接受精囊的雌性节肢动物的器官。非常松散，可与阴道</OviporeVagina.description>
+  <!--EN: ovipore-->
+  <OviporeVagina.label>卵细胞</OviporeVagina.label>
+  <!--EN: an ovipore-->
+  <OviporeVagina.labelNoun>一个卵细胞</OviporeVagina.labelNoun>
+</LanguageData>

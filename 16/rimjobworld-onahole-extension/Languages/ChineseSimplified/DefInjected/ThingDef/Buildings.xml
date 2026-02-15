@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '金属框架', 原英文: '无' -> 新英文: 'Metal Frame',更新于2026-02-14-->
+  <!--EN: Metal Frame-->
+  <OnaholeMetalFrame.label>金属框架</OnaholeMetalFrame.label>
+  <!--原中文: '可以绑住生物的简易金属框架。生物无法动弹，只能被其它人随意玩弄。', 原英文: '无' -> 新英文: 'Bound prisoners chained to a metal frame.',更新于2026-02-14-->
+  <!--EN: Bound prisoners chained to a metal frame.-->
+  <OnaholeMetalFrame.description>可以绑住生物的简易金属框架。生物无法动弹，只能被其它人随意玩弄。</OnaholeMetalFrame.description>
+  <!--原中文: '三角木马', 原英文: '无' -> 新英文: 'Horse Mount',更新于2026-02-14-->
+  <!--EN: Horse Mount-->
+  <OnaholeHorseMount.label>三角木马</OnaholeHorseMount.label>
+  <!--原中文: '用锁链将生物吊在三角木马上。生物无法动弹，只能被其它人随意玩弄。', 原英文: '无' -> 新英文: 'Bound prisoners with a chain hanging them on a horse mount.',更新于2026-02-14-->
+  <!--EN: Bound prisoners with a chain hanging them on a horse mount.-->
+  <OnaholeHorseMount.description>用锁链将生物吊在三角木马上。生物无法动弹，只能被其它人随意玩弄。</OnaholeHorseMount.description>
+  <!--原中文: '立杆', 原英文: '无' -> 新英文: 'Pole',更新于2026-02-14-->
+  <!--EN: Pole-->
+  <OnaholePole.label>立杆</OnaholePole.label>
+  <!--原中文: '用绳子将生物绑在立杆上。生物无法动弹，只能被其它人随意玩弄。', 原英文: '无' -> 新英文: 'Bound prisoners chained to a pole.',更新于2026-02-14-->
+  <!--EN: Bound prisoners chained to a pole.-->
+  <OnaholePole.description>用绳子将生物绑在立杆上。生物无法动弹，只能被其它人随意玩弄。</OnaholePole.description>
+  <!--原中文: '枷锁', 原英文: '无' -> 新英文: 'Pillory',更新于2026-02-14-->
+  <!--EN: Pillory-->
+  <OnaholePillory.label>枷锁</OnaholePillory.label>
+  <!--原中文: '将生物锁在枷锁上。生物无法动弹，只能被其它人随意玩弄。', 原英文: '无' -> 新英文: 'Bound prisoners Pillory.',更新于2026-02-14-->
+  <!--EN: Bound prisoners Pillory.-->
+  <OnaholePillory.description>将生物锁在枷锁上。生物无法动弹，只能被其它人随意玩弄。</OnaholePillory.description>
+  <!--原中文: '吊架', 原英文: '无' -> 新英文: 'Hanger',更新于2026-02-14-->
+  <!--EN: Hanger-->
+  <OnaholeHanger.label>吊架</OnaholeHanger.label>
+  <!--原中文: '用锁链将生物吊在吊架上。生物无法动弹，只能被其它人随意玩弄。', 原英文: '无' -> 新英文: 'Hang prisoner on a metal hanger.',更新于2026-02-14-->
+  <!--EN: Hang prisoner on a metal hanger.-->
+  <OnaholeHanger.description>用锁链将生物吊在吊架上。生物无法动弹，只能被其它人随意玩弄。</OnaholeHanger.description>
+  <!--原中文: '十字架', 原英文: '无' -> 新英文: 'Cross',更新于2026-02-14-->
+  <!--EN: Cross-->
+  <OnaholeCross.label>十字架</OnaholeCross.label>
+  <!--原中文: '用锁链将生物绑在十字架上。生物无法动弹，只能被其它人随意玩弄。', 原英文: '无' -> 新英文: 'Bound prisoners cross.',更新于2026-02-14-->
+  <!--EN: Bound prisoners cross.-->
+  <OnaholeCross.description>用锁链将生物绑在十字架上。生物无法动弹，只能被其它人随意玩弄。</OnaholeCross.description>
+  <!--原中文: '触手女神像', 原英文: '无' -> 新英文: 'Goddess Statue',更新于2026-02-14-->
+  <!--EN: Goddess Statue-->
+  <OnaholeGoddessStatue.label>触手女神像</OnaholeGoddessStatue.label>
+  <!--原中文: '受到触手生物寄生的女神像。不需要电力也能使用，并且可以自动捕获敌人使其变成肉便器。', 原英文: '无' -> 新英文: 'A statue of a goddess.',更新于2026-02-14-->
+  <!--EN: A statue of a goddess.-->
+  <OnaholeGoddessStatue.description>受到触手生物寄生的女神像。不需要电力也能使用，并且可以自动捕获敌人使其变成肉便器。</OnaholeGoddessStatue.description>
+  <!--原中文: '触手铁处女', 原英文: '无' -> 新英文: 'Iron Maiden',更新于2026-02-14-->
+  <!--EN: Iron Maiden-->
+  <OnaholeIronMaiden.label>触手铁处女</OnaholeIronMaiden.label>
+  <!--原中文: '受到触手生物寄生的铁处女。不需要电力也能使用，并且可以自动捕获敌人使其变成肉便器。', 原英文: '无' -> 新英文: 'Bound prisoners chained to a metal frame.',更新于2026-02-14-->
+  <!--EN: Bound prisoners chained to a metal frame.-->
+  <OnaholeIronMaiden.description>受到触手生物寄生的铁处女。不需要电力也能使用，并且可以自动捕获敌人使其变成肉便器。</OnaholeIronMaiden.description>
+</LanguageData>

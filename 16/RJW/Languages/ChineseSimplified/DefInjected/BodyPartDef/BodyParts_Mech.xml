@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '生殖器', 原英文: '无' -> 新英文: 'genitals',更新于2026-02-14-->
+  <!--EN: genitals-->
+  <MechGenitals.label>生殖器</MechGenitals.label>
+  <!--原中文: '胸部', 原英文: '无' -> 新英文: 'chest',更新于2026-02-14-->
+  <!--EN: chest-->
+  <MechChest.label>胸部</MechChest.label>
+  <!--原中文: '肛门', 原英文: '无' -> 新英文: 'mechanoid anus',更新于2026-02-14-->
+  <!--EN: mechanoid anus-->
+  <MechAnus.label>肛门</MechAnus.label>
+</LanguageData>

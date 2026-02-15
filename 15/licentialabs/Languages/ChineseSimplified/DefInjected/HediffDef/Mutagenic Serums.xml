@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MutatedParts.label>变异部位</MutatedParts.label>
+  <MutatedParts.description>描述文本</MutatedParts.description>
+  <MutatedParts.stages.0.label>角质</MutatedParts.stages.0.label>
+  <MutatedParts.stages.1.label>生长</MutatedParts.stages.1.label>
+  <MutatedParts.labelNoun>变异部位</MutatedParts.labelNoun>
+
+
+</LanguageData>

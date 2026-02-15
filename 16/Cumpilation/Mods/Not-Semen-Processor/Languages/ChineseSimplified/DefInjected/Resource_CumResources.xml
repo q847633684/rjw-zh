@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'Items that are considered bodily fluids.',新增于2026-02-15-->
+  <!--EN: Items that are considered bodily fluids.-->
+  <Cumpilation_BodilyFluid.description>Items that are considered bodily fluids.</Cumpilation_BodilyFluid.description>
+  <!--翻译内容: 'bodily fluid',新增于2026-02-15-->
+  <!--EN: bodily fluid-->
+  <Cumpilation_BodilyFluid.label>bodily fluid</Cumpilation_BodilyFluid.label>
+  <!--翻译内容: 'A light and resilient but not durable material, samenstein has its use by being
+            a very obtainable material. Made of processed semen, it can eventually be made by anyone
+            capable of ejaculating.',新增于2026-02-15-->
+  <!--EN: A light and resilient but not durable material, samenstein has its use by being
+            a very obtainable material. Made of processed semen, it can eventually be made by anyone
+            capable of ejaculating.-->
+  <Cumpilation_Samenstein.description>A light and resilient but not durable material, samenstein has its use by being
+            a very obtainable material. Made of processed semen, it can eventually be made by anyone
+            capable of ejaculating.</Cumpilation_Samenstein.description>
+  <!--翻译内容: 'samenstein',新增于2026-02-15-->
+  <!--EN: samenstein-->
+  <Cumpilation_Samenstein.label>samenstein</Cumpilation_Samenstein.label>
+  <!--翻译内容: 'samensteiny',新增于2026-02-15-->
+  <!--EN: samensteiny-->
+  <Cumpilation_Samenstein.stuffProps.stuffAdjective>samensteiny</Cumpilation_Samenstein.stuffProps.stuffAdjective>
+  <!--翻译内容: 'Fabric microscopically spun from microfibers made from semen. It is very tough,
+            good at insulating, but highly flammable.',新增于2026-02-15-->
+  <!--EN: Fabric microscopically spun from microfibers made from semen. It is very tough,
+            good at insulating, but highly flammable.-->
+  <Cumpilation_Spermatuch.description>Fabric microscopically spun from microfibers made from semen. It is very tough,
+            good at insulating, but highly flammable.</Cumpilation_Spermatuch.description>
+  <!--翻译内容: 'spermatuch',新增于2026-02-15-->
+  <!--EN: spermatuch-->
+  <Cumpilation_Spermatuch.label>spermatuch</Cumpilation_Spermatuch.label>
+</LanguageData>

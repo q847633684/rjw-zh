@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <S16_Mindbroken.degreeDatas.0.label>壞掉的</S16_Mindbroken.degreeDatas.0.label>
+  <S16_Mindbroken.degreeDatas.0.description>{PAWN_NameDef}'s psyche was broken by torture. {PAWN_pronoun} had no desire and will to resist or do anything else, humbly accepting everything that is done to {PAWN_possessive}. </S16_Mindbroken.degreeDatas.0.description>
+
+
+</LanguageData>

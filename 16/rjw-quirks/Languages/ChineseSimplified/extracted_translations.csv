@@ -1,0 +1,72 @@
+key,text,tag,file,type
+SettingsCategoryName,RJW Quirks Framework,SettingsCategoryName,SettingsKeys.xml,keyed
+MaxQuirks,Max quirks: {0},MaxQuirks,SettingsKeys.xml,keyed
+MaxQuirks_desc,Max quirks pawn can get when created.,MaxQuirks_desc,SettingsKeys.xml,keyed
+AnimalQuirksProbability,Probability for animals: {0} %,AnimalQuirksProbability,SettingsKeys.xml,keyed
+AnimalQuirksProbability_desc,How likely it is for an animal to appear with a quirk,AnimalQuirksProbability_desc,SettingsKeys.xml,keyed
+RQ_DebugLogs,Enable debug logs,RQ_DebugLogs,SettingsKeys.xml,keyed
+RQ_DebugLogs_desc,Logging debug messages specific to RJW Quirks,RQ_DebugLogs_desc,SettingsKeys.xml,keyed
+QuirksAmountDistribution_title,Quirks Amount Distribution,QuirksAmountDistribution_title,SettingsKeys.xml,keyed
+QuirksAmountDistribution_labelX,Amount,QuirksAmountDistribution_labelX,SettingsKeys.xml,keyed
+QuirksAmountDistribution_valueFormat,Distribution,QuirksAmountDistribution_valueFormat,SettingsKeys.xml,keyed
+Quirks,Quirks: ,Quirks,SexualityCardKeys.xml,keyed
+NoQuirks,"No Quirks, vanilla.",NoQuirks,SexualityCardKeys.xml,keyed
+ChangeQuirks,Change,ChangeQuirks,SexualityCardKeys.xml,keyed
+RemoveAllQuirks,Remove all,RemoveAllQuirks,SexualityCardKeys.xml,keyed
+DebugAddAllQuirks,(Debug) Add all,DebugAddAllQuirks,SexualityCardKeys.xml,keyed
+AddQuirk,Add {0},AddQuirk,SexualityCardKeys.xml,keyed
+RemoveQuirk,Remove {0},RemoveQuirk,SexualityCardKeys.xml,keyed
+Messy.label,Messy,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Messy.description,{pawn} not only produces copious amounts of fluid during sex but {pawn_pronoun} rarely bothers to clean {pawn_possessive}self afterwards.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Podophile.label,Podophile,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Podophile.description,{pawn} really likes feet and prefers sex acts involving them.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Cumslut.label,Cumslut,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Cumslut.description,{pawn} really likes cum and prefers fellatio sex acts.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Buttslut.label,Buttslut,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Buttslut.description,{pawn} really likes getting fucked in the butt and prefers anal sex acts.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Teratophile.label,Teratophile,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Teratophile.description,{pawn} prefers ugly partners. {pawn_pronoun} would also prefer larger and wilder animals if {pawn_pronoun} were into that sort of thing...,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Endytophile.label,Endytophile,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Endytophile.description,{pawn} prefers to keep {pawn_possessive} clothes on during sex.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Exhibitionist.label,Exhibitionist,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Exhibitionist.description,{pawn} enjoys having sex where others can see.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Gerontophile.label,Gerontophile,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Gerontophile.description,{pawn} prefers older partners (55+ on a human scale).,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Somnophile.label,Somnophile,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Somnophile.description,{pawn} prefers {pawn_possessive} partners to be asleep,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Sapiosexual.label,Sapiosexual,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Sapiosexual.description,{pawn} prefers smart partners.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Fertile.label,Fertile,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Fertile.description,{pawn} has unusually high fertility and so is more likely to have children.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Infertile.label,Infertile,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Infertile.description,{pawn} has unusually low fertility and so is unlikely to have children.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+ImpregnationFetish.label,Impregnation fetish,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+ImpregnationFetish.description,{pawn} really likes the idea of someone becoming pregnant. {pawn_pronoun} prefers partners and sex positions where there is a possibility of pregnancy. {pawn_pronoun} doesn't care if {pawn_pronoun} is getting pregnant or {pawn_possessive} partner is as long as babby is formed.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+PregnancyFetish.label,Pregnancy fetish,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+PregnancyFetish.description,{pawn} prefers partners who are visibly pregnant.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Incubator.label,Incubator,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Incubator.description,{pawn} has birthed so many eggs that {pawn_possessive} body has adapted to handling them. {pawn_possessive} egg incubation speed has increased.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Breeder.label,Breeder,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Breeder.description,{pawn} has given birth so many times that {pawn_possessive} body has adapted to breeding. {pawn_possessive} pregnancies are shorter and produce more offspring.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Vigorous.label,Vigorous,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+Vigorous.description,{pawn} is invigorated by sex. {pawn_pronoun} does not get tired as much during sex.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+ChitinLover.label,Chitin lover,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+ChitinLover.description,{pawn} enjoys the smooth strength of a chitinous exoskeleton. {pawn_pronoun} prefers arachnoid or insectoid partners.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+DemonLover.label,Demon lover,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+DemonLover.description,"{pawn} is after the naughty ones. {pawn_pronoun} prefers {pawn_possessive} partners to come from the literal depths of hell, or at least look the part.",description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+FeatherLover.label,Feather lover,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+FeatherLover.description,"{pawn} loves that downy fluff. {pawn_pronoun} prefers avian or dinosaur partners. Because dinosaurs are birds and have feathers, as {pawn_pronoun} will explain at great length if given a chance.",description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+FurLover.label,Fur lover,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+FurLover.description,"{pawn} prefers a partner with a thick, luxurious, snuggly-soft coat of fur.",description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+PlantLover.label,Plant lover,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+PlantLover.description,{pawn} likes watering plants. If you know what I mean.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+RobotLover.label,Robot lover,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+RobotLover.description,"Which is better, 2D or 3D? {pawn} knows that 3D-printed gives you the best of both worlds.",description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+ScaleLover.label,Scale lover,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+ScaleLover.description,Who wouldn't want to fuck a dragon? Definitely not {pawn}. {pawn} wants to fuck a dragon.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+SkinLover.label,Skin lover,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+SkinLover.description,{pawn} prefers {pawn_possessive} partners to have smooth sensitive skin without fur or scales getting in the way. Lucky for {pawn_objective} humans are all over the place.,description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+SlimeLover.label,Slime lover,label,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+SlimeLover.description,"Because of their slippery and malleable nature slimes are very, very good at sex. As you will hear over and over if you listen to {pawn} talk for any length of time.",description,RJWQuirks.QuirkDef\BaseQuirks.xml,def
+ThatsMyFetish.stages.0.label,Thats my fetish,label,ThoughtDefs\Thoughts_Quirk.xml,def
+ThatsMyFetish.stages.0.description,I just had sex that satisfied one of my quirks.,description,ThoughtDefs\Thoughts_Quirk.xml,def

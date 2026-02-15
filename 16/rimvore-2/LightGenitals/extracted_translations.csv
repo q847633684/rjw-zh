@@ -1,0 +1,20 @@
+key,text,tag,file,type
+LightGenitals_tabName,LightGenitals,LightGenitals_tabName,LightGenitals_Settings.xml,keyed
+LightGenitals_Male,Male,LightGenitals_Male,LightGenitals_Settings.xml,keyed
+LightGenitals_Female,Female,LightGenitals_Female,LightGenitals_Settings.xml,keyed
+LightGenitals_chanceToSpawnWithBreasts,Breasts chance,LightGenitals_chanceToSpawnWithBreasts,LightGenitals_Settings.xml,keyed
+LightGenitals_chanceToSpawnWithVagina,Vagina chance,LightGenitals_chanceToSpawnWithVagina,LightGenitals_Settings.xml,keyed
+LightGenitals_chanceToSpawnWithPenis,Penis chance,LightGenitals_chanceToSpawnWithPenis,LightGenitals_Settings.xml,keyed
+LightGenitals_canSpawnWithNoGenitals,Can have no genitals,LightGenitals_canSpawnWithNoGenitals,LightGenitals_Settings.xml,keyed
+LightGenitals_canSpawnWithNoGenitals_Tip,"When this is enabled, the pawn may have no genitals.\nWhen disabled, the higher chance is forced if no genitals were picked on the initial generation.",LightGenitals_canSpawnWithNoGenitals_Tip,LightGenitals_Settings.xml,keyed
+Genitals.label,genitals,label,BodyParts_Humanlike.xml,def
+Chest.label,chest,label,BodyParts_Humanlike.xml,def
+Anus.label,anus,label,BodyParts_Humanlike.xml,def
+LightGenitals_Penis.label,Penis,label,Hediffs_Genitals.xml,def
+LightGenitals_Penis.description,Male reproductive body part,description,Hediffs_Genitals.xml,def
+LightGenitals_Vagina.label,Vagina,label,Hediffs_Genitals.xml,def
+LightGenitals_Vagina.description,Female reproductive body part,description,Hediffs_Genitals.xml,def
+LightGenitals_Breasts.label,Breasts,label,Hediffs_Genitals.xml,def
+LightGenitals_Breasts.description,Female nursing body parts,description,Hediffs_Genitals.xml,def
+LightGenitals_Anus.label,Anus,label,Hediffs_Genitals.xml,def
+LightGenitals_Anus.description,Body part for excretion,description,Hediffs_Genitals.xml,def

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Install the cellular xenoconverter required for absorptive vore.-->
+  <RV2_InstallGoalEnabler_Absorb.description>安装吸收所需的异种细胞转换器吃人</RV2_InstallGoalEnabler_Absorb.description>
+  <!--EN: Install cellular xenoconverter-->
+  <RV2_InstallGoalEnabler_Absorb.label>安装异种细胞转换器</RV2_InstallGoalEnabler_Absorb.label>
+  <!--EN: Install the enzyme seeder required to allow turning prey into chemfuel.-->
+  <RV2_InstallGoalEnabler_ConvertChemfuel.description>安装需要让猎物转化为化合燃料的生物酶过滤器。</RV2_InstallGoalEnabler_ConvertChemfuel.description>
+  <!--EN: Install olifactive enzyme seeder-->
+  <RV2_InstallGoalEnabler_ConvertChemfuel.label>安装 olifactive 酶法</RV2_InstallGoalEnabler_ConvertChemfuel.label>
+  <!--EN: Install the enzyme seeder required to allow turning prey into eggs.-->
+  <RV2_InstallGoalEnabler_ConvertEggs.description>安装需要让猎物转化为卵的酶播种装置。</RV2_InstallGoalEnabler_ConvertEggs.description>
+  <!--EN: Install ovifactive enzyme seeder-->
+  <RV2_InstallGoalEnabler_ConvertEggs.label>安装产卵酶</RV2_InstallGoalEnabler_ConvertEggs.label>
+  <!--EN: Install the enzyme seeder required to allow turning prey into urine.-->
+  <RV2_InstallGoalEnabler_ConvertUrine.description>安装需要允许将猎物变成尿的酶过滤器。</RV2_InstallGoalEnabler_ConvertUrine.description>
+  <!--EN: Install urifactive enzyme seeder-->
+  <RV2_InstallGoalEnabler_ConvertUrine.label>安装营养酶播种机</RV2_InstallGoalEnabler_ConvertUrine.label>
+  <!--EN: Install the suite of adjustments required to allow cleavage vore.-->
+  <RV2_InstallTypeEnabler_Cleavage.description>安装所需的一系列调整以允许cleavagevore</RV2_InstallTypeEnabler_Cleavage.description>
+  <!--EN: Install cleavage vore suite-->
+  <RV2_InstallTypeEnabler_Cleavage.label>安装cleavagevore套房</RV2_InstallTypeEnabler_Cleavage.label>
+  <!--EN: Install the porocizer required to enable membrane vore.-->
+  <RV2_InstallTypeEnabler_Membrane.description>安装启用薄膜所需的烟雾装置吃人</RV2_InstallTypeEnabler_Membrane.description>
+  <!--EN: Install dermal porocizer-->
+  <RV2_InstallTypeEnabler_Membrane.label>安装皮肤污垢</RV2_InstallTypeEnabler_Membrane.label>
+  <!--EN: Install the elasticizer required to enable navel vore.-->
+  <RV2_InstallTypeEnabler_Navel.description>安装需要的护盾以启用肚脐吃人</RV2_InstallTypeEnabler_Navel.description>
+  <!--EN: Install umbilical elasticizer-->
+  <RV2_InstallTypeEnabler_Navel.label>安装脐带弹射器</RV2_InstallTypeEnabler_Navel.label>
+  <!--EN: Install the actinodivisor required to enable tailmaw vore.-->
+  <RV2_InstallTypeEnabler_Tailmaw.description>安装日化机以启用尾甲所需吃人</RV2_InstallTypeEnabler_Tailmaw.description>
+  <!--EN: Install caudal actinodivisor-->
+  <RV2_InstallTypeEnabler_Tailmaw.label>安装尾尾形日身</RV2_InstallTypeEnabler_Tailmaw.label>
+  <!--EN: Install the elasticizer required to enable udder vore.-->
+  <RV2_InstallTypeEnabler_Udder.description>安装需要的弹力装置以启用乳房吃人</RV2_InstallTypeEnabler_Udder.description>
+  <!--EN: Install uberal elasticizer-->
+  <RV2_InstallTypeEnabler_Udder.label>安装弹性弹射器</RV2_InstallTypeEnabler_Udder.label>
+</LanguageData>

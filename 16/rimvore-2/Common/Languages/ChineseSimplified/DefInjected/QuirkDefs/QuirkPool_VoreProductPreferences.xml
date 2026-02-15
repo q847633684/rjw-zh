@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks determine how much a pawn enjoys eating edible vore products, which are food items produced by digestion/conversion such as milk and cum.-->
+  <ProductPreference.description>这些怪癖决定了多少钱一个pawn喜欢食用吃人产物，它们是通过消化/转化获得的食物，如牛奶和精液</ProductPreference.description>
+  <!--EN: Vore product preference-->
+  <ProductPreference.label>吃人产品偏好</ProductPreference.label>
+  <!--EN: [PAWN_label] dislikes consuming the remains of prey who have been churned into edibles. It's a waste of good food.-->
+  <ProductPreference_Dislikes.description>[PAWN_label]厌恶将被制成食物的猎物的残骸吞食。这是对美食的浪费。</ProductPreference_Dislikes.description>
+  <!--EN: Processed pawn distaste-->
+  <ProductPreference_Dislikes.label>已处理pawn厌恶</ProductPreference_Dislikes.label>
+  <!--EN: [PAWN_label] hates consuming the remains of prey who have been churned into edibles. It's a profane alchemy that mustn't grace [PAWN_possessive] tongue.-->
+  <ProductPreference_Hates.description>[PAWN_label]厌恶将被制成食物的猎物的残骸吞食。这是一种亵渎的炼金术，不能优雅[PAWN_possessive]舌头。</ProductPreference_Hates.description>
+  <!--EN: Processed pawn disgust-->
+  <ProductPreference_Hates.label>已处理pawn厌恶</ProductPreference_Hates.label>
+  <!--EN: [PAWN_label] likes to consume the remains of prey who have been churned into tasty beverages.-->
+  <ProductPreference_Likes.description>[PAWN_label]喜欢食用被制成美味饮料的猎物残骸。</ProductPreference_Likes.description>
+  <!--EN: Processed pawn taste-->
+  <ProductPreference_Likes.label>已处理pawn味道</ProductPreference_Likes.label>
+  <!--EN: [PAWN_label] loves to consume the treats dispensed by predators, who have so skillfully churned their prey into thick batter and creamy milk.-->
+  <ProductPreference_Loves.description>[PAWN_label]喜欢吃捕食者分配的零食，捕食者将猎物巧妙地搅拌成厚厚的面糊和奶油。</ProductPreference_Loves.description>
+  <!--EN: Processed pawn connoisseur-->
+  <ProductPreference_Loves.label>已处理pawn行家</ProductPreference_Loves.label>
+  <!--EN: [PAWN_label] doesn't care one way or the other about consuming the remains of prey who have been churned into edibles.-->
+  <ProductPreference_Neutral.description>[PAWN_label]不管怎样，对于将被搅拌成食物的猎物的残骸完全不在乎。</ProductPreference_Neutral.description>
+  <!--EN: Processed pawn ambivalence-->
+  <ProductPreference_Neutral.label>已处理pawn矛盾心理</ProductPreference_Neutral.label>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ProductionSerum.label>生产血清</ProductionSerum.label>
+  <ProductionSerum.description>使用户每隔几天产生荷尔蒙血清。可能导致轻微的情绪问题。</ProductionSerum.description>
+  <ProductionSerum.ingestible.ingestCommandString>饮料 {0}</ProductionSerum.ingestible.ingestCommandString>
+  <ProductionSerum.ingestible.ingestReportString>饮用 {0}。</ProductionSerum.ingestible.ingestReportString>
+
+
+</LanguageData>

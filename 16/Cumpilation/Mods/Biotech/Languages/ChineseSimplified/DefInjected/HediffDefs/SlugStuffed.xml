@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'You came too close to someone currently slugging.',新增于2026-02-15-->
+  <!--EN: You came too close to someone currently slugging.-->
+  <Cumpilation_SlugStuffed.description>You came too close to someone currently slugging.</Cumpilation_SlugStuffed.description>
+  <!--翻译内容: 'slug-stuffed',新增于2026-02-15-->
+  <!--EN: slug-stuffed-->
+  <Cumpilation_SlugStuffed.label>slug-stuffed</Cumpilation_SlugStuffed.label>
+  <!--翻译内容: 'slug-stuffed',新增于2026-02-15-->
+  <!--EN: slug-stuffed-->
+  <Cumpilation_SlugStuffed.labelNoun>slug-stuffed</Cumpilation_SlugStuffed.labelNoun>
+  <!--翻译内容: 'slightly bloated',新增于2026-02-15-->
+  <!--EN: slightly bloated-->
+  <Cumpilation_SlugStuffed.stages.0.label>slightly bloated</Cumpilation_SlugStuffed.stages.0.label>
+  <!--翻译内容: 'bloated',新增于2026-02-15-->
+  <!--EN: bloated-->
+  <Cumpilation_SlugStuffed.stages.1.label>bloated</Cumpilation_SlugStuffed.stages.1.label>
+  <!--翻译内容: 'full',新增于2026-02-15-->
+  <!--EN: full-->
+  <Cumpilation_SlugStuffed.stages.2.label>full</Cumpilation_SlugStuffed.stages.2.label>
+  <!--翻译内容: 'over-stuffed',新增于2026-02-15-->
+  <!--EN: over-stuffed-->
+  <Cumpilation_SlugStuffed.stages.3.label>over-stuffed</Cumpilation_SlugStuffed.stages.3.label>
+</LanguageData>

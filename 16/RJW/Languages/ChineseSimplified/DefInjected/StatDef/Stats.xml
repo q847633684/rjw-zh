@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '性满足度', 原英文: '无' -> 新英文: 'sex satisfaction',更新于2026-02-14-->
+  <!--EN: sex satisfaction-->
+  <SexSatisfaction.label>性满足度</SexSatisfaction.label>
+  <!--原中文: '衡量小人对性的满足程度。', 原英文: '无' -> 新英文: 'Determines how much satisfaction a pawn receives from sex.',更新于2026-02-14-->
+  <!--EN: Determines how much satisfaction a pawn receives from sex.-->
+  <SexSatisfaction.description>衡量小人对性的满足程度。</SexSatisfaction.description>
+  <!--原中文: '性弱气度', 原英文: '无' -> 新英文: 'vulnerability',更新于2026-02-14-->
+  <!--EN: vulnerability-->
+  <Vulnerability.label>性弱气度</Vulnerability.label>
+  <!--原中文: '衡量小人好欺负的程度。（越高越容易被强奸）', 原英文: '无' -> 新英文: 'Measures how likely a pawn is to be taken advantage of sexually',更新于2026-02-14-->
+  <!--EN: Measures how likely a pawn is to be taken advantage of sexually-->
+  <Vulnerability.description>衡量小人好欺负的程度。（越高越容易被强奸）</Vulnerability.description>
+  <!--原中文: '性欲强度', 原英文: '无' -> 新英文: 'sex drive',更新于2026-02-14-->
+  <!--EN: sex drive-->
+  <SexFrequency.label>性欲强度</SexFrequency.label>
+  <!--原中文: '衡量角色性行为的活跃程度。', 原英文: '无' -> 新英文: 'Measures how sexually active the pawn is.',更新于2026-02-14-->
+  <!--EN: Measures how sexually active the pawn is.-->
+  <SexFrequency.description>衡量角色性行为的活跃程度。</SexFrequency.description>
+  <!--原中文: '体型性偏好下限', 原英文: '无' -> 新英文: 'mate size preference (minimum)',更新于2026-02-14-->
+  <!--EN: mate size preference (minimum)-->
+  <SexMinSizePreference.label>体型性偏好下限</SexMinSizePreference.label>
+  <!--原中文: '决定选择性对象时可接受的最小相对体型值。', 原英文: '无' -> 新英文: 'Determines the minimum comfortable size of a potential mate, relative to their own.',更新于2026-02-14-->
+  <!--EN: Determines the minimum comfortable size of a potential mate, relative to their own.-->
+  <SexMinSizePreference.description>决定选择性对象时可接受的最小相对体型值。</SexMinSizePreference.description>
+  <!--原中文: '体型性偏好上限', 原英文: '无' -> 新英文: 'mate size preference (maximum)',更新于2026-02-14-->
+  <!--EN: mate size preference (maximum)-->
+  <SexMaxSizePreference.label>体型性偏好上限</SexMaxSizePreference.label>
+  <!--原中文: '决定选择性对象时可接受的最大相对体型值。', 原英文: '无' -> 新英文: 'Determines the maximum comfortable size of a potential mate, relative to their own.',更新于2026-02-14-->
+  <!--EN: Determines the maximum comfortable size of a potential mate, relative to their own.-->
+  <SexMaxSizePreference.description>决定选择性对象时可接受的最大相对体型值。</SexMaxSizePreference.description>
+  <!--原中文: '野性排斥度', 原英文: '无' -> 新英文: 'wildness aversion',更新于2026-02-14-->
+  <!--EN: wildness aversion-->
+  <SexWildnessAversion.label>野性排斥度</SexWildnessAversion.label>
+  <!--原中文: '决定角色在选择性对象时对野生动物或野人所具有的野性的排斥程度。', 原英文: '无' -> 新英文: 'Determines how much the pawn is put off by the wildness of animals and wildmen when assessing potential mates.',更新于2026-02-14-->
+  <!--EN: Determines how much the pawn is put off by the wildness of animals and wildmen when assessing potential mates.-->
+  <SexWildnessAversion.description>决定角色在选择性对象时对野生动物或野人所具有的野性的排斥程度。</SexWildnessAversion.description>
+</LanguageData>

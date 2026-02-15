@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: interrupted sex-->
+  <InterruptedSex.label>被打断的性爱</InterruptedSex.label>
+  <!--EN: r_logentry->[INITIATOR_nameDef]'s sudden appearance startled [RECIPIENT_nameDef].-->
+  <InterruptedSex.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]的突然出现吓了[RECIPIENT_nameDef]一跳。</InterruptedSex.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->[INITIATOR_nameDef] accidently gatecrashed [RECIPIENT_nameDef]'s private party.-->
+  <InterruptedSex.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]不小心闯入了[RECIPIENT_nameDef]的私人派对。</InterruptedSex.logRulesInitiator.rulesStrings.1>
+  <!--EN: r_logentry->[INITIATOR_nameDef] unintentionally intruded upon [RECIPIENT_nameDef]'s privacy.-->
+  <InterruptedSex.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]无意中侵犯了[RECIPIENT_nameDef]的隐私。</InterruptedSex.logRulesInitiator.rulesStrings.2>
+  <!--EN: r_logentry->[INITIATOR_nameDef] rudely interrupted while [RECIPIENT_nameDef] was getting it on.-->
+  <InterruptedSex.logRulesInitiator.rulesStrings.3>r_logentry->[RECIPIENT_nameDef]正在亲热时，被[INITIATOR_nameDef]粗鲁地打断了。</InterruptedSex.logRulesInitiator.rulesStrings.3>
+
+  <!--EN: invited to have group sex-->
+  <InviteToHaveGroupSex.label>被邀请参与群交</InviteToHaveGroupSex.label>
+  <!--EN: r_logentry->[INITIATOR_nameDef] huskily invited [RECIPIENT_nameDef] to join [INITIATOR_objective] for a threesome.-->
+  <InviteToHaveGroupSex.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]用沙哑的声音邀请[RECIPIENT_nameDef]加入[INITIATOR_objective]，来一次三人行。</InviteToHaveGroupSex.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->[INITIATOR_nameDef] joking asked if [RECIPIENT_nameDef] wanted to do a 'group activity' together.-->
+  <InviteToHaveGroupSex.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]开玩笑地问[RECIPIENT_nameDef]想不想一起搞个“集体活动”。</InviteToHaveGroupSex.logRulesInitiator.rulesStrings.1>
+  <!--EN: r_logentry->[INITIATOR_nameDef] archly inquired if [RECIPIENT_nameDef] would like to join [INITIATOR_objective] for some fun.-->
+  <InviteToHaveGroupSex.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]狡黠地问[RECIPIENT_nameDef]是否愿意加入[INITIATOR_objective]找点乐子。</InviteToHaveGroupSex.logRulesInitiator.rulesStrings.2>
+
+  <!--EN: invited to have sex-->
+  <InviteToHaveSex.label>被邀请做爱</InviteToHaveSex.label>
+  <!--EN: r_logentry->[INITIATOR_nameDef] shyly invited [RECIPIENT_nameDef] to have sex with [INITIATOR_objective].-->
+  <InviteToHaveSex.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]害羞地邀请[RECIPIENT_nameDef]与[INITIATOR_objective]做爱。</InviteToHaveSex.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->[INITIATOR_nameDef] waved [RECIPIENT_nameDef] over to join in [INITIATOR_objective] fun.-->
+  <InviteToHaveSex.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]挥手示意[RECIPIENT_nameDef]过来一起享受[INITIATOR_objective]的乐趣。</InviteToHaveSex.logRulesInitiator.rulesStrings.1>
+  <!--EN: r_logentry->[INITIATOR_nameDef] enticed [RECIPIENT_nameDef] over to [INITIATOR_objective] side.-->
+  <InviteToHaveSex.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]把[RECIPIENT_nameDef]引诱到[INITIATOR_objective]身边。</InviteToHaveSex.logRulesInitiator.rulesStrings.2>
+
+  <!--EN: invited to watch-->
+  <InviteVoyeurism.label>被邀请观看</InviteVoyeurism.label>
+  <!--EN: r_logentry->[INITIATOR_nameDef] bade [RECIPIENT_nameDef] to come closer and take a good look at what [INITIATOR_pronoun] was doing.-->
+  <InviteVoyeurism.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]示意[RECIPIENT_nameDef]靠近点，好好看看[INITIATOR_pronoun]在做什么。</InviteVoyeurism.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->[INITIATOR_nameDef] put on a lewd display for [RECIPIENT_nameDef].-->
+  <InviteVoyeurism.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]为[RECIPIENT_nameDef]进行了一场淫秽的表演。</InviteVoyeurism.logRulesInitiator.rulesStrings.1>
+  <!--EN: r_logentry->[INITIATOR_nameDef] let [RECIPIENT_nameDef] know that [INITIATOR_pronoun] didn't mind if [RECIPIENT_pronoun] watched [INITIATOR_objective].-->
+  <InviteVoyeurism.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]告诉[RECIPIENT_nameDef]，[INITIATOR_pronoun]不介意[RECIPIENT_pronoun]观看[INITIATOR_objective]。</InviteVoyeurism.logRulesInitiator.rulesStrings.2>
+</LanguageData>

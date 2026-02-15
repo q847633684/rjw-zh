@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '被强奸。', 原英文: '无' -> 新英文: 'gettin' raped.',更新于2026-02-14-->
+  <!--EN: gettin' raped.-->
+  <GettinRaped.reportString>被强奸。</GettinRaped.reportString>
+  <!--原中文: '强奸泄欲对象。', 原英文: '无' -> 新英文: 'rapin' CP',更新于2026-02-14-->
+  <!--EN: rapin' CP-->
+  <RapeComfortPawn.reportString>强奸泄欲对象。</RapeComfortPawn.reportString>
+  <!--原中文: '随机强奸。', 原英文: '无' -> 新英文: 'raping.',更新于2026-02-14-->
+  <!--EN: raping.-->
+  <RandomRape.reportString>随机强奸。</RandomRape.reportString>
+  <!--原中文: '强奸敌人。', 原英文: '无' -> 新英文: 'rapin' enemy',更新于2026-02-14-->
+  <!--EN: rapin' enemy-->
+  <RapeEnemy.reportString>强奸敌人。</RapeEnemy.reportString>
+  <!--原中文: '被虫子强奸的敌人。', 原英文: '无' -> 新英文: 'rapin' enemy',更新于2026-02-14-->
+  <!--EN: rapin' enemy-->
+  <RapeEnemyByInsect.reportString>被虫子强奸的敌人。</RapeEnemyByInsect.reportString>
+  <!--原中文: '被动物强奸的敌人。', 原英文: '无' -> 新英文: 'rapin' enemy',更新于2026-02-14-->
+  <!--EN: rapin' enemy-->
+  <RapeEnemyByAnimal.reportString>被动物强奸的敌人。</RapeEnemyByAnimal.reportString>
+  <!--原中文: '被机械体强奸的敌人。', 原英文: '无' -> 新英文: 'rapin' enemy',更新于2026-02-14-->
+  <!--EN: rapin' enemy-->
+  <RapeEnemyByMech.reportString>被机械体强奸的敌人。</RapeEnemyByMech.reportString>
+  <!--原中文: '强奸敌对寄生体。', 原英文: '无' -> 新英文: 'rapin' enemy',更新于2026-02-14-->
+  <!--EN: rapin' enemy-->
+  <RapeEnemyToParasite.reportString>强奸敌对寄生体。</RapeEnemyToParasite.reportString>
+</LanguageData>

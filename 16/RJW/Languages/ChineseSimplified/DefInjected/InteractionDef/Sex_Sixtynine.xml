@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '69', 原英文: '无' -> 新英文: '69ing',更新于2026-02-14-->
+  <!--EN: 69ing-->
+  <Sex_Sixtynine.label>69</Sex_Sixtynine.label>
+  <!--原中文: '让其69', 原英文: '无' -> 新英文: 'Do sixtynine',更新于2026-02-14-->
+  <!--EN: Do sixtynine-->
+  <Sex_Sixtynine.modExtensions.0.RMBLabel>让其69</Sex_Sixtynine.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->与[RECIPIENT_nameDef]以69的姿势做爱。', 原英文: '无' -> 新英文: 'r_logentry->69'd with [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->69'd with [RECIPIENT_nameDef].-->
+  <Sex_Sixtynine.logRulesInitiator.rulesStrings.0>r_logentry->与[RECIPIENT_nameDef]以69的姿势做爱。</Sex_Sixtynine.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->与[INITIATOR_nameDef]以69的姿势做爱。', 原英文: '无' -> 新英文: 'r_logentry->69'd with [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->69'd with [INITIATOR_nameDef].-->
+  <Sex_Sixtynine.logRulesRecipient.rulesStrings.0>r_logentry->与[INITIATOR_nameDef]以69的姿势做爱。</Sex_Sixtynine.logRulesRecipient.rulesStrings.0>
+</LanguageData>

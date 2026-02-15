@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '喙交', 原英文: '无' -> 新英文: 'beakjob',更新于2026-02-14-->
+  <!--EN: beakjob-->
+  <Sex_Beakjob.label>喙交</Sex_Beakjob.label>
+  <!--原中文: '让其喙交', 原英文: '无' -> 新英文: 'Receive beakjob',更新于2026-02-14-->
+  <!--EN: Receive beakjob-->
+  <Sex_Beakjob.modExtensions.0.RMBLabel>让其喙交</Sex_Beakjob.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->让[RECIPIENT_nameDef]喙交了阴茎。', 原英文: '无' -> 新英文: 'r_logentry->Received a beakjob from [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Received a beakjob from [RECIPIENT_nameDef].-->
+  <Sex_Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->让[RECIPIENT_nameDef]喙交了阴茎。</Sex_Beakjob.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->喙交了[INITIATOR_nameDef]的阴茎。', 原英文: '无' -> 新英文: 'r_logentry->Gave a beakjob to [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Gave a beakjob to [INITIATOR_nameDef].-->
+  <Sex_Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->喙交了[INITIATOR_nameDef]的阴茎。</Sex_Beakjob.logRulesRecipient.rulesStrings.0>
+</LanguageData>

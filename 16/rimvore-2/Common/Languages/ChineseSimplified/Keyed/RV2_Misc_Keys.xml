@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Oh well. The RimVore-2 mod and its settings menu will probably break. If you change your mind you can re-open this dialog and re-wipe the settings by looking at the DebugActions menu for RV-2.-->
+  <RV2_Dialog_RestartDeniedNotification>好吧。RimVore-2 mod 及其设置菜单可能会崩溃。如果你改变主意，可以重新打开此对话框，并通过查看 “调试” 菜单来重新擦除设置 RV-2。</RV2_Dialog_RestartDeniedNotification>
+  <!--EN: Do not restart-->
+  <RV2_Dialog_RestartNo>不重启</RV2_Dialog_RestartNo>
+  <!--EN: RimVore-2 settings had to be wiped and a game restart is required to properly destroy the old settings.\n\nNot restarting right now may break RV-2 and its settings menu, so it's highly encouraged to do so.-->
+  <RV2_Dialog_RestartNotification>RimVore-2 设置必须被抹除，并且需要重新启动游戏来正确销毁旧的设置。
+
+现在不重新启动可能会破坏 RV-2 及其设置菜单，因此强烈鼓励它这样做。</RV2_Dialog_RestartNotification>
+  <!--EN: Okay, restart-->
+  <RV2_Dialog_RestartOkay>好，重启</RV2_Dialog_RestartOkay>
+  <!--EN: Contents:-->
+  <RV2_DisposalUrn_Contents>内容:</RV2_DisposalUrn_Contents>
+  <!--EN: Empty-->
+  <RV2_DisposalUrn_Empty>清空</RV2_DisposalUrn_Empty>
+  <!--EN: {PREDATOR} changed the vore goal they used on {PREY} from {PREVIOUSGOAL} to {NEWGOAL}-->
+  <RV2_PredatorSwitchedVoreGoal>{PREDATOR}改变了吃人使用的目标{PREY}来自{PREVIOUSGOAL}到{NEWGOAL}</RV2_PredatorSwitchedVoreGoal>
+  <!--EN: Vore goal switched-->
+  <RV2_PredatorSwitchedVoreGoal_Key>吃人目标切换</RV2_PredatorSwitchedVoreGoal_Key>
+  <!--EN: Removing prey from {0}-->
+  <RV2_SurgeryRemovePrey>正在移除猎物{0}</RV2_SurgeryRemovePrey>
+  <!--EN: None-->
+  <RV2_ThingList_None>无</RV2_ThingList_None>
+  <!--EN: {0} Days-->
+  <RV2_Time_Days>{0}天</RV2_Time_Days>
+  <!--EN: {0} Hours-->
+  <RV2_Time_Hours>{0}小时</RV2_Time_Hours>
+  <!--EN: {0} Minutes-->
+  <RV2_Time_Minutes>{0}分钟</RV2_Time_Minutes>
+  <!--EN: {0} Seconds-->
+  <RV2_Time_Seconds>{0}秒</RV2_Time_Seconds>
+  <!--EN: {0} Weeks-->
+  <RV2_Time_Weeks>{0}周</RV2_Time_Weeks>
+  <!--EN: Reason: Could not do desired vore for mental break-->
+  <RV2_VoreMentalBreakNoPathAvailable>原因: 无法完成期望吃人因精神崩溃</RV2_VoreMentalBreakNoPathAvailable>
+</LanguageData>

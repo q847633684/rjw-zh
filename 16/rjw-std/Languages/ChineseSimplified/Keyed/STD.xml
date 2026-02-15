@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: {0} has {1} {2} grown to {3} cup from {4}.-->
+  <RJW_BreastsHaveGrownFromBoobitis>{0}的{1}{2}从{4}罩杯增大到了{3}罩杯。</RJW_BreastsHaveGrownFromBoobitis>
+  <!--EN: {0} has developed an infection due to a weakened immune system.-->
+  <RJW_Opportunistic_Infection_Message>{0}因免疫系统减弱而发生了感染。</RJW_Opportunistic_Infection_Message>
+  <!--EN: {0} has suffered permanent damage to {1} {2} due to an advancement of {3} infection.-->
+  <RJW_Syphilis_Damage_Message>{0}因{3}感染加剧，对{1}{2}造成了永久性损伤。</RJW_Syphilis_Damage_Message>
+  <!--EN: Nymph spawn STD multiplier-->
+  <nymph_spawn_with_std_mul> nymph生成时携带性病倍率</nymph_spawn_with_std_mul>
+  <!--EN: Multiplier to spawn nymphs with STDs (std base chance * this)-->
+  <nymph_spawn_with_std_mul_desc>生成 nymph 时携带性病的倍率（性病基础概率 * 此值）</nymph_spawn_with_std_mul_desc>
+  <!--EN: Immunodeficiency spread-->
+  <opp_inf_initial_immunity>免疫缺陷传播</opp_inf_initial_immunity>
+  <!--EN: Chance to get additional infections due to Immunodeficiency-->
+  <opp_inf_initial_immunity_desc>因免疫缺陷而获得额外感染的几率</opp_inf_initial_immunity_desc>
+  <!--EN: Pawn spawn STD multiplier-->
+  <pawn_spawn_with_std_mul>角色生成时携带性病倍率</pawn_spawn_with_std_mul>
+  <!--EN: Multiplier to spawn pawn with STDs (std base chance * this).-->
+  <pawn_spawn_with_std_mul_desc>生成角色时携带性病的倍率（性病基础概率 * 此值）。</pawn_spawn_with_std_mul_desc>
+  <!--EN: Clean rooms spread modifier-->
+  <std_env_pitch_cleanliness_exaggeration>洁净房间传播修正系数</std_env_pitch_cleanliness_exaggeration>
+  <!--EN: 1.0f - this * RoomStatDefOf.Cleanliness.
+RoomStatDefOf.Cleanliness >= 0-->
+  <std_env_pitch_cleanliness_exaggeration_desc>1.0f - 此值 * RoomStatDefOf.Cleanliness。
+RoomStatDefOf.Cleanliness >= 0</std_env_pitch_cleanliness_exaggeration_desc>
+  <!--EN: Dirty rooms spread modifier-->
+  <std_env_pitch_dirtiness_exaggeration>肮脏房间传播修正系数</std_env_pitch_dirtiness_exaggeration>
+  <!--EN: 1.0f - this * RoomStatDefOf.Cleanliness.
+RoomStatDefOf.Cleanliness < 0-->
+  <std_env_pitch_dirtiness_exaggeration_desc>1.0f - 此值 * RoomStatDefOf.Cleanliness。
+RoomStatDefOf.Cleanliness &lt; 0</std_env_pitch_dirtiness_exaggeration_desc>
+  <!--EN: STDs from environment-->
+  <std_floor>来自环境的性病</std_floor>
+  <!--EN: Pawns will catch STDs from sex in dirty environment.-->
+  <std_floor_desc>角色在肮脏环境中进行性行为会感染性病。</std_floor_desc>
+  <!--EN: Min STD severity to spread-->
+  <std_min_severity_to_pitch>可传播的最低性病严重度</std_min_severity_to_pitch>
+  <!--EN: STD infections must be at least this severe to spread between pawns-->
+  <std_min_severity_to_pitch_desc>性病感染必须达到此严重度才能在角色之间传播</std_min_severity_to_pitch_desc>
+  <!--EN: Outdoor Cleanliness-->
+  <std_outdoor_cleanliness>室外清洁度</std_outdoor_cleanliness>
+  <!--EN: Cleanliness stat for sex outdoor
+RoomStatDefOf.Cleanliness = this-->
+  <std_outdoor_cleanliness_desc>室外性行为的清洁度统计
+RoomStatDefOf.Cleanliness = 此值</std_outdoor_cleanliness_desc>
+  <!--EN: STDs from sex-->
+  <std_sex>来自性行为的性病</std_sex>
+  <!--EN: Pawns will catch STDs from sex with infected pawn.-->
+  <std_sex_desc>角色与受感染的角色发生性行为会感染性病。</std_sex_desc>
+  <!--EN: Show STD catch roll-->
+  <std_show_roll_to_catch>显示性病感染判定</std_show_roll_to_catch>
+  <!--EN: Logs the process of handing out STDs after sex for debug purposes (or for anyone who's curious)-->
+  <std_show_roll_to_catch_desc>记录性行为后传播性病的过程，用于调试目的（或给任何好奇的人看）</std_show_roll_to_catch_desc>
+</LanguageData>

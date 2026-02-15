@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_GoodwillChangedReason_StoleGene.label>窃取基因</rjw_genes_GoodwillChangedReason_StoleGene.label>
+  <rjw_genes_GoodwillChangedReason_infected_with_disease.label>使 pawn 感染遗传病</rjw_genes_GoodwillChangedReason_infected_with_disease.label>
+  <rjw_genes_GoodwillChangedReason_spread_genetic_disease.label>传播遗传病</rjw_genes_GoodwillChangedReason_spread_genetic_disease.label>
+
+
+  <!--<rjw_genes_GoodwillChangedReason_spread_genic_disease.label>传播遗传病</rjw_genes_GoodwillChangedReason_spread_genic_disease.label>-->
+
+</LanguageData>

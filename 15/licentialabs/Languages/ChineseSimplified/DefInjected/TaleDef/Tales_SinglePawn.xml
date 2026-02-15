@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VomitedCum.label>呕吐精液</VomitedCum.label>
+  <VomitedCum.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] 呕吐精液</VomitedCum.rulePack.rulesStrings.0>
+  <VomitedCum.rulePack.rulesStrings.1>image->[PAWN_nameFull] 将精液喷到地上 [circumstance_group]</VomitedCum.rulePack.rulesStrings.1>
+  <VomitedCum.rulePack.rulesStrings.2>image->[PAWN_nameFull] 看起来昏昏沉沉，满身精液 [circumstance_group]</VomitedCum.rulePack.rulesStrings.2>
+  <VomitedCum.rulePack.rulesStrings.3>image->[PAWN_nameFull] 翻身并将精液干呕到地板上 [circumstance_group]</VomitedCum.rulePack.rulesStrings.3>
+  <VomitedCum.rulePack.rulesStrings.4>image->[PAWN_nameFull] 跪在 [PAWN_possessive] 膝盖上，在地板上呕吐精液 [circumstance_group]</VomitedCum.rulePack.rulesStrings.4>
+  <VomitedCum.rulePack.rulesStrings.5>circumstance_phrase->看起来很紧张</VomitedCum.rulePack.rulesStrings.5>
+  <VomitedCum.rulePack.rulesStrings.6>circumstance_phrase->精液从 [PAWN_possessive] 鼻子流出</VomitedCum.rulePack.rulesStrings.6>
+  <VomitedCum.rulePack.rulesStrings.7>desc_sentence->[PAWN_pronoun] 似乎完全不知道 [PAWN_objective] 周围有什么。</VomitedCum.rulePack.rulesStrings.7>
+  <VomitedCum.rulePack.rulesStrings.8>desc_sentence->从 [PAWN_possessive] 嘴里喷出精液。</VomitedCum.rulePack.rulesStrings.8>
+  <VomitedCum.rulePack.rulesStrings.9>desc_sentence->[PAWN_pronoun] 几乎失去意识，[PAWN_possessive] 舌头伸出，精液从 [PAWN_possessive] 嘴里滴落。</VomitedCum.rulePack.rulesStrings.9>
+  <VomitedCum.rulePack.rulesStrings.10>desc_sentence->[PAWN_pronoun] 剧烈抽搐。</VomitedCum.rulePack.rulesStrings.10>
+  <VomitedCum.rulePack.rulesStrings.11>desc_sentence->[PAWN_pronoun] 看起来很疲惫。</VomitedCum.rulePack.rulesStrings.11>
+  <VomitedCum.rulePack.rulesStrings.12>desc_sentence->[PAWN_pronoun] 似乎想笑，尽管情况如此。</VomitedCum.rulePack.rulesStrings.12>
+  <VomitedCum.rulePack.rulesStrings.13>desc_sentence->[PAWN_pronoun] 看起来几乎泄了气，好像被剧烈的精液呕吐完全排空了。</VomitedCum.rulePack.rulesStrings.13>
+  <VomitedCum.rulePack.rulesStrings.14>desc_sentence->[PAWN_pronoun] 被艺术渲染的精液光环包围。</VomitedCum.rulePack.rulesStrings.14>
+  <VomitedCum.rulePack.rulesStrings.15>desc_sentence->一只[动物]正在吃背景中的精液。</VomitedCum.rulePack.rulesStrings.15>
+
+
+</LanguageData>

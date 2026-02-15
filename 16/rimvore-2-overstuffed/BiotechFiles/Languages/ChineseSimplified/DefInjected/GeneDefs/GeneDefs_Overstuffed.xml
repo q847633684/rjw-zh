@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: This pawn's body is capable of absorbing prey, both permanently (assimilation) and temporarily (amalgamation).-->
+  <RV2_GoalEnabler_Absorb.description>此角色的身体能够吸收猎物，包括永久性吸收（同化）和临时性吸收（融合）。</RV2_GoalEnabler_Absorb.description>
+  <!--EN: Cellular xenoconvertibility-->
+  <RV2_GoalEnabler_Absorb.label>细胞异种转化</RV2_GoalEnabler_Absorb.label>
+  <!--EN: This pawn has heavily-modified cleavage for cleavage vore.-->
+  <RV2_GoalEnabler_Cleavage.description>此角色拥有经过大幅改造的乳沟，用于乳沟吞食。</RV2_GoalEnabler_Cleavage.description>
+  <!--EN: Cleavage depth-->
+  <RV2_GoalEnabler_Cleavage.label>乳沟深度</RV2_GoalEnabler_Cleavage.label>
+  <!--EN: This pawn's genitals and breasts can produce an enzyme which distills living tissues into chemfuel.-->
+  <RV2_GoalEnabler_ConvertChemfuel.description>此角色的生殖器和乳房能产生一种酶，将活体组织转化为化合燃料。</RV2_GoalEnabler_ConvertChemfuel.description>
+  <!--EN: Olifactory enzymes-->
+  <RV2_GoalEnabler_ConvertChemfuel.label>燃油转化酶</RV2_GoalEnabler_ConvertChemfuel.label>
+  <!--EN: This pawn's ovaries can produce an enzyme which converts living tissues into eggs.-->
+  <RV2_GoalEnabler_ConvertEggs.description>此角色的卵巢能产生一种酶，将活体组织转化为卵子。</RV2_GoalEnabler_ConvertEggs.description>
+  <!--EN: Ovifactory enzymes-->
+  <RV2_GoalEnabler_ConvertEggs.label>卵子转化酶</RV2_GoalEnabler_ConvertEggs.label>
+  <!--EN: This pawn's organ lining can produce an enzyme which converts living tissues into urine.-->
+  <RV2_GoalEnabler_ConvertUrine.description>此角色的器官内壁能产生一种酶，将活体组织转化为尿液。</RV2_GoalEnabler_ConvertUrine.description>
+  <!--EN: Urifactory enzymes-->
+  <RV2_GoalEnabler_ConvertUrine.label>尿液转化酶</RV2_GoalEnabler_ConvertUrine.label>
+  <!--EN: This pawn has a permeable membrane for skin, allowing them to engulf prey, like a slime, for membrane vore.-->
+  <RV2_TypeEnabler_Membrane.description>此角色拥有可渗透的皮肤膜，使其能够像史莱姆一样吞没猎物，用于膜式吞食。</RV2_TypeEnabler_Membrane.description>
+  <!--EN: Dermal porocity-->
+  <RV2_TypeEnabler_Membrane.label>皮肤渗透性</RV2_TypeEnabler_Membrane.label>
+  <!--EN: This pawn has an elastic and untied navel for navel vore.-->
+  <RV2_TypeEnabler_Navel.description>此角色拥有有弹性且未闭合的肚脐，用于肚脐吞食。</RV2_TypeEnabler_Navel.description>
+  <!--EN: Umbilical elasticity-->
+  <RV2_TypeEnabler_Navel.label>脐部弹性</RV2_TypeEnabler_Navel.label>
+  <!--EN: This tail has a petal-like maw at the tip, which is capable of swallowing prey down to the stomach.-->
+  <RV2_TypeEnabler_Tailmaw.description>这条尾巴末端有花瓣状的巨口，能够将猎物吞入胃中。</RV2_TypeEnabler_Tailmaw.description>
+  <!--EN: Tailmaw-->
+  <RV2_TypeEnabler_Tailmaw.label>尾口</RV2_TypeEnabler_Tailmaw.label>
+  <!--EN: This pawn has an elastic udder and teats, for udder vore.-->
+  <RV2_TypeEnabler_Udder.description>此角色拥有有弹性的乳房和乳头，用于乳房吞食。</RV2_TypeEnabler_Udder.description>
+  <!--EN: Uberal elasticity-->
+  <RV2_TypeEnabler_Udder.label>乳房弹性</RV2_TypeEnabler_Udder.label>
+</LanguageData>

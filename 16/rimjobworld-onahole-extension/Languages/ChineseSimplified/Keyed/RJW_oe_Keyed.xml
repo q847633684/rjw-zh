@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: 'RJW肉便器', 原英文: '无' -> 新英文: 'RJW Onahole',更新于2026-02-14-->
+  <!--EN: RJW Onahole-->
+  <RJW_Onahole>RJW - 肉便器</RJW_Onahole>
+  <!--原中文: '肉便器', 原英文: '无' -> 新英文: 'Onahole',更新于2026-02-14-->
+  <!--EN: Onahole-->
+  <RJW_Onahole_Settings>肉便器</RJW_Onahole_Settings>
+  <!--原中文: '免费', 原英文: '无' -> 新英文: 'free',更新于2026-02-14-->
+  <!--EN: free-->
+  <RJW_Onahole_Free>免费</RJW_Onahole_Free>
+  <!--原中文: '自定义贴图偏移量', 原英文: '无' -> 新英文: 'Custom Texture Transforms',更新于2026-02-14-->
+  <!--EN: Custom Texture Transforms-->
+  <RJW_Onahole_CustomTransforms>自定义贴图偏移量</RJW_Onahole_CustomTransforms>
+  <!--原中文: '允许访客使用肉便器，若价格不为0访客将付费使用', 原英文: '无' -> 新英文: 'Allow guests to use the onahole, if price is not 0 guests will pay for it',更新于2026-02-14-->
+  <!--EN: Allow guests to use the onahole, if price is not 0 guests will pay for it-->
+  <RJW_Onahole_ForGuestUse_Desc>允许访客使用肉便器，若价格不为0访客将付费使用</RJW_Onahole_ForGuestUse_Desc>
+  <!--原中文: '允许动物使用，此设置将覆盖小人的设置', 原英文: '无' -> 新英文: 'Allow animals to use the onahole, this setting will override the RJW setting',更新于2026-02-14-->
+  <!--EN: Allow animals to use the onahole, this setting will override the RJW setting-->
+  <RJW_Onahole_ForAnimalUse_Desc>允许动物使用，此设置将覆盖小人的设置</RJW_Onahole_ForAnimalUse_Desc>
+  <!--原中文: '允许虫类使用，此设置将覆盖小人的设置', 原英文: '无' -> 新英文: 'Allow insects to use the onahole, this setting will override the RJW setting',更新于2026-02-14-->
+  <!--EN: Allow insects to use the onahole, this setting will override the RJW setting-->
+  <RJW_Onahole_ForInsectUse_Desc>允许虫类使用，此设置将覆盖小人的设置</RJW_Onahole_ForInsectUse_Desc>
+  <!--原中文: '允许机械体植入。殖民地机械体植入肉便器使其怀孕时，不需要骇入也会生成属于殖民地的机械体', 原英文: '无' -> 新英文: 'Allow mechanoids to use the onahole. If impregnated by colony mechanoid, the baby will be automatically hacked',更新于2026-02-14-->
+  <!--EN: Allow mechanoids to use the onahole. If impregnated by colony mechanoid, the baby will be automatically hacked-->
+  <RJW_Onahole_ForMechanoidUse_Desc>允许机械体植入。殖民地机械体植入肉便器使其怀孕时，不需要骇入也会生成属于殖民地的机械体</RJW_Onahole_ForMechanoidUse_Desc>
+  <!--原中文: '为肉便器贴上阴部电极，刺激高潮。具体效果取决于电流强度\n关：仅外观\n刺激：少量快感\n疼痛：大量快感，但因疼痛无法入睡\n烧伤：少量快感，对器官造成伤害，并会导致流产', 原英文: '无' -> 新英文: 'Stick electrodes on the genital area\nOff: Appearance only\nStimulate: small amount of pleasure\nPain: large amount of pleasure, with intense pain that blocks sleep\nBurn: small amount of pleasure, with direct damage to the genitals that can cause miscarriage',更新于2026-02-14-->
+  <!--EN: Stick electrodes on the genital area\nOff: Appearance only\nStimulate: small amount of pleasure\nPain: large amount of pleasure, with intense pain that blocks sleep\nBurn: small amount of pleasure, with direct damage to the genitals that can cause miscarriage-->
+  <RJW_Onahole_GenitalElectrodes_Desc>为肉便器贴上阴部电极，刺激高潮。具体效果取决于电流强度\n关：仅外观\n刺激：少量快感\n疼痛：大量快感，但因疼痛无法入睡\n烧伤：少量快感，对器官造成伤害，并会导致流产</RJW_Onahole_GenitalElectrodes_Desc>
+  <!--原中文: '为肉便器贴上乳房电极，刺激产奶。增加的产奶量取决于电流强度\n关：仅外观\n刺激：少量增加\n疼痛：中量增加，但因疼痛无法入睡\n烧伤：大量增加，对器官造成伤害', 原英文: '无' -> 新英文: 'Stick electrodes on the breasts, accelerates lactation\nOff: appearance only\nStimulate: small boost\nPain: medium boost, with intense pain that blocks sleep\nBurn: large boost, with direct damage to the breasts',更新于2026-02-14-->
+  <!--EN: Stick electrodes on the breasts, accelerates lactation\nOff: appearance only\nStimulate: small boost\nPain: medium boost, with intense pain that blocks sleep\nBurn: large boost, with direct damage to the breasts-->
+  <RJW_Onahole_BreastElectrodes_Desc>为肉便器贴上乳房电极，刺激产奶。增加的产奶量取决于电流强度\n关：仅外观\n刺激：少量增加\n疼痛：中量增加，但因疼痛无法入睡\n烧伤：大量增加，对器官造成伤害</RJW_Onahole_BreastElectrodes_Desc>
+  <!--原中文: '在阴茎上安装电动飞机杯，刺激射精', 原英文: '无' -> 新英文: 'Mount a sex machine on the penis',更新于2026-02-14-->
+  <!--EN: Mount a sex machine on the penis-->
+  <RJW_Onahole_SexMachine_Desc>在阴茎上安装电动飞机杯，刺激射精</RJW_Onahole_SexMachine_Desc>
+  <!--原中文: '用炮机抽插肉便器的阴道，刺激高潮', 原英文: '无' -> 新英文: 'Mount a vaginal sex machine on the onahole',更新于2026-02-14-->
+  <!--EN: Mount a vaginal sex machine on the onahole-->
+  <RJW_Onahole_VaginalSexMachine_Desc>用炮机抽插肉便器的阴道，刺激高潮</RJW_Onahole_VaginalSexMachine_Desc>
+  <!--原中文: '用炮机抽插肉便器的肛门，刺激高潮', 原英文: '无' -> 新英文: 'Mount an anal sex machine on the onahole',更新于2026-02-14-->
+  <!--EN: Mount an anal sex machine on the onahole-->
+  <RJW_Onahole_AnalSexMachine_Desc>用炮机抽插肉便器的肛门，刺激高潮</RJW_Onahole_AnalSexMachine_Desc>
+  <!--原中文: '使用榨乳器自动挤奶，挤奶速度取决于设置，过高的速度会造成疼痛\n（注：小人必须在哺乳期或有正在产奶才会有产出）', 原英文: '无' -> 新英文: 'Mount a milking machine to milk the onahole, higher speed settings will cause more pain to the breasts',更新于2026-02-14-->
+  <!--EN: Mount a milking machine to milk the onahole, higher speed settings will cause more pain to the breasts-->
+  <RJW_Onahole_MilkingMachine_Desc>使用榨乳器自动挤奶，挤奶速度取决于设置，过高的速度会造成疼痛\n（注：小人必须在哺乳期或有正在产奶才会有产出）</RJW_Onahole_MilkingMachine_Desc>
+  <!--原中文: '体液收集器', 原英文: '无' -> 新英文: 'Cum collector',更新于2026-02-14-->
+  <!--EN: Cum collector-->
+  <RJW_Onahole_CumCollector>体液收集器</RJW_Onahole_CumCollector>
+  <!--原中文: '收集从肉便器身体里流出的体液', 原英文: '无' -> 新英文: 'Collect cum from the onahole',更新于2026-02-14-->
+  <!--EN: Collect cum from the onahole-->
+  <RJW_Onahole_CumCollector_Desc>收集从肉便器身体里流出的体液</RJW_Onahole_CumCollector_Desc>
+  <!--原中文: '用储存的体液喂食肉便器', 原英文: '无' -> 新英文: 'Automatically feeds the onahole using designated food and fluid',更新于2026-02-14-->
+  <!--EN: Automatically feeds the onahole using designated food and fluid-->
+  <RJW_Onahole_AutoFeeder_Desc>用储存的体液喂食肉便器</RJW_Onahole_AutoFeeder_Desc>
+  <!--原中文: '药物注入器', 原英文: '无' -> 新英文: 'Drug infuser',更新于2026-02-14-->
+  <!--EN: Drug infuser-->
+  <RJW_Onahole_DrugInfuser>药物注入器</RJW_Onahole_DrugInfuser>
+  <!--原中文: '自动用存储的药物满足成瘾品需求或给与服用状态', 原英文: '无' -> 新英文: 'Automatically use stored drug to fill onahole's chemical need or maintain the drug effect',更新于2026-02-14-->
+  <!--EN: Automatically use stored drug to fill onahole's chemical need or maintain the drug effect-->
+  <RJW_Onahole_DrugInfuser_Desc>自动用存储的药物满足成瘾品需求或给与服用状态</RJW_Onahole_DrugInfuser_Desc>
+  <!--原中文: '允许自动填充物品', 原英文: '无' -> 新英文: 'Allow auto refill',更新于2026-02-14-->
+  <!--EN: Allow auto refill-->
+  <RJW_Onahole_AllowAutoRefill>允许自动填充物品</RJW_Onahole_AllowAutoRefill>
+  <!--原中文: '设置自动填充目标数量', 原英文: '无' -> 新英文: 'Set refill target level',更新于2026-02-14-->
+  <!--EN: Set refill target level-->
+  <RJW_Onahole_SetTargetLevel>设置自动填充目标数量</RJW_Onahole_SetTargetLevel>
+  <!--原中文: '编辑贴图偏移量', 原英文: '无' -> 新英文: 'Edit transform',更新于2026-02-14-->
+  <!--EN: Edit transform-->
+  <RJW_Onahole_EditTransform>编辑贴图偏移量</RJW_Onahole_EditTransform>
+  <!--原中文: '编辑当前被束缚的小人的种族贴图的偏移量和缩放，在贴图错位时使用', 原英文: '无' -> 新英文: 'Edit the transform of certain textures, used for fixing misaligned textures',更新于2026-02-14-->
+  <!--EN: Edit the transform of certain textures, used for fixing misaligned textures-->
+  <RJW_Onahole_EditTransform_Desc>编辑当前被束缚的小人的种族贴图的偏移量和缩放，在贴图错位时使用</RJW_Onahole_EditTransform_Desc>
+  <!--原中文: '指定殖民者使用', 原英文: '无' -> 新英文: 'Designate colony users',更新于2026-02-14-->
+  <!--EN: Designate colony users-->
+  <RJW_Onahole_DesignateColonyUsers>指定殖民者使用</RJW_Onahole_DesignateColonyUsers>
+  <!--原中文: '指定哪些殖民者可以使用肉便器，未指定时则所有人都可以使用', 原英文: '无' -> 新英文: 'Designate which colony users can use the onahole, if not specified, all users can',更新于2026-02-14-->
+  <!--EN: Designate which colony users can use the onahole, if not specified, all users can-->
+  <RJW_Onahole_DesignateColonyUsers_Desc>指定哪些殖民者可以使用肉便器，未指定时则所有人都可以使用</RJW_Onahole_DesignateColonyUsers_Desc>
+  <!--原中文: '解除束缚', 原英文: '无' -> 新英文: 'Unbind ',更新于2026-02-14-->
+  <!--EN: Unbind-->
+  <RJW_Onahole_Unbind>解除束缚</RJW_Onahole_Unbind>
+  <!--原中文: '束缚', 原英文: '无' -> 新英文: 'Bind ',更新于2026-02-14-->
+  <!--EN: Bind-->
+  <RJW_Onahole_Bind>束缚</RJW_Onahole_Bind>
+  <!--原中文: '肉便器产物收获冷却（Ticks）', 原英文: '无' -> 新英文: 'Onahole building storage haul cool down ticks',更新于2026-02-14-->
+  <!--EN: Onahole building storage haul cool down ticks-->
+  <RJW_Onahole_HaulCoolDownTicks>肉便器产物收获冷却（Ticks）</RJW_Onahole_HaulCoolDownTicks>
+  <!--原中文: '体液收集器最大存储量（mL）', 原英文: '无' -> 新英文: 'Max fluid storage(mL)',更新于2026-02-14-->
+  <!--EN: Max fluid storage(mL)-->
+  <RJW_Onahole_MaxFluidStorage>体液收集器最大存储量（mL）</RJW_Onahole_MaxFluidStorage>
+  <!--原中文: '肉便器吸引力乘数', 原英文: '无' -> 新英文: 'Onahole appraise multiplier',更新于2026-02-14-->
+  <!--EN: Onahole appraise multiplier-->
+  <RJW_Onahole_AppraiseMultiplier>肉便器吸引力乘数</RJW_Onahole_AppraiseMultiplier>
+  <!--原中文: '肉便器吸引力偏移', 原英文: '无' -> 新英文: 'Onahole appraise offset',更新于2026-02-14-->
+  <!--EN: Onahole appraise offset-->
+  <RJW_Onahole_AppraiseOffset>肉便器吸引力偏移</RJW_Onahole_AppraiseOffset>
+  <!--原中文: '吸引力为0时访客愿意支付的价格', 原英文: '无' -> 新英文: 'Onahole price at zero appraise',更新于2026-02-14-->
+  <!--EN: Onahole price at zero appraise-->
+  <RJW_Onahole_PriceAppraiseZero>吸引力为0时访客愿意支付的价格</RJW_Onahole_PriceAppraiseZero>
+  <!--原中文: '吸引力为1时访客愿意支付的价格', 原英文: '无' -> 新英文: 'Onahole price at one appraise',更新于2026-02-14-->
+  <!--EN: Onahole price at one appraise-->
+  <RJW_Onahole_PriceAppraiseOne>吸引力为1时访客愿意支付的价格</RJW_Onahole_PriceAppraiseOne>
+  <!--原中文: '偏移', 原英文: '无' -> 新英文: 'Offset',更新于2026-02-14-->
+  <!--EN: Offset-->
+  <RJW_Onahole_Offset>偏移</RJW_Onahole_Offset>
+  <!--原中文: '缩放', 原英文: '无' -> 新英文: 'Scale',更新于2026-02-14-->
+  <!--EN: Scale-->
+  <RJW_Onahole_Scale>缩放</RJW_Onahole_Scale>
+  <!--原中文: '刺激', 原英文: '无' -> 新英文: 'Stimulate',更新于2026-02-14-->
+  <!--EN: Stimulate-->
+  <RJW_Onahole_Stimulate>刺激</RJW_Onahole_Stimulate>
+  <!--原中文: '液体存储', 原英文: '无' -> 新英文: 'Fluid storage',更新于2026-02-14-->
+  <!--EN: Fluid storage-->
+  <RJW_Onahole_FluidStorage>液体存储</RJW_Onahole_FluidStorage>
+  <!--原中文: '切换束缚外观', 原英文: '无' -> 新英文: 'Change bondage style',更新于2026-02-14-->
+  <!--EN: Change bondage style-->
+  <RJW_Onahole_ChangeBindStyle>切换束缚外观</RJW_Onahole_ChangeBindStyle>
+  <!--原中文: '床存储', 原英文: '无' -> 新英文: 'Storage',更新于2026-02-14-->
+  <!--EN: Storage-->
+  <RJW_Onahole_OnaholeBedStorage>床存储</RJW_Onahole_OnaholeBedStorage>
+  <!--原中文: '束缚时脱光囚犯', 原英文: '无' -> 新英文: 'Strip onahole on bind',更新于2026-02-14-->
+  <!--EN: Strip onahole on bind-->
+  <RJW_Onahole_StripOnBind>束缚时脱光囚犯</RJW_Onahole_StripOnBind>
+  <!--原中文: '使用肉便器降低其抵抗', 原英文: '无' -> 新英文: 'Reduce onahole resistance upon use',更新于2026-02-14-->
+  <!--EN: Reduce onahole resistance upon use-->
+  <RJW_Onahole_UseReduceResistance>使用肉便器降低其抵抗</RJW_Onahole_UseReduceResistance>
+  <!--原中文: '高潮降低意志', 原英文: '无' -> 新英文: 'Orgasm reduce will',更新于2026-02-14-->
+  <!--EN: Orgasm reduce will-->
+  <RJW_Onahole_OrgasmReduceWill>高潮降低意志</RJW_Onahole_OrgasmReduceWill>
+  <!--原中文: '高潮降低认可度', 原英文: '无' -> 新英文: 'Orgasm reduce certainty',更新于2026-02-14-->
+  <!--EN: Orgasm reduce certainty-->
+  <RJW_Onahole_OrgasmReduceCertainty>高潮降低认可度</RJW_Onahole_OrgasmReduceCertainty>
+  <!--原中文: '激活机器会挡住器官', 原英文: '无' -> 新英文: 'Machine blocks body parts for sex',更新于2026-02-14-->
+  <!--EN: Machine blocks body parts for sex-->
+  <RJW_Onahole_MachineBlocksParts>激活机器会挡住器官</RJW_Onahole_MachineBlocksParts>
+  <!--原中文: '显示横截面气泡', 原英文: '无' -> 新英文: 'Show cross sections',更新于2026-02-14-->
+  <!--EN: Show cross sections-->
+  <RJW_Onahole_ShowCrossSections>显示横截面气泡</RJW_Onahole_ShowCrossSections>
+  <!--原中文: '显示装置贴图', 原英文: '无' -> 新英文: 'Show extra graphics',更新于2026-02-14-->
+  <!--EN: Show extra graphics-->
+  <RJW_Onahole_ShowExtraGraphics>显示装置贴图</RJW_Onahole_ShowExtraGraphics>
+  <!--原中文: '显示', 原英文: '无' -> 新英文: 'Show',更新于2026-02-14-->
+  <!--EN: Show-->
+  <RJW_Onahole_Show>显示</RJW_Onahole_Show>
+  <!--原中文: '设置使用许可', 原英文: '无' -> 新英文: 'Allow/Forbid use of onahole',更新于2026-02-14-->
+  <!--EN: Allow/Forbid use of onahole-->
+  <RJW_Onahole_SetRestriction>设置使用许可</RJW_Onahole_SetRestriction>
+  <!--原中文: '喂给肉便器', 原英文: '无' -> 新英文: 'Feed to onahole',更新于2026-02-14-->
+  <!--EN: Feed to onahole-->
+  <RJW_Onahole_Feed>喂给肉便器</RJW_Onahole_Feed>
+  <!--原中文: '物品无营养值，无法喂食', 原英文: '无' -> 新英文: 'No nutrition value, can't feed',更新于2026-02-14-->
+  <!--EN: No nutrition value, can't feed-->
+  <RJW_Onahole_CantFeed>物品无营养值，无法喂食</RJW_Onahole_CantFeed>
+  <!--原中文: '自动转化为物品并存储', 原英文: '无' -> 新英文: 'Convert to item and store',更新于2026-02-14-->
+  <!--EN: Convert to item and store-->
+  <RJW_Onahole_AutoConvert>自动转化为物品并存储</RJW_Onahole_AutoConvert>
+  <!--原中文: '销毁该液体', 原英文: '无' -> 新英文: 'Destroy',更新于2026-02-14-->
+  <!--EN: Destroy-->
+  <RJW_Onahole_Destroy>销毁该液体</RJW_Onahole_Destroy>
+  <!--原中文: '没有可以转化的物品', 原英文: '无' -> 新英文: 'No convertible item',更新于2026-02-14-->
+  <!--EN: No convertible item-->
+  <RJW_Onahole_NoConvertibleItem>没有可以转化的物品</RJW_Onahole_NoConvertibleItem>
+  <!--原中文: '自动捕获周围敌人，将其束缚', 原英文: '无' -> 新英文: 'Automatically capture enemies around and bind them',更新于2026-02-14-->
+  <!--EN: Automatically capture enemies around and bind them-->
+  <RJW_Onahole_AutoCapture_Desc>自动捕获周围敌人，将其束缚</RJW_Onahole_AutoCapture_Desc>
+  <!-- Enums -->
+  <!--原中文: '无所属', 原英文: '无' -> 新英文: 'Factionless',更新于2026-02-14-->
+  <!--EN: Factionless-->
+  <RJW_Onahole_Factionless>无所属</RJW_Onahole_Factionless>
+  <!--原中文: '虫', 原英文: '无' -> 新英文: 'Insect',更新于2026-02-14-->
+  <!--EN: Insect-->
+  <RJW_Onahole_Insect>虫</RJW_Onahole_Insect>
+  <!-- Messages -->
+  <!--原中文: '{0}的{1}在使用了肉便器{2}之后觉得非常满足，决定退出袭击殖民地的队伍并离开地图', 原英文: '无' -> 新英文: '{0}'s {1} used the onahole {2}, is now too exhausted for raiding, and decided to leave',更新于2026-02-14-->
+  <!--EN: {0}'s {1} used the onahole {2}, is now too exhausted for raiding, and decided to leave-->
+  <RJW_Onahole_QuitRaiding>{0}的{1}在使用了肉便器{2}之后觉得非常满足，决定退出袭击殖民地的队伍并离开地图</RJW_Onahole_QuitRaiding>
+  <!-- Defeat -->
+  <!--原中文: '击败', 原英文: '无' -> 新英文: 'Defeat',更新于2026-02-14-->
+  <!--EN: Defeat-->
+  <RJW_Onahole_Defeat>击败</RJW_Onahole_Defeat>
+  <!--原中文: '无击败效果', 原英文: '无' -> 新英文: 'No Defeat Effect',更新于2026-02-14-->
+  <!--EN: No Defeat Effect-->
+  <RJW_Onahole_DontDefeatMode>无击败效果</RJW_Onahole_DontDefeatMode>
+  <!--原中文: '如果不想看到殖民者被击败，可以只安装肉便器房间而不激活此选项', 原英文: '无' -> 新英文: 'If you do not want to see the NTR of the colonists, you can add only the installation of Onahole rooms in the settlement by activating this option.',更新于2026-02-14-->
+  <!--EN: If you do not want to see the NTR of the colonists, you can add only the installation of Onahole rooms in the settlement by activating this option.-->
+  <RJW_Onahole_DontDefeatMode_Desc>如果不想看到殖民者被击败，可以只安装肉便器房间而不激活此选项</RJW_Onahole_DontDefeatMode_Desc>
+  <!--原中文: '携带到床', 原英文: '无' -> 新英文: 'Carry to Bed',更新于2026-02-14-->
+  <!--EN: Carry to Bed-->
+  <RJW_Onahole_CarryToBed>携带到床</RJW_Onahole_CarryToBed>
+  <!--原中文: '如果肉便器不足，敌人会携带殖民者到堡垒的床上', 原英文: '无' -> 新英文: 'If there are not enough Onahole, the enemy carries colonists to the beds in the stronghold.',更新于2026-02-14-->
+  <!--EN: If there are not enough Onahole, the enemy carries colonists to the beds in the stronghold.-->
+  <RJW_Onahole_CarryToBed_Desc>如果肉便器不足，敌人会携带殖民者到堡垒的床上</RJW_Onahole_CarryToBed_Desc>
+  <!--原中文: '只携带到床', 原英文: '无' -> 新英文: 'Only carry to bed',更新于2026-02-14-->
+  <!--EN: Only carry to bed-->
+  <RJW_Onahole_CarryToBedOnly>只携带到床</RJW_Onahole_CarryToBedOnly>
+  <!--原中文: '如果出于某种原因只想携带殖民者到床，可以激活此选项', 原英文: '无' -> 新英文: 'If for some reason you want to transport settlers only to beds, activate this option.',更新于2026-02-14-->
+  <!--EN: If for some reason you want to transport settlers only to beds, activate this option.-->
+  <RJW_Onahole_CarryToBedOnly_Desc>如果出于某种原因只想携带殖民者到床，可以激活此选项</RJW_Onahole_CarryToBedOnly_Desc>
+  <!--原中文: '无限击败', 原英文: '无' -> 新英文: 'Infinity Defeat',更新于2026-02-14-->
+  <!--EN: Infinity Defeat-->
+  <RJW_Onahole_InfinityDefeat>无限击败</RJW_Onahole_InfinityDefeat>
+  <!--原中文: '移除击败效果的时间限制\n（注：直到所有殖民者死亡为止）', 原英文: '无' -> 新英文: 'Remove the time limit for defeat direction.\n\n(Note:It will not stop until all the colonists are dead.)',更新于2026-02-14-->
+  <!--EN: Remove the time limit for defeat direction.\n\n(Note:It will not stop until all the colonists are dead.)-->
+  <RJW_Onahole_InfinityDefeat_Desc>移除击败效果的时间限制\n（注：直到所有殖民者死亡为止）</RJW_Onahole_InfinityDefeat_Desc>
+  <!--原中文: '击败效果时间（Tick）', 原英文: '无' -> 新英文: 'Defeat Effect Time(Tick)',更新于2026-02-14-->
+  <!--EN: Defeat Effect Time(Tick)-->
+  <RJW_Onahole_DefeatTick>击败效果时间（Tick）</RJW_Onahole_DefeatTick>
+  <!--原中文: '设置击败效果的时间限制', 原英文: '无' -> 新英文: 'Sets the time limit for defeat effect.',更新于2026-02-14-->
+  <!--EN: Sets the time limit for defeat effect.-->
+  <RJW_Onahole_DefeatTick_Desc>设置击败效果的时间限制</RJW_Onahole_DefeatTick_Desc>
+  <!-- Brothel Colony -->
+  <!--原中文: '妓院殖民地', 原英文: '无' -> 新英文: 'Brothel Colony',更新于2026-02-14-->
+  <!--EN: Brothel Colony-->
+  <RJW_Onahole_BrothelColony>妓院殖民地</RJW_Onahole_BrothelColony>
+  <!--原中文: '肉便器使用妓院价格', 原英文: '无' -> 新英文: 'Use brothel price for onahole',更新于2026-02-14-->
+  <!--EN: Use brothel price for onahole-->
+  <RJW_Onahole_UseBrothelPrice>肉便器使用妓院价格</RJW_Onahole_UseBrothelPrice>
+  <!--原中文: '覆盖肉便器的床分数', 原英文: '无' -> 新英文: 'Override bed score',更新于2026-02-14-->
+  <!--EN: Override bed score-->
+  <RJW_Onahole_OverrideBedScore>覆盖肉便器的床分数</RJW_Onahole_OverrideBedScore>
+  <!--原中文: '床分数', 原英文: '无' -> 新英文: 'Bed score',更新于2026-02-14-->
+  <!--EN: Bed score-->
+  <RJW_Onahole_BedScore>床分数</RJW_Onahole_BedScore>
+  <!--原中文: '使用关系支付', 原英文: '无' -> 新英文: 'Pay with goodwill',更新于2026-02-14-->
+  <!--EN: Pay with goodwill-->
+  <RJW_Onahole_PayGoodwill>使用关系支付</RJW_Onahole_PayGoodwill>
+  <!--原中文: '最终价格', 原英文: '无' -> 新英文: 'Final price',更新于2026-02-14-->
+  <!--EN: Final price-->
+  <RJW_Onahole_FinalPrice>最终价格</RJW_Onahole_FinalPrice>
+  <!-- DBH -->
+  <!--原中文: '淋浴', 原英文: '无' -> 新英文: 'Shower',更新于2026-02-14-->
+  <!--EN: Shower-->
+  <RJW_Onahole_Shower>淋浴</RJW_Onahole_Shower>
+  <!--原中文: '自动给肉便器洗澡', 原英文: '无' -> 新英文: 'Automatically give the onahole a shower when needed',更新于2026-02-14-->
+  <!--EN: Automatically give the onahole a shower when needed-->
+  <RJW_Onahole_Shower_Desc>自动给肉便器洗澡</RJW_Onahole_Shower_Desc>
+  <!-- Mimic -->
+  <!--原中文: '变形', 原英文: '无' -> 新英文: 'Morph',更新于2026-02-14-->
+  <!--EN: Morph-->
+  <RJW_Onahole_MorphToBuilding>变形</RJW_Onahole_MorphToBuilding>
+  <!--原中文: '变形为诱人的结构。不知情的猎物被吸引来调查时会发现自己被困住并被束缚。', 原英文: '无' -> 新英文: 'Transform into an enticing structure. Unsuspecting prey drawn to investigate will find themselves trapped and bound.',更新于2026-02-14-->
+  <!--EN: Transform into an enticing structure. Unsuspecting prey drawn to investigate will find themselves trapped and bound.-->
+  <RJW_Onahole_MorphToBuilding_Desc>变形为诱人的结构。不知情的猎物被吸引来调查时会发现自己被困住并被束缚。</RJW_Onahole_MorphToBuilding_Desc>
+  <!--原中文: '{0}本能地转变为坚硬的外壳以在攻击中幸存', 原英文: '无' -> 新英文: '{0} instinctively shifted into a hardened shell to survive the assault',更新于2026-02-14-->
+  <!--EN: {0} instinctively shifted into a hardened shell to survive the assault-->
+  <RJW_Onahole_MorphedToBuildingDueToDamage_MSG>{0}本能地转变为坚硬的外壳以在攻击中幸存</RJW_Onahole_MorphedToBuildingDueToDamage_MSG>
+  <!--原中文: '结束变形', 原英文: '无' -> 新英文: 'End Morphing',更新于2026-02-14-->
+  <!--EN: End Morphing-->
+  <RJW_Onahole_ExitBuildingForm>结束变形</RJW_Onahole_ExitBuildingForm>
+  <!--原中文: '恢复移动形态。', 原英文: '无' -> 新英文: 'Revert to mobile form.',更新于2026-02-14-->
+  <!--EN: Revert to mobile form.-->
+  <RJW_Onahole_ExitBuildingForm_Desc>恢复移动形态。</RJW_Onahole_ExitBuildingForm_Desc>
+  <!--原中文: '生物需要养分来修复伤口并脱落保护形态', 原英文: '无' -> 新英文: 'The creature requires sustenance to mend its wounds and shed its protective form',更新于2026-02-14-->
+  <!--EN: The creature requires sustenance to mend its wounds and shed its protective form-->
+  <RJW_Onahole_ExitBuildingFormNeedsBodyFluid>生物需要养分来修复伤口并脱落保护形态</RJW_Onahole_ExitBuildingFormNeedsBodyFluid>
+  <!--原中文: '{0}的保护壳在攻击下破碎，被迫恢复自然状态', 原英文: '无' -> 新英文: '{0}'s protective shell shattered under the assault, forcing a return to its natural state',更新于2026-02-14-->
+  <!--EN: {0}'s protective shell shattered under the assault, forcing a return to its natural state-->
+  <RJW_Onahole_ExitBuildingFormDueToDamage_MSG>{0}的保护壳在攻击下破碎，被迫恢复自然状态</RJW_Onahole_ExitBuildingFormDueToDamage_MSG>
+  <!--原中文: '奇怪的箱子', 原英文: '无' -> 新英文: 'Strange chest',更新于2026-02-14-->
+  <!--EN: Strange chest-->
+  <RJW_Onahole_StrangeChest>奇怪的箱子</RJW_Onahole_StrangeChest>
+  <!--原中文: '一个看起来格格不入的容器。有些不对劲的感觉...也许最好不要碰它？', 原英文: '无' -> 新英文: 'An oddly placed container that seems out of place. Something about it feels... wrong. Perhaps it's best left alone?',更新于2026-02-14-->
+  <!--EN: An oddly placed container that seems out of place. Something about it feels... wrong. Perhaps it's best left alone?-->
+  <RJW_Onahole_StrangeChest_Desc>一个看起来格格不入的容器。有些不对劲的感觉...也许最好不要碰它？</RJW_Onahole_StrangeChest_Desc>
+  <!--原中文: '宝箱怪已驯服', 原英文: '无' -> 新英文: 'Mimic Tamed',更新于2026-02-14-->
+  <!--EN: Mimic Tamed-->
+  <RJW_Onahole_MimicTamed>宝箱怪已驯服</RJW_Onahole_MimicTamed>
+  <!--原中文: '这种神秘生物{0}以体液为生。在长时间休眠后，它苏醒并与给予它期待已久的体液的{1}建立了联系。', 原英文: '无' -> 新英文: 'This mystic creature {0} sustains itself on body fluids. After a prolonged dormancy, it has awakened and formed a bond with {1} who gave it long-awaited body fluids.',更新于2026-02-14-->
+  <!--EN: This mystic creature {0} sustains itself on body fluids. After a prolonged dormancy, it has awakened and formed a bond with {1} who gave it long-awaited body fluids.-->
+  <RJW_Onahole_MimicTamed_Desc>这种神秘生物{0}以体液为生。在长时间休眠后，它苏醒并与给予它期待已久的体液的{1}建立了联系。</RJW_Onahole_MimicTamed_Desc>
+  <!--原中文: '{PAWN_labelShort}正在被溶解', 原英文: '无' -> 新英文: '{PAWN_labelShort} is being dissolved',更新于2026-02-14-->
+  <!--EN: {PAWN_labelShort} is being dissolved-->
+  <RJW_Onahole_CaptiveDissolving>{PAWN_labelShort}正在被溶解</RJW_Onahole_CaptiveDissolving>
+  <!--原中文: '切换形态', 原英文: '无' -> 新英文: 'Toggle Form',更新于2026-02-14-->
+  <!--EN: Toggle Form-->
+  <RJW_Onahole_ToggleWeebForm>切换形态</RJW_Onahole_ToggleWeebForm>
+  <!--原中文: '在不同形态之间切换。', 原英文: '无' -> 新英文: 'Toggle between different forms.',更新于2026-02-14-->
+  <!--EN: Toggle between different forms.-->
+  <RJW_Onahole_ToggleWeebForm_Desc>在不同形态之间切换。</RJW_Onahole_ToggleWeebForm_Desc>
+</LanguageData>

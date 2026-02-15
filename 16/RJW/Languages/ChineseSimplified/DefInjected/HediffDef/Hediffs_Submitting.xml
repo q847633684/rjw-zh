@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '屈服', 原英文: '无' -> 新英文: 'Prostrating self',更新于2026-02-14-->
+  <!--EN: Prostrating self-->
+  <Hediff_Submitting.label>屈服</Hediff_Submitting.label>
+  <!--原中文: '咕……要上就上吧。', 原英文: '无' -> 新英文: 'Submitting.',更新于2026-02-14-->
+  <!--EN: Submitting.-->
+  <Hediff_Submitting.description>咕……要上就上吧。</Hediff_Submitting.description>
+  <!-- prevents 10 job stacks error, also improves performance since we don't do all the rape checks -->
+  <!--原中文: '强奸敌人冷却时间', 原英文: '无' -> 新英文: 'rape enemy cooldown',更新于2026-02-14-->
+  <!--EN: rape enemy cooldown-->
+  <Hediff_RapeEnemyCD.label>强奸敌人冷却时间</Hediff_RapeEnemyCD.label>
+  <!--原中文: '“下一个是谁？”', 原英文: '无' -> 新英文: '"Who's next?"',更新于2026-02-14-->
+  <!--EN: "Who's next?"-->
+  <Hediff_RapeEnemyCD.description>“下一个是谁？”</Hediff_RapeEnemyCD.description>
+</LanguageData>

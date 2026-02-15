@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Teaching from Vanilla Social Interactions Expanded selects a random skill and doesn't checks if a rule pack for selected skill exists -->
+
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef] 和 [RECIPIENT_nameDef] [讨论] [SexTopic]。</VSIE_Teaching_Sex.rulePack.rulesStrings.0>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [谈论] [SexTopic] 与 [RECIPIENT_nameDef]。</VSIE_Teaching_Sex.rulePack.rulesStrings.1>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef] [已评论] [SexTopic] 至 [RECIPIENT_nameDef]。</VSIE_Teaching_Sex.rulePack.rulesStrings.2>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.3>talkedabout(p=4)->谈论</VSIE_Teaching_Sex.rulePack.rulesStrings.3>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.4>talkedabout->分享了一句话</VSIE_Teaching_Sex.rulePack.rulesStrings.4>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.5>talkedabout->谈论</VSIE_Teaching_Sex.rulePack.rulesStrings.5>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.6>talkedabout->闲聊</VSIE_Teaching_Sex.rulePack.rulesStrings.6>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.7>talkedabout->谈论</VSIE_Teaching_Sex.rulePack.rulesStrings.7>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.8>talkedabout->开玩笑</VSIE_Teaching_Sex.rulePack.rulesStrings.8>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.9>talkedabout->打趣</VSIE_Teaching_Sex.rulePack.rulesStrings.9>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.10>commentedabout->说了一些关于</VSIE_Teaching_Sex.rulePack.rulesStrings.10>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.11>commentedabout->说了一句话</VSIE_Teaching_Sex.rulePack.rulesStrings.11>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.12>commentedabout->发表评论</VSIE_Teaching_Sex.rulePack.rulesStrings.12>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.13>commentedabout->评论了</VSIE_Teaching_Sex.rulePack.rulesStrings.13>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.14>commentedabout->讲了一个笑话</VSIE_Teaching_Sex.rulePack.rulesStrings.14>
+
+
+</LanguageData>

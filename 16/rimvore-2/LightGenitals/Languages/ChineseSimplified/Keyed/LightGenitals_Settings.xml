@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Female-->
+  <LightGenitals_Female>女性</LightGenitals_Female>
+  <!--EN: Male-->
+  <LightGenitals_Male>男性</LightGenitals_Male>
+  <!--EN: Can have no genitals-->
+  <LightGenitals_canSpawnWithNoGenitals>可能没有生殖器</LightGenitals_canSpawnWithNoGenitals>
+  <!--EN: When this is enabled, the pawn may have no genitals.\nWhen disabled, the higher chance is forced if no genitals were picked on the initial generation.-->
+  <LightGenitals_canSpawnWithNoGenitals_Tip>启用此选项时，角色可能没有生殖器。\n禁用时，如果在初始生成时未选择生殖器，则强制使用更高几率。</LightGenitals_canSpawnWithNoGenitals_Tip>
+  <!--EN: Breasts chance-->
+  <LightGenitals_chanceToSpawnWithBreasts>乳房生成几率</LightGenitals_chanceToSpawnWithBreasts>
+  <!--EN: Penis chance-->
+  <LightGenitals_chanceToSpawnWithPenis>阴茎生成几率</LightGenitals_chanceToSpawnWithPenis>
+  <!--EN: Vagina chance-->
+  <LightGenitals_chanceToSpawnWithVagina>阴道生成几率</LightGenitals_chanceToSpawnWithVagina>
+  <!--EN: LightGenitals-->
+  <LightGenitals_tabName>轻量生殖器</LightGenitals_tabName>
+</LanguageData>

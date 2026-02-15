@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks determine how frequently a pawn will autonomously try to to make a vore attempt. Pawns may do so as pred or as prey, but, at the time of writing, they will only make vore attempts when they are idle.-->
+  <AutoProposalFrequency.description>这些怪癖决定了pawn意志自主尝试制作一个吃人尝试中。Pawns 可以作为 pred 或猎物来做这件事，但是在撰写本文时，他们只会制作吃人在空闲时尝试。</AutoProposalFrequency.description>
+  <!--EN: Proposal frequency-->
+  <AutoProposalFrequency.label>求婚频率</AutoProposalFrequency.label>
+  <!--EN: [PAWN_label] will propose vore on [PAWN_possessive] own more often than other pawns.-->
+  <ProposalFrequency_High.description>[PAWN_label]将求婚吃人开[PAWN_possessive]拥有的次数比其他 pawns 更频繁。</ProposalFrequency_High.description>
+  <!--EN: Vore eagerness-->
+  <ProposalFrequency_High.label>吃人渴望</ProposalFrequency_High.label>
+  <!--EN: [PAWN_label] will seek vore out on [PAWN_possessive] own much less frequently than others.-->
+  <ProposalFrequency_Low.description>[PAWN_label]将会寻找吃人外出[PAWN_possessive]拥有的频率比别人低得多。</ProposalFrequency_Low.description>
+  <!--EN: Vore disinterest-->
+  <ProposalFrequency_Low.label>吃人不感兴趣</ProposalFrequency_Low.label>
+  <!--EN: [PAWN_label] does not care enough about vore to initiate vore proposals on [PAWN_possessive] own. [PAWN_pronoun] has no qualms about being told to do it, though.-->
+  <ProposalFrequency_None.description>[PAWN_label]没有足够的关心吃人发起吃人提议[PAWN_possessive]拥有。[PAWN_pronoun]不过，我对被告知这么做没有任何疑虑。</ProposalFrequency_None.description>
+  <!--EN: Vore apathy-->
+  <ProposalFrequency_None.label>吃人漠视</ProposalFrequency_None.label>
+  <!--EN: [PAWN_label] proposes vore as frequently as everyone else.-->
+  <ProposalFrequency_Normal.description>[PAWN_label]提议吃人和其他人一样频繁。</ProposalFrequency_Normal.description>
+  <!--EN: Passing vore interest-->
+  <ProposalFrequency_Normal.label>路过吃人兴趣</ProposalFrequency_Normal.label>
+  <!--EN: [PAWN_label] is ever-eager for vore, and will propose it on [PAWN_possessive] own twice as much as other pawns.-->
+  <ProposalFrequency_VeryHigh.description>[PAWN_label]一直渴望吃人,并将求婚[PAWN_possessive]拥有两倍于其他殖民者的钱。</ProposalFrequency_VeryHigh.description>
+  <!--EN: Vore obsession-->
+  <ProposalFrequency_VeryHigh.label>吃人迷恋</ProposalFrequency_VeryHigh.label>
+</LanguageData>

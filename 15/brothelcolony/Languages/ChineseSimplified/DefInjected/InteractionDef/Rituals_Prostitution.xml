@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ### -->
+
+  <CB_MadamSpeech.label>介绍妓女</CB_MadamSpeech.label>
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]。</li>
+    <li>r_logentry->[INITIATOR_nameDef] [赞扬] [演讲主题]。</li>
+    <li>speechtopic->高兴</li>
+    <li>speechtopic->高潮</li>
+    <li>speechtopic->实惠的价格</li>
+    <li>speechtopic->[TalkTopicSex]</li>
+    <li>speechtopic->[TalkTopicSex]</li>
+    <li>speechtopic->情欲</li>
+    <li>speechtopic->熟练妓女</li>
+    <li>speechtopic->色情幻想</li>
+    <li>speechtopic->[talktopicsexfile] 和 [talktopicsexfile] 之间的链接</li>
+    <li>speechtopic->[talktopicsexfile]和[talktopicsexfile]之间的连接</li>
+    <li>speechtopic->[talktopicsexfile]和[talktopicsexfile]之间的关系</li>
+    <li>speechtopic->[talktopicheavyfile] 和 [talktopicsexfile] 之间的链接</li>
+    <li>speechtopic->[talktopicheavyfile] 和 [talktopicsexfile] 之间的连接</li>
+    <li>speechtopic->[talktopicheavyfile]和[talktopicsexfile]之间的关系</li>
+  </CB_MadamSpeech.logRulesInitiator.rulesStrings>
+
+
+</LanguageData>

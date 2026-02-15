@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '生育能力来源', 原英文: '无' -> 新英文: 'fertility',更新于2026-02-14-->
+  <!--EN: fertility-->
+  <RJW_Fertility.label>生育能力来源</RJW_Fertility.label>
+  <!--原中文: '繁殖的必要条件。', 原英文: '无' -> 新英文: 'Necessary for reproduction',更新于2026-02-14-->
+  <!--EN: Necessary for reproduction-->
+  <RJW_Fertility.description>繁殖的必要条件。</RJW_Fertility.description>
+</LanguageData>

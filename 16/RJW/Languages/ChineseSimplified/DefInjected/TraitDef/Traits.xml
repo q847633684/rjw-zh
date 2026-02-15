@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '强奸犯', 原英文: '无' -> 新英文: 'rapist',更新于2026-02-14-->
+  <!--EN: rapist-->
+  <Rapist.degreeDatas.0.label>强奸犯</Rapist.degreeDatas.0.label>
+  <!--原中文: '[PAWN_nameDef]不接受他人的拒绝……', 原英文: '无' -> 新英文: '[PAWN_nameDef] doesn't take "No" as an answer.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] doesn't take "No" as an answer.-->
+  <Rapist.degreeDatas.0.description>[PAWN_nameDef]不接受他人的拒绝……</Rapist.degreeDatas.0.description>
+  <!--原中文: '恋尸癖', 原英文: '无' -> 新英文: 'necrophile',更新于2026-02-14-->
+  <!--EN: necrophile-->
+  <Necrophiliac.degreeDatas.0.label>恋尸癖</Necrophiliac.degreeDatas.0.label>
+  <!--原中文: '死人永远不会拒绝，不是吗？', 原英文: '无' -> 新英文: 'Dead people can't say no, can they?',更新于2026-02-14-->
+  <!--EN: Dead people can't say no, can they?-->
+  <Necrophiliac.degreeDatas.0.description>死人永远不会拒绝，不是吗？</Necrophiliac.degreeDatas.0.description>
+  <!--原中文: '恋兽癖', 原英文: '无' -> 新英文: 'zoophile',更新于2026-02-14-->
+  <!--EN: zoophile-->
+  <Zoophile.degreeDatas.0.label>恋兽癖</Zoophile.degreeDatas.0.label>
+  <!--原中文: '[PAWN_nameDef]喜欢走在狂野的那一边。', 原英文: '无' -> 新英文: '[PAWN_nameDef] likes to walk on the wild side.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] likes to walk on the wild side.-->
+  <Zoophile.degreeDatas.0.description>[PAWN_nameDef]喜欢走在狂野的那一边。</Zoophile.degreeDatas.0.description>
+</LanguageData>

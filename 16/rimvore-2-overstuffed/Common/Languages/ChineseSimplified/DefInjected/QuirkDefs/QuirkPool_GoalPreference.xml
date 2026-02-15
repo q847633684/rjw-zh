@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks determine how much a pawn likes amalgamating prey (non-fatal absorption). At the extremes, the pawn will either never or always try to amalgamate prey. These quirks do require the ability to absorb prey in the first place, however.-->
+  <GoalPreference_Predator_Amalgamate.description>这些怪癖决定了多少钱一个pawn喜欢吞噬猎物 (非致命吸收)。在极端情况下,pawn将永远不会或总是尝试合并猎物。然而，这些怪癖确实首先需要吸收猎物的能力。</GoalPreference_Predator_Amalgamate.description>
+  <!--EN: Predatory goal preference\n(amalgamation)-->
+  <GoalPreference_Predator_Amalgamate.label>掠夺性目标偏好
+(合并)</GoalPreference_Predator_Amalgamate.label>
+  <!--EN: [PAWN_label] dislikes amalgamating prey. The drain (on hunger and focus) isn't worth the gain.-->
+  <GoalPreference_Predator_Amalgamate_Dislikes.description>[PAWN_label]厌恶合并的猎物。消耗 (饥饿和专注) 是不值得的。</GoalPreference_Predator_Amalgamate_Dislikes.description>
+  <!--EN: Reclusive soul-->
+  <GoalPreference_Predator_Amalgamate_Dislikes.label>孤僻之魂</GoalPreference_Predator_Amalgamate_Dislikes.label>
+  <!--EN: As a melangist(e), [PAWN_label] enjoys having people around as sapient fat.-->
+  <GoalPreference_Predator_Amalgamate_Likes.description>作为一个melangist(e),[PAWN_label]喜欢有肥胖的人在身边。</GoalPreference_Predator_Amalgamate_Likes.description>
+  <!--EN: Melangist-->
+  <GoalPreference_Predator_Amalgamate_Likes.label>机械之徒</GoalPreference_Predator_Amalgamate_Likes.label>
+  <!--EN: [PAWN_label] doesn't really care one way or the other about amalgamating prey. That may or may not be due to [PAWN_label] not being capable of amalgamation in the first place.-->
+  <GoalPreference_Predator_Amalgamate_Neutral.description>[PAWN_label]不在乎如何合并猎物。可能或可能不是由于[PAWN_label]一开始就不能合并。</GoalPreference_Predator_Amalgamate_Neutral.description>
+  <!--EN: Amalgamation ambivalence-->
+  <GoalPreference_Predator_Amalgamate_Neutral.label>合并矛盾情绪</GoalPreference_Predator_Amalgamate_Neutral.label>
+  <!--EN: As an obsessive melangist(e), [PAWN_label] wants to walk around with as many people amalgamated onto [PAWN_objective] as [PAWN_pronoun] can fit, and will waste little time with other goals.-->
+  <GoalPreference_Predator_Amalgamate_Obsessed.description>作为一个过度狂melangist(e),[PAWN_label]想要和尽可能多的人一起四处走动[PAWN_objective]机械体[PAWN_pronoun]能够达成目标，并且在实现其他目标时只会浪费少量的时间。</GoalPreference_Predator_Amalgamate_Obsessed.description>
+  <!--EN: Melangist hoarder-->
+  <GoalPreference_Predator_Amalgamate_Obsessed.label>梅兰吉派收集者</GoalPreference_Predator_Amalgamate_Obsessed.label>
+  <!--EN: [PAWN_label] hates amalgamating prey and will never willingly do it. That's a degree of intimacy too close, a loss of privacy too great.-->
+  <GoalPreference_Predator_Amalgamate_Refuses.description>[PAWN_label]讨厌合并猎物，绝不会心甘情愿地这么做。一个等级亲密太近，隐私损失太大。</GoalPreference_Predator_Amalgamate_Refuses.description>
+  <!--EN: Solitary soul-->
+  <GoalPreference_Predator_Amalgamate_Refuses.label>独行</GoalPreference_Predator_Amalgamate_Refuses.label>
+  <!--EN: These quirks determine how much a pawn likes assimilating prey (fatal absorption). At the extremes, the pawn will either never or always try to assimilate prey. These quirks do require the ability to absorb prey in the first place, however.-->
+  <GoalPreference_Predator_Assimilate.description>这些怪癖决定了多少钱一个pawn喜欢同化猎物 (致命吸收)。在极端情况下,pawn将永远不会或总是尝试同化猎物。然而，这些怪癖确实首先需要吸收猎物的能力。</GoalPreference_Predator_Assimilate.description>
+  <!--EN: Predatory goal preference\n(assimilation)-->
+  <GoalPreference_Predator_Assimilate.label>掠夺性目标偏好
+(同化)</GoalPreference_Predator_Assimilate.label>
+  <!--EN: [PAWN_label] doesn't like permanently assimilating prey. Something less permanent or non-absorptive might be preferable.-->
+  <GoalPreference_Predator_Assimilate_Dislikes.description>[PAWN_label]不喜欢永久同化猎物。不如永久性或非吸收性好。</GoalPreference_Predator_Assimilate_Dislikes.description>
+  <!--EN: Assimilation aversion-->
+  <GoalPreference_Predator_Assimilate_Dislikes.label>厌恶同化</GoalPreference_Predator_Assimilate_Dislikes.label>
+  <!--EN: As an assimilator, [PAWN_label] likes absorbing [PAWN_possessive] prey permanently. Getting targeted size-gains is one advantage over digestion.-->
+  <GoalPreference_Predator_Assimilate_Likes.description>作为一个同化者,[PAWN_label]喜欢吸收[PAWN_possessive]永久捕食。获得目标尺寸增益是比消化更好的优势。</GoalPreference_Predator_Assimilate_Likes.description>
+  <!--EN: Assimilator-->
+  <GoalPreference_Predator_Assimilate_Likes.label>同化者</GoalPreference_Predator_Assimilate_Likes.label>
+  <!--EN: [PAWN_label] doesn't really care one way or the other about assimilating prey. That may or may not be due to [PAWN_label] not being capable of assimilation in the first place.-->
+  <GoalPreference_Predator_Assimilate_Neutral.description>[PAWN_label]不在乎如何同化猎物。可能或可能不是由于[PAWN_label]一开始就没有同化的能力。</GoalPreference_Predator_Assimilate_Neutral.description>
+  <!--EN: Assimilation ambivalence-->
+  <GoalPreference_Predator_Assimilate_Neutral.label>同化矛盾心</GoalPreference_Predator_Assimilate_Neutral.label>
+  <!--EN: As an obsessive assimilator, [PAWN_label] wants to permanently absorb as many prey as possible and make [PAWN_possessive] assets huge.-->
+  <GoalPreference_Predator_Assimilate_Obsessed.description>作为一个痴迷的同化者,[PAWN_label]想要永久吸收尽可能多的猎物并制造[PAWN_possessive]巨大的资产。</GoalPreference_Predator_Assimilate_Obsessed.description>
+  <!--EN: Driven assimilator-->
+  <GoalPreference_Predator_Assimilate_Obsessed.label>驱动同化者</GoalPreference_Predator_Assimilate_Obsessed.label>
+  <!--EN: [PAWN_label] hates permanently assimilating prey and will never willingly do it. It's a perversion of the powers of absorption.-->
+  <GoalPreference_Predator_Assimilate_Refuses.description>[PAWN_label]讨厌永久同化猎物，永远不会心甘情愿地这样做。这是对吸收能力的扭曲。</GoalPreference_Predator_Assimilate_Refuses.description>
+  <!--EN: Assimilation revulsion-->
+  <GoalPreference_Predator_Assimilate_Refuses.label>反感同化</GoalPreference_Predator_Assimilate_Refuses.label>
+  <!--EN: These quirks determine how much a pawn wants to be amalgamated (non-fatally absorbed) into a predator. At the extremes, the pawn will either never or always try to be amalgamated. Be careful increasing the commonality of an amalgamation preference: willing pawns can easily be lost indefinitely among however many predators you have who are capable of absorption.-->
+  <GoalPreference_Prey_Amalgamate.description>这些怪癖决定了多少钱一个pawn想要融入 (非致命的吸收) 成为捕食者。在极端情况下,pawn将永远不尝试或总是尝试合并。提高合并偏好的共同性要小心: 不管你有多少能够吸收的捕食者，心甘情愿的殖民者很容易无限期地消失。</GoalPreference_Prey_Amalgamate.description>
+  <!--EN: Preyish goal preference\n(amalgamation)-->
+  <GoalPreference_Prey_Amalgamate.label>猎物目标偏好
+(合并)</GoalPreference_Prey_Amalgamate.label>
+  <!--EN: [PAWN_label] dislikes being amalgamated. Either consciousness should cease before [PAWN_pronoun] enhances someone's assets, or [PAWN_pronoun] should be let go safe and sound.-->
+  <GoalPreference_Prey_Amalgamate_Dislikes.description>[PAWN_label]厌恶被合并。任一种意识应该在[PAWN_pronoun]提升某人的资产，或[PAWN_pronoun]应该平安释放。</GoalPreference_Prey_Amalgamate_Dislikes.description>
+  <!--EN: Amalgam aversion-->
+  <GoalPreference_Prey_Amalgamate_Dislikes.label>汞中毒厌恶</GoalPreference_Prey_Amalgamate_Dislikes.label>
+  <!--EN: As a tapissier(e), [PAWN_label] just likes to spend a while as padding on some predator. Not necessarily forever, mind.-->
+  <GoalPreference_Prey_Amalgamate_Likes.description>作为一个tapissier(e),[PAWN_label]我只是喜欢待在一些捕食者身上。不一定永远,注意了。</GoalPreference_Prey_Amalgamate_Likes.description>
+  <!--EN: Tapissier-->
+  <GoalPreference_Prey_Amalgamate_Likes.label>尖刺的</GoalPreference_Prey_Amalgamate_Likes.label>
+  <!--EN: [PAWN_label] doesn't really care one way or the other about being amalgamated.-->
+  <GoalPreference_Prey_Amalgamate_Neutral.description>[PAWN_label]不在乎合并的方式。</GoalPreference_Prey_Amalgamate_Neutral.description>
+  <!--EN: Amalgam ambivalence-->
+  <GoalPreference_Prey_Amalgamate_Neutral.label>混杂矛盾</GoalPreference_Prey_Amalgamate_Neutral.label>
+  <!--EN: As an obsessive tapissier(e) [PAWN_label] really wants to spend the rest of eternity absorbed, still-sapient, into some predator's body.-->
+  <GoalPreference_Prey_Amalgamate_Obsessed.description>作为一个过度狂tapissier(e)[PAWN_label]好想拥有剩余的永恒尚未吸收的它被捕食者的身体吸收了。</GoalPreference_Prey_Amalgamate_Obsessed.description>
+  <!--EN: Pad-wish-->
+  <GoalPreference_Prey_Amalgamate_Obsessed.label>希望</GoalPreference_Prey_Amalgamate_Obsessed.label>
+  <!--EN: [PAWN_label] hates being amalgamated. If you have to absorb [PAWN_objective], just take it all the way. Being a pred's *temporary* size-enhancer is a violation [PAWN_pronoun] would rather not live with.-->
+  <GoalPreference_Prey_Amalgamate_Refuses.description>[PAWN_label]讨厌被合并。如果必须吸收[PAWN_objective],就这么一路带走吧。成为一名 pred 的 * 临时 * 尺寸增强装置是一种违规[PAWN_pronoun]不想和你一起生活。</GoalPreference_Prey_Amalgamate_Refuses.description>
+  <!--EN: Amalgam revulsion-->
+  <GoalPreference_Prey_Amalgamate_Refuses.label>合并后厌恶</GoalPreference_Prey_Amalgamate_Refuses.label>
+  <!--EN: These quirks determine how much a pawn wants to be assimilated (fatally absorbed) into a predator. At the extremes, the pawn will either never or always try to be assimilated. Be careful increasing the commonality of an assimilation preference: willing pawns can easily be killed by predators with little notice.-->
+  <GoalPreference_Prey_Assimilate.description>这些怪癖决定了多少钱一个pawn希望被同化 (致命地被吸收) 为捕食者。在极端情况下,pawn将永远不会或总是尝试被同化。提高同化偏好的共性要小心: 意志坚定的殖民者很容易被捕食者所杀死，而很少有人注意到这一点。</GoalPreference_Prey_Assimilate.description>
+  <!--EN: Preyish goal preference (assimilation)-->
+  <GoalPreference_Prey_Assimilate.label>Preyish 目标偏好 (同化)</GoalPreference_Prey_Assimilate.label>
+  <!--EN: [PAWN_label] is put off by the idea of being made a permanent part of someone. There's at least a transience to mere digestion.-->
+  <GoalPreference_Prey_Assimilate_Dislikes.description>[PAWN_label]因为要让自己永远成为某人的一部分而被推迟。至少可以暂时消化。</GoalPreference_Prey_Assimilate_Dislikes.description>
+  <!--EN: Assimilant aversion-->
+  <GoalPreference_Prey_Assimilate_Dislikes.label>厌恶同化物</GoalPreference_Prey_Assimilate_Dislikes.label>
+  <!--EN: As an osmoseu(r/se), [PAWN_label] ideates an end in which [PAWN_pronoun] directly and visibly contributes to a predator's physical gains, by way of permanent absorption.-->
+  <GoalPreference_Prey_Assimilate_Likes.description>作为一个osmoseu(r/se),[PAWN_label]构想一个结局[PAWN_pronoun]直接而明显地有助于捕食者的身体收益的永久吸收的方式。</GoalPreference_Prey_Assimilate_Likes.description>
+  <!--EN: Osmoseur-->
+  <GoalPreference_Prey_Assimilate_Likes.label>刺猬</GoalPreference_Prey_Assimilate_Likes.label>
+  <!--EN: [PAWN_label] doesn't really care one way or the other about being assimilated.-->
+  <GoalPreference_Prey_Assimilate_Neutral.description>[PAWN_label]不在乎被同化。</GoalPreference_Prey_Assimilate_Neutral.description>
+  <!--EN: Assimilant ambivalence-->
+  <GoalPreference_Prey_Assimilate_Neutral.label>同化者矛盾心理</GoalPreference_Prey_Assimilate_Neutral.label>
+  <!--EN: As an obsessive osmoseu(r/se), [PAWN_label] has made up [PAWN_possessive] mind. $PNom wants to make a predator even more beautiful, and only a permanent absorption is intimate enough to suffice.-->
+  <GoalPreference_Prey_Assimilate_Obsessed.description>作为一个过度狂osmoseu(r/se),[PAWN_label]已化妆[PAWN_possessive]意志。$ PNom 想要让一个捕食者变得更加美丽，并且只有永久的吸收是亲密的足够了。</GoalPreference_Prey_Assimilate_Obsessed.description>
+  <!--EN: Meld-wish-->
+  <GoalPreference_Prey_Assimilate_Obsessed.label>融合-希望</GoalPreference_Prey_Assimilate_Obsessed.label>
+  <!--EN: [PAWN_label] is terrified of being made a permanent part of someone, to be subject to all the degrading, animalistic things a pred might do with [PAWN_objective] after turning [PAWN_objective] into some body part or other.-->
+  <GoalPreference_Prey_Assimilate_Refuses.description>[PAWN_label]害怕被人作为永久存在的一部分，遭受所有有辱人格的，泛灵的事情，一个 pred 可能会做[PAWN_objective]转向后[PAWN_objective]植入身体的某个部位或其他部位。</GoalPreference_Prey_Assimilate_Refuses.description>
+  <!--EN: Assimilant revulsion-->
+  <GoalPreference_Prey_Assimilate_Refuses.label>反感</GoalPreference_Prey_Assimilate_Refuses.label>
+</LanguageData>

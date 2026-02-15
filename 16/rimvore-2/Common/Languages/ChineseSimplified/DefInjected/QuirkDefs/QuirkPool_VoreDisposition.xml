@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks determine the degree to which the pawn prefers to be a feeder for another pred. At the extremes, the pawn will always either refuse to or always be a feeder.-->
+  <FeederDisposition.description>这些怪癖决定了pawn更喜欢成为另一只 pred 的汲血者。在极端情况下,pawn将永远拒绝或永远是一个饲养员。</FeederDisposition.description>
+  <!--EN: Feeder disposition-->
+  <FeederDisposition.label>饲养员性情</FeederDisposition.label>
+  <!--EN: [PAWN_label] dislikes hand-feeding predators and would rather the predator just got their food themself.-->
+  <FeederDisposition_Dislikes.description>[PAWN_label]厌恶以手为食的捕食者，宁愿捕食者只获取自身的食物。</FeederDisposition_Dislikes.description>
+  <!--EN: Feeder aversion-->
+  <FeederDisposition_Dislikes.label>饲养员厌恶</FeederDisposition_Dislikes.label>
+  <!--EN: [PAWN_label] likes to help preds out with their hunting by fetching the prey for them.-->
+  <FeederDisposition_Likes.description>[PAWN_label]喜欢为 preds 获取猎物来帮助他们狩猎。</FeederDisposition_Likes.description>
+  <!--EN: Feeder-->
+  <FeederDisposition_Likes.label>饲养员</FeederDisposition_Likes.label>
+  <!--EN: [PAWN_label] doesn't really care one way or the other about hand-feeding predators.-->
+  <FeederDisposition_Neutral.description>[PAWN_label]不在乎用手喂食的捕食者。</FeederDisposition_Neutral.description>
+  <!--EN: Feeder ambivalence-->
+  <FeederDisposition_Neutral.label>汲血者矛盾心</FeederDisposition_Neutral.label>
+  <!--EN: [PAWN_label] finds little in this world more rewarding than handling all the busywork for a predator, up to and including hand-feeding said pred some prey.-->
+  <FeederDisposition_Obsessed.description>[PAWN_label]这个世界上没有什么比为捕食者处理所有的繁忙工作更有回报的了，这些工作包括用手喂养猎物。</FeederDisposition_Obsessed.description>
+  <!--EN: Frenzied feeder-->
+  <FeederDisposition_Obsessed.label>发狂的饲养员</FeederDisposition_Obsessed.label>
+  <!--EN: These quirks determine the receptiveness of a pawn to be the predator in proposed feeding vore.-->
+  <FeederDisposition_Predator.description>这些怪癖决定了pawn成为汲血的捕食者吃人</FeederDisposition_Predator.description>
+  <!--EN: Feeder disposition (Receiver)-->
+  <FeederDisposition_Predator.label>饲养员处置 (接收者)</FeederDisposition_Predator.label>
+  <!--EN: [PAWN_label] prefers to ask [PAWN_possessive] own prey for vore.-->
+  <FeederDisposition_Predator_Dislikes.description>[PAWN_label]更喜欢问[PAWN_possessive]自己的猎物吃人</FeederDisposition_Predator_Dislikes.description>
+  <!--EN: Unreceptive-->
+  <FeederDisposition_Predator_Dislikes.label>无法接受</FeederDisposition_Predator_Dislikes.label>
+  <!--EN: [PAWN_label] likes the idea of having prey fed to them with no extra effort involved.-->
+  <FeederDisposition_Predator_Likes.description>[PAWN_label]喜欢在不需要额外努力的情况下用猎物喂养它们。</FeederDisposition_Predator_Likes.description>
+  <!--EN: Receptive-->
+  <FeederDisposition_Predator_Likes.label>接受</FeederDisposition_Predator_Likes.label>
+  <!--EN: [PAWN_label] doesn't really care if they have to track down their own prey or be fed.-->
+  <FeederDisposition_Predator_Neutral.description>[PAWN_label]不在乎它们是要追踪自己的猎物还是要被喂食。</FeederDisposition_Predator_Neutral.description>
+  <!--EN: Ambivalence-->
+  <FeederDisposition_Predator_Neutral.label>矛盾心理</FeederDisposition_Predator_Neutral.label>
+  <!--EN: [PAWN_label] loves gobbling up prey, but hates the effort involved in chasing them down. Having someone else do it for [PAWN_objective] sounds delightful.-->
+  <FeederDisposition_Predator_Obsessed.description>[PAWN_label]喜欢吞噬猎物，但讨厌追捕猎物时的努力。让别人为[PAWN_objective]听起来很讨人喜欢。</FeederDisposition_Predator_Obsessed.description>
+  <!--EN: Spoonfed-->
+  <FeederDisposition_Predator_Obsessed.label>捣蛋</FeederDisposition_Predator_Obsessed.label>
+  <!--EN: [PAWN_label] is fully grown and self-reliant. Feeding prey to [PAWN_objective] is insulting when [PAWN_pronoun] can just get the prey [PAWN_objective]self.-->
+  <FeederDisposition_Predator_Refuses.description>[PAWN_label]完全长大，自力更生。喂养猎物[PAWN_objective]侮辱他人[PAWN_pronoun]可以只得到猎物[PAWN_objective]自己。</FeederDisposition_Predator_Refuses.description>
+  <!--EN: Picky Eater-->
+  <FeederDisposition_Predator_Refuses.label>暴食的</FeederDisposition_Predator_Refuses.label>
+  <!--EN: These quirks determine the receptiveness of a pawn to be the prey in proposed feeding vore.-->
+  <FeederDisposition_Prey.description>这些怪癖决定了pawn成为哺育动物的猎物吃人</FeederDisposition_Prey.description>
+  <!--EN: Feeder disposition (Fodder)-->
+  <FeederDisposition_Prey.label>饲养员处置 (饲料)</FeederDisposition_Prey.label>
+  <!--EN: [PAWN_label] doesn't want to be a bother, so they'd rather not have someone spend their time introducing them to a pred.-->
+  <FeederDisposition_Prey_Dislikes.description>[PAWN_label]不想成为一个麻烦，所以他们宁愿没有人花时间给他们介绍 pred。</FeederDisposition_Prey_Dislikes.description>
+  <!--EN: Fodder aversion-->
+  <FeederDisposition_Prey_Dislikes.label>厌恶饲料</FeederDisposition_Prey_Dislikes.label>
+  <!--EN: [PAWN_label] likes blind dates with [PAWN_possessive] predator.-->
+  <FeederDisposition_Prey_Likes.description>[PAWN_label]喜欢失明约会对象[PAWN_possessive]捕食者。</FeederDisposition_Prey_Likes.description>
+  <!--EN: Snack-->
+  <FeederDisposition_Prey_Likes.label>小食</FeederDisposition_Prey_Likes.label>
+  <!--EN: [PAWN_label] doesn't really care if [PAWN_pronoun] is being fed to someone.-->
+  <FeederDisposition_Prey_Neutral.description>[PAWN_label]不在乎[PAWN_pronoun]正在给某人喂食。</FeederDisposition_Prey_Neutral.description>
+  <!--EN: Feeder ambivalence-->
+  <FeederDisposition_Prey_Neutral.label>汲血者矛盾心</FeederDisposition_Prey_Neutral.label>
+  <!--EN: [PAWN_label] is extremely intro(vore)ted and needs someone else to hook [PAWN_objective] up to a predator.-->
+  <FeederDisposition_Prey_Obsessed.description>[PAWN_label]极度出色intro(吃人)泰德和其他人勾搭[PAWN_objective]由捕食者决定。</FeederDisposition_Prey_Obsessed.description>
+  <!--EN: Intro(vore)ted-->
+  <FeederDisposition_Prey_Obsessed.label>Intro(吃人)泰德</FeederDisposition_Prey_Obsessed.label>
+  <!--EN: [PAWN_label] hates the idea of being fed to someone else. [PAWN_pronoun] wants to pick [PAWN_possessive] own holes to jump into.-->
+  <FeederDisposition_Prey_Refuses.description>[PAWN_label]讨厌被人喂养的想法。[PAWN_pronoun]想要拾取[PAWN_possessive]自己要跳进去的洞。</FeederDisposition_Prey_Refuses.description>
+  <!--EN: Fodder refusal-->
+  <FeederDisposition_Prey_Refuses.label>拒绝喂养</FeederDisposition_Prey_Refuses.label>
+  <!--EN: [PAWN_label] hates hand-feeding predators and will not willingly do it. That's just an elaborate way to get eaten last.-->
+  <FeederDisposition_Refuses.description>[PAWN_label]憎恨用手喂食的捕食者，不会心甘情愿地这样做。这只是最后被吃掉的一种精心设计的方式。</FeederDisposition_Refuses.description>
+  <!--EN: Feeder refusal-->
+  <FeederDisposition_Refuses.label>饲养员拒绝</FeederDisposition_Refuses.label>
+  <!--EN: These quirks determine the degreee to which the pawn prefers to be a predator. At the extremes, the pawn will always either refuse to or always be a predator.-->
+  <PredatorDisposition.description>这些怪癖决定了pawn宁愿成为捕食者。在极端情况下,pawn将永远拒绝或成为捕食者。</PredatorDisposition.description>
+  <!--EN: Predator disposition-->
+  <PredatorDisposition.label>捕食者部署</PredatorDisposition.label>
+  <!--EN: [PAWN_label] is not much of a predator and doesn't want to devour anyone. It'd have to be for convenience, survival, or really scratching an uncommon itch.-->
+  <PredatorDisposition_Dislikes.description>[PAWN_label]不太像捕食者，不想吞噬任何人。它必须是为了方便，生存，或真正触及不寻常的瘙痒。</PredatorDisposition_Dislikes.description>
+  <!--EN: Predatory aversion-->
+  <PredatorDisposition_Dislikes.label>厌恶掠夺</PredatorDisposition_Dislikes.label>
+  <!--EN: [PAWN_label] is a predator, always scanning the scene for prey to devour.-->
+  <PredatorDisposition_Likes.description>[PAWN_label]是捕食者，总是在扫描镜头里寻找吞噬的猎物。</PredatorDisposition_Likes.description>
+  <!--EN: Predator-->
+  <PredatorDisposition_Likes.label>捕食者</PredatorDisposition_Likes.label>
+  <!--EN: [PAWN_label] doesn't really care one way or the other about being a predator.-->
+  <PredatorDisposition_Neutral.description>[PAWN_label]不在乎成为什么样的捕食者。</PredatorDisposition_Neutral.description>
+  <!--EN: Predatory ambivalence-->
+  <PredatorDisposition_Neutral.label>捕食性矛盾</PredatorDisposition_Neutral.label>
+  <!--EN: [PAWN_label] imagines [PAWN_objective]self as an apex predator, sitting proud at the top of the food chain. [PAWN_pronoun] lives to prey on those around [PAWN_objective].-->
+  <PredatorDisposition_Obsessed.description>[PAWN_label]想像[PAWN_objective]作为一种顶尖的肉食动物，独自坐在食物的顶端锁链[PAWN_pronoun]捕食周围的人[PAWN_objective]</PredatorDisposition_Obsessed.description>
+  <!--EN: Ravenous predator-->
+  <PredatorDisposition_Obsessed.label>贪婪的捕食者</PredatorDisposition_Obsessed.label>
+  <!--EN: [PAWN_label] is not a predator and will never willingly devour anyone.-->
+  <PredatorDisposition_Refuses.description>[PAWN_label]不是捕食者，也不会心甘情愿地吞噬任何人。</PredatorDisposition_Refuses.description>
+  <!--EN: Predatory refusal-->
+  <PredatorDisposition_Refuses.label>掠夺性拒绝</PredatorDisposition_Refuses.label>
+  <!--EN: These quirks determine the degreee to which the pawn prefers to be a prey. At the extremes, the pawn will always either refuse to or always be prey.-->
+  <PreyDisposition.description>这些怪癖决定了pawn宁愿成为猎物。在极端情况下,pawn将永远拒绝或成为猎物。</PreyDisposition.description>
+  <!--EN: Prey disposition-->
+  <PreyDisposition.label>猎物的性情</PreyDisposition.label>
+  <!--EN: [PAWN_label] isn't that interested in getting devoured. It'd have to be for convenience, survival, or really scratching an uncommon itch.-->
+  <PreyDisposition_Dislikes.description>[PAWN_label]对被吞噬不感兴趣。它必须是为了方便，生存，或真正触及不寻常的瘙痒。</PreyDisposition_Dislikes.description>
+  <!--EN: Preyish aversion-->
+  <PreyDisposition_Dislikes.label>捕食厌恶</PreyDisposition_Dislikes.label>
+  <!--EN: [PAWN_label] is turned on by the prospect of being devoured alive, constantly scanning for some pred or other to scoop [PAWN_objective] up.-->
+  <PreyDisposition_Likes.description>[PAWN_label]被活活吞噬的前景所开启，不断扫描一些 pred 或其他东西以收获[PAWN_objective]起来。</PreyDisposition_Likes.description>
+  <!--EN: Prey-->
+  <PreyDisposition_Likes.label>猎物</PreyDisposition_Likes.label>
+  <!--EN: [PAWN_label] doesn't really care one way or the other about being prey.-->
+  <PreyDisposition_Neutral.description>[PAWN_label]不在乎成为什么样的猎物。</PreyDisposition_Neutral.description>
+  <!--EN: Preyish ambivalence-->
+  <PreyDisposition_Neutral.label>常见的矛盾心理</PreyDisposition_Neutral.label>
+  <!--EN: [PAWN_label] is more comfortable inside of someone’s body than outside. [PAWN_pronoun] would spend [PAWN_possessive] whole life there if [PAWN_pronoun] could.-->
+  <PreyDisposition_Obsessed.description>[PAWN_label]在某人的身体里比在外面更舒服。[PAWN_pronoun]将会花费[PAWN_possessive]在那里度过一生，如果[PAWN_pronoun]可以。</PreyDisposition_Obsessed.description>
+  <!--EN: Preyslut-->
+  <PreyDisposition_Obsessed.label>怀孕的孩子</PreyDisposition_Obsessed.label>
+  <!--EN: [PAWN_label] has no absolutely desire to get devoured at all. [PAWN_pronoun] insists that [PAWN_pronoun] is not food.-->
+  <PreyDisposition_Refuses.description>[PAWN_label]没有绝对欲望完全吞噬。[PAWN_pronoun]坚持[PAWN_pronoun]不是食物。</PreyDisposition_Refuses.description>
+  <!--EN: Preyish refusal-->
+  <PreyDisposition_Refuses.label>猎杀猎物的拒绝</PreyDisposition_Refuses.label>
+</LanguageData>

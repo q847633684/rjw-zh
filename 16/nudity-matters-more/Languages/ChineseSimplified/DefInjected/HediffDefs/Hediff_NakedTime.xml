@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: naked time-->
+  <NakedTime.description>赤裸时刻</NakedTime.description>
+  <!--EN: naked time-->
+  <NakedTime.label>赤裸时刻</NakedTime.label>
+  <!--EN: naked time-->
+  <NakedTime.stages.0.label>赤裸时刻</NakedTime.stages.0.label>
+</LanguageData>

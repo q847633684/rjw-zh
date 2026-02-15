@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Issues -->
+  <!--原中文: '性交形式', 原英文: '无' -> 新英文: 'sex type',更新于2026-02-14-->
+  <!--EN: sex type-->
+  <SexProselytizing.label>性交形式</SexProselytizing.label>
+</LanguageData>

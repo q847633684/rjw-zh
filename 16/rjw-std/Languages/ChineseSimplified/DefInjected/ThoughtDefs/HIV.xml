@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Every day I feel weaker than the day before. I can feel my life slowly slipping away.-->
+  <WastingAway.stages.0.description>每天都感觉比前一天更虚弱。我能感觉到生命正慢慢流逝。</WastingAway.stages.0.description>
+  <!--EN: wasting away-->
+  <WastingAway.stages.0.label>日渐消瘦</WastingAway.stages.0.label>
+</LanguageData>

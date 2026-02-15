@@ -1,0 +1,49 @@
+key,text,tag,file,type
+Lewd_Apparel.label,lewd apparel,label,ThingCatagoryDefs\ThingCatagories_Slave_Apparel.xml,def
+Stargar.label,Starguardian,label,ThingDefs\Apparel_Armor.xml,def
+Stargar.description,"Once symbolic of the Star Guardians, these garments are now mere tokens of elite concubines.",description,ThingDefs\Apparel_Armor.xml,def
+SSA_HeavyCombatArmor.label,Heavy Combat armor,label,ThingDefs\Apparel_Armor.xml,def
+SSA_HeavyCombatArmor.description,Full sets of Combat armor. Combat armor was issued within the Old world Armed Forces during the Great War. Now it serves all kind of soldiers in Rimworld.,description,ThingDefs\Apparel_Armor.xml,def
+Fallarmory_MediumCombatArmor.label,Medium Combat armor,label,ThingDefs\Apparel_Armor.xml,def
+Fallarmory_MediumCombatArmor.description,Medium version of Combat armor. Combat armor was issued within the Old world Armed Forces during the Great War. Now it serves all kind of soldiers in Rimworld.,description,ThingDefs\Apparel_Armor.xml,def
+Gunmar_Apparel_MaidHead.label,maid headdress,label,ThingDefs\Apparel_Head.xml,def
+Gunmar_Apparel_MaidHead.description,Maid's headdress. It is for cleanliness and does not protect the head.,description,ThingDefs\Apparel_Head.xml,def
+SSAWitchhat.label,SSAWitchhat,label,ThingDefs\Apparel_Head.xml,def
+SSAWitchhat.description,Witch's hat,description,ThingDefs\Apparel_Head.xml,def
+NunHead.label,NunHead,label,ThingDefs\Apparel_Head.xml,def
+NunHead.description,Nun's headdress,description,ThingDefs\Apparel_Head.xml,def
+Slavebunnymktwo.label,Slave bunny,label,ThingDefs\Apparel_Lewd.xml,def
+Slavebunnymktwo.description,"Bunny girl outfit, ready to objectify and humiliate even the most wilful slave.",description,ThingDefs\Apparel_Lewd.xml,def
+Sheerdress.label,Sheer dress,label,ThingDefs\Apparel_Lewd.xml,def
+Sheerdress.description,"Sheer dress, while it technically covers the body, it is very thin and revealing.",description,ThingDefs\Apparel_Lewd.xml,def
+SSAKimono.label,Concubine's Kimono,label,ThingDefs\Apparel_Lewd.xml,def
+SSAKimono.description,This is the kimono worn by concubines in high end brothels.,description,ThingDefs\Apparel_Lewd.xml,def
+SSAHanbok.label,Hanbok,label,ThingDefs\Apparel_Lewd.xml,def
+SSAHanbok.description,Common outfit typically worn by concubines in brothels.,description,ThingDefs\Apparel_Lewd.xml,def
+SSAEgypt.label,Egypt,label,ThingDefs\Apparel_Lewd.xml,def
+SSAEgypt.description,Exotic clothing worn by women of an ancient empire.,description,ThingDefs\Apparel_Lewd.xml,def
+SSAChinadress.label,China dress,label,ThingDefs\Apparel_Lewd.xml,def
+SSAChinadress.description,A garment worn to seduce and show off the body.,description,ThingDefs\Apparel_Lewd.xml,def
+Slave_Collar.label,Slave collar,label,ThingDefs\Apparel_Neck.xml,def
+Slave_Collar.description,"A heavy metal ring locked on the neck with a long chain leash, reminding the wearer of their situation at all times.",description,ThingDefs\Apparel_Neck.xml,def
+Slave_Collar.comps.0.useLabel,Put the collar on the target,useLabel,ThingDefs\Apparel_Neck.xml,def
+Nun.label,Nun,label,ThingDefs\Apparel_Occult.xml,def
+Nun.description,"The nun's uniform, which symbolizes chastity, has ironically spawned numerous fetishes. Defile the wearer's chastity to your heart's content!",description,ThingDefs\Apparel_Occult.xml,def
+SSAWitch.label,Witch,label,ThingDefs\Apparel_Occult.xml,def
+SSAWitch.description,A more gothic look for a sex slave costume that embodies a vile temptress.,description,ThingDefs\Apparel_Occult.xml,def
+SSASuccubus.label,Succubus,label,ThingDefs\Apparel_Occult.xml,def
+SSASuccubus.description,"A demonic look that embodies a succubus, a vile creature that sucks out a man's... spirit.",description,ThingDefs\Apparel_Occult.xml,def
+SSACultist.label,Cultist,label,ThingDefs\Apparel_Occult.xml,def
+SSACultist.description,"It is an old religious garb that believes that a woman's purpose is to bear children, and that the act is a sacred act.",description,ThingDefs\Apparel_Occult.xml,def
+Sexslavebikini.label,sex slave bikini,label,ThingDefs\Apparel_Slave.xml,def
+Sexslavebikini.description,"Sex slave`s bikini, show wearer as ready to be used or put on display.",description,ThingDefs\Apparel_Slave.xml,def
+Slavekimono.label,Slave Kimono,label,ThingDefs\Apparel_Slave.xml,def
+Slavekimono.description,"This ratty and simple kimono means that the wearer is little more than a common slave, barely worth even simple clothing.",description,ThingDefs\Apparel_Slave.xml,def
+Sexslaverag.label,Sex Slave Rag,label,ThingDefs\Apparel_Slave.xml,def
+Sexslaverag.description,Cum rags don't need nice clothes.,description,ThingDefs\Apparel_Slave.xml,def
+SSASexymaid.label,Sexy maid,label,ThingDefs\Apparel_Slave.xml,def
+SSASexymaid.description,An outfit for house servants of the master. Such servants also keep the Master's bed warm.,description,ThingDefs\Apparel_Slave.xml,def
+SSATribaldress.label,Tribal Dress,label,ThingDefs\Apparel_Tribal.xml,def
+SSATribaldress.description,This dress is made of simple animal skin.,description,ThingDefs\Apparel_Tribal.xml,def
+SSATribaldressB.label,Tribal Breeder Dress,label,ThingDefs\Apparel_Tribal.xml,def
+SSATribaldressB.description,It is a dress made of simple animal skin that shows off the body more.,description,ThingDefs\Apparel_Tribal.xml,def

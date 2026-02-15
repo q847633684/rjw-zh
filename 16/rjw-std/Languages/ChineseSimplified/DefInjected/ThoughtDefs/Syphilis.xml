@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Everyone's so stupid and everything's so annoying. Even me, I just can't think clearly.-->
+  <SyphiliticThoughts.stages.0.description>所有人都那么蠢，所有事都那么烦。连我自己都思绪不清。</SyphiliticThoughts.stages.0.description>
+  <!--EN: syphilitic thoughts-->
+  <SyphiliticThoughts.stages.0.label>梅毒思维</SyphiliticThoughts.stages.0.label>
+  <!--EN: OK, what I need is... uh... what was I doing again? Oh right this thing. This fucking thing THIS FUCKING PIECE OF SHIT. FUCKING DAMN PIECE OF GARBAGE-->
+  <SyphiliticThoughts.stages.1.description>好，我需要的是……呃……我刚在干什么？哦对了这破事。这该死的破事，这该死的狗屎，该死的垃圾玩意！</SyphiliticThoughts.stages.1.description>
+  <!--EN: extreme syphilitic thoughts-->
+  <SyphiliticThoughts.stages.1.label>极端梅毒思维</SyphiliticThoughts.stages.1.label>
+</LanguageData>

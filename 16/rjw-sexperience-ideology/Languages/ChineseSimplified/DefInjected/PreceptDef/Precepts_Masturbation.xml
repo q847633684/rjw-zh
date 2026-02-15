@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Precepts -->
+  <!--原中文: '厌恶', 原英文: '无' -> 新英文: 'abhorrent',更新于2026-02-14-->
+  <!--EN: abhorrent-->
+  <Masturbation_Abhorrent.label>厌恶</Masturbation_Abhorrent.label>
+  <!--原中文: '自慰是不可接受的。', 原英文: '无' -> 新英文: 'Masturbation is unacceptable morally.',更新于2026-02-14-->
+  <!--EN: Masturbation is unacceptable morally.-->
+  <Masturbation_Abhorrent.description>自慰是不可接受的。</Masturbation_Abhorrent.description>
+  <!--原中文: '反感', 原英文: '无' -> 新英文: 'disapproved',更新于2026-02-14-->
+  <!--EN: disapproved-->
+  <Masturbation_Disapproved.label>反感</Masturbation_Disapproved.label>
+  <!--原中文: '自慰有些可耻。', 原英文: '无' -> 新英文: 'Masturbation is somewhat shameful.',更新于2026-02-14-->
+  <!--EN: Masturbation is somewhat shameful.-->
+  <Masturbation_Disapproved.description>自慰有些可耻。</Masturbation_Disapproved.description>
+</LanguageData>

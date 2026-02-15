@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'bestial breeding',新增于2026-02-14-->
+  <!--EN: bestial breeding-->
+  <BestialBreeding.label>兽交繁殖</BestialBreeding.label>
+  <!--翻译内容: 'Breeding animals is a practice that, while not entirely abhorrent, is generally disliked. It should be avoided whenever possible, as there are more acceptable alternatives.',新增于2026-02-14-->
+  <!--EN: Breeding animals is a practice that, while not entirely abhorrent, is generally disliked. It should be avoided whenever possible, as there are more acceptable alternatives.-->
+  <BestialBreeding_Disliked.description>与动物繁殖这种行为，虽非完全令人憎恶，但通常不受欢迎。只要有可能就应避免，因为存在更能被接受的选择。</BestialBreeding_Disliked.description>
+  <!--翻译内容: 'disliked',新增于2026-02-14-->
+  <!--EN: disliked-->
+  <BestialBreeding_Disliked.label>不受欢迎</BestialBreeding_Disliked.label>
+  <!--翻译内容: 'I've impregnated an animal. It feels wrong, but there was some pleasure in it.',新增于2026-02-14-->
+  <!--EN: I've impregnated an animal. It feels wrong, but there was some pleasure in it.-->
+  <BestialBreeding_Disliked.stages.0.description>我让一只动物怀了孕。感觉不太对，但其中也有些快感。</BestialBreeding_Disliked.stages.0.description>
+  <!--翻译内容: 'impregnated an animal',新增于2026-02-14-->
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Disliked.stages.0.label>使动物受孕</BestialBreeding_Disliked.stages.0.label>
+  <!--翻译内容: 'impregnated an animal',新增于2026-02-14-->
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Disliked_Social.stages.0.label>使动物受孕</BestialBreeding_Disliked_Social.stages.0.label>
+  <!--翻译内容: 'Breeding animals is valued for sustaining their population, while also embracing the shared carnal pleasure it brings.',新增于2026-02-14-->
+  <!--EN: Breeding animals is valued for sustaining their population, while also embracing the shared carnal pleasure it brings.-->
+  <BestialBreeding_Encouraged.description>与动物繁殖受到重视，因为它既能维持动物种群，也能接纳随之而来的共同肉欲快感。</BestialBreeding_Encouraged.description>
+  <!--翻译内容: 'encouraged',新增于2026-02-14-->
+  <!--EN: encouraged-->
+  <BestialBreeding_Encouraged.label>受鼓励</BestialBreeding_Encouraged.label>
+  <!--翻译内容: 'Breeding animals is an unnatural and vile act, degrading both the animal and the participant. It serves no purpose other than corruption and defilement.',新增于2026-02-14-->
+  <!--EN: Breeding animals is an unnatural and vile act, degrading both the animal and the participant. It serves no purpose other than corruption and defilement.-->
+  <BestialBreeding_Horrible.description>与动物繁殖是一种不自然且恶劣的行为，贬低了动物和参与者。它除了腐败和玷污之外毫无意义。</BestialBreeding_Horrible.description>
+  <!--翻译内容: 'horrible',新增于2026-02-14-->
+  <!--EN: horrible-->
+  <BestialBreeding_Horrible.label>令人憎恶</BestialBreeding_Horrible.label>
+  <!--翻译内容: 'I've impregnated an animal. This feels disgusting...',新增于2026-02-14-->
+  <!--EN: I've impregnated an animal. This feels disgusting...-->
+  <BestialBreeding_Horrible.stages.0.description>我让一只动物怀了孕。这感觉真恶心……</BestialBreeding_Horrible.stages.0.description>
+  <!--翻译内容: 'impregnated an animal',新增于2026-02-14-->
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Horrible.stages.0.label>使动物受孕</BestialBreeding_Horrible.stages.0.label>
+  <!--翻译内容: 'impregnated an animal',新增于2026-02-14-->
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Horrible_Social.stages.0.label>使动物受孕</BestialBreeding_Horrible_Social.stages.0.label>
+  <!--翻译内容: 'I've impregnated an animal. It felt good, and it will help with the animal population.',新增于2026-02-14-->
+  <!--EN: I've impregnated an animal. It felt good, and it will help with the animal population.-->
+  <BestialBreeding_Liked.stages.0.description>我让一只动物怀了孕。感觉很好，而且这有助于增加动物数量。</BestialBreeding_Liked.stages.0.description>
+  <!--翻译内容: 'impregnated an animal',新增于2026-02-14-->
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Liked.stages.0.label>使动物受孕</BestialBreeding_Liked.stages.0.label>
+  <!--翻译内容: 'impregnated an animal',新增于2026-02-14-->
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Liked_Social.stages.0.label>使动物受孕</BestialBreeding_Liked_Social.stages.0.label>
+  <!--翻译内容: 'Impregnating an animal is simply a natural and unremarkable aspect of life.',新增于2026-02-14-->
+  <!--EN: Impregnating an animal is simply a natural and unremarkable aspect of life.-->
+  <BestialBreeding_Neutral.description>让动物受孕不过是生活中自然且寻常的一面。</BestialBreeding_Neutral.description>
+  <!--翻译内容: 'indifferent',新增于2026-02-14-->
+  <!--EN: indifferent-->
+  <BestialBreeding_Neutral.label>无所谓</BestialBreeding_Neutral.label>
+  <!--翻译内容: 'Breeding animals is not just encouraged — it is an essential practice to sustain their population, enhance the colony's genetic potential through hybrids, and indulge in the carnal pleasures of the act.',新增于2026-02-14-->
+  <!--EN: Breeding animals is not just encouraged — it is an essential practice to sustain their population, enhance the colony's genetic potential through hybrids, and indulge in the carnal pleasures of the act.-->
+  <BestialBreeding_Required.description>与动物繁殖不仅受鼓励——它是维持动物种群、通过杂交增强殖民地基因潜力，以及沉溺于其中肉欲快感的一项必要实践。</BestialBreeding_Required.description>
+  <!--翻译内容: 'required',新增于2026-02-14-->
+  <!--EN: required-->
+  <BestialBreeding_Required.label>必要</BestialBreeding_Required.label>
+  <!--翻译内容: 'I've impregnated an animal. This ensures the colony's survival and strengthens its genetic potential. The pleasure I feel is secondary to our future.',新增于2026-02-14-->
+  <!--EN: I've impregnated an animal. This ensures the colony's survival and strengthens its genetic potential. The pleasure I feel is secondary to our future.-->
+  <BestialBreeding_Respected.stages.0.description>我让一只动物怀了孕。这确保了殖民地的生存并增强了其基因潜力。我所感受到的快感远不及我们的未来重要。</BestialBreeding_Respected.stages.0.description>
+  <!--翻译内容: 'impregnated an animal',新增于2026-02-14-->
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Respected.stages.0.label>使动物受孕</BestialBreeding_Respected.stages.0.label>
+  <!--翻译内容: 'impregnated an animal',新增于2026-02-14-->
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Respected_Social.stages.0.label>使动物受孕</BestialBreeding_Respected_Social.stages.0.label>
+</LanguageData>

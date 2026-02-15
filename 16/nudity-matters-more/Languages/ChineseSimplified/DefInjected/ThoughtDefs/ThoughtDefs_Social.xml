@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: intruded on my bath-->
+  <CaughtPeepingBath.stages.0.label>闯入我的浴室</CaughtPeepingBath.stages.0.label>
+  <!--EN: intruded on my bath-->
+  <CaughtPeepingBathPrude.stages.0.label>闯入我的浴室</CaughtPeepingBathPrude.stages.0.label>
+  <!--EN: intruded on my shower-->
+  <CaughtPeepingShower.stages.0.label>闯入我的淋浴间</CaughtPeepingShower.stages.0.label>
+  <!--EN: intruded on my shower-->
+  <CaughtPeepingShowerPrude.stages.0.label>闯入我的淋浴间</CaughtPeepingShowerPrude.stages.0.label>
+</LanguageData>

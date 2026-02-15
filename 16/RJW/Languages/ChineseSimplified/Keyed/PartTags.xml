@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '倒刺', 原英文: '无' -> 新英文: 'Barbed',更新于2026-02-14-->
+  <!--EN: Barbed-->
+  <PartsTag_Barbed>倒刺</PartsTag_Barbed>
+  <!--原中文: '修长', 原英文: '无' -> 新英文: 'Long',更新于2026-02-14-->
+  <!--EN: Long-->
+  <PartsTag_Long>修长</PartsTag_Long>
+  <!--原中文: '粗大', 原英文: '无' -> 新英文: 'Girthy',更新于2026-02-14-->
+  <!--EN: Girthy-->
+  <PartsTag_Girthy>粗大</PartsTag_Girthy>
+  <!--原中文: '坚实', 原英文: '无' -> 新英文: 'Solid',更新于2026-02-14-->
+  <!--EN: Solid-->
+  <PartsTag_Solid>坚实</PartsTag_Solid>
+  <!--原中文: '娇小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <PartsTag_Small>娇小</PartsTag_Small>
+  <!--原中文: '挺硬', 原英文: '无' -> 新英文: 'Rigid',更新于2026-02-14-->
+  <!--EN: Rigid-->
+  <PartsTag_Rigid>挺硬</PartsTag_Rigid>
+  <!--原中文: '纤细', 原英文: '无' -> 新英文: 'Thin',更新于2026-02-14-->
+  <!--EN: Thin-->
+  <PartsTag_Thin>纤细</PartsTag_Thin>
+  <!--原中文: '包覆', 原英文: '无' -> 新英文: 'Sheathed',更新于2026-02-14-->
+  <!--EN: Sheathed-->
+  <PartsTag_Sheathed>包覆</PartsTag_Sheathed>
+  <!--原中文: '内置', 原英文: '无' -> 新英文: 'Internal',更新于2026-02-14-->
+  <!--EN: Internal-->
+  <PartsTag_Internal>内置</PartsTag_Internal>
+  <!--原中文: '膨胀末端', 原英文: '无' -> 新英文: 'Flared',更新于2026-02-14-->
+  <!--EN: Flared-->
+  <PartsTag_Flared>膨胀末端</PartsTag_Flared>
+  <!--原中文: '多重结构', 原英文: '无' -> 新英文: 'Multiple',更新于2026-02-14-->
+  <!--EN: Multiple-->
+  <PartsTag_Multiple>多重结构</PartsTag_Multiple>
+  <!--原中文: '环状突起', 原英文: '无' -> 新英文: 'Ridged',更新于2026-02-14-->
+  <!--EN: Ridged-->
+  <PartsTag_Ridged>环状突起</PartsTag_Ridged>
+  <!--原中文: '结状', 原英文: '无' -> 新英文: 'Knotted',更新于2026-02-14-->
+  <!--EN: Knotted-->
+  <PartsTag_Knotted>结状</PartsTag_Knotted>
+  <!--原中文: '锥形', 原英文: '无' -> 新英文: 'Tapered',更新于2026-02-14-->
+  <!--EN: Tapered-->
+  <PartsTag_Tapered>锥形</PartsTag_Tapered>
+  <!--原中文: '发光', 原英文: '无' -> 新英文: 'Glowing',更新于2026-02-14-->
+  <!--EN: Glowing-->
+  <PartsTag_Glowing>发光</PartsTag_Glowing>
+  <!--原中文: '可操控', 原英文: '无' -> 新英文: 'Prehensile',更新于2026-02-14-->
+  <!--EN: Prehensile-->
+  <PartsTag_Prehensile>可操控</PartsTag_Prehensile>
+  <!--原中文: '类人形', 原英文: '无' -> 新英文: 'Humanlike',更新于2026-02-14-->
+  <!--EN: Humanlike-->
+  <PartsTag_Humanlike>类人形</PartsTag_Humanlike>
+  <!--原中文: '深邃', 原英文: '无' -> 新英文: 'Deep',更新于2026-02-14-->
+  <!--EN: Deep-->
+  <PartsTag_Deep>深邃</PartsTag_Deep>
+  <!--原中文: '紧致', 原英文: '无' -> 新英文: 'Tight',更新于2026-02-14-->
+  <!--EN: Tight-->
+  <PartsTag_Tight>紧致</PartsTag_Tight>
+  <!--原中文: '松弛', 原英文: '无' -> 新英文: 'Loose',更新于2026-02-14-->
+  <!--EN: Loose-->
+  <PartsTag_Loose>松弛</PartsTag_Loose>
+  <!--原中文: '人造', 原英文: '无' -> 新英文: 'Artificial',更新于2026-02-14-->
+  <!--EN: Artificial-->
+  <PartsTag_Artificial>人造</PartsTag_Artificial>
+  <!--原中文: '免疫性病', 原英文: '无' -> 新英文: 'STD Immune',更新于2026-02-14-->
+  <!--EN: STD Immune-->
+  <PartsTag_STDImmune>免疫性病</PartsTag_STDImmune>
+  <!--原中文: '可调尺寸', 原英文: '无' -> 新英文: 'Resizable',更新于2026-02-14-->
+  <!--EN: Resizable-->
+  <PartsTag_Resizable>可调尺寸</PartsTag_Resizable>
+  <!--原中文: '可控生育', 原英文: '无' -> 新英文: 'Fertility Toggle',更新于2026-02-14-->
+  <!--EN: Fertility Toggle-->
+  <PartsTag_FertilityToggle>可控生育</PartsTag_FertilityToggle>
+</LanguageData>

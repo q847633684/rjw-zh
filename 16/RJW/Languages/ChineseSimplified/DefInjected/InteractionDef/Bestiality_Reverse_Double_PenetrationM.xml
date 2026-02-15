@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- invitation for breeding -->
+  <!--原中文: '双重插入', 原英文: '无' -> 新英文: 'double penetration',更新于2026-02-14-->
+  <!--EN: double penetration-->
+  <Bestiality_Reverse_Double_Penetration_M.label>双重插入</Bestiality_Reverse_Double_Penetration_M.label>
+  <!--原中文: '让其双重插入', 原英文: '无' -> 新英文: 'Get double-penetrated',更新于2026-02-14-->
+  <!--EN: Get double-penetrated-->
+  <Bestiality_Reverse_Double_Penetration_M.modExtensions.0.RMBLabel>让其双重插入</Bestiality_Reverse_Double_Penetration_M.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->将自己献给[RECIPIENT_nameDef]。', 原英文: '无' -> 新英文: 'r_logentry->Presented to [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Presented to [RECIPIENT_nameDef].-->
+  <Bestiality_Reverse_Double_Penetration_M.logRulesInitiator.rulesStrings.0>r_logentry->将自己献给[RECIPIENT_nameDef]。</Bestiality_Reverse_Double_Penetration_M.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->双重插入了[INITIATOR_nameDef]。', 原英文: '无' -> 新英文: 'r_logentry->Double-penetrated [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Double-penetrated [INITIATOR_nameDef].-->
+  <Bestiality_Reverse_Double_Penetration_M.logRulesRecipient.rulesStrings.0>r_logentry->双重插入了[INITIATOR_nameDef]。</Bestiality_Reverse_Double_Penetration_M.logRulesRecipient.rulesStrings.0>
+</LanguageData>

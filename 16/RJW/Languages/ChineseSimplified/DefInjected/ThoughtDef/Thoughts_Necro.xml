@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '奸尸', 原英文: '无' -> 新英文: 'had sex with a corpse',更新于2026-02-14-->
+  <!--EN: had sex with a corpse-->
+  <ViolatedCorpse.stages.0.label>奸尸</ViolatedCorpse.stages.0.label>
+  <!--原中文: '{0}不仅仅是个僵硬的东西，你懂我意思的……', 原英文: '无' -> 新英文: '{0} wasn't the only thing that was stiff if you know what I mean...',更新于2026-02-14-->
+  <!--EN: {0} wasn't the only thing that was stiff if you know what I mean...-->
+  <ViolatedCorpse.stages.0.description>{0}不仅仅是个僵硬的东西，你懂我意思的……</ViolatedCorpse.stages.0.description>
+</LanguageData>

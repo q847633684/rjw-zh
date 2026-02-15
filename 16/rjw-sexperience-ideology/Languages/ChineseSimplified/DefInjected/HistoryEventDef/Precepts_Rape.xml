@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Issues -->
+  <!--重复key，需删除-->
+  <RSI_Raped.label>被强奸</RSI_Raped.label>
+  <!--重复key，需删除-->
+  <RSI_RapedSlave.label>被强奸的奴隶</RSI_RapedSlave.label>
+  <!--重复key，需删除-->
+  <RSI_RapedPrisoner.label>被强奸的囚犯</RSI_RapedPrisoner.label>
+  <!--重复key，需删除-->
+  <RSI_WasRaped.label>遭到强奸</RSI_WasRaped.label>
+  <!--重复key，需删除-->
+  <RSI_WasRapedSlave.label>遭到强奸的奴隶</RSI_WasRapedSlave.label>
+  <!--重复key，需删除-->
+  <RSI_WasRapedPrisoner.label>遭到强奸的囚犯</RSI_WasRapedPrisoner.label>
+</LanguageData>

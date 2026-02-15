@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: exhibitionism-->
+  <Exhibitionism.label>暴露癖</Exhibitionism.label>
+  <!--EN: Who has the time or energy to worry about whether people are getting it on or not?-->
+  <Exhibitionism_Acceptable.description>谁有那个时间或精力去操心别人是不是在做爱？</Exhibitionism_Acceptable.description>
+  <!--EN: acceptable-->
+  <Exhibitionism_Acceptable.label>可接受</Exhibitionism_Acceptable.label>
+  <!--EN: Intimate displays of sexuality stir primal feelings that most people would try to deny.-->
+  <Exhibitionism_Approved.description>亲密的性行为展示会激起大多数人都想否认的原始情感。</Exhibitionism_Approved.description>
+  <!--EN: approved-->
+  <Exhibitionism_Approved.label>认可</Exhibitionism_Approved.label>
+  <!--EN: Being seen having sex or masturbating is somewhat shameful, and embarrassing to witness.-->
+  <Exhibitionism_Disapproved.description>被人看到在做爱或自慰是有些丢脸的，目睹这种事也很尴尬。</Exhibitionism_Disapproved.description>
+  <!--EN: disapproved-->
+  <Exhibitionism_Disapproved.label>不认可</Exhibitionism_Disapproved.label>
+</LanguageData>

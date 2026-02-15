@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Unnamed {0}-->
+  <RV2_Pronoun_Unnamed>未命名{0}</RV2_Pronoun_Unnamed>
+  <!--EN: her-->
+  <RV2_Pronoun_accFemale>她</RV2_Pronoun_accFemale>
+  <!--EN: him-->
+  <RV2_Pronoun_accMale>他</RV2_Pronoun_accMale>
+  <!--EN: them-->
+  <RV2_Pronoun_accNeutral>他们</RV2_Pronoun_accNeutral>
+  <!--EN: it-->
+  <RV2_Pronoun_accObject>它</RV2_Pronoun_accObject>
+  <!--EN: hers-->
+  <RV2_Pronoun_genFemale>她的</RV2_Pronoun_genFemale>
+  <!--EN: his-->
+  <RV2_Pronoun_genMale>他的</RV2_Pronoun_genMale>
+  <!--EN: theirs-->
+  <RV2_Pronoun_genNeutral>他们的</RV2_Pronoun_genNeutral>
+  <!--EN: it-->
+  <RV2_Pronoun_genObject>它</RV2_Pronoun_genObject>
+  <!--EN: she-->
+  <RV2_Pronoun_nomFemale>她</RV2_Pronoun_nomFemale>
+  <!--EN: he-->
+  <RV2_Pronoun_nomMale>他</RV2_Pronoun_nomMale>
+  <!--EN: they-->
+  <RV2_Pronoun_nomNeutral>他们</RV2_Pronoun_nomNeutral>
+  <!--EN: it-->
+  <RV2_Pronoun_nomObject>它</RV2_Pronoun_nomObject>
+  <!--EN: her-->
+  <RV2_Pronoun_posFemale>她</RV2_Pronoun_posFemale>
+  <!--EN: his-->
+  <RV2_Pronoun_posMale>他的</RV2_Pronoun_posMale>
+  <!--EN: their-->
+  <RV2_Pronoun_posNeutral>他们的</RV2_Pronoun_posNeutral>
+  <!--EN: its-->
+  <RV2_Pronoun_posObject>它的</RV2_Pronoun_posObject>
+  <!--EN: herself-->
+  <RV2_Pronoun_refFemale>自己</RV2_Pronoun_refFemale>
+  <!--EN: himself-->
+  <RV2_Pronoun_refMale>自己</RV2_Pronoun_refMale>
+  <!--EN: themself-->
+  <RV2_Pronoun_refNeutral>祂</RV2_Pronoun_refNeutral>
+  <!--EN: itself-->
+  <RV2_Pronoun_refObject>自身</RV2_Pronoun_refObject>
+</LanguageData>

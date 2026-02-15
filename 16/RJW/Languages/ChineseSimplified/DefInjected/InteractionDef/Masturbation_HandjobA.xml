@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '慰菊', 原英文: '无' -> 新英文: 'masturbation_handjoba',更新于2026-02-14-->
+  <!--EN: masturbation_handjoba-->
+  <Masturbation_HandjobA.label>慰菊</Masturbation_HandjobA.label>
+  <!--原中文: '慰菊', 原英文: '无' -> 新英文: 'Use anus',更新于2026-02-14-->
+  <!--EN: Use anus-->
+  <Masturbation_HandjobA.modExtensions.0.RMBLabel>慰菊</Masturbation_HandjobA.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->慰菊。', 原英文: '无' -> 新英文: 'r_logentry->Masturbated.',更新于2026-02-14-->
+  <!--EN: r_logentry->Masturbated.-->
+  <Masturbation_HandjobA.logRulesInitiator.rulesStrings.0>r_logentry->慰菊。</Masturbation_HandjobA.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->慰菊。', 原英文: '无' -> 新英文: 'r_logentry->Masturbated.',更新于2026-02-14-->
+  <!--EN: r_logentry->Masturbated.-->
+  <Masturbation_HandjobA.logRulesRecipient.rulesStrings.0>r_logentry->慰菊。</Masturbation_HandjobA.logRulesRecipient.rulesStrings.0>
+</LanguageData>

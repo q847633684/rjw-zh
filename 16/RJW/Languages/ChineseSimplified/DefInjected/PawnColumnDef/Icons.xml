@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '囚犯？', 原英文: '无' -> 新英文: 'Prisoners',更新于2026-02-14-->
+  <!--EN: Prisoners-->
+  <RJW_IsPrisoner.headerTip>囚犯？</RJW_IsPrisoner.headerTip>
+  <!--原中文: '奴隶？', 原英文: '无' -> 新英文: 'Slaves',更新于2026-02-14-->
+  <!--EN: Slaves-->
+  <RJW_IsSlave.headerTip>奴隶？</RJW_IsSlave.headerTip>
+  <!--原中文: '性别', 原英文: '无' -> 新英文: 'Gender',更新于2026-02-14-->
+  <!--EN: Gender-->
+  <RJW_Gender.headerTip>性别</RJW_Gender.headerTip>
+</LanguageData>

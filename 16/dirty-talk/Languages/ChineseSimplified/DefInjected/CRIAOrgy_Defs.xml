@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: orgy-chat-->
+  <OrgyChat.label>乱交-聊天</OrgyChat.label>
+  <!--EN: r_logentry(INITIATOR_opinion<-25, priority=1)->[bad_opinion]-->
+  <OrgyChat.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_opinion<-25, priority=1)->[bad_opinion]</OrgyChat.logRulesInitiator.rulesStrings.0>
+  <!--EN: bad_opinion(RECIPIENT_gender==Male)->It would've been much better without your nasty [penis] involved.-->
+  <OrgyChat.logRulesInitiator.rulesStrings.1>bad_opinion(RECIPIENT_gender==Male)-> 没有你的下贱就更好了[penis]相关。</OrgyChat.logRulesInitiator.rulesStrings.1>
+  <!--EN: good_opinion_horny(INITIATOR_gender==Female, RECIPIENT_gender==Female, INITIATOR_opinion>=50, INITIATOR_trait==gay)->It was even better with you involved, [counterpart]!-->
+  <OrgyChat.logRulesInitiator.rulesStrings.10>good_opinion_性欲旺盛的(INITIATOR_gender==Female, RECIPIENT_gender==Female, INITIATOR_opinion>=50, INITIATOR_trait==gay)-> 有你在身边更好,[counterpart]</OrgyChat.logRulesInitiator.rulesStrings.10>
+  <!--EN: good_opinion_horny(INITIATOR_gender==Female, RECIPIENT_gender==Male, INITIATOR_opinion>=50, INITIATOR_trait!=gay)->It was even better with you involved, [counterpart]!-->
+  <OrgyChat.logRulesInitiator.rulesStrings.11>good_opinion_性欲旺盛的(INITIATOR_gender==Female, RECIPIENT_gender==Male, INITIATOR_opinion>=50, INITIATOR_trait!=gay)-> 有你在身边更好,[counterpart]</OrgyChat.logRulesInitiator.rulesStrings.11>
+  <!--EN: good_opinion_horny(INITIATOR_gender==Male, RECIPIENT_gender==Female, INITIATOR_opinion>=50, INITIATOR_trait!=gay)->It was even better with you involved, [counterpart]!-->
+  <OrgyChat.logRulesInitiator.rulesStrings.12>good_opinion_性欲旺盛的(INITIATOR_gender==Male, RECIPIENT_gender==Female, INITIATOR_opinion>=50, INITIATOR_trait!=gay)-> 有你在身边更好,[counterpart]</OrgyChat.logRulesInitiator.rulesStrings.12>
+  <!--EN: good_opinion_horny->Just thinking about it makes me want to touch myself...-->
+  <OrgyChat.logRulesInitiator.rulesStrings.13>good_opinion_性欲旺盛的->一想到这个，我就想触摸我自己...</OrgyChat.logRulesInitiator.rulesStrings.13>
+  <!--EN: good_opinion->Yeah, we should do it again sometime!-->
+  <OrgyChat.logRulesInitiator.rulesStrings.14>good_opinion->是的，我们应该改天再来一次!</OrgyChat.logRulesInitiator.rulesStrings.14>
+  <!--EN: bad_opinion(RECIPIENT_gender==Female)->It would've been much better without your nasty [vagina] involved.-->
+  <OrgyChat.logRulesInitiator.rulesStrings.2>bad_opinion(RECIPIENT_gender==Female)-> 没有你的下贱就更好了[vagina]相关。</OrgyChat.logRulesInitiator.rulesStrings.2>
+  <!--EN: bad_opinion->It would've been much better without your nasty ass involved.-->
+  <OrgyChat.logRulesInitiator.rulesStrings.3>bad_opinion->没有你的脏东西会好得多屁股相关。</OrgyChat.logRulesInitiator.rulesStrings.3>
+  <!--EN: r_logentry->[neutral_opinion]-->
+  <OrgyChat.logRulesInitiator.rulesStrings.4>r_logentry->[neutral_opinion]</OrgyChat.logRulesInitiator.rulesStrings.4>
+  <!--EN: neutral_opinion->Yeah, I had a good time, [counterpart].-->
+  <OrgyChat.logRulesInitiator.rulesStrings.5>neutral_opinion->是的，我玩得很开心,[counterpart]</OrgyChat.logRulesInitiator.rulesStrings.5>
+  <!--EN: r_logentry(INITIATOR_opinion>=25, priority=1)->[good_opinion]-->
+  <OrgyChat.logRulesInitiator.rulesStrings.6>r_logentry(INITIATOR_opinion>=25, priority=1)->[good_opinion]</OrgyChat.logRulesInitiator.rulesStrings.6>
+  <!--EN: good_opinion(INITIATOR_thoughtLabel==sexually frustrated, priority=1)->[good_opinion_horny]-->
+  <OrgyChat.logRulesInitiator.rulesStrings.7>good_opinion(INITIATOR_thoughtLabel==sexually frustrated, priority=1)->[good_opinion_性欲旺盛的]</OrgyChat.logRulesInitiator.rulesStrings.7>
+  <!--EN: good_opinion(INITIATOR_thoughtLabel==horny, priority=1)->[good_opinion_horny]-->
+  <OrgyChat.logRulesInitiator.rulesStrings.8>good_opinion(INITIATOR_thoughtLabel==性欲旺盛的, priority=1)->[good_opinion_性欲旺盛的]</OrgyChat.logRulesInitiator.rulesStrings.8>
+  <!--EN: good_opinion_horny(INITIATOR_gender==Male, RECIPIENT_gender==Male, INITIATOR_opinion>=50, INITIATOR_trait==gay)->It was even better with you involved, [counterpart]!-->
+  <OrgyChat.logRulesInitiator.rulesStrings.9>good_opinion_性欲旺盛的(INITIATOR_gender==Male, RECIPIENT_gender==Male, INITIATOR_opinion>=50, INITIATOR_trait==gay)-> 有你在身边更好,[counterpart]</OrgyChat.logRulesInitiator.rulesStrings.9>
+</LanguageData>

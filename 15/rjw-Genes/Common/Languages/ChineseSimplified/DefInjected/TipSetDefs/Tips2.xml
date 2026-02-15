@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <RJWGenesTips.tips>
+        <li TKey="SuccubusArrival">当角质小卒在夜间独自睡觉时，魅魔和梦魇会在极少数情况下生成。</li>
+        <li TKey="CumazoneCockbite">Cumazone 需要定期咬鸡巴。动物可以消除这种饥饿 -但这样它们会需要更多！</li>
+        <li TKey="SuccubusDrain">魅魔通过性行为耗尽生育力。被耗尽的棋子在后续行动中会提供更少的肥料，直到它们被恢复为止。</li>
+        <li TKey="IncubusDrain">梦魇“点击”与其发生性关系的棋子以获得生育力。在棋子完全恢复之前，梦魇无法通过这种方式获得更多的 Fertilin。</li>
+        <li TKey="XenotypeMaintenance">RJW_Genes 添加的异型需要大量人力资源 -在与他们为伴之前，先拥有一个大群体或大量囚犯！</li>
+        <li TKey="SuccubusCost">魅魔从精液中获得受精素。确保周围有足够的果汁让他们开心。</li>
+        <li TKey="CumeaterCumflation">基因“cumeater”可让您通过舔阴排出 cumflation。 ... 很酷，是吗？</li>
+        <li TKey="BestialityGeneInheritance">一些动物携带稀有基因 -您可以尝试繁殖它们并创造您自己的超级杂交种！ （对于猫女孩或基因废物不提供任何保证）</li>
+        <li TKey="BestialityGeneSettings">动物基因继承设置分布在 RJW-Pregnancy-Settings 及其自己的 Mod-Options 之间。</li>
+        <li TKey="FertilaAnusJoke">带有“肛门肥沃”基因的典当生的孩子可能会在学校受到欺凌，但他们仍然可以过上充实而幸福的生活。</li>
+    </RJWGenesTips.tips>
+</LanguageData>

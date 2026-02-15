@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Oh God... This can't really be happening...-->
+  <SawRape_Abhorrent.stages.0.description>天啊...这不可能是真的...</SawRape_Abhorrent.stages.0.description>
+  <!--EN: horrified by rape-->
+  <SawRape_Abhorrent.stages.0.label>对强暴感到惊骇</SawRape_Abhorrent.stages.0.label>
+  <!--EN: Oh. Um. Carry on...?-->
+  <SawRape_Acceptable.stages.0.description>哦。嗯。继续...？</SawRape_Acceptable.stages.0.description>
+  <!--EN: witnessed rape-->
+  <SawRape_Acceptable.stages.0.label>目睹强暴</SawRape_Acceptable.stages.0.label>
+  <!--EN: Is this really what life is going to be like here?-->
+  <SawRape_Disapproved.stages.0.description>难道这就是这里的生活吗？</SawRape_Disapproved.stages.0.description>
+  <!--EN: upset by rape-->
+  <SawRape_Disapproved.stages.0.label>因强暴感到不安</SawRape_Disapproved.stages.0.label>
+  <!--EN: The strong will claim the weak.-->
+  <SawRape_Honorable.stages.0.description>强者终将占有弱者。</SawRape_Honorable.stages.0.description>
+  <!--EN: approved of rape-->
+  <SawRape_Honorable.stages.0.label>认同强暴</SawRape_Honorable.stages.0.label>
+  <!--EN: How... how could they just violate someone like that?-->
+  <SawRape_Horrible.stages.0.description>怎么...怎么能这样侵犯他人？</SawRape_Horrible.stages.0.description>
+  <!--EN: disturbed by rape-->
+  <SawRape_Horrible.stages.0.label>对强暴感到不安</SawRape_Horrible.stages.0.label>
+</LanguageData>

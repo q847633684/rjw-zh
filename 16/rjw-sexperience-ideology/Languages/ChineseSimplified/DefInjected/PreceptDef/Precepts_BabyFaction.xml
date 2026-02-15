@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Precepts -->
+  <!--原中文: '始终跟随母亲（默认）', 原英文: '无' -> 新英文: 'always mother(default)',更新于2026-02-14-->
+  <!--EN: always mother(default)-->
+  <BabyFaction_AlwaysMother.label>始终跟随母亲（默认）</BabyFaction_AlwaysMother.label>
+  <!--原中文: '新生婴儿总是跟随母亲的派系和意识形态。', 原英文: '无' -> 新英文: 'New born babies always follow mother's faction and ideology.',更新于2026-02-14-->
+  <!--EN: New born babies always follow mother's faction and ideology.-->
+  <BabyFaction_AlwaysMother.description>新生婴儿总是跟随母亲的派系和意识形态。</BabyFaction_AlwaysMother.description>
+  <!--原中文: '始终跟随父亲', 原英文: '无' -> 新英文: 'always father',更新于2026-02-14-->
+  <!--EN: always father-->
+  <BabyFaction_AlwaysFather.label>始终跟随父亲</BabyFaction_AlwaysFather.label>
+  <!--原中文: '新生婴儿总是跟随父亲的派系和意识形态（如果存在）。', 原英文: '无' -> 新英文: 'New born babies always follow father's faction and ideology(if exists).',更新于2026-02-14-->
+  <!--EN: New born babies always follow father's faction and ideology(if exists).-->
+  <BabyFaction_AlwaysFather.description>新生婴儿总是跟随父亲的派系和意识形态（如果存在）。</BabyFaction_AlwaysFather.description>
+  <!--原中文: '始终跟随殖民地', 原英文: '无' -> 新英文: 'always colony',更新于2026-02-14-->
+  <!--EN: always colony-->
+  <BabyFaction_AlwaysColony.label>始终跟随殖民地</BabyFaction_AlwaysColony.label>
+  <!--原中文: '新生婴儿总是跟随玩家的派系和意识形态。', 原英文: '无' -> 新英文: 'New born babies are always player's faction and ideology.',更新于2026-02-14-->
+  <!--EN: New born babies are always player's faction and ideology.-->
+  <BabyFaction_AlwaysColony.description>新生婴儿总是跟随玩家的派系和意识形态。</BabyFaction_AlwaysColony.description>
+</LanguageData>

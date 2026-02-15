@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: An exotic anus made of bioferrite, an unusual substance possessing both organic and metallic characteristics. Its sphincter is remarkably resilient yet surprisingly flexible, and it can feel unnervingly responsive to psychic influence. The chaotic growth patterns of mechanites during its formation have given it a distinct, almost crystalline structure, offering a unique and intense experience.-->
+  <BioferriteAnus.description>异国情调的肛门由活铁 (一种兼具有机物和金属特性的异常物质) 制成。它的括约肌非常有弹性，但却出奇的柔韧，它能对心灵影响做出不稳定的反应。纳米机械在形成过程中混乱的生长模式使它获得了明显的、几乎是结晶的结构，提供了一种独特而强烈的体验。</BioferriteAnus.description>
+  <!--EN: bioferrite anus-->
+  <BioferriteAnus.label>活铁肛门</BioferriteAnus.label>
+  <!--EN: an bioferrite anus-->
+  <BioferriteAnus.labelNoun>活铁肛门</BioferriteAnus.labelNoun>
+  <!--EN: A pair of breasts made of a strange, metallic-organic fibrous substance. They possess an unsettling shimmer and a subtle psychic resonance, feeling both firm and strangely yielding to the touch. Their surface might display faint, shifting patterns, hinting at the chaotic mechanite processes within.-->
+  <BioferriteBreasts.description>一对乳房由金属有机纤维物质制成。他们闪着令人不安的微光和微弱的心灵共鸣，触摸它们的表面可能显示出微弱的、不断变化的模式，暗示着内部混乱的机械过程。</BioferriteBreasts.description>
+  <!--EN: bioferrite breasts-->
+  <BioferriteBreasts.label>活铁乳房</BioferriteBreasts.label>
+  <!--EN: a pair of bioferrite breasts-->
+  <BioferriteBreasts.labelNoun>一对活铁乳房</BioferriteBreasts.labelNoun>
+  <!--EN: An exotic penis composed of bioferrite, a fibrous substance with both organic and metallic properties. Its shaft has a peculiar, almost segmented texture, and it feels strangely warm and cool to the touch. Subtle psychic flows can cause a faint, unsettling vibration during arousal, and its chaotic, cancer-like formation gives it an unnaturally perfect, yet alien, symmetry.-->
+  <BioferritePenis.description>异国情调的阳具/屌由活铁构成，活铁是一种兼具有机物和金属特性的纤维物质。它的杆身拥有一种奇特的、几乎是分段的质地，给人一种奇怪的温暖和凉爽的感觉触摸微小的灵流会引起微弱的、不安的震动性兴奋,而它混乱的、癌症般的构造使它拥有了异常完美但又陌生的对称。</BioferritePenis.description>
+  <!--EN: bioferrite penis-->
+  <BioferritePenis.label>活铁阳具/屌</BioferritePenis.label>
+  <!--EN: an bioferrite penis-->
+  <BioferritePenis.labelNoun>活铁阳具/屌</BioferritePenis.labelNoun>
+  <!--EN: An exotic vagina crafted from bioferrite, a unique material blending organic and metallic traits. Its inner folds possess a peculiar, almost shifting texture, and it seems to subtly resonate with psychic energies during penetration. The chaotic, cancer-like process of its creation by mechanites has resulted in a form that is both alien and alluring, providing an unnerving yet intense sensation.-->
+  <BioferriteVagina.description>异国情调的阴道由活铁精心制作而成，活铁是一种融合了有机物与金属特性的独特材料。它的内部褶皱拥有一种奇特的、几乎在变的结构，它似乎与心灵能量巧妙地共鸣插入由纳米机械创造的混乱的、类似癌症的过程导致了一种既陌生又诱人的形式，提供了一种紧张而强烈的感觉。</BioferriteVagina.description>
+  <!--EN: bioferrite vagina-->
+  <BioferriteVagina.label>活铁阴道</BioferriteVagina.label>
+  <!--EN: an bioferrite vagina-->
+  <BioferriteVagina.labelNoun>活铁阴道</BioferriteVagina.labelNoun>
+</LanguageData>

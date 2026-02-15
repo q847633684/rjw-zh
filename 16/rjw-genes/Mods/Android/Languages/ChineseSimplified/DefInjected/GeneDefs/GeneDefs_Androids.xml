@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'Androids do not feel satisfaction from sex, and have no need to feel it.',新增于2026-02-15-->
+  <!--EN: Androids do not feel satisfaction from sex, and have no need to feel it.-->
+  <rjw_genes_SexDisabled.description>仿生人无法从性行为中获得满足，也无需感受它。</rjw_genes_SexDisabled.description>
+  <!--翻译内容: 'sex disabled',新增于2026-02-15-->
+  <!--EN: sex disabled-->
+  <rjw_genes_SexDisabled.label>性功能禁用</rjw_genes_SexDisabled.label>
+  <!--翻译内容: 'This piece of hardware is a set of bionic genitals of high quality',新增于2026-02-15-->
+  <!--EN: This piece of hardware is a set of bionic genitals of high quality-->
+  <rjw_genes_bionic_genitalia.description>这套硬件是一组高品质的仿生生殖器。</rjw_genes_bionic_genitalia.description>
+  <!--翻译内容: 'bionic genitalia',新增于2026-02-15-->
+  <!--EN: bionic genitalia-->
+  <rjw_genes_bionic_genitalia.label>仿生生殖器</rjw_genes_bionic_genitalia.label>
+  <!--翻译内容: 'This piece of hardware is a set of crude hydrolic genitals, at least it come with a suspension system',新增于2026-02-15-->
+  <!--EN: This piece of hardware is a set of crude hydrolic genitals, at least it come with a suspension system-->
+  <rjw_genes_hydrolic_genitalia.description>这套硬件是一组粗陋的液压生殖器，至少它还带了个悬挂系统。</rjw_genes_hydrolic_genitalia.description>
+  <!--翻译内容: 'hydrolic genitalia',新增于2026-02-15-->
+  <!--EN: hydrolic genitalia-->
+  <rjw_genes_hydrolic_genitalia.label>液压生殖器</rjw_genes_hydrolic_genitalia.label>
+</LanguageData>

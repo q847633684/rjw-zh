@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '自我发电', 原英文: '无' -> 新英文: 'masturbation_autofellatio',更新于2026-02-14-->
+  <!--EN: masturbation_autofellatio-->
+  <Masturbation_AutoFellatio.label>自我发电</Masturbation_AutoFellatio.label>
+  <!--原中文: '自我发电', 原英文: '无' -> 新英文: 'AutoFellatio',更新于2026-02-14-->
+  <!--EN: AutoFellatio-->
+  <Masturbation_AutoFellatio.modExtensions.0.RMBLabel>自我发电</Masturbation_AutoFellatio.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->自我发电。', 原英文: '无' -> 新英文: 'r_logentry->Masturbated.',更新于2026-02-14-->
+  <!--EN: r_logentry->Masturbated.-->
+  <Masturbation_AutoFellatio.logRulesInitiator.rulesStrings.0>r_logentry->自我发电。</Masturbation_AutoFellatio.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->自我发电。', 原英文: '无' -> 新英文: 'r_logentry->Masturbated.',更新于2026-02-14-->
+  <!--EN: r_logentry->Masturbated.-->
+  <Masturbation_AutoFellatio.logRulesRecipient.rulesStrings.0>r_logentry->自我发电。</Masturbation_AutoFellatio.logRulesRecipient.rulesStrings.0>
+</LanguageData>

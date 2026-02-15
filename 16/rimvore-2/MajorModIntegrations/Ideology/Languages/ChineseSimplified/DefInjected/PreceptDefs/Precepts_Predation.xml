@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: It's been far too long since last vored anyone.-->
+  <RV2_NoRecentPredatorInitiatedVore_Required.stages.0.description>很久很久以前没有人被背叛过。</RV2_NoRecentPredatorInitiatedVore_Required.stages.0.description>
+  <!--EN: want to be predator-->
+  <RV2_NoRecentPredatorInitiatedVore_Required.stages.0.label>想成为捕食者</RV2_NoRecentPredatorInitiatedVore_Required.stages.0.label>
+  <!--EN: Predation-->
+  <RV2_Predation.label>捕食</RV2_Predation.label>
+  <!--EN: Anyone partaking in vore as a predator is to be shunned.-->
+  <RV2_Predation_Abhorrent.description>任何参与者吃人作为一个捕食者是被避开的。</RV2_Predation_Abhorrent.description>
+  <!--EN: abhorrent-->
+  <RV2_Predation_Abhorrent.label>厌恶</RV2_Predation_Abhorrent.label>
+  <!--EN: We are not meant to vore others.-->
+  <RV2_Predation_Disliked.description>我们不是真心的吃人其他人。</RV2_Predation_Disliked.description>
+  <!--EN: disliked-->
+  <RV2_Predation_Disliked.label>反感</RV2_Predation_Disliked.label>
+  <!--EN: Commiting an act of predation is to be praised and encouraged.-->
+  <RV2_Predation_Liked.description>进行捕食是受到表扬和鼓励的行为。</RV2_Predation_Liked.description>
+  <!--EN: Liked-->
+  <RV2_Predation_Liked.label>喜爱</RV2_Predation_Liked.label>
+  <!--EN: No one vored for {VORERELATEDINTERVAL} days-->
+  <RV2_Predation_Required.comps.3.description>没有人喜欢{VORERELATEDINTERVAL}天</RV2_Predation_Required.comps.3.description>
+  <!--EN: Only by regularly voring others can we truly honor our ideology.-->
+  <RV2_Predation_Required.description>只有定期 v众，我们才能真正尊重我们的文化。</RV2_Predation_Required.description>
+  <!--EN: required-->
+  <RV2_Predation_Required.label>必需</RV2_Predation_Required.label>
+  <!--EN: This is an insult to my ideology, what am I doing?-->
+  <RV2_PredatorInitiatedVore_Abhorrent.stages.0.description>这是对我的文化形态的侮辱，我在做什么？</RV2_PredatorInitiatedVore_Abhorrent.stages.0.description>
+  <!--EN: I vored someone-->
+  <RV2_PredatorInitiatedVore_Abhorrent.stages.0.label>我收留了某人</RV2_PredatorInitiatedVore_Abhorrent.stages.0.label>
+  <!--EN: I should not have done that, my ideology discourages it-->
+  <RV2_PredatorInitiatedVore_Disliked.stages.0.description>我不应该那样做，我的文化让我不鼓励</RV2_PredatorInitiatedVore_Disliked.stages.0.description>
+  <!--EN: I vored someone-->
+  <RV2_PredatorInitiatedVore_Disliked.stages.0.label>我收留了某人</RV2_PredatorInitiatedVore_Disliked.stages.0.label>
+  <!--EN: One of us vored someone, this is a disgusting insult to our beliefs!-->
+  <RV2_PredatorInitiatedVore_Know_Abhorrent.stages.0.description>我们中的一员憎恶了某人，这是对我们信仰的侮辱!</RV2_PredatorInitiatedVore_Know_Abhorrent.stages.0.description>
+  <!--EN: Someone was a predator!!-->
+  <RV2_PredatorInitiatedVore_Know_Abhorrent.stages.0.label>有人成为了捕食者!!</RV2_PredatorInitiatedVore_Know_Abhorrent.stages.0.label>
+  <!--EN: shunned predator-->
+  <RV2_PredatorInitiatedVore_Know_Disliked.stages.0.label>被嫌弃的肉食动物</RV2_PredatorInitiatedVore_Know_Disliked.stages.0.label>
+  <!--EN: admirable predator-->
+  <RV2_PredatorInitiatedVore_Know_Liked.stages.0.label>令人钦佩的捕食者</RV2_PredatorInitiatedVore_Know_Liked.stages.0.label>
+  <!--EN: One of our members acted as a predator, very admirable!-->
+  <RV2_PredatorInitiatedVore_Know_Required.stages.0.description>我们的一名成员扮演了捕食者的角色，令人钦佩!</RV2_PredatorInitiatedVore_Know_Required.stages.0.description>
+  <!--EN: Someone was a predator!-->
+  <RV2_PredatorInitiatedVore_Know_Required.stages.0.label>有人曾是捕食者!</RV2_PredatorInitiatedVore_Know_Required.stages.0.label>
+  <!--EN: disgusting predator-->
+  <RV2_PredatorInitiatedVore_Know_Social_Abhorrent.stages.0.label>恶心的捕食者</RV2_PredatorInitiatedVore_Know_Social_Abhorrent.stages.0.label>
+  <!--EN: divine predator-->
+  <RV2_PredatorInitiatedVore_Know_Social_Required.stages.0.label>神圣捕食者</RV2_PredatorInitiatedVore_Know_Social_Required.stages.0.label>
+  <!--EN: Partaking in this divine art fills me with joy-->
+  <RV2_PredatorInitiatedVore_Liked.stages.0.description>参与这神圣的艺术使我感到愉悦</RV2_PredatorInitiatedVore_Liked.stages.0.description>
+  <!--EN: I vored someone-->
+  <RV2_PredatorInitiatedVore_Liked.stages.0.label>我收留了某人</RV2_PredatorInitiatedVore_Liked.stages.0.label>
+  <!--EN: Regular predation allows me to honor my beliefs!-->
+  <RV2_PredatorInitiatedVore_Required.stages.0.description>定期捕食能让我重获信仰!</RV2_PredatorInitiatedVore_Required.stages.0.description>
+  <!--EN: I vored someone-->
+  <RV2_PredatorInitiatedVore_Required.stages.0.label>我收留了某人</RV2_PredatorInitiatedVore_Required.stages.0.label>
+</LanguageData>

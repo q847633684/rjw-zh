@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Precepts -->
+  <!--原中文: '无用', 原英文: '无' -> 新英文: 'useless',更新于2026-02-14-->
+  <!--EN: useless-->
+  <Virgin_UselessF.label>无用</Virgin_UselessF.label>
+  <!--原中文: '女性的第一次也就那样吧。', 原英文: '无' -> 新英文: 'Female virginity is useless.',更新于2026-02-14-->
+  <!--EN: Female virginity is useless.-->
+  <Virgin_UselessF.description>女性的第一次也就那样吧。</Virgin_UselessF.description>
+  <!--原中文: '无用', 原英文: '无' -> 新英文: 'useless',更新于2026-02-14-->
+  <!--EN: useless-->
+  <Virgin_UselessM.label>无用</Virgin_UselessM.label>
+  <!--原中文: '男性的第一次也就那样吧。', 原英文: '无' -> 新英文: 'Male virginity is useless.',更新于2026-02-14-->
+  <!--EN: Male virginity is useless.-->
+  <Virgin_UselessM.description>男性的第一次也就那样吧。</Virgin_UselessM.description>
+  <!--原中文: '珍贵', 原英文: '无' -> 新英文: 'precious',更新于2026-02-14-->
+  <!--EN: precious-->
+  <Virgin_PreciousF.label>珍贵</Virgin_PreciousF.label>
+  <!--原中文: '女性的第一次是很珍贵的。', 原英文: '无' -> 新英文: 'Female virginity is precious.',更新于2026-02-14-->
+  <!--EN: Female virginity is precious.-->
+  <Virgin_PreciousF.description>女性的第一次是很珍贵的。</Virgin_PreciousF.description>
+  <!--原中文: '珍贵', 原英文: '无' -> 新英文: 'precious',更新于2026-02-14-->
+  <!--EN: precious-->
+  <Virgin_PreciousM.label>珍贵</Virgin_PreciousM.label>
+  <!--原中文: '男性的第一次是很珍贵的。', 原英文: '无' -> 新英文: 'Male virginity is precious.',更新于2026-02-14-->
+  <!--EN: Male virginity is precious.-->
+  <Virgin_PreciousM.description>男性的第一次是很珍贵的。</Virgin_PreciousM.description>
+  <!--原中文: '珍贵（严格）', 原英文: '无' -> 新英文: 'precious(strict)',更新于2026-02-14-->
+  <!--EN: precious(strict)-->
+  <Virgin_OnlyForSpouseF.label>珍贵（严格）</Virgin_OnlyForSpouseF.label>
+  <!--原中文: '结婚前就失去第一次是邪恶的。', 原英文: '无' -> 新英文: 'Losing your virginity before marriage is evil and makes the soild female lesser.',更新于2026-02-14-->
+  <!--EN: Losing your virginity before marriage is evil and makes the soild female lesser.-->
+  <Virgin_OnlyForSpouseF.description>结婚前就失去第一次是邪恶的。</Virgin_OnlyForSpouseF.description>
+  <!--原中文: '珍贵（严格）', 原英文: '无' -> 新英文: 'precious(strict)',更新于2026-02-14-->
+  <!--EN: precious(strict)-->
+  <Virgin_OnlyForSpouseM.label>珍贵（严格）</Virgin_OnlyForSpouseM.label>
+  <!--原中文: '结婚前就失去第一次是邪恶的。', 原英文: '无' -> 新英文: 'Losing your virginity before marriage is evil and makes the soiled male lesser.',更新于2026-02-14-->
+  <!--EN: Losing your virginity before marriage is evil and makes the soiled male lesser.-->
+  <Virgin_OnlyForSpouseM.description>结婚前就失去第一次是邪恶的。</Virgin_OnlyForSpouseM.description>
+  <!--原中文: '可耻', 原英文: '无' -> 新英文: 'shameful',更新于2026-02-14-->
+  <!--EN: shameful-->
+  <Virgin_ShamefulF.label>可耻</Virgin_ShamefulF.label>
+  <!--原中文: '噗噗，你怎么还是处女呀？', 原英文: '无' -> 新英文: 'Being a Virgin is a shameful state of being, worthy of derision.',更新于2026-02-14-->
+  <!--EN: Being a Virgin is a shameful state of being, worthy of derision.-->
+  <Virgin_ShamefulF.description>噗噗，你怎么还是处女呀？</Virgin_ShamefulF.description>
+  <!--原中文: '可耻', 原英文: '无' -> 新英文: 'shameful',更新于2026-02-14-->
+  <!--EN: shameful-->
+  <Virgin_ShamefulM.label>可耻</Virgin_ShamefulM.label>
+  <!--原中文: '噗噗，你怎么还是处男呀？', 原英文: '无' -> 新英文: 'Being a Virgin is a shameful state of being, worthy of derision.',更新于2026-02-14-->
+  <!--EN: Being a Virgin is a shameful state of being, worthy of derision.-->
+  <Virgin_ShamefulM.description>噗噗，你怎么还是处男呀？</Virgin_ShamefulM.description>
+</LanguageData>

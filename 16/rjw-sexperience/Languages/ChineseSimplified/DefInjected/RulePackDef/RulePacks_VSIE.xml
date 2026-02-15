@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Teaching from Vanilla Social Interactions Expanded selects a random skill and doesn't checks if a rule pack for selected skill exists -->
+  <!--原中文: 'r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][SexTopic]了。', 原英文: '无' -> 新英文: 'r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [SexTopic].',更新于2026-02-14-->
+  <!--EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [SexTopic].-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][SexTopic]了。</VSIE_Teaching_Sex.rulePack.rulesStrings.0>
+  <!--原中文: 'r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef]讨论了[SexTopic]。', 原英文: '无' -> 新英文: 'r_logentry->[INITIATOR_nameDef] [talkedabout] [SexTopic] with [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [SexTopic] with [RECIPIENT_nameDef].-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.1>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef]讨论了[SexTopic]。</VSIE_Teaching_Sex.rulePack.rulesStrings.1>
+  <!--原中文: 'r_logentry(p=0.8)->[INITIATOR_nameDef]对[RECIPIENT_nameDef][commentedabout]了[SexTopic]。', 原英文: '无' -> 新英文: 'r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [SexTopic] to [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [SexTopic] to [RECIPIENT_nameDef].-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.2>r_logentry(p=0.8)->[INITIATOR_nameDef]对[RECIPIENT_nameDef][commentedabout]了[SexTopic]。</VSIE_Teaching_Sex.rulePack.rulesStrings.2>
+  <!--原中文: 'talkedabout(p=4)->聊了聊', 原英文: '无' -> 新英文: 'talkedabout(p=4)->chatted about',更新于2026-02-14-->
+  <!--EN: talkedabout(p=4)->chatted about-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.3>talkedabout(p=4)->聊了聊</VSIE_Teaching_Sex.rulePack.rulesStrings.3>
+  <!--原中文: 'talkedabout->谈了谈', 原英文: '无' -> 新英文: 'talkedabout->shared a word about',更新于2026-02-14-->
+  <!--EN: talkedabout->shared a word about-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.4>talkedabout->谈了谈</VSIE_Teaching_Sex.rulePack.rulesStrings.4>
+  <!--原中文: 'talkedabout->说了', 原英文: '无' -> 新英文: 'talkedabout->spoke about',更新于2026-02-14-->
+  <!--EN: talkedabout->spoke about-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.5>talkedabout->说了</VSIE_Teaching_Sex.rulePack.rulesStrings.5>
+  <!--原中文: 'talkedabout->聊了', 原英文: '无' -> 新英文: 'talkedabout->gabbed about',更新于2026-02-14-->
+  <!--EN: talkedabout->gabbed about-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.6>talkedabout->聊了</VSIE_Teaching_Sex.rulePack.rulesStrings.6>
+  <!--原中文: 'talkedabout->讨论了', 原英文: '无' -> 新英文: 'talkedabout->talked about',更新于2026-02-14-->
+  <!--EN: talkedabout->talked about-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.7>talkedabout->讨论了</VSIE_Teaching_Sex.rulePack.rulesStrings.7>
+  <!--原中文: 'talkedabout->开了个玩笑', 原英文: '无' -> 新英文: 'talkedabout->joked about',更新于2026-02-14-->
+  <!--EN: talkedabout->joked about-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.8>talkedabout->开了个玩笑</VSIE_Teaching_Sex.rulePack.rulesStrings.8>
+  <!--原中文: 'talkedabout->提到了', 原英文: '无' -> 新英文: 'talkedabout->quipped about',更新于2026-02-14-->
+  <!--EN: talkedabout->quipped about-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.9>talkedabout->提到了</VSIE_Teaching_Sex.rulePack.rulesStrings.9>
+  <!--原中文: 'commentedabout->评论了', 原英文: '无' -> 新英文: 'commentedabout->said something about',更新于2026-02-14-->
+  <!--EN: commentedabout->said something about-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.10>commentedabout->评论了</VSIE_Teaching_Sex.rulePack.rulesStrings.10>
+  <!--原中文: 'commentedabout->说了些关于', 原英文: '无' -> 新英文: 'commentedabout->said a word about',更新于2026-02-14-->
+  <!--EN: commentedabout->said a word about-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.11>commentedabout->说了些关于</VSIE_Teaching_Sex.rulePack.rulesStrings.11>
+  <!--原中文: 'commentedabout->发表了关于', 原英文: '无' -> 新英文: 'commentedabout->made a comment about',更新于2026-02-14-->
+  <!--EN: commentedabout->made a comment about-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.12>commentedabout->发表了关于</VSIE_Teaching_Sex.rulePack.rulesStrings.12>
+  <!--原中文: 'commentedabout->说了', 原英文: '无' -> 新英文: 'commentedabout->commented about',更新于2026-02-14-->
+  <!--EN: commentedabout->commented about-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.13>commentedabout->说了</VSIE_Teaching_Sex.rulePack.rulesStrings.13>
+  <!--原中文: 'commentedabout->讲了个笑话关于', 原英文: '无' -> 新英文: 'commentedabout->told a joke about',更新于2026-02-14-->
+  <!--EN: commentedabout->told a joke about-->
+  <VSIE_Teaching_Sex.rulePack.rulesStrings.14>commentedabout->讲了个笑话关于</VSIE_Teaching_Sex.rulePack.rulesStrings.14>
+</LanguageData>

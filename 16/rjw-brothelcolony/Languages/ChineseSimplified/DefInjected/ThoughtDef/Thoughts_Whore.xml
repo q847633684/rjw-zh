@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '试图邀请我', 原英文: '无' -> 新英文: 'tried to solicit me',更新于2026-02-14-->
+  <!--EN: tried to solicit me-->
+  <RJWFailedSolicitation.stages.0.label>试图邀请我</RJWFailedSolicitation.stages.0.label>
+  <!--原中文: '困扰我', 原英文: '无' -> 新英文: 'bothered me',更新于2026-02-14-->
+  <!--EN: bothered me-->
+  <RJWTurnedDownWhore.stages.0.label>困扰我</RJWTurnedDownWhore.stages.0.label>
+  <!--原中文: '睡在妓院', 原英文: '无' -> 新英文: 'slept in brothel',更新于2026-02-14-->
+  <!--EN: slept in brothel-->
+  <SleptInBrothel.stages.0.label>睡在妓院</SleptInBrothel.stages.0.label>
+  <!--原中文: '哎呀，床单都是黏糊糊的。', 原英文: '无' -> 新英文: 'Eww, the sheets were all sticky.',更新于2026-02-14-->
+  <!--EN: Eww, the sheets were all sticky.-->
+  <SleptInBrothel.stages.0.description>哎呀，床单都是黏糊糊的。</SleptInBrothel.stages.0.description>
+  <!--原中文: '睡在妓院!', 原英文: '无' -> 新英文: 'slept in brothel!',更新于2026-02-14-->
+  <!--EN: slept in brothel!-->
+  <SleptInBrothel.stages.1.label>睡在妓院!</SleptInBrothel.stages.1.label>
+  <!--原中文: '我就是喜欢这个地方，它的味道，它的声音……', 原英文: '无' -> 新英文: 'I just love this place, the smell, the sounds...',更新于2026-02-14-->
+  <!--EN: I just love this place, the smell, the sounds...-->
+  <SleptInBrothel.stages.1.description>我就是喜欢这个地方，它的味道，它的声音……</SleptInBrothel.stages.1.description>
+</LanguageData>

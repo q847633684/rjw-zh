@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'All ({0})',新增于2026-02-14-->
+  <!--EN: All ({0})-->
+  <FervorTrackerAllFervor>全部 ({0})</FervorTrackerAllFervor>
+  <!--翻译内容: 'Conversion',新增于2026-02-14-->
+  <!--EN: Conversion-->
+  <FervorTrackerConversion>转换</FervorTrackerConversion>
+  <!--翻译内容: 'Convert as much fervor as possible.',新增于2026-02-14-->
+  <!--EN: Convert as much fervor as possible.-->
+  <FervorTrackerConvertAsMuchFervor>转换尽可能多的狂热。</FervorTrackerConvertAsMuchFervor>
+  <!--翻译内容: 'Convert a {0} fervor into one development point',新增于2026-02-14-->
+  <!--EN: Convert a {0} fervor into one development point-->
+  <FervorTrackerConvertFervorIntoDevPoint>将 {0} 点狂热转换为 1 点发展点数</FervorTrackerConvertFervorIntoDevPoint>
+  <!--翻译内容: 'Converted {0} fervor into {1_numCase ? development point : development points : development points}.',新增于2026-02-14-->
+  <!--EN: Converted {0} fervor into {1_numCase ? development point : development points : development points}.-->
+  <FervorTrackerConvertedAllFervorIntoDevPoints>已将 {0} 点狂热转换为 {1} 点发展点数。</FervorTrackerConvertedAllFervorIntoDevPoints>
+  <!--翻译内容: 'Ideology not fluid',新增于2026-02-14-->
+  <!--EN: Ideology not fluid-->
+  <FervorTrackerIdeologyNotFluid>文化非流动</FervorTrackerIdeologyNotFluid>
+  <!--翻译内容: 'You need at least {0} fervor.',新增于2026-02-14-->
+  <!--EN: You need at least {0} fervor.-->
+  <FervorTrackerNeedFervor>你至少需要 {0} 点狂热。</FervorTrackerNeedFervor>
+  <!--翻译内容: 'One ({0})',新增于2026-02-14-->
+  <!--EN: One ({0})-->
+  <FervorTrackerOne>一个 ({0})</FervorTrackerOne>
+</LanguageData>

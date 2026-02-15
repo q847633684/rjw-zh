@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: 'RJW性经验', 原英文: '无' -> 新英文: 'RJW Sexperience',更新于2026-02-14-->
+  <!--EN: RJW Sexperience-->
+  <RS_Mod_Title>RJW - 性经验</RS_Mod_Title>
+  <!-- Sex status screen -->
+  <!--原中文: '总获得精液量: ', 原英文: '无' -> 新英文: 'Total gathered cum: ',更新于2026-02-14-->
+  <!--EN: Total gathered cum:-->
+  <RSTotalGatheredCum>总获得精液量: </RSTotalGatheredCum>
+  <!--原中文: '{1}夺走了{0}的第一次。', 原英文: '无' -> 新英文: '{1} took {0}'s virginity.',更新于2026-02-14-->
+  <!--EN: {1} took {0}'s virginity.-->
+  <RS_LostVirgin>{1}夺走了{0}的第一次。</RS_LostVirgin>
+  <!--原中文: '最佳做爱姿势', 原英文: '无' -> 新英文: 'Best sextype',更新于2026-02-14-->
+  <!--EN: Best sextype-->
+  <RS_Best_Sextype>最佳做爱姿势</RS_Best_Sextype>
+  <!--原中文: '最近做爱姿势', 原英文: '无' -> 新英文: 'Recent sextype',更新于2026-02-14-->
+  <!--EN: Recent sextype-->
+  <RS_Recent_Sextype>最近做爱姿势</RS_Recent_Sextype>
+  <!--原中文: '性伴侣', 原英文: '无' -> 新英文: 'Sex partners',更新于2026-02-14-->
+  <!--EN: Sex partners-->
+  <RS_Sex_Partners>性伴侣</RS_Sex_Partners>
+  <!--原中文: '吞下精液量', 原英文: '无' -> 新英文: 'Cum swallowed',更新于2026-02-14-->
+  <!--EN: Cum swallowed-->
+  <RS_Cum_Swallowed>吞下精液量</RS_Cum_Swallowed>
+  <!--原中文: '所选性伴侣信息', 原英文: '无' -> 新英文: 'Selected Partner's Info',更新于2026-02-14-->
+  <!--EN: Selected Partner's Info-->
+  <RS_Selected_Partner>所选性伴侣信息</RS_Selected_Partner>
+  <!--原中文: '{0}: {1} 次', 原英文: '无' -> 新英文: '{0}: {1} times',更新于2026-02-14-->
+  <!--EN: {0}: {1} times-->
+  <RS_Sex_Info>{0}: {1} 次</RS_Sex_Info>
+  <!--原中文: '比率: {0}', 原英文: '无' -> 新英文: 'Avg: {0}',更新于2026-02-14-->
+  <!--EN: Avg: {0}-->
+  <RS_SAT_AVG>比率: {0}</RS_SAT_AVG>
+  <!--原中文: '做爱次数: ', 原英文: '无' -> 新英文: 'Sex count: ',更新于2026-02-14-->
+  <!--EN: Sex count:-->
+  <RS_Sex_Count>做爱次数: </RS_Sex_Count>
+  <!--原中文: '高潮次数: ', 原英文: '无' -> 新英文: 'Orgasms: ',更新于2026-02-14-->
+  <!--EN: Orgasms:-->
+  <RS_Orgasms>高潮次数: </RS_Orgasms>
+  <!--原中文: '最近做爱对象', 原英文: '无' -> 新英文: 'Recent Sex Partner',更新于2026-02-14-->
+  <!--EN: Recent Sex Partner-->
+  <RS_Recent_Sex_Partner>最近做爱对象</RS_Recent_Sex_Partner>
+  <!--原中文: '最近做爱对象.', 原英文: '无' -> 新英文: 'A recent sex partner.',更新于2026-02-14-->
+  <!--EN: A recent sex partner.-->
+  <RS_Recent_Sex_Partner_ToolTip>最近做爱对象.</RS_Recent_Sex_Partner_ToolTip>
+  <!--原中文: '第一次做爱对象', 原英文: '无' -> 新英文: 'First Sex Partner',更新于2026-02-14-->
+  <!--EN: First Sex Partner-->
+  <RS_First_Sex_Partner>第一次做爱对象</RS_First_Sex_Partner>
+  <!--原中文: '第一次做爱的对象.', 原英文: '无' -> 新英文: 'The first sex partner.',更新于2026-02-14-->
+  <!--EN: The first sex partner.-->
+  <RS_First_Sex_Partner_ToolTip>第一次做爱的对象.</RS_First_Sex_Partner_ToolTip>
+  <!--原中文: '最多次做爱对象', 原英文: '无' -> 新英文: 'Most Sex Partner',更新于2026-02-14-->
+  <!--EN: Most Sex Partner-->
+  <RS_Most_Sex_Partner>最多次做爱对象</RS_Most_Sex_Partner>
+  <!--原中文: '做了最多次的对象.', 原英文: '无' -> 新英文: 'The most sex partner.',更新于2026-02-14-->
+  <!--EN: The most sex partner.-->
+  <RS_Most_Sex_Partner_ToolTip>做了最多次的对象.</RS_Most_Sex_Partner_ToolTip>
+  <!--原中文: '最舒适的做爱对象', 原英文: '无' -> 新英文: 'Best Sex Partner',更新于2026-02-14-->
+  <!--EN: Best Sex Partner-->
+  <RS_Best_Sex_Partner>最舒适的做爱对象</RS_Best_Sex_Partner>
+  <!--原中文: '做爱时最舒服的对象.', 原英文: '无' -> 新英文: 'The partner who had most satisfying sex.',更新于2026-02-14-->
+  <!--EN: The partner who had most satisfying sex.-->
+  <RS_Best_Sex_Partner_ToolTip>做爱时最舒服的对象.</RS_Best_Sex_Partner_ToolTip>
+  <!--原中文: '夺走初夜数', 原英文: '无' -> 新英文: 'Taken virgins',更新于2026-02-14-->
+  <!--EN: Taken virgins-->
+  <RS_VirginsTaken>夺走初夜数</RS_VirginsTaken>
+  <!--原中文: '总做爱次数', 原英文: '无' -> 新英文: 'Total sex had',更新于2026-02-14-->
+  <!--EN: Total sex had-->
+  <RS_TotalSexHad>总做爱次数</RS_TotalSexHad>
+  <!--原中文: '做爱次数。', 原英文: '无' -> 新英文: 'Total number of sex.',更新于2026-02-14-->
+  <!--EN: Total number of sex.-->
+  <RS_TotalSexHad_ToolTip>做爱次数。</RS_TotalSexHad_ToolTip>
+  <!--原中文: '被强奸: ', 原英文: '无' -> 新英文: 'Raped: ',更新于2026-02-14-->
+  <!--EN: Raped:-->
+  <RS_Raped>被强奸: </RS_Raped>
+  <!--原中文: '强奸了我: ', 原英文: '无' -> 新英文: 'Raped me: ',更新于2026-02-14-->
+  <!--EN: Raped me:-->
+  <RS_RapedMe>强奸了我: </RS_RapedMe>
+  <!--原中文: '性爱历史', 原英文: '无' -> 新英文: 'Sex History',更新于2026-02-14-->
+  <!--EN: Sex History-->
+  <RS_Sex_History>性爱历史</RS_Sex_History>
+  <!--原中文: '做爱统计', 原英文: '无' -> 新英文: 'Sex Statistics',更新于2026-02-14-->
+  <!--EN: Sex Statistics-->
+  <RS_Statistics>做爱统计</RS_Statistics>
+  <!--原中文: '性伴侣列表', 原英文: '无' -> 新英文: 'Partner List',更新于2026-02-14-->
+  <!--EN: Partner List-->
+  <RS_PartnerList>性伴侣列表</RS_PartnerList>
+  <!--原中文: '性欲', 原英文: '无' -> 新英文: 'Sexuality',更新于2026-02-14-->
+  <!--EN: Sexuality-->
+  <RS_Sexuality>性欲</RS_Sexuality>
+  <!--原中文: '被谁强奸', 原英文: '无' -> 新英文: 'Had been raped',更新于2026-02-14-->
+  <!--EN: Had been raped-->
+  <RS_BeenRaped>被谁强奸</RS_BeenRaped>
+  <!--原中文: '强奸了谁', 原英文: '无' -> 新英文: 'Raped someone',更新于2026-02-14-->
+  <!--EN: Raped someone-->
+  <RS_RapedSomeone>强奸了谁</RS_RapedSomeone>
+  <!--原中文: '钟爱种族', 原英文: '无' -> 新英文: 'Prefer Race',更新于2026-02-14-->
+  <!--EN: Prefer Race-->
+  <RS_PreferRace>钟爱种族</RS_PreferRace>
+  <!--原中文: '兽交', 原英文: '无' -> 新英文: 'Bestiality',更新于2026-02-14-->
+  <!--EN: Bestiality-->
+  <RS_Bestiality>兽交</RS_Bestiality>
+  <!--原中文: '异种', 原英文: '无' -> 新英文: 'Interspecies',更新于2026-02-14-->
+  <!--EN: Interspecies-->
+  <RS_Interspecies>异种</RS_Interspecies>
+  <!--原中文: '正常', 原英文: '无' -> 新英文: 'Normal',更新于2026-02-14-->
+  <!--EN: Normal-->
+  <RS_Normal>正常</RS_Normal>
+  <!--原中文: '恋尸癖', 原英文: '无' -> 新英文: 'Necrophile',更新于2026-02-14-->
+  <!--EN: Necrophile-->
+  <RS_Necrophile>恋尸癖</RS_Necrophile>
+  <!--原中文: '性技', 原英文: '无' -> 新英文: 'Sex skill',更新于2026-02-14-->
+  <!--EN: Sex skill-->
+  <RS_SexSkill>性技</RS_SexSkill>
+  <!--原中文: '次', 原英文: '无' -> 新英文: 'times',更新于2026-02-14-->
+  <!--EN: times-->
+  <RS_NumofTimes>次</RS_NumofTimes>
+  <!--原中文: '以前', 原英文: '无' -> 新英文: 'ago',更新于2026-02-14-->
+  <!--EN: ago-->
+  <RS_Ago>以前</RS_Ago>
+  <!--原中文: '上次做爱', 原英文: '无' -> 新英文: 'last sex',更新于2026-02-14-->
+  <!--EN: last sex-->
+  <RS_LastSex>上次做爱</RS_LastSex>
+  <!--原中文: '最爱性伴侣 {0}.', 原英文: '无' -> 新英文: 'Had best sex {0}.',更新于2026-02-14-->
+  <!--EN: Had best sex {0}.-->
+  <RS_HadBestSexDaysAgo>最爱性伴侣 {0}.</RS_HadBestSexDaysAgo>
+  <!--原中文: '锁定显示的小人。\n\n非锁定状态下,窗口显示内容将会自动切换到选择的小人。', 原英文: '无' -> 新英文: 'Lock displayed pawn.\n\nWhen unlocked, window will automatically switch to a currently selected pawn.',更新于2026-02-14-->
+  <!--EN: Lock displayed pawn.\n\nWhen unlocked, window will automatically switch to a currently selected pawn.-->
+  <RS_PawnLockDesc>锁定显示的小人。\n\n非锁定状态下,窗口显示内容将会自动切换到选择的小人。</RS_PawnLockDesc>
+  <!-- Settings tab labels -->
+  <!--原中文: '主要', 原英文: '无' -> 新英文: 'Main',更新于2026-02-14-->
+  <!--EN: Main-->
+  <RSTabLabelMain>主要</RSTabLabelMain>
+  <!--原中文: '做爱记录', 原英文: '无' -> 新英文: 'Sex records',更新于2026-02-14-->
+  <!--EN: Sex records-->
+  <RSTabLabelHistory>做爱记录</RSTabLabelHistory>
+  <!--原中文: '调试', 原英文: '无' -> 新英文: 'Debug',更新于2026-02-14-->
+  <!--EN: Debug-->
+  <RSTabLabelDebug>调试</RSTabLabelDebug>
+  <!-- Mod settings: Main -->
+  <!--原中文: '色欲值的影响', 原英文: '无' -> 新英文: 'Lust effect power',更新于2026-02-14-->
+  <!--EN: Lust effect power-->
+  <RSOption_2_Label>色欲值的影响</RSOption_2_Label>
+  <!--原中文: '设置色欲值对性冲动的影响。', 原英文: '无' -> 新英文: 'Set how much lust affect to sex drive.',更新于2026-02-14-->
+  <!--EN: Set how much lust affect to sex drive.-->
+  <RSOption_2_Desc>设置色欲值对性冲动的影响。</RSOption_2_Desc>
+  <!--原中文: '限制欲望', 原英文: '无' -> 新英文: 'Lust Limit',更新于2026-02-14-->
+  <!--EN: Lust Limit-->
+  <RSOption_8_Label>限制欲望</RSOption_8_Label>
+  <!--原中文: '设置欲望的限制。\n如果欲望的绝对值接近或大于这个值，欲望将不太可能改变。', 原英文: '无' -> 新英文: 'Set limitation of lust.\nIf absolute value of lust close to or larger than this value, lust will be less likely to change.',更新于2026-02-14-->
+  <!--EN: Set limitation of lust.\nIf absolute value of lust close to or larger than this value, lust will be less likely to change.-->
+  <RSOption_8_Desc>设置欲望的限制。\n如果欲望的绝对值接近或大于这个值，欲望将不太可能改变。</RSOption_8_Desc>
+  <!--原中文: '每种做爱的最大性欲变化值', 原英文: '无' -> 新英文: 'Maximum lust change per sex',更新于2026-02-14-->
+  <!--EN: Maximum lust change per sex-->
+  <RSOption_MaxSingleLustChange_Label>每种做爱的最大性欲变化值</RSOption_MaxSingleLustChange_Label>
+  <!--原中文: '设置一次性行为可以改变多少性欲', 原英文: '无' -> 新英文: 'Set how much lust can change from a single sex act',更新于2026-02-14-->
+  <!--EN: Set how much lust can change from a single sex act-->
+  <RSOption_MaxSingleLustChange_Desc>设置一次性行为可以改变多少性欲</RSOption_MaxSingleLustChange_Desc>
+  <!--原中文: '精液能装桶', 原英文: '无' -> 新英文: 'Sex can fill buckets',更新于2026-02-14-->
+  <!--EN: Sex can fill buckets-->
+  <RSOption_SexCanFillBuckets_Label>精液能装桶</RSOption_SexCanFillBuckets_Label>
+  <!--原中文: '如果在精液桶附近进行了乳交、足交、打手枪将填满它', 原英文: '无' -> 新英文: 'If enabled boobjobs, footjobs and handjobs that happens near cum bucket will fill it',更新于2026-02-14-->
+  <!--EN: If enabled boobjobs, footjobs and handjobs that happens near cum bucket will fill it-->
+  <RSOption_SexCanFillBuckets_Desc>如果在精液桶附近进行了乳交、足交、打手枪将填满它</RSOption_SexCanFillBuckets_Desc>
+  <!-- Mod settings: Sex records -->
+  <!--原中文: '开启随机性记录', 原英文: '无' -> 新英文: 'Enable record randomizer',更新于2026-02-14-->
+  <!--EN: Enable record randomizer-->
+  <RSOption_1_Label>开启随机性记录</RSOption_1_Label>
+  <!--原中文: '随机化小人的性记录。', 原英文: '无' -> 新英文: 'Randomize pawn's sex records.',更新于2026-02-14-->
+  <!--EN: Randomize pawn's sex records.-->
+  <RSOption_1_Desc>随机化小人的性记录。</RSOption_1_Desc>
+  <!--原中文: '最大色欲值偏差', 原英文: '无' -> 新英文: 'Maximum lust deviation',更新于2026-02-14-->
+  <!--EN: Maximum lust deviation-->
+  <RSOption_3_Label>最大色欲值偏差</RSOption_3_Label>
+  <!--原中文: '设置色欲的最大偏差。
+根据平均值的不同，色欲值可能为负。', 原英文: '无' -> 新英文: 'Set maximum deviation of lust.
+The lust value can be negative depending on its average.',更新于2026-02-14-->
+  <!--EN: Set maximum deviation of lust.
+The lust value can be negative depending on its average.-->
+  <RSOption_3_Desc>设置色欲的最大偏差。
+根据平均值的不同，色欲值可能为负。</RSOption_3_Desc>
+  <!--原中文: '平均色欲值', 原英文: '无' -> 新英文: 'Average Lust',更新于2026-02-14-->
+  <!--EN: Average Lust-->
+  <RSOption_4_Label>平均色欲值</RSOption_4_Label>
+  <!--原中文: '设置色欲值的均值。', 原英文: '无' -> 新英文: 'Set average of lust.',更新于2026-02-14-->
+  <!--EN: Set average of lust.-->
+  <RSOption_4_Desc>设置色欲值的均值。</RSOption_4_Desc>
+  <!--原中文: '最大性交次数偏差', 原英文: '无' -> 新英文: 'Maximum sex count deviation',更新于2026-02-14-->
+  <!--EN: Maximum sex count deviation-->
+  <RSOption_5_Label>最大性交次数偏差</RSOption_5_Label>
+  <!--原中文: '设置性交次数的最大偏差。', 原英文: '无' -> 新英文: 'Set maximum deviation of sex count.',更新于2026-02-14-->
+  <!--EN: Set maximum deviation of sex count.-->
+  <RSOption_5_Desc>设置性交次数的最大偏差。</RSOption_5_Desc>
+  <!--原中文: '平均每年性交次数', 原英文: '无' -> 新英文: 'Average sex count per year',更新于2026-02-14-->
+  <!--EN: Average sex count per year-->
+  <RSOption_6_Label>平均每年性交次数</RSOption_6_Label>
+  <!--原中文: '设置平均每年的性交次数', 原英文: '无' -> 新英文: 'Set average sex count.',更新于2026-02-14-->
+  <!--EN: Set average sex count.-->
+  <RSOption_6_Desc>设置平均每年的性交次数</RSOption_6_Desc>
+  <!--原中文: '允许奴隶被强奸获得性经验', 原英文: '无' -> 新英文: 'Enable slaves get raped experience',更新于2026-02-14-->
+  <!--EN: Enable slaves get raped experience-->
+  <RSOption_7_Label>允许奴隶被强奸获得性经验</RSOption_7_Label>
+  <!--原中文: '奴隶被强奸获得性经验', 原英文: '无' -> 新英文: 'Slaves will have experience of being raped',更新于2026-02-14-->
+  <!--EN: Slaves will have experience of being raped-->
+  <RSOption_7_Desc>奴隶被强奸获得性经验</RSOption_7_Desc>
+  <!--原中文: '最小可做爱年龄', 原英文: '无' -> 新英文: 'Minimum age can have sex',更新于2026-02-14-->
+  <!--EN: Minimum age can have sex-->
+  <RSOption_9_Label>最小可做爱年龄</RSOption_9_Label>
+  <!--原中文: '设置最小的可以做爱的年龄。
+此值与RJW的最低性年龄无关。仅用于生成记录。', 原英文: '无' -> 新英文: 'Set minimum sexable age.
+This value is not related to RJW's minimum sex age. Only used for generating records.',更新于2026-02-14-->
+  <!--EN: Set minimum sexable age.
+This value is not related to RJW's minimum sex age. Only used for generating records.-->
+  <RSOption_9_Desc>设置最小的可以做爱的年龄。
+此值与RJW的最低性年龄无关。仅用于生成记录。</RSOption_9_Desc>
+  <!--原中文: '童贞比例', 原英文: '无' -> 新英文: 'Virgin ratio',更新于2026-02-14-->
+  <!--EN: Virgin ratio-->
+  <RSOption_10_Label>童贞比例</RSOption_10_Label>
+  <!--原中文: '不分年龄设置处女概率。', 原英文: '无' -> 新英文: 'Set probability of virgin regardless of age.',更新于2026-02-14-->
+  <!--EN: Set probability of virgin regardless of age.-->
+  <RSOption_10_Desc>不分年龄设置处女概率。</RSOption_10_Desc>
+  <!--原中文: '最小可做爱年龄阶段', 原英文: '无' -> 新英文: 'Minimum sexable age from life stages',更新于2026-02-14-->
+  <!--EN: Minimum sexable age from life stages-->
+  <RSOption_MinSexableFromLifestage_Label>最小可做爱年龄阶段</RSOption_MinSexableFromLifestage_Label>
+  <!--原中文: '仅用于生成记录. 在生命第一阶段即可生成做爱记录. 更适合长寿种族', 原英文: '无' -> 新英文: 'Only used for generating records. Get minimum sexable age from the first reproductive life stage. Works better for the races with a long lifespan',更新于2026-02-14-->
+  <!--EN: Only used for generating records. Get minimum sexable age from the first reproductive life stage. Works better for the races with a long lifespan-->
+  <RSOption_MinSexableFromLifestage_Desc>仅用于生成记录. 在生命第一阶段即可生成做爱记录. 更适合长寿种族</RSOption_MinSexableFromLifestage_Desc>
+  <!--原中文: '启用野种', 原英文: '无' -> 新英文: 'Enable Bastard relation',更新于2026-02-14-->
+  <!--EN: Enable Bastard relation-->
+  <RSOption_EnableBastardRelation_Label>启用野种</RSOption_EnableBastardRelation_Label>
+  <!--原中文: '单亲或亲生父母非婚姻关系（或还未结婚）的小孩将被视作野种', 原英文: '无' -> 新英文: 'Child is marked as a bastard if they have only one parent or their parents are not (or was not) married',更新于2026-02-14-->
+  <!--EN: Child is marked as a bastard if they have only one parent or their parents are not (or was not) married-->
+  <RSOption_EnableBastardRelation_Desc>单亲或亲生父母非婚姻关系（或还未结婚）的小孩将被视作野种</RSOption_EnableBastardRelation_Desc>
+  <!--原中文: '[警告]启用做爱历史*', 原英文: '无' -> 新英文: '[Caution] Enable Sex History*',更新于2026-02-14-->
+  <!--EN: [Caution] Enable Sex History*-->
+  <RSOption_EnableSexHistory_Label>[警告]启用做爱历史*</RSOption_EnableSexHistory_Label>
+  <!--原中文: '*重启游戏生效\n\n启用性爱历史窗口, 收集性爱信息，并保存/加载这些信息。还可在性爱历史中计算性伴侣人数。\n\n[警告]禁用此项将导致之前已保存的记录也会丢失。', 原英文: '无' -> 新英文: '* Needs a game restart\n\nEnables Sex History window, information collection for the said window and save/load of this information. Also enables sex partners count in the pawn's records.\n\n[Caution] Disabling this mid save will result in the loss of previously collected histories.',更新于2026-02-14-->
+  <!--EN: * Needs a game restart\n\nEnables Sex History window, information collection for the said window and save/load of this information. Also enables sex partners count in the pawn's records.\n\n[Caution] Disabling this mid save will result in the loss of previously collected histories.-->
+  <RSOption_EnableSexHistory_Desc>*重启游戏生效\n\n启用性爱历史窗口, 收集性爱信息，并保存/加载这些信息。还可在性爱历史中计算性伴侣人数。\n\n[警告]禁用此项将导致之前已保存的记录也会丢失。</RSOption_EnableSexHistory_Desc>
+  <!--原中文: '征召时隐藏性历史菜单', 原英文: '无' -> 新英文: 'Hide Sex History button when drafted',更新于2026-02-14-->
+  <!--EN: Hide Sex History button when drafted-->
+  <RSOption_HideGizmoWhenDrafted_Label>征召时隐藏性历史菜单</RSOption_HideGizmoWhenDrafted_Label>
+  <!--原中文: '隐藏当前所选的小人的性历史功能', 原英文: '无' -> 新英文: 'Hides Sex History Gizmo for currently drafted pawns',更新于2026-02-14-->
+  <!--EN: Hides Sex History Gizmo for currently drafted pawns-->
+  <RSOption_HideGizmoWhenDrafted_Desc>隐藏当前所选的小人的性历史功能</RSOption_HideGizmoWhenDrafted_Desc>
+  <!--原中文: '通过肛交失去处男（适用于男性/男性性行为）', 原英文: '无' -> 新英文: 'Remove virginity with anal sex (for male/male sex)',更新于2026-02-14-->
+  <!--EN: Remove virginity with anal sex (for male/male sex)-->
+  <RSOption_VirginityCheck_M2M_Label>通过肛交失去处男（适用于男性/男性性行为）</RSOption_VirginityCheck_M2M_Label>
+  <!--原中文: '通过肛交失去处男（适用于男性/男性性行为）', 原英文: '无' -> 新英文: 'Remove virginity with anal sex (for male/male sex)',更新于2026-02-14-->
+  <!--EN: Remove virginity with anal sex (for male/male sex)-->
+  <RSOption_VirginityCheck_M2M_Desc>通过肛交失去处男（适用于男性/男性性行为）</RSOption_VirginityCheck_M2M_Desc>
+  <!--原中文: '通过磨豆腐失去处女（适用于女性/女性性行为）', 原英文: '无' -> 新英文: 'Remove virginity with scissoring sex (for female/female sex)',更新于2026-02-14-->
+  <!--EN: Remove virginity with scissoring sex (for female/female sex)-->
+  <RSOption_VirginityCheck_F2F_Label>通过磨豆腐失去处女（适用于女性/女性性行为）</RSOption_VirginityCheck_F2F_Label>
+  <!--原中文: '通过磨豆腐失去处女（适用于女性/女性性行为）', 原英文: '无' -> 新英文: 'Remove virginity with scissoring sex (for female/female sex)',更新于2026-02-14-->
+  <!--EN: Remove virginity with scissoring sex (for female/female sex)-->
+  <RSOption_VirginityCheck_F2F_Desc>通过磨豆腐失去处女（适用于女性/女性性行为）</RSOption_VirginityCheck_F2F_Desc>
+  <!-- Mod settings: Debug -->
+  <!--原中文: '调试', 原英文: '无' -> 新英文: 'Other debug logs',更新于2026-02-14-->
+  <!--EN: Other debug logs-->
+  <RSOption_Debug_Label>调试</RSOption_Debug_Label>
+  <!--原中文: '启用调试日志', 原英文: '无' -> 新英文: 'Enable debug logs that do not have their own option',更新于2026-02-14-->
+  <!--EN: Enable debug logs that do not have their own option-->
+  <RSOption_Debug_Desc>启用调试日志</RSOption_Debug_Desc>
+  <!--原中文: '重置为默认', 原英文: '无' -> 新英文: 'Reset to default',更新于2026-02-14-->
+  <!--EN: Reset to default-->
+  <Button_ResetToDefault>重置为默认</Button_ResetToDefault>
+  <!-- Sex types -->
+  <!--原中文: '阴道性交', 原英文: '无' -> 新英文: 'Vaginal',更新于2026-02-14-->
+  <!--EN: Vaginal-->
+  <Vaginal>阴道性交</Vaginal>
+  <!--原中文: '肛交', 原英文: '无' -> 新英文: 'Anal',更新于2026-02-14-->
+  <!--EN: Anal-->
+  <Anal>肛交</Anal>
+  <!--原中文: '吞精', 原英文: '无' -> 新英文: 'Oral',更新于2026-02-14-->
+  <!--EN: Oral-->
+  <Oral>吞精</Oral>
+  <!--原中文: '自慰', 原英文: '无' -> 新英文: 'Masturbation',更新于2026-02-14-->
+  <!--EN: Masturbation-->
+  <Masturbation>自慰</Masturbation>
+  <!--原中文: '双重插入', 原英文: '无' -> 新英文: 'Double penetration',更新于2026-02-14-->
+  <!--EN: Double penetration-->
+  <DoublePenetration>双重插入</DoublePenetration>
+  <!--原中文: '乳交', 原英文: '无' -> 新英文: 'Boobjob',更新于2026-02-14-->
+  <!--EN: Boobjob-->
+  <Boobjob>乳交</Boobjob>
+  <!--原中文: '手交', 原英文: '无' -> 新英文: 'Handjob',更新于2026-02-14-->
+  <!--EN: Handjob-->
+  <Handjob>手交</Handjob>
+  <!--原中文: '足交', 原英文: '无' -> 新英文: 'Footjob',更新于2026-02-14-->
+  <!--EN: Footjob-->
+  <Footjob>足交</Footjob>
+  <!--原中文: '指交', 原英文: '无' -> 新英文: 'Fingering',更新于2026-02-14-->
+  <!--EN: Fingering-->
+  <Fingering>指交</Fingering>
+  <!--原中文: '磨豆腐', 原英文: '无' -> 新英文: 'Scissoring',更新于2026-02-14-->
+  <!--EN: Scissoring-->
+  <Scissoring>磨豆腐</Scissoring>
+  <!--原中文: '相互自慰', 原英文: '无' -> 新英文: 'Mutual masturbation',更新于2026-02-14-->
+  <!--EN: Mutual masturbation-->
+  <MutualMasturbation>相互自慰</MutualMasturbation>
+  <!--原中文: '拳交', 原英文: '无' -> 新英文: 'Fisting',更新于2026-02-14-->
+  <!--EN: Fisting-->
+  <Fisting>拳交</Fisting>
+  <!--原中文: '机械', 原英文: '无' -> 新英文: 'Mech implant',更新于2026-02-14-->
+  <!--EN: Mech implant-->
+  <MechImplant>机械</MechImplant>
+  <!--原中文: '舔肛', 原英文: '无' -> 新英文: 'Rimming',更新于2026-02-14-->
+  <!--EN: Rimming-->
+  <Rimming>舔肛</Rimming>
+  <!--原中文: '口交', 原英文: '无' -> 新英文: 'Fellatio',更新于2026-02-14-->
+  <!--EN: Fellatio-->
+  <Fellatio>口交</Fellatio>
+  <!--原中文: '舔阴', 原英文: '无' -> 新英文: 'Cunnilingus',更新于2026-02-14-->
+  <!--EN: Cunnilingus-->
+  <Cunnilingus>舔阴</Cunnilingus>
+  <!--原中文: '69式', 原英文: '无' -> 新英文: 'Sixtynine',更新于2026-02-14-->
+  <!--EN: Sixtynine-->
+  <Sixtynine>69式</Sixtynine>
+  <!-- Sexuality -->
+  <!--原中文: '无', 原英文: '无' -> 新英文: 'None',更新于2026-02-14-->
+  <!--EN: None-->
+  <None>无</None>
+  <!--原中文: '无性恋', 原英文: '无' -> 新英文: 'Asexual',更新于2026-02-14-->
+  <!--EN: Asexual-->
+  <Asexual>无性恋</Asexual>
+  <!--原中文: '泛性恋', 原英文: '无' -> 新英文: 'Pansexual',更新于2026-02-14-->
+  <!--EN: Pansexual-->
+  <Pansexual>泛性恋</Pansexual>
+  <!--原中文: '异性恋', 原英文: '无' -> 新英文: 'Hetero',更新于2026-02-14-->
+  <!--EN: Hetero-->
+  <Heterosexual>异性恋</Heterosexual>
+  <!--原中文: '主要是异性恋', 原英文: '无' -> 新英文: 'Mostly hetero',更新于2026-02-14-->
+  <!--EN: Mostly hetero-->
+  <MostlyHeterosexual>主要是异性恋</MostlyHeterosexual>
+  <!--原中文: '双性恋，倾向异性恋', 原英文: '无' -> 新英文: 'Bisexual, leaning hetero',更新于2026-02-14-->
+  <!--EN: Bisexual, leaning hetero-->
+  <LeaningHeterosexual>双性恋，倾向异性恋</LeaningHeterosexual>
+  <!--原中文: '双性恋', 原英文: '无' -> 新英文: 'Bisexual',更新于2026-02-14-->
+  <!--EN: Bisexual-->
+  <Bisexual>双性恋</Bisexual>
+  <!--原中文: '双性恋，倾向同性恋', 原英文: '无' -> 新英文: 'Bisexual, leaning gay',更新于2026-02-14-->
+  <!--EN: Bisexual, leaning gay-->
+  <LeaningHomosexual>双性恋，倾向同性恋</LeaningHomosexual>
+  <!--原中文: '主要是同性恋', 原英文: '无' -> 新英文: 'Mostly gay',更新于2026-02-14-->
+  <!--EN: Mostly gay-->
+  <MostlyHomosexual>主要是同性恋</MostlyHomosexual>
+  <!--原中文: '同性恋', 原英文: '无' -> 新英文: 'Gay',更新于2026-02-14-->
+  <!--EN: Gay-->
+  <Homosexual>同性恋</Homosexual>
+  <!-- Misc -->
+  <!--原中文: '性欲', 原英文: '无' -> 新英文: 'lust',更新于2026-02-14-->
+  <!--EN: lust-->
+  <Lust>性欲</Lust>
+  <!--原中文: '未知', 原英文: '无' -> 新英文: 'unknown',更新于2026-02-14-->
+  <!--EN: unknown-->
+  <Unknown>未知</Unknown>
+  <!--原中文: '乱伦', 原英文: '无' -> 新英文: 'incest',更新于2026-02-14-->
+  <!--EN: incest-->
+  <Incest>乱伦</Incest>
+  <!-- Order mode -->
+  <!--原中文: '无序', 原英文: '无' -> 新英文: 'Unordered',更新于2026-02-14-->
+  <!--EN: Unordered-->
+  <RS_PONormal>无序</RS_PONormal>
+  <!--原中文: '时间', 原英文: '无' -> 新英文: 'Recent',更新于2026-02-14-->
+  <!--EN: Recent-->
+  <RS_PoRecent>时间</RS_PoRecent>
+  <!--原中文: '次数', 原英文: '无' -> 新英文: 'Most',更新于2026-02-14-->
+  <!--EN: Most-->
+  <RS_PoMost>次数</RS_PoMost>
+  <!--原中文: '名字', 原英文: '无' -> 新英文: 'Name',更新于2026-02-14-->
+  <!--EN: Name-->
+  <RS_PoName>名字</RS_PoName>
+  <!--翻译内容: 'On game startup, dump all defs that were injected with a SexHistoryComp',新增于2026-02-14-->
+  <!--EN: On game startup, dump all defs that were injected with a SexHistoryComp-->
+  <RSOption_LogInjection_Desc>游戏启动时，转储所有注入 SexHistoryComp 的 def</RSOption_LogInjection_Desc>
+  <!--翻译内容: 'Log sex history comp injection',新增于2026-02-14-->
+  <!--EN: Log sex history comp injection-->
+  <RSOption_LogInjection_Label>记录性爱历史复合注射</RSOption_LogInjection_Label>
+  <!--翻译内容: 'Colors',新增于2026-02-14-->
+  <!--EN: Colors-->
+  <RSTabLabelColors>颜色</RSTabLabelColors>
+  <!--翻译内容: 'Select colour for {0}',新增于2026-02-14-->
+  <!--EN: Select colour for {0}-->
+  <RsDialog_ChooseColor_Title>选择 {0} 的颜色</RsDialog_ChooseColor_Title>
+</LanguageData>

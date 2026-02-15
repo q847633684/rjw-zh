@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks determine how convincing a pawn is at proposing a vore attempt.-->
+  <Persuasiveness.description>这些怪癖决定了说服pawn正在提议一个吃人尝试中。</Persuasiveness.description>
+  <!--EN: Persuasiveness-->
+  <Persuasiveness.label>信仰</Persuasiveness.label>
+  <!--EN: [PAWN_label] can't think of any good arguments for why you should do vore with [PAWN_objective]. Targets are less likely to agree to [PAWN_possessive] proposals.-->
+  <Persuasiveness_Bad.description>[PAWN_label]想不出什么好的理由来证明你为什么应该这样做吃人伴[PAWN_objective]目标不太可能同意[PAWN_possessive]提议。</Persuasiveness_Bad.description>
+  <!--EN: Unvoresuasive-->
+  <Persuasiveness_Bad.label>无迷雾</Persuasiveness_Bad.label>
+  <!--EN: [PAWN_label] has a silver tongue with the subject of vore. Targets are more likely to agree to [PAWN_possessive] proposals.-->
+  <Persuasiveness_Good.description>[PAWN_label]拥有银舌与吃人目标更可能同意[PAWN_possessive]提议。</Persuasiveness_Good.description>
+  <!--EN: Voresuasive-->
+  <Persuasiveness_Good.label>迷雾</Persuasiveness_Good.label>
+  <!--EN: [PAWN_label] is not particularly persuasive or unpersuasive about vore.-->
+  <Persuasiveness_Normal.description>[PAWN_label]不是特别有说服力或没有说服力吃人</Persuasiveness_Normal.description>
+  <!--EN: Neutral charm-->
+  <Persuasiveness_Normal.label>中立魅力</Persuasiveness_Normal.label>
+  <!--EN: [PAWN_label] could convince a rampaging predator not to eat [PAWN_objective]... so long as [PAWN_pronoun] was actively trying to get eaten. Targets are much less likely to agree to [PAWN_possessive] proposals.-->
+  <Persuasiveness_VeryBad.description>[PAWN_label]能说服一个狂暴的捕食者不吃[PAWN_objective]...只要[PAWN_pronoun]试图主动被吃掉。目标不太可能同意[PAWN_possessive]提议。</Persuasiveness_VeryBad.description>
+  <!--EN: Staggeringly unvoresuasive-->
+  <Persuasiveness_VeryBad.label>惊人的不晕过去</Persuasiveness_VeryBad.label>
+  <!--EN: Forget a silver tongue; [PAWN_label] has a whole maw-full of gold and honey. Targets are much more likely to agree to [PAWN_possessive] proposals.-->
+  <Persuasiveness_VeryGood.description>忘记一个银舌;[PAWN_label]长满了黄金和蜂蜜。目标更有可能同意[PAWN_possessive]提议。</Persuasiveness_VeryGood.description>
+  <!--EN: Beguilingly voresuasive-->
+  <Persuasiveness_VeryGood.label>沉浸在脑海中</Persuasiveness_VeryGood.label>
+</LanguageData>

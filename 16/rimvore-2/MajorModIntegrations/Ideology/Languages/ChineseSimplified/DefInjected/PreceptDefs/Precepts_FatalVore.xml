@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Fatal Vore-->
+  <RV2_FatalVore.label>致命吃人</RV2_FatalVore.label>
+  <!--EN: Anyone willing to kill during vore deserves our hate.-->
+  <RV2_FatalVore_Abhorrent.description>期间内有愿意杀人的殖民者吃人罪有应得。</RV2_FatalVore_Abhorrent.description>
+  <!--EN: abhorrent-->
+  <RV2_FatalVore_Abhorrent.label>厌恶</RV2_FatalVore_Abhorrent.label>
+  <!--EN: I killed someone during vore when it is against my ideology. I feel horrible.-->
+  <RV2_FatalVore_Abhorrent.stages.0.description>我在吃人当这违背了我的文化形态时。我感觉很糟糕。</RV2_FatalVore_Abhorrent.stages.0.description>
+  <!--EN: Fatally vored someone-->
+  <RV2_FatalVore_Abhorrent.stages.0.label>折磨死了某人</RV2_FatalVore_Abhorrent.stages.0.label>
+  <!--EN: Murdering innocent prey is not okay.-->
+  <RV2_FatalVore_Disliked.description>谋杀无辜猎物是不好的。</RV2_FatalVore_Disliked.description>
+  <!--EN: disliked-->
+  <RV2_FatalVore_Disliked.label>反感</RV2_FatalVore_Disliked.label>
+  <!--EN: I should not have done that, my ideology discourages it-->
+  <RV2_FatalVore_Disliked.stages.0.description>我不应该那样做，我的文化让我不鼓励</RV2_FatalVore_Disliked.stages.0.description>
+  <!--EN: I participated in fatal vore-->
+  <RV2_FatalVore_Disliked.stages.0.label>我参与致死吃人</RV2_FatalVore_Disliked.stages.0.label>
+  <!--EN: One of us fatally vored someone, this is a disgusting insult to our beliefs!-->
+  <RV2_FatalVore_Know_Abhorrent.stages.0.description>我们中的一员死了一个人，这是对我们信仰的侮辱!</RV2_FatalVore_Know_Abhorrent.stages.0.description>
+  <!--EN: Someone fatally vored!!-->
+  <RV2_FatalVore_Know_Abhorrent.stages.0.label>有人死了!!</RV2_FatalVore_Know_Abhorrent.stages.0.label>
+  <!--EN: fatal vore participant-->
+  <RV2_FatalVore_Know_Disliked.stages.0.label>致命吃人参与者</RV2_FatalVore_Know_Disliked.stages.0.label>
+  <!--EN: prey killer-->
+  <RV2_FatalVore_Know_Liked.stages.0.label>猎物杀手</RV2_FatalVore_Know_Liked.stages.0.label>
+  <!--EN: One of our members killed their prey during vore, a very respectable act!-->
+  <RV2_FatalVore_Know_Required.stages.0.description>我们的一名成员在吃人,体面的行为!</RV2_FatalVore_Know_Required.stages.0.description>
+  <!--EN: Someone fatally vored!-->
+  <RV2_FatalVore_Know_Required.stages.0.label>有人死了!</RV2_FatalVore_Know_Required.stages.0.label>
+  <!--EN: killed prey-->
+  <RV2_FatalVore_Know_Social_Abhorrent.stages.0.label>杀死猎物</RV2_FatalVore_Know_Social_Abhorrent.stages.0.label>
+  <!--EN: divine prey killer-->
+  <RV2_FatalVore_Know_Social_Required.stages.0.label>神圣的猎物杀手</RV2_FatalVore_Know_Social_Required.stages.0.label>
+  <!--EN: Fatal vore is to be praised and encouraged.-->
+  <RV2_FatalVore_Liked.description>致命吃人受到表扬和鼓励。</RV2_FatalVore_Liked.description>
+  <!--EN: liked-->
+  <RV2_FatalVore_Liked.label>喜爱</RV2_FatalVore_Liked.label>
+  <!--EN: Partaking in this divine art fills me with joy-->
+  <RV2_FatalVore_Liked.stages.0.description>参与这神圣的艺术使我感到愉悦</RV2_FatalVore_Liked.stages.0.description>
+  <!--EN: I fatally vored someone-->
+  <RV2_FatalVore_Liked.stages.0.label>我死了一个人</RV2_FatalVore_Liked.stages.0.label>
+  <!--EN: No fatal vore for {VORERELATEDINTERVAL} days-->
+  <RV2_FatalVore_Required.comps.3.description>无致命性吃人与{VORERELATEDINTERVAL}天</RV2_FatalVore_Required.comps.3.description>
+  <!--EN: We are born killers, we require regular fatal vore.-->
+  <RV2_FatalVore_Required.description>我们是天生的杀手，我们要求定期致命吃人没有。</RV2_FatalVore_Required.description>
+  <!--EN: required-->
+  <RV2_FatalVore_Required.label>必需</RV2_FatalVore_Required.label>
+  <!--EN: By voring and killing my prey I honor my beliefs.-->
+  <RV2_FatalVore_Required.stages.0.description>通过奴役和杀害我的猎物，我敬重我的信仰。</RV2_FatalVore_Required.stages.0.description>
+  <!--EN: Fatally vored someone-->
+  <RV2_FatalVore_Required.stages.0.label>折磨死了某人</RV2_FatalVore_Required.stages.0.label>
+  <!--EN: It's been far too long since I last fatally vored someone.-->
+  <RV2_NoRecentFatalVore_Required.stages.0.description>我已经很久很久没和一个人玩了。</RV2_NoRecentFatalVore_Required.stages.0.description>
+  <!--EN: want to kill prey-->
+  <RV2_NoRecentFatalVore_Required.stages.0.label>想要杀死猎物</RV2_NoRecentFatalVore_Required.stages.0.label>
+</LanguageData>

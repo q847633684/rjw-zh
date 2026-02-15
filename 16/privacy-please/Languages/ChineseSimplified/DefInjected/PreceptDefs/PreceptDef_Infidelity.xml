@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: infidelity-->
+  <Infidelity.label>不忠</Infidelity.label>
+  <!--EN: Sex is something to be explored freely, even if they cross the bounds set by traditional relationships.-->
+  <Infidelity_Acceptable.description>性爱是可以自由探索的事情，即便跨越了传统关系所设定的界限。</Infidelity_Acceptable.description>
+  <!--EN: acceptable-->
+  <Infidelity_Acceptable.label>可接受</Infidelity_Acceptable.label>
+  <!--EN: Cheating on a partner is considered disrespectful to them.-->
+  <Infidelity_Disapproved.description>对伴侣不忠被认为是对其的不尊重。</Infidelity_Disapproved.description>
+  <!--EN: disapproved-->
+  <Infidelity_Disapproved.label>不被认可</Infidelity_Disapproved.label>
+  <!--EN: Infidelity is a betrayal that will not soon be forgiven, or forgotten.-->
+  <Infidelity_Heartbreaking.description>不忠是一种背叛，无法轻易原谅或遗忘。</Infidelity_Heartbreaking.description>
+  <!--EN: heartbreaking-->
+  <Infidelity_Heartbreaking.label>令人心碎</Infidelity_Heartbreaking.label>
+</LanguageData>

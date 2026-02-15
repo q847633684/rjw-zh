@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks determine how quickly a pawn begins vore (i.e., how quickly the prey is removed from the map and added to the pawn's hediffs). It does not currently impact how quickly the "passing" stages progress.-->
+  <SwallowSpeed.description>这些怪癖决定了pawn开始吃人(也就是说，猎物从地图上移除并添加到pawn&amp;apos;S hediffs&amp;apos;)。它目前不影响 “通过” 阶段的进度。</SwallowSpeed.description>
+  <!--EN: Swallow Speed-->
+  <SwallowSpeed.label>吞食速度</SwallowSpeed.label>
+  <!--EN: [PAWN_label] takes prey in at a leisurely pace, half as quick as other predators.-->
+  <SwallowSpeed_Bad.description>[PAWN_label]以悠闲的速度捕食动物，速度只有其他捕食者的一半。</SwallowSpeed_Bad.description>
+  <!--EN: Slow eater-->
+  <SwallowSpeed_Bad.label>慢性子</SwallowSpeed_Bad.label>
+  <!--EN: [PAWN_label] puts prey away quickly, at about twice the speed of other predators.-->
+  <SwallowSpeed_Good.description>[PAWN_label]将猎物以两倍于其他捕食者的速度快速放走。</SwallowSpeed_Good.description>
+  <!--EN: Quick eater-->
+  <SwallowSpeed_Good.label>暴食的</SwallowSpeed_Good.label>
+  <!--EN: [PAWN_label] swallows prey at an average speed.-->
+  <SwallowSpeed_Normal.description>[PAWN_label]以平均速度吞噬猎物。</SwallowSpeed_Normal.description>
+  <!--EN: Normal swallow speed-->
+  <SwallowSpeed_Normal.label>正常下咽速度</SwallowSpeed_Normal.label>
+  <!--EN: [PAWN_label] has to devour prey real slowly, at about a quarter the speed of other predators, lest [PAWN_possessive] body reject [PAWN_possessive] prey.-->
+  <SwallowSpeed_VeryBad.description>[PAWN_label]必须以其他捕食者的四分之一的速度缓慢吞噬猎物，以免[PAWN_possessive]身体排斥[PAWN_possessive]猎物。</SwallowSpeed_VeryBad.description>
+  <!--EN: Lollygagger-->
+  <SwallowSpeed_VeryBad.label>懒虫</SwallowSpeed_VeryBad.label>
+  <!--EN: [PAWN_label] belts down prey at about four times the speed of other predators. [PAWN_pronoun] could dominate a prey-swallowing contest.-->
+  <SwallowSpeed_VeryGood.description>[PAWN_label]以约为其他捕食者速度的四倍的速度击倒猎物。[PAWN_pronoun]可能会主导吞噬猎物的比赛。</SwallowSpeed_VeryGood.description>
+  <!--EN: Speed-slurper-->
+  <SwallowSpeed_VeryGood.label>狂吠者</SwallowSpeed_VeryGood.label>
+</LanguageData>

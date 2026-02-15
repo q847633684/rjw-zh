@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: {0} has been grappled to death.-->
+  <RV2_GrappleDamage.deathMessage>{0}已经被抓死了。</RV2_GrappleDamage.deathMessage>
+  <!--EN: grapple-->
+  <RV2_GrappleDamage.label>格斗</RV2_GrappleDamage.label>
+</LanguageData>

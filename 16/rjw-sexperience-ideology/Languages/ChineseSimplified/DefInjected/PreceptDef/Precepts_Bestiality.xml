@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Precepts -->
+  <!--原中文: '厌恶', 原英文: '无' -> 新英文: 'abhorrent',更新于2026-02-14-->
+  <!--EN: abhorrent-->
+  <Bestiality_Abhorrent.label>厌恶</Bestiality_Abhorrent.label>
+  <!--原中文: '兽交是严重恶行。', 原英文: '无' -> 新英文: 'Bestiality is a deeply evil act and antithesis to humanity.',更新于2026-02-14-->
+  <!--EN: Bestiality is a deeply evil act and antithesis to humanity.-->
+  <Bestiality_Abhorrent.description>兽交是严重恶行。</Bestiality_Abhorrent.description>
+  <!--原中文: '畏惧', 原英文: '无' -> 新英文: 'horrible',更新于2026-02-14-->
+  <!--EN: horrible-->
+  <Bestiality_Horrible.label>畏惧</Bestiality_Horrible.label>
+  <!--原中文: '兽交是一种恐怖行为。', 原英文: '无' -> 新英文: 'Bestiality is a terrible act, worthy of disgust.',更新于2026-02-14-->
+  <!--EN: Bestiality is a terrible act, worthy of disgust.-->
+  <Bestiality_Horrible.description>兽交是一种恐怖行为。</Bestiality_Horrible.description>
+  <!--原中文: '反感', 原英文: '无' -> 新英文: 'disapproved',更新于2026-02-14-->
+  <!--EN: disapproved-->
+  <Bestiality_Disapproved.label>反感</Bestiality_Disapproved.label>
+  <!--原中文: '兽交是非常令人反感的。', 原英文: '无' -> 新英文: 'Bestiality is extremely distasteful, worthy of shame.',更新于2026-02-14-->
+  <!--EN: Bestiality is extremely distasteful, worthy of shame.-->
+  <Bestiality_Disapproved.description>兽交是非常令人反感的。</Bestiality_Disapproved.description>
+  <!--原中文: '认可', 原英文: '无' -> 新英文: 'acceptable',更新于2026-02-14-->
+  <!--EN: acceptable-->
+  <Bestiality_Acceptable.label>认可</Bestiality_Acceptable.label>
+  <!--原中文: '兽交是日常生活中微不足道的一部分。', 原英文: '无' -> 新英文: 'Bestiality is a normal, unremarkable part of life.',更新于2026-02-14-->
+  <!--EN: Bestiality is a normal, unremarkable part of life.-->
+  <Bestiality_Acceptable.description>兽交是日常生活中微不足道的一部分。</Bestiality_Acceptable.description>
+  <!--原中文: '仅圣兽', 原英文: '无' -> 新英文: 'only venerated',更新于2026-02-14-->
+  <!--EN: only venerated-->
+  <Bestiality_OnlyVenerated.label>仅圣兽</Bestiality_OnlyVenerated.label>
+  <!--原中文: '和圣兽做爱应该鼓励，但和其他动物做爱是罪行。', 原英文: '无' -> 新英文: 'One who has sex with venerated animals should be honored and respected. But having sex with other animals is an act worthy of derision.',更新于2026-02-14-->
+  <!--EN: One who has sex with venerated animals should be honored and respected. But having sex with other animals is an act worthy of derision.-->
+  <Bestiality_OnlyVenerated.description>和圣兽做爱应该鼓励，但和其他动物做爱是罪行。</Bestiality_OnlyVenerated.description>
+  <!--原中文: '某人和动物做爱', 原英文: '无' -> 新英文: 'Someone had sex with any animal',更新于2026-02-14-->
+  <!--EN: Someone had sex with any animal-->
+  <Bestiality_OnlyVenerated.comps.1.description>某人和动物做爱</Bestiality_OnlyVenerated.comps.1.description>
+  <!--原中文: '某人和圣兽做爱', 原英文: '无' -> 新英文: 'Someone had sex with a venerated animal',更新于2026-02-14-->
+  <!--EN: Someone had sex with a venerated animal-->
+  <Bestiality_OnlyVenerated.comps.3.description>某人和圣兽做爱</Bestiality_OnlyVenerated.comps.3.description>
+  <!-- Bond Only precept by Hawkeye32 -->
+  <!--原中文: '仅牵绊', 原英文: '无' -> 新英文: 'only bonded',更新于2026-02-14-->
+  <!--EN: only bonded-->
+  <Bestiality_BondOnly.label>仅牵绊</Bestiality_BondOnly.label>
+  <!--原中文: '和牵绊动物做爱应该鼓励，但和其他动物做爱是罪行。', 原英文: '无' -> 新英文: 'Sex with Bonded animals is to be honored and respected. But having sex with other animals is an act worthy of derision.',更新于2026-02-14-->
+  <!--EN: Sex with Bonded animals is to be honored and respected. But having sex with other animals is an act worthy of derision.-->
+  <Bestiality_BondOnly.description>和牵绊动物做爱应该鼓励，但和其他动物做爱是罪行。</Bestiality_BondOnly.description>
+  <!--原中文: '某人和动物做爱', 原英文: '无' -> 新英文: 'Someone had sex with any animal',更新于2026-02-14-->
+  <!--EN: Someone had sex with any animal-->
+  <Bestiality_BondOnly.comps.1.description>某人和动物做爱</Bestiality_BondOnly.comps.1.description>
+  <!--原中文: '某人和非牵绊动物做爱', 原英文: '无' -> 新英文: 'Someone had sex with a non bonded animal',更新于2026-02-14-->
+  <!--EN: Someone had sex with a non bonded animal-->
+  <Bestiality_BondOnly.comps.3.description>某人和非牵绊动物做爱</Bestiality_BondOnly.comps.3.description>
+  <!--原中文: '推崇', 原英文: '无' -> 新英文: 'encouraging',更新于2026-02-14-->
+  <!--EN: encouraging-->
+  <Bestiality_Honorable.label>推崇</Bestiality_Honorable.label>
+  <!--原中文: '与动物做爱应该值得鼓励。', 原英文: '无' -> 新英文: 'One who has sex with animals should be encouraged, its only natural.',更新于2026-02-14-->
+  <!--EN: One who has sex with animals should be encouraged, its only natural.-->
+  <Bestiality_Honorable.description>与动物做爱应该值得鼓励。</Bestiality_Honorable.description>
+  <!--原中文: '某人和动物做爱', 原英文: '无' -> 新英文: 'Someone had sex with an animal',更新于2026-02-14-->
+  <!--EN: Someone had sex with an animal-->
+  <Bestiality_Honorable.comps.1.description>某人和动物做爱</Bestiality_Honorable.comps.1.description>
+  <!--原中文: '某人和圣兽做爱', 原英文: '无' -> 新英文: 'Someone had sex with an animal',更新于2026-02-14-->
+  <!--EN: Someone had sex with an animal-->
+  <Bestiality_Honorable.comps.3.description>某人和圣兽做爱</Bestiality_Honorable.comps.3.description>
+</LanguageData>

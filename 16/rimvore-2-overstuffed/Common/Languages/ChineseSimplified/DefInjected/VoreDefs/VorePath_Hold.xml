@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Cleavage vore-->
+  <CleavageHold.RMBLabel>乳沟 吃人</CleavageHold.RMBLabel>
+  <!--EN: Cleavage holding is where the predator shoves the prey into their cleavage for temporary storage.-->
+  <CleavageHold.description>乳沟捕食动物的地方乳沟用于临时储存。</CleavageHold.description>
+  <!--EN: (Hold) Cleavage-->
+  <CleavageHold.label>(保持)乳沟</CleavageHold.label>
+  <!--EN: Cock vore (bladder)-->
+  <CockBladderHold.RMBLabel>公鸡吃人(膀胱)</CockBladderHold.RMBLabel>
+  <!--EN: Bladder holding is where the predator shunts the prey into whichever genital is chosen and into their bladder for temporary storage.-->
+  <CockBladderHold.description>压囊是指捕食者将猎物分流到所选择的任何一个生殖器官，并注入猎物的膀胱进行暂时储存。</CockBladderHold.description>
+  <!--EN: (Hold) Cock (bladder)-->
+  <CockBladderHold.label>(保持) 公鸡 (膀胱)</CockBladderHold.label>
+  <!--EN: Membrane vore-->
+  <MembraneHold.RMBLabel>薄膜吃人</MembraneHold.RMBLabel>
+  <!--EN: Membrane holding is where the predator engulfs prey into their vague insides through an outer membrane, like a slime, for temporary storage.-->
+  <MembraneHold.description>收容膜是指捕食者通过外膜将猎物吞噬到其模糊的内部，就像史莱姆,用于临时存储。</MembraneHold.description>
+  <!--EN: (Hold) Inside Membrane-->
+  <MembraneHold.label>(持有) 膜内</MembraneHold.label>
+  <!--EN: Navel vore-->
+  <NavelHold.RMBLabel>肚脐吃人</NavelHold.RMBLabel>
+  <!--EN: Navel holding is where the predator stuffs prey into their navel for temporary storage.-->
+  <NavelHold.description>保持肚脐是捕食者将猎物塞进肚脐作为临时储存的地方。</NavelHold.description>
+  <!--EN: (Hold) Navel-->
+  <NavelHold.label>(Hold) 肚脐</NavelHold.label>
+  <!--EN: Tail vore-->
+  <TailmawHold.RMBLabel>一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。 吃人</TailmawHold.RMBLabel>
+  <!--EN: Tailmaw holding is where a predator with a mouth in their tail swallows prey through said mouth, into their tail's throat, for temporary storage.-->
+  <TailmawHold.description>猎捕尾兽的目标是拥有一个大嘴的肉食动物。一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。通过嘴巴将猎物吞入一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。咽喉，用于临时储存。</TailmawHold.description>
+  <!--EN: (Hold) Tailmaw-->
+  <TailmawHold.label>(按住) 尾毛</TailmawHold.label>
+  <!--EN: Udder vore-->
+  <UdderHold.RMBLabel>乳房吃人</UdderHold.RMBLabel>
+  <!--EN: Udder holding is where the predator stuffs prey into their udder for temporary storage.-->
+  <UdderHold.description>收容乳房是指捕食者将猎物塞进乳房中作为临时存储的地方。</UdderHold.description>
+  <!--EN: (Hold) Udder-->
+  <UdderHold.label>(Hold) 乳房</UdderHold.label>
+  <!--EN: Vaginal vore (bladder)-->
+  <VaginalBladderHold.RMBLabel>vaginalvore(膀胱)</VaginalBladderHold.RMBLabel>
+  <!--EN: Bladder holding is where the predator shunts the prey into whichever genital is chosen and into their bladder for temporary storage.-->
+  <VaginalBladderHold.description>压囊是指捕食者将猎物分流到所选择的任何一个生殖器官，并注入猎物的膀胱进行暂时储存。</VaginalBladderHold.description>
+  <!--EN: (Hold) Vaginal (bladder)-->
+  <VaginalBladderHold.label>(保持)阴道(膀胱)</VaginalBladderHold.label>
+</LanguageData>

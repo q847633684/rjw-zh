@@ -1,0 +1,530 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <Mod_Title>RJW - 月经周期</Mod_Title>
+  <!--原中文: '月经血', 原英文: '无' -> 新英文: 'menstrual blood',更新于2026-02-14-->
+  <!--EN: menstrual blood-->
+  <Menstrual_Blood>月经血</Menstrual_Blood>
+  <!--原中文: '空', 原英文: '无' -> 新英文: 'Empty',更新于2026-02-14-->
+  <!--EN: Empty-->
+  <Info_noCum>空</Info_noCum>
+  <!--原中文: '卵泡期', 原英文: '无' -> 新英文: 'Follicular',更新于2026-02-14-->
+  <!--EN: Follicular-->
+  <Stage_Follicular>卵泡期</Stage_Follicular>
+  <!--原中文: '排卵', 原英文: '无' -> 新英文: 'Ovulation',更新于2026-02-14-->
+  <!--EN: Ovulation-->
+  <Stage_Ovulatory>排卵</Stage_Ovulatory>
+  <!--原中文: '黄体期', 原英文: '无' -> 新英文: 'Luteal',更新于2026-02-14-->
+  <!--EN: Luteal-->
+  <Stage_Luteal>黄体期</Stage_Luteal>
+  <!--原中文: '月经来潮', 原英文: '无' -> 新英文: 'In period',更新于2026-02-14-->
+  <!--EN: In period-->
+  <Stage_Bleeding>月经来潮</Stage_Bleeding>
+  <!--原中文: '怀孕', 原英文: '无' -> 新英文: 'Pregnant',更新于2026-02-14-->
+  <!--EN: Pregnant-->
+  <Stage_Pregnant>怀孕</Stage_Pregnant>
+  <!--原中文: '产后恢复', 原英文: '无' -> 新英文: 'Recovering from birth',更新于2026-02-14-->
+  <!--EN: Recovering from birth-->
+  <Stage_Recover>产后恢复</Stage_Recover>
+  <!--原中文: '无', 原英文: '无' -> 新英文: 'None',更新于2026-02-14-->
+  <!--EN: None-->
+  <Stage_None>无</Stage_None>
+  <!--原中文: '更年期', 原英文: '无' -> 新英文: 'Climacteric',更新于2026-02-14-->
+  <!--EN: Climacteric-->
+  <Stage_Climacteric>更年期</Stage_Climacteric>
+  <!--原中文: '非发情期', 原英文: '无' -> 新英文: 'Anestrus',更新于2026-02-14-->
+  <!--EN: Anestrus-->
+  <Stage_Anestrus>非发情期</Stage_Anestrus>
+  <!--原中文: '状态', 原英文: '无' -> 新英文: 'Status',更新于2026-02-14-->
+  <!--EN: Status-->
+  <Button_HealthTab>状态</Button_HealthTab>
+  <!--原中文: '挤自己奶', 原英文: '无' -> 新英文: 'Lactate self',更新于2026-02-14-->
+  <!--EN: Lactate self-->
+  <Button_MilkTooltip>挤自己奶</Button_MilkTooltip>
+  <!--原中文: '状态', 原英文: '无' -> 新英文: 'State',更新于2026-02-14-->
+  <!--EN: State-->
+  <Dialog_WombInfo01>状态</Dialog_WombInfo01>
+  <!--原中文: '胎儿', 原英文: '无' -> 新英文: 'Fetus',更新于2026-02-14-->
+  <!--EN: Fetus-->
+  <Dialog_WombInfo02>胎儿</Dialog_WombInfo02>
+  <!--原中文: '父亲', 原英文: '无' -> 新英文: 'Father',更新于2026-02-14-->
+  <!--EN: Father-->
+  <Dialog_WombInfo03>父亲</Dialog_WombInfo03>
+  <!--原中文: '阴道精液列表', 原英文: '无' -> 新英文: 'Cum list',更新于2026-02-14-->
+  <!--EN: Cum list-->
+  <Dialog_WombInfo04>阴道精液列表</Dialog_WombInfo04>
+  <!--原中文: '已受精', 原英文: '无' -> 新英文: 'Fertilized',更新于2026-02-14-->
+  <!--EN: Fertilized-->
+  <Dialog_WombInfo05>已受精</Dialog_WombInfo05>
+  <!--原中文: '受精中', 原英文: '无' -> 新英文: 'Fertilizing',更新于2026-02-14-->
+  <!--EN: Fertilizing-->
+  <Dialog_WombInfo06>受精中</Dialog_WombInfo06>
+  <!--原中文: '排卵', 原英文: '无' -> 新英文: 'Ovulated',更新于2026-02-14-->
+  <!--EN: Ovulated-->
+  <Dialog_WombInfo07>排卵</Dialog_WombInfo07>
+  <Dialog_WombInfo08/>
+  <Dialog_WombInfo09/>
+  <!--过时key，需删除-->
+  <Option1_Label>激活子宫图标</Option1_Label>
+  <!--过时key，需删除-->
+  <Option1_Desc>激活子宫图标框</Option1_Desc>
+  <!--原中文: '激活动物经期', 原英文: '无' -> 新英文: 'Enable animal cycle',更新于2026-02-14-->
+  <!--EN: Enable animal cycle-->
+  <Option2_Label>激活动物经期</Option2_Label>
+  <!--原中文: '仿真动物的经期.
+此选项将在保存读取后生效
+不推荐开启此选项', 原英文: '无' -> 新英文: 'Simulate animal cycles.
+Not recommended.',更新于2026-02-14-->
+  <!--EN: Simulate animal cycles.
+Not recommended.-->
+  <Option2_Desc>仿真动物的经期.
+此选项将在保存读取后生效
+不推荐开启此选项</Option2_Desc>
+  <!--原中文: '植入机会', 原英文: '无' -> 新英文: 'Implantation chance',更新于2026-02-14-->
+  <!--EN: Implantation chance-->
+  <Option3_Label>植入机会</Option3_Label>
+  <!--原中文: '设置受精卵的植入机会', 原英文: '无' -> 新英文: 'Base implantation chance of fertilized egg
+This value affects the chance of impregnation.',更新于2026-02-14-->
+  <!--EN: Base implantation chance of fertilized egg
+This value affects the chance of impregnation.-->
+  <Option3_Desc>设置受精卵的植入机会</Option3_Desc>
+  <!--原中文: '受精的机会', 原英文: '无' -> 新英文: 'Fertilization chance',更新于2026-02-14-->
+  <!--EN: Fertilization chance-->
+  <Option4_Label>受精的机会</Option4_Label>
+  <!--原中文: '设置每小时受精的机会', 原英文: '无' -> 新英文: 'The fertilization chance per ml of sperm per hour
+This value affects the chance of impregnation.',更新于2026-02-14-->
+  <!--EN: The fertilization chance per ml of sperm per hour
+This value affects the chance of impregnation.-->
+  <Option4_Desc>设置每小时受精的机会</Option4_Desc>
+  <!--原中文: '每小时阴道中的精液量衰减率', 原英文: '无' -> 新英文: 'Cum decay ratio per hour',更新于2026-02-14-->
+  <!--EN: Cum decay ratio per hour-->
+  <Option5_Label>每小时阴道中的精液量衰减率</Option5_Label>
+  <!--原中文: '阴道中的精液量将以这个比率减少', 原英文: '无' -> 新英文: 'The amount of cum in the womb will drop by this amount every hour
+This value affects the chance of impregnation.',更新于2026-02-14-->
+  <!--EN: The amount of cum in the womb will drop by this amount every hour
+This value affects the chance of impregnation.-->
+  <Option5_Desc>阴道中的精液量将以这个比率减少</Option5_Desc>
+  <!--原中文: '每小时生育率衰减率', 原英文: '无' -> 新英文: 'Cum fertility decay ratio per hour',更新于2026-02-14-->
+  <!--EN: Cum fertility decay ratio per hour-->
+  <Option6_Label>每小时生育率衰减率</Option6_Label>
+  <!--原中文: '精液列表的生育率将以这个比率减少', 原英文: '无' -> 新英文: 'Cum will lose fertility by this amount every hour
+This value affects fertilization chance indirectly.',更新于2026-02-14-->
+  <!--EN: Cum will lose fertility by this amount every hour
+This value affects fertilization chance indirectly.-->
+  <Option6_Desc>精液列表的生育率将以这个比率减少</Option6_Desc>
+  <!--原中文: '循环加速', 原英文: '无' -> 新英文: 'Cycle acceleration',更新于2026-02-14-->
+  <!--EN: Cycle acceleration-->
+  <Option7_Label>循环加速</Option7_Label>
+  <!--原中文: '加快月经周期', 原英文: '无' -> 新英文: 'Accelerate menstruation cycle
+This can cause early menopause and infertility.
+Setting this lower than x12 is recommended.
+Rimworld's timescale: x6(default)',更新于2026-02-14-->
+  <!--EN: Accelerate menstruation cycle
+This can cause early menopause and infertility.
+Setting this lower than x12 is recommended.
+Rimworld's timescale: x6(default)-->
+  <Option7_Desc>加快月经周期</Option7_Desc>
+  <!--原中文: '调试', 原英文: '无' -> 新英文: 'Debug',更新于2026-02-14-->
+  <!--EN: Debug-->
+  <Option8_Label>调试</Option8_Label>
+  <!--原中文: '显示调试信息', 原英文: '无' -> 新英文: 'Show debug information.',更新于2026-02-14-->
+  <!--EN: Show debug information.-->
+  <Option8_Desc>显示调试信息</Option8_Desc>
+  <!--原中文: '子宫状态', 原英文: '无' -> 新英文: 'Womb status',更新于2026-02-14-->
+  <!--EN: Womb status-->
+  <Option9_Label>子宫状态</Option9_Label>
+  <!--原中文: '在状态窗口中绘制子宫图标', 原英文: '无' -> 新英文: 'Draw womb icon in status window.',更新于2026-02-14-->
+  <!--EN: Draw womb icon in status window.-->
+  <Option9_Desc>在状态窗口中绘制子宫图标</Option9_Desc>
+  <!--原中文: '阴道状态', 原英文: '无' -> 新英文: 'Vagina and breast status',更新于2026-02-14-->
+  <!--EN: Vagina and breast status-->
+  <Option10_Label>阴道状态</Option10_Label>
+  <!--原中文: '在状态窗口中绘制阴道和肛门图标', 原英文: '无' -> 新英文: 'Draw vagina, anus and breast icons in the status window.',更新于2026-02-14-->
+  <!--EN: Draw vagina, anus and breast icons in the status window.-->
+  <Option10_Desc>在状态窗口中绘制阴道和肛门图标</Option10_Desc>
+  <!--原中文: '胎儿信息级别', 原英文: '无' -> 新英文: 'Fetus information level',更新于2026-02-14-->
+  <!--EN: Fetus information level-->
+  <Option11_Label>胎儿信息级别</Option11_Label>
+  <!--原中文: '显示有关胎儿的所有信息', 原英文: '无' -> 新英文: 'Show all information about a fetus.',更新于2026-02-14-->
+  <!--EN: Show all information about a fetus.-->
+  <Option11_Desc_1>显示有关胎儿的所有信息</Option11_Desc_1>
+  <!--原中文: '显示妊娠后胎儿的所有信息', 原英文: '无' -> 新英文: 'Show all information about a fetus after discovered pregnancy.',更新于2026-02-14-->
+  <!--EN: Show all information about a fetus after discovered pregnancy.-->
+  <Option11_Desc_2>显示妊娠后胎儿的所有信息</Option11_Desc_2>
+  <!--原中文: '不显示有关胎儿的信息，但显示怀孕後胎儿的图象', 原英文: '无' -> 新英文: 'Show only image of a fetus after discovered pregnancy.',更新于2026-02-14-->
+  <!--EN: Show only image of a fetus after discovered pregnancy.-->
+  <Option11_Desc_3>不显示有关胎儿的信息，但显示怀孕後胎儿的图象</Option11_Desc_3>
+  <!--原中文: '不显示胎儿图象和信息', 原英文: '无' -> 新英文: 'Do not show any information about a fetus.',更新于2026-02-14-->
+  <!--EN: Do not show any information about a fetus.-->
+  <Option11_Desc_4>不显示胎儿图象和信息</Option11_Desc_4>
+  <!--原中文: '激活更年期', 原英文: '无' -> 新英文: 'Enable menopause',更新于2026-02-14-->
+  <!--EN: Enable menopause-->
+  <Option12_Label>激活更年期</Option12_Label>
+  <!--原中文: '激活更年期效果，使小人随着时间的推移而变得不育
+如果您较长寿的外星人种族有碰到任何问题，请关闭此选项.
+此选项将在保存读取后生效', 原英文: '无' -> 新英文: 'Enable menopause effect that makes pawn infertile when they run out of eggs.
+If you have problems with long lived races, turn off this option.',更新于2026-02-14-->
+  <!--EN: Enable menopause effect that makes pawn infertile when they run out of eggs.
+If you have problems with long lived races, turn off this option.-->
+  <Option12_Desc>激活更年期效果，使小人随着时间的推移而变得不育
+如果您较长寿的外星人种族有碰到任何问题，请关闭此选项.
+此选项将在保存读取后生效</Option12_Desc>
+  <!--原中文: '多重怀孕', 原英文: '无' -> 新英文: 'Use multiple pregnancy',更新于2026-02-14-->
+  <!--EN: Use multiple pregnancy-->
+  <Option13_Label>多重怀孕</Option13_Label>
+  <!--原中文: '使用多重怀孕代替RJW的默认怀孕', 原英文: '无' -> 新英文: 'Use multiple pregnancy instead RJW's default pregnancy
+Disable this option if you are in trouble with impregnation
+RJW pregnancy should be turned on.',更新于2026-02-14-->
+  <!--EN: Use multiple pregnancy instead RJW's default pregnancy
+Disable this option if you are in trouble with impregnation
+RJW pregnancy should be turned on.-->
+  <Option13_Desc>使用多重怀孕代替RJW的默认怀孕</Option13_Desc>
+  <!--原中文: '激活异卵双胞胎', 原英文: '无' -> 新英文: 'Enable hetero ovular twins',更新于2026-02-14-->
+  <!--EN: Enable hetero ovular twins-->
+  <Option14_Label>激活异卵双胞胎</Option14_Label>
+  <!--原中文: '激活复数个卵子可以个别受精', 原英文: '无' -> 新英文: 'Allow pregnancy from multiple eggs at the same time.',更新于2026-02-14-->
+  <!--EN: Allow pregnancy from multiple eggs at the same time.-->
+  <Option14_Desc>激活复数个卵子可以个别受精</Option14_Desc>
+  <!--原中文: '激活双胞胎', 原英文: '无' -> 新英文: 'Enable enzygotic twins',更新于2026-02-14-->
+  <!--EN: Enable enzygotic twins-->
+  <Option15_Label>激活双胞胎</Option15_Label>
+  <!--原中文: '允许单个卵子生成多个后代', 原英文: '无' -> 新英文: 'Enable a single egg to result in multiple identical offspring.',更新于2026-02-14-->
+  <!--EN: Enable a single egg to result in multiple identical offspring.-->
+  <Option15_Desc>允许单个卵子生成多个后代</Option15_Desc>
+  <!--原中文: '双胞胎出现率', 原英文: '无' -> 新英文: 'Enzygotic twins chance',更新于2026-02-14-->
+  <!--EN: Enzygotic twins chance-->
+  <Option16_Label>双胞胎出现率</Option16_Label>
+  <!--原中文: '设置双胞胎的出现率', 原英文: '无' -> 新英文: 'The chance of identical twins.',更新于2026-02-14-->
+  <!--EN: The chance of identical twins.-->
+  <Option16_Desc>设置双胞胎的出现率</Option16_Desc>
+  <!--原中文: '最大双胞胎数量', 原英文: '无' -> 新英文: 'Max enzygotic twins',更新于2026-02-14-->
+  <!--EN: Max enzygotic twins-->
+  <Option17_Label>最大双胞胎数量</Option17_Label>
+  <!--原中文: '设置最大双胞胎数量', 原英文: '无' -> 新英文: 'The maximum number of identical siblings.',更新于2026-02-14-->
+  <!--EN: The maximum number of identical siblings.-->
+  <Option17_Desc>设置最大双胞胎数量</Option17_Desc>
+  <!--原中文: '启用卵子图标', 原英文: '无' -> 新英文: 'Enable egg overlay',更新于2026-02-14-->
+  <!--EN: Enable egg overlay-->
+  <Option18_Label>启用卵子图标</Option18_Label>
+  <!--原中文: '启用覆盖在子宫图标上的卵子图标', 原英文: '无' -> 新英文: 'Enable egg overlay on womb icon.',更新于2026-02-14-->
+  <!--EN: Enable egg overlay on womb icon.-->
+  <Option18_Desc>启用覆盖在子宫图标上的卵子图标</Option18_Desc>
+  <!--原中文: '经血数量', 原英文: '无' -> 新英文: 'Bleeding amount',更新于2026-02-14-->
+  <!--EN: Bleeding amount-->
+  <Option19_Label_1>经血数量</Option19_Label_1>
+  <!--原中文: '预计经血总量', 原英文: '无' -> 新英文: 'Estimated total bleeding amount',更新于2026-02-14-->
+  <!--EN: Estimated total bleeding amount-->
+  <Option19_Label_2>预计经血总量</Option19_Label_2>
+  <!--原中文: '设置经血量
+根据阴道不同出血量有变化
+通常人类女性的经血量为20-80ml左右每月', 原英文: '无' -> 新英文: 'The approximate bleeding amount.
+The normal bleeding amount of a human is about 20~80ml per cycle.',更新于2026-02-14-->
+  <!--EN: The approximate bleeding amount.
+The normal bleeding amount of a human is about 20~80ml per cycle.-->
+  <Option19_Desc>设置经血量
+根据阴道不同出血量有变化
+通常人类女性的经血量为20-80ml左右每月</Option19_Desc>
+  <!--原中文: '殖民者', 原英文: '无' -> 新英文: 'Colonist',更新于2026-02-14-->
+  <!--EN: Colonist-->
+  <Option20_Label_1>殖民者</Option20_Label_1>
+  <!--原中文: '囚犯', 原英文: '无' -> 新英文: 'Prisoner',更新于2026-02-14-->
+  <!--EN: Prisoner-->
+  <Option20_Label_2>囚犯</Option20_Label_2>
+  <!--原中文: '盟友派系', 原英文: '无' -> 新英文: 'Allied Faction',更新于2026-02-14-->
+  <!--EN: Allied Faction-->
+  <Option20_Label_3>盟友派系</Option20_Label_3>
+  <!--原中文: '中立者', 原英文: '无' -> 新英文: 'Neutral',更新于2026-02-14-->
+  <!--EN: Neutral-->
+  <Option20_Label_4>中立者</Option20_Label_4>
+  <!--原中文: '敌对派系', 原英文: '无' -> 新英文: 'Hostile Faction',更新于2026-02-14-->
+  <!--EN: Hostile Faction-->
+  <Option20_Label_5>敌对派系</Option20_Label_5>
+  <!--原中文: '目标小人', 原英文: '无' -> 新英文: 'Target pawns:',更新于2026-02-14-->
+  <!--EN: Target pawns:-->
+  <Option21_Label>目标小人</Option21_Label>
+  <!--原中文: '按钮和图标会出现在这些人物上', 原英文: '无' -> 新英文: 'The gizmo and button will appear for these pawns',更新于2026-02-14-->
+  <!--EN: The gizmo and button will appear for these pawns-->
+  <Option21_Desc>按钮和图标会出现在这些人物上</Option21_Desc>
+  <!--原中文: '使用杂交扩展', 原英文: '无' -> 新英文: 'Use hybrid extension',更新于2026-02-14-->
+  <!--EN: Use hybrid extension-->
+  <Option22_Label>使用杂交扩展</Option22_Label>
+  <!--原中文: '覆盖RJW and RaceSupport的杂交定义
+主杂交决定了谁的定义用在前面，不建议改变此项', 原英文: '无' -> 新英文: 'Overrides RJW and RaceSupport's hybrid definition.
+Dominant hybrid extension determines whose definition used first. Not recommended to change this.',更新于2026-02-14-->
+  <!--EN: Overrides RJW and RaceSupport's hybrid definition.
+Dominant hybrid extension determines whose definition used first. Not recommended to change this.-->
+  <Option22_Desc>覆盖RJW and RaceSupport的杂交定义
+主杂交决定了谁的定义用在前面，不建议改变此项</Option22_Desc>
+  <!--原中文: '主杂交扩展', 原英文: '无' -> 新英文: 'Dominant hybrid extension',更新于2026-02-14-->
+  <!--EN: Dominant hybrid extension-->
+  <Option23_Label>主杂交扩展</Option23_Label>
+  <!--原中文: '母方', 原英文: '无' -> 新英文: 'Mother',更新于2026-02-14-->
+  <!--EN: Mother-->
+  <Option23_Label_1>母方</Option23_Label_1>
+  <!--原中文: '父方', 原英文: '无' -> 新英文: 'Father',更新于2026-02-14-->
+  <!--EN: Father-->
+  <Option23_Label_2>父方</Option23_Label_2>
+  <!--过时key，需删除-->
+  <Option24_Label>怀孕后乳头动态变化</Option24_Label>
+  <!--过时key，需删除-->
+  <Option24_Desc>设定每次怀孕，乳头/乳晕变得更深色/宽大的程度。</Option24_Desc>
+  <!--过时key，需删除-->
+  <Option25_Label>怀孕后乳头固定变化</Option25_Label>
+  <!--过时key，需删除-->
+  <Option25_Desc>设定每次怀孕，乳头/乳晕永久性变得更深色/宽大的程度。</Option25_Desc>
+  <!--过时key，需删除-->
+  <Option26_Label>最大变化</Option26_Label>
+  <!--过时key，需删除-->
+  <Option26_Desc>乳头/乳晕不会变得比这个值更深色/宽大。</Option26_Desc>
+  <!--过时key，需删除-->
+  <Option27_Label>乳头变化速度</Option27_Label>
+  <!--过时key，需删除-->
+  <Option27_Desc>设定乳头/乳晕的变化速度。
+1 = 立刻变化</Option27_Desc>
+  <!--原中文: '自定义杂交', 原英文: '无' -> 新英文: 'Customize Hybrids',更新于2026-02-14-->
+  <!--EN: Customize Hybrids-->
+  <Option28_Label>自定义杂交</Option28_Label>
+  <!--原中文: '打开自定义杂交编辑器
+该项会覆盖XML文件定义的杂交。', 原英文: '无' -> 新英文: 'Open custom hybrid editor.
+This will overrides hybrid definitions of XML files.',更新于2026-02-14-->
+  <!--EN: Open custom hybrid editor.
+This will overrides hybrid definitions of XML files.-->
+  <Option28_Tooltip>打开自定义杂交编辑器
+该项会覆盖XML文件定义的杂交。</Option28_Tooltip>
+  <!--原中文: '允许缩放图标', 原英文: '无' -> 新英文: 'Allow shrink icon',更新于2026-02-14-->
+  <!--EN: Allow shrink icon-->
+  <Option29_Label>允许缩放图标</Option29_Label>
+  <!--原中文: '如有需要，允许图标缩小。', 原英文: '无' -> 新英文: 'Let icon become smaller if needed.',更新于2026-02-14-->
+  <!--EN: Let icon become smaller if needed.-->
+  <Option29_Desc>如有需要，允许图标缩小。</Option29_Desc>
+  <!--原中文: '卵子生命周期倍增', 原英文: '无' -> 新英文: 'Egg lifespan multiplier',更新于2026-02-14-->
+  <!--EN: Egg lifespan multiplier-->
+  <Option30_Label>卵子生命周期倍增</Option30_Label>
+  <!--原中文: '倍增卵子生命周期。
+在已受精阶段结束后，卵子将无视该选项死去。', 原英文: '无' -> 新英文: 'Multiply egg's lifespan.
+All non-implanted eggs will die at end of luteal stage regardless of this setting.',更新于2026-02-14-->
+  <!--EN: Multiply egg's lifespan.
+All non-implanted eggs will die at end of luteal stage regardless of this setting.-->
+  <Option30_Desc>倍增卵子生命周期。
+在已受精阶段结束后，卵子将无视该选项死去。</Option30_Desc>
+  <!--原中文: '启用产后阴道变化', 原英文: '无' -> 新英文: 'Enable vagina morph after birth',更新于2026-02-14-->
+  <!--EN: Enable vagina morph after birth-->
+  <Option31_Label>启用产后阴道变化</Option31_Label>
+  <!--原中文: '启用产后永久阴道扩张。
+如果你在用另一mod处理该项，关闭该选项。', 原英文: '无' -> 新英文: 'Enable permanent vagina stretch after birth.
+If you are using another mod handling this, turn off this option.',更新于2026-02-14-->
+  <!--EN: Enable permanent vagina stretch after birth.
+If you are using another mod handling this, turn off this option.-->
+  <Option31_Desc>启用产后永久阴道扩张。
+如果你在用另一mod处理该项，关闭该选项。</Option31_Desc>
+  <!--原中文: '变形力度', 原英文: '无' -> 新英文: 'Morph power',更新于2026-02-14-->
+  <!--EN: Morph power-->
+  <Option32_Label>变形力度</Option32_Label>
+  <!--原中文: '设置变形力度。', 原英文: '无' -> 新英文: 'Set morph power.',更新于2026-02-14-->
+  <!--EN: Set morph power.-->
+  <Option32_Desc>设置变形力度。</Option32_Desc>
+  <!--原中文: '预计精子生命周期', 原英文: '无' -> 新英文: 'Estimated sperm lifespan',更新于2026-02-14-->
+  <!--EN: Estimated sperm lifespan-->
+  <EstimatedCumLifespan>预计精子生命周期</EstimatedCumLifespan>
+  <!--原中文: '预计卵子生命周期', 原英文: '无' -> 新英文: 'Estimated egg lifespan',更新于2026-02-14-->
+  <!--EN: Estimated egg lifespan-->
+  <EstimatedEggLifespan>预计卵子生命周期</EstimatedEggLifespan>
+  <!--原中文: '1小时内受精几率: {0}%
+受精卵着床几率。
+白色覆盖层表示子宫内精子受精的几率。', 原英文: '无' -> 新英文: 'Implantation chance of fertilized eggs.
+Chance of fertilization this hour: {0}%',更新于2026-02-14-->
+  <!--EN: Implantation chance of fertilized eggs.
+Chance of fertilization this hour: {0}%-->
+  <FertilityDesc>1小时内受精几率: {0}%
+受精卵着床几率。
+白色覆盖层表示子宫内精子受精的几率。</FertilityDesc>
+  <!--原中文: '清洗阴道', 原英文: '无' -> 新英文: 'Vaginal washing',更新于2026-02-14-->
+  <!--EN: Vaginal washing-->
+  <FloatMenu_CleanSelf>清洗阴道</FloatMenu_CleanSelf>
+  <!--原中文: '自定义杂交编辑器', 原英文: '无' -> 新英文: 'Custom Hybrid Editor',更新于2026-02-14-->
+  <!--EN: Custom Hybrid Editor-->
+  <CustomHybrid_List_Title>自定义杂交编辑器</CustomHybrid_List_Title>
+  <!--原中文: '{0}的杂交种', 原英文: '无' -> 新英文: 'Hybrids of {0}',更新于2026-02-14-->
+  <!--EN: Hybrids of {0}-->
+  <CustomHybrid_Title>{0}的杂交种</CustomHybrid_Title>
+  <!--原中文: '当{0}与{1}交配,将有{3}几率生出{2}。
+如果两个种族都有对方的杂交定义，将会使用父方的定义。', 原英文: '无' -> 新英文: 'When {0} breed with {1}, {2} will be born at {3} chance.
+If both races have hybrid definitions for each other, the father's definition will be used.',更新于2026-02-14-->
+  <!--EN: When {0} breed with {1}, {2} will be born at {3} chance.
+If both races have hybrid definitions for each other, the father's definition will be used.-->
+  <CustomHybrid_Tooltip>当{0}与{1}交配,将有{3}几率生出{2}。
+如果两个种族都有对方的杂交定义，将会使用父方的定义。</CustomHybrid_Tooltip>
+  <!--翻译内容: 'Reset to default',新增于2026-02-14-->
+  <!--EN: Reset to default-->
+  <Button_ResetToDefault>重置为默认</Button_ResetToDefault>
+  <!--翻译内容: 'No eggs',新增于2026-02-14-->
+  <!--EN: No eggs-->
+  <CannotNoEggs>无卵子</CannotNoEggs>
+  <!--翻译内容: 'Must have a womb',新增于2026-02-14-->
+  <!--EN: Must have a womb-->
+  <CannotNoWomb>必须拥有子宫</CannotNoWomb>
+  <!--翻译内容: 'Absorbed',新增于2026-02-14-->
+  <!--EN: Absorbed-->
+  <Description_Absorbed>已吸收</Description_Absorbed>
+  <!--翻译内容: 'Unknown',新增于2026-02-14-->
+  <!--EN: Unknown-->
+  <Dialog_FatherUnknown>未知</Dialog_FatherUnknown>
+  <!--翻译内容: '{PAWN_labelShort} has completed {PAWN_possessive} egg restoration cycle.',新增于2026-02-14-->
+  <!--EN: {PAWN_labelShort} has completed {PAWN_possessive} egg restoration cycle.-->
+  <EggRestorationCompleted>{PAWN_labelShort} 完成了 {PAWN_possessive} 卵子恢复周期。</EggRestorationCompleted>
+  <!--翻译内容: 'Enable womb icon',新增于2026-02-14-->
+  <!--EN: Enable womb icon-->
+  <Option1_Label_1>启用子宫图标</Option1_Label_1>
+  <!--翻译内容: 'Enable button in health tab',新增于2026-02-14-->
+  <!--EN: Enable button in health tab-->
+  <Option1_Label_2>在健康标签页启用按钮</Option1_Label_2>
+  <!--翻译内容: 'Set the effect that animals in visible estrus have on humanlikes.',新增于2026-02-14-->
+  <!--EN: Set the effect that animals in visible estrus have on humanlikes.-->
+  <Option_AnimalPheromoneEffect_Desc>设置处于明显发情期的动物对人形生物的影响。</Option_AnimalPheromoneEffect_Desc>
+  <!--翻译内容: 'Animal pheromone effect',新增于2026-02-14-->
+  <!--EN: Animal pheromone effect-->
+  <Option_AnimalPheromoneEffect_Label>动物信息素影响</Option_AnimalPheromoneEffect_Label>
+  <!--翻译内容: 'How often the womb of animals update.
+Lowering this will improve accuracy, increasing this can improve performance.',新增于2026-02-14-->
+  <!--EN: How often the womb of animals update.
+Lowering this will improve accuracy, increasing this can improve performance.-->
+  <Option_AnimalUpdateInterval_Desc>动物子宫更新的频率。
+降低此值可提高准确性，增加此值可提升性能。</Option_AnimalUpdateInterval_Desc>
+  <!--翻译内容: 'Animal update interval',新增于2026-02-14-->
+  <!--EN: Animal update interval-->
+  <Option_AnimalUpdateInterval_Label>动物更新间隔</Option_AnimalUpdateInterval_Label>
+  <!--翻译内容: 'How often the womb of each of your colonists, prisoners, and slaves update.
+Lowering this will improve accuracy, increasing this can improve performance.',新增于2026-02-14-->
+  <!--EN: How often the womb of each of your colonists, prisoners, and slaves update.
+Lowering this will improve accuracy, increasing this can improve performance.-->
+  <Option_ColonistUpdateInterval_Desc>每个殖民者、囚犯和奴隶的子宫更新频率。
+降低此值可提高准确性，增加此值可提升性能。</Option_ColonistUpdateInterval_Desc>
+  <!--翻译内容: 'Colonist update interval',新增于2026-02-14-->
+  <!--EN: Colonist update interval-->
+  <Option_ColonistUpdateInterval_Label>殖民者更新间隔</Option_ColonistUpdateInterval_Label>
+  <!--翻译内容: 'Enabling this option will allow identical and hetero ovular twins with Biotech.
+Also allows the hybrid system, but two humanlikes cannot produce an animal.',新增于2026-02-14-->
+  <!--EN: Enabling this option will allow identical and hetero ovular twins with Biotech.
+Also allows the hybrid system, but two humanlikes cannot produce an animal.-->
+  <Option_EnableBiotechTwins_Desc>启用此选项将允许在生物科技中产生同卵和异卵双胞胎。
+同时允许杂交系统，但两个人形生物无法生出动物。</Option_EnableBiotechTwins_Desc>
+  <!--翻译内容: 'Enable multiple babies/twins in a single Biotech pregnancy.',新增于2026-02-14-->
+  <!--EN: Enable multiple babies/twins in a single Biotech pregnancy.-->
+  <Option_EnableBiotechTwins_Label>在单次生物科技妊娠中允许多胞胎/双胞胎。</Option_EnableBiotechTwins_Label>
+  <!--翻译内容: 'Draw womb icon for drafted pawns',新增于2026-02-14-->
+  <!--EN: Draw womb icon for drafted pawns-->
+  <Option_EnableDraftedIcon_Desc>为征召的角色绘制子宫图标</Option_EnableDraftedIcon_Desc>
+  <!--翻译内容: 'Show womb status when drafted',新增于2026-02-14-->
+  <!--EN: Show womb status when drafted-->
+  <Option_EnableDraftedIcon_Label>征召时显示子宫状态</Option_EnableDraftedIcon_Label>
+  <!--翻译内容: 'Allow humanlikes in visible estrus to increase the sex drive of nearby humanlike males.',新增于2026-02-14-->
+  <!--EN: Allow humanlikes in visible estrus to increase the sex drive of nearby humanlike males.-->
+  <Option_EnablePheromones_Desc>允许处于明显发情期的人形生物增加附近人形男性的性欲。</Option_EnablePheromones_Desc>
+  <!--翻译内容: 'Enable pheromones',新增于2026-02-14-->
+  <!--EN: Enable pheromones-->
+  <Option_EnablePheromones_Label>启用信息素</Option_EnablePheromones_Label>
+  <!--翻译内容: 'Hookup minimum attractability in estrus',新增于2026-02-14-->
+  <!--EN: Hookup minimum attractability in estrus-->
+  <Option_EstrusAttractability_Label>发情期勾搭最低吸引力</Option_EstrusAttractability_Label>
+  <!--翻译内容: 'Hookup minimum fuckability in estrus',新增于2026-02-14-->
+  <!--EN: Hookup minimum fuckability in estrus-->
+  <Option_EstrusFuckability_Label>发情期勾搭最低可操性</Option_EstrusFuckability_Label>
+  <!--翻译内容: 'If enabled, a pawn in visible estrus will use these settings for potential impregnation hookups instead of the RJW settings.
+All settings default to their RJW counterparts.',新增于2026-02-14-->
+  <!--EN: If enabled, a pawn in visible estrus will use these settings for potential impregnation hookups instead of the RJW settings.
+All settings default to their RJW counterparts.-->
+  <Option_EstrusOverride_Desc>如果启用，处于明显发情期的角色在进行可能受孕的勾搭时，将使用这些设置而非RJW设置。
+所有设置默认与RJW对应设置相同。</Option_EstrusOverride_Desc>
+  <!--翻译内容: 'Estrus overrides RJW hookup settings',新增于2026-02-14-->
+  <!--EN: Estrus overrides RJW hookup settings-->
+  <Option_EstrusOverride_Label>发情期覆盖RJW勾搭设置</Option_EstrusOverride_Label>
+  <!--翻译内容: 'Hookup minimum opinion in estrus',新增于2026-02-14-->
+  <!--EN: Hookup minimum opinion in estrus-->
+  <Option_EstrusRelationship_Label>发情期勾搭最低好感度</Option_EstrusRelationship_Label>
+  <!--翻译内容: 'Change how much a pregnant pawn's breasts will grow when pregnant. Some pawns will grow more than others.',新增于2026-02-14-->
+  <!--EN: Change how much a pregnant pawn's breasts will grow when pregnant. Some pawns will grow more than others.-->
+  <Option_MaxBreastIncrementFactor_Desc>改变怀孕角色乳房增大的程度。有些角色会比其他人增大更多。</Option_MaxBreastIncrementFactor_Desc>
+  <!--翻译内容: 'Breast growth during pregnancy',新增于2026-02-14-->
+  <!--EN: Breast growth during pregnancy-->
+  <Option_MaxBreastIncrementFactor_Label>孕期乳房增大</Option_MaxBreastIncrementFactor_Label>
+  <!--翻译内容: 'Change how much a pregnant pawn's nipples will change during pregnancy.',新增于2026-02-14-->
+  <!--EN: Change how much a pregnant pawn's nipples will change during pregnancy.-->
+  <Option_MaxNippleIncrementFactor_Desc>改变怀孕角色乳头在孕期变化的程度。</Option_MaxNippleIncrementFactor_Desc>
+  <!--翻译内容: 'Nipple change during pregnancy',新增于2026-02-14-->
+  <!--EN: Nipple change during pregnancy-->
+  <Option_MaxNippleIncrementFactor_Label>孕期乳头变化</Option_MaxNippleIncrementFactor_Label>
+  <!--翻译内容: 'How often the womb of humans you don't control update.
+Lowering this will improve accuracy, increasing this can improve performance.',新增于2026-02-14-->
+  <!--EN: How often the womb of humans you don't control update.
+Lowering this will improve accuracy, increasing this can improve performance.-->
+  <Option_NonColonistUpdateInterval_Desc>非你控制的人类子宫更新频率。
+降低此值可提高准确性，增加此值可提升性能。</Option_NonColonistUpdateInterval_Desc>
+  <!--翻译内容: 'Non-colonist update interval',新增于2026-02-14-->
+  <!--EN: Non-colonist update interval-->
+  <Option_NonColonistUpdateInterval_Label>非殖民者更新间隔</Option_NonColonistUpdateInterval_Label>
+  <!--翻译内容: 'Adjusts approximately how much of a pregnant pawn's nipples will remain changed after the pregnancy ends.',新增于2026-02-14-->
+  <!--EN: Adjusts approximately how much of a pregnant pawn's nipples will remain changed after the pregnancy ends.-->
+  <Option_PermanentNippleChange_Desc>大致调整怀孕结束后，怀孕角色的乳头在多大程度上保持改变。</Option_PermanentNippleChange_Desc>
+  <!--翻译内容: 'Permanent nipple change after pregnancy',新增于2026-02-14-->
+  <!--EN: Permanent nipple change after pregnancy-->
+  <Option_PermanentNippleChange_Label>产后永久性乳头变化</Option_PermanentNippleChange_Label>
+  <!--翻译内容: 'Use basic RJW pregnancy',新增于2026-02-14-->
+  <!--EN: Use basic RJW pregnancy-->
+  <Option_PregnancyFromBaseRJW_Label>使用基础RJW妊娠</Option_PregnancyFromBaseRJW_Label>
+  <!--翻译内容: 'Use Biotech pregnancy',新增于2026-02-14-->
+  <!--EN: Use Biotech pregnancy-->
+  <Option_PregnancyFromBiotech_Label>使用生物科技妊娠</Option_PregnancyFromBiotech_Label>
+  <!--翻译内容: 'Use menstruation multiple pregnancy',新增于2026-02-14-->
+  <!--EN: Use menstruation multiple pregnancy-->
+  <Option_PregnancyFromMultiplePregnancy_Label>使用经期多胎妊娠</Option_PregnancyFromMultiplePregnancy_Label>
+  <!--翻译内容: 'Draw womb icon for infertile wombs',新增于2026-02-14-->
+  <!--EN: Draw womb icon for infertile wombs-->
+  <Option_ShowInfertileIcon_Desc>为不育的子宫绘制子宫图标</Option_ShowInfertileIcon_Desc>
+  <!--翻译内容: 'Show womb status when infertile',新增于2026-02-14-->
+  <!--EN: Show womb status when infertile-->
+  <Option_ShowInfertileIcon_Label>不育时显示子宫状态</Option_ShowInfertileIcon_Label>
+  <!--翻译内容: 'Chance of each egg being released during ovulation.',新增于2026-02-14-->
+  <!--EN: Chance of each egg being released during ovulation.-->
+  <OvulationChanceDesc>排卵期间每个卵子被释放的几率。</OvulationChanceDesc>
+  <!--翻译内容: 'Ovulation {0}',新增于2026-02-14-->
+  <!--EN: Ovulation {0}-->
+  <OvulationChanceLabel>排卵 {0}</OvulationChanceLabel>
+  <!--翻译内容: 'The womb is out of breeding season. The cycle will resume once conditions are met.',新增于2026-02-14-->
+  <!--EN: The womb is out of breeding season. The cycle will resume once conditions are met.-->
+  <Stage_Anestrus_Desc>子宫处于非繁殖季节。一旦条件满足，周期将恢复。</Stage_Anestrus_Desc>
+  <!--翻译内容: 'The womb is between cycles. The cycle will resume after enough time has passed.',新增于2026-02-14-->
+  <!--EN: The womb is between cycles. The cycle will resume after enough time has passed.-->
+  <Stage_Anestrus_Periodic_Desc>子宫处于周期间歇。经过足够时间后，周期将恢复。</Stage_Anestrus_Periodic_Desc>
+  <!--翻译内容: 'The womb is shedding its lining, along with any eggs that failed to implant.',新增于2026-02-14-->
+  <!--EN: The womb is shedding its lining, along with any eggs that failed to implant.-->
+  <Stage_Bleeding_Desc>子宫正在脱落内膜，以及任何未能着床的卵子。</Stage_Bleeding_Desc>
+  <!--翻译内容: 'The ovaries have neared exhaustion and the menstrual cycle has become irregular.',新增于2026-02-14-->
+  <!--EN: The ovaries have neared exhaustion and the menstrual cycle has become irregular.-->
+  <Stage_Climacteric_Desc>卵巢接近枯竭，月经周期变得不规律。</Stage_Climacteric_Desc>
+  <!--翻译内容: 'The ovaries are preparing to release an egg. Ovulation will occur at the end of this phase.',新增于2026-02-14-->
+  <!--EN: The ovaries are preparing to release an egg. Ovulation will occur at the end of this phase.-->
+  <Stage_Follicular_Desc>卵巢正准备释放卵子。排卵将在本阶段结束时发生。</Stage_Follicular_Desc>
+  <!--翻译内容: 'The ovaries are preparing to release an egg. Ovulation will occur if semen enters the womb.',新增于2026-02-14-->
+  <!--EN: The ovaries are preparing to release an egg. Ovulation will occur if semen enters the womb.-->
+  <Stage_Follicular_Induced_Desc>卵巢正准备释放卵子。如果有精液进入子宫，将会排卵。</Stage_Follicular_Induced_Desc>
+  <!--翻译内容: 'The womb is prepared to recieve a fertilized egg. Pregnancy will result if one implants before the end of the stage.',新增于2026-02-14-->
+  <!--EN: The womb is prepared to recieve a fertilized egg. Pregnancy will result if one implants before the end of the stage.-->
+  <Stage_Luteal_Desc>子宫已准备好接受受精卵。如果在阶段结束前有着床，将会导致怀孕。</Stage_Luteal_Desc>
+  <!--翻译内容: 'Menopause',新增于2026-02-14-->
+  <!--EN: Menopause-->
+  <Stage_Menopause>更年期</Stage_Menopause>
+  <!--翻译内容: 'The ovaries have been exhausted and the womb can no longer produce eggs.',新增于2026-02-14-->
+  <!--EN: The ovaries have been exhausted and the womb can no longer produce eggs.-->
+  <Stage_Menopause_Desc>卵巢已枯竭，子宫无法再产生卵子。</Stage_Menopause_Desc>
+  <!--翻译内容: 'The womb is not fertile and cannot become pregnant.',新增于2026-02-14-->
+  <!--EN: The womb is not fertile and cannot become pregnant.-->
+  <Stage_None_Desc>子宫不具备生育能力，无法怀孕。</Stage_None_Desc>
+  <!--翻译内容: 'The ovaries are releasing an egg into the womb.',新增于2026-02-14-->
+  <!--EN: The ovaries are releasing an egg into the womb.-->
+  <Stage_Ovulatory_Desc>卵巢正在释放一个卵子进入子宫。</Stage_Ovulatory_Desc>
+  <!--翻译内容: 'A baby is growing inside the womb. With time and care, it will become a new resident of this world.',新增于2026-02-14-->
+  <!--EN: A baby is growing inside the womb. With time and care, it will become a new resident of this world.-->
+  <Stage_Pregnant_Desc>一个婴儿正在子宫内成长。假以时日和照料，它将成为一个新的居民。</Stage_Pregnant_Desc>
+  <!--翻译内容: 'The womb is recovering from its recent pregnancy.',新增于2026-02-14-->
+  <!--EN: The womb is recovering from its recent pregnancy.-->
+  <Stage_Recover_Desc>子宫正在从最近的怀孕中恢复。</Stage_Recover_Desc>
+</LanguageData>

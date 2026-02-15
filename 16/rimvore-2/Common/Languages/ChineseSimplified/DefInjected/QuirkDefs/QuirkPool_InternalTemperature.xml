@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks determine how hot or cold their insides are for the prey.-->
+  <InternalTemperature.description>这些怪癖决定了如何性感的或者冷却它们的内部是给猎物的。</InternalTemperature.description>
+  <!--EN: Internal temperature-->
+  <InternalTemperature.label>内部温度</InternalTemperature.label>
+  <!--EN: [PAWN_label] insides are colder than usual (12°C / 53.6°F), long vores may lead to pawns suffering from frostbite.-->
+  <InternalTemperature_Cold.description>[PAWN_label]室内环境 (12 °C/53.6 °F) 比平时更冷，长时间的疲劳可能会导致 pawns 冻伤。</InternalTemperature_Cold.description>
+  <!--EN: Cold-->
+  <InternalTemperature_Cold.label>非常冷</InternalTemperature_Cold.label>
+  <!--EN: [PAWN_label] insides are freezing (0°C / 32°F), some genetic mutation lowers [PAWN_objective] to freezing temperatures.-->
+  <InternalTemperature_Freezing.description>[PAWN_label]内部正在冻结 (0 °C/32 °F)，一些基因突变降低[PAWN_objective]到严寒。</InternalTemperature_Freezing.description>
+  <!--EN: Freezer-->
+  <InternalTemperature_Freezing.label>制冷机</InternalTemperature_Freezing.label>
+  <!--EN: [PAWN_label] insides are dangerously hot (60°C / 140°F), any prey inside of [PAWN_objective] is liable to suffer from heatstroke.-->
+  <InternalTemperature_Hot.description>[PAWN_label]其内部正处于危险之中性感的(60 °C/140 °F)，任何[PAWN_objective]容易中暑。</InternalTemperature_Hot.description>
+  <!--EN: Hot guts-->
+  <InternalTemperature_Hot.label>性感的肠</InternalTemperature_Hot.label>
+  <!--EN: [PAWN_label] insides are just as warm as any other pawns.-->
+  <InternalTemperature_Normal.description>[PAWN_label]其内部和其他残骸一样温暖。</InternalTemperature_Normal.description>
+  <!--EN: Normal-->
+  <InternalTemperature_Normal.label>普通</InternalTemperature_Normal.label>
+  <!--EN: [PAWN_label] insides are warmer than usual insides (40°C / 104°F), prey inside may suffer from heatstroke after prolonged vore.-->
+  <InternalTemperature_Warm.description>[PAWN_label]里面的温度比平时 (40 °C/104 °F) 高，里面的猎物可能会长期中暑吃人</InternalTemperature_Warm.description>
+  <!--EN: Warm-->
+  <InternalTemperature_Warm.label>喜暖的</InternalTemperature_Warm.label>
+</LanguageData>

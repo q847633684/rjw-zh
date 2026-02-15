@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '拉客', 原英文: '无' -> 新英文: 'solicite visitors',更新于2026-02-14-->
+  <!--EN: solicite visitors-->
+  <Soliciting.label>拉客</Soliciting.label>
+  <!--原中文: '拉客中', 原英文: '无' -> 新英文: 'solicite',更新于2026-02-14-->
+  <!--EN: solicite-->
+  <Soliciting.verb>拉客中</Soliciting.verb>
+  <!--原中文: '拉客中', 原英文: '无' -> 新英文: 'soliciting',更新于2026-02-14-->
+  <!--EN: soliciting-->
+  <Soliciting.gerund>拉客中</Soliciting.gerund>
+  <!--过时key，需删除-->
+  <Soliciting.requiredCapacities>聊天中</Soliciting.requiredCapacities>
+</LanguageData>

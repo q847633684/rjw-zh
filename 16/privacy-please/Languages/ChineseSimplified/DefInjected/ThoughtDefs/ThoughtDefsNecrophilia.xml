@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: *Urp* I'm gunna hurl!-->
+  <SawNecrophilia_Abhorrent.stages.0.description>*呃* 我要吐了！</SawNecrophilia_Abhorrent.stages.0.description>
+  <!--EN: horrified by necrophilia-->
+  <SawNecrophilia_Abhorrent.stages.0.label>被恋尸癖吓坏</SawNecrophilia_Abhorrent.stages.0.label>
+  <!--EN: They better bury what's left when they're done...-->
+  <SawNecrophilia_Acceptable.stages.0.description>他们完事后最好把剩下的埋了……</SawNecrophilia_Acceptable.stages.0.description>
+  <!--EN: witnessed necrophilia-->
+  <SawNecrophilia_Acceptable.stages.0.label>目睹恋尸行为</SawNecrophilia_Acceptable.stages.0.label>
+  <!--EN: Passion transcends the grave.-->
+  <SawNecrophilia_Approved.stages.0.description>激情超越了坟墓。</SawNecrophilia_Approved.stages.0.description>
+  <!--EN: approved of necrophilia-->
+  <SawNecrophilia_Approved.stages.0.label>认同恋尸行为</SawNecrophilia_Approved.stages.0.label>
+  <!--EN: Even the dead get no rest here...-->
+  <SawNecrophilia_Disapproved.stages.0.description>连死者在此都不得安宁……</SawNecrophilia_Disapproved.stages.0.description>
+  <!--EN: upset about necrophilia-->
+  <SawNecrophilia_Disapproved.stages.0.label>对恋尸行为感到不适</SawNecrophilia_Disapproved.stages.0.label>
+  <!--EN: Urgh, so gross! Just what were they thinking?-->
+  <SawNecrophilia_Horrible.stages.0.description>呃，真恶心！他们到底在想什么？</SawNecrophilia_Horrible.stages.0.description>
+  <!--EN: disturbed by necrophilia-->
+  <SawNecrophilia_Horrible.stages.0.label>被恋尸行为困扰</SawNecrophilia_Horrible.stages.0.label>
+</LanguageData>

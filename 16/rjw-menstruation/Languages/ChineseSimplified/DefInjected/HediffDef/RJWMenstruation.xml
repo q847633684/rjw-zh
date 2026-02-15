@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '中枢性疼痛', 原英文: '无' -> 新英文: 'In period',更新于2026-02-14-->
+  <!--EN: In period-->
+  <Hediff_MenstrualCramp.label>中枢性疼痛</Hediff_MenstrualCramp.label>
+  <!--原中文: '经期中', 原英文: '无' -> 新英文: 'Bleeding from the vagina at the end of the menstrual cycle.
+Often painful.',更新于2026-02-14-->
+  <!--EN: Bleeding from the vagina at the end of the menstrual cycle.
+Often painful.-->
+  <Hediff_MenstrualCramp.description>经期中</Hediff_MenstrualCramp.description>
+  <!--原中文: '不快', 原英文: '无' -> 新英文: 'unpleasant',更新于2026-02-14-->
+  <!--EN: unpleasant-->
+  <Hediff_MenstrualCramp.stages.0.label>不快</Hediff_MenstrualCramp.stages.0.label>
+  <!--原中文: '恼人', 原英文: '无' -> 新英文: 'annoying',更新于2026-02-14-->
+  <!--EN: annoying-->
+  <Hediff_MenstrualCramp.stages.1.label>恼人</Hediff_MenstrualCramp.stages.1.label>
+  <!--原中文: '疼痛', 原英文: '无' -> 新英文: 'aching',更新于2026-02-14-->
+  <!--EN: aching-->
+  <Hediff_MenstrualCramp.stages.2.label>疼痛</Hediff_MenstrualCramp.stages.2.label>
+  <!--原中文: '痛苦', 原英文: '无' -> 新英文: 'painful',更新于2026-02-14-->
+  <!--EN: painful-->
+  <Hediff_MenstrualCramp.stages.3.label>痛苦</Hediff_MenstrualCramp.stages.3.label>
+</LanguageData>

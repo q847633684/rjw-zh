@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '青楼', 原英文: '无' -> 新英文: 'brothel',更新于2026-02-14-->
+  <!--EN: brothel-->
+  <Brothel.label>青楼</Brothel.label>
+  <!--过时key，需删除-->
+  <Brothel.relatedStats.0>美观度</Brothel.relatedStats.0>
+  <!--过时key，需删除-->
+  <Brothel.relatedStats.1>洁净度</Brothel.relatedStats.1>
+  <!--过时key，需删除-->
+  <Brothel.relatedStats.2>财富值</Brothel.relatedStats.2>
+  <!--过时key，需删除-->
+  <Brothel.relatedStats.3>大小</Brothel.relatedStats.3>
+  <!--过时key，需删除-->
+  <Brothel.relatedStats.4>印象等级</Brothel.relatedStats.4>
+</LanguageData>

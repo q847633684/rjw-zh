@@ -1,0 +1,278 @@
+key,text,tag,file,type
+Armbinder.label,拘束手套,Armbinder.label,hediffdef\Hediffs_Bondage.xml,def
+Armbinder.label,拘束手套,Armbinder.label,rjw.bondage_gear_def\Items_Bondage_Armbinder.xml,def
+Armbinder.labelNoun,拘束手套,Armbinder.labelNoun,hediffdef\Hediffs_Bondage.xml,def
+Armbinder.description,拘束手套。将双手束缚在躯干后面的一种拘束装置。,Armbinder.description,hediffdef\Hediffs_Bondage.xml,def
+Armbinder.description,拘束手套可以阻止穿着它的任何小人使用其武器。,Armbinder.description,rjw.bondage_gear_def\Items_Bondage_Armbinder.xml,def
+ChastityBelt_Hediff.label,chastity belt,label,HediffDefs\Hediffs_Bondage.xml,def
+ChastityBelt_Hediff.labelNoun,a chastity belt,labelNoun,HediffDefs\Hediffs_Bondage.xml,def
+ChastityBelt_Hediff.description,A chastity belt. Restricts access to the vagina and anus for both partners and the wearer.,description,HediffDefs\Hediffs_Bondage.xml,def
+ChastityBeltOpen_Hediff.label,open chastity belt,label,HediffDefs\Hediffs_Bondage.xml,def
+ChastityBeltOpen_Hediff.labelNoun,an open chastity belt,labelNoun,HediffDefs\Hediffs_Bondage.xml,def
+ChastityBeltOpen_Hediff.description,An open chastity belt. Restricts access to the vagina for both partners and the wearer.,description,HediffDefs\Hediffs_Bondage.xml,def
+ChastityCage.label,贞操笼,ChastityCage.label,hediffdef\Hediffs_Bondage.xml,def
+ChastityCage.label,贞操笼,ChastityCage.label,rjw.bondage_gear_def\Items_Bondage_ChastityCage.xml,def
+ChastityCage.labelNoun,贞操笼,ChastityCage.labelNoun,hediffdef\Hediffs_Bondage.xml,def
+ChastityCage.description,贞操笼。限制其佩戴者接触阴茎。,ChastityCage.description,hediffdef\Hediffs_Bondage.xml,def
+ChastityCage.description,阴茎上的贞操笼，阻止勃起。,ChastityCage.description,rjw.bondage_gear_def\Items_Bondage_ChastityCage.xml,def
+Yoke.label,枷锁,Yoke.label,hediffdef\Hediffs_Bondage.xml,def
+Yoke.labelNoun,枷锁,Yoke.labelNoun,hediffdef\Hediffs_Bondage.xml,def
+Yoke.description,将使用者的手臂和头部相对于身体固定并保持举臂状态。,Yoke.description,hediffdef\Hediffs_Bondage.xml,def
+ClosedGag.label,口球,ClosedGag.label,hediffdef\Hediffs_Bondage.xml,def
+ClosedGag.labelNoun,口球,ClosedGag.labelNoun,hediffdef\Hediffs_Bondage.xml,def
+ClosedGag.description,一种封闭式的口球，阻止佩戴者说话。,ClosedGag.description,hediffdef\Hediffs_Bondage.xml,def
+OpenGag.label,口枷,OpenGag.label,hediffdef\Hediffs_Bondage.xml,def
+OpenGag.labelNoun,口枷,OpenGag.labelNoun,hediffdef\Hediffs_Bondage.xml,def
+OpenGag.description,一种开口的口枷，只允许它的主人含糊不清地咕哝。,OpenGag.description,hediffdef\Hediffs_Bondage.xml,def
+Legbinder.label,拘束靴,Legbinder.label,hediffdef\Hediffs_Bondage.xml,def
+Legbinder.label,拘束靴,Legbinder.label,rjw.bondage_gear_def\Items_Bondage_Legbinder.xml,def
+Legbinder.labelNoun,拘束靴,Legbinder.labelNoun,hediffdef\Hediffs_Bondage.xml,def
+Legbinder.description,拘束靴。一种束缚腿部的拘束装置，限制了运动。,Legbinder.description,hediffdef\Hediffs_Bondage.xml,def
+Legbinder.description,一个拘束靴，可以阻止穿着它的小人使用腿。,Legbinder.description,rjw.bondage_gear_def\Items_Bondage_Legbinder.xml,def
+RJW_Blindfold.label,眼罩,RJW_Blindfold.label,hediffdef\Hediffs_Bondage.xml,def
+RJW_Blindfold.labelNoun,眼罩,RJW_Blindfold.labelNoun,hediffdef\Hediffs_Bondage.xml,def
+RJW_Blindfold.description,眼罩。能挡住视线的拘束装置。,RJW_Blindfold.description,hediffdef\Hediffs_Bondage.xml,def
+Plugged.label,插入,Plugged.label,hediffdef\Hediffs_Plugged.xml,def
+Plugged.description,插入.,Plugged.description,hediffdef\Hediffs_Plugged.xml,def
+Plugged.stages.0.label,非常松,Plugged.stages.0.label,hediffdef\Hediffs_Plugged.xml,def
+Plugged.stages.1.label,松,Plugged.stages.1.label,hediffdef\Hediffs_Plugged.xml,def
+Plugged.stages.2.label,紧,Plugged.stages.2.label,hediffdef\Hediffs_Plugged.xml,def
+Plugged.stages.3.label,非常紧,Plugged.stages.3.label,hediffdef\Hediffs_Plugged.xml,def
+Plugged.stages.4.label,极其紧,Plugged.stages.4.label,hediffdef\Hediffs_Plugged.xml,def
+UseFM.reportString,使用炮机,UseFM.reportString,jobdef\Job_UseFM.xml,def
+ForceOffArmbinder.label,强行取下拘束手套,ForceOffArmbinder.label,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffArmbinder.description,在没有钥匙的情况下强行取下拘束手套，代价是对佩戴者造成相当大的伤害。,ForceOffArmbinder.description,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffArmbinder.jobString,强行取下拘束手套,ForceOffArmbinder.jobString,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffGagBall.label,强行拔掉口塞,ForceOffGagBall.label,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffGagBall.description,在没有钥匙的情况下强行拔掉口塞，代价是对佩戴者造成相当大的伤害。,ForceOffGagBall.description,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffGagBall.jobString,强行拔掉口塞。,ForceOffGagBall.jobString,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffGagRing.label,强行拔掉口塞,ForceOffGagRing.label,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffGagRing.description,在没有钥匙的情况下强行拔掉口塞，代价是对佩戴者造成相当大的伤害。,ForceOffGagRing.description,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffGagRing.jobString,强行拔掉口塞。,ForceOffGagRing.jobString,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffChastityBelt.label,强行解开贞操带,ForceOffChastityBelt.label,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffChastityBelt.description,在没有钥匙的情况下强行解开贞操带，代价是对佩戴者造成相当大的伤害。,ForceOffChastityBelt.description,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffChastityBelt.jobString,强行解开贞操带。,ForceOffChastityBelt.jobString,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffChastityBeltOpen.label,强行解开贞操带,ForceOffChastityBeltOpen.label,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffChastityBeltOpen.description,在没有钥匙的情况下强行解开贞操带，代价是对佩戴者造成相当大的伤害。,ForceOffChastityBeltOpen.description,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffChastityBeltOpen.jobString,强行解开贞操带。,ForceOffChastityBeltOpen.jobString,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffChastityCage.label,强行拆掉贞操笼,ForceOffChastityCage.label,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffChastityCage.description,在没有钥匙的情况下强行拆掉贞操笼，代价是对佩戴者造成相当大的伤害,ForceOffChastityCage.description,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffChastityCage.jobString,强行拆掉贞操笼。,ForceOffChastityCage.jobString,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffLegbinder.label,强行脱掉拘束靴,ForceOffLegbinder.label,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffLegbinder.description,在没有钥匙的情况下强行脱掉拘束靴，代价是对佩戴者造成相当大的伤害。,ForceOffLegbinder.description,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffLegbinder.jobString,强行脱掉拘束靴。,ForceOffLegbinder.jobString,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffBlindfold.label,强行摘掉眼罩,ForceOffBlindfold.label,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffBlindfold.description,在没有钥匙的情况下强行摘掉眼罩，代价是对佩戴者造成相当大的伤害。,ForceOffBlindfold.description,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+ForceOffBlindfold.jobString,强行摘掉眼罩.,ForceOffBlindfold.jobString,rjw.force_off_gear_def\Recipes_ForceRemoveBondage.xml,def
+MakeArmbinder.label,制作拘束手套,MakeArmbinder.label,recipedef\Recipes_MakeBondageGear.xml,def
+MakeArmbinder.description,制作拘束手套.,MakeArmbinder.description,recipedef\Recipes_MakeBondageGear.xml,def
+MakeArmbinder.jobString,做出了拘束手套.,MakeArmbinder.jobString,recipedef\Recipes_MakeBondageGear.xml,def
+MakeUnlockedArmbinder.label,make unlocked armbinder,label,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedArmbinder.description,Make an unlocked armbinder.,description,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedArmbinder.jobString,Making armbinder.,jobString,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeGagBall.label,制作充气式口塞,MakeGagBall.label,recipedef\Recipes_MakeBondageGear.xml,def
+MakeGagBall.description,制作一个充气式口塞，影响说话。,MakeGagBall.description,recipedef\Recipes_MakeBondageGear.xml,def
+MakeGagBall.jobString,做出了口球,MakeGagBall.jobString,recipedef\Recipes_MakeBondageGear.xml,def
+MakeUnlockedGagBall.label,make unlocked ball gag,label,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedGagBall.description,"Make a gag with a ball, that prevents talking and isn't locked.",description,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedGagBall.jobString,Making gag.,jobString,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeGagRing.label,制作环形口球,MakeGagRing.label,recipedef\Recipes_MakeBondageGear.xml,def
+MakeGagRing.description,制作一个环形口球，影响说话。,MakeGagRing.description,recipedef\Recipes_MakeBondageGear.xml,def
+MakeGagRing.jobString,做出了口球,MakeGagRing.jobString,recipedef\Recipes_MakeBondageGear.xml,def
+MakeUnlockedGagRing.label,make unlocked ring gag,label,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedGagRing.description,"Make a gag with a ring, prevents talking and isn't locked.",description,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedGagRing.jobString,Making gag.,jobString,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeChastityBelt.label,制作贞操带,MakeChastityBelt.label,recipedef\Recipes_MakeBondageGear.xml,def
+MakeChastityBelt.description,制作一个贞操带，阻止触碰生殖器和肛门。,MakeChastityBelt.description,recipedef\Recipes_MakeBondageGear.xml,def
+MakeChastityBelt.jobString,做出了贞操带。,MakeChastityBelt.jobString,recipedef\Recipes_MakeBondageGear.xml,def
+MakeUnlockedChastityBelt.label,make unlocked chastity belt,label,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedChastityBelt.description,"Make a chastity belt, prevents access to genitals and anus, that isn't locked.",description,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedChastityBelt.jobString,Making chastity belt.,jobString,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeChastityBeltO.label,制作贞操带（开放式）,MakeChastityBeltO.label,recipedef\Recipes_MakeBondageGear.xml,def
+MakeChastityBeltO.description,制作一个贞操带，阻止触碰生殖器，有一个用于肛交的开口。,MakeChastityBeltO.description,recipedef\Recipes_MakeBondageGear.xml,def
+MakeChastityBeltO.jobString,做出了贞操带。,MakeChastityBeltO.jobString,recipedef\Recipes_MakeBondageGear.xml,def
+MakeUnlockedChastityBeltO.label,make unlocked chastity belt(open),label,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedChastityBeltO.description,"Make a chastity belt, prevents access to genitals, has a hole for anal sex and isn't locked.",description,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedChastityBeltO.jobString,Making chastity belt.,jobString,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedChastityCage.label,make unlocked chastity cage,label,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedChastityCage.description,"Make a chastity cage, prevents erection, and isnt locked.",description,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedChastityCage.jobString,Making chastity belt.,jobString,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeChastityCage.label,制作贞操笼,MakeChastityCage.label,recipedef\Recipes_MakeBondageGear.xml,def
+MakeChastityCage.description,制作一个能阻止勃起的贞操笼。,MakeChastityCage.description,recipedef\Recipes_MakeBondageGear.xml,def
+MakeChastityCage.jobString,做出了一个贞操笼,MakeChastityCage.jobString,recipedef\Recipes_MakeBondageGear.xml,def
+MakeChastityCageSmall.label,make small chastity cage,label,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeChastityCageSmall.description,"Make a chastity cage, prevents erection.",description,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeChastityCageSmall.jobString,Making chastity cage.,jobString,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeChastityCageMicro.label,make micro chastity cage,label,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeChastityCageMicro.description,"Make a chastity cage, prevents erection.",description,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeChastityCageMicro.jobString,Making chastity cage.,jobString,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeLegbinder.label,制作拘束靴,MakeLegbinder.label,recipedef\Recipes_MakeBondageGear.xml,def
+MakeLegbinder.description,制作拘束靴.,MakeLegbinder.description,recipedef\Recipes_MakeBondageGear.xml,def
+MakeLegbinder.jobString,做出了拘束靴.,MakeLegbinder.jobString,recipedef\Recipes_MakeBondageGear.xml,def
+MakeUnlockedLegbinder.label,make unlocked legbinder,label,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedLegbinder.description,Make an unlocked legbinder.,description,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeUnlockedLegbinder.jobString,Making legbinder.,jobString,RecipeDefs\Recipes_MakeBondageGear.xml,def
+MakeBlindfold.label,制作眼罩,MakeBlindfold.label,recipedef\Recipes_MakeBondageGear.xml,def
+MakeBlindfold.description,制作眼罩.,MakeBlindfold.description,recipedef\Recipes_MakeBondageGear.xml,def
+MakeBlindfold.jobString,做出了眼罩.,MakeBlindfold.jobString,recipedef\Recipes_MakeBondageGear.xml,def
+UnlockedMakeBlindfold.label,make unlocked blindfold,label,RecipeDefs\Recipes_MakeBondageGear.xml,def
+UnlockedMakeBlindfold.description,Make an unlocked blindfold.,description,RecipeDefs\Recipes_MakeBondageGear.xml,def
+UnlockedMakeBlindfold.jobString,Making blindfold.,jobString,RecipeDefs\Recipes_MakeBondageGear.xml,def
+TimePluggedAnal.label,塞上肛塞,TimePluggedAnal.label,recorddef\Records.xml,def
+TimePluggedAnal.description,肛塞在肛门内塞入的总时间。,TimePluggedAnal.description,recorddef\Records.xml,def
+TimeOnFuckMachine.label,使用炮机,TimeOnFuckMachine.label,recorddef\Records.xml,def
+TimeOnFuckMachine.description,使用炮机（或绑在炮机上）的总时间。,TimeOnFuckMachine.description,recorddef\Records.xml,def
+Armbound.stages.0.label,Armbound,label,ThoughtDefs\Thoughts_bondage.xml,def
+Armbound.stages.0.description,"I can't move my arms, I'm at the mercy of my master.",description,ThoughtDefs\Thoughts_bondage.xml,def
+MasochistArmbound.stages.0.label,Armbound,label,ThoughtDefs\Thoughts_bondage.xml,def
+MasochistArmbound.stages.0.description,"I can't move my arms, I am at my Master's mercy! This is so hot.",description,ThoughtDefs\Thoughts_bondage.xml,def
+ChastityBelt.stages.0.label,Chastity Belt,label,ThoughtDefs\Thoughts_bondage.xml,def
+ChastityBelt.stages.0.description,I have no control over my sexual autonomy! This so frustrating and humiliating!,description,ThoughtDefs\Thoughts_bondage.xml,def
+MasochistChastityBelt.stages.0.label,Chastity Belt,label,ThoughtDefs\Thoughts_bondage.xml,def
+MasochistChastityBelt.stages.0.description,Master has control of my privates! this denial is so hot!,description,ThoughtDefs\Thoughts_bondage.xml,def
+NymphomaniacChastityBelt.stages.0.label,Chastity Belt,label,ThoughtDefs\Thoughts_bondage.xml,def
+NymphomaniacChastityBelt.stages.0.description,Master has control of my privates! I'm so horny I can barely function!,description,ThoughtDefs\Thoughts_bondage.xml,def
+ChastityBeltOpen.stages.0.label,Open Chastity Belt,label,ThoughtDefs\Thoughts_bondage.xml,def
+ChastityBeltOpen.stages.0.description,I have no control over my pussy and my ass is still exposed! This so frustrating and humiliating!,description,ThoughtDefs\Thoughts_bondage.xml,def
+MasochistChastityBeltOpen.stages.0.label,Open Chastity Belt,label,ThoughtDefs\Thoughts_bondage.xml,def
+MasochistChastityBeltOpen.stages.0.description,Master has control of my pussy! This denial is so hot!,description,ThoughtDefs\Thoughts_bondage.xml,def
+NymphomaniacChastityBeltOpen.stages.0.label,Open Chastity Belt,label,ThoughtDefs\Thoughts_bondage.xml,def
+NymphomaniacChastityBeltOpen.stages.0.description,Master has control of my pussy! I hope they take advantage of my vulnerable ass!,description,ThoughtDefs\Thoughts_bondage.xml,def
+ChastityCage.stages.0.label,Chastity Cage,label,ThoughtDefs\Thoughts_bondage.xml,def
+ChastityCage.stages.0.description,"I have no control of my sexual autonomy, this so frustrating and humiliating!",description,ThoughtDefs\Thoughts_bondage.xml,def
+MasochistChastityCage.stages.0.label,Chastity Cage,label,ThoughtDefs\Thoughts_bondage.xml,def
+MasochistChastityCage.stages.0.description,"Master has control of my privates, this denial is so hot!",description,ThoughtDefs\Thoughts_bondage.xml,def
+NymphomaniacChastityCage.stages.0.label,Chastity Cage,label,ThoughtDefs\Thoughts_bondage.xml,def
+NymphomaniacChastityCage.stages.0.description,"Master has control of my privates, I'm so horny I can barely function!",description,ThoughtDefs\Thoughts_bondage.xml,def
+Legbound.stages.0.label,Leg Bound,label,ThoughtDefs\Thoughts_bondage.xml,def
+Legbound.stages.0.description,"I can barely walk! This is so uncomfortable, and I cant escape my master when he demands my body.",description,ThoughtDefs\Thoughts_bondage.xml,def
+LegboundMasochist.stages.0.label,Leg Bound,label,ThoughtDefs\Thoughts_bondage.xml,def
+LegboundMasochist.stages.0.description,I can barely walk! I'm at the mercy of my master or anyone that happens to walk by. This is so hot.,description,ThoughtDefs\Thoughts_bondage.xml,def
+OpenGag.stages.0.label,Open Gag,label,ThoughtDefs\Thoughts_bondage.xml,def
+OpenGag.stages.0.description,"I can't close my mouth or talk! The master can force any object into my mouth, and I can't even say anything!",description,ThoughtDefs\Thoughts_bondage.xml,def
+OpengagMasochist.stages.0.label,Open Gag,label,ThoughtDefs\Thoughts_bondage.xml,def
+OpengagMasochist.stages.0.description,"Anyone can stuff anything into my mouth, and theres nothing i can do bout it! This is so hot.",description,ThoughtDefs\Thoughts_bondage.xml,def
+Blindfold.stages.0.label,Blindfold,label,ThoughtDefs\Thoughts_bondage.xml,def
+Blindfold.stages.0.description,I can't see anything! I feel so helpless and vulnerable.,description,ThoughtDefs\Thoughts_bondage.xml,def
+BlindfoldMasochist.stages.0.label,Blindfold,label,ThoughtDefs\Thoughts_bondage.xml,def
+BlindfoldMasochist.stages.0.description,I can't see anything! I feel so exposed and vulnerable... and horny...,description,ThoughtDefs\Thoughts_bondage.xml,def
+PrisonerChains.stages.0.label,Bound in Chains,label,ThoughtDefs\Thoughts_bondage.xml,def
+PrisonerChains.stages.0.description,"I've been bound in chains, and am at the mercy of my masters.",description,ThoughtDefs\Thoughts_bondage.xml,def
+PrisonerChainsMasochist.stages.0.label,Bound in Chains,label,ThoughtDefs\Thoughts_bondage.xml,def
+PrisonerChainsMasochist.stages.0.description,"I've been bound in chains, and am at the mercy of my masters, which is so hot.",description,ThoughtDefs\Thoughts_bondage.xml,def
+Pluged.stages.0.label,塞的非常松,Pluged.stages.0.label,thoughtdef\Thoughts_Plugged.xml,def
+Pluged.stages.0.description,我有时会忘了屁股里塞着东西这件事.,Pluged.stages.0.description,thoughtdef\Thoughts_Plugged.xml,def
+Pluged.stages.1.label,塞住,Pluged.stages.1.label,thoughtdef\Thoughts_Plugged.xml,def
+Pluged.stages.1.description,"这个塞子很合身,我能戴一整天.",Pluged.stages.1.description,thoughtdef\Thoughts_Plugged.xml,def
+Pluged.stages.2.label,塞紧,Pluged.stages.2.label,thoughtdef\Thoughts_Plugged.xml,def
+Pluged.stages.2.description,"这个塞子让我的屁股一直处于塞满的状态. 令人兴奋,但相当不舒服.",Pluged.stages.2.description,thoughtdef\Thoughts_Plugged.xml,def
+Pluged.stages.3.label,塞得非常紧,Pluged.stages.3.label,thoughtdef\Thoughts_Plugged.xml,def
+Pluged.stages.3.description,"这让人很不安, 我想把它拿出来.",Pluged.stages.3.description,thoughtdef\Thoughts_Plugged.xml,def
+Pluged.stages.4.label,塞得太紧了,Pluged.stages.4.label,thoughtdef\Thoughts_Plugged.xml,def
+Pluged.stages.4.description,我的屁股达到了极限. 我几乎没法走路.,Pluged.stages.4.description,thoughtdef\Thoughts_Plugged.xml,def
+MasochistPluged.stages.0.label,塞的非常松,MasochistPluged.stages.0.label,thoughtdef\Thoughts_Plugged.xml,def
+MasochistPluged.stages.0.description,我有时会忘了屁股里塞着东西这件事.,MasochistPluged.stages.0.description,thoughtdef\Thoughts_Plugged.xml,def
+MasochistPluged.stages.1.label,塞住,MasochistPluged.stages.1.label,thoughtdef\Thoughts_Plugged.xml,def
+MasochistPluged.stages.1.description,"这个塞子很合身,我能戴一整天.",MasochistPluged.stages.1.description,thoughtdef\Thoughts_Plugged.xml,def
+MasochistPluged.stages.2.label,塞紧,MasochistPluged.stages.2.label,thoughtdef\Thoughts_Plugged.xml,def
+MasochistPluged.stages.2.description,"这个塞子让我的屁股一直处于塞满的状态. 令人兴奋,但相当不舒服.",MasochistPluged.stages.2.description,thoughtdef\Thoughts_Plugged.xml,def
+MasochistPluged.stages.3.label,塞得非常紧,MasochistPluged.stages.3.label,thoughtdef\Thoughts_Plugged.xml,def
+MasochistPluged.stages.3.description,"这个塞子让我的屁股一直处于塞满的状态. 令人兴奋,但相当不舒服.",MasochistPluged.stages.3.description,thoughtdef\Thoughts_Plugged.xml,def
+MasochistPluged.stages.4.label,塞得太紧了,MasochistPluged.stages.4.label,thoughtdef\Thoughts_Plugged.xml,def
+MasochistPluged.stages.4.description,我的屁股达到了极限. 我几乎没法走路.,MasochistPluged.stages.4.description,thoughtdef\Thoughts_Plugged.xml,def
+WG_UseFM.label,骑炮机,WG_UseFM.label,workgiverdef\WorkGivers_FuckMachines.xml,def
+WG_UseFM.verb,使用,WG_UseFM.verb,workgiverdef\WorkGivers_FuckMachines.xml,def
+WG_UseFM.gerund,使用,WG_UseFM.gerund,workgiverdef\WorkGivers_FuckMachines.xml,def
+BuildingsFuckMachines.label,炮机,BuildingsFuckMachines.label,ThingCategoryDef\Buildings_FuckMachines_base.xml,def
+BuildingsFuckMachines.label,炮机,BuildingsFuckMachines.label,thingdef\Buildings_FuckMachines_base.xml,def
+Blindfold.label,眼罩,Blindfold.label,rjw.bondage_gear_def\Items_Bondage_Blindfold.xml,def
+Blindfold.description,眼罩。挡住视线的拘束装置。,Blindfold.description,rjw.bondage_gear_def\Items_Bondage_Blindfold.xml,def
+ChastityBelt.label,贞操带,ChastityBelt.label,hediffdef\Hediffs_Bondage.xml,def
+ChastityBelt.label,贞操带,ChastityBelt.label,rjw.bondage_gear_def\Items_Bondage_ChastityBelt.xml,def
+ChastityBelt.description,贞操带。限制其佩戴者插入阴道和肛门。,ChastityBelt.description,hediffdef\Hediffs_Bondage.xml,def
+ChastityBelt.description,贞操带可以阻止性行为和手淫。,ChastityBelt.description,rjw.bondage_gear_def\Items_Bondage_ChastityBelt.xml,def
+ChastityBeltO.label,贞操带（开放式）,ChastityBeltO.label,rjw.bondage_gear_def\Items_Bondage_ChastityBeltOpen.xml,def
+ChastityBeltO.description,这个贞操带允许你进行肛交。,ChastityBeltO.description,rjw.bondage_gear_def\Items_Bondage_ChastityBeltOpen.xml,def
+ChastityCageSmall.label,chastity cage (small),label,ThingDefs\Bondage\Items_Bondage_ChastityCage.xml,def
+ChastityCageSmall.description,A small chastity cage for penises that prevents erections. Prolonged use may cause a reduction of penile muscle size.,description,ThingDefs\Bondage\Items_Bondage_ChastityCage.xml,def
+ChastityCageMicro.label,chastity cage (micro),label,ThingDefs\Bondage\Items_Bondage_ChastityCage.xml,def
+ChastityCageMicro.description,A micro chastity cage for penises that prevents erections. Prolonged use may cause a reduction of penile muscle size.,description,ThingDefs\Bondage\Items_Bondage_ChastityCage.xml,def
+GagBall.label,充气式口塞,GagBall.label,rjw.bondage_gear_def\Items_Bondage_GagBall.xml,def
+GagBall.description,充气式口塞使你无法说话。,GagBall.description,rjw.bondage_gear_def\Items_Bondage_GagBall.xml,def
+GagRing.label,环形口球,GagRing.label,rjw.bondage_gear_def\Items_Bondage_GagRing.xml,def
+GagRing.description,环形口球可以阻止说话，并允许口交。,GagRing.description,rjw.bondage_gear_def\Items_Bondage_GagRing.xml,def
+FuckMachineAutoChair.label,自动高潮椅,FuckMachineAutoChair.label,thingdef\Buildings_FuckMachine_AutoChair.xml,def
+FuckMachineAutoChair.description,该装置在闪耀世界很受欢迎。可变形以适应任何用户，种类繁多的器械可以提供独特的体验。这种配备钢制束环的扶手椅不需要外部控制，而是由一个无线神经接口控制，它自己决定了这次用户将得到什么样的体验。,FuckMachineAutoChair.description,thingdef\Buildings_FuckMachine_AutoChair.xml,def
+FuckMachineSaddle.label,鞍式炮机,FuckMachineSaddle.label,thingdef\Buildings_FuckMachine_Saddle.xml,def
+FuckMachineSaddle.description,"方便的设备, 提供迷人的“骑乘感”。",FuckMachineSaddle.description,thingdef\Buildings_FuckMachine_Saddle.xml,def
+FuckMachineWooden.label,木马,FuckMachineWooden.label,thingdef\Buildings_FuckMachine_Wooden.xml,def
+FuckMachineWooden.description,"这并不算“机器”，但绝对能让你生“草”。至少在没电的时候还能提供一些娱乐活动，但是用起来屁股会很累。记得使用前把假阴茎擦干净, 除非你想玩刑具.",FuckMachineWooden.description,thingdef\Buildings_FuckMachine_Wooden.xml,def
+AnalPlugExpandable.label,可扩式肛塞,AnalPlugExpandable.label,rjwex.anal_plug_def\Items_Plugs_Inflatable.xml,def
+AnalPlugExpandable.label,膨胀型肛塞,AnalPlugExpandable.label,thingdef\Items_Plugs_Inflatable.xml,def
+AnalPlugExpandable.description,可扩式肛塞。装备全息锁。,AnalPlugExpandable.description,rjwex.anal_plug_def\Items_Plugs_Inflatable.xml,def
+AnalPlugExpandable.description,膨胀型肛塞。配有锁。,AnalPlugExpandable.description,thingdef\Items_Plugs_Inflatable.xml,def
+AnalPlugExpandableUL.label,expandable anal plug,label,ThingDefs\Plugs\Items_Plugs_Inflatable.xml,def
+AnalPlugExpandableUL.description,An expandable anal plug.,description,ThingDefs\Plugs\Items_Plugs_Inflatable.xml,def
+MAnalPlugSmall.label,小型肛塞,MAnalPlugSmall.label,rjwex.anal_plug_def\Items_Plugs_Metal.xml,def
+MAnalPlugSmall.label,小号肛塞,MAnalPlugSmall.label,thingdef\Items_Plugs_Metal.xml,def
+MAnalPlugSmall.description,无装饰圆滑闪亮的肛门塞。小号,MAnalPlugSmall.description,rjwex.anal_plug_def\Items_Plugs_Metal.xml,def
+MAnalPlugSmall.description,一个简单的肛塞。尺寸S,MAnalPlugSmall.description,thingdef\Items_Plugs_Metal.xml,def
+MAnalPlugMedium.label,中型肛塞,MAnalPlugMedium.label,rjwex.anal_plug_def\Items_Plugs_Metal.xml,def
+MAnalPlugMedium.label,中号肛塞,MAnalPlugMedium.label,thingdef\Items_Plugs_Metal.xml,def
+MAnalPlugMedium.description,无装饰圆滑闪亮的肛门塞。中号,MAnalPlugMedium.description,rjwex.anal_plug_def\Items_Plugs_Metal.xml,def
+MAnalPlugMedium.description,一个简单的肛塞。尺寸M,MAnalPlugMedium.description,thingdef\Items_Plugs_Metal.xml,def
+MAnalPlugLarge.label,大型肛塞,MAnalPlugLarge.label,rjwex.anal_plug_def\Items_Plugs_Metal.xml,def
+MAnalPlugLarge.label,大号肛塞,MAnalPlugLarge.label,thingdef\Items_Plugs_Metal.xml,def
+MAnalPlugLarge.description,无装饰圆滑闪亮的肛门塞。大号,MAnalPlugLarge.description,rjwex.anal_plug_def\Items_Plugs_Metal.xml,def
+MAnalPlugLarge.description,一个简单的肛塞。尺寸L,MAnalPlugLarge.description,thingdef\Items_Plugs_Metal.xml,def
+SAnalPlugSmall.label,小型肛塞,SAnalPlugSmall.label,rjwex.anal_plug_def\Items_Plugs_Stony.xml,def
+SAnalPlugSmall.label,小号肛塞,SAnalPlugSmall.label,thingdef\Items_Plugs_Stony.xml,def
+SAnalPlugSmall.description,重型圆滑肛塞。小号,SAnalPlugSmall.description,rjwex.anal_plug_def\Items_Plugs_Stony.xml,def
+SAnalPlugSmall.description,重型的肛塞。尺寸S,SAnalPlugSmall.description,thingdef\Items_Plugs_Stony.xml,def
+SAnalPlugMedium.label,中型肛塞,SAnalPlugMedium.label,rjwex.anal_plug_def\Items_Plugs_Stony.xml,def
+SAnalPlugMedium.label,中号肛塞,SAnalPlugMedium.label,thingdef\Items_Plugs_Stony.xml,def
+SAnalPlugMedium.description,重型圆滑肛塞。中号,SAnalPlugMedium.description,rjwex.anal_plug_def\Items_Plugs_Stony.xml,def
+SAnalPlugMedium.description,重型的肛塞。尺寸M,SAnalPlugMedium.description,thingdef\Items_Plugs_Stony.xml,def
+SAnalPlugLarge.label,大型肛塞,SAnalPlugLarge.label,rjwex.anal_plug_def\Items_Plugs_Stony.xml,def
+SAnalPlugLarge.label,大号肛塞,SAnalPlugLarge.label,thingdef\Items_Plugs_Stony.xml,def
+SAnalPlugLarge.description,重型圆滑肛塞。大号,SAnalPlugLarge.description,rjwex.anal_plug_def\Items_Plugs_Stony.xml,def
+SAnalPlugLarge.description,重型的肛塞。尺寸L,SAnalPlugLarge.description,thingdef\Items_Plugs_Stony.xml,def
+WAnalPlugSmall.label,小型肛塞,WAnalPlugSmall.label,rjwex.anal_plug_def\Items_Plugs_Woody.xml,def
+WAnalPlugSmall.label,小号肛塞,WAnalPlugSmall.label,thingdef\Items_Plugs_Woody.xml,def
+WAnalPlugSmall.description,简陋的肛塞，可能不太健康，不适合长期佩戴。小号,WAnalPlugSmall.description,rjwex.anal_plug_def\Items_Plugs_Woody.xml,def
+WAnalPlugSmall.description,一个简陋的肛塞，长期佩戴可能不大健康。尺寸S,WAnalPlugSmall.description,thingdef\Items_Plugs_Woody.xml,def
+WAnalPlugMedium.label,中型肛塞,WAnalPlugMedium.label,rjwex.anal_plug_def\Items_Plugs_Woody.xml,def
+WAnalPlugMedium.label,中号肛塞,WAnalPlugMedium.label,thingdef\Items_Plugs_Woody.xml,def
+WAnalPlugMedium.description,简陋的肛塞，可能不太健康，不适合长期佩戴。中号,WAnalPlugMedium.description,rjwex.anal_plug_def\Items_Plugs_Woody.xml,def
+WAnalPlugMedium.description,一个简陋的肛塞，长期佩戴可能不大健康。尺寸M,WAnalPlugMedium.description,thingdef\Items_Plugs_Woody.xml,def
+WAnalPlugLarge.label,大型肛塞,WAnalPlugLarge.label,rjwex.anal_plug_def\Items_Plugs_Woody.xml,def
+WAnalPlugLarge.label,大号肛塞,WAnalPlugLarge.label,thingdef\Items_Plugs_Woody.xml,def
+WAnalPlugLarge.description,简陋的肛塞，可能不太健康，不适合长期佩戴。大号,WAnalPlugLarge.description,rjwex.anal_plug_def\Items_Plugs_Woody.xml,def
+WAnalPlugLarge.description,一个简陋的肛塞，长期佩戴可能不大健康。尺寸L,WAnalPlugLarge.description,thingdef\Items_Plugs_Woody.xml,def
+UnlockedArmbinder.label,unlocked armbinder,label,ThingDefs\Unlockable\Items_Bondage_Unlocked_Armbinder.xml,def
+UnlockedArmbinder.description,An unlocked armbinder that prevents any pawn it's attached to from using their arms.,description,ThingDefs\Unlockable\Items_Bondage_Unlocked_Armbinder.xml,def
+UnlockedBlindfold.label,unlocked blindfold,label,ThingDefs\Unlockable\Items_Bondage_Unlocked_Blindfold.xml,def
+UnlockedBlindfold.description,An unlocked blindfold which blocks the wearer's vision.,description,ThingDefs\Unlockable\Items_Bondage_Unlocked_Blindfold.xml,def
+UnlockedChastityBelt.label,unlocked chastity belt,label,ThingDefs\Unlockable\Items_Bondage_Unlocked_ChastityBelt.xml,def
+UnlockedChastityBelt.description,An unlocked chastity belt that prevents sex and masturbation.,description,ThingDefs\Unlockable\Items_Bondage_Unlocked_ChastityBelt.xml,def
+UnlockedChastityBeltO.label,unlocked chastity belt(Open),label,ThingDefs\Unlockable\Items_Bondage_Unlocked_ChastityBeltOpen.xml,def
+UnlockedChastityBeltO.description,An unlocked chastity belt which allows anal sex.,description,ThingDefs\Unlockable\Items_Bondage_Unlocked_ChastityBeltOpen.xml,def
+UnlockedChastityCage.label,unlocked chastity cage,label,ThingDefs\Unlockable\Items_Bondage_Unlocked_ChastityCage.xml,def
+UnlockedChastityCage.description,An unlocked chastity cage for penises that prevents erections.,description,ThingDefs\Unlockable\Items_Bondage_Unlocked_ChastityCage.xml,def
+UnlockedGagBall.label,unlocked ball gag,label,ThingDefs\Unlockable\Items_Bondage_Unlocked_GagBall.xml,def
+UnlockedGagBall.description,An unlocked ball gag that prevents talking and other oral interactions.,description,ThingDefs\Unlockable\Items_Bondage_Unlocked_GagBall.xml,def
+UnlockedGagRing.label,unlocked ring gag,label,ThingDefs\Unlockable\Items_Bondage_Unlocked_GagRing.xml,def
+UnlockedGagRing.description,An unlocked ring gag that prevents talking and allows oral interaction.,description,ThingDefs\Unlockable\Items_Bondage_Unlocked_GagRing.xml,def
+UnlockedLegbinder.label,unlocked legbinder,label,ThingDefs\Unlockable\Items_Bondage_Unlocked_Legbinder.xml,def
+UnlockedLegbinder.description,An unlocked legbinder that prevents any pawn it's attached to from using their legs.,description,ThingDefs\Unlockable\Items_Bondage_Unlocked_Legbinder.xml,def
+ChastityBelt.labelNoun,贞操带,ChastityBelt.labelNoun,hediffdef\Hediffs_Bondage.xml,def
+AnalPlugExpandable.comps.0.useLabel,装备,AnalPlugExpandable.comps.0.useLabel,rjwex.anal_plug_def\Items_Plugs_Inflatable.xml,def
+MAnalPlugSmall.comps.0.useLabel,装备,MAnalPlugSmall.comps.0.useLabel,rjwex.anal_plug_def\Items_Plugs_Metal.xml,def
+MAnalPlugMedium.comps.0.useLabel,装备,MAnalPlugMedium.comps.0.useLabel,rjwex.anal_plug_def\Items_Plugs_Metal.xml,def
+MAnalPlugLarge.comps.0.useLabel,装备,MAnalPlugLarge.comps.0.useLabel,rjwex.anal_plug_def\Items_Plugs_Metal.xml,def
+SAnalPlugSmall.comps.0.useLabel,装备,SAnalPlugSmall.comps.0.useLabel,rjwex.anal_plug_def\Items_Plugs_Stony.xml,def
+SAnalPlugMedium.comps.0.useLabel,装备,SAnalPlugMedium.comps.0.useLabel,rjwex.anal_plug_def\Items_Plugs_Stony.xml,def
+SAnalPlugLarge.comps.0.useLabel,装备,SAnalPlugLarge.comps.0.useLabel,rjwex.anal_plug_def\Items_Plugs_Stony.xml,def
+WAnalPlugSmall.comps.0.useLabel,装备,WAnalPlugSmall.comps.0.useLabel,rjwex.anal_plug_def\Items_Plugs_Woody.xml,def
+WAnalPlugMedium.comps.0.useLabel,装备,WAnalPlugMedium.comps.0.useLabel,rjwex.anal_plug_def\Items_Plugs_Woody.xml,def
+WAnalPlugLarge.comps.0.useLabel,装备,WAnalPlugLarge.comps.0.useLabel,rjwex.anal_plug_def\Items_Plugs_Woody.xml,def

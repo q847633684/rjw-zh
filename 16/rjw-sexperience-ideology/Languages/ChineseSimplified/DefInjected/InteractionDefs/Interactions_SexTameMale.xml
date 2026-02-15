@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'male animal sex chat',新增于2026-02-14-->
+  <!--EN: male animal sex chat-->
+  <AnimalSexTameChatMale.label>male animal sex chat</AnimalSexTameChatMale.label>
+  <!--翻译内容: 'r_logentry->[INITIATOR_nameDef] [zooact] [RECIPIENT_nameDef].',新增于2026-02-14-->
+  <!--EN: r_logentry->[INITIATOR_nameDef] [zooact] [RECIPIENT_nameDef].-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [zooact] [RECIPIENT_nameDef].</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.0>
+  <!--翻译内容: 'r_logentry->[INITIATOR_nameDef] tried to make [RECIPIENT_nameDef] sit still while [genplan] [RECIPIENT_nameDef]'s genitals.',新增于2026-02-14-->
+  <!--EN: r_logentry->[INITIATOR_nameDef] tried to make [RECIPIENT_nameDef] sit still while [genplan] [RECIPIENT_nameDef]'s genitals.-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] 试图在 [genplan] [RECIPIENT_nameDef] 的生殖器时让 [RECIPIENT_nameDef] 安静地坐着。</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.1>
+  <!--翻译内容: 'genact->tried to kiss',新增于2026-02-14-->
+  <!--EN: genact->tried to kiss-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.10>genact->试图亲吻</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.10>
+  <!--翻译内容: 'genact->tried to lick',新增于2026-02-14-->
+  <!--EN: genact->tried to lick-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.11>genact->试图舔</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.11>
+  <!--翻译内容: 'genact->tried to taste',新增于2026-02-14-->
+  <!--EN: genact->tried to taste-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.12>genact->尝试品尝</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.12>
+  <!--翻译内容: 'zooplan->to lick',新增于2026-02-14-->
+  <!--EN: zooplan->to lick-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.13>zooplan->舔</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.13>
+  <!--翻译内容: 'zooplan->to taste',新增于2026-02-14-->
+  <!--EN: zooplan->to taste-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.14>zooplan->品尝</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.14>
+  <!--翻译内容: 'zooplan->to sniff',新增于2026-02-14-->
+  <!--EN: zooplan->to sniff-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.15>zooplan->嗅闻</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.15>
+  <!--翻译内容: 'genplan->trying to lick',新增于2026-02-14-->
+  <!--EN: genplan->trying to lick-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.16>genplan->试图舔</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.16>
+  <!--翻译内容: 'genplan->trying to touch',新增于2026-02-14-->
+  <!--EN: genplan->trying to touch-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.17>genplan->试图触摸</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.17>
+  <!--翻译内容: 'genplan->trying to stroke',新增于2026-02-14-->
+  <!--EN: genplan->trying to stroke-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.18>genplan->试图抚摸</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.18>
+  <!--翻译内容: 'genplan->trying to taste',新增于2026-02-14-->
+  <!--EN: genplan->trying to taste-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.19>genplan->尝试品尝</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.19>
+  <!--翻译内容: 'r_logentry->[INITIATOR_nameDef] attempted to hold [RECIPIENT_nameDef] still while [genplan] [RECIPIENT_nameDef]'s genitals.',新增于2026-02-14-->
+  <!--EN: r_logentry->[INITIATOR_nameDef] attempted to hold [RECIPIENT_nameDef] still while [genplan] [RECIPIENT_nameDef]'s genitals.-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] 试图在 [genplan] [RECIPIENT_nameDef] 的生殖器时保持 [RECIPIENT_nameDef] 不动。</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.2>
+  <!--翻译内容: 'zooact->showed [INITIATOR_possessive] genitals to',新增于2026-02-14-->
+  <!--EN: zooact->showed [INITIATOR_possessive] genitals to-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.20>zooact->向他人展示了 [INITIATOR_possessive] 生殖器</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.20>
+  <!--翻译内容: 'zooact->presented [INITIATOR_possessive] genitals to',新增于2026-02-14-->
+  <!--EN: zooact->presented [INITIATOR_possessive] genitals to-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.21>zooact->将 [INITIATOR_possessive] 生殖器呈现给</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.21>
+  <!--翻译内容: 'r_logentry->[INITIATOR_nameDef] [genact] [RECIPIENT_nameDef]'s genitals.',新增于2026-02-14-->
+  <!--EN: r_logentry->[INITIATOR_nameDef] [genact] [RECIPIENT_nameDef]'s genitals.-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef] [genact] [RECIPIENT_nameDef] 的生殖器。</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.3>
+  <!--翻译内容: 'r_logentry->[INITIATOR_nameDef] allowed [RECIPIENT_nameDef] [zooplan] [INITIATOR_possessive] genitals.',新增于2026-02-14-->
+  <!--EN: r_logentry->[INITIATOR_nameDef] allowed [RECIPIENT_nameDef] [zooplan] [INITIATOR_possessive] genitals.-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef] 允许 [RECIPIENT_nameDef] [zooplan] [INITIATOR_possessive] 生殖器。</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.4>
+  <!--翻译内容: 'r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] [zooplan] [INITIATOR_possessive] genitals.',新增于2026-02-14-->
+  <!--EN: r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] [zooplan] [INITIATOR_possessive] genitals.-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef] 鼓励 [RECIPIENT_nameDef] [zooplan] [INITIATOR_possessive] 生殖器。</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.5>
+  <!--翻译内容: 'genact->gently touched',新增于2026-02-14-->
+  <!--EN: genact->gently touched-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.6>genact->轻轻地碰触</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.6>
+  <!--翻译内容: 'genact->gently caressed',新增于2026-02-14-->
+  <!--EN: genact->gently caressed-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.7>genact->轻轻地抚摸</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.7>
+  <!--翻译内容: 'genact->firmly stroked',新增于2026-02-14-->
+  <!--EN: genact->firmly stroked-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.8>genact->用力抚摸</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.8>
+  <!--翻译内容: 'genact->gently stroked',新增于2026-02-14-->
+  <!--EN: genact->gently stroked-->
+  <AnimalSexTameChatMale.logRulesInitiator.rulesStrings.9>genact->轻轻抚摸</AnimalSexTameChatMale.logRulesInitiator.rulesStrings.9>
+</LanguageData>

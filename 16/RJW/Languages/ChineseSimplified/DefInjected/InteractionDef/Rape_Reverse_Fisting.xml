@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '强迫逆拳交', 原英文: '无' -> 新英文: 'fisting',更新于2026-02-14-->
+  <!--EN: fisting-->
+  <Rape_Reverse_Fisting.label>强迫逆拳交</Rape_Reverse_Fisting.label>
+  <!--原中文: '让其拳交', 原英文: '无' -> 新英文: 'Get fisted anally',更新于2026-02-14-->
+  <!--EN: Get fisted anally-->
+  <Rape_Reverse_Fisting.modExtensions.0.RMBLabel>让其拳交</Rape_Reverse_Fisting.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->强迫[RECIPIENT_nameDef]把拳头插进了自己的身体。', 原英文: '无' -> 新英文: 'r_logentry->Forced [RECIPIENT_nameDef] to give fisting.',更新于2026-02-14-->
+  <!--EN: r_logentry->Forced [RECIPIENT_nameDef] to give fisting.-->
+  <Rape_Reverse_Fisting.logRulesInitiator.rulesStrings.0>r_logentry->强迫[RECIPIENT_nameDef]把拳头插进了自己的身体。</Rape_Reverse_Fisting.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->被迫把拳头插进了[INITIATOR_nameDef]的身体。', 原英文: '无' -> 新英文: 'r_logentry->Was forced to fist [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Was forced to fist [INITIATOR_nameDef].-->
+  <Rape_Reverse_Fisting.logRulesRecipient.rulesStrings.0>r_logentry->被迫把拳头插进了[INITIATOR_nameDef]的身体。</Rape_Reverse_Fisting.logRulesRecipient.rulesStrings.0>
+</LanguageData>

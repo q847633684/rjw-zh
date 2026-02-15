@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '制作全息锁', 原英文: '无' -> 新英文: 'make hololock',更新于2026-02-14-->
+  <!--EN: make hololock-->
+  <MakeHololock.label>制作全息锁</MakeHololock.label>
+  <!--原中文: '制作全息锁。', 原英文: '无' -> 新英文: 'Make a hololock.',更新于2026-02-14-->
+  <!--EN: Make a hololock.-->
+  <MakeHololock.description>制作全息锁。</MakeHololock.description>
+  <!--原中文: '制作全息锁。', 原英文: '无' -> 新英文: 'Making hololock.',更新于2026-02-14-->
+  <!--EN: Making hololock.-->
+  <MakeHololock.jobString>制作全息锁。</MakeHololock.jobString>
+  <!--原中文: '制作链条', 原英文: '无' -> 新英文: 'make chains',更新于2026-02-14-->
+  <!--EN: make chains-->
+  <MakePrisonerChains.label>制作链条</MakePrisonerChains.label>
+  <!--原中文: '制作链条。', 原英文: '无' -> 新英文: 'Make a restricvive chains.',更新于2026-02-14-->
+  <!--EN: Make a restricvive chains.-->
+  <MakePrisonerChains.description>制作链条。</MakePrisonerChains.description>
+  <!--原中文: '制作链条。', 原英文: '无' -> 新英文: 'Making chains.',更新于2026-02-14-->
+  <!--EN: Making chains.-->
+  <MakePrisonerChains.jobString>制作链条。</MakePrisonerChains.jobString>
+</LanguageData>

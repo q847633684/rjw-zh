@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: An anus with a tough hide on the outside.-->
+  <DinoAnus.description>一个肛门外面有一个坚固的兽皮。</DinoAnus.description>
+  <!--EN: dinosaur anus-->
+  <DinoAnus.label>恐龙🦕 肛门</DinoAnus.label>
+  <!--EN: a dinosaur's anus-->
+  <DinoAnus.labelNoun>adinosaur的肛门</DinoAnus.labelNoun>
+  <!--EN: A large tapered penis that is slightly flattened at the top. It looks similar to a large tongue.-->
+  <DinoPenis.description>一个大的锥形的。阳具/屌顶部稍微压平了。它看起来就像一条大舌。</DinoPenis.description>
+  <!--EN: dino penis-->
+  <DinoPenis.label>恐龙阳具/屌</DinoPenis.label>
+  <!--EN: a dino penis-->
+  <DinoPenis.labelNoun>一个恐龙阳具/屌</DinoPenis.labelNoun>
+  <!--EN: A vagina with a tough hide on the outside.-->
+  <DinoVagina.description>Avagina外面有一个坚固的兽皮。</DinoVagina.description>
+  <!--EN: dinosaur vagina-->
+  <DinoVagina.label>恐龙🦕 阴道</DinoVagina.label>
+  <!--EN: a dinosaur's vagina-->
+  <DinoVagina.labelNoun>adinosaur的阴道</DinoVagina.labelNoun>
+  <!--EN: An somewhat elongated anus with unexpectedly soft scales covering it on the outside, found normaly under tails of draconoids.-->
+  <DragonAnus.description>有点细长肛门外面覆盖着意想不到的柔软鳞片，龙血石的一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。下发现了正常。</DragonAnus.description>
+  <!--EN: dragon anus-->
+  <DragonAnus.label>龙🐉 肛门</DragonAnus.label>
+  <!--EN: a scally anus-->
+  <DragonAnus.labelNoun>骗子肛门</DragonAnus.labelNoun>
+  <!--EN: A smooth and tapering to point penis, hidden inside a cloacal slit when its owner are not aroused.-->
+  <ReptilePenis.description>有点光滑和逐渐变细。阳具/屌,当它的主人不在时隐藏在泄殖腔的狭缝中性兴奋的没有。</ReptilePenis.description>
+  <!--EN: reptile penis-->
+  <ReptilePenis.label>爬行动物阳具/屌</ReptilePenis.label>
+  <!--EN: a reptilian penis-->
+  <ReptilePenis.labelNoun>一个爬行动物阳具/屌</ReptilePenis.labelNoun>
+  <!--EN: A pair of scale-covered breasts, without nipples.-->
+  <ScaleBreasts.description>一对覆盖有鳞片的乳房,不带乳头没有。</ScaleBreasts.description>
+  <!--EN: scaly breasts-->
+  <ScaleBreasts.label>鳞片乳房</ScaleBreasts.label>
+  <!--EN: a pair of scaly breasts-->
+  <ScaleBreasts.labelNoun>一对有鳞片的乳房</ScaleBreasts.labelNoun>
+</LanguageData>

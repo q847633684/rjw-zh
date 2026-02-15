@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: A garment worn to seduce and show off the body.-->
+  <SSAChinadress.description>一种用来引诱和展示身材的服装。</SSAChinadress.description>
+  <!--EN: China dress-->
+  <SSAChinadress.label>旗袍</SSAChinadress.label>
+  <!--EN: Exotic clothing worn by women of an ancient empire.-->
+  <SSAEgypt.description>古代帝国女性所穿的异域服饰。</SSAEgypt.description>
+  <!--EN: Egypt-->
+  <SSAEgypt.label>埃及风情</SSAEgypt.label>
+  <!--EN: Common outfit typically worn by concubines in brothels.-->
+  <SSAHanbok.description>青楼中妾室通常穿着的常见服装。</SSAHanbok.description>
+  <!--EN: Hanbok-->
+  <SSAHanbok.label>韩服</SSAHanbok.label>
+  <!--EN: This is the kimono worn by concubines in high end brothels.-->
+  <SSAKimono.description>这是高档青楼中妾室所穿的和服。</SSAKimono.description>
+  <!--EN: Concubine's Kimono-->
+  <SSAKimono.label>妾室和服</SSAKimono.label>
+  <!--EN: Sheer dress, while it technically covers the body, it is very thin and revealing.-->
+  <Sheerdress.description>薄纱裙，虽然理论上能遮住身体，但质地非常薄且暴露。</Sheerdress.description>
+  <!--EN: Sheer dress-->
+  <Sheerdress.label>薄纱裙</Sheerdress.label>
+  <!--EN: Bunny girl outfit, ready to objectify and humiliate even the most wilful slave.-->
+  <Slavebunnymktwo.description>兔女郎装束，准备好物化甚至羞辱最任性的奴隶。</Slavebunnymktwo.description>
+  <!--EN: Slave bunny-->
+  <Slavebunnymktwo.label>奴隶兔女郎</Slavebunnymktwo.label>
+</LanguageData>

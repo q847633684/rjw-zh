@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ElasticisingSerum.label>弹力精华液</ElasticisingSerum.label>
+  <ElasticisingSerum.description>使使用者的孔口富有弹性。</ElasticisingSerum.description>
+  <ElasticisingSerum.ingestible.ingestCommandString>饮料 {0}</ElasticisingSerum.ingestible.ingestCommandString>
+  <ElasticisingSerum.ingestible.ingestReportString>饮用 {0}。</ElasticisingSerum.ingestible.ingestReportString>
+
+  <EnlargingSerum.label>增大精华液</EnlargingSerum.label>
+  <EnlargingSerum.description>暂时增大生殖器。</EnlargingSerum.description>
+  <EnlargingSerum.ingestible.ingestCommandString>喝{0}</EnlargingSerum.ingestible.ingestCommandString>
+  <EnlargingSerum.ingestible.ingestReportString>喝{0}。</EnlargingSerum.ingestible.ingestReportString>
+
+  <DiminishingSerum.label>减少血清</DiminishingSerum.label>
+  <DiminishingSerum.description>暂时缩小生殖器。</DiminishingSerum.description>
+  <DiminishingSerum.ingestible.ingestCommandString>饮料 {0}</DiminishingSerum.ingestible.ingestCommandString>
+  <DiminishingSerum.ingestible.ingestReportString>饮用 {0}。</DiminishingSerum.ingestible.ingestReportString>
+
+  <ReinforcingSerum.label>强化血清</ReinforcingSerum.label>
+  <ReinforcingSerum.description>使使用者的孔口无法被撕裂，但仍可拉伸。</ReinforcingSerum.description>
+  <ReinforcingSerum.ingestible.ingestCommandString>饮料 {0}</ReinforcingSerum.ingestible.ingestCommandString>
+  <ReinforcingSerum.ingestible.ingestReportString>饮用 {0}。</ReinforcingSerum.ingestible.ingestReportString>
+
+
+</LanguageData>

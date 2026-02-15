@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Animal Prey-->
+  <RV2_AnimalPrey.label>动物猎物</RV2_AnimalPrey.label>
+  <!--EN: Animals are not meant to be vored, doing so is a disgusting insult to our religion.-->
+  <RV2_AnimalPrey_Abhorrent.description>动物不应该被纵容，这样做是对我们宗教的严重侮辱。</RV2_AnimalPrey_Abhorrent.description>
+  <!--EN: abhorrent-->
+  <RV2_AnimalPrey_Abhorrent.label>厌恶</RV2_AnimalPrey_Abhorrent.label>
+  <!--EN: I vored an animal when it is against my ideology. I feel horrible.-->
+  <RV2_AnimalPrey_Abhorrent.stages.0.description>当一只动物违背我的文化形态时，我奴役了它。我感觉很糟糕。</RV2_AnimalPrey_Abhorrent.stages.0.description>
+  <!--EN: Animal vore-->
+  <RV2_AnimalPrey_Abhorrent.stages.0.label>动物吃人</RV2_AnimalPrey_Abhorrent.stages.0.label>
+  <!--EN: Voring venerated animals is abhorrent-->
+  <RV2_AnimalPrey_Abhorrent_Venerated.description>奴役圣兽令人憎恶</RV2_AnimalPrey_Abhorrent_Venerated.description>
+  <!--EN: abhorrent (Venerated)-->
+  <RV2_AnimalPrey_Abhorrent_Venerated.label>憎恶 (圣)</RV2_AnimalPrey_Abhorrent_Venerated.label>
+  <!--EN: I vored a sacred creature of my ideology, I am a shame to this colony-->
+  <RV2_AnimalPrey_Abhorrent_Venerated.stages.0.description>我掠夺了一个符合我文化形态的神圣生物，我是这个殖民地的耻辱</RV2_AnimalPrey_Abhorrent_Venerated.stages.0.description>
+  <!--EN: I vored a venerated animal!-->
+  <RV2_AnimalPrey_Abhorrent_Venerated.stages.0.label>我崇拜了一只圣兽!</RV2_AnimalPrey_Abhorrent_Venerated.stages.0.label>
+  <!--EN: Voring animals is not okay.-->
+  <RV2_AnimalPrey_Disliked.description>收留动物是不好的。</RV2_AnimalPrey_Disliked.description>
+  <!--EN: disliked-->
+  <RV2_AnimalPrey_Disliked.label>反感</RV2_AnimalPrey_Disliked.label>
+  <!--EN: I should not have done that, my ideology discourages it-->
+  <RV2_AnimalPrey_Disliked.stages.0.description>我不应该那样做，我的文化让我不鼓励</RV2_AnimalPrey_Disliked.stages.0.description>
+  <!--EN: I vored an animal-->
+  <RV2_AnimalPrey_Disliked.stages.0.label>我收留了一只动物</RV2_AnimalPrey_Disliked.stages.0.label>
+  <!--EN: One of us consumed an animal, this is a disgusting insult to our beliefs!-->
+  <RV2_AnimalPrey_Know_Abhorrent.stages.0.description>我们中的一员吃了一只动物，这是对我们信仰的侮辱!</RV2_AnimalPrey_Know_Abhorrent.stages.0.description>
+  <!--EN: Someone vored an animal!!-->
+  <RV2_AnimalPrey_Know_Abhorrent.stages.0.label>有人奴役了一只动物!!</RV2_AnimalPrey_Know_Abhorrent.stages.0.label>
+  <!--EN: venerated animal abuser-->
+  <RV2_AnimalPrey_Know_Abhorrent_Venerated.stages.0.label>虐待圣兽者</RV2_AnimalPrey_Know_Abhorrent_Venerated.stages.0.label>
+  <!--EN: vored an animal-->
+  <RV2_AnimalPrey_Know_Disliked.stages.0.label>奴役了动物</RV2_AnimalPrey_Know_Disliked.stages.0.label>
+  <!--EN: animal taster-->
+  <RV2_AnimalPrey_Know_Liked.stages.0.label>试兽官</RV2_AnimalPrey_Know_Liked.stages.0.label>
+  <!--EN: venerated taster-->
+  <RV2_AnimalPrey_Know_Liked_Venerated.stages.0.label>圣膳官</RV2_AnimalPrey_Know_Liked_Venerated.stages.0.label>
+  <!--EN: One of our members consumed animal prey, a very respectable act!-->
+  <RV2_AnimalPrey_Know_Required.stages.0.description>我们的一名成员吞噬了动物猎物，这是一种非常值得尊敬的行为!</RV2_AnimalPrey_Know_Required.stages.0.description>
+  <!--EN: Someone vored an animal!-->
+  <RV2_AnimalPrey_Know_Required.stages.0.label>有人收留了一只动物!</RV2_AnimalPrey_Know_Required.stages.0.label>
+  <!--EN: vored animal-->
+  <RV2_AnimalPrey_Know_Social_Abhorrent.stages.0.label>被收留的动物</RV2_AnimalPrey_Know_Social_Abhorrent.stages.0.label>
+  <!--EN: divine animal enjoyer-->
+  <RV2_AnimalPrey_Know_Social_Required.stages.0.label>神圣的动物爱好者</RV2_AnimalPrey_Know_Social_Required.stages.0.label>
+  <!--EN: Voring animals is encouraged-->
+  <RV2_AnimalPrey_Liked.description>鼓励收留动物</RV2_AnimalPrey_Liked.description>
+  <!--EN: liked-->
+  <RV2_AnimalPrey_Liked.label>喜爱</RV2_AnimalPrey_Liked.label>
+  <!--EN: Partaking in this divine art fills me with joy-->
+  <RV2_AnimalPrey_Liked.stages.0.description>参与这神圣的艺术使我感到愉悦</RV2_AnimalPrey_Liked.stages.0.description>
+  <!--EN: I vored an animal-->
+  <RV2_AnimalPrey_Liked.stages.0.label>我收留了一只动物</RV2_AnimalPrey_Liked.stages.0.label>
+  <!--EN: Voring venerated animals is encouraged-->
+  <RV2_AnimalPrey_Liked_Venerated.description>鼓励奴役圣兽</RV2_AnimalPrey_Liked_Venerated.description>
+  <!--EN: liked (Venerated)-->
+  <RV2_AnimalPrey_Liked_Venerated.label>喜爱 (圣兽)</RV2_AnimalPrey_Liked_Venerated.label>
+  <!--EN: To vore such a sacred animal is truly an honor-->
+  <RV2_AnimalPrey_Liked_Venerated.stages.0.description>到吃人这样一个神圣的动物真是一种荣誉。</RV2_AnimalPrey_Liked_Venerated.stages.0.description>
+  <!--EN: I vored a venerated animal-->
+  <RV2_AnimalPrey_Liked_Venerated.stages.0.label>我哺育了一只圣兽</RV2_AnimalPrey_Liked_Venerated.stages.0.label>
+  <!--EN: Not vored an animal for {VORERELATEDINTERVAL} days-->
+  <RV2_AnimalPrey_Required.comps.3.description>没有将动物收留给{VORERELATEDINTERVAL}天</RV2_AnimalPrey_Required.comps.3.description>
+  <!--EN: We are born to vore animals, only through regular consumption can we stay true to our beliefs.-->
+  <RV2_AnimalPrey_Required.description>我们出生在吃人动物，只有通过定期食用，我们才能忠实于我们的信仰。</RV2_AnimalPrey_Required.description>
+  <!--EN: required-->
+  <RV2_AnimalPrey_Required.label>必需</RV2_AnimalPrey_Required.label>
+  <!--EN: By voring animals I honor my beliefs.-->
+  <RV2_AnimalPrey_Required.stages.0.description>通过收留动物，我尊重我的信仰。</RV2_AnimalPrey_Required.stages.0.description>
+  <!--EN: Vored animal-->
+  <RV2_AnimalPrey_Required.stages.0.label>被收留的动物</RV2_AnimalPrey_Required.stages.0.label>
+  <!--EN: It's been far too long since I last vored an animal.-->
+  <RV2_NoRecentAnimalPrey_Required.stages.0.description>我已经很久很久没有体验过一只动物了。</RV2_NoRecentAnimalPrey_Required.stages.0.description>
+  <!--EN: want to vore animals-->
+  <RV2_NoRecentAnimalPrey_Required.stages.0.label>想要吃人驯兽工作</RV2_NoRecentAnimalPrey_Required.stages.0.label>
+</LanguageData>

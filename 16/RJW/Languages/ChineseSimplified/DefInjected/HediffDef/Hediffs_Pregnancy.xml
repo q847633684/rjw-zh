@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--过时key，需删除-->
+  <RJW_pregnancy.label>怀孕</RJW_pregnancy.label>
+  <!--过时key，需删除-->
+  <RJW_pregnancy.description>婴儿在西瓜肚里。</RJW_pregnancy.description>
+  <!--原中文: '前期', 原英文: '无' -> 新英文: 'early-stage',更新于2026-02-14-->
+  <!--EN: early-stage-->
+  <RJW_pregnancy.stages.0.label>前期</RJW_pregnancy.stages.0.label>
+  <!--原中文: '中期', 原英文: '无' -> 新英文: 'middle-stage',更新于2026-02-14-->
+  <!--EN: middle-stage-->
+  <RJW_pregnancy.stages.1.label>中期</RJW_pregnancy.stages.1.label>
+  <!--原中文: '晚期', 原英文: '无' -> 新英文: 'late-stage',更新于2026-02-14-->
+  <!--EN: late-stage-->
+  <RJW_pregnancy.stages.2.label>晚期</RJW_pregnancy.stages.2.label>
+  <!--原中文: '临产', 原英文: '无' -> 新英文: 'having contractions',更新于2026-02-14-->
+  <!--EN: having contractions-->
+  <RJW_pregnancy.stages.3.label>临产</RJW_pregnancy.stages.3.label>
+  <!--过时key，需删除-->
+  <RJW_pregnancy_beast.label>怀孕</RJW_pregnancy_beast.label>
+  <!--过时key，需删除-->
+  <RJW_pregnancy_beast.description>宝宝在西瓜肚里。</RJW_pregnancy_beast.description>
+  <!--原中文: '前期', 原英文: '无' -> 新英文: 'early-stage',更新于2026-02-14-->
+  <!--EN: early-stage-->
+  <RJW_pregnancy_beast.stages.0.label>前期</RJW_pregnancy_beast.stages.0.label>
+  <!--原中文: '中期', 原英文: '无' -> 新英文: 'middle-stage',更新于2026-02-14-->
+  <!--EN: middle-stage-->
+  <RJW_pregnancy_beast.stages.1.label>中期</RJW_pregnancy_beast.stages.1.label>
+  <!--原中文: '晚期', 原英文: '无' -> 新英文: 'late-stage',更新于2026-02-14-->
+  <!--EN: late-stage-->
+  <RJW_pregnancy_beast.stages.2.label>晚期</RJW_pregnancy_beast.stages.2.label>
+  <!--原中文: '临产', 原英文: '无' -> 新英文: 'having contractions',更新于2026-02-14-->
+  <!--EN: having contractions-->
+  <RJW_pregnancy_beast.stages.3.label>临产</RJW_pregnancy_beast.stages.3.label>
+  <!--过时key，需删除-->
+  <RJW_pregnancy_mech.label>怀孕</RJW_pregnancy_mech.label>
+  <!--过时key，需删除-->
+  <RJW_pregnancy_mech.description>奇怪的东西在西瓜肚里。</RJW_pregnancy_mech.description>
+  <!--原中文: '前期', 原英文: '无' -> 新英文: 'early-stage',更新于2026-02-14-->
+  <!--EN: early-stage-->
+  <RJW_pregnancy_mech.stages.0.label>前期</RJW_pregnancy_mech.stages.0.label>
+  <!--原中文: '中期', 原英文: '无' -> 新英文: 'middle-stage',更新于2026-02-14-->
+  <!--EN: middle-stage-->
+  <RJW_pregnancy_mech.stages.1.label>中期</RJW_pregnancy_mech.stages.1.label>
+  <!--原中文: '晚期', 原英文: '无' -> 新英文: 'late-stage',更新于2026-02-14-->
+  <!--EN: late-stage-->
+  <RJW_pregnancy_mech.stages.2.label>晚期</RJW_pregnancy_mech.stages.2.label>
+  <!--原中文: '临产', 原英文: '无' -> 新英文: 'having contractions',更新于2026-02-14-->
+  <!--EN: having contractions-->
+  <RJW_pregnancy_mech.stages.3.label>临产</RJW_pregnancy_mech.stages.3.label>
+</LanguageData>

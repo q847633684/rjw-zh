@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Syphilis is a serious disease that affects the mind. If left untreated, it leads to corrupted thoughts, mood problems, potential permanent damage to the brain, liver, and kidneys, and, ultimately, death. The good news is that it is easily defeated by proper treatment.-->
+  <Syphilis.description>梅毒是一种影响精神的严重疾病。如果不加以治疗，会导致思想堕落、情绪问题，可能对大脑、肝脏和肾脏造成永久性损伤，并最终导致死亡。好消息是，通过适当的治疗很容易治愈。</Syphilis.description>
+  <!--EN: syphilis-->
+  <Syphilis.label>梅毒</Syphilis.label>
+</LanguageData>

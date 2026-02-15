@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <debug>除错</debug>
+  <debug_desc>调试描述</debug_desc>
+  <cum_on_body>启用精液状态</cum_on_body>
+  <cum_on_body_desc>在健康面板启用精液覆盖状态</cum_on_body_desc>
+  <cum_on_body_amount>调整身上的精液量</cum_on_body_amount>
+  <cum_on_body_amount_desc>所有居民身上的精液量将乘以该数值.</cum_on_body_amount_desc>
+  <cum_overlays>启用精液覆盖视觉效果</cum_overlays>
+  <cum_overlays_desc>精液贴图覆盖居民贴图（可能与更改居民外观的MOD冲突）\n需要先启用精液飞溅</cum_overlays_desc>
+  <manual_hero_CleanSelf>主角手动清洁</manual_hero_CleanSelf>
+  <manual_hero_CleanSelf_desc>主角居民只有在手动清洁时才会清洁自己身上的精液</manual_hero_CleanSelf_desc>
+  <dubsDBH_block_CleanSelf>Dubs Bad Hygiene阻止清洁自己</dubsDBH_block_CleanSelf>
+  <dubsDBH_block_CleanSelf_desc>如果安装了 DubBed Hygiene，居民只会在桶、淋浴、浴缸、热水浴缸等清除身体上的精液.</dubsDBH_block_CleanSelf_desc>
+
+</LanguageData>

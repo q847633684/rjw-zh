@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--过时key，需删除-->
+  <NumofEatenCum.label>吞食精液次数</NumofEatenCum.label>
+  <!--过时key，需删除-->
+  <NumofEatenCum.description>我吃了多少次精液。</NumofEatenCum.description>
+  <!--过时key，需删除-->
+  <AmountofEatenCum.label>吞食精液数量（毫升）</AmountofEatenCum.label>
+  <!--过时key，需删除-->
+  <AmountofEatenCum.description>我吃了多少精液。</AmountofEatenCum.description>
+  <!--原中文: '色欲', 原英文: '无' -> 新英文: 'lust',更新于2026-02-14-->
+  <!--EN: lust-->
+  <Lust.label>色欲</Lust.label>
+  <!--原中文: '我多淫荡。', 原英文: '无' -> 新英文: 'How lustful i am.',更新于2026-02-14-->
+  <!--EN: How lustful i am.-->
+  <Lust.description>我多淫荡。</Lust.description>
+</LanguageData>

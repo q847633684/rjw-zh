@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: gra gra gra gra-->
+  <PrudeDrafted.description>咯 咯 咯 咯</PrudeDrafted.description>
+  <!--EN: this prude is drafted-->
+  <PrudeDrafted.label>这个保守者被征召了</PrudeDrafted.label>
+  <!--EN: dra-->
+  <PrudeDrafted.stages.0.label>征</PrudeDrafted.stages.0.label>
+</LanguageData>

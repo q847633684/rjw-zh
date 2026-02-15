@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks determine how if or how often a pawn proposes vore after sexual interactions.-->
+  <RV2_RJW_PostSexProposalChance.description>这些特质决定了角色在性行为后是否以及多久会提出吞食要求。</RV2_RJW_PostSexProposalChance.description>
+  <!--EN: Post sex proposal-->
+  <RV2_RJW_PostSexProposalChance.label>事后吞食提议</RV2_RJW_PostSexProposalChance.label>
+  <!--EN: [PAWN_label] just can't get off unless there's someone squirming away inside [PAWN_possessive], and will always propose vore after sex.-->
+  <RV2_RJW_PostSexProposalChance_Always.description>[PAWN_label]只有在体内有某人在扭动时才能获得满足，因此总会在性行为后提出吞食要求。</RV2_RJW_PostSexProposalChance_Always.description>
+  <!--EN: Exclusive-->
+  <RV2_RJW_PostSexProposalChance_Always.label>非此不可</RV2_RJW_PostSexProposalChance_Always.label>
+  <!--EN: [PAWN_label] cannot fathom the idea of being turned on by vore after sex. Keep it out of the bedroom.-->
+  <RV2_RJW_PostSexProposalChance_Never.description>[PAWN_label]无法理解为何有人会在性事后因吞食而兴奋。请让它远离卧室。</RV2_RJW_PostSexProposalChance_Never.description>
+  <!--EN: Revulsed-->
+  <RV2_RJW_PostSexProposalChance_Never.label>深恶痛绝</RV2_RJW_PostSexProposalChance_Never.label>
+  <!--EN: [PAWN_label] has no strong feelings about vore, and will propose it after sex as often as the next person.-->
+  <RV2_RJW_PostSexProposalChance_Normal.description>[PAWN_label]对吞食无感，会像普通人一样偶尔在性事后提出要求。</RV2_RJW_PostSexProposalChance_Normal.description>
+  <!--EN: Indifferent-->
+  <RV2_RJW_PostSexProposalChance_Normal.label>无动于衷</RV2_RJW_PostSexProposalChance_Normal.label>
+  <!--EN: [PAWN_label] enjoys the feeling of a post-coital internal massage, and is twice as likely to propose vore after sex.-->
+  <RV2_RJW_PostSexProposalChance_Often.description>[PAWN_label]享受事后体内按摩的感觉，性行为后提出吞食要求的可能性是常人的两倍。</RV2_RJW_PostSexProposalChance_Often.description>
+  <!--EN: Enthusiastic-->
+  <RV2_RJW_PostSexProposalChance_Often.label>热衷于此</RV2_RJW_PostSexProposalChance_Often.label>
+  <!--EN: [PAWN_label] doesn't care much for involving vore in [PAWN_possessive] sex life, and is half as likely to propose it after sex.-->
+  <RV2_RJW_PostSexProposalChance_Rare.description>[PAWN_label]不太热衷于将吞食融入[PAWN_possessive]的性生活，性行为后提出要求的可能性只有常人的一半。</RV2_RJW_PostSexProposalChance_Rare.description>
+  <!--EN: Disinterested-->
+  <RV2_RJW_PostSexProposalChance_Rare.label>兴致缺缺</RV2_RJW_PostSexProposalChance_Rare.label>
+</LanguageData>

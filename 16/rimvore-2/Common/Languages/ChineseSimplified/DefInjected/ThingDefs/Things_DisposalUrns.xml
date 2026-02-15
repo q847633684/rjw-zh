@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: An urn designed to hold digested pawns.-->
+  <RV2_DisposalUrn.description>一个用来装被消化的尸体的瓮。</RV2_DisposalUrn.description>
+  <!--EN: disposal urn-->
+  <RV2_DisposalUrn.label>处置瓮</RV2_DisposalUrn.label>
+</LanguageData>

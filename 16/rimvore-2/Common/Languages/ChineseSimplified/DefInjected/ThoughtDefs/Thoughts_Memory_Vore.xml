@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: I tried to eat {1} with my ass, but they got away. *Now* how am I supposed to feed my tush?-->
+  <RV2_PredatorAnalDigestInterrupted.stages.0.description>我试着进食{1}与我的屁股,但他们跑了。* 现在 * 我该怎么喂养我的树精？</RV2_PredatorAnalDigestInterrupted.stages.0.description>
+  <!--EN: Anal digestion of {0} interrupted-->
+  <RV2_PredatorAnalDigestInterrupted.stages.0.label>肛门被消化的{0}被打断</RV2_PredatorAnalDigestInterrupted.stages.0.label>
+  <!--EN: I lost {1} in my rear end—permanently!-->
+  <RV2_PredatorAnalDigestSuccess.stages.0.description>我输了{1}在我的屁股里 -- 永久!</RV2_PredatorAnalDigestSuccess.stages.0.description>
+  <!--EN: Anally digested {0}-->
+  <RV2_PredatorAnalDigestSuccess.stages.0.label>被消化{0}</RV2_PredatorAnalDigestSuccess.stages.0.label>
+  <!--EN: I tried to stuff {1} up my butt, but we were interrupted. How disappointing.-->
+  <RV2_PredatorAnalPleasureInterrupted.stages.0.description>我试着去填充{1}抬起我的屁股，但我们被打断了。多么令人失望。</RV2_PredatorAnalPleasureInterrupted.stages.0.description>
+  <!--EN: Posternation of {0} interrupted-->
+  <RV2_PredatorAnalPleasureInterrupted.stages.0.label>后者{0}被打断</RV2_PredatorAnalPleasureInterrupted.stages.0.label>
+  <!--EN: I lost {1} up my butt for a while. They're back out, now.-->
+  <RV2_PredatorAnalPleasureSuccess.stages.0.description>我输了{1}抬起我的屁股一段时间。他们现在回来了。</RV2_PredatorAnalPleasureSuccess.stages.0.description>
+  <!--EN: Posternated {0}-->
+  <RV2_PredatorAnalPleasureSuccess.stages.0.label>后发{0}</RV2_PredatorAnalPleasureSuccess.stages.0.label>
+  <!--EN: I feel so much lighter!-->
+  <RV2_PredatorAnalStoreEnd.stages.0.description>我感觉轻松多了!</RV2_PredatorAnalStoreEnd.stages.0.description>
+  <!--EN: Released {0} from intestinal storage-->
+  <RV2_PredatorAnalStoreEnd.stages.0.label>已释放{0}来自肠道储存器</RV2_PredatorAnalStoreEnd.stages.0.label>
+  <!--EN: I tried to churn {1} down into batter, but they got away. Now I'm all pent-up...-->
+  <RV2_PredatorCockConvertSpermInterrupted.stages.0.description>我试着搅动{1}变成了击球手，但他们逃走了。现在我都被压抑了...</RV2_PredatorCockConvertSpermInterrupted.stages.0.description>
+  <!--EN: Phallic spermifaction of {0} interrupted-->
+  <RV2_PredatorCockConvertSpermInterrupted.stages.0.label>阳刚精液{0}被打断</RV2_PredatorCockConvertSpermInterrupted.stages.0.label>
+  <!--EN: I unsowed and melted {1} into cum. Seed, to living being, to seed again.-->
+  <RV2_PredatorCockConvertSpermSuccess.stages.0.description>我未播种，融化了{1}入精液播种，植入活着的生物，植入种子。</RV2_PredatorCockConvertSpermSuccess.stages.0.description>
+  <!--EN: Phallically spermified {0}-->
+  <RV2_PredatorCockConvertSpermSuccess.stages.0.label>阳刚精子{0}</RV2_PredatorCockConvertSpermSuccess.stages.0.label>
+  <!--EN: Good as new!-->
+  <RV2_PredatorCockHealSuccess.stages.0.description>像新的一样优秀!</RV2_PredatorCockHealSuccess.stages.0.description>
+  <!--EN: Healed {0} in their testicles-->
+  <RV2_PredatorCockHealSuccess.stages.0.label>治愈{0}在他们的睾丸/蛋蛋</RV2_PredatorCockHealSuccess.stages.0.label>
+  <!--EN: I tried to use {1} as a sounding-rod, but we were interrupted. Can't I get just a moment to unwind?-->
+  <RV2_PredatorCockPleasureInterrupted.stages.0.description>我尝试使用{1}作为探测杆，但我们被打断了。我就不能得到一个瞬间放松一下？</RV2_PredatorCockPleasureInterrupted.stages.0.description>
+  <!--EN: Unsowing of {0} as a sex-toy interrupted-->
+  <RV2_PredatorCockPleasureInterrupted.stages.0.label>未播种{0}作为一个性玩具被打断</RV2_PredatorCockPleasureInterrupted.stages.0.label>
+  <!--EN: I sounded myself with {1}—and dropped them in.~-->
+  <RV2_PredatorCockPleasureSuccess.stages.0.description>我的声音听起来{1}~</RV2_PredatorCockPleasureSuccess.stages.0.description>
+  <!--EN: Unsowed {0} as a sex-toy-->
+  <RV2_PredatorCockPleasureSuccess.stages.0.label>未播种{0}作为一个性玩具</RV2_PredatorCockPleasureSuccess.stages.0.label>
+  <!--EN: That's a weight off my loins!-->
+  <RV2_PredatorCockStoreEnd.stages.0.description>我的腰已经瘦了!</RV2_PredatorCockStoreEnd.stages.0.description>
+  <!--EN: Released {0} from ball-storage-->
+  <RV2_PredatorCockStoreEnd.stages.0.label>已释放{0}从储存球区</RV2_PredatorCockStoreEnd.stages.0.label>
+  <!--EN: Good as new, hope you enjoyed the ride!-->
+  <RV2_PredatorFullTourHealSuccess.stages.0.description>像新的一样，希望你旅途愉快!</RV2_PredatorFullTourHealSuccess.stages.0.description>
+  <!--EN: Healed {0} in their guts-->
+  <RV2_PredatorFullTourHealSuccess.stages.0.label>治愈{0}在它们的肠子里</RV2_PredatorFullTourHealSuccess.stages.0.label>
+  <!--EN: I tried to give {1} a full tour of my digestive system, but we were interrupted. How disappointing.-->
+  <RV2_PredatorFullTourPleasureInterrupted.stages.0.description>我试图给予{1}afull tour我的消化系统，但我们被打断了。多么令人失望。</RV2_PredatorFullTourPleasureInterrupted.stages.0.description>
+  <!--EN: Guiding {0} interrupted-->
+  <RV2_PredatorFullTourPleasureInterrupted.stages.0.label>引导{0}被打断</RV2_PredatorFullTourPleasureInterrupted.stages.0.label>
+  <!--EN: I gave {1} a sensual tour of my digestive system. I feel a bit cleaner inside!-->
+  <RV2_PredatorFullTourPleasureSuccess.stages.0.description>我给予{1}asensual巡视我的消化系统。我的身体变得更干净了!</RV2_PredatorFullTourPleasureSuccess.stages.0.description>
+  <!--EN: Guided {0}-->
+  <RV2_PredatorFullTourPleasureSuccess.stages.0.label>引导{0}</RV2_PredatorFullTourPleasureSuccess.stages.0.label>
+  <!--EN: I feel so much lighter!-->
+  <RV2_PredatorFullTourStoreEnd.stages.0.description>我感觉轻松多了!</RV2_PredatorFullTourStoreEnd.stages.0.description>
+  <!--EN: Released {0} from stomach-storage by tour-->
+  <RV2_PredatorFullTourStoreEnd.stages.0.label>已释放{0}从胃-储存器之旅</RV2_PredatorFullTourStoreEnd.stages.0.label>
+  <!--EN: I tried to churn {1} down into milk, but they got away. My taps are so dry...-->
+  <RV2_PredatorNippleConvertMilkInterrupted.stages.0.description>我试着搅动{1}进入乳汁后，它们成功逃脱了。我的水龙头太干了...</RV2_PredatorNippleConvertMilkInterrupted.stages.0.description>
+  <!--EN: Mammary lactifaction of {0} interrupted-->
+  <RV2_PredatorNippleConvertMilkInterrupted.stages.0.label>乳房喷出液体（通常是乳汁）。是挤奶的前置标签。喂养{0}被打断</RV2_PredatorNippleConvertMilkInterrupted.stages.0.label>
+  <!--EN: I unsuckled {1} and melted them into milk. They made a delicious batch!-->
+  <RV2_PredatorNippleConvertMilkSuccess.stages.0.description>我未吮吸{1}并将它们融化成乳汁。他们做出了一批美味的!</RV2_PredatorNippleConvertMilkSuccess.stages.0.description>
+  <!--EN: Mammily lactified {0}-->
+  <RV2_PredatorNippleConvertMilkSuccess.stages.0.label>哺乳动物裂解{0}</RV2_PredatorNippleConvertMilkSuccess.stages.0.label>
+  <!--EN: Good as new!-->
+  <RV2_PredatorNippleHealSuccess.stages.0.description>像新的一样优秀!</RV2_PredatorNippleHealSuccess.stages.0.description>
+  <!--EN: Healed {0} in their breasts-->
+  <RV2_PredatorNippleHealSuccess.stages.0.label>治愈{0}在他们的乳房</RV2_PredatorNippleHealSuccess.stages.0.label>
+  <!--EN: I tried to give {1} a milk-bath, but we were interrupted. Can't I get just a moment to unwind?-->
+  <RV2_PredatorNipplePleasureInterrupted.stages.0.description>我试图给予{1}洗了牛奶浴，但我们被打断了。我就不能得到一个瞬间放松一下？</RV2_PredatorNipplePleasureInterrupted.stages.0.description>
+  <!--EN: Unsuckling of {0} as a sex-toy interrupted-->
+  <RV2_PredatorNipplePleasureInterrupted.stages.0.label>未吮吸的{0}作为一个sexXtoy被打断</RV2_PredatorNipplePleasureInterrupted.stages.0.label>
+  <!--EN: {1} massaged my tit from the inside-out! They should bring a friend or two next time...~-->
+  <RV2_PredatorNipplePleasureSuccess.stages.0.description>{1}从里到外给我的乳头按摩了!他们下次应该会带一两个朋友来... ~</RV2_PredatorNipplePleasureSuccess.stages.0.description>
+  <!--EN: Unsuckled {0} as a sex-toy-->
+  <RV2_PredatorNipplePleasureSuccess.stages.0.label>未吮吸{0}作为一个sexXtoy</RV2_PredatorNipplePleasureSuccess.stages.0.label>
+  <!--EN: Oh, my back is ever so grateful!-->
+  <RV2_PredatorNippleStoreEnd.stages.0.description>噢，我的背真是感激不尽!</RV2_PredatorNippleStoreEnd.stages.0.description>
+  <!--EN: Released {0} from breast-storage-->
+  <RV2_PredatorNippleStoreEnd.stages.0.label>已释放{0}来自乳房-储存区</RV2_PredatorNippleStoreEnd.stages.0.label>
+  <!--EN: I tried to gurgle {1}, but they got away. *Now* what am I supposed to eat?-->
+  <RV2_PredatorOralDigestInterrupted.stages.0.description>我试图咯咯笑{1},但他们跑了。* 现在 * 我应该吃什么？</RV2_PredatorOralDigestInterrupted.stages.0.description>
+  <!--EN: Oral digestion of {0} interrupted-->
+  <RV2_PredatorOralDigestInterrupted.stages.0.label>用嘴被消化的{0}被打断</RV2_PredatorOralDigestInterrupted.stages.0.label>
+  <!--EN: I ate and gurgled {1}. A satisfying meal!-->
+  <RV2_PredatorOralDigestSuccess.stages.0.description>我咯咯笑了起来{1}令人满意的一餐!</RV2_PredatorOralDigestSuccess.stages.0.description>
+  <!--EN: Orally digested {0}-->
+  <RV2_PredatorOralDigestSuccess.stages.0.label>被消化{0}</RV2_PredatorOralDigestSuccess.stages.0.label>
+  <!--EN: Good as new!-->
+  <RV2_PredatorOralHealSuccess.stages.0.description>像新的一样优秀!</RV2_PredatorOralHealSuccess.stages.0.description>
+  <!--EN: Healed {0} in their stomach-->
+  <RV2_PredatorOralHealSuccess.stages.0.label>治愈{0}在它们的胃里</RV2_PredatorOralHealSuccess.stages.0.label>
+  <!--EN: I tried to give {1} a vacation in my stomach, but we were interrupted. How disappointing.-->
+  <RV2_PredatorOralPleasureInterrupted.stages.0.description>我试图给予{1}一个假期在我肚子里，但我们被打断了。多么令人失望。</RV2_PredatorOralPleasureInterrupted.stages.0.description>
+  <!--EN: Bellying {0} interrupted-->
+  <RV2_PredatorOralPleasureInterrupted.stages.0.label>吼叫{0}被打断</RV2_PredatorOralPleasureInterrupted.stages.0.label>
+  <!--EN: I gave {1} a place to relax in my stomach. Being so full felt great!-->
+  <RV2_PredatorOralPleasureSuccess.stages.0.description>我给予{1}一个在我胃里放松的地方。吃得饱饱的感觉真是太棒了!</RV2_PredatorOralPleasureSuccess.stages.0.description>
+  <!--EN: Bellied {0}-->
+  <RV2_PredatorOralPleasureSuccess.stages.0.label>大肚{0}</RV2_PredatorOralPleasureSuccess.stages.0.label>
+  <!--EN: I feel so much lighter!-->
+  <RV2_PredatorOralStoreEnd.stages.0.description>我感觉轻松多了!</RV2_PredatorOralStoreEnd.stages.0.description>
+  <!--EN: Released {0} from stomach-storage-->
+  <RV2_PredatorOralStoreEnd.stages.0.label>已释放{0}从胃储存器中</RV2_PredatorOralStoreEnd.stages.0.label>
+  <!--EN: I tried to melt {1} into lube, but they got away. Now I'm all pent-up...-->
+  <RV2_PredatorVaginalConvertLubeInterrupted.stages.0.description>我试图融化{1}入润滑油,但他们跑了。现在我都被压抑了...</RV2_PredatorVaginalConvertLubeInterrupted.stages.0.description>
+  <!--EN: Vaginal lubrifaction of {0} interrupted-->
+  <RV2_PredatorVaginalConvertLubeInterrupted.stages.0.label>阴道淫荡于{0}被打断</RV2_PredatorVaginalConvertLubeInterrupted.stages.0.label>
+  <!--EN: I unbirthed and melted {1} into lube. Their life began in one womb (probably) and ended in another.-->
+  <RV2_PredatorVaginalConvertLubeSuccess.stages.0.description>我刚出生就融化了{1}入润滑油他们的生命始于一个子宫 (可能)，止于另一个子宫。</RV2_PredatorVaginalConvertLubeSuccess.stages.0.description>
+  <!--EN: Vaginally lubrified {0}-->
+  <RV2_PredatorVaginalConvertLubeSuccess.stages.0.label>经阴道失去知觉{0}</RV2_PredatorVaginalConvertLubeSuccess.stages.0.label>
+  <!--EN: Good as new!-->
+  <RV2_PredatorVaginalHealSuccess.stages.0.description>像新的一样优秀!</RV2_PredatorVaginalHealSuccess.stages.0.description>
+  <!--EN: Healed {0} in their womb-->
+  <RV2_PredatorVaginalHealSuccess.stages.0.label>治愈{0}在他们的子宫内</RV2_PredatorVaginalHealSuccess.stages.0.label>
+  <!--EN: I tried to fuck myself with {1}, but we were interrupted. Can't I get just a moment to unwind?-->
+  <RV2_PredatorVaginalPleasureInterrupted.stages.0.description>我试图操我自己{1},但我们被打断了。我就不能得到一个瞬间放松一下？</RV2_PredatorVaginalPleasureInterrupted.stages.0.description>
+  <!--EN: Unbirthing of {0} as a sex-toy interrupted-->
+  <RV2_PredatorVaginalPleasureInterrupted.stages.0.label>展开{0}作为一个sexXtoy被打断</RV2_PredatorVaginalPleasureInterrupted.stages.0.label>
+  <!--EN: I fucked myself with {1}! I'm still twitching just thinking about it.~-->
+  <RV2_PredatorVaginalPleasureSuccess.stages.0.description>我用干了自己{1}不!一想到这，我还在抽搐。~</RV2_PredatorVaginalPleasureSuccess.stages.0.description>
+  <!--EN: Unbirthed {0} as a sex-toy-->
+  <RV2_PredatorVaginalPleasureSuccess.stages.0.label>未生育{0}作为一个sexXtoy</RV2_PredatorVaginalPleasureSuccess.stages.0.label>
+  <!--EN: How disappointing.-->
+  <RV2_PredatorVaginalReformInterrupted.stages.0.description>多么令人失望。</RV2_PredatorVaginalReformInterrupted.stages.0.description>
+  <!--EN: Rebirth of {0} interrupted-->
+  <RV2_PredatorVaginalReformInterrupted.stages.0.label>重生{0}被打断</RV2_PredatorVaginalReformInterrupted.stages.0.label>
+  <!--EN: They look way better with my genes.-->
+  <RV2_PredatorVaginalReformSuccess.stages.0.description>以我的基因来看，他们看起来好多了。</RV2_PredatorVaginalReformSuccess.stages.0.description>
+  <!--EN: Rebirthed {0}-->
+  <RV2_PredatorVaginalReformSuccess.stages.0.label>重生{0}</RV2_PredatorVaginalReformSuccess.stages.0.label>
+  <!--EN: That's a load off my hips!-->
+  <RV2_PredatorVaginalStoreEnd.stages.0.description>真讨厌我!</RV2_PredatorVaginalStoreEnd.stages.0.description>
+  <!--EN: Released {0} from womb-storage-->
+  <RV2_PredatorVaginalStoreEnd.stages.0.label>已释放{0}从储存室</RV2_PredatorVaginalStoreEnd.stages.0.label>
+  <!--EN: {1} tried to feed me to their ass! I'm not butt-food!-->
+  <RV2_PreyAnalDigestInterrupted.stages.0.description>{1}试图把我喂给他们屁股不!我又不是屁股饭!</RV2_PreyAnalDigestInterrupted.stages.0.description>
+  <!--EN: Escaped anal digestion-->
+  <RV2_PreyAnalDigestInterrupted.stages.0.label>逃跑了肛门被消化</RV2_PreyAnalDigestInterrupted.stages.0.label>
+  <!--EN: {1} tried to push me up their posterior, but we were interrupted. How disappointing.-->
+  <RV2_PreyAnalPleasureInterrupted.stages.0.description>{1}试图把我推到他们的后面，但我们被打断了。多么令人失望。</RV2_PreyAnalPleasureInterrupted.stages.0.description>
+  <!--EN: Posternation by {0} interrupted-->
+  <RV2_PreyAnalPleasureInterrupted.stages.0.label>邮寄给{0}被打断</RV2_PreyAnalPleasureInterrupted.stages.0.label>
+  <!--EN: {1} sent me deep inside their derriere. I'm a spelunker!-->
+  <RV2_PreyAnalPleasureSuccess.stages.0.description>{1}让我深入他们的臀部。我是一名洞穴猎人!</RV2_PreyAnalPleasureSuccess.stages.0.description>
+  <!--EN: Posternated by {0}-->
+  <RV2_PreyAnalPleasureSuccess.stages.0.label>由{0}</RV2_PreyAnalPleasureSuccess.stages.0.label>
+  <!--EN: It's nice to have room to stretch again.-->
+  <RV2_PreyAnalStoreEnd.stages.0.description>有空间再次伸展身体真好。</RV2_PreyAnalStoreEnd.stages.0.description>
+  <!--EN: Released from {0}'s intestinal storage-->
+  <RV2_PreyAnalStoreEnd.stages.0.label>释放{0}的肠道储存器</RV2_PreyAnalStoreEnd.stages.0.label>
+  <!--EN: {1} tried to melt me into sperm! I'm not a disposable sex-toy!-->
+  <RV2_PreyCockConvertSpermInterrupted.stages.0.description>{1}试图将我熔化精子不!我不是一次性的sexXtoy不!</RV2_PreyCockConvertSpermInterrupted.stages.0.description>
+  <!--EN: Escaped phallic spermifaction by {0}-->
+  <RV2_PreyCockConvertSpermInterrupted.stages.0.label>逃脱时{0}</RV2_PreyCockConvertSpermInterrupted.stages.0.label>
+  <!--EN: I had a reinvigorating bath.-->
+  <RV2_PreyCockHealSuccess.stages.0.description>我洗了一个充满活力的浴缸。</RV2_PreyCockHealSuccess.stages.0.description>
+  <!--EN: Healed by {0}'s testicles-->
+  <RV2_PreyCockHealSuccess.stages.0.label>治愈{0}的睾丸/蛋蛋</RV2_PreyCockHealSuccess.stages.0.label>
+  <!--EN: {1} tried to use me like a sounding-rod, but we were interrupted. I was so excited, too.-->
+  <RV2_PreyCockPleasureInterrupted.stages.0.description>{1}我想把我当作探测杆来利用，但是我们被打断了。我也很兴奋。</RV2_PreyCockPleasureInterrupted.stages.0.description>
+  <!--EN: Unsowing by {0} as a sex-toy interrupted-->
+  <RV2_PreyCockPleasureInterrupted.stages.0.label>未播种{0}作为一个sexXtoy被打断</RV2_PreyCockPleasureInterrupted.stages.0.label>
+  <!--EN: {1} used me as a living sounding-rod! I'm a little bit dizzy, but damn if it wasn't hot!-->
+  <RV2_PreyCockPleasureSuccess.stages.0.description>{1}把我当作活的试探杆!我有点头晕，但该死的如果不是这样性感的不!</RV2_PreyCockPleasureSuccess.stages.0.description>
+  <!--EN: Unsown by {0} as a sex-toy-->
+  <RV2_PreyCockPleasureSuccess.stages.0.label>未播种{0}作为一个sexXtoy</RV2_PreyCockPleasureSuccess.stages.0.label>
+  <!--EN: It's nice to have room to stretch again.-->
+  <RV2_PreyCockStoreEnd.stages.0.description>有空间再次伸展身体真好。</RV2_PreyCockStoreEnd.stages.0.description>
+  <!--EN: Released from {0}'s ball-storage-->
+  <RV2_PreyCockStoreEnd.stages.0.label>释放{0}的控球区</RV2_PreyCockStoreEnd.stages.0.label>
+  <!--EN: I had a reinvigorating bath, and a nice trip.-->
+  <RV2_PreyFullTourHealSuccess.stages.0.description>我洗了一个充满活力的浴缸，旅途愉快。</RV2_PreyFullTourHealSuccess.stages.0.description>
+  <!--EN: Healed by {0}'s guts-->
+  <RV2_PreyFullTourHealSuccess.stages.0.label>治愈{0}的勇气</RV2_PreyFullTourHealSuccess.stages.0.label>
+  <!--EN: {1} tried to give me a full tour of their digestive system, but we were interrupted. How disappointing.-->
+  <RV2_PreyFullTourPleasureInterrupted.stages.0.description>{1}试图给我一个消化道游览他们的消化系统，但我们被打断了。多么令人失望。</RV2_PreyFullTourPleasureInterrupted.stages.0.description>
+  <!--EN: Tour by {0} interrupted-->
+  <RV2_PreyFullTourPleasureInterrupted.stages.0.label>按{0}被打断</RV2_PreyFullTourPleasureInterrupted.stages.0.label>
+  <!--EN: {1} gave me a sensual tour of their digestive system. Every inch, a pleasure!-->
+  <RV2_PreyFullTourPleasureSuccess.stages.0.description>{1}给了我一个性感的巡视他们的消化系统。每一寸，一种乐趣!</RV2_PreyFullTourPleasureSuccess.stages.0.description>
+  <!--EN: Guided by {0}-->
+  <RV2_PreyFullTourPleasureSuccess.stages.0.label>受驱使{0}</RV2_PreyFullTourPleasureSuccess.stages.0.label>
+  <!--EN: It's nice to have room to stretch again.-->
+  <RV2_PreyFullTourStoreEnd.stages.0.description>有空间再次伸展身体真好。</RV2_PreyFullTourStoreEnd.stages.0.description>
+  <!--EN: Released from {0}'s stomach-storage by tour-->
+  <RV2_PreyFullTourStoreEnd.stages.0.label>释放{0}旅行时的储存胃量</RV2_PreyFullTourStoreEnd.stages.0.label>
+  <!--EN: {1} tried to churn me into milk! I'm not an enriching source of calcium!-->
+  <RV2_PreyNippleConvertMilkInterrupted.stages.0.description>{1}想把我搅成乳汁!我可不是补钙的来源!</RV2_PreyNippleConvertMilkInterrupted.stages.0.description>
+  <!--EN: Escaped mammary lactifaction by {0}-->
+  <RV2_PreyNippleConvertMilkInterrupted.stages.0.label>乳汁裂解至{0}</RV2_PreyNippleConvertMilkInterrupted.stages.0.label>
+  <!--EN: I had a reinvigorating bath.-->
+  <RV2_PreyNippleHealSuccess.stages.0.description>我洗了一个充满活力的浴缸。</RV2_PreyNippleHealSuccess.stages.0.description>
+  <!--EN: Healed by {0}'s breasts-->
+  <RV2_PreyNippleHealSuccess.stages.0.label>治愈{0}的乳房</RV2_PreyNippleHealSuccess.stages.0.label>
+  <!--EN: {1} tried to draw me a milk-bath, but we were interrupted. I was hoping to relieve some tension in the spa...-->
+  <RV2_PreyNipplePleasureInterrupted.stages.0.description>{1}我想洗个奶浴，但被打断了。我想在温泉浴场放松一下...</RV2_PreyNipplePleasureInterrupted.stages.0.description>
+  <!--EN: Unsuckling by {0} as a sex-toy interrupted-->
+  <RV2_PreyNipplePleasureInterrupted.stages.0.label>被吸食{0}作为一个性玩具被打断</RV2_PreyNipplePleasureInterrupted.stages.0.label>
+  <!--EN: {1} gave me a long, warm bath in their milk, right where it gets made! I feel revitalized!-->
+  <RV2_PreyNipplePleasureSuccess.stages.0.description>{1}在他们的乳房喷出液体（通常是乳汁）。是挤奶的前置标签。中给我洗了一个长而温暖的浴缸，就在它被制造的地方!我感觉精力充沛了!</RV2_PreyNipplePleasureSuccess.stages.0.description>
+  <!--EN: Unsuckled by {0} as a sex-toy-->
+  <RV2_PreyNipplePleasureSuccess.stages.0.label>被吸食{0}作为一个性玩具</RV2_PreyNipplePleasureSuccess.stages.0.label>
+  <!--EN: It's nice to have room to stretch again.-->
+  <RV2_PreyNippleStoreEnd.stages.0.description>有空间再次伸展身体真好。</RV2_PreyNippleStoreEnd.stages.0.description>
+  <!--EN: Released from {0}'s breast-storage-->
+  <RV2_PreyNippleStoreEnd.stages.0.label>释放{0}的乳房-储存区</RV2_PreyNippleStoreEnd.stages.0.label>
+  <!--EN: {1} tried to eat me! I'm not food!-->
+  <RV2_PreyOralDigestInterrupted.stages.0.description>{1}想吃了我!我不是食物!</RV2_PreyOralDigestInterrupted.stages.0.description>
+  <!--EN: Escaped oral digestion-->
+  <RV2_PreyOralDigestInterrupted.stages.0.label>逃跑了用嘴被消化</RV2_PreyOralDigestInterrupted.stages.0.label>
+  <!--EN: I had a reinvigorating bath.-->
+  <RV2_PreyOralHealSuccess.stages.0.description>我洗了一个充满活力的浴缸。</RV2_PreyOralHealSuccess.stages.0.description>
+  <!--EN: Healed by {0}'s stomach-->
+  <RV2_PreyOralHealSuccess.stages.0.label>治愈{0}胃</RV2_PreyOralHealSuccess.stages.0.label>
+  <!--EN: {1} tried to let me relax in their stomach, but we were interrupted. How disappointing.-->
+  <RV2_PreyOralPleasureInterrupted.stages.0.description>{1}试图让我在他们的肚子里放松，但我们被打断了。多么令人失望。</RV2_PreyOralPleasureInterrupted.stages.0.description>
+  <!--EN: Bellying by {0} interrupted-->
+  <RV2_PreyOralPleasureInterrupted.stages.0.label>因{0}被打断</RV2_PreyOralPleasureInterrupted.stages.0.label>
+  <!--EN: {1} let me relax in their stomach. It was a great way to unwind!-->
+  <RV2_PreyOralPleasureSuccess.stages.0.description>{1}让我在他们的肚子里放松一下。放松的好方法!</RV2_PreyOralPleasureSuccess.stages.0.description>
+  <!--EN: Bellied by {0}-->
+  <RV2_PreyOralPleasureSuccess.stages.0.label>被{0}</RV2_PreyOralPleasureSuccess.stages.0.label>
+  <!--EN: It's nice to have room to stretch again.-->
+  <RV2_PreyOralStoreEnd.stages.0.description>有空间再次伸展身体真好。</RV2_PreyOralStoreEnd.stages.0.description>
+  <!--EN: Released from {0}'s stomach-storage-->
+  <RV2_PreyOralStoreEnd.stages.0.label>释放{0}的胃储存器</RV2_PreyOralStoreEnd.stages.0.label>
+  <!--EN: {1} tried to melt me into lube in their womb! I'm not a disposable sex-toy!-->
+  <RV2_PreyVaginalConvertLubeInterrupted.stages.0.description>{1}试图将我熔化润滑油在他们的子宫里!我不是一次性的sexXtoy不!</RV2_PreyVaginalConvertLubeInterrupted.stages.0.description>
+  <!--EN: Escaped vaginal lubrifaction by {0}-->
+  <RV2_PreyVaginalConvertLubeInterrupted.stages.0.label>逃跑了阴道淫荡于{0}</RV2_PreyVaginalConvertLubeInterrupted.stages.0.label>
+  <!--EN: I had a reinvigorating bath.-->
+  <RV2_PreyVaginalHealSuccess.stages.0.description>我洗了一个充满活力的浴缸。</RV2_PreyVaginalHealSuccess.stages.0.description>
+  <!--EN: Healed by {0}'s womb-->
+  <RV2_PreyVaginalHealSuccess.stages.0.label>治愈{0}的子宫</RV2_PreyVaginalHealSuccess.stages.0.label>
+  <!--EN: {1} tried to use me like a dildo, but we were interrupted. I was so excited, too.-->
+  <RV2_PreyVaginalPleasureInterrupted.stages.0.description>{1}试图像个混蛋一样利用我假阴茎,但我们被打断了。我也很兴奋。</RV2_PreyVaginalPleasureInterrupted.stages.0.description>
+  <!--EN: Unbirth by {0} as a sex-toy interrupted-->
+  <RV2_PreyVaginalPleasureInterrupted.stages.0.label>未生育{0}作为一个sexXtoy被打断</RV2_PreyVaginalPleasureInterrupted.stages.0.label>
+  <!--EN: {1} used me as a living dildo! I'm a little bit dizzy, but damn if it wasn't hot!-->
+  <RV2_PreyVaginalPleasureSuccess.stages.0.description>{1}以我为生假阴茎不!我有点头晕，但该死的如果不是这样性感的不!</RV2_PreyVaginalPleasureSuccess.stages.0.description>
+  <!--EN: Unbirthed by {0} as a sex-toy-->
+  <RV2_PreyVaginalPleasureSuccess.stages.0.label>未生育{0}作为一个sexXtoy</RV2_PreyVaginalPleasureSuccess.stages.0.label>
+  <!--EN: I was starting to lose myself...-->
+  <RV2_PreyVaginalReformInterrupted.stages.0.description>我开始迷失自我了.</RV2_PreyVaginalReformInterrupted.stages.0.description>
+  <!--EN: Rebirth by {0} interrupted-->
+  <RV2_PreyVaginalReformInterrupted.stages.0.label>通过{0}被打断</RV2_PreyVaginalReformInterrupted.stages.0.label>
+  <!--EN: Who... Who am I?-->
+  <RV2_PreyVaginalReformSuccess.stages.0.description>谁...你是谁？</RV2_PreyVaginalReformSuccess.stages.0.description>
+  <!--EN: Reborn by {0}-->
+  <RV2_PreyVaginalReformSuccess.stages.0.label>被{0}</RV2_PreyVaginalReformSuccess.stages.0.label>
+  <!--EN: It's nice to have room to stretch again.-->
+  <RV2_PreyVaginalStoreEnd.stages.0.description>有空间再次伸展身体真好。</RV2_PreyVaginalStoreEnd.stages.0.description>
+  <!--EN: Released from {0}'s womb-storage-->
+  <RV2_PreyVaginalStoreEnd.stages.0.label>释放{0}的子宫储存器</RV2_PreyVaginalStoreEnd.stages.0.label>
+</LanguageData>

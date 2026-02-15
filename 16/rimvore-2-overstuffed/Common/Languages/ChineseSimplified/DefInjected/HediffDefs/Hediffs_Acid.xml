@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Aborted assimilation-->
+  <RV2_AssimilationAvulsion.labelNoun>同化中止</RV2_AssimilationAvulsion.labelNoun>
+  <!--EN: Oleifying enzymes-->
+  <RV2_ChemfuelConversionEnzymes.labelNoun>使酶</RV2_ChemfuelConversionEnzymes.labelNoun>
+  <!--EN: This pawn is recovering from almost being digested.\nIf they were to be digested again, the progress would pick up at this hediff's level!-->
+  <RV2_DigestionRecovery.description>这个pawn正在从被消化中恢复。
+如果它们再次被消化，进度将在这个黑体的水平上回升!</RV2_DigestionRecovery.description>
+  <!--EN: Digestion recovery-->
+  <RV2_DigestionRecovery.labelNoun>消化能力</RV2_DigestionRecovery.labelNoun>
+  <!--EN: Digestion recovery (<25%)-->
+  <RV2_DigestionRecovery.stages.0.label>消化恢复 (&amp;lt;25%)</RV2_DigestionRecovery.stages.0.label>
+  <!--EN: Digestion recovery (>25%)-->
+  <RV2_DigestionRecovery.stages.1.label>消化回收率 (>25%)</RV2_DigestionRecovery.stages.1.label>
+  <!--EN: Digestion recovery (>50%)-->
+  <RV2_DigestionRecovery.stages.2.label>消化回收率 (>50%)</RV2_DigestionRecovery.stages.2.label>
+  <!--EN: Digestion recovery (>75%)-->
+  <RV2_DigestionRecovery.stages.3.label>消化回收率 (>75%)</RV2_DigestionRecovery.stages.3.label>
+  <!--EN: Ovifying enzymes-->
+  <RV2_EggConversionEnzymes.labelNoun>产卵酶</RV2_EggConversionEnzymes.labelNoun>
+  <!--EN: Urifying enzymes-->
+  <RV2_UrineConversionEnzymes.labelNoun>裂解酶</RV2_UrineConversionEnzymes.labelNoun>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: A vore feast is underway.-->
+  <RV2_VoreFeast.letterText>Avore盛宴正在进行中。</RV2_VoreFeast.letterText>
+  <!--EN: speaker-->
+  <RV2_VoreFeast.roles.0.label>演讲者</RV2_VoreFeast.roles.0.label>
+</LanguageData>

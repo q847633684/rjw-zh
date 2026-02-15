@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'This pawn is a (filled) living cum bucket. Thanks to a generous donation, this pawn will slowly generate cum for pickup.',新增于2026-02-15-->
+  <!--EN: This pawn is a (filled) living cum bucket. Thanks to a generous donation, this pawn will slowly generate cum for pickup.-->
+  <rjw_genes_filled_living_cumbucket.description>此角色是一个（已填满的）活体精液桶。感谢慷慨的捐赠，此角色将缓慢生成精液以供收集。</rjw_genes_filled_living_cumbucket.description>
+  <!--翻译内容: 'filled living cumbucket',新增于2026-02-15-->
+  <!--EN: filled living cumbucket-->
+  <rjw_genes_filled_living_cumbucket.label>已填满的活体精液桶</rjw_genes_filled_living_cumbucket.label>
+  <!--翻译内容: 'slight',新增于2026-02-15-->
+  <!--EN: slight-->
+  <rjw_genes_filled_living_cumbucket.stages.0.label>轻微</rjw_genes_filled_living_cumbucket.stages.0.label>
+  <!--翻译内容: 'moderate',新增于2026-02-15-->
+  <!--EN: moderate-->
+  <rjw_genes_filled_living_cumbucket.stages.1.label>中等</rjw_genes_filled_living_cumbucket.stages.1.label>
+  <!--翻译内容: 'full',新增于2026-02-15-->
+  <!--EN: full-->
+  <rjw_genes_filled_living_cumbucket.stages.2.label>饱满</rjw_genes_filled_living_cumbucket.stages.2.label>
+  <!--翻译内容: 'over-full',新增于2026-02-15-->
+  <!--EN: over-full-->
+  <rjw_genes_filled_living_cumbucket.stages.3.label>过满</rjw_genes_filled_living_cumbucket.stages.3.label>
+  <!--翻译内容: 'living reservior',新增于2026-02-15-->
+  <!--EN: living reservior-->
+  <rjw_genes_filled_living_cumbucket.stages.4.label>活体储存器</rjw_genes_filled_living_cumbucket.stages.4.label>
+</LanguageData>

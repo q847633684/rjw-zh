@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.6>
+    <li IfModActive="ludeon.rimworld.Biotech">1.6/Mods/Biotech</li>
+    <li IfModActive="ludeon.rimworld.Ideology">1.6/Mods/Ideology</li>
+    <li IfModNotActive="winderig.processor">1.6/Mods/Not-Semen-Processor</li>
+  </v1.6>
+</loadFolders>

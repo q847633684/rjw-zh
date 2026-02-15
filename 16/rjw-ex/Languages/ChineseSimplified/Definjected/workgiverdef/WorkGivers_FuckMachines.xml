@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '骑炮机', 原英文: '无' -> 新英文: 'Riding' fuck machine',更新于2026-02-14-->
+  <!--EN: Riding' fuck machine-->
+  <WG_UseFM.label>骑炮机</WG_UseFM.label>
+  <!--原中文: '使用', 原英文: '无' -> 新英文: 'use',更新于2026-02-14-->
+  <!--EN: use-->
+  <WG_UseFM.verb>使用</WG_UseFM.verb>
+  <!--原中文: '使用', 原英文: '无' -> 新英文: 'using',更新于2026-02-14-->
+  <!--EN: using-->
+  <WG_UseFM.gerund>使用</WG_UseFM.gerund>
+</LanguageData>

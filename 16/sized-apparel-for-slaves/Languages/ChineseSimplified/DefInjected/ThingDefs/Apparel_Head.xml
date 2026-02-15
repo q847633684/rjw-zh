@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Maid's headdress. It is for cleanliness and does not protect the head.-->
+  <Gunmar_Apparel_MaidHead.description>女仆头饰。主要用于保持清洁，不提供头部防护。</Gunmar_Apparel_MaidHead.description>
+  <!--EN: maid headdress-->
+  <Gunmar_Apparel_MaidHead.label>女仆头饰</Gunmar_Apparel_MaidHead.label>
+  <!--EN: Nun's headdress-->
+  <NunHead.description>修女头饰</NunHead.description>
+  <!--EN: NunHead-->
+  <NunHead.label>修女头饰</NunHead.label>
+  <!--EN: Witch's hat-->
+  <SSAWitchhat.description>女巫帽</SSAWitchhat.description>
+  <!--EN: SSAWitchhat-->
+  <SSAWitchhat.label>女巫帽</SSAWitchhat.label>
+</LanguageData>

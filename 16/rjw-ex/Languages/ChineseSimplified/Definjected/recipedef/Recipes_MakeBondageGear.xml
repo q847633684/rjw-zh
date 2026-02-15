@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '制作拘束手套', 原英文: '无' -> 新英文: 'make armbinder',更新于2026-02-14-->
+  <!--EN: make armbinder-->
+  <MakeArmbinder.label>制作拘束手套</MakeArmbinder.label>
+  <!--原中文: '制作拘束手套.', 原英文: '无' -> 新英文: 'Make an armbinder.',更新于2026-02-14-->
+  <!--EN: Make an armbinder.-->
+  <MakeArmbinder.description>制作拘束手套.</MakeArmbinder.description>
+  <!--原中文: '做出了拘束手套.', 原英文: '无' -> 新英文: 'Making armbinder.',更新于2026-02-14-->
+  <!--EN: Making armbinder.-->
+  <MakeArmbinder.jobString>做出了拘束手套.</MakeArmbinder.jobString>
+  <!--原中文: '制作充气式口塞', 原英文: '无' -> 新英文: 'make ball gag',更新于2026-02-14-->
+  <!--EN: make ball gag-->
+  <MakeGagBall.label>制作充气式口塞</MakeGagBall.label>
+  <!--原中文: '制作一个充气式口塞，影响说话。', 原英文: '无' -> 新英文: 'Make a gag with a ball, prevents talking.',更新于2026-02-14-->
+  <!--EN: Make a gag with a ball, prevents talking.-->
+  <MakeGagBall.description>制作一个充气式口塞，影响说话。</MakeGagBall.description>
+  <!--原中文: '做出了口球', 原英文: '无' -> 新英文: 'Making gag.',更新于2026-02-14-->
+  <!--EN: Making gag.-->
+  <MakeGagBall.jobString>做出了口球</MakeGagBall.jobString>
+  <!--原中文: '制作环形口球', 原英文: '无' -> 新英文: 'make ring gag',更新于2026-02-14-->
+  <!--EN: make ring gag-->
+  <MakeGagRing.label>制作环形口球</MakeGagRing.label>
+  <!--原中文: '制作一个环形口球，影响说话。', 原英文: '无' -> 新英文: 'Make a gag with a ring, prevents talking.',更新于2026-02-14-->
+  <!--EN: Make a gag with a ring, prevents talking.-->
+  <MakeGagRing.description>制作一个环形口球，影响说话。</MakeGagRing.description>
+  <!--原中文: '做出了口球', 原英文: '无' -> 新英文: 'Making gag.',更新于2026-02-14-->
+  <!--EN: Making gag.-->
+  <MakeGagRing.jobString>做出了口球</MakeGagRing.jobString>
+  <!--原中文: '制作贞操带', 原英文: '无' -> 新英文: 'make chastity belt',更新于2026-02-14-->
+  <!--EN: make chastity belt-->
+  <MakeChastityBelt.label>制作贞操带</MakeChastityBelt.label>
+  <!--原中文: '制作一个贞操带，阻止触碰生殖器和肛门。', 原英文: '无' -> 新英文: 'Make a chastity belt, prevents access to genitals and anus.',更新于2026-02-14-->
+  <!--EN: Make a chastity belt, prevents access to genitals and anus.-->
+  <MakeChastityBelt.description>制作一个贞操带，阻止触碰生殖器和肛门。</MakeChastityBelt.description>
+  <!--原中文: '做出了贞操带。', 原英文: '无' -> 新英文: 'Making chastity belt.',更新于2026-02-14-->
+  <!--EN: Making chastity belt.-->
+  <MakeChastityBelt.jobString>做出了贞操带。</MakeChastityBelt.jobString>
+  <!--原中文: '制作贞操带（开放式）', 原英文: '无' -> 新英文: 'make chastity belt(open)',更新于2026-02-14-->
+  <!--EN: make chastity belt(open)-->
+  <MakeChastityBeltO.label>制作贞操带（开放式）</MakeChastityBeltO.label>
+  <!--原中文: '制作一个贞操带，阻止触碰生殖器，有一个用于肛交的开口。', 原英文: '无' -> 新英文: 'Make a chastity belt, prevents access to genitals, has a hole for anal sex.',更新于2026-02-14-->
+  <!--EN: Make a chastity belt, prevents access to genitals, has a hole for anal sex.-->
+  <MakeChastityBeltO.description>制作一个贞操带，阻止触碰生殖器，有一个用于肛交的开口。</MakeChastityBeltO.description>
+  <!--原中文: '做出了贞操带。', 原英文: '无' -> 新英文: 'Making chastity belt.',更新于2026-02-14-->
+  <!--EN: Making chastity belt.-->
+  <MakeChastityBeltO.jobString>做出了贞操带。</MakeChastityBeltO.jobString>
+  <!--原中文: '制作贞操笼', 原英文: '无' -> 新英文: 'make chastity cage',更新于2026-02-14-->
+  <!--EN: make chastity cage-->
+  <MakeChastityCage.label>制作贞操笼</MakeChastityCage.label>
+  <!--原中文: '制作一个能阻止勃起的贞操笼。', 原英文: '无' -> 新英文: 'Make a chastity cage, prevents erection.',更新于2026-02-14-->
+  <!--EN: Make a chastity cage, prevents erection.-->
+  <MakeChastityCage.description>制作一个能阻止勃起的贞操笼。</MakeChastityCage.description>
+  <!--原中文: '做出了一个贞操笼', 原英文: '无' -> 新英文: 'Making chastity cage.',更新于2026-02-14-->
+  <!--EN: Making chastity cage.-->
+  <MakeChastityCage.jobString>做出了一个贞操笼</MakeChastityCage.jobString>
+  <!--原中文: '制作拘束靴', 原英文: '无' -> 新英文: 'make legbinder',更新于2026-02-14-->
+  <!--EN: make legbinder-->
+  <MakeLegbinder.label>制作拘束靴</MakeLegbinder.label>
+  <!--原中文: '制作拘束靴.', 原英文: '无' -> 新英文: 'Make a legbinder.',更新于2026-02-14-->
+  <!--EN: Make a legbinder.-->
+  <MakeLegbinder.description>制作拘束靴.</MakeLegbinder.description>
+  <!--原中文: '做出了拘束靴.', 原英文: '无' -> 新英文: 'Making legbinder.',更新于2026-02-14-->
+  <!--EN: Making legbinder.-->
+  <MakeLegbinder.jobString>做出了拘束靴.</MakeLegbinder.jobString>
+  <!--原中文: '制作眼罩', 原英文: '无' -> 新英文: 'make blindfold',更新于2026-02-14-->
+  <!--EN: make blindfold-->
+  <MakeBlindfold.label>制作眼罩</MakeBlindfold.label>
+  <!--原中文: '制作眼罩.', 原英文: '无' -> 新英文: 'Make a blindfold.',更新于2026-02-14-->
+  <!--EN: Make a blindfold.-->
+  <MakeBlindfold.description>制作眼罩.</MakeBlindfold.description>
+  <!--原中文: '做出了眼罩.', 原英文: '无' -> 新英文: 'Making blindfold.',更新于2026-02-14-->
+  <!--EN: Making blindfold.-->
+  <MakeBlindfold.jobString>做出了眼罩.</MakeBlindfold.jobString>
+</LanguageData>

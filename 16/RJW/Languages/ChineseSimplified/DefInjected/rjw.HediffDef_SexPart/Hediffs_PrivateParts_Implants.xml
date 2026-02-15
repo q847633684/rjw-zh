@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Simple prosthetic privates -->
+  <!--原中文: '假阴茎', 原英文: '无' -> 新英文: 'peg dick',更新于2026-02-14-->
+  <!--EN: peg dick-->
+  <PegDick.label>假阴茎</PegDick.label>
+  <!--原中文: '假阴茎', 原英文: '无' -> 新英文: 'a peg dick',更新于2026-02-14-->
+  <!--EN: a peg dick-->
+  <PegDick.labelNoun>假阴茎</PegDick.labelNoun>
+  <!--原中文: '一根木制阳具，被设计用来代替断掉的阴茎（小心木刺）', 原英文: '无' -> 新英文: 'A simple, static member.',更新于2026-02-14-->
+  <!--EN: A simple, static member.-->
+  <PegDick.description>一根木制阳具，被设计用来代替断掉的阴茎（小心木刺）</PegDick.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <PegDick.stages.0.label>微型</PegDick.stages.0.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <PegDick.stages.1.label>很小</PegDick.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <PegDick.stages.2.label>平均</PegDick.stages.2.label>
+  <!--原中文: '大', 原英文: '无' -> 新英文: 'Large',更新于2026-02-14-->
+  <!--EN: Large-->
+  <PegDick.stages.3.label>大</PegDick.stages.3.label>
+  <!--原中文: '巨大', 原英文: '无' -> 新英文: 'Huge',更新于2026-02-14-->
+  <!--EN: Huge-->
+  <PegDick.stages.4.label>巨大</PegDick.stages.4.label>
+  <!--原中文: '超大', 原英文: '无' -> 新英文: 'Towering',更新于2026-02-14-->
+  <!--EN: Towering-->
+  <PegDick.stages.5.label>超大</PegDick.stages.5.label>
+  <!--原中文: '液压阴茎', 原英文: '无' -> 新英文: 'hydraulic penis',更新于2026-02-14-->
+  <!--EN: hydraulic penis-->
+  <HydraulicPenis.label>液压阴茎</HydraulicPenis.label>
+  <!--原中文: '液压阴茎', 原英文: '无' -> 新英文: 'a hydraulic penis',更新于2026-02-14-->
+  <!--EN: a hydraulic penis-->
+  <HydraulicPenis.labelNoun>液压阴茎</HydraulicPenis.labelNoun>
+  <!--原中文: '一个假阴茎，冰冷的金属，内置流体输送系统，通过液压变大。', 原英文: '无' -> 新英文: 'Simulating a normal penis, it can enlarge itself with hydraulics.',更新于2026-02-14-->
+  <!--EN: Simulating a normal penis, it can enlarge itself with hydraulics.-->
+  <HydraulicPenis.description>一个假阴茎，冰冷的金属，内置流体输送系统，通过液压变大。</HydraulicPenis.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <HydraulicPenis.stages.0.label>微型</HydraulicPenis.stages.0.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <HydraulicPenis.stages.1.label>很小</HydraulicPenis.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <HydraulicPenis.stages.2.label>平均</HydraulicPenis.stages.2.label>
+  <!--原中文: '大', 原英文: '无' -> 新英文: 'Large',更新于2026-02-14-->
+  <!--EN: Large-->
+  <HydraulicPenis.stages.3.label>大</HydraulicPenis.stages.3.label>
+  <!--原中文: '巨大', 原英文: '无' -> 新英文: 'Huge',更新于2026-02-14-->
+  <!--EN: Huge-->
+  <HydraulicPenis.stages.4.label>巨大</HydraulicPenis.stages.4.label>
+  <!--原中文: '超大', 原英文: '无' -> 新英文: 'Towering',更新于2026-02-14-->
+  <!--EN: Towering-->
+  <HydraulicPenis.stages.5.label>超大</HydraulicPenis.stages.5.label>
+  <!--原中文: '液压阴道', 原英文: '无' -> 新英文: 'hydraulic vagina',更新于2026-02-14-->
+  <!--EN: hydraulic vagina-->
+  <HydraulicVagina.label>液压阴道</HydraulicVagina.label>
+  <!--原中文: '液压阴道', 原英文: '无' -> 新英文: 'a hydraulic vagina',更新于2026-02-14-->
+  <!--EN: a hydraulic vagina-->
+  <HydraulicVagina.labelNoun>液压阴道</HydraulicVagina.labelNoun>
+  <!--原中文: '一个假阴道，被它冰冷地裹住让人很不舒服，不过有着很强的吸力。', 原英文: '无' -> 新英文: 'It uses simple hydraulics to simulate the tightness of a regular vagina.',更新于2026-02-14-->
+  <!--EN: It uses simple hydraulics to simulate the tightness of a regular vagina.-->
+  <HydraulicVagina.description>一个假阴道，被它冰冷地裹住让人很不舒服，不过有着很强的吸力。</HydraulicVagina.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <HydraulicVagina.stages.0.label>微型</HydraulicVagina.stages.0.label>
+  <!--原中文: '紧致', 原英文: '无' -> 新英文: 'Tight',更新于2026-02-14-->
+  <!--EN: Tight-->
+  <HydraulicVagina.stages.1.label>紧致</HydraulicVagina.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <HydraulicVagina.stages.2.label>平均</HydraulicVagina.stages.2.label>
+  <!--原中文: '松弛', 原英文: '无' -> 新英文: 'Accommodating',更新于2026-02-14-->
+  <!--EN: Accommodating-->
+  <HydraulicVagina.stages.3.label>松弛</HydraulicVagina.stages.3.label>
+  <!--原中文: '敞口', 原英文: '无' -> 新英文: 'Cavernous',更新于2026-02-14-->
+  <!--EN: Cavernous-->
+  <HydraulicVagina.stages.4.label>敞口</HydraulicVagina.stages.4.label>
+  <!--原中文: '深渊', 原英文: '无' -> 新英文: 'Abyssal',更新于2026-02-14-->
+  <!--EN: Abyssal-->
+  <HydraulicVagina.stages.5.label>深渊</HydraulicVagina.stages.5.label>
+  <!--原中文: '液压乳房', 原英文: '无' -> 新英文: 'hydraulic breasts',更新于2026-02-14-->
+  <!--EN: hydraulic breasts-->
+  <HydraulicBreasts.label>液压乳房</HydraulicBreasts.label>
+  <!--原中文: '液压乳房', 原英文: '无' -> 新英文: 'a pair of hydraulic breasts',更新于2026-02-14-->
+  <!--EN: a pair of hydraulic breasts-->
+  <HydraulicBreasts.labelNoun>液压乳房</HydraulicBreasts.labelNoun>
+  <!--原中文: '一对并不好看的假体乳房，锥形的金属结构增加了泵送功能，可以射你的朋友一身。', 原英文: '无' -> 新英文: 'A pair obviously unnatural implants.',更新于2026-02-14-->
+  <!--EN: A pair obviously unnatural implants.-->
+  <HydraulicBreasts.description>一对并不好看的假体乳房，锥形的金属结构增加了泵送功能，可以射你的朋友一身。</HydraulicBreasts.description>
+  <!--原中文: '飞机场', 原英文: '无' -> 新英文: 'Nipples',更新于2026-02-14-->
+  <!--EN: Nipples-->
+  <HydraulicBreasts.stages.0.label>飞机场</HydraulicBreasts.stages.0.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Tiny',更新于2026-02-14-->
+  <!--EN: Tiny-->
+  <HydraulicBreasts.stages.1.label>很小</HydraulicBreasts.stages.1.label>
+  <!--原中文: '小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <HydraulicBreasts.stages.2.label>小</HydraulicBreasts.stages.2.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <HydraulicBreasts.stages.3.label>平均</HydraulicBreasts.stages.3.label>
+  <!--原中文: '大', 原英文: '无' -> 新英文: 'Large',更新于2026-02-14-->
+  <!--EN: Large-->
+  <HydraulicBreasts.stages.4.label>大</HydraulicBreasts.stages.4.label>
+  <!--原中文: '巨大', 原英文: '无' -> 新英文: 'Huge',更新于2026-02-14-->
+  <!--EN: Huge-->
+  <HydraulicBreasts.stages.5.label>巨大</HydraulicBreasts.stages.5.label>
+  <!--原中文: '超大', 原英文: '无' -> 新英文: 'Enormous',更新于2026-02-14-->
+  <!--EN: Enormous-->
+  <HydraulicBreasts.stages.6.label>超大</HydraulicBreasts.stages.6.label>
+  <!--原中文: '超巨大', 原英文: '无' -> 新英文: 'Massive',更新于2026-02-14-->
+  <!--EN: Massive-->
+  <HydraulicBreasts.stages.7.label>超巨大</HydraulicBreasts.stages.7.label>
+  <!--原中文: '巨大怪兽', 原英文: '无' -> 新英文: 'Gargantuan',更新于2026-02-14-->
+  <!--EN: Gargantuan-->
+  <HydraulicBreasts.stages.8.label>巨大怪兽</HydraulicBreasts.stages.8.label>
+  <!--原中文: '超巨大建筑', 原英文: '无' -> 新英文: 'Colossal',更新于2026-02-14-->
+  <!--EN: Colossal-->
+  <HydraulicBreasts.stages.9.label>超巨大建筑</HydraulicBreasts.stages.9.label>
+  <!--原中文: '泰坦尼克', 原英文: '无' -> 新英文: 'Titanic',更新于2026-02-14-->
+  <!--EN: Titanic-->
+  <HydraulicBreasts.stages.10.label>泰坦尼克</HydraulicBreasts.stages.10.label>
+  <!--原中文: '天文级别', 原英文: '无' -> 新英文: 'Astronomical',更新于2026-02-14-->
+  <!--EN: Astronomical-->
+  <HydraulicBreasts.stages.11.label>天文级别</HydraulicBreasts.stages.11.label>
+  <!--原中文: '液压肛门', 原英文: '无' -> 新英文: 'hydraulic anus',更新于2026-02-14-->
+  <!--EN: hydraulic anus-->
+  <HydraulicAnus.label>液压肛门</HydraulicAnus.label>
+  <!--原中文: '液压肛门', 原英文: '无' -> 新英文: 'a hydraulic anus',更新于2026-02-14-->
+  <!--EN: a hydraulic anus-->
+  <HydraulicAnus.labelNoun>液压肛门</HydraulicAnus.labelNoun>
+  <!--原中文: '一个假肛门，被它冰冷地裹住让人很不舒服，不过有着很强的吸力。', 原英文: '无' -> 新英文: 'An anus that uses simple hydraulics to tighten.',更新于2026-02-14-->
+  <!--EN: An anus that uses simple hydraulics to tighten.-->
+  <HydraulicAnus.description>一个假肛门，被它冰冷地裹住让人很不舒服，不过有着很强的吸力。</HydraulicAnus.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <HydraulicAnus.stages.0.label>微型</HydraulicAnus.stages.0.label>
+  <!--原中文: '紧致', 原英文: '无' -> 新英文: 'Tight',更新于2026-02-14-->
+  <!--EN: Tight-->
+  <HydraulicAnus.stages.1.label>紧致</HydraulicAnus.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <HydraulicAnus.stages.2.label>平均</HydraulicAnus.stages.2.label>
+  <!--原中文: '松弛', 原英文: '无' -> 新英文: 'Accommodating',更新于2026-02-14-->
+  <!--EN: Accommodating-->
+  <HydraulicAnus.stages.3.label>松弛</HydraulicAnus.stages.3.label>
+  <!--原中文: '敞口', 原英文: '无' -> 新英文: 'Cavernous',更新于2026-02-14-->
+  <!--EN: Cavernous-->
+  <HydraulicAnus.stages.4.label>敞口</HydraulicAnus.stages.4.label>
+  <!--原中文: '深渊', 原英文: '无' -> 新英文: 'Abyssal',更新于2026-02-14-->
+  <!--EN: Abyssal-->
+  <HydraulicAnus.stages.5.label>深渊</HydraulicAnus.stages.5.label>
+  <!-- Bionic privates -->
+  <!--原中文: '仿生阴茎', 原英文: '无' -> 新英文: 'bionic penis',更新于2026-02-14-->
+  <!--EN: bionic penis-->
+  <BionicPenis.label>仿生阴茎</BionicPenis.label>
+  <!--原中文: '仿生阴茎', 原英文: '无' -> 新英文: 'a bionic penis',更新于2026-02-14-->
+  <!--EN: a bionic penis-->
+  <BionicPenis.labelNoun>仿生阴茎</BionicPenis.labelNoun>
+  <!--原中文: '高科技的阴茎，功能包括：
+-可调整大小，适合各式各样的阴道。
+-超过50种不同的振动模式，包括10种科学已知最刺激的波形。
+-最先进的神经系统链接让你感受你从未享受过的快感。', 原英文: '无' -> 新英文: 'An advanced artificial penis. It uses fine-tuned pressure sensors and PID control loops to analyze its lover's contractions. It can expand, contract and even vibrate to adapt to its lover's preferences.',更新于2026-02-14-->
+  <!--EN: An advanced artificial penis. It uses fine-tuned pressure sensors and PID control loops to analyze its lover's contractions. It can expand, contract and even vibrate to adapt to its lover's preferences.-->
+  <BionicPenis.description>高科技的阴茎，功能包括：
+-可调整大小，适合各式各样的阴道。
+-超过50种不同的振动模式，包括10种科学已知最刺激的波形。
+-最先进的神经系统链接让你感受你从未享受过的快感。</BionicPenis.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <BionicPenis.stages.0.label>微型</BionicPenis.stages.0.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <BionicPenis.stages.1.label>很小</BionicPenis.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <BionicPenis.stages.2.label>平均</BionicPenis.stages.2.label>
+  <!--原中文: '大', 原英文: '无' -> 新英文: 'Large',更新于2026-02-14-->
+  <!--EN: Large-->
+  <BionicPenis.stages.3.label>大</BionicPenis.stages.3.label>
+  <!--原中文: '巨型', 原英文: '无' -> 新英文: 'Huge',更新于2026-02-14-->
+  <!--EN: Huge-->
+  <BionicPenis.stages.4.label>巨型</BionicPenis.stages.4.label>
+  <!--原中文: '超大', 原英文: '无' -> 新英文: 'Towering',更新于2026-02-14-->
+  <!--EN: Towering-->
+  <BionicPenis.stages.5.label>超大</BionicPenis.stages.5.label>
+  <!--原中文: '仿生阴道', 原英文: '无' -> 新英文: 'bionic vagina',更新于2026-02-14-->
+  <!--EN: bionic vagina-->
+  <BionicVagina.label>仿生阴道</BionicVagina.label>
+  <!--原中文: '仿生阴道', 原英文: '无' -> 新英文: 'a bionic vagina',更新于2026-02-14-->
+  <!--EN: a bionic vagina-->
+  <BionicVagina.labelNoun>仿生阴道</BionicVagina.labelNoun>
+  <!--原中文: '一个高科技的假阴道，功能包括：
+-内部排列有1.5亿个微G点。
+-调整大小以适应任何阴茎。
+-使用硼石墨润滑液进行自动润滑，平滑但不粘连（包括可切换的粘性，防止您陷入其中）', 原英文: '无' -> 新英文: 'An advanced bionic vagina. It uses internal pressure sensors to accommodate its user's size, speed.',更新于2026-02-14-->
+  <!--EN: An advanced bionic vagina. It uses internal pressure sensors to accommodate its user's size, speed.-->
+  <BionicVagina.description>一个高科技的假阴道，功能包括：
+-内部排列有1.5亿个微G点。
+-调整大小以适应任何阴茎。
+-使用硼石墨润滑液进行自动润滑，平滑但不粘连（包括可切换的粘性，防止您陷入其中）</BionicVagina.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <BionicVagina.stages.0.label>微型</BionicVagina.stages.0.label>
+  <!--原中文: '紧致', 原英文: '无' -> 新英文: 'Tight',更新于2026-02-14-->
+  <!--EN: Tight-->
+  <BionicVagina.stages.1.label>紧致</BionicVagina.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <BionicVagina.stages.2.label>平均</BionicVagina.stages.2.label>
+  <!--原中文: '松弛', 原英文: '无' -> 新英文: 'Accommodating',更新于2026-02-14-->
+  <!--EN: Accommodating-->
+  <BionicVagina.stages.3.label>松弛</BionicVagina.stages.3.label>
+  <!--原中文: '敞口', 原英文: '无' -> 新英文: 'Cavernous',更新于2026-02-14-->
+  <!--EN: Cavernous-->
+  <BionicVagina.stages.4.label>敞口</BionicVagina.stages.4.label>
+  <!--原中文: '深渊', 原英文: '无' -> 新英文: 'Abyssal',更新于2026-02-14-->
+  <!--EN: Abyssal-->
+  <BionicVagina.stages.5.label>深渊</BionicVagina.stages.5.label>
+  <!--原中文: '仿生乳房', 原英文: '无' -> 新英文: 'bionic breasts',更新于2026-02-14-->
+  <!--EN: bionic breasts-->
+  <BionicBreasts.label>仿生乳房</BionicBreasts.label>
+  <!--原中文: '仿生乳房', 原英文: '无' -> 新英文: 'a bionic breasts',更新于2026-02-14-->
+  <!--EN: a bionic breasts-->
+  <BionicBreasts.labelNoun>仿生乳房</BionicBreasts.labelNoun>
+  <!--原中文: '一个高科技的假乳房，功能包括：
+-调整到任何你需要的大小。', 原英文: '无' -> 新英文: 'An advanced bionic breasts.',更新于2026-02-14-->
+  <!--EN: An advanced bionic breasts.-->
+  <BionicBreasts.description>一个高科技的假乳房，功能包括：
+-调整到任何你需要的大小。</BionicBreasts.description>
+  <!--原中文: '飞机场', 原英文: '无' -> 新英文: 'Nipples',更新于2026-02-14-->
+  <!--EN: Nipples-->
+  <BionicBreasts.stages.0.label>飞机场</BionicBreasts.stages.0.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Tiny',更新于2026-02-14-->
+  <!--EN: Tiny-->
+  <BionicBreasts.stages.1.label>很小</BionicBreasts.stages.1.label>
+  <!--原中文: '小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <BionicBreasts.stages.2.label>小</BionicBreasts.stages.2.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <BionicBreasts.stages.3.label>平均</BionicBreasts.stages.3.label>
+  <!--原中文: '大', 原英文: '无' -> 新英文: 'Large',更新于2026-02-14-->
+  <!--EN: Large-->
+  <BionicBreasts.stages.4.label>大</BionicBreasts.stages.4.label>
+  <!--原中文: '巨大', 原英文: '无' -> 新英文: 'Huge',更新于2026-02-14-->
+  <!--EN: Huge-->
+  <BionicBreasts.stages.5.label>巨大</BionicBreasts.stages.5.label>
+  <!--原中文: '超大', 原英文: '无' -> 新英文: 'Enormous',更新于2026-02-14-->
+  <!--EN: Enormous-->
+  <BionicBreasts.stages.6.label>超大</BionicBreasts.stages.6.label>
+  <!--原中文: '超巨大', 原英文: '无' -> 新英文: 'Massive',更新于2026-02-14-->
+  <!--EN: Massive-->
+  <BionicBreasts.stages.7.label>超巨大</BionicBreasts.stages.7.label>
+  <!--原中文: '巨大怪兽', 原英文: '无' -> 新英文: 'Gargantuan',更新于2026-02-14-->
+  <!--EN: Gargantuan-->
+  <BionicBreasts.stages.8.label>巨大怪兽</BionicBreasts.stages.8.label>
+  <!--原中文: '超巨大建筑', 原英文: '无' -> 新英文: 'Colossal',更新于2026-02-14-->
+  <!--EN: Colossal-->
+  <BionicBreasts.stages.9.label>超巨大建筑</BionicBreasts.stages.9.label>
+  <!--原中文: '泰坦尼克', 原英文: '无' -> 新英文: 'Titanic',更新于2026-02-14-->
+  <!--EN: Titanic-->
+  <BionicBreasts.stages.10.label>泰坦尼克</BionicBreasts.stages.10.label>
+  <!--原中文: '天文级别', 原英文: '无' -> 新英文: 'Astronomical',更新于2026-02-14-->
+  <!--EN: Astronomical-->
+  <BionicBreasts.stages.11.label>天文级别</BionicBreasts.stages.11.label>
+  <!--原中文: '仿生肛门', 原英文: '无' -> 新英文: 'bionic anus',更新于2026-02-14-->
+  <!--EN: bionic anus-->
+  <BionicAnus.label>仿生肛门</BionicAnus.label>
+  <!--原中文: '仿生肛门', 原英文: '无' -> 新英文: 'an bionic anus',更新于2026-02-14-->
+  <!--EN: an bionic anus-->
+  <BionicAnus.labelNoun>仿生肛门</BionicAnus.labelNoun>
+  <!--原中文: '一个高科技的假肛门，功能包括：
+-调整到任何你需要的大小。
+-使用硼石墨润滑液进行自动润滑，平滑但不粘连（包括可切换的粘性，防止您陷入其中）', 原英文: '无' -> 新英文: 'An advanced bionic anus.',更新于2026-02-14-->
+  <!--EN: An advanced bionic anus.-->
+  <BionicAnus.description>一个高科技的假肛门，功能包括：
+-调整到任何你需要的大小。
+-使用硼石墨润滑液进行自动润滑，平滑但不粘连（包括可切换的粘性，防止您陷入其中）</BionicAnus.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <BionicAnus.stages.0.label>微型</BionicAnus.stages.0.label>
+  <!--原中文: '紧致', 原英文: '无' -> 新英文: 'Tight',更新于2026-02-14-->
+  <!--EN: Tight-->
+  <BionicAnus.stages.1.label>紧致</BionicAnus.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <BionicAnus.stages.2.label>平均</BionicAnus.stages.2.label>
+  <!--原中文: '松弛', 原英文: '无' -> 新英文: 'Accommodating',更新于2026-02-14-->
+  <!--EN: Accommodating-->
+  <BionicAnus.stages.3.label>松弛</BionicAnus.stages.3.label>
+  <!--原中文: '敞口', 原英文: '无' -> 新英文: 'Cavernous',更新于2026-02-14-->
+  <!--EN: Cavernous-->
+  <BionicAnus.stages.4.label>敞口</BionicAnus.stages.4.label>
+  <!--原中文: '深渊', 原英文: '无' -> 新英文: 'Abyssal',更新于2026-02-14-->
+  <!--EN: Abyssal-->
+  <BionicAnus.stages.5.label>深渊</BionicAnus.stages.5.label>
+  <!-- Archotech -->
+  <!--原中文: '超凡阴茎', 原英文: '无' -> 新英文: 'archotech penis',更新于2026-02-14-->
+  <!--EN: archotech penis-->
+  <ArchotechPenis.label>超凡阴茎</ArchotechPenis.label>
+  <!--原中文: '一根由超凡人工智能打造的人工阴茎。它的刺激能力在各种性行为中都是无与伦比的。它不仅能够改变颜色，纹理，长度与形状以达到为所有孔洞提供完美的刺激的能力，它比塑钢还硬且具有自我修复能力。它能与身体无缝连接，且直接连接到神经系统，极大地增强了所有者的耐力与性能力使得欢愉无限延长。由人工智能控制的震动与专门定制的费洛蒙保证每一次性行为都能成为一次难忘的体验。它的内部运作原理对所有人来说都是一个谜。', 原英文: '无' -> 新英文: 'An archotech penis.',更新于2026-02-14-->
+  <!--EN: An archotech penis.-->
+  <ArchotechPenis.description>一根由超凡人工智能打造的人工阴茎。它的刺激能力在各种性行为中都是无与伦比的。它不仅能够改变颜色，纹理，长度与形状以达到为所有孔洞提供完美的刺激的能力，它比塑钢还硬且具有自我修复能力。它能与身体无缝连接，且直接连接到神经系统，极大地增强了所有者的耐力与性能力使得欢愉无限延长。由人工智能控制的震动与专门定制的费洛蒙保证每一次性行为都能成为一次难忘的体验。它的内部运作原理对所有人来说都是一个谜。</ArchotechPenis.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <ArchotechPenis.stages.0.label>微型</ArchotechPenis.stages.0.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <ArchotechPenis.stages.1.label>很小</ArchotechPenis.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <ArchotechPenis.stages.2.label>平均</ArchotechPenis.stages.2.label>
+  <!--原中文: '大', 原英文: '无' -> 新英文: 'Large',更新于2026-02-14-->
+  <!--EN: Large-->
+  <ArchotechPenis.stages.3.label>大</ArchotechPenis.stages.3.label>
+  <!--原中文: '巨大', 原英文: '无' -> 新英文: 'Huge',更新于2026-02-14-->
+  <!--EN: Huge-->
+  <ArchotechPenis.stages.4.label>巨大</ArchotechPenis.stages.4.label>
+  <!--原中文: '超大', 原英文: '无' -> 新英文: 'Towering',更新于2026-02-14-->
+  <!--EN: Towering-->
+  <ArchotechPenis.stages.5.label>超大</ArchotechPenis.stages.5.label>
+  <!--原中文: '超凡阴道', 原英文: '无' -> 新英文: 'archotech vagina',更新于2026-02-14-->
+  <!--EN: archotech vagina-->
+  <ArchotechVagina.label>超凡阴道</ArchotechVagina.label>
+  <!--原中文: '一条由超凡人工智能打造的人工阴道。它与它的肉质原型如出一辙，但它的特性使其完美的代替了它柔弱的有机原版。顶尖的润滑，伸缩性以及自我修复能力使其能够轻松承受任何插入物体，并允许任何类型的后代通过而不会发生特殊情况。 它能与身体无缝连接并且对拥有对大多数已知性病的免疫能力。卓越的灵敏度，温度调节以及费洛蒙能满足任何类型的对象。它的内部运作原理对所有人来说都是一个谜。', 原英文: '无' -> 新英文: 'An archotech vagina.',更新于2026-02-14-->
+  <!--EN: An archotech vagina.-->
+  <ArchotechVagina.description>一条由超凡人工智能打造的人工阴道。它与它的肉质原型如出一辙，但它的特性使其完美的代替了它柔弱的有机原版。顶尖的润滑，伸缩性以及自我修复能力使其能够轻松承受任何插入物体，并允许任何类型的后代通过而不会发生特殊情况。 它能与身体无缝连接并且对拥有对大多数已知性病的免疫能力。卓越的灵敏度，温度调节以及费洛蒙能满足任何类型的对象。它的内部运作原理对所有人来说都是一个谜。</ArchotechVagina.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <ArchotechVagina.stages.0.label>微型</ArchotechVagina.stages.0.label>
+  <!--原中文: '紧致', 原英文: '无' -> 新英文: 'Tight',更新于2026-02-14-->
+  <!--EN: Tight-->
+  <ArchotechVagina.stages.1.label>紧致</ArchotechVagina.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <ArchotechVagina.stages.2.label>平均</ArchotechVagina.stages.2.label>
+  <!--原中文: '松弛', 原英文: '无' -> 新英文: 'Accommodating',更新于2026-02-14-->
+  <!--EN: Accommodating-->
+  <ArchotechVagina.stages.3.label>松弛</ArchotechVagina.stages.3.label>
+  <!--原中文: '敞口', 原英文: '无' -> 新英文: 'Cavernous',更新于2026-02-14-->
+  <!--EN: Cavernous-->
+  <ArchotechVagina.stages.4.label>敞口</ArchotechVagina.stages.4.label>
+  <!--原中文: '深渊', 原英文: '无' -> 新英文: 'Abyssal',更新于2026-02-14-->
+  <!--EN: Abyssal-->
+  <ArchotechVagina.stages.5.label>深渊</ArchotechVagina.stages.5.label>
+  <!--原中文: '超凡乳房', 原英文: '无' -> 新英文: 'archotech breasts',更新于2026-02-14-->
+  <!--EN: archotech breasts-->
+  <ArchotechBreasts.label>超凡乳房</ArchotechBreasts.label>
+  <!--原中文: '一对由超凡人工智能打造的乳房。它们能变成任何你想要的形状，在任何时候都不会妨碍佩戴者。它们的表面比任何自然皮肤都要顺滑，想要弄坏它比破坏塑钢还要困难并拥有自我修复能力。它的内部运作原理对所有人来说都是一个谜。', 原英文: '无' -> 新英文: 'A pair of archotech breasts.',更新于2026-02-14-->
+  <!--EN: A pair of archotech breasts.-->
+  <ArchotechBreasts.description>一对由超凡人工智能打造的乳房。它们能变成任何你想要的形状，在任何时候都不会妨碍佩戴者。它们的表面比任何自然皮肤都要顺滑，想要弄坏它比破坏塑钢还要困难并拥有自我修复能力。它的内部运作原理对所有人来说都是一个谜。</ArchotechBreasts.description>
+  <!--原中文: '飞机场', 原英文: '无' -> 新英文: 'Nipples',更新于2026-02-14-->
+  <!--EN: Nipples-->
+  <ArchotechBreasts.stages.0.label>飞机场</ArchotechBreasts.stages.0.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Tiny',更新于2026-02-14-->
+  <!--EN: Tiny-->
+  <ArchotechBreasts.stages.1.label>很小</ArchotechBreasts.stages.1.label>
+  <!--原中文: '小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <ArchotechBreasts.stages.2.label>小</ArchotechBreasts.stages.2.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <ArchotechBreasts.stages.3.label>平均</ArchotechBreasts.stages.3.label>
+  <!--原中文: '大', 原英文: '无' -> 新英文: 'Large',更新于2026-02-14-->
+  <!--EN: Large-->
+  <ArchotechBreasts.stages.4.label>大</ArchotechBreasts.stages.4.label>
+  <!--原中文: '巨大', 原英文: '无' -> 新英文: 'Huge',更新于2026-02-14-->
+  <!--EN: Huge-->
+  <ArchotechBreasts.stages.5.label>巨大</ArchotechBreasts.stages.5.label>
+  <!--原中文: '超大', 原英文: '无' -> 新英文: 'Enormous',更新于2026-02-14-->
+  <!--EN: Enormous-->
+  <ArchotechBreasts.stages.6.label>超大</ArchotechBreasts.stages.6.label>
+  <!--原中文: '超巨大', 原英文: '无' -> 新英文: 'Massive',更新于2026-02-14-->
+  <!--EN: Massive-->
+  <ArchotechBreasts.stages.7.label>超巨大</ArchotechBreasts.stages.7.label>
+  <!--原中文: '巨大建筑', 原英文: '无' -> 新英文: 'Gargantuan',更新于2026-02-14-->
+  <!--EN: Gargantuan-->
+  <ArchotechBreasts.stages.8.label>巨大建筑</ArchotechBreasts.stages.8.label>
+  <!--原中文: '超巨大怪兽', 原英文: '无' -> 新英文: 'Colossal',更新于2026-02-14-->
+  <!--EN: Colossal-->
+  <ArchotechBreasts.stages.9.label>超巨大怪兽</ArchotechBreasts.stages.9.label>
+  <!--原中文: '泰坦尼克', 原英文: '无' -> 新英文: 'Titanic',更新于2026-02-14-->
+  <!--EN: Titanic-->
+  <ArchotechBreasts.stages.10.label>泰坦尼克</ArchotechBreasts.stages.10.label>
+  <!--原中文: '天文级别', 原英文: '无' -> 新英文: 'Astronomical',更新于2026-02-14-->
+  <!--EN: Astronomical-->
+  <ArchotechBreasts.stages.11.label>天文级别</ArchotechBreasts.stages.11.label>
+  <!--原中文: '超凡肛门', 原英文: '无' -> 新英文: 'archotech anus',更新于2026-02-14-->
+  <!--EN: archotech anus-->
+  <ArchotechAnus.label>超凡肛门</ArchotechAnus.label>
+  <!--原中文: '一个由超凡人工智能打造的肛门。它从外形上难以和自然肛门区分。无与伦比的强度和自我修复特性使其几乎不可能被破坏。它的内部运作原理对所有人来说都是一个谜。', 原英文: '无' -> 新英文: 'An archotech anus.',更新于2026-02-14-->
+  <!--EN: An archotech anus.-->
+  <ArchotechAnus.description>一个由超凡人工智能打造的肛门。它从外形上难以和自然肛门区分。无与伦比的强度和自我修复特性使其几乎不可能被破坏。它的内部运作原理对所有人来说都是一个谜。</ArchotechAnus.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <ArchotechAnus.stages.0.label>微型</ArchotechAnus.stages.0.label>
+  <!--原中文: '紧致', 原英文: '无' -> 新英文: 'Tight',更新于2026-02-14-->
+  <!--EN: Tight-->
+  <ArchotechAnus.stages.1.label>紧致</ArchotechAnus.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <ArchotechAnus.stages.2.label>平均</ArchotechAnus.stages.2.label>
+  <!--原中文: '松弛', 原英文: '无' -> 新英文: 'Accommodating',更新于2026-02-14-->
+  <!--EN: Accommodating-->
+  <ArchotechAnus.stages.3.label>松弛</ArchotechAnus.stages.3.label>
+  <!--原中文: '敞口', 原英文: '无' -> 新英文: 'Cavernous',更新于2026-02-14-->
+  <!--EN: Cavernous-->
+  <ArchotechAnus.stages.4.label>敞口</ArchotechAnus.stages.4.label>
+  <!--原中文: '深渊', 原英文: '无' -> 新英文: 'Abyssal',更新于2026-02-14-->
+  <!--EN: Abyssal-->
+  <ArchotechAnus.stages.5.label>深渊</ArchotechAnus.stages.5.label>
+</LanguageData>

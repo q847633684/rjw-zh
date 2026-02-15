@@ -1,0 +1,167 @@
+key,text,tag,file,type
+RES_OrificeStretched,{0}'s {1} stretched from sex with {2}.,RES_OrificeStretched,Message.xml,keyed
+RES_PermanentDamage,{0}'s {1} was permanently damaged from sex.,RES_PermanentDamage,Message.xml,keyed
+RES_OrificeProlapsed,{0}'s {1} has prolapsed from sex.,RES_OrificeProlapsed,Message.xml,keyed
+RES_OrificeProlapsedExtreme,"{0}'s {1} has severely prolapsed, requiring medical help to fix.",RES_OrificeProlapsedExtreme,Message.xml,keyed
+RES_CurrentLength,Adjusted length,RES_CurrentLength,Message.xml,keyed
+RES_CurrentDepth,Adjusted depth,RES_CurrentDepth,Message.xml,keyed
+RES_CurrentGirth,Adjusted girth,RES_CurrentGirth,Message.xml,keyed
+RES_LengthDamage,Length damage,RES_LengthDamage,Message.xml,keyed
+RES_GirthDamage,Girth damage,RES_GirthDamage,Message.xml,keyed
+RES_OriginalSeverity,Original severity,RES_OriginalSeverity,Message.xml,keyed
+RES_FinalDimensionExplanationP,"Penetrator modifiers:\n• Tapered: +20% length\n• Long: +50% length\n• Girthy: −15% length, +50% girth\n• Knotted: +60% girth\n• Flared: +30% girth\n• Small: −25% length and girth\n• Thin: −40% girth",RES_FinalDimensionExplanationP,Message.xml,keyed
+RES_FinalDimensionExplanationO,Orifice modifiers:\n• Tight: −25% girth\n• Loose: +50% girth\n• Deep: +40% length\n\nDamage effects:\n• Cervix rupture: ×2 length\n• Vaginal prolapse: +20% length\n• Extreme vaginal prolapse: +50% length\n• Vaginal rupture: ×2 girth\n• Sphincter rupture: ×2 girth\n• Deep rectal rupture: ×2 length\n• Anal prolapse: +20% length\n• Extreme anal prolapse: +50% length,RES_FinalDimensionExplanationO,Message.xml,keyed
+RES_DamageExplanation,Damage thresholds:\n• Below 1 — Safe.\n• 1 to below 2 — Minor injuries.\n• 2 to below 3 — Normal prolapse and bleeding injuries.\n• 3 to below 4 — Extreme prolapse.\n• 4 or above — Permanent injury.,RES_DamageExplanation,Message.xml,keyed
+RES_Reset,Reset,RES_Reset,Settings.xml,keyed
+RES_Stretching,Stretching,RES_Stretching,Settings.xml,keyed
+RES_Notifications,Notifications,RES_Notifications,Settings.xml,keyed
+RES_FeatureTabStretching_Label,Stretching mechanics and their settings.,RES_FeatureTabStretching_Label,Settings.xml,keyed
+RES_IsProlapseEnabled_Label,Enable orifice prolapsing,RES_IsProlapseEnabled_Label,Settings.xml,keyed
+RES_IsProlapseEnabled_Tooltip,Stretching mechanics and their settings.,RES_IsProlapseEnabled_Tooltip,Settings.xml,keyed
+RES_IsExtremeInjuriesEnabled_Label,Enable extreme orifice injuries,RES_IsExtremeInjuriesEnabled_Label,Settings.xml,keyed
+RES_IsExtremeInjuriesEnabled_Tooltip,"Allows orifices to be permanently traumatized from violent penetration, increasing their maximum stretchable length and/or girth.",RES_IsExtremeInjuriesEnabled_Tooltip,Settings.xml,keyed
+RES_SexTypeAversion_Label,Enable dangerous sex aversion,RES_SexTypeAversion_Label,Settings.xml,keyed
+RES_SexTypeAversion_Tooltip,Pawns will try and select sex type that will not result in their orifices damaged.,RES_SexTypeAversion_Tooltip,Settings.xml,keyed
+RES_TightSexThoughts_Label,Enable tightness sex thoughs,RES_TightSexThoughts_Label,Settings.xml,keyed
+RES_TightSexThoughts_Tooltip,Enables thoughts based on tightness during sex.,RES_TightSexThoughts_Tooltip,Settings.xml,keyed
+RES_DamageMultiplier_Label,Stretching Multiplier: {0},RES_DamageMultiplier_Label,Settings.xml,keyed
+RES_DamageMultiplier_Tooltip,"Changes the strenght of stretching effect, also affects how fast Extreme Damage and Prolapse will happen.",RES_DamageMultiplier_Tooltip,Settings.xml,keyed
+RES_RecoveryMultiplier_Label,Recovery Multiplier: {0},RES_RecoveryMultiplier_Label,Settings.xml,keyed
+RES_RecoveryMultiplier_Tooltip,Changes the recovery speed of stretched orifices.,RES_RecoveryMultiplier_Tooltip,Settings.xml,keyed
+RES_FeatureTabNotifications_Label,Stretching notifications.,RES_FeatureTabNotifications_Label,Settings.xml,keyed
+RES_EnableStretchNotifications_Label,Enable Stretch Notifications,RES_EnableStretchNotifications_Label,Settings.xml,keyed
+RES_EnableStretchNotifications_Tooltip,Allows stretch notifications to be displayed.,RES_EnableStretchNotifications_Tooltip,Settings.xml,keyed
+RES_IsStretchTextPlayerFactionVisibleOnly_Label,Show Stretch Messages for Player Faction Only,RES_IsStretchTextPlayerFactionVisibleOnly_Label,Settings.xml,keyed
+RES_IsStretchTextPlayerFactionVisibleOnly_Tooltip,Only displays stretch-related messages for pawns belonging to the player faction.,RES_IsStretchTextPlayerFactionVisibleOnly_Tooltip,Settings.xml,keyed
+RES_EnableStretchNotifications_ForHumans_Label,Show Stretch Messages for Humans,RES_EnableStretchNotifications_ForHumans_Label,Settings.xml,keyed
+RES_EnableStretchNotifications_ForHumans_Tooltip,Display stretch-related messages for Humanlike pawns.,RES_EnableStretchNotifications_ForHumans_Tooltip,Settings.xml,keyed
+RES_EnableStretchNotifications_ForAnimals_Label,Show Stretch Messages for Animals,RES_EnableStretchNotifications_ForAnimals_Label,Settings.xml,keyed
+RES_EnableStretchNotifications_ForAnimals_Tooltip,Display stretch-related messages for Animal pawns.,RES_EnableStretchNotifications_ForAnimals_Tooltip,Settings.xml,keyed
+RES_EnableStretchNotifications_ForAnimals_OnlyNamed_Label,Show Stretch Messages for Named Animals only,RES_EnableStretchNotifications_ForAnimals_OnlyNamed_Label,Settings.xml,keyed
+RES_EnableStretchNotifications_ForAnimals_OnlyNamed_Tooltip,Only display stretch-related messages for named Animal pawns.,RES_EnableStretchNotifications_ForAnimals_OnlyNamed_Tooltip,Settings.xml,keyed
+RES_DebugMode_Label,Enable Debug Logging,RES_DebugMode_Label,Settings.xml,keyed
+RES_DebugMode_Tooltip,Allows debug logs to be displayed.,RES_DebugMode_Tooltip,Settings.xml,keyed
+RES_StretchTear.label,tear,label,HediffDefs\Hediffs_Damage.xml,def
+RES_StretchTear.labelNoun,a tear,labelNoun,HediffDefs\Hediffs_Damage.xml,def
+RES_StretchTear.description,Excessive girth during penetration caused internal tearing. The injury is painful and may bleed or become infected if not properly treated.,description,HediffDefs\Hediffs_Damage.xml,def
+RES_StretchTearLenght.label,deep tear,label,HediffDefs\Hediffs_Damage.xml,def
+RES_StretchTearLenght.labelNoun,a deep tear,labelNoun,HediffDefs\Hediffs_Damage.xml,def
+RES_StretchTearLenght.description,Excessive length during penetration caused deep internal tearing beyond the outer orifice. The injury is painful and may bleed or become infected if not properly treated.,description,HediffDefs\Hediffs_Damage.xml,def
+RES_CervixRupture.label,cervix rupture,label,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_CervixRupture.labelNoun,a cervix rupture,labelNoun,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_CervixRupture.description,"The cervix has been violently forced open during intercourse with an unusually long penetrator, tearing the passage into the uterus. While partial recovery is possible, the orifice will never return to its original tightness.",description,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_CervixRupture.stages.0.label,healed,label,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_CervixRupture.stages.1.label,recent,label,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_VaginalRupture.label,vaginal rupture,label,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_VaginalRupture.labelNoun,a vaginal rupture,labelNoun,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_VaginalRupture.description,"The vaginal walls and surrounding pelvic tissue were torn during intercourse with an excessively large penetrator. While partial recovery is possible, the orifice will never return to its original tightness.",description,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_VaginalRupture.stages.0.label,healed,label,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_VaginalRupture.stages.1.label,recent,label,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_SphincterRupture.label,sphincter rupture,label,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_SphincterRupture.labelNoun,a sphincter rupture,labelNoun,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_SphincterRupture.description,"The anal sphincter has been violently overstretched and torn during intercourse with an excessively large penetrator. While partial recovery is possible, the orifice will never return to its original tightness.",description,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_SphincterRupture.stages.0.label,healed,label,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_SphincterRupture.stages.1.label,recent,label,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_DeepRectalRupture.label,deep rectal rupture,label,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_DeepRectalRupture.labelNoun,a deep rectal rupture,labelNoun,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_DeepRectalRupture.description,"Pelvic connective tissues were torn and the sigmoid colon was straightened during intercourse with an excessively long penetrator. While partial recovery is possible, the orifice will never return to its original length.",description,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_DeepRectalRupture.stages.0.label,healed,label,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_DeepRectalRupture.stages.1.label,recent,label,HediffDefs\Hediffs_ExtremeDamage.xml,def
+RES_JawDislocated.description,"The jaw was forcibly dislocated during intercourse with an excessively large penetrator. The girth pried the joint beyond its natural limit, causing instability and severe pain until it heals.",description,HediffDefs\Hediffs_OralDamage.xml,def
+RES_JawDislocated.label,dislocated jaw,label,HediffDefs\Hediffs_OralDamage.xml,def
+RES_JawDislocated.labelNoun,dislocated jaw,labelNoun,HediffDefs\Hediffs_OralDamage.xml,def
+RES_JawDislocated.stages.0.label,sprained,label,HediffDefs\Hediffs_OralDamage.xml,def
+RES_JawDislocated.stages.1.label,dislocated,label,HediffDefs\Hediffs_OralDamage.xml,def
+RES_JawDislocated.stages.2.label,dislocated (painful),label,HediffDefs\Hediffs_OralDamage.xml,def
+RES_ThroatBruise.description,"Blunt force from an excessively large penetrator bruised the throat during intercourse. The impact caused swelling and tissue trauma, making breathing and swallowing painful until the inflammation subsides.",description,HediffDefs\Hediffs_OralDamage.xml,def
+RES_ThroatBruise.label,throat bruise,label,HediffDefs\Hediffs_OralDamage.xml,def
+RES_ThroatBruise.labelNoun,bruised throat,labelNoun,HediffDefs\Hediffs_OralDamage.xml,def
+RES_ThroatBruise.stages.0.label,inflamed,label,HediffDefs\Hediffs_OralDamage.xml,def
+RES_ThroatBruise.stages.1.label,bruised,label,HediffDefs\Hediffs_OralDamage.xml,def
+RES_SoreThroat.description,Penetration by a deep or girthy object strained the throat tissues beyond comfort. The resulting inflammation causes soreness and irritation that lingers until the area fully recovers.,description,HediffDefs\Hediffs_OralDamage.xml,def
+RES_SoreThroat.label,sore throat,label,HediffDefs\Hediffs_OralDamage.xml,def
+RES_SoreThroat.labelNoun,sore throat,labelNoun,HediffDefs\Hediffs_OralDamage.xml,def
+RES_SoreThroat.stages.0.label,irritated,label,HediffDefs\Hediffs_OralDamage.xml,def
+RES_SoreThroat.stages.1.label,sore,label,HediffDefs\Hediffs_OralDamage.xml,def
+RES_ThroatTear.label,throat tear,label,HediffDefs\Hediffs_OralDamage.xml,def
+RES_ThroatTear.labelNoun,a throat tear,labelNoun,HediffDefs\Hediffs_OralDamage.xml,def
+RES_ThroatTear.description,Aggressive penetration tore delicate tissues within the throat. The injury is painful and may lead to bleeding or infection if not properly treated.,description,HediffDefs\Hediffs_OralDamage.xml,def
+RES_Prolapse.label,prolapse,label,HediffDefs\Hediffs_Prolapse.xml,def
+RES_Prolapse.labelNoun,a prolapse,labelNoun,HediffDefs\Hediffs_Prolapse.xml,def
+RES_Prolapse.description,"Excessive penetration caused the orifice to invert slightly, forcing internal tissue outward. The exposed area is swollen and tender, making further activity painful until the tissue retracts naturally.",description,HediffDefs\Hediffs_Prolapse.xml,def
+RES_Prolapse.stages.0.label,recovering,label,HediffDefs\Hediffs_Prolapse.xml,def
+RES_Prolapse.stages.1.label,painful,label,HediffDefs\Hediffs_Prolapse.xml,def
+RES_ExtremeProlapse.label,prolapse,label,HediffDefs\Hediffs_Prolapse.xml,def
+RES_ExtremeProlapse.labelNoun,an extreme prolapse,labelNoun,HediffDefs\Hediffs_Prolapse.xml,def
+RES_ExtremeProlapse.description,"Severe overstretching caused the orifice to turn outward extensively, leaving sensitive internal tissue exposed. Natural recovery is unlikely, and surgical intervention is required to restore normal function.",description,HediffDefs\Hediffs_Prolapse.xml,def
+RES_ExtremeProlapse.stages.0.label,requires surgery,label,HediffDefs\Hediffs_Prolapse.xml,def
+RES_RepairJaw.label,realign jaw,label,RecipeDefs\Recipes_Surgery_Jaw.xml,def
+RES_RepairJaw.description,Realign and stabilize a dislocated jaw. The procedure reduces pain and restores full function to the mouth.,description,RecipeDefs\Recipes_Surgery_Jaw.xml,def
+RES_RepairJaw.jobString,Realigning jaw.,jobString,RecipeDefs\Recipes_Surgery_Jaw.xml,def
+RES_RepairProlapse.label,repair prolapse,label,RecipeDefs\Recipes_Surgery_Prolapse.xml,def
+RES_RepairProlapse.description,Repair a prolapse.,description,RecipeDefs\Recipes_Surgery_Prolapse.xml,def
+RES_RepairProlapse.jobString,Repairing prolapse.,jobString,RecipeDefs\Recipes_Surgery_Prolapse.xml,def
+RES_RepairExtremeProlapse.label,repair extreme prolapse,label,RecipeDefs\Recipes_Surgery_Prolapse.xml,def
+RES_RepairExtremeProlapse.description,Surgically repair a prolapse.,description,RecipeDefs\Recipes_Surgery_Prolapse.xml,def
+RES_RepairExtremeProlapse.jobString,Repairing prolapse.,jobString,RecipeDefs\Recipes_Surgery_Prolapse.xml,def
+Stretching_GenitalStats.label,adjusted genital stats,label,StatCategoryDefs\StatCategoryDefs.xml,def
+RES_GotStretched_Anal.stages.0.label,anal stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Anal.stages.0.description,Oww... That was a lot to take... I feel like sitting's off the table for a while.,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Anal.stages.1.label,anal stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Anal.stages.1.description,Ugh... My anus is definitely torn — there's blood coming out.,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Anal.stages.2.label,anal stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Anal.stages.2.description,It's finally over. I thought I was going to die — my anus was ripped open and bleeding.,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Vaginal.stages.0.label,vaginal stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Vaginal.stages.0.description,Oww... That was a lot to take... My vagina feels like it's on fire.,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Vaginal.stages.1.label,vaginal stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Vaginal.stages.1.description,Ugh... My vagina is definitely torn — there's blood coming out.,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Vaginal.stages.2.label,vaginal stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Vaginal.stages.2.description,It's finally over. I thought I was going to be torn in half and die — my vagina is ripped open and bleeding.,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Oral.stages.0.label,oral stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Oral.stages.0.description,Ugh... My throat feels all tender. That was too rough.,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Oral.stages.1.label,oral stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Oral.stages.1.description,"That was brutal... I think something tore in my throat, I can taste blood, and it's hard to swallow.",description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Oral.stages.2.label,oral stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Oral.stages.2.description,"It’s finally over... Something’s definitely wrong with my jaw, and my throat is bleeding.",description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Anal_Masochist.stages.0.label,anal stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Anal_Masochist.stages.0.description,Mmm... That was intense. I feel like I'm on fire down there - love it!,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Anal_Masochist.stages.1.label,anal stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Anal_Masochist.stages.1.description,Oh... My ass is definitely torn — this feels good!,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Anal_Masochist.stages.2.label,anal stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Anal_Masochist.stages.2.description,I'm definitely ripped open... But I like that feeling.,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Vaginal_Masochist.stages.0.label,vaginal stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Vaginal_Masochist.stages.0.description,Mmm... That was intense. I feel like I'm on fire down there - love it!,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Vaginal_Masochist.stages.1.label,vaginal stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Vaginal_Masochist.stages.1.description,Oh... My vagina is definitely torn — this feels good!,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Vaginal_Masochist.stages.2.label,vaginal stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Vaginal_Masochist.stages.2.description,I'm definitely ripped open... But I like that feeling.,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Oral_Masochist.stages.0.label,oral stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Oral_Masochist.stages.0.description,My throat feels all tender. I like it!,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Oral_Masochist.stages.1.label,oral stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Oral_Masochist.stages.1.description,Something ripped in my throat... the coppery tang of blood is intoxicating.,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Oral_Masochist.stages.2.label,oral stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched_Oral_Masochist.stages.2.description,I think my jaw is dislocated... and I'm pretty sure my throat is torn. So worth it.,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched.stages.0.label,sore from stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretched.stages.0.description,Oww. That was a lot to take...,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretchedMasochist.stages.0.label,sore from stretching,label,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_GotStretchedMasochist.stages.0.description,That was a lot to take... but in a way I liked.,description,ThoughtDefs\Thoughts_Memory_Stretch.xml,def
+RES_TightSex_Tight_Penetrator.stages.0.label,average penetration,label,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Tight_Penetrator.stages.0.description,Slides in smoothly... what a nice feeling.,description,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Tight_Penetrator.stages.1.label,tight penetration,label,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Tight_Penetrator.stages.1.description,I feel like I'm being milked... I like it.,description,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Tight_Penetrator.stages.2.label,extremely tight penetration,label,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Tight_Penetrator.stages.2.description,Whoa! That's definitely tight - feels amazing!,description,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Tight_Recipient.stages.0.label,average penetration,label,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Tight_Recipient.stages.0.description,Mmm... snug and smooth... that's just right.,description,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Tight_Recipient.stages.1.label,tight penetration,label,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Tight_Recipient.stages.1.description,Filled to the brim... feels amazing.,description,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Tight_Recipient.stages.2.label,extremely tight penetration,label,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Tight_Recipient.stages.2.description,Oh god... I can hear myself stretch around it...,description,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Loose_Penetrator.stages.0.label,loose penetration,label,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Loose_Penetrator.stages.0.description,Feels kind of... spacious in there.,description,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Loose_Penetrator.stages.1.label,extremely loose penetration,label,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Loose_Penetrator.stages.1.description,I could practically swim in there.,description,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Loose_Recipient.stages.0.label,loose penetration,label,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Loose_Recipient.stages.0.description,It feels kind of empty in there...,description,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Loose_Recipient.stages.1.label,extremely loose penetration,label,ThoughtDefs\Thoughts_Memory_TightSex.xml,def
+RES_TightSex_Loose_Recipient.stages.1.description,Is it even...?,description,ThoughtDefs\Thoughts_Memory_TightSex.xml,def

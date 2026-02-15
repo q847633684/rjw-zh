@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: All that for some paltry size gains?-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Bad.stages.0.description>为了一些微不足道的尺寸收益吗？</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Bad.stages.0.description>
+  <!--EN: Disliked assimilating {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Bad.stages.0.label>反感同化{0}</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Bad.stages.0.label>
+  <!--EN: Sweet gains!-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Good.stages.0.description>甜的收获!</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Good.stages.0.description>
+  <!--EN: Liked assimilating {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Good.stages.0.label>喜欢同化{0}</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_Good.stages.0.label>
+  <!--EN: ...Can I even call my parts mine anymore, when they were once entire people?-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryBad.stages.0.description>... 我甚至可以称我的部件为我的，当他们曾经是完整的人？</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryBad.stages.0.description>
+  <!--EN: Hated assimilating {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryBad.stages.0.label>厌恶同化{0}</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryBad.stages.0.label>
+  <!--EN: Always getting bigger and sexier!-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryGood.stages.0.description>总是变得越来越大，越来越性感!</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryGood.stages.0.description>
+  <!--EN: Loved assimilating {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryGood.stages.0.label>喜爱同化{0}</RV2_GoalPreferenceQuirkSatisfaction_Assimilate_VeryGood.stages.0.label>
+  <!--EN: This doesn't feel like much of anything.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Bad.stages.0.description>这感觉不太像什么。</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Bad.stages.0.description>
+  <!--EN: Disliked fissuring {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Bad.stages.0.label>反感的破裂{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Bad.stages.0.label>
+  <!--EN: Nice and easy.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Good.stages.0.description>安逸。</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Good.stages.0.description>
+  <!--EN: Liked fissuring {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Good.stages.0.label>喜欢破裂{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_Good.stages.0.label>
+  <!--EN: What a total letdown.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryBad.stages.0.description>多么令人失望。</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryBad.stages.0.description>
+  <!--EN: Hated fissuring {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryBad.stages.0.label>厌恶破裂{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryBad.stages.0.label>
+  <!--EN: Gotta keep your boobs happy!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryGood.stages.0.description>我要让你的胸部开心!</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryGood.stages.0.description>
+  <!--EN: Loved fissuring {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryGood.stages.0.label>钟爱裂变{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cleavage_VeryGood.stages.0.label>
+  <!--EN: It's kinda restricting to be wrapped around someone like that.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Bad.stages.0.description>和那样的人在一起有点受限制。</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Bad.stages.0.description>
+  <!--EN: Disliked engulfing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Bad.stages.0.label>厌恶吞没{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Bad.stages.0.label>
+  <!--EN: Glomp!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Good.stages.0.description>Glomp!</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Good.stages.0.description>
+  <!--EN: Liked engulfing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Good.stages.0.label>喜欢吞没{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_Good.stages.0.label>
+  <!--EN: I don't need a skeleton, thank you.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryBad.stages.0.description>我不需要骷髅，谢谢.</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryBad.stages.0.description>
+  <!--EN: Hated engulfing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryBad.stages.0.label>厌恶吞没{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryBad.stages.0.label>
+  <!--EN: Gotta keep your goo happy!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryGood.stages.0.description>必须让你的粘性体保持快乐!</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryGood.stages.0.description>
+  <!--EN: Loved engulfing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryGood.stages.0.label>喜爱吞没{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Membrane_VeryGood.stages.0.label>
+  <!--EN: I can't help but feel this should have stayed tied.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Bad.stages.0.description>我不禁觉得这应该是个失败者。</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Bad.stages.0.description>
+  <!--EN: Disliked ennaveling {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Bad.stages.0.label>反感 ennaveling{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Bad.stages.0.label>
+  <!--EN: I'm still getting use out of it!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Good.stages.0.description>我还在慢慢习惯它!</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Good.stages.0.description>
+  <!--EN: Liked ennaveling {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Good.stages.0.label>喜欢圣兽{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_Good.stages.0.label>
+  <!--EN: Tie it back up. This sucks.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryBad.stages.0.description>把它绑起来。糟透了。</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryBad.stages.0.description>
+  <!--EN: Hated ennaveling {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryBad.stages.0.label>憎恶圣兽{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryBad.stages.0.label>
+  <!--EN: Gotta keep your belly-button happy!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryGood.stages.0.description>必须让你的肚脐保持快乐!</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryGood.stages.0.description>
+  <!--EN: Loved ennaveling {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryGood.stages.0.label>喜爱圣兽{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Navel_VeryGood.stages.0.label>
+  <!--EN: Kinda hard to look back and make sure everything's going okay.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Bad.stages.0.description>回首过去，确保一切正常有点困难。</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Bad.stages.0.description>
+  <!--EN: Disliked pythening {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Bad.stages.0.label>反感蛇形{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Bad.stages.0.label>
+  <!--EN: Tasty!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Good.stages.0.description>真香!</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Good.stages.0.description>
+  <!--EN: Liked pythening {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Good.stages.0.label>喜欢{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_Good.stages.0.label>
+  <!--EN: I'd rather just eat with my mouth.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryBad.stages.0.description>我宁愿只用嘴吃饭。</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryBad.stages.0.description>
+  <!--EN: Hated pythening {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryBad.stages.0.label>厌恶死亡{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryBad.stages.0.label>
+  <!--EN: Gotta keep your tail happy!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryGood.stages.0.description>必须保持一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。开心!</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryGood.stages.0.description>
+  <!--EN: Loved pythening {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryGood.stages.0.label>喜爱蟒蛇{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Tailmaw_VeryGood.stages.0.label>
+  <!--EN: Udders are weird.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Bad.stages.0.description>乳房很奇怪。</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Bad.stages.0.description>
+  <!--EN: Disliked unnursing {0} into udder-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Bad.stages.0.label>反感的不哺育{0}进入乳房</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Bad.stages.0.label>
+  <!--EN: Nice and milky.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Good.stages.0.description>非常好，是奶白的。</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Good.stages.0.description>
+  <!--EN: Liked unnursing {0} into udder-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Good.stages.0.label>喜欢未哺育{0}进入乳房</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_Good.stages.0.label>
+  <!--EN: Udderly awful.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryBad.stages.0.description>太可怕了。</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryBad.stages.0.description>
+  <!--EN: Hated unnursing {0} into udder-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryBad.stages.0.label>厌恶未哺育{0}进入乳房</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryBad.stages.0.label>
+  <!--EN: Gotta keep your udder happy!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryGood.stages.0.description>必须让你的乳房开心!</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryGood.stages.0.description>
+  <!--EN: Loved unnursing {0} into udder-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryGood.stages.0.label>未哺育的爱人{0}进入乳房</RV2_TypePreferenceQuirkSatisfaction_Predator_Udder_VeryGood.stages.0.label>
+  <!--EN: That wasn't very fun.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Bad.stages.0.description>那不是很有趣。</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Bad.stages.0.description>
+  <!--EN: Disliked being fissured by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Bad.stages.0.label>厌恶因以下情况而破裂{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Bad.stages.0.label>
+  <!--EN: Warm and pillowy!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Good.stages.0.description>温暖而柔软!</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Good.stages.0.description>
+  <!--EN: Liked being fissured by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Good.stages.0.label>喜欢被破裂{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_Good.stages.0.label>
+  <!--EN: That barely felt like vore.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryBad.stages.0.description>几乎没有感觉吃人</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryBad.stages.0.description>
+  <!--EN: Hated being fissured by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryBad.stages.0.label>讨厌被破裂{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryBad.stages.0.label>
+  <!--EN: Between the boobs are where I belong!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryGood.stages.0.description>我属于这里!</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryGood.stages.0.description>
+  <!--EN: Loved being fissured by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryGood.stages.0.label>喜欢被破裂{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Cleavage_VeryGood.stages.0.label>
+  <!--EN: It's too spacious.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Bad.stages.0.description>它太宽敞了。</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Bad.stages.0.description>
+  <!--EN: Disliked being engulfed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Bad.stages.0.label>厌恶被吞没{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Bad.stages.0.label>
+  <!--EN: Squishy!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Good.stages.0.description>湿透了!</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Good.stages.0.description>
+  <!--EN: Liked being engulfed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Good.stages.0.label>喜欢被吞没{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_Good.stages.0.label>
+  <!--EN: I'm like a puppet on display.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryBad.stages.0.description>我就像展示的木偶。</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryBad.stages.0.description>
+  <!--EN: Hated being engulfed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryBad.stages.0.label>厌恶被吞噬{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryBad.stages.0.label>
+  <!--EN: In the slime is where I belong!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryGood.stages.0.description>在史莱姆归属我了!</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryGood.stages.0.description>
+  <!--EN: Loved being engulfed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryGood.stages.0.label>喜爱被吞噬{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Membrane_VeryGood.stages.0.label>
+  <!--EN: This feels wrong.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Bad.stages.0.description>这种感觉是错误的。</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Bad.stages.0.description>
+  <!--EN: Disliked being ennaveled by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Bad.stages.0.label>厌恶被奴役{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Bad.stages.0.label>
+  <!--EN: Linty.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Good.stages.0.description>林蒂。</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Good.stages.0.description>
+  <!--EN: Liked being ennaveled by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Good.stages.0.label>喜欢被奴役{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_Good.stages.0.label>
+  <!--EN: Re-tie your umbilicals!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryBad.stages.0.description>重新束缚你的脐部!</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryBad.stages.0.description>
+  <!--EN: Hated being ennaveled by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryBad.stages.0.label>厌恶被奴役{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryBad.stages.0.label>
+  <!--EN: In the navel is where I belong!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryGood.stages.0.description>在肚脐里有我的归属!</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryGood.stages.0.description>
+  <!--EN: Loved being ennaveled by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryGood.stages.0.label>喜欢被{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Navel_VeryGood.stages.0.label>
+  <!--EN: Tailmaws look wrong.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Bad.stages.0.description>尾 maw 看起来不太对劲。</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Bad.stages.0.description>
+  <!--EN: Disliked being pythened by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Bad.stages.0.label>反感被{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Bad.stages.0.label>
+  <!--EN: I love a good, flexible tail-throat!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Good.stages.0.description>我好爱一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。-咽喉!</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Good.stages.0.description>
+  <!--EN: Liked being pythened by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Good.stages.0.label>喜欢被勾搭上{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_Good.stages.0.label>
+  <!--EN: That gave me the heebie-jeebies.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryBad.stages.0.description>这给了我咯咯笑的感觉。</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryBad.stages.0.description>
+  <!--EN: Hated being pythened by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryBad.stages.0.label>讨厌被勾搭上{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryBad.stages.0.label>
+  <!--EN: Down the tail is where I belong!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryGood.stages.0.description>向下一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。归属我了!</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryGood.stages.0.description>
+  <!--EN: Loved being pythened by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryGood.stages.0.label>喜欢被勾搭上{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Tailmaw_VeryGood.stages.0.label>
+  <!--EN: It's a bit beastly, isn't it?-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Bad.stages.0.description>有点野兽，不是吗？</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Bad.stages.0.description>
+  <!--EN: Disliked being unnursed into udder by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Bad.stages.0.label>不喜欢被人照顾成乳房{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Bad.stages.0.label>
+  <!--EN: Milky!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Good.stages.0.description>奶白!</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Good.stages.0.description>
+  <!--EN: Liked being unnursed into udder by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Good.stages.0.label>喜欢被照顾成乳房{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_Good.stages.0.label>
+  <!--EN: Udders are the domain of beasts, not people.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryBad.stages.0.description>乳房是野兽的领地，不是人。</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryBad.stages.0.description>
+  <!--EN: Hated being unnursed into udder by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryBad.stages.0.label>讨厌被人照顾成乳房{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryBad.stages.0.label>
+  <!--EN: In the udder is where I belong!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryGood.stages.0.description>在我的乳房里!</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryGood.stages.0.description>
+  <!--EN: Loved being unnursed into udder by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryGood.stages.0.label>喜欢被照顾成乳房{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Udder_VeryGood.stages.0.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Another baby!-->
+  <rjw_genes_another_baby_letter>又一个婴儿！</rjw_genes_another_baby_letter>
+  <!--EN: is still in labor and is having twins! Be sure to gather your doctor and additional friends and family to ensure the other baby is also born healthy!-->
+  <rjw_genes_another_baby_letter_content>{0}仍在分娩中，而且是双胞胎！请务必召集你的医生和其他亲友，确保另一个婴儿也能健康出生！</rjw_genes_another_baby_letter_content>
+  <!--EN: Twins!-->
+  <rjw_genes_twin_letter>双胞胎！</rjw_genes_twin_letter>
+  <!--EN: is still in labor and is having twins! Be sure to gather your doctor and additional friends and family to ensure the other baby is also born healthy!-->
+  <rjw_genes_twin_letter_content>{0}仍在分娩中，而且是双胞胎！请务必召集你的医生和其他亲友，确保另一个婴儿也能健康出生！</rjw_genes_twin_letter_content>
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- invitation for breeding -->
+  <!--原中文: '手交', 原英文: '无' -> 新英文: 'Handjob',更新于2026-02-14-->
+  <!--EN: Handjob-->
+  <Bestiality_Reverse_Handjob.label>手交</Bestiality_Reverse_Handjob.label>
+  <!--原中文: '为其手交', 原英文: '无' -> 新英文: 'Give handjob',更新于2026-02-14-->
+  <!--EN: Give handjob-->
+  <Bestiality_Reverse_Handjob.modExtensions.0.RMBLabel>为其手交</Bestiality_Reverse_Handjob.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->为[RECIPIENT_nameDef]进行了手交服务。', 原英文: '无' -> 新英文: 'r_logentry->Serviced [RECIPIENT_nameDef] with handjob .',更新于2026-02-14-->
+  <!--EN: r_logentry->Serviced [RECIPIENT_nameDef] with handjob .-->
+  <Bestiality_Reverse_Handjob.logRulesInitiator.rulesStrings.0>r_logentry->为[RECIPIENT_nameDef]进行了手交服务。</Bestiality_Reverse_Handjob.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->享受了[INITIATOR_nameDef]的手交服务。', 原英文: '无' -> 新英文: 'r_logentry->Received handjob from [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Received handjob from [INITIATOR_nameDef].-->
+  <Bestiality_Reverse_Handjob.logRulesRecipient.rulesStrings.0>r_logentry->享受了[INITIATOR_nameDef]的手交服务。</Bestiality_Reverse_Handjob.logRulesRecipient.rulesStrings.0>
+</LanguageData>

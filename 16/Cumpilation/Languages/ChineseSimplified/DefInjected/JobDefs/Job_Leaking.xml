@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: deflating into TargetA.-->
+  <DeflateBucket.reportString>向 TargetA 排放</DeflateBucket.reportString>
+  <!--EN: deflating into TargetA.-->
+  <DeflateClean.reportString>向 TargetA 排放</DeflateClean.reportString>
+  <!--EN: deflating onto the floor.-->
+  <DeflateDirty.reportString>向地面排放</DeflateDirty.reportString>
+</LanguageData>

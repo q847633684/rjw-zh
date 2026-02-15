@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Vore initiator has no preferred VorePath-->
+  <RV2_RitualInvalidReasons_NoPath>吃人发起者没有偏好的 VorePath</RV2_RitualInvalidReasons_NoPath>
+  <!--EN: No assignments-->
+  <RV2_RitualInvalidReasons_NoRoles>无任务</RV2_RitualInvalidReasons_NoRoles>
+  <!--EN: No Predator-->
+  <RV2_RitualInvalidReasons_PredatorNotSet>没有捕食者</RV2_RitualInvalidReasons_PredatorNotSet>
+  <!--EN: No Prey-->
+  <RV2_RitualInvalidReasons_PreyNotSet>没有猎物</RV2_RitualInvalidReasons_PreyNotSet>
+</LanguageData>

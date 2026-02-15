@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '拆下身体部位', 原英文: '无' -> 新英文: 'Removed BodyPart',更新于2026-02-14-->
+  <!--EN: Removed BodyPart-->
+  <GoodwillChangedReason_RemovedBodyPart.label>拆下身体部位</GoodwillChangedReason_RemovedBodyPart.label>
+</LanguageData>

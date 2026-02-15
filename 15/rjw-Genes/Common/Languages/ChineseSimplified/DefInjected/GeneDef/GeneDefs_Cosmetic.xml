@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_succubus_wings.label>魅魔翅膀</rjw_genes_succubus_wings.label>
+  <rjw_genes_succubus_wings.description>该基因的携带者会长出魅魔的翅膀。</rjw_genes_succubus_wings.description>
+
+  <rjw_genes_succubus_tail.label>魅魔尾巴</rjw_genes_succubus_tail.label>
+  <rjw_genes_succubus_tail.description>该基因的携带者会长出一条细长的尾巴，末端有一颗心脏，可以充当灵巧的第五肢。</rjw_genes_succubus_tail.description>
+
+
+</LanguageData>

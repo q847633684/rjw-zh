@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '粘液团', 原英文: '无' -> 新英文: 'slime glob',更新于2026-02-14-->
+  <!--EN: slime glob-->
+  <SlimeGlob.label>粘液团</SlimeGlob.label>
+  <!--原中文: '一种溢出液组成的粘液球，用于生长粘液部件，人类无法安装。', 原英文: '无' -> 新英文: 'An oozy slime glob. Useless for humans.',更新于2026-02-14-->
+  <!--EN: An oozy slime glob. Useless for humans.-->
+  <SlimeGlob.description>一种溢出液组成的粘液球，用于生长粘液部件，人类无法安装。</SlimeGlob.description>
+</LanguageData>

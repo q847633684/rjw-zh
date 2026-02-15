@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- natural vaginaes -->
+  <!--过时key，需删除-->
+  <AddVagina.label>添加人类阴道</AddVagina.label>
+  <!--过时key，需删除-->
+  <AddVagina.description>为雄性添加阴道，使其成为扶她。</AddVagina.description>
+  <!--过时key，需删除-->
+  <AddVagina.jobString>正在安装阴道。</AddVagina.jobString>
+  <!--过时key，需删除-->
+  <addHorseVagina.label>添加马阴道</addHorseVagina.label>
+  <!--过时key，需删除-->
+  <addHorseVagina.description>为雄性添加阴道，使其成为扶她。</addHorseVagina.description>
+  <!--过时key，需删除-->
+  <addHorseVagina.jobString>正在安装阴道。</addHorseVagina.jobString>
+  <!--过时key，需删除-->
+  <addCatVagina.label>添加猫阴道</addCatVagina.label>
+  <!--过时key，需删除-->
+  <addCatVagina.description>为雄性添加阴道，使其成为扶她。</addCatVagina.description>
+  <!--过时key，需删除-->
+  <addCatVagina.jobString>正在安装阴道。</addCatVagina.jobString>
+  <!--过时key，需删除-->
+  <addDogVagina.label>添加犬阴道</addDogVagina.label>
+  <!--过时key，需删除-->
+  <addDogVagina.description>为雄性添加阴道，使其成为扶她。</addDogVagina.description>
+  <!--过时key，需删除-->
+  <addDogVagina.jobString>正在安装阴道。</addDogVagina.jobString>
+  <!--过时key，需删除-->
+  <addDragonVagina.label>添加龙阴道</addDragonVagina.label>
+  <!--过时key，需删除-->
+  <addDragonVagina.description>为雄性添加阴道，使其成为扶她。</addDragonVagina.description>
+  <!--过时key，需删除-->
+  <addDragonVagina.jobString>正在安装阴道。</addDragonVagina.jobString>
+  <!--过时key，需删除-->
+  <AddNarrowVagina.label>添加狭窄阴道</AddNarrowVagina.label>
+  <!--过时key，需删除-->
+  <AddNarrowVagina.description>为雄性添加阴道，使其成为扶她。</AddNarrowVagina.description>
+  <!--过时key，需删除-->
+  <AddNarrowVagina.jobString>正在安装阴道。</AddNarrowVagina.jobString>
+  <!--过时key，需删除-->
+  <AddCloacalVagina.label>添加泄殖腔阴道</AddCloacalVagina.label>
+  <!--过时key，需删除-->
+  <AddCloacalVagina.description>为雄性添加阴道，使其成为扶她。</AddCloacalVagina.description>
+  <!--过时key，需删除-->
+  <AddCloacalVagina.jobString>正在安装阴道。</AddCloacalVagina.jobString>
+  <!--过时key，需删除-->
+  <AddRodentVagina.label>添加啮齿动物阴道</AddRodentVagina.label>
+  <!--过时key，需删除-->
+  <AddRodentVagina.description>为雄性添加阴道，使其成为扶她。</AddRodentVagina.description>
+  <!--过时key，需删除-->
+  <AddRodentVagina.jobString>正在安装阴道。</AddRodentVagina.jobString>
+  <!--过时key，需删除-->
+  <addOvipositorF.label>添加雌性产卵器</addOvipositorF.label>
+  <!--过时key，需删除-->
+  <addOvipositorF.description>为雄性添加阴道，使其成为扶她。</addOvipositorF.description>
+  <!--过时key，需删除-->
+  <addOvipositorF.jobString>正在添加产卵器。</addOvipositorF.jobString>
+  <!-- hydraulic vagina -->
+  <!--过时key，需删除-->
+  <addHydraulicVagina.label>添加液压阴道</addHydraulicVagina.label>
+  <!--过时key，需删除-->
+  <addHydraulicVagina.description>为雄性添加阴道，使其成为扶她。</addHydraulicVagina.description>
+  <!--过时key，需删除-->
+  <addHydraulicVagina.jobString>正在添加液压阴道。</addHydraulicVagina.jobString>
+  <!-- bionic vagina -->
+  <!--过时key，需删除-->
+  <addBionicVagina.label>添加仿生阴道</addBionicVagina.label>
+  <!--过时key，需删除-->
+  <addBionicVagina.description>为雄性添加阴道，使其成为扶她。</addBionicVagina.description>
+  <!--过时key，需删除-->
+  <addBionicVagina.jobString>正在添加仿生阴道。</addBionicVagina.jobString>
+  <!-- archotech vagina -->
+  <!--过时key，需删除-->
+  <addArchotechVagina.label>添加超凡阴道</addArchotechVagina.label>
+  <!--过时key，需删除-->
+  <addArchotechVagina.description>为雄性添加阴道，使其成为扶她。</addArchotechVagina.description>
+  <!--过时key，需删除-->
+  <addArchotechVagina.jobString>正在添加超凡阴道。</addArchotechVagina.jobString>
+</LanguageData>

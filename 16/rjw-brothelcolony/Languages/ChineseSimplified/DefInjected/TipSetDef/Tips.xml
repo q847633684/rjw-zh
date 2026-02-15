@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '您可以在菜单中的“性”选项卡中查看娼妓的费用（图标看起来像个爱心）', 原英文: '无' -> 新英文: 'Whoring price is visible in the "show sexuality" menu on the bio tab (the icon looks like a heart).',更新于2026-02-14-->
+  <!--EN: Whoring price is visible in the "show sexuality" menu on the bio tab (the icon looks like a heart).-->
+  <BrothelColonyTips.tips.0>您可以在菜单中的“性”选项卡中查看娼妓的费用（图标看起来像个爱心）</BrothelColonyTips.tips.0>
+  <!--原中文: '如果您将套套放在床边的储存柜中，那么它将会被自动使用——如果您打算让您的殖民者卖淫，那么身边备一些套套是个不错的选择。', 原英文: '无' -> 新英文: 'Condoms can be automatically used if placed in a stockpile next to a bed - it might be a good idea to have some around if you intend on whoring your colonists out.',更新于2026-02-14-->
+  <!--EN: Condoms can be automatically used if placed in a stockpile next to a bed - it might be a good idea to have some around if you intend on whoring your colonists out.-->
+  <BrothelColonyTips.tips.1>如果您将套套放在床边的储存柜中，那么它将会被自动使用——如果您打算让您的殖民者卖淫，那么身边备一些套套是个不错的选择。</BrothelColonyTips.tips.1>
+</LanguageData>

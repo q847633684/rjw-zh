@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '小型肛塞', 原英文: '无' -> 新英文: 'small anal plug',更新于2026-02-14-->
+  <!--EN: small anal plug-->
+  <WAnalPlugSmall.label>小型肛塞</WAnalPlugSmall.label>
+  <!--原中文: '简陋的肛塞，可能不太健康，不适合长期佩戴。小号', 原英文: '无' -> 新英文: 'A primitive polished anal plug, probably not very healthy for a long term use. S-size',更新于2026-02-14-->
+  <!--EN: A primitive polished anal plug, probably not very healthy for a long term use. S-size-->
+  <WAnalPlugSmall.description>简陋的肛塞，可能不太健康，不适合长期佩戴。小号</WAnalPlugSmall.description>
+  <!--过时key，需删除-->
+  <WAnalPlugSmall.comps.0.useLabel>装备</WAnalPlugSmall.comps.0.useLabel>
+  <!--原中文: '中型肛塞', 原英文: '无' -> 新英文: 'medium anal plug',更新于2026-02-14-->
+  <!--EN: medium anal plug-->
+  <WAnalPlugMedium.label>中型肛塞</WAnalPlugMedium.label>
+  <!--原中文: '简陋的肛塞，可能不太健康，不适合长期佩戴。中号', 原英文: '无' -> 新英文: 'A primitive polished anal plug, probably not very healthy for a long term use. M-size',更新于2026-02-14-->
+  <!--EN: A primitive polished anal plug, probably not very healthy for a long term use. M-size-->
+  <WAnalPlugMedium.description>简陋的肛塞，可能不太健康，不适合长期佩戴。中号</WAnalPlugMedium.description>
+  <!--过时key，需删除-->
+  <WAnalPlugMedium.comps.0.useLabel>装备</WAnalPlugMedium.comps.0.useLabel>
+  <!--原中文: '大型肛塞', 原英文: '无' -> 新英文: 'large anal plug',更新于2026-02-14-->
+  <!--EN: large anal plug-->
+  <WAnalPlugLarge.label>大型肛塞</WAnalPlugLarge.label>
+  <!--原中文: '简陋的肛塞，可能不太健康，不适合长期佩戴。大号', 原英文: '无' -> 新英文: 'A primitive polished anal plug, probably not very healthy for a long term use. L-size',更新于2026-02-14-->
+  <!--EN: A primitive polished anal plug, probably not very healthy for a long term use. L-size-->
+  <WAnalPlugLarge.description>简陋的肛塞，可能不太健康，不适合长期佩戴。大号</WAnalPlugLarge.description>
+  <!--过时key，需删除-->
+  <WAnalPlugLarge.comps.0.useLabel>装备</WAnalPlugLarge.comps.0.useLabel>
+</LanguageData>

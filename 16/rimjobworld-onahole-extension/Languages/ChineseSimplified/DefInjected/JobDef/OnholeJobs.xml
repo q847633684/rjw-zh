@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '当肉便器', 原英文: '无' -> 新英文: 'being onahole.',更新于2026-02-14-->
+  <!--EN: being onahole.-->
+  <BeOnahole.reportString>当肉便器</BeOnahole.reportString>
+  <!--原中文: '正在束缚TargetA', 原英文: '无' -> 新英文: 'binding TargetA.',更新于2026-02-14-->
+  <!--EN: binding TargetA.-->
+  <BindOnahole.reportString>正在束缚TargetA</BindOnahole.reportString>
+  <!--原中文: '正在解除TargetA的束缚', 原英文: '无' -> 新英文: 'release onahole',更新于2026-02-14-->
+  <!--EN: release onahole-->
+  <UnbindOnahole.reportString>正在解除TargetA的束缚</UnbindOnahole.reportString>
+  <!--原中文: '用肉便器TargetA泄欲', 原英文: '无' -> 新英文: 'Using Onahole TargetA',更新于2026-02-14-->
+  <!--EN: Using Onahole TargetA-->
+  <UseOnahole.reportString>用肉便器TargetA泄欲</UseOnahole.reportString>
+  <!--原中文: '正在给TargetA的喂食器装填食物', 原英文: '无' -> 新英文: 'refilling auto feeder of TargetA.',更新于2026-02-14-->
+  <!--EN: refilling auto feeder of TargetA.-->
+  <RefillFeederFood.reportString>正在给TargetA的喂食器装填食物</RefillFeederFood.reportString>
+  <!--原中文: '正在给TargetA的药物注入器装填药物', 原英文: '无' -> 新英文: 'refilling TargetA.',更新于2026-02-14-->
+  <!--EN: refilling TargetA.-->
+  <RefillDrugInfuser.reportString>正在给TargetA的药物注入器装填药物</RefillDrugInfuser.reportString>
+</LanguageData>

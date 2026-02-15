@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Thoughts -->
+  <!--原中文: '乱交', 原英文: '无' -> 新英文: 'promiscuous sex',更新于2026-02-14-->
+  <!--EN: promiscuous sex-->
+  <Sex_Promiscuous.stages.0.label>乱交</Sex_Promiscuous.stages.0.label>
+  <!--原中文: '我不守道德，这让我性欲旺盛。', 原英文: '无' -> 新英文: 'I was immoral. It makes me aroused.',更新于2026-02-14-->
+  <!--EN: I was immoral. It makes me aroused.-->
+  <Sex_Promiscuous.stages.0.description>我不守道德，这让我性欲旺盛。</Sex_Promiscuous.stages.0.description>
+</LanguageData>

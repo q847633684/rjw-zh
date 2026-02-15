@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Precepts -->
+  <!--原中文: '正常的', 原英文: '无' -> 新英文: 'Normal',更新于2026-02-14-->
+  <!--EN: Normal-->
+  <Submissive_None.label>正常的</Submissive_None.label>
+  <!--原中文: '就只是这样。', 原英文: '无' -> 新英文: 'No gender should have obedience demanded of them.',更新于2026-02-14-->
+  <!--EN: No gender should have obedience demanded of them.-->
+  <Submissive_None.description>就只是这样。</Submissive_None.description>
+  <!--原中文: '男性必须服从', 原英文: '无' -> 新英文: 'submissive male',更新于2026-02-14-->
+  <!--EN: submissive male-->
+  <Submissive_Male.label>男性必须服从</Submissive_Male.label>
+  <!--原中文: '男性必须服从。即使被人强奸，也得乖乖受着。', 原英文: '无' -> 新英文: 'Males are submissive. They will obey and accept any and all treatment women decide.',更新于2026-02-14-->
+  <!--EN: Males are submissive. They will obey and accept any and all treatment women decide.-->
+  <Submissive_Male.description>男性必须服从。即使被人强奸，也得乖乖受着。</Submissive_Male.description>
+  <!--原中文: '女性必须服从', 原英文: '无' -> 新英文: 'submissive female',更新于2026-02-14-->
+  <!--EN: submissive female-->
+  <Submissive_Female.label>女性必须服从</Submissive_Female.label>
+  <!--原中文: '女性必须服从。即使被人强奸，也得乖乖受着。', 原英文: '无' -> 新英文: 'Females are submissive. They will obey and accept any and all treatment men decide.',更新于2026-02-14-->
+  <!--EN: Females are submissive. They will obey and accept any and all treatment men decide.-->
+  <Submissive_Female.description>女性必须服从。即使被人强奸，也得乖乖受着。</Submissive_Female.description>
+</LanguageData>

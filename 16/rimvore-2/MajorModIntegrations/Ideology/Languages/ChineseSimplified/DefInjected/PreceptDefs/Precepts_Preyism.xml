@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: It's been far too long since I have last been vored.-->
+  <RV2_NoRecentPreyInitiatedVore_Required.stages.0.description>我已经很久很久没被人伏击了。</RV2_NoRecentPreyInitiatedVore_Required.stages.0.description>
+  <!--EN: want to be prey-->
+  <RV2_NoRecentPreyInitiatedVore_Required.stages.0.label>想成为猎物</RV2_NoRecentPreyInitiatedVore_Required.stages.0.label>
+  <!--EN: I was vored, what a horrible affront to my ideology!-->
+  <RV2_PreyInitiatedVore_Abhorrent.stages.0.description>我被诅咒了，这是对我的文化的亵渎!</RV2_PreyInitiatedVore_Abhorrent.stages.0.description>
+  <!--EN: I was vored-->
+  <RV2_PreyInitiatedVore_Abhorrent.stages.0.label>我被伏击了</RV2_PreyInitiatedVore_Abhorrent.stages.0.label>
+  <!--EN: I should not have done that, my ideology discourages it-->
+  <RV2_PreyInitiatedVore_Disliked.stages.0.description>我不应该那样做，我的文化让我不鼓励</RV2_PreyInitiatedVore_Disliked.stages.0.description>
+  <!--EN: I was vored-->
+  <RV2_PreyInitiatedVore_Disliked.stages.0.label>我被伏击了</RV2_PreyInitiatedVore_Disliked.stages.0.label>
+  <!--EN: One of us was vored, this is a disgusting insult to our beliefs!-->
+  <RV2_PreyInitiatedVore_Know_Abhorrent.stages.0.description>我们中的一员被纵容了，这是对我们信仰的侮辱!</RV2_PreyInitiatedVore_Know_Abhorrent.stages.0.description>
+  <!--EN: Someone was a prey!-->
+  <RV2_PreyInitiatedVore_Know_Abhorrent.stages.0.label>有人成为了猎物!</RV2_PreyInitiatedVore_Know_Abhorrent.stages.0.label>
+  <!--EN: shunned prey-->
+  <RV2_PreyInitiatedVore_Know_Disliked.stages.0.label>被嫌弃的猎物</RV2_PreyInitiatedVore_Know_Disliked.stages.0.label>
+  <!--EN: admirable prey-->
+  <RV2_PreyInitiatedVore_Know_Liked.stages.0.label>令人钦佩的猎物</RV2_PreyInitiatedVore_Know_Liked.stages.0.label>
+  <!--EN: One of our members acted as a prey, very admirable!-->
+  <RV2_PreyInitiatedVore_Know_Required.stages.0.description>我们的一名成员充当了猎物，非常令人钦佩!</RV2_PreyInitiatedVore_Know_Required.stages.0.description>
+  <!--EN: Someone was a Prey!-->
+  <RV2_PreyInitiatedVore_Know_Required.stages.0.label>有人成为了猎物!</RV2_PreyInitiatedVore_Know_Required.stages.0.label>
+  <!--EN: disgusting prey-->
+  <RV2_PreyInitiatedVore_Know_Social_Abhorrent.stages.0.label>恶心的猎物</RV2_PreyInitiatedVore_Know_Social_Abhorrent.stages.0.label>
+  <!--EN: divine prey-->
+  <RV2_PreyInitiatedVore_Know_Social_Required.stages.0.label>神圣猎物</RV2_PreyInitiatedVore_Know_Social_Required.stages.0.label>
+  <!--EN: Partaking in this divine art fills me with joy-->
+  <RV2_PreyInitiatedVore_Liked.stages.0.description>参与这神圣的艺术使我感到愉悦</RV2_PreyInitiatedVore_Liked.stages.0.description>
+  <!--EN: I was vored-->
+  <RV2_PreyInitiatedVore_Liked.stages.0.label>我被伏击了</RV2_PreyInitiatedVore_Liked.stages.0.label>
+  <!--EN: By delving into others I can express my beliefs.-->
+  <RV2_PreyInitiatedVore_Required.stages.0.description>通过探索他人，我可以表达我的信仰。</RV2_PreyInitiatedVore_Required.stages.0.description>
+  <!--EN: I was vored-->
+  <RV2_PreyInitiatedVore_Required.stages.0.label>我被伏击了</RV2_PreyInitiatedVore_Required.stages.0.label>
+  <!--EN: Preyism-->
+  <RV2_Preyism.label>猎物教</RV2_Preyism.label>
+  <!--EN: Anyone partaking in vore as a prey is to be shunned.-->
+  <RV2_Preyism_Abhorrent.description>任何参与者吃人作为猎物，会被避开。</RV2_Preyism_Abhorrent.description>
+  <!--EN: abhorrent-->
+  <RV2_Preyism_Abhorrent.label>厌恶</RV2_Preyism_Abhorrent.label>
+  <!--EN: We are not meant to be vored.-->
+  <RV2_Preyism_Disliked.description>我们不应该被背叛。</RV2_Preyism_Disliked.description>
+  <!--EN: disliked-->
+  <RV2_Preyism_Disliked.label>反感</RV2_Preyism_Disliked.label>
+  <!--EN: Commiting an act of Preyism is to be praised and encouraged.-->
+  <RV2_Preyism_Liked.description>犯下捕食主义的行为是受到表扬和鼓励的。</RV2_Preyism_Liked.description>
+  <!--EN: liked-->
+  <RV2_Preyism_Liked.label>喜爱</RV2_Preyism_Liked.label>
+  <!--EN: Not been vored for {VORERELATEDINTERVAL} days-->
+  <RV2_Preyism_Required.comps.3.description>未培育{VORERELATEDINTERVAL}天</RV2_Preyism_Required.comps.3.description>
+  <!--EN: We were born to be vored, not doing so regularly would conflict with our very existance.-->
+  <RV2_Preyism_Required.description>我们生来就被抛弃，不经常这样做会与我们的存在冲突。</RV2_Preyism_Required.description>
+  <!--EN: required-->
+  <RV2_Preyism_Required.label>必需</RV2_Preyism_Required.label>
+</LanguageData>

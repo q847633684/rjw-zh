@@ -1,0 +1,3 @@
+key,text,tag,file,type
+OffsetManager.label,Animation Manager,label,MainTabDefs\MainButtonDef.xml,def
+OffsetManager.description,Edit pawn offsets for animations.,description,MainTabDefs\MainButtonDef.xml,def

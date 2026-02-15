@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Quirks that dictate what gender preferences a predator might have when choosing prey. Please note that these preferences are not influenced by a pawn's sexuality.-->
+  <GenderPreference_Predator.description>决定捕食者在选择猎物时可能有什么性别偏好的怪癖。请注意，这些偏好不会受到pawn其性别。</GenderPreference_Predator.description>
+  <!--EN: Predator gender preference-->
+  <GenderPreference_Predator.label>捕食者性别偏好</GenderPreference_Predator.label>
+  <!--EN: [PAWN_label] exclusively prefers female prey, and will never willingly eat a man.-->
+  <GenderPreference_Predator_FemaleOnly.description>[PAWN_label]只喜欢雌性猎物，不会心甘情愿地吃了一个男人。</GenderPreference_Predator_FemaleOnly.description>
+  <!--EN: Exclusive Gynophage-->
+  <GenderPreference_Predator_FemaleOnly.label>独家新闻</GenderPreference_Predator_FemaleOnly.label>
+  <!--EN: [PAWN_label] prefers female prey, but may make occasional exceptions.-->
+  <GenderPreference_Predator_FemalePreferred.description>[PAWN_label]喜欢雌性猎物，但偶尔也会例外。</GenderPreference_Predator_FemalePreferred.description>
+  <!--EN: Gynophagic Tendencies-->
+  <GenderPreference_Predator_FemalePreferred.label>女性吞噬倾向</GenderPreference_Predator_FemalePreferred.label>
+  <!--EN: [PAWN_label] exclusively prefers male prey, and will never willingly eat a woman.-->
+  <GenderPreference_Predator_MaleOnly.description>[PAWN_label]只喜欢雄性猎物，永远不会心甘情愿地吃女人。</GenderPreference_Predator_MaleOnly.description>
+  <!--EN: Exclusive Androphage-->
+  <GenderPreference_Predator_MaleOnly.label>独家吞噬</GenderPreference_Predator_MaleOnly.label>
+  <!--EN: [PAWN_label] prefers male prey, but may make occasional exceptions.-->
+  <GenderPreference_Predator_MalePreferred.description>[PAWN_label]偏好雄性猎物，但偶尔也会例外。</GenderPreference_Predator_MalePreferred.description>
+  <!--EN: Androphagic Tendencies-->
+  <GenderPreference_Predator_MalePreferred.label>吞噬倾向</GenderPreference_Predator_MalePreferred.label>
+  <!--EN: The gender of their prey is not a consideration for [PAWN_label]. Prey is prey; doesn’t matter what they look like.-->
+  <GenderPreference_Predator_Neutral.description>它们被捕食的动物的性别不能作为考虑因素。[PAWN_label]猎物就是猎物; 不管它长什么样。</GenderPreference_Predator_Neutral.description>
+  <!--EN: Gender Indifferent-->
+  <GenderPreference_Predator_Neutral.label>性别漠视</GenderPreference_Predator_Neutral.label>
+  <!--EN: Quirks that dictate what gender preferences a prey might have when choosing a predator. Please note that these preferences are not influenced by a pawn's sexuality.-->
+  <GenderPreference_Prey.description>决定猎物在选择捕食者时可能有什么样的性别偏好的怪癖。请注意，这些偏好不会受到pawn其性别。</GenderPreference_Prey.description>
+  <!--EN: Prey gender preference-->
+  <GenderPreference_Prey.label>猎物的性别偏好</GenderPreference_Prey.label>
+  <!--EN: [PAWN_label] exclusively prefers female predators, and will never willingly let [PAWN_objective]self be consumed by a man.-->
+  <GenderPreference_Prey_FemaleOnly.description>[PAWN_label]只喜欢雌性捕食者，不会心甘情愿地让[PAWN_objective]自己被男人吞噬了。</GenderPreference_Prey_FemaleOnly.description>
+  <!--EN: Exclusive Gynephile-->
+  <GenderPreference_Prey_FemaleOnly.label>独家机械体</GenderPreference_Prey_FemaleOnly.label>
+  <!--EN: [PAWN_label] prefers female predators, but may make occasional exceptions.-->
+  <GenderPreference_Prey_FemalePreferred.description>[PAWN_label]偏好雌性捕食者，但可能偶尔例外。</GenderPreference_Prey_FemalePreferred.description>
+  <!--EN: Gynephilic Tendencies-->
+  <GenderPreference_Prey_FemalePreferred.label>亲体倾向</GenderPreference_Prey_FemalePreferred.label>
+  <!--EN: [PAWN_label] exclusively prefers male predators, and will never willingly let [PAWN_objective]self be consumed by a woman.-->
+  <GenderPreference_Prey_MaleOnly.description>[PAWN_label]只喜欢雄性捕食者，不会心甘情愿地让[PAWN_objective]自己被女人吞噬了。</GenderPreference_Prey_MaleOnly.description>
+  <!--EN: Exclusive Androphile-->
+  <GenderPreference_Prey_MaleOnly.label>独门忠贞</GenderPreference_Prey_MaleOnly.label>
+  <!--EN: [PAWN_label] prefers male predators, but may make occasional exceptions.-->
+  <GenderPreference_Prey_MalePreferred.description>[PAWN_label]喜欢雄性捕食者，但偶尔也会例外。</GenderPreference_Prey_MalePreferred.description>
+  <!--EN: Androphilic Tendencies-->
+  <GenderPreference_Prey_MalePreferred.label>嗜雄倾向</GenderPreference_Prey_MalePreferred.label>
+  <!--EN: The gender of the predator is not a consideration for [PAWN_label]. Everyone looks the same on the inside!-->
+  <GenderPreference_Prey_Neutral.description>捕食者的性别不是一个考虑因素[PAWN_label]每个人的内心看起来都一样!</GenderPreference_Prey_Neutral.description>
+  <!--EN: Gender Indifferent-->
+  <GenderPreference_Prey_Neutral.label>性别漠视</GenderPreference_Prey_Neutral.label>
+</LanguageData>

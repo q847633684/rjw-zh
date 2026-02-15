@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: I acted as a feeder, what a horrible affront to my ideology!-->
+  <RV2_FeederInitiatedVore_Abhorrent.stages.0.description>我充当了饲养员，这是对我的文化形态的亵渎!</RV2_FeederInitiatedVore_Abhorrent.stages.0.description>
+  <!--EN: I fed someone-->
+  <RV2_FeederInitiatedVore_Abhorrent.stages.0.label>我喂了人</RV2_FeederInitiatedVore_Abhorrent.stages.0.label>
+  <!--EN: I should not have done that, my ideology discourages it-->
+  <RV2_FeederInitiatedVore_Disliked.stages.0.description>我不应该那样做，我的文化让我不鼓励</RV2_FeederInitiatedVore_Disliked.stages.0.description>
+  <!--EN: I was vored-->
+  <RV2_FeederInitiatedVore_Disliked.stages.0.label>我被伏击了</RV2_FeederInitiatedVore_Disliked.stages.0.label>
+  <!--EN: One of us fed someone, this is a disgusting insult to our beliefs!-->
+  <RV2_FeederInitiatedVore_Know_Abhorrent.stages.0.description>我们中的一员喂了人血，这是对我们信仰的侮辱!</RV2_FeederInitiatedVore_Know_Abhorrent.stages.0.description>
+  <!--EN: Someone was a feder!!-->
+  <RV2_FeederInitiatedVore_Know_Abhorrent.stages.0.label>有人使用过 feeder!!</RV2_FeederInitiatedVore_Know_Abhorrent.stages.0.label>
+  <!--EN: shunned feeder-->
+  <RV2_FeederInitiatedVore_Know_Disliked.stages.0.label>受嫌弃的饲养员</RV2_FeederInitiatedVore_Know_Disliked.stages.0.label>
+  <!--EN: admirable feeder-->
+  <RV2_FeederInitiatedVore_Know_Liked.stages.0.label>令人钦佩的饲养员</RV2_FeederInitiatedVore_Know_Liked.stages.0.label>
+  <!--EN: One of our members made sure a predator got fed, very admirable!-->
+  <RV2_FeederInitiatedVore_Know_Required.stages.0.description>我们的一名成员确保汲食了捕食者，这非常令人钦佩!</RV2_FeederInitiatedVore_Know_Required.stages.0.description>
+  <!--EN: Someone was a feeder!-->
+  <RV2_FeederInitiatedVore_Know_Required.stages.0.label>有人曾是汲血者!</RV2_FeederInitiatedVore_Know_Required.stages.0.label>
+  <!--EN: disgusting feeder-->
+  <RV2_FeederInitiatedVore_Know_Social_Abhorrent.stages.0.label>恶心的饲养员</RV2_FeederInitiatedVore_Know_Social_Abhorrent.stages.0.label>
+  <!--EN: divine feeder-->
+  <RV2_FeederInitiatedVore_Know_Social_Required.stages.0.label>神圣饲养员</RV2_FeederInitiatedVore_Know_Social_Required.stages.0.label>
+  <!--EN: Partaking in this divine art fills me with joy-->
+  <RV2_FeederInitiatedVore_Liked.stages.0.description>参与这神圣的艺术使我感到愉悦</RV2_FeederInitiatedVore_Liked.stages.0.description>
+  <!--EN: I fed someone-->
+  <RV2_FeederInitiatedVore_Liked.stages.0.label>我喂了人</RV2_FeederInitiatedVore_Liked.stages.0.label>
+  <!--EN: By shoving someone into a predator I can express my beliefs.-->
+  <RV2_FeederInitiatedVore_Required.stages.0.description>通过将人塞进捕食者体内，我可以表达我的信仰。</RV2_FeederInitiatedVore_Required.stages.0.description>
+  <!--EN: I fed someone-->
+  <RV2_FeederInitiatedVore_Required.stages.0.label>我喂了人</RV2_FeederInitiatedVore_Required.stages.0.label>
+  <!--EN: Feeding-->
+  <RV2_Feeding.label>喂养</RV2_Feeding.label>
+  <!--EN: Anyone daring to act as a feeder is to be shunned.-->
+  <RV2_Feeding_Abhorrent.description>任何胆敢充当饲养员的人都将被避开。</RV2_Feeding_Abhorrent.description>
+  <!--EN: abhorrent-->
+  <RV2_Feeding_Abhorrent.label>厌恶</RV2_Feeding_Abhorrent.label>
+  <!--EN: We are not meant to make others vore.-->
+  <RV2_Feeding_Disliked.description>我们不是有意制造他人的吃人没有。</RV2_Feeding_Disliked.description>
+  <!--EN: disliked-->
+  <RV2_Feeding_Disliked.label>反感</RV2_Feeding_Disliked.label>
+  <!--EN: Feeding predators is to be praised and encouraged.-->
+  <RV2_Feeding_Liked.description>喂养捕食者将受到表扬和鼓励。</RV2_Feeding_Liked.description>
+  <!--EN: liked-->
+  <RV2_Feeding_Liked.label>喜爱</RV2_Feeding_Liked.label>
+  <!--EN: Not fed anyone for {VORERELATEDINTERVAL} days-->
+  <RV2_Feeding_Required.comps.3.description>不喂食任何人为{VORERELATEDINTERVAL}天</RV2_Feeding_Required.comps.3.description>
+  <!--EN: We are the driving hand of vore, it is our job to find the perfect vore partners.-->
+  <RV2_Feeding_Required.description>我们是吃人,我们的工作就是找到最完美的吃人伙伴们。</RV2_Feeding_Required.description>
+  <!--EN: required-->
+  <RV2_Feeding_Required.label>必需</RV2_Feeding_Required.label>
+  <!--EN: It's been far too long since I last fed someone.-->
+  <RV2_NoRecentFeederInitiatedVore_Required.stages.0.description>我已经很久没喂过人了。</RV2_NoRecentFeederInitiatedVore_Required.stages.0.description>
+  <!--EN: want to be feeder-->
+  <RV2_NoRecentFeederInitiatedVore_Required.stages.0.label>想成为饲养员</RV2_NoRecentFeederInitiatedVore_Required.stages.0.label>
+</LanguageData>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: A translucent, almost intangible anus. Penetrating it sends chills down the spine.-->
+  <GhostAnus.description>一个半一个透明人参与了性行为。的，几乎无形的肛门穿透它会让脊椎感到寒冷。</GhostAnus.description>
+  <!--EN: immaterial anus-->
+  <GhostAnus.label>无形肛门</GhostAnus.label>
+  <!--EN: an immaterial anus-->
+  <GhostAnus.labelNoun>一个非物质的肛门</GhostAnus.labelNoun>
+  <!--EN: A translucent, almost intangible pair of breasts. Touching them sends chills down the spine.-->
+  <GhostBreasts.description>半一个透明人参与了性行为。的、几乎无形的一对乳房触摸它们会让脊椎感到寒冷。</GhostBreasts.description>
+  <!--EN: immaterial breasts-->
+  <GhostBreasts.label>无形乳房</GhostBreasts.label>
+  <!--EN: a pair of immaterial breasts-->
+  <GhostBreasts.labelNoun>一对无形的乳房</GhostBreasts.labelNoun>
+  <!--EN: A translucent, almost intangible penis. Touching it sends chills down the spine.-->
+  <GhostPenis.description>一个半一个透明人参与了性行为。的，几乎无形的阳具/屌触摸它会让脊椎感到寒冷。</GhostPenis.description>
+  <!--EN: immaterial penis-->
+  <GhostPenis.label>无形阳具/屌</GhostPenis.label>
+  <!--EN: an immaterial penis-->
+  <GhostPenis.labelNoun>一个非物质的阳具/屌</GhostPenis.labelNoun>
+  <!--EN: A translucent, almost intangible vagina. Penetrating it sends chills down the spine.-->
+  <GhostVagina.description>一个半一个透明人参与了性行为。的，几乎无形的阴道穿透它会让脊椎感到寒冷。</GhostVagina.description>
+  <!--EN: immaterial vagina-->
+  <GhostVagina.label>无形阴道</GhostVagina.label>
+  <!--EN: an immaterial vagina-->
+  <GhostVagina.labelNoun>一个非物质的阴道</GhostVagina.labelNoun>
+  <!--EN: An anus that glows slightly. It is uncomfortably hot inside.-->
+  <GhoulAnus.description>一个anusGlslightly。很不舒服性感的在里面。</GhoulAnus.description>
+  <!--EN: ghoul anus-->
+  <GhoulAnus.label>食尸鬼肛门</GhoulAnus.label>
+  <!--EN: a ghoul anus-->
+  <GhoulAnus.labelNoun>一个食尸鬼肛门</GhoulAnus.labelNoun>
+  <!--EN: A pair of humanlike breasts that glow slightly. They're very hot to the touch.-->
+  <GhoulBreasts.description>一对微微发光的人类乳房。它们摸起来很烫。</GhoulBreasts.description>
+  <!--EN: irradiated breasts-->
+  <GhoulBreasts.label>受到辐射乳房</GhoulBreasts.label>
+  <!--EN: a pair of irradiated breasts-->
+  <GhoulBreasts.labelNoun>一对辐射的乳房</GhoulBreasts.labelNoun>
+  <!--EN: A humanlike penis that glows slightly. It's very hot to the touch.-->
+  <GhoulPenis.description>微微发光的类人阴茎。摸起来很烫。</GhoulPenis.description>
+  <!--EN: ghoul penis-->
+  <GhoulPenis.label>食尸鬼阳具/屌</GhoulPenis.label>
+  <!--EN: an ghoul penis-->
+  <GhoulPenis.labelNoun>一个食尸鬼阳具/屌</GhoulPenis.labelNoun>
+  <!--EN: A humanlike vagina that glows slightly. It is uncomfortably hot inside.-->
+  <GhoulVagina.description>微微发光的人类阴道。内部非常烫。</GhoulVagina.description>
+  <!--EN: ghoul vagina-->
+  <GhoulVagina.label>食尸鬼阴道</GhoulVagina.label>
+  <!--EN: a ghoul vagina-->
+  <GhoulVagina.labelNoun>一个食尸鬼阴道</GhoulVagina.labelNoun>
+  <!--EN: A disgusting, rotting anus. Its insides are as cold as a grave.-->
+  <NecroAnus.description>腐烂的恶心生物肛门它的内部像坟墓一样冰冷。</NecroAnus.description>
+  <!--EN: necro anus-->
+  <NecroAnus.label>死灵肛门</NecroAnus.label>
+  <!--EN: a necro anus-->
+  <NecroAnus.labelNoun>一名死灵肛门</NecroAnus.labelNoun>
+  <!--EN: A disgusting, rotting pair of breasts.-->
+  <NecroBreasts.description>一对腐烂的恶心生物乳房</NecroBreasts.description>
+  <!--EN: decayed breasts-->
+  <NecroBreasts.label>衰竭乳房</NecroBreasts.label>
+  <!--EN: A pair of decayed breasts-->
+  <NecroBreasts.labelNoun>一对腐烂的乳房</NecroBreasts.labelNoun>
+  <!--EN: A disgusting, rotting penis that somehow still works.-->
+  <NecroPenis.description>腐烂的恶心生物阳具/屌这仍然有效。</NecroPenis.description>
+  <!--EN: necro penis-->
+  <NecroPenis.label>死灵阳具/屌</NecroPenis.label>
+  <!--EN: a necro penis-->
+  <NecroPenis.labelNoun>一名死灵阳具/屌</NecroPenis.labelNoun>
+  <!--EN: A disgusting, rotting vagina. Its insides are as cold as a grave.-->
+  <NecroVagina.description>腐烂的恶心生物阴道它的内部像坟墓一样冰冷。</NecroVagina.description>
+  <!--EN: necro vagina-->
+  <NecroVagina.label>死灵阴道</NecroVagina.label>
+  <!--EN: a necro vagina-->
+  <NecroVagina.labelNoun>一名死灵阴道</NecroVagina.labelNoun>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Already has quirk-->
+  <RV2_QuirkInvalid_AlreadyHasQuirk>已经有怪癖</RV2_QuirkInvalid_AlreadyHasQuirk>
+  <!--EN: Backstory blocks quirk-->
+  <RV2_QuirkInvalid_BackstoryBlocking>背景故事阻挡怪癖</RV2_QuirkInvalid_BackstoryBlocking>
+  <!--EN: Blocked by {0} {1}-->
+  <RV2_QuirkInvalid_Blocking>被该物品阻挡:{0}{1}</RV2_QuirkInvalid_Blocking>
+  <!--EN: Could not add quirk {0}: {1}-->
+  <RV2_QuirkInvalid_CouldNotAddWithReason>无法添加怪癖{0}:{1}</RV2_QuirkInvalid_CouldNotAddWithReason>
+  <!--EN: Disabled in settings-->
+  <RV2_QuirkInvalid_DisabledInSettings>在设置中禁用</RV2_QuirkInvalid_DisabledInSettings>
+  <!--EN: Blocked by backstory-->
+  <RV2_QuirkInvalid_Reason_BackstoryBlocks>被背景故事阻挡</RV2_QuirkInvalid_Reason_BackstoryBlocks>
+  <!--EN: Quirk has no pool-->
+  <RV2_QuirkInvalid_Reason_NoPoolForQuirk>怪人没有泳池</RV2_QuirkInvalid_Reason_NoPoolForQuirk>
+  <!--EN: Another quirk blocks this quirk-->
+  <RV2_QuirkInvalid_Reason_OtherQuirkBlocks>另一个怪癖阻止了这个怪癖</RV2_QuirkInvalid_Reason_OtherQuirkBlocks>
+  <!--EN: Would remove quirk {0} that is forced by backstory-->
+  <RV2_QuirkInvalid_Reason_WouldRemoveBackstoryForcedQuirk>会消除怪癖{0}也就是强迫背景故事</RV2_QuirkInvalid_Reason_WouldRemoveBackstoryForcedQuirk>
+  <!--EN: Would remove quirk {0} that is forced by hediff-->
+  <RV2_QuirkInvalid_Reason_WouldRemoveHediffForcedQuirk>会消除怪癖{0}也就是强迫作者: 赫迪弗</RV2_QuirkInvalid_Reason_WouldRemoveHediffForcedQuirk>
+  <!--EN: Would remove quirk {0} that is required by {1}-->
+  <RV2_QuirkInvalid_Reason_WouldRemoveRequiredQuirk>会消除怪癖{0}需要{1}</RV2_QuirkInvalid_Reason_WouldRemoveRequiredQuirk>
+  <!--EN: Requires {0} {1}-->
+  <RV2_QuirkInvalid_Required>需要{0}{1}</RV2_QuirkInvalid_Required>
+</LanguageData>

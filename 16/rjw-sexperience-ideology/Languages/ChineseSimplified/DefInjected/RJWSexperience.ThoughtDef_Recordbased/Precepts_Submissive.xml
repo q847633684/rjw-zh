@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Thoughts -->
+  <!--原中文: '被强奸', 原英文: '无' -> 新英文: 'had been raped',更新于2026-02-14-->
+  <!--EN: had been raped-->
+  <BeenRaped_Submissive.stages.0.label>被强奸</BeenRaped_Submissive.stages.0.label>
+  <!--原中文: '我不得不接受。但我不觉得很舒服。', 原英文: '无' -> 新英文: 'I had to accept. But I don't feel so good.',更新于2026-02-14-->
+  <!--EN: I had to accept. But I don't feel so good.-->
+  <BeenRaped_Submissive.stages.0.description>我不得不接受。但我不觉得很舒服。</BeenRaped_Submissive.stages.0.description>
+  <!--原中文: '{0} 强奸了我', 原英文: '无' -> 新英文: '{0} raped me',更新于2026-02-14-->
+  <!--EN: {0} raped me-->
+  <BeenRaped_NotSubmissive.stages.0.label>{0} 强奸了我</BeenRaped_NotSubmissive.stages.0.label>
+  <!--原中文: '你怎么敢……', 原英文: '无' -> 新英文: 'How dare...',更新于2026-02-14-->
+  <!--EN: How dare...-->
+  <BeenRaped_NotSubmissive.stages.0.description>你怎么敢……</BeenRaped_NotSubmissive.stages.0.description>
+</LanguageData>

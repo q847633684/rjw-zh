@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Their clothes are clinging to their body, getting more transparent the wetter they get.-->
+  <WetShirt.description>他们的衣服紧贴在身上，越湿就越透明。</WetShirt.description>
+  <!--EN: wet clothing-->
+  <WetShirt.label>湿衣服</WetShirt.label>
+  <!--EN: damp-->
+  <WetShirt.stages.0.label>潮湿</WetShirt.stages.0.label>
+  <!--EN: nearly see-through-->
+  <WetShirt.stages.1.label>近乎透明</WetShirt.stages.1.label>
+  <!--EN: see-through-->
+  <WetShirt.stages.2.label>透明</WetShirt.stages.2.label>
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Issues -->
+  <!--原中文: '失去初夜', 原英文: '无' -> 新英文: 'virginity taken',更新于2026-02-14-->
+  <!--EN: virginity taken-->
+  <RSI_VirginTaken.label>失去初夜</RSI_VirginTaken.label>
+  <!--原中文: '夺取初夜', 原英文: '无' -> 新英文: 'took virginity',更新于2026-02-14-->
+  <!--EN: took virginity-->
+  <RSI_TookVirgin.label>夺取初夜</RSI_TookVirgin.label>
+  <!--原中文: '初夜被夺', 原英文: '无' -> 新英文: 'virginity stolen',更新于2026-02-14-->
+  <!--EN: virginity stolen-->
+  <RSI_VirginStolen.label>初夜被夺</RSI_VirginStolen.label>
+  <!--原中文: '初夜被陌生人夺走', 原英文: '无' -> 新英文: 'virginity was taken by a stranger',更新于2026-02-14-->
+  <!--EN: virginity was taken by a stranger-->
+  <RSI_VirginTakenNotSpouse.label>初夜被陌生人夺走</RSI_VirginTakenNotSpouse.label>
+</LanguageData>

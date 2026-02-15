@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '足交', 原英文: '无' -> 新英文: 'footjob',更新于2026-02-14-->
+  <!--EN: footjob-->
+  <Sex_Footjob.label>足交</Sex_Footjob.label>
+  <!--原中文: '让其足交', 原英文: '无' -> 新英文: 'Receive footjob',更新于2026-02-14-->
+  <!--EN: Receive footjob-->
+  <Sex_Footjob.modExtensions.0.RMBLabel>让其足交</Sex_Footjob.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->让[RECIPIENT_nameDef]用脚给自己撸了一发。', 原英文: '无' -> 新英文: 'r_logentry->Received a footjob from [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Received a footjob from [RECIPIENT_nameDef].-->
+  <Sex_Footjob.logRulesInitiator.rulesStrings.0>r_logentry->让[RECIPIENT_nameDef]用脚给自己撸了一发。</Sex_Footjob.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->用脚给[INITIATOR_nameDef]的阴茎撸了一发。', 原英文: '无' -> 新英文: 'r_logentry->Gave a footjob to [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Gave a footjob to [INITIATOR_nameDef].-->
+  <Sex_Footjob.logRulesRecipient.rulesStrings.0>r_logentry->用脚给[INITIATOR_nameDef]的阴茎撸了一发。</Sex_Footjob.logRulesRecipient.rulesStrings.0>
+</LanguageData>

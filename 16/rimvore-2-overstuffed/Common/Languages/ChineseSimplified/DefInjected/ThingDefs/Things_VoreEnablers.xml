@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Special mechanites which transform the cells to be capable of absorption through certain pre-elasticized entryways.-->
+  <RV2_GoalEnabler_Absorb.description>这种特殊的纳米机械可以使细胞通过某些预绑定的入口通道吸收。</RV2_GoalEnabler_Absorb.description>
+  <!--EN: Cellular xenoconverter-->
+  <RV2_GoalEnabler_Absorb.label>异种人细胞转发器</RV2_GoalEnabler_Absorb.label>
+  <!--EN: Special mechanites which enable the production of transformative enzymes in various organs, which distill prey into chemfuel.-->
+  <RV2_GoalEnabler_ConvertChemfuel.description>一种特殊的纳米机械，可以在不同的器官中分泌转化酶，并将猎物提炼成化合燃料。</RV2_GoalEnabler_ConvertChemfuel.description>
+  <!--EN: Olifactive enzyme seeder-->
+  <RV2_GoalEnabler_ConvertChemfuel.label>产物酶</RV2_GoalEnabler_ConvertChemfuel.label>
+  <!--EN: Special mechanites which enable the production of transformative enzymes in the ovaries, which distill prey into eggs.-->
+  <RV2_GoalEnabler_ConvertEggs.description>一种特殊的纳米机械，可以在卵巢中分泌转化酶，并将猎物提炼成卵。</RV2_GoalEnabler_ConvertEggs.description>
+  <!--EN: Ovifactive enzyme seeder-->
+  <RV2_GoalEnabler_ConvertEggs.label>产卵酶</RV2_GoalEnabler_ConvertEggs.label>
+  <!--EN: Special mechanites which enable the production of transformative enzymes in the kidneys, which distill prey into fertilizer-grade urine.-->
+  <RV2_GoalEnabler_ConvertUrine.description>一种特殊的纳米机械，可在肾脏中分泌转化酶，并将其提炼成肥料级尿。</RV2_GoalEnabler_ConvertUrine.description>
+  <!--EN: Urifactive enzyme seeder-->
+  <RV2_GoalEnabler_ConvertUrine.label>化学酶播种机</RV2_GoalEnabler_ConvertUrine.label>
+  <!--EN: Special mechanites which modify the tissues of the breasts to be capable of assorted permitted forms of cleavage vore, including the addition of a sternal hole capable of direct transport to the stomach.-->
+  <RV2_TypeEnabler_Cleavage.description>某些特殊的纳米机械会改造宿主的组织乳房能够以被允许的多种形式出现:cleavagevore,包括增加一个能够直接运输到胃的胸骨孔。</RV2_TypeEnabler_Cleavage.description>
+  <!--EN: Cleavage vore suite-->
+  <RV2_TypeEnabler_Cleavage.label>cleavagevore套房</RV2_TypeEnabler_Cleavage.label>
+  <!--EN: Special mechanites which jellify a pawn's skin and flesh (or similar outer membrane and plasm) to allow slime-like engulfment (membrane vore) through a permeable outer membrane.-->
+  <RV2_TypeEnabler_Membrane.description>特殊的纳米机械pawn的皮肤和血肉 (或类似的外膜和血浆) 允许史莱姆-吞噬 (膜吃人) 通过可渗透的外膜。</RV2_TypeEnabler_Membrane.description>
+  <!--EN: Dermal porocizer-->
+  <RV2_TypeEnabler_Membrane.label>皮肤污染</RV2_TypeEnabler_Membrane.label>
+  <!--EN: Special mechanites which untie and elasticize a pawn's navel to function both as a pouch and a path to the stomach, granting the power of navel vore.-->
+  <RV2_TypeEnabler_Navel.description>一种特殊的纳米机械，可以使pawn的肚脐同时起囊和通往胃的作用，赋予肚脐同样的力量吃人</RV2_TypeEnabler_Navel.description>
+  <!--EN: Navel elasticizer-->
+  <RV2_TypeEnabler_Navel.label>肚脐护甲</RV2_TypeEnabler_Navel.label>
+  <!--EN: Special mechanites which reshape a pawn's tail to burst into a petal-like maw, capable of swallowing prey down a throat in the tail leading to a stomach.-->
+  <RV2_TypeEnabler_Tailmaw.description>重塑机械体的特殊纳米机械pawn的一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。爆裂成花瓣状的母树，能够将猎物吞下一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。通向一个胃。</RV2_TypeEnabler_Tailmaw.description>
+  <!--EN: Caudal actinodivisor-->
+  <RV2_TypeEnabler_Tailmaw.label>尾尾日圆</RV2_TypeEnabler_Tailmaw.label>
+  <!--EN: Special mechanites which elasticize the tissues of the udder and teats to grant the power of udder vore.-->
+  <RV2_TypeEnabler_Udder.description>一种特殊的纳米机械，可以使乳房和奶头的组织得到弹性，使其拥有乳房的力量。吃人</RV2_TypeEnabler_Udder.description>
+  <!--EN: Uberal elasticizer-->
+  <RV2_TypeEnabler_Udder.label>旺盛的弹力器</RV2_TypeEnabler_Udder.label>
+</LanguageData>

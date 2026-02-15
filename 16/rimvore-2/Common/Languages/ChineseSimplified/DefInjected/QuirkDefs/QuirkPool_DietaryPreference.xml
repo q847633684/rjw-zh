@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks determine how much a pawn likes having animals as prey. At the extremes, a pawn will either reject all autonomous proposals to be fed an animal, or seek out animal prey to the exclusion of other kinds of prey. While insectoids normally count as animals, these quirks are written to exclude insectoids from the type preferences.-->
+  <DietaryPreference_Predator_Animals.description>这些怪癖决定了多少钱一个pawn喜欢捕食动物。在极端情况下，一个pawn会拒绝所有自律的方案来喂养动物，或者寻找动物猎物而放弃其他种类的猎物。虽然虫族通常被算作动物，但写这些怪癖是为了将虫族排除在类型偏好之外。</DietaryPreference_Predator_Animals.description>
+  <!--EN: Dietary preference (animals)-->
+  <DietaryPreference_Predator_Animals.label>饮食偏好 (动物)</DietaryPreference_Predator_Animals.label>
+  <!--EN: [PAWN_label] dislikes having animals as prey. Maybe [PAWN_pronoun] can't bear to see [PAWN_possessive] fuzzy friends imperiled, maybe [PAWN_pronoun] thinks cannibalism is the true way, maybe [PAWN_pronoun] just doesn't like to get dirt and fur all over [PAWN_possessive] tongue.-->
+  <DietaryPreference_Predator_Animals_Dislikes.description>[PAWN_label]厌恶捕食动物。也许[PAWN_pronoun]无法忍受[PAWN_possessive]模糊的朋友受到威胁[PAWN_pronoun]认为食人才是真正的方式[PAWN_pronoun]就是不喜欢到处都是泥土和毛皮[PAWN_possessive]舌头。</DietaryPreference_Predator_Animals_Dislikes.description>
+  <!--EN: Zoophagical distaste-->
+  <DietaryPreference_Predator_Animals_Dislikes.label>亲兽厌恶</DietaryPreference_Predator_Animals_Dislikes.label>
+  <!--EN: [PAWN_label] likes having animals as prey. It's what most sapient life's been doing already for thousands of years; why stop now, especially when they squirm so wildly?-->
+  <DietaryPreference_Predator_Animals_Likes.description>[PAWN_label]喜欢捕食动物。这是大多数有智慧的人几千年来一直在做的事情; 为什么停止现在，尤其是当他们如此神经质地蠕动的时候？</DietaryPreference_Predator_Animals_Likes.description>
+  <!--EN: Zoophagical taste-->
+  <DietaryPreference_Predator_Animals_Likes.label>食尸鬼味道</DietaryPreference_Predator_Animals_Likes.label>
+  <!--EN: [PAWN_label] doesn't mind having animals as prey, but doesn't prefer them either.-->
+  <DietaryPreference_Predator_Animals_Neutral.description>[PAWN_label]不介意动物作为猎物，但也不喜欢它们。</DietaryPreference_Predator_Animals_Neutral.description>
+  <!--EN: Zoophagical ambivalence-->
+  <DietaryPreference_Predator_Animals_Neutral.label>食尸鬼对抗性</DietaryPreference_Predator_Animals_Neutral.label>
+  <!--EN: [PAWN_label] adores having animals as prey. Never let [PAWN_objective] watch your pets.-->
+  <DietaryPreference_Predator_Animals_Obsessed.description>[PAWN_label]推崇猎杀动物。绝对不让[PAWN_objective]当心你的宠物。</DietaryPreference_Predator_Animals_Obsessed.description>
+  <!--EN: Zoophagical obsession-->
+  <DietaryPreference_Predator_Animals_Obsessed.label>食尸鬼迷恋</DietaryPreference_Predator_Animals_Obsessed.label>
+  <!--EN: [PAWN_label] hates having animals as prey and will never willingly consume them. [PAWN_pronoun] would sooner hunt the beast down, skin it, butcher it, cook it, and eat it, all on [PAWN_possessive] own, than swallow it whole.-->
+  <DietaryPreference_Predator_Animals_Refuses.description>[PAWN_label]憎恨以动物为猎物，绝不心甘情愿地吃掉它们。[PAWN_pronoun]我会更快地追捕野兽，剥皮，屠宰，烹饪，吃掉它[PAWN_possessive]拥有，也不愿将其整个吞下。</DietaryPreference_Predator_Animals_Refuses.description>
+  <!--EN: Zoophagical revulsion-->
+  <DietaryPreference_Predator_Animals_Refuses.label>食人族的反感</DietaryPreference_Predator_Animals_Refuses.label>
+  <!--EN: These quirks determine how much a pawn likes having humanoids as prey. At the extremes, a pawn will either reject all autonomous proposals by humanoid prey, or seek out humanoid prey to the exclusion of other kinds of prey. Non-cannibals with a preference for humanoid prey will only prefer endo humanoid prey; only cannibals can spawn with a fatal preference for humanoid prey. If you want everybody to be able to have total preference for humanoid prey, and don't want to remove the cannibal requirement for those traits in the XMLs, you can instead make the cannibal trait universal using the scenario editor.-->
+  <DietaryPreference_Predator_Humanoids.description>这些怪癖决定了多少钱一个pawn喜欢捕食人形。在极端情况下，一个pawn会拒绝所有由人形猎物发起的自治请求，或者寻找除其他类型的猎物之外的人形猎物。对人形猎物有偏好的非食人族只会更喜欢内的人形猎物; 只有食人族才能产生对人形猎物有致命偏好的猎物。如果你想让每个人都对人形猎物有完全的偏好，并且不想取消食人对 xml 中这些特性的需求, 你可以使用场景编辑器改为通用食人特性。</DietaryPreference_Predator_Humanoids.description>
+  <!--EN: Dietary preference (humanoids)-->
+  <DietaryPreference_Predator_Humanoids.label>饮食偏好 (人形)</DietaryPreference_Predator_Humanoids.label>
+  <!--EN: [PAWN_label] dislikes having [PAWN_possessive] fellow sapient beings as prey. Maybe it's too much like cannibalism; maybe [PAWN_pronoun]'s self-conscious about [PAWN_possessive] insides.-->
+  <DietaryPreference_Predator_Humanoids_Dislikes.description>[PAWN_label]厌恶拥有[PAWN_possessive]作为猎物的人类同伴。也许这太像食人了; 也许[PAWN_pronoun]自我意识[PAWN_possessive]内部。</DietaryPreference_Predator_Humanoids_Dislikes.description>
+  <!--EN: Anthropophagical distaste-->
+  <DietaryPreference_Predator_Humanoids_Dislikes.label>厌恶食人</DietaryPreference_Predator_Humanoids_Dislikes.label>
+  <!--EN: [PAWN_label] likes having [PAWN_possessive] fellow sapient beings as prey; even fatally, as an extension of [PAWN_possessive] cannibalistic tendencies. People are tasty! And clean, usually.-->
+  <DietaryPreference_Predator_Humanoids_Likes_Cannibal.description>[PAWN_label]喜欢[PAWN_possessive]作为猎物的智人同伴; 即使是致命的，作为[PAWN_possessive]食人倾向。人很可口!通常很干净。</DietaryPreference_Predator_Humanoids_Likes_Cannibal.description>
+  <!--EN: Anthropophagical taste (cannibal)-->
+  <DietaryPreference_Predator_Humanoids_Likes_Cannibal.label>食人 (食人)</DietaryPreference_Predator_Humanoids_Likes_Cannibal.label>
+  <!--EN: [PAWN_label] likes having [PAWN_possessive] fellow sapient beings as prey, so long as it's safe. Fatal vore, on the other hand, is no different from regular old butcher-and-chew cannibalism.-->
+  <DietaryPreference_Predator_Humanoids_Likes_NotCannibal.description>[PAWN_label]喜欢[PAWN_possessive]作为猎物的人类同伴，只要是安全的。致命吃人另一方面，与正常的老屠宰和咀嚼食人没什么不同。</DietaryPreference_Predator_Humanoids_Likes_NotCannibal.description>
+  <!--EN: Anthropophagical taste (endo)-->
+  <DietaryPreference_Predator_Humanoids_Likes_NotCannibal.label>食人味道 (endo)</DietaryPreference_Predator_Humanoids_Likes_NotCannibal.label>
+  <!--EN: [PAWN_label] doesn't mind having [PAWN_possessive] fellow sapient beings as prey, fatal or otherwise, but doesn't prefer them either.-->
+  <DietaryPreference_Predator_Humanoids_Neutral.description>[PAWN_label]不介意[PAWN_possessive]作为猎物、致命的猎物或其他东西，但也不喜欢他们。</DietaryPreference_Predator_Humanoids_Neutral.description>
+  <!--EN: Anthropophagical ambivalence-->
+  <DietaryPreference_Predator_Humanoids_Neutral.label>食人性矛盾</DietaryPreference_Predator_Humanoids_Neutral.label>
+  <!--EN: [PAWN_label] adores having [PAWN_possessive] fellow sapient beings as prey; even fatally, as an extension of [PAWN_possessive] cannibalistic tendencies. Humanoid meat tastes best alive and kicking.-->
+  <DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.description>[PAWN_label]崇拜有[PAWN_possessive]作为猎物的智人同伴; 即使是致命的，作为[PAWN_possessive]食人倾向。人形肉活活的味道最好。</DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.description>
+  <!--EN: Anthropophagical obsession (cannibal)-->
+  <DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.label>食人迷恋 (食人)</DietaryPreference_Predator_Humanoids_Obsessed_Cannibal.label>
+  <!--EN: [PAWN_label] adores having [PAWN_possessive] fellow sapient beings as prey, so long as it's safe. The dark side of vore does tempt [PAWN_objective] though, with all these delicious, filling preythings...-->
+  <DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.description>[PAWN_label]崇拜有[PAWN_possessive]作为猎物的人类同伴，只要是安全的。黑暗的一面吃人诱惑了吗[PAWN_objective]尽管如此，有这些美味的装满猎物的东西.</DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.description>
+  <!--EN: Anthropophagical obsession (endo)-->
+  <DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.label>食人迷恋 (endo)</DietaryPreference_Predator_Humanoids_Obsessed_NotCannibal.label>
+  <!--EN: [PAWN_label] hates having [PAWN_possessive] fellow sapient beings as prey and will never willingly consume them. It's a perversion of the natural order, cannibalistic or not.-->
+  <DietaryPreference_Predator_Humanoids_Refuses.description>[PAWN_label]厌恶拥有[PAWN_possessive]作为猎物的智人同伴永远不会心甘情愿地吃掉他们。不管是不是人肉，这都是对自然秩序的扭曲。</DietaryPreference_Predator_Humanoids_Refuses.description>
+  <!--EN: Anthropophagical revulsion-->
+  <DietaryPreference_Predator_Humanoids_Refuses.label>厌恶食人</DietaryPreference_Predator_Humanoids_Refuses.label>
+  <!--EN: These quirks determine how much a pawn likes having insectoids as prey. At the extremes, a pawn will either reject all autonomous proposals to be fed an insectoid, or seek out insectoid prey to the exclusion of other kinds of prey.-->
+  <DietaryPreference_Predator_Insectoids.description>这些怪癖决定了多少钱一个pawn喜欢捕食虫族。在极端情况下，一个pawn会拒绝所有自律的给虫族喂食的提议，或者寻找虫族猎物而放弃其他种类的猎物。</DietaryPreference_Predator_Insectoids.description>
+  <!--EN: Dietary preference (insectoids)-->
+  <DietaryPreference_Predator_Insectoids.label>饮食偏好 (虫族)</DietaryPreference_Predator_Insectoids.label>
+  <!--EN: [PAWN_label] dislikes having live bugs as prey. [PAWN_pronoun] has a list of places bugs should not be, and one of those places is "alive and crawling around inside [PAWN_possessive] body".-->
+  <DietaryPreference_Predator_Insectoids_Dislikes.description>[PAWN_label]厌恶将活虫当作猎物。[PAWN_pronoun]有一个 bug 不应出现的地方列表，其中一个地方 “还活着，可以在里面爬行”[PAWN_possessive]身体 ”。</DietaryPreference_Predator_Insectoids_Dislikes.description>
+  <!--EN: Entomophagical distaste-->
+  <DietaryPreference_Predator_Insectoids_Dislikes.label>虫灾厌恶</DietaryPreference_Predator_Insectoids_Dislikes.label>
+  <!--EN: [PAWN_label] enjoys having live bugs as prey. [PAWN_possessive] taste for chewing chitin extends to raw and cooked bug meat, too.-->
+  <DietaryPreference_Predator_Insectoids_Likes.description>[PAWN_label]喜欢活虫子作为猎物。[PAWN_possessive]咀嚼几丁质的味道也包括了生肉和烹饪过的虫肉。</DietaryPreference_Predator_Insectoids_Likes.description>
+  <!--EN: Entomophagical taste-->
+  <DietaryPreference_Predator_Insectoids_Likes.label>虫族口味</DietaryPreference_Predator_Insectoids_Likes.label>
+  <!--EN: [PAWN_label] doesn't mind having live bugs as prey, but doesn't prefer them either.-->
+  <DietaryPreference_Predator_Insectoids_Neutral.description>[PAWN_label]不介意活虫子作为猎物，但也不喜欢它们。</DietaryPreference_Predator_Insectoids_Neutral.description>
+  <!--EN: Entomophagical ambivalence-->
+  <DietaryPreference_Predator_Insectoids_Neutral.label>虫族对抗性</DietaryPreference_Predator_Insectoids_Neutral.label>
+  <!--EN: [PAWN_label] adores having live bugs as prey. [PAWN_possessive] whole body may as well be a hive. Furthermore, [PAWN_possessive] taste for chewing chitin extends to raw and cooked bug meat, too.-->
+  <DietaryPreference_Predator_Insectoids_Obsessed.description>[PAWN_label]推崇将活虫当作猎物。[PAWN_possessive]全身也可以成为蜂巢。此外,[PAWN_possessive]咀嚼几丁质的味道也包括了生肉和烹饪过的虫肉。</DietaryPreference_Predator_Insectoids_Obsessed.description>
+  <!--EN: Entomophagical obsession-->
+  <DietaryPreference_Predator_Insectoids_Obsessed.label>虫族迷恋</DietaryPreference_Predator_Insectoids_Obsessed.label>
+  <!--EN: [PAWN_label] hates having live bugs as prey and will never willingly consume them. The very thought makes [PAWN_possessive] skin crawl.-->
+  <DietaryPreference_Predator_Insectoids_Refuses.description>[PAWN_label]讨厌活虫作为猎物，绝不会心甘情愿地吃掉它们。这个想法使[PAWN_possessive]皮肤爬行。</DietaryPreference_Predator_Insectoids_Refuses.description>
+  <!--EN: Entomophagical revulsion-->
+  <DietaryPreference_Predator_Insectoids_Refuses.label>虫族反感</DietaryPreference_Predator_Insectoids_Refuses.label>
+  <!--EN: These quirks determine how much a pawn likes having mechanoids as prey. At the extremes, a pawn will either reject all autonomous proposals to be fed a mechanoid, or seek out mechanoid prey to the exclusion of other kinds of prey. Note that the consumption and digestion of mechanoids is restricted. For now, those with a preference for mechanoid prey are able to digest mechanoids, while those with any of these quirks, even the normal quirk, can store or pleasure themselves with a mechanoid. This is temporary.-->
+  <DietaryPreference_Predator_Mechanoids.description>这些怪癖决定了多少钱一个pawn喜欢捕食机械体。在极端情况下，一个pawn将拒绝所有自律的方案以喂养机械体，或者寻找机械体猎物以排斥其他类型的猎物。请注意，机械体的消耗和消化受到限制。目前，那些偏好机械体猎物的人能够消化机械体，而那些有这些怪癖的人，即使是普通的怪癖，也可以用机械体来储存或使自己快乐。这是暂时的。</DietaryPreference_Predator_Mechanoids.description>
+  <!--EN: Dietary preference (mechanoids)-->
+  <DietaryPreference_Predator_Mechanoids.label>饮食偏好 (机械体)</DietaryPreference_Predator_Mechanoids.label>
+  <!--EN: [PAWN_label] dislikes having mechanoids as prey. They're cold and angry and don't exactly feel great to swallow.-->
+  <DietaryPreference_Predator_Mechanoids_Dislikes.description>[PAWN_label]厌恶机械体作为猎物。他们又冷又生气，咽下去感觉不太好。</DietaryPreference_Predator_Mechanoids_Dislikes.description>
+  <!--EN: Mechanophagical distaste-->
+  <DietaryPreference_Predator_Mechanoids_Dislikes.label>机械吞噬厌恶</DietaryPreference_Predator_Mechanoids_Dislikes.label>
+  <!--EN: [PAWN_label] likes having mechanoids as prey. It proves the flesh is stronger than the machine, or something. That doesn't necessarily equate to the digestive strength to churn a mechanoid into food, but it's something. NOTE: currently, this quirk grants pawns the ability to digest mechanoids into slag or scrap. This will be changed in the future.-->
+  <DietaryPreference_Predator_Mechanoids_Likes.description>[PAWN_label]喜欢捕食机械体。它证明了肉体比机器更强大，或者别的什么。这并不一定等同于将机械体搅拌成食物的消化能力，但这很了不起。注意: 目前，这一怪癖赋予了 pawns 将机械体消化成矿渣或废料的能力。这在将来会改变。</DietaryPreference_Predator_Mechanoids_Likes.description>
+  <!--EN: Mechanophagical taste-->
+  <DietaryPreference_Predator_Mechanoids_Likes.label>机械吞噬</DietaryPreference_Predator_Mechanoids_Likes.label>
+  <!--EN: [PAWN_label] doesn't mind having mechanoids as prey, but doesn't prefer them either.-->
+  <DietaryPreference_Predator_Mechanoids_Neutral.description>[PAWN_label]虽然不介意机械体作为猎物，但也不喜欢它们。</DietaryPreference_Predator_Mechanoids_Neutral.description>
+  <!--EN: Mechanophagical ambivalence-->
+  <DietaryPreference_Predator_Mechanoids_Neutral.label>机械吞噬矛盾心理</DietaryPreference_Predator_Mechanoids_Neutral.label>
+  <!--EN: [PAWN_label] adores having mechanoids as prey. [PAWN_pronoun] has the munchies for metal, a taste for titanium and steel. That doesn't necessarily equate to the digestive strength to churn a mechanoid into food, but it's something. NOTE: currently, this quirk grants pawns the ability to digest mechanoids into slag or scrap. This will be changed in the future.-->
+  <DietaryPreference_Predator_Mechanoids_Obsessed.description>[PAWN_label]崇拜机械体作为猎物。[PAWN_pronoun]有对金属的咀嚼，对钛和钢铁的味道。这并不一定等同于将机械体搅拌成食物的消化能力，但这很了不起。注意: 目前，这一怪癖赋予了 pawns 将机械体消化成矿渣或废料的能力。这在将来会改变。</DietaryPreference_Predator_Mechanoids_Obsessed.description>
+  <!--EN: Mechanophagical obsession-->
+  <DietaryPreference_Predator_Mechanoids_Obsessed.label>机械吞噬迷恋</DietaryPreference_Predator_Mechanoids_Obsessed.label>
+  <!--EN: [PAWN_label] hates having mechanoids as prey and will never willingly consume them. [PAWN_pronoun] absolutely does not want to put hundreds of angry pounds' worth of sharp edges, moving parts, and cold steel directly into [PAWN_possessive] body.-->
+  <DietaryPreference_Predator_Mechanoids_Refuses.description>[PAWN_label]憎恨机械体作为猎物，并且永远不会心甘情愿地吃掉它们。[PAWN_pronoun]绝对不想把数百磅重的怒火、锋利的边缘、能活动的部件和冰冷的钢材直接塞进[PAWN_possessive]身体。</DietaryPreference_Predator_Mechanoids_Refuses.description>
+  <!--EN: Mechanophagical revulsion-->
+  <DietaryPreference_Predator_Mechanoids_Refuses.label>机械吞噬厌恶</DietaryPreference_Predator_Mechanoids_Refuses.label>
+  <!--EN: These quirks determine how much a pawn likes having animals as predators. At the extremes, a pawn will either reject all autonomous proposals to be fed to an animal, or seek out animal predators to the exclusion of other kinds of predator. While insectoids normally count as animals, these quirks are written to exclude insectoids from the type preferences.-->
+  <DietaryPreference_Prey_Animals.description>这些怪癖决定了多少钱一个pawn喜欢将动物作为肉食动物。在极端情况下，一个pawn将拒绝所有自律喂养动物的提议，或者寻找除其他类型的捕食者之外的动物捕食者。虽然虫族通常被算作动物，但写这些怪癖是为了将虫族排除在类型偏好之外。</DietaryPreference_Prey_Animals.description>
+  <!--EN: Foddering preference (animals)-->
+  <DietaryPreference_Prey_Animals.label>喂养偏好 (动物)</DietaryPreference_Prey_Animals.label>
+  <!--EN: [PAWN_label] dislikes being prey for animals. How certain can [PAWN_pronoun] be that the beast will listen to demands to be let out?-->
+  <DietaryPreference_Prey_Animals_Dislikes.description>[PAWN_label]厌恶动物捕食。多确定[PAWN_pronoun]野兽会听要求被放生吗？</DietaryPreference_Prey_Animals_Dislikes.description>
+  <!--EN: Zoogastric disinterest-->
+  <DietaryPreference_Prey_Animals_Dislikes.label>动物胃漠视</DietaryPreference_Prey_Animals_Dislikes.label>
+  <!--EN: [PAWN_label] likes being prey for animals. It's thrilling to be subject to the inscrutable whims of a beast, not knowing if it might change its mind about [PAWN_possessive] safety, or when it'll decide to release [PAWN_objective].-->
+  <DietaryPreference_Prey_Animals_Likes.description>[PAWN_label]喜欢成为动物的猎物。承受着野兽那不可思议的奇想，不知道它是否会改变主意，这真让人毛骨悚然。[PAWN_possessive]注意安全，或者什么时候决定释放[PAWN_objective]</DietaryPreference_Prey_Animals_Likes.description>
+  <!--EN: Zoogastric interest-->
+  <DietaryPreference_Prey_Animals_Likes.label>动物胃爱好</DietaryPreference_Prey_Animals_Likes.label>
+  <!--EN: [PAWN_label] doesn't mind being prey for animals, but doesn't prefer it either.-->
+  <DietaryPreference_Prey_Animals_Neutral.description>[PAWN_label]虽然不介意被动物捕食，但也不喜欢。</DietaryPreference_Prey_Animals_Neutral.description>
+  <!--EN: Zoogastric ambivalence-->
+  <DietaryPreference_Prey_Animals_Neutral.label>动物胃间矛盾</DietaryPreference_Prey_Animals_Neutral.label>
+  <!--EN: [PAWN_label] adores being prey for animals. If [PAWN_pronoun] ever goes missing, make sure to check the bellies of all your livestock, pets, and the wildlife.-->
+  <DietaryPreference_Prey_Animals_Obsessed.description>[PAWN_label]崇拜动物的猎物。如果[PAWN_pronoun]如果你失踪了，一定要检查你所有的牲畜、宠物和野生动物的肚子。</DietaryPreference_Prey_Animals_Obsessed.description>
+  <!--EN: Zoogastric obsession-->
+  <DietaryPreference_Prey_Animals_Obsessed.label>动物胃迷恋</DietaryPreference_Prey_Animals_Obsessed.label>
+  <!--EN: [PAWN_label] hates being prey for animals and will never willingly be consumed by them. It's as disgusting as it is degrading.-->
+  <DietaryPreference_Prey_Animals_Refuses.description>[PAWN_label]厌恶被动物捕食，绝不会心甘情愿地被它们吞食。就像它在退化一样恶心。</DietaryPreference_Prey_Animals_Refuses.description>
+  <!--EN: Zoogastric revulsion-->
+  <DietaryPreference_Prey_Animals_Refuses.label>动物胃厌恶</DietaryPreference_Prey_Animals_Refuses.label>
+  <!--EN: These quirks determine how much a pawn likes having humanoids as predators. At the extremes, a pawn will either reject all autonomous proposals to be a humanoid's prey, or seek out humanoid predators to the exclusion of other kinds of predator. Because vanilla Rimworld does not indicate anything about how pawns feel about being cannibalized, these quirks are simpler than their predatory counterparts.-->
+  <DietaryPreference_Prey_Humanoids.description>这些怪癖决定了多少钱一个pawn喜欢将人形作为肉食动物。在极端情况下，一个pawn将拒绝所有自主提出的成为人形捕食者的提议，或者寻找除其他类型的捕食者之外的人形捕食者。因为香草边缘世界并没有表明任何关于 pawns 被食人的感受，所以这些怪癖比它们的掠夺性对手要简单。</DietaryPreference_Prey_Humanoids.description>
+  <!--EN: Foddering preference (humanoids)-->
+  <DietaryPreference_Prey_Humanoids.label>喂养偏好 (人形)</DietaryPreference_Prey_Humanoids.label>
+  <!--EN: [PAWN_label] dislikes being prey for [PAWN_possessive] fellow sapient beings. [PAWN_pronoun] can't escape the stresses of society by entering the body of a member of society.-->
+  <DietaryPreference_Prey_Humanoids_Dislikes.description>[PAWN_label]厌恶被捕食[PAWN_possessive]智人同伴。[PAWN_pronoun]无法通过进入社会成员的身体来逃避社会的压力。</DietaryPreference_Prey_Humanoids_Dislikes.description>
+  <!--EN: Anthropogastric disinterest-->
+  <DietaryPreference_Prey_Humanoids_Dislikes.label>人类胃不感兴趣</DietaryPreference_Prey_Humanoids_Dislikes.label>
+  <!--EN: [PAWN_label] likes being prey for [PAWN_possessive] fellow sapient beings. It's nice to be able to socialize with [PAWN_possessive] predator.-->
+  <DietaryPreference_Prey_Humanoids_Likes.description>[PAWN_label]喜欢成为猎物[PAWN_possessive]智人同伴。能与人社交真好[PAWN_possessive]捕食者。</DietaryPreference_Prey_Humanoids_Likes.description>
+  <!--EN: Anthropogastric interest-->
+  <DietaryPreference_Prey_Humanoids_Likes.label>人类胃爱好</DietaryPreference_Prey_Humanoids_Likes.label>
+  <!--EN: [PAWN_label] doesn't mind being prey for [PAWN_possessive] fellow sapient beings, but doesn't prefer it either.-->
+  <DietaryPreference_Prey_Humanoids_Neutral.description>[PAWN_label]不介意被捕食[PAWN_possessive]智人同伴，但也不喜欢。</DietaryPreference_Prey_Humanoids_Neutral.description>
+  <!--EN: Anthropogastric ambivalence-->
+  <DietaryPreference_Prey_Humanoids_Neutral.label>人胃矛盾</DietaryPreference_Prey_Humanoids_Neutral.label>
+  <!--EN: [PAWN_label] adores being prey for [PAWN_possessive] fellow sapient beings. [PAWN_pronoun] is a prey of the people—any person, really.-->
+  <DietaryPreference_Prey_Humanoids_Obsessed.description>[PAWN_label]崇拜被捕食的动物[PAWN_possessive]智人同伴。[PAWN_pronoun]实际上是人的猎物 -- 任何人。</DietaryPreference_Prey_Humanoids_Obsessed.description>
+  <!--EN: Anthropogastric obsession-->
+  <DietaryPreference_Prey_Humanoids_Obsessed.label>人类胃迷恋</DietaryPreference_Prey_Humanoids_Obsessed.label>
+  <!--EN: [PAWN_label] hates being prey for [PAWN_possessive] fellow sapient beings and will never willingly be consumed by them. That's at least three kinds of unnatural.-->
+  <DietaryPreference_Prey_Humanoids_Refuses.description>[PAWN_label]厌恶作为猎物[PAWN_possessive]与智人同行的人永远不会心甘情愿地被他们吞食。这至少是三种异常文化。</DietaryPreference_Prey_Humanoids_Refuses.description>
+  <!--EN: Anthropogastric revulsion-->
+  <DietaryPreference_Prey_Humanoids_Refuses.label>人类胃厌恶</DietaryPreference_Prey_Humanoids_Refuses.label>
+  <!--EN: These quirks determine how much a pawn likes having insectoids as predators. At the extremes, a pawn will either reject all autonomous proposals to be fed to an insectoid, or seek out insectoid predators to the exclusion of other kinds of predator.-->
+  <DietaryPreference_Prey_Insectoids.description>这些怪癖决定了多少钱一个pawn喜欢将虫族当作捕食者。在极端情况下，一个pawn将会拒绝所有自律的方案来喂养一个虫族，或者寻找一个虫族或者放弃其他类型的捕食者。</DietaryPreference_Prey_Insectoids.description>
+  <!--EN: Foddering preference (insectoids)-->
+  <DietaryPreference_Prey_Insectoids.label>喂养偏好 (虫族)</DietaryPreference_Prey_Insectoids.label>
+  <!--EN: [PAWN_label] dislikes being prey for insectoids. Bugs aren't known for eating their prey in one whole bite. Not swarms of them, at least...-->
+  <DietaryPreference_Prey_Insectoids_Dislikes.description>[PAWN_label]厌恶被虫族捕食。虫族并不以一口就吃掉它们的猎物而闻名。至少不是大群人...</DietaryPreference_Prey_Insectoids_Dislikes.description>
+  <!--EN: Entomogastric disinterest-->
+  <DietaryPreference_Prey_Insectoids_Dislikes.label>虫胃不感兴趣</DietaryPreference_Prey_Insectoids_Dislikes.label>
+  <!--EN: [PAWN_label] likes being prey for insectoids. Such an alien physiology is quite fascinating to tour from the inside.-->
+  <DietaryPreference_Prey_Insectoids_Likes.description>[PAWN_label]喜欢成为虫族的猎物。从内部游览真是让人着迷的异域生理形态。</DietaryPreference_Prey_Insectoids_Likes.description>
+  <!--EN: Entomogastric interest-->
+  <DietaryPreference_Prey_Insectoids_Likes.label>虫灾胃爱好</DietaryPreference_Prey_Insectoids_Likes.label>
+  <!--EN: [PAWN_label] doesn't mind being prey for insectoids, but doesn't prefer it either.-->
+  <DietaryPreference_Prey_Insectoids_Neutral.description>[PAWN_label]虽然不介意成为虫族的猎物，但也不喜欢。</DietaryPreference_Prey_Insectoids_Neutral.description>
+  <!--EN: Entomogastric ambivalence-->
+  <DietaryPreference_Prey_Insectoids_Neutral.label>虫胃矛盾心理</DietaryPreference_Prey_Insectoids_Neutral.label>
+  <!--EN: [PAWN_label] adores being prey for insectoids. There aren't many other ways for a humanoid to become one with the hive.-->
+  <DietaryPreference_Prey_Insectoids_Obsessed.description>[PAWN_label]推崇成为虫族的猎物。人形物体与蜂巢融为一体没有很多其他方式。</DietaryPreference_Prey_Insectoids_Obsessed.description>
+  <!--EN: Entomogastric obsession-->
+  <DietaryPreference_Prey_Insectoids_Obsessed.label>虫胃迷恋</DietaryPreference_Prey_Insectoids_Obsessed.label>
+  <!--EN: [PAWN_label] hates being prey for insectoids and will not willingly be consumed by them. No amount of showers would ever let [PAWN_objective] feel clean again.-->
+  <DietaryPreference_Prey_Insectoids_Refuses.description>[PAWN_label]厌恶成为虫族的猎物，不愿被虫族吞食。淋浴次数有限[PAWN_objective]感觉干净了。</DietaryPreference_Prey_Insectoids_Refuses.description>
+  <!--EN: Entomogastric revulsion-->
+  <DietaryPreference_Prey_Insectoids_Refuses.label>厌恶虫胃</DietaryPreference_Prey_Insectoids_Refuses.label>
+  <!--EN: These quirks determine how much a pawn likes having mechanoids as predators. At the extremes, a pawn will either reject all autonomous proposals to be fed to a mechanoid, or seek out mechanoid predators to the exclusion of other kinds of predator.-->
+  <DietaryPreference_Prey_Mechanoids.description>这些怪癖决定了多少钱一个pawn喜欢将机械体作为捕食者。在极端情况下，一个pawn将会拒绝所有用于喂养机械体的自治提议，或者寻找除其他类型的捕食者之外的机械体捕食者。</DietaryPreference_Prey_Mechanoids.description>
+  <!--EN: Foddering preference (mechanoids)-->
+  <DietaryPreference_Prey_Mechanoids.label>喂养偏好 (机械体)</DietaryPreference_Prey_Mechanoids.label>
+  <!--EN: [PAWN_label] dislikes being prey for mechanoids. Think of all the grinding gears! All the constant clicking and ticking!-->
+  <DietaryPreference_Prey_Mechanoids_Dislikes.description>[PAWN_label]厌恶被机械体捕食。想想所有的性器摩擦齿轮!所有的不断点击和滴答!</DietaryPreference_Prey_Mechanoids_Dislikes.description>
+  <!--EN: Mechanogastric disinterest-->
+  <DietaryPreference_Prey_Mechanoids_Dislikes.label>机械胃不感兴趣</DietaryPreference_Prey_Mechanoids_Dislikes.label>
+  <!--EN: [PAWN_label] likes being prey for mechanoids. Cold, unyielding plasteel makes for a unique and exhillarating experience.-->
+  <DietaryPreference_Prey_Mechanoids_Likes.description>[PAWN_label]喜欢被机械体捕食。不屈服于寒冷的玻璃钢带来了独特而又迷人的体验。</DietaryPreference_Prey_Mechanoids_Likes.description>
+  <!--EN: Mechanogastric interest-->
+  <DietaryPreference_Prey_Mechanoids_Likes.label>机械胃息</DietaryPreference_Prey_Mechanoids_Likes.label>
+  <!--EN: [PAWN_label] doesn't mind being prey for mechanoids, but doesn't prefer it either.-->
+  <DietaryPreference_Prey_Mechanoids_Neutral.description>[PAWN_label]虽然不介意被机械体捕食，但也不喜欢。</DietaryPreference_Prey_Mechanoids_Neutral.description>
+  <!--EN: Mechanogastric ambivalence-->
+  <DietaryPreference_Prey_Mechanoids_Neutral.label>机械胃矛盾心理</DietaryPreference_Prey_Mechanoids_Neutral.label>
+  <!--EN: [PAWN_label] adores being prey for mechanoids. [PAWN_pronoun] is more at home among flexing hydraulics and humming circuits than the beat of most hearts.-->
+  <DietaryPreference_Prey_Mechanoids_Obsessed.description>[PAWN_label]崇拜机械体的猎物。[PAWN_pronoun]在弯曲的液压系统和 hum鸣的回路中，比大多数人的心跳更像在家一样。</DietaryPreference_Prey_Mechanoids_Obsessed.description>
+  <!--EN: Mechanogastric obsession-->
+  <DietaryPreference_Prey_Mechanoids_Obsessed.label>机械胃迷恋</DietaryPreference_Prey_Mechanoids_Obsessed.label>
+  <!--EN: [PAWN_label] hates being prey for mechanoids and will not willingly be consumed by them. Even if [PAWN_pronoun] was suicidal, that sure as hell ain't the way [PAWN_pronoun] wants to go out.-->
+  <DietaryPreference_Prey_Mechanoids_Refuses.description>[PAWN_label]厌恶被机械体捕食，不愿被其吞食。即使[PAWN_pronoun]有自杀倾向，那肯定是地狱不是路[PAWN_pronoun]想要出去。</DietaryPreference_Prey_Mechanoids_Refuses.description>
+  <!--EN: Mechanogastric revulsion-->
+  <DietaryPreference_Prey_Mechanoids_Refuses.label>机械胃厌恶</DietaryPreference_Prey_Mechanoids_Refuses.label>
+</LanguageData>

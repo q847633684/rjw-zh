@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '已植入的边缘系统刺激器。', 原英文: 'An installed limbic stimulator.' -> 新英文: 'A perpetual slow-release chemical stimulation implant that is embedded deep within the reward center of the brain, greatly increasing the need for lovin'. The need is said to become so strong that it can drive people to force themselves onto others, even if they wouldn't otherwise. Post-lovin' clarity will leave the implanted in a state of bliss, but they may also feel a sense of regret if they steal lovin' if they normally wouldn't - at least until they become used to doing it.',更新于2026-02-15-->
+  <!--EN: An installed limbic stimulator.-->
+  <!--重复key，需删除-->
+  <!--EN: 一种嵌入大脑奖赏中心深处的永久性缓释化学刺激植入物，会极大地增加其对“爱爱”的需求。据说这种需求会变得如此强烈，以至于会驱使人们强行违背他人意愿发生关系，即使他们平时并不会这样做。事后的清醒会让植入者处于一种极度愉悦的状态，但如果他们违背本性进行了强取豪夺，也可能会感到悔恨——至少在他们习以为常之前是这样。-->
+  <!--原中文: '一种嵌入大脑奖赏中心深处的永久性缓释化学刺激植入物，会极大地增加其对“爱爱”的需求。据说这种需求会变得如此强烈，以至于会驱使人们强行违背他人意愿发生关系，即使他们平时并不会这样做。事后的清醒会让植入者处于一种极度愉悦的状态，但如果他们违背本性进行了强取豪夺，也可能会感到悔恨——至少在他们习以为常之前是这样。', 原英文: '无' -> 新英文: 'A perpetual slow-release chemical stimulation implant that is embedded deep within the reward center of the brain, greatly increasing the need for lovin'. The need is said to become so strong that it can drive people to force themselves onto others, even if they wouldn't otherwise. Post-lovin' clarity will leave the implanted in a state of bliss, but they may also feel a sense of regret if they steal lovin' if they normally wouldn't - at least until they become used to doing it.',更新于2026-02-15-->
+  <!--EN: A perpetual slow-release chemical stimulation implant that is embedded deep within the reward center of the brain, greatly increasing the need for lovin'. The need is said to become so strong that it can drive people to force themselves onto others, even if they wouldn't otherwise. Post-lovin' clarity will leave the implanted in a state of bliss, but they may also feel a sense of regret if they steal lovin' if they normally wouldn't - at least until they become used to doing it.-->
+  <!--重复key，需删除-->
+  <!--重复key，需删除-->
+  <LimbicStimulator.description>一种嵌入大脑奖赏中心深处的永久性缓释化学刺激植入物，会极大地增加其对“爱爱”的需求。据说这种需求会变得如此强烈，以至于会驱使人们强行违背他人意愿发生关系，即使他们平时并不会这样做。事后的清醒会让植入者处于一种极度愉悦的状态，但如果他们违背本性进行了强取豪夺，也可能会感到悔恨——至少在他们习以为常之前是这样。</LimbicStimulator.description>
+  <!--EN: A perpetual slow-release chemical stimulation implant that is embedded deep within the reward center of the brain, greatly increasing the need for lovin'. The need is said to become so strong that it can drive people to force themselves onto others, even if they wouldn't otherwise. Post-lovin' clarity will leave the implanted in a state of bliss, but they may also feel a sense of regret if they steal lovin' if they normally wouldn't - at least until they become used to doing it.-->
+  <LimbicStimulator.description>一种嵌入大脑奖赏中心深处的永久性缓释化学刺激植入物，会极大地增加其对“爱爱”的需求。据说这种需求会变得如此强烈，以至于会驱使人们强行违背他人意愿发生关系，即使他们平时并不会这样做。事后的清醒会让植入者处于一种极度愉悦的状态，但如果他们违背本性进行了强取豪夺，也可能会感到悔恨——至少在他们习以为常之前是这样。</LimbicStimulator.description>
+  <!--EN: limbic stimulator-->
+  <!--重复key，需删除-->
+  <!--重复key，需删除-->
+  <!--重复key，需删除-->
+  <LimbicStimulator.label>边缘系统刺激器</LimbicStimulator.label>
+  <!--EN: limbic stimulator-->
+  <LimbicStimulator.label>边缘系统刺激器</LimbicStimulator.label>
+  <!--EN: limbic stimulator-->
+  <LimbicStimulator.labelNoun>边缘系统刺激器</LimbicStimulator.labelNoun>
+  <!--EN: Remove the limbic stimulator.-->
+  <RemoveLimbicStimulator.description>移除边缘系统刺激器。</RemoveLimbicStimulator.description>
+  <!--EN: Removing limbic stimulator.-->
+  <RemoveLimbicStimulator.jobString>正在移除边缘系统刺激器。</RemoveLimbicStimulator.jobString>
+  <!--EN: remove limbic stimulator-->
+  <RemoveLimbicStimulator.label>移除边缘系统刺激器</RemoveLimbicStimulator.label>
+</LanguageData>

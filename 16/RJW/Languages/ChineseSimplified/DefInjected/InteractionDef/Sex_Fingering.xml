@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '指交', 原英文: '无' -> 新英文: 'fingering',更新于2026-02-14-->
+  <!--EN: fingering-->
+  <Sex_Fingering.label>指交</Sex_Fingering.label>
+  <!--原中文: '让其指交', 原英文: '无' -> 新英文: 'Receive fingering',更新于2026-02-14-->
+  <!--EN: Receive fingering-->
+  <Sex_Fingering.modExtensions.0.RMBLabel>让其指交</Sex_Fingering.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->让[RECIPIENT_nameDef]用手指抚弄了阴道。', 原英文: '无' -> 新英文: 'r_logentry->Was fingered by [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Was fingered by [RECIPIENT_nameDef].-->
+  <Sex_Fingering.logRulesInitiator.rulesStrings.0>r_logentry->让[RECIPIENT_nameDef]用手指抚弄了阴道。</Sex_Fingering.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->用手指抚弄了[INITIATOR_nameDef]的阴道。', 原英文: '无' -> 新英文: 'r_logentry->Fingered [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Fingered [INITIATOR_nameDef].-->
+  <Sex_Fingering.logRulesRecipient.rulesStrings.0>r_logentry->用手指抚弄了[INITIATOR_nameDef]的阴道。</Sex_Fingering.logRulesRecipient.rulesStrings.0>
+</LanguageData>

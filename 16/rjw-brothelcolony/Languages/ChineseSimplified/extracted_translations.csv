@@ -1,0 +1,276 @@
+key,text,tag,file,type
+AlertFaultyWhoreBrothelTabCheckbox,{0} 卖身工作已开启。但未在青楼界面被设置成娼妓。,AlertFaultyWhoreBrothelTabCheckbox,Alerts.xml,keyed
+AlertFaultyWhoreNoCondoms,{0} 需要套套。,AlertFaultyWhoreNoCondoms,Alerts.xml,keyed
+AlertFaultyWhoreCondomsWithPregnancy,{0} 想怀孕，但被要求使用避孕套.,AlertFaultyWhoreCondomsWithPregnancy,Alerts.xml,keyed
+CaravanWhoringStop,远行队即将离开，您的娼妓将停止服务。,CaravanWhoringStop,Caravan.xml,keyed
+CaravanWhoringNoMaleClients,{0}并无男性寻芳客，但当前只有女性娼妓。,CaravanWhoringNoMaleClients,Caravan.xml,keyed
+CaravanWhoringNoFemaleClients,{0}并无女性寻芳客，但当前只有男性娼妓。,CaravanWhoringNoFemaleClients,Caravan.xml,keyed
+CaravanWhoringNoMoney,{0}没钱嫖娼。,CaravanWhoringNoMoney,Caravan.xml,keyed
+CaravanWhoringLowSoftSkills,您的一位娼妓因其低下的社交等级难以拉客。在远行队中加入一位老鸨来增加其社交等级。,CaravanWhoringLowSoftSkills,Caravan.xml,keyed
+CaravanWhoringNotifyPaymentSilver,{0}向{1}提供服务，并收到{2}银作为回报。基础价：{3}，bonus from specialist: {4},CaravanWhoringNotifyPaymentSilver,Caravan.xml,keyed
+CaravanWhoringNotifyPaymentGoodwill,{0}向{1}提供服务，并收到基于{3}的{2}点派系好感度。,CaravanWhoringNotifyPaymentGoodwill,Caravan.xml,keyed
+CaravanWhoringNotifyPaymentFervor,{0}向{1}提供服务，并收到{2}点热忱圣点。,CaravanWhoringNotifyPaymentFervor,Caravan.xml,keyed
+CaravanWhoringActionLabelNoWhoring,开始卖淫,CaravanWhoringActionLabelNoWhoring,Caravan.xml,keyed
+CaravanWhoringActionLabelWhoring,结束卖淫,CaravanWhoringActionLabelWhoring,Caravan.xml,keyed
+CaravanWhoringActionDescNoWhoring,为当前殖民地提供娼妓,CaravanWhoringActionDescNoWhoring,Caravan.xml,keyed
+CaravanWhoringActionDescWhoring,停止提供娼妓,CaravanWhoringActionDescWhoring,Caravan.xml,keyed
+CaravanWhoringActionStop,您的远行队已于{0}停止提供娼妓服务,CaravanWhoringActionStop,Caravan.xml,keyed
+CaravanWhoringActionStart,您的远行队于{0}开始提供娼妓服务,CaravanWhoringActionStart,Caravan.xml,keyed
+CaravanWhoringActionStartAtInMorning,您的远行队将在{0}早上时开始提供服务,CaravanWhoringActionStartAtInMorning,Caravan.xml,keyed
+CaravanWhoringActionDisable,你需要至少携带一名娼妓,CaravanWhoringActionDisable,Caravan.xml,keyed
+FervorTrackerNeedFervor,You need at least {0} fervor.,FervorTrackerNeedFervor,Fervor.xml,keyed
+FervorTrackerConvertAsMuchFervor,Convert as much fervor as possible.,FervorTrackerConvertAsMuchFervor,Fervor.xml,keyed
+FervorTrackerConvertFervorIntoDevPoint,Convert a {0} fervor into one development point,FervorTrackerConvertFervorIntoDevPoint,Fervor.xml,keyed
+FervorTrackerConvertedAllFervorIntoDevPoints,Converted {0} fervor into {1_numCase ? development point : development points : development points}.,FervorTrackerConvertedAllFervorIntoDevPoints,Fervor.xml,keyed
+FervorTrackerOne,One ({0}),FervorTrackerOne,Fervor.xml,keyed
+FervorTrackerAllFervor,All ({0}),FervorTrackerAllFervor,Fervor.xml,keyed
+FervorTrackerIdeologyNotFluid,Ideology not fluid,FervorTrackerIdeologyNotFluid,Fervor.xml,keyed
+FervorTrackerConversion,Conversion,FervorTrackerConversion,Fervor.xml,keyed
+WhoreIsServingVisitorsPaymentSilver,{0}向{1}提供服务，并且收到了{2}银。基础价：{3}，青楼床铺品质：{4},WhoreIsServingVisitorsPaymentSilver,JobDriver.xml,keyed
+WhoreIsServingVisitorsPaymentGoodwill,{0}向{1}提供服务，并收到基于{3}的{2}点派系好感度。,WhoreIsServingVisitorsPaymentGoodwill,JobDriver.xml,keyed
+WhoreIsServingVisitorsPaymentFervor,{0}向{1}提供服务，并收到{2}点热忱圣点。,WhoreIsServingVisitorsPaymentFervor,JobDriver.xml,keyed
+ProstitutionCouldNotAfford,{0}无法支付{1}的嫖价,ProstitutionCouldNotAfford,Prostitution.xml,keyed
+ProstitutionUnhealtyAndReject,{0}因状态不佳被拒绝。,ProstitutionUnhealtyAndReject,Prostitution.xml,keyed
+ProstitutionNoneAppealing,{0}觉得您的娼妓不足以吸引他。,ProstitutionNoneAppealing,Prostitution.xml,keyed
+ProstitutionAbilityPresentCooldown,下次妓展将于{0}后准备完毕,ProstitutionAbilityPresentCooldown,Prostitution.xml,keyed
+ProstitutionAbilityPresentDisabled,请先至少指定一张青楼床铺。,ProstitutionAbilityPresentDisabled,Prostitution.xml,keyed
+ProstitutionAbilityPresentWarning,\n\n警告！ {0} 是远行队队长，队中动物将会跟随他。,ProstitutionAbilityPresentWarning,Prostitution.xml,keyed
+ProstitutionAbilityPresentSilverGuests,\n\n可供客人使用的白银：\n,ProstitutionAbilityPresentSilverGuests,Prostitution.xml,keyed
+ProstitutionAbilityPresentSilverGroup,{0} - {1}的组\n,ProstitutionAbilityPresentSilverGroup,Prostitution.xml,keyed
+ProstitutionAbilityPresentSilverTotal,\n总计：{0}\n,ProstitutionAbilityPresentSilverTotal,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhorePrice,最便宜的娼妓：\n{0}:{1}银,ProstitutionAbilityPresentWhorePrice,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreFree,有些娼妓不会索要白银。,ProstitutionAbilityPresentWhoreFree,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreTitle,神圣生育力,ProstitutionAbilityPresentWhoreTitle,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreOutcomeDesc,所有参与者的生育力都提高了。,ProstitutionAbilityPresentWhoreOutcomeDesc,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreDiaNodeText,\n\n基于仪式的质量我们获得了{0}%的生育力提升。\n\n为每位小人支付五点热忱圣点将会额外提升100%。,ProstitutionAbilityPresentWhoreDiaNodeText,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreDiaOptionNone,无,ProstitutionAbilityPresentWhoreDiaOptionNone,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreDiaOption,为每位参与者支付{0}点热忱圣点\n总计：{1}点,ProstitutionAbilityPresentWhoreDiaOption,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreDiaOptionDisable,没有足够的点数,ProstitutionAbilityPresentWhoreDiaOptionDisable,Prostitution.xml,keyed
+ProstitutionDesignateBrothelBedFirst,请先至少指定一张青楼床铺。,ProstitutionDesignateBrothelBedFirst,Prostitution.xml,keyed
+ProstitutionRitualReasonClient,仪式参与者必须为非敌对访客,ProstitutionRitualReasonClient,Prostitution.xml,keyed
+ProstitutionRitualReasonWhore,{0}并未被设置为娼妓。,ProstitutionRitualReasonWhore,Prostitution.xml,keyed
+ProstitutionLetterTitle,没有客户了。,ProstitutionLetterTitle,Prostitution.xml,keyed
+ProstitutionLetterDesc,没有可服务的客户了。,ProstitutionLetterDesc,Prostitution.xml,keyed
+ProstitutionRitualDesc,"
+娼妓将会尽力服务任何选择他们的客户。{madam}的社交等级 ({madam_skills}) 将会帮助拉客。\n\n\n\n男性客户: {male_clients}\n\n女性客户: {female_clients}\n\n\n
+  ",ProstitutionRitualDesc,Prostitution.xml,keyed
+RepopulationActionDiaNode,"These genes have been learned by {0}.\n \nAdding genes with Gene Tampering requires {1} fervor, plus an additional {2} fervor per level of complexity of the gene.\n \nRemoving a gene requires {3} fervor, plus an additional {4} fervor per level of complexity of the gene \n \nTargeting an unborn halfs the cost.",RepopulationActionDiaNode,Repopulation.xml,keyed
+RepopulationGeneAddedMessage,{0} has been added to {1}.,RepopulationGeneAddedMessage,Repopulation.xml,keyed
+RepopulationCommandActionHandoverNow,Depart now,RepopulationCommandActionHandoverNow,Repopulation.xml,keyed
+RepopulationCommandActionHandoverNowDesc,Try to join already present caravan,RepopulationCommandActionHandoverNowDesc,Repopulation.xml,keyed
+CB_AskToTakeLetterLabel,访客希望带走{0},CB_AskToTakeLetterLabel,Whoring.xml,keyed
+CB_CannotSendAwayLordLeft,{0}已不在殖民地,CB_CannotSendAwayLordLeft,Whoring.xml,keyed
+CB_CannotSendAwayDespawned,Cannot send away: {0} is not available,CB_CannotSendAwayDespawned,Repopulation.xml,keyed
+CB_CannotSendAwayCrypto,Cannot send away: {0} is currentily in cryptosleep,CB_CannotSendAwayCrypto,Repopulation.xml,keyed
+CB_CannotSendAwayGrowthVat,Cannot send away: {0} is in a growth vat,CB_CannotSendAwayGrowthVat,Repopulation.xml,keyed
+CB_CannotSendAwayBiosculpterPod,Cannot send away: {0} is in a biosculpter pod,CB_CannotSendAwayBiosculpterPod,Repopulation.xml,keyed
+CB_CannotSendAwayNoMove,Cannot send away: {0} cannot move,CB_CannotSendAwayNoMove,Repopulation.xml,keyed
+CB_AskToTakeLetterDescription,来自{2}的访客们已到来。{0}的父亲{1}，其中一位访客。\n\n我们将复兴此世界的人口作为目标，现在他们希望带{0}与他们一起离开。\n\n,CB_AskToTakeLetterDescription,Whoring.xml,keyed
+CB_AskToTakeLetterNothingPaid,{0}已加入{1}将会随他们离开。,CB_AskToTakeLetterNothingPaid,Whoring.xml,keyed
+CB_AskToTakeLetterSilverPaid,{0}向{1}支付生养{2}的报酬。{2}已加入他们，且会随他们一起离开。,CB_AskToTakeLetterSilverPaid,Whoring.xml,keyed
+CB_AskToTakeLetterFavourPaid,{0}已加入{1}且会随他们离开。您与他们的关系提升了{2}。,CB_AskToTakeLetterFavourPaid,Whoring.xml,keyed
+CB_AskToTakeLetterFervorPaid,{0}已加入{1}且会随他们离开。您获得了{2}热忱圣点。,CB_AskToTakeLetterFervorPaid,Whoring.xml,keyed
+CB_AskToTakeLetterRefused,{0}对于拒绝行为表示失望。您与他们的关系降低了{3}。他们将在{2}天后再次索要{1}。,CB_AskToTakeLetterRefused,Whoring.xml,keyed
+CB_AskToTakeLetterNothingPaid_CR,{0} has joined {1}.,CB_AskToTakeLetterNothingPaid_CR,Repopulation.xml,keyed
+CB_AskToTakeLetterSilverPaid_CR,{0} paid {1} for {2}. {2} has joined them.,CB_AskToTakeLetterSilverPaid_CR,Repopulation.xml,keyed
+CB_AskToTakeLetterFavourPaid_CR,{0} has joined {1}. Your relations have improved by {2}.,CB_AskToTakeLetterFavourPaid_CR,Repopulation.xml,keyed
+CB_AskToTakeLetterFervorPaid_CR,{0} has joined {1}. You have gained {2} fervor.,CB_AskToTakeLetterFervorPaid_CR,Repopulation.xml,keyed
+CB_PawnMapHeld,{0} unable to join {1},CB_PawnMapHeld,Repopulation.xml,keyed
+CB_PawnMapHeldDesc,"{0} is unable to join {1} by themselves. Make sure {0} can move on their own, and press their ""Depart Now"" button.",CB_PawnMapHeldDesc,Repopulation.xml,keyed
+CB_Gizmo_CR_Label,Offer pawn,CB_Gizmo_CR_Label,Repopulation.xml,keyed
+CB_Gizmo_CR_Desc,Offer a pawn to this settlement and choose a reward.,CB_Gizmo_CR_Desc,Repopulation.xml,keyed
+CB_UI_CR_Donor_Faction,Promised to: {0},CB_UI_CR_Donor_Faction,Repopulation.xml,keyed
+CB_UI_CR_Donor_Faction_None, Promised to: No one,CB_UI_CR_Donor_Faction_None,Repopulation.xml,keyed
+CB_UI_CR_Promised,Pledged:,CB_UI_CR_Promised,Repopulation.xml,keyed
+CB_OfferPawns_Header,Offer pawn(s) to {0},CB_OfferPawns_Header,Repopulation.xml,keyed
+CB_OfferPawns_OfferButton,Offer,CB_OfferPawns_OfferButton,Repopulation.xml,keyed
+CB_SetToLeaveLetterLabel,{0}人口复兴,CB_SetToLeaveLetterLabel,Whoring.xml,keyed
+CB_SetToLeaveLetterDescription,"
+	 {0}的父亲{1}，来自{2}的一名访客。\n\n我们将复兴此世界的人口作为目标，现在我们要决定是否让此子在{2}再次来访时加入他们，或当他们向我们索要时。
+	 \n\n",CB_SetToLeaveLetterDescription,Whoring.xml,keyed
+b,让{0}自动离开?,b,Whoring.xml,keyed
+CB_SetToLeaveLetterDescription0,\n我们坚定的认为这是我们的职责所在。,CB_SetToLeaveLetterDescription0,Whoring.xml,keyed
+CB_SetToLeaveLetterDescription1,\n{0}将会对我们的好意表示感谢。,CB_SetToLeaveLetterDescription1,Whoring.xml,keyed
+CB_SetToLeaveLetterDescription2,\n我们一般是为了钱而这么做。,CB_SetToLeaveLetterDescription2,Whoring.xml,keyed
+CB_SetToLeaveLetterYes,{0}将会自动加入下一个来自{1}的访问者。,CB_SetToLeaveLetterYes,Whoring.xml,keyed
+CB_SetToLeaveLetterAsk,来自{0}的访问者将会询问是否能带{1}与他们一起离开。,CB_SetToLeaveLetterAsk,Whoring.xml,keyed
+WhoringPaymentTypeSilver,白银,WhoringPaymentTypeSilver,WhoreTab.xml,keyed
+WhoringPaymentTypeFervor,热忱圣点,WhoringPaymentTypeFervor,WhoreTab.xml,keyed
+WhoringPaymentTypeGoodwill,派系好感度,WhoringPaymentTypeGoodwill,WhoreTab.xml,keyed
+WhoringPaymentTypeNothing,无,WhoringPaymentTypeNothing,WhoreTab.xml,keyed
+WhoringPregnancyTypeNormal,正常,WhoringPregnancyTypeNormal,WhoreTab.xml,keyed
+WhoringPregnancyTypeAvoid,避免,WhoringPregnancyTypeAvoid,WhoreTab.xml,keyed
+WhoringPregnancyTypeTry,尝试,WhoringPregnancyTypeTry,WhoreTab.xml,keyed
+WhoringCondomTypeNormal,正常,WhoringCondomTypeNormal,WhoreTab.xml,keyed
+WhoringCondomTypeAlways,戴套,WhoringCondomTypeAlways,WhoreTab.xml,keyed
+WhoringCondomTypeNever,中出,WhoringCondomTypeNever,WhoreTab.xml,keyed
+WhoringTipPrice,  基础: {0}\n  特性: {1}\n  技能点: {2},WhoringTipPrice,WhoreTab.xml,keyed
+WhoringTipBoth,  性别: {0}\n  年龄: {1}\n  伤口: {2},WhoringTipBoth,WhoreTab.xml,keyed
+WhoringTipPaymentTypeSilver,最低收入:\n{0}\n最高收入:\n{1}\n获取:\n{2}\n\n受青楼床铺品质影响。,WhoringTipPaymentTypeSilver,WhoreTab.xml,keyed
+WhoringTipPaymentTypeGoodwill,获得{0}点派系好感度，\n\n受青楼床铺品质影响。,WhoringTipPaymentTypeGoodwill,WhoreTab.xml,keyed
+WhoringTipPaymentTypeFervor,获得{0}点热忱圣点，\n\n受青楼床铺品质影响。,WhoringTipPaymentTypeFervor,WhoreTab.xml,keyed
+WhoringTipNoPayment,没有付钱？,WhoringTipNoPayment,WhoreTab.xml,keyed
+GeneralWhoringSettings,			General Whoring,GeneralWhoringSettings,Whoring.xml,keyed
+WhoringDifficultySettings,\n\n			Whoring Difficulty,WhoringDifficultySettings,Whoring.xml,keyed
+RepopulationismSettings,\n\n			Repopulationism,RepopulationismSettings,Whoring.xml,keyed
+whoringtab_enabled,启用嫖娼选项卡,whoringtab_enabled,Whoring.xml,keyed
+whoringtab_enabled_desc,显示/隐藏嫖娼选项卡,whoringtab_enabled_desc,Whoring.xml,keyed
+show_whore_price_factor_on_bed,显示床铺的价格倍率,show_whore_price_factor_on_bed,Whoring.xml,keyed
+show_whore_price_factor_on_bed_desc,将价格倍率作为标签显示在启用嫖娼的床上。,show_whore_price_factor_on_bed_desc,Whoring.xml,keyed
+show_whore_widgets_on_bed,显示床铺图标,show_whore_widgets_on_bed,Whoring.xml,keyed
+show_whore_widgets_on_bed_desc,显示床铺图标，以标记公共/私人的床铺，供嫖客使用。,show_whore_widgets_on_bed_desc,Whoring.xml,keyed
+NotifyPayment,收钱提示,NotifyPayment,Whoring.xml,keyed
+NotifyPayment_desc,以便您需要寻芳客的付款提示,NotifyPayment_desc,Whoring.xml,keyed
+CanDeliverAllAges,Also allow babies to be handed off at other faction's settlements,CanDeliverAllAges,Whoring.xml,keyed
+CanDeliverAllAges_desc,"A caravan with a repopulation specialist can hand over pawns to other faction's settlement. The intended design is to hand over children that can walk, but some people prefer to also be able to offload babies fresh from the oven.",CanDeliverAllAges_desc,Whoring.xml,keyed
+PreventFatherPurge,Prevent deletion of fathers relevant to Repopulationism (Necessary if using Repopulationism) ,PreventFatherPurge,Whoring.xml,keyed
+PreventFatherPurge_desc,This setting is important for Repopulationism to work properly. The aggressive culling of World-Pawns of 1.6 sometimes deletes fathers before children are born and before they can come to pick up their children.,PreventFatherPurge_desc,Whoring.xml,keyed
+PreventChildPurge,Prevent deletion of children of colonists,PreventChildPurge,Whoring.xml,keyed
+PreventChildPurge_desc,What is the point of Repopulationism if your children instantly get autodeleted by Rimworlds overly aggressive Garbage Collection?,PreventChildPurge_desc,Whoring.xml,keyed
+PreventRelativePurge,阻止移除殖民者亲友关系,PreventRelativePurge,Whoring.xml,keyed
+PreventRelativePurge_desc,此设置对人口复兴观念的运行十分重要，1.6版本对于殖民地外的小人的自动清除有时会在孩子出生前就删除其生父及其他亲属,PreventRelativePurge_desc,Whoring.xml,keyed
+PreventPurgeEvenMore,Attempt to prevent deletion of those selected above by other mods suchs as BetterGC (Dangerous / Needs restart),PreventPurgeEvenMore,Whoring.xml,keyed
+PreventPurgeEvenMore_desc,"Do not turn this on unless needed. Some WorldPawn cleaning mods skip the vanilla validiation of WorldPawns and straight up go to deletion, yet still use the vanilla method to delete them. Enabling this setting will patch that vanilla method in hopes of preserving your friends. Personally I'd recommend disabling those other mods, as vanilla Rimworld 1.6 is already aggressive enough on its own when purging WorldPawns. Toggling needs a restart to take effact.",PreventPurgeEvenMore_desc,Whoring.xml,keyed
+MoneyPrinting,印钱,MoneyPrinting,Whoring.xml,keyed
+MoneyPrinting_desc,访客将直接刷出白银，而不是使用他们随身携带的,MoneyPrinting_desc,Whoring.xml,keyed
+MinimumPrice,最低嫖价,MinimumPrice,Whoring.xml,keyed
+MinimumPrice_desc,如果寻芳客无法付清全价，这是您的娼妓能接受的最低价,MinimumPrice_desc,Whoring.xml,keyed
+PriceMultiplier,嫖价倍率,PriceMultiplier,Whoring.xml,keyed
+PriceMultiplier_desc,嫖价倍率默认设置为1倍。,PriceMultiplier_desc,Whoring.xml,keyed
+AcceptanceLower,最低嫖娼标准,AcceptanceLower,Whoring.xml,keyed
+AcceptanceLower_desc,基础值为0.05，寻芳客将会在最低与最高的区间内生成随机数，若您的娼妓高于此随机数，寻芳客将开始嫖娼。 ,AcceptanceLower_desc,Whoring.xml,keyed
+AcceptanceUpper,"最高嫖娼标准Acceptance, upper boundary",AcceptanceUpper,Whoring.xml,keyed
+AcceptanceUpper_desc,基础值为1，寻芳客将会在最低与最高的区间内生成随机数，若您的娼妓高于此随机数，寻芳客将开始嫖娼。,AcceptanceUpper_desc,Whoring.xml,keyed
+ClientAlwaysAccept,禁用访客RNG,ClientAlwaysAccept,Whoring.xml,keyed
+ClientAlwaysAccept_desc,访客直接同意服务请求，不进行RNG检定。,ClientAlwaysAccept_desc,Whoring.xml,keyed
+GayForPay,只看客户的性取向,GayForPay,Whoring.xml,keyed
+GayForPay_desc,若开启，您的娼妓将会对所有可以接受他们服务的客户提供服务，而不看他们自己的性取向。请注意:除非您有其他mod可以影响他人的性取向，否则一个同性恋娼妓将会很难找到客户。,GayForPay_desc,Whoring.xml,keyed
+AlwaysWilling,色情模式-娼妓将一直接客 ,AlwaysWilling,Whoring.xml,keyed
+AlwaysWilling_desc,若开启，您的娼妓哪怕已经满足也会接客。这将会消除训练及获取足够寻芳客嫖娼的娼妓的游戏内容。 ,AlwaysWilling_desc,Whoring.xml,keyed
+DebugWhoring,收集Debug日志信息,DebugWhoring,Whoring.xml,keyed
+DebugWhoring_desc,Enables 启用调试日志，以帮助发现错误。,DebugWhoring_desc,Whoring.xml,keyed
+ResetSettings,Reset settings to default,ResetSettings,Whoring.xml,keyed
+ResetSettings_desc,Resets all settings to their somewhat balanced default values,ResetSettings_desc,Whoring.xml,keyed
+RJW_VisitorAcceptWhore,{0}接受了{1}提供的服务。,RJW_VisitorAcceptWhore,Whoring.xml,keyed
+RJW_VisitorSolicitWhore,{0}尝试获取{1}的服务。,RJW_VisitorSolicitWhore,Whoring.xml,keyed
+RJW_VisitorRejectWhore,{0}拒绝了{1}提供的服务。,RJW_VisitorRejectWhore,Whoring.xml,keyed
+RJW_VisitorSickWhore,{0}拒绝了{1}的服务，因为他/她看起来状态欠佳。,RJW_VisitorSickWhore,Whoring.xml,keyed
+ForService,设为娼妓,ForService,Whoring.xml,keyed
+ForServiceDesc,"设为娼妓
+- 会尝试与引诱访客。
+- 如果不忙，将招待其他殖民者.
+- 工作中尽量避免自慰，可能会导致寻芳客生气 .
+",ForServiceDesc,Whoring.xml,keyed
+ForServiceRefuseDesc,不愿成为娼妓,ForServiceRefuseDesc,Whoring.xml,keyed
+CommandBedSetAsWhoreBedLabel,允许每个人卖淫,CommandBedSetAsWhoreBedLabel,Whoring.xml,keyed
+CommandBedSetAsWhoreBedDesc,允许所有娼妓使用这张床来招待顾客。,CommandBedSetAsWhoreBedDesc,Whoring.xml,keyed
+CommandBedAllowWhoringLabel,允许拥有者招嫖,CommandBedAllowWhoringLabel,Whoring.xml,keyed
+CommandBedAllowWhoringDesc,是否允许这张床的拥有者招嫖。,CommandBedAllowWhoringDesc,Whoring.xml,keyed
+WhorePriceCalcDesc,嫖客价格因素（基于舒适度、房间印象和房间内的床位数：{0},WhorePriceCalcDesc,Whoring.xml,keyed
+CommandDisableBedTypeIsNotAssignable,此床铺类型无法分配给小人。,CommandDisableBedTypeIsNotAssignable,Whoring.xml,keyed
+WhorePrice,寻芳客的嫖价范围： ,WhorePrice,Whoring.xml,keyed
+BrothelTabIsPrisoner,囚犯,BrothelTabIsPrisoner,Whoring.xml,keyed
+BrothelTabIsSlave,奴隶,BrothelTabIsSlave,Whoring.xml,keyed
+WhoreIsServingVisitors.reportString,服务访客,WhoreIsServingVisitors.reportString,JobDef\Jobs_Whoring.xml,def
+WhoreInvitingVisitors.reportString,尝试拉客,WhoreInvitingVisitors.reportString,JobDef\Jobs_Whoring.xml,def
+CB_SexBaseReceiverClient.reportString,享受中。,CB_SexBaseReceiverClient.reportString,JobDef\Jobs_Whoring.xml,def
+CB_ServingVisitorsForFree.reportString,服务目标。,CB_ServingVisitorsForFree.reportString,JobDef\Jobs_Whoring.xml,def
+CB_BrowseWhores.reportString,查看目标。,CB_BrowseWhores.reportString,JobDef\Jobs_Whoring.xml,def
+CB_BeInspected.reportString,展示自己。,CB_BeInspected.reportString,JobDef\Jobs_Whoring.xml,def
+CB_StandBack.reportString,倾听,CB_StandBack.reportString,JobDef\Jobs_Whoring.xml,def
+CountOfWhore.label,服务次数,CountOfWhore.label,RecordDef\Records.xml,def
+CountOfWhore.description,我进行了多少次服务。,CountOfWhore.description,RecordDef\Records.xml,def
+EarnedMoneyByWhore.label,当娼妓挣来的白银,EarnedMoneyByWhore.label,RecordDef\Records.xml,def
+EarnedMoneyByWhore.description,我当娼妓总共赚了多少白银。,EarnedMoneyByWhore.description,RecordDef\Records.xml,def
+Brothel.label,青楼,Brothel.label,RoomRoleDef\RoomRoles.xml,def
+Brothel.label,拉客,Brothel.label,WorkTypeDef\WorkTypes.xml,def
+WhoringPriceOffset.label,Whoring Price Offset,label,StatDefs\Stats.xml,def
+WhoringPriceOffset.description,Mostly used by other mods to manipulate the final price of whoring.,description,StatDefs\Stats.xml,def
+RJWFailedSolicitation.stages.0.label,试图邀请我,RJWFailedSolicitation.stages.0.label,ThoughtDef\Thoughts_Whore.xml,def
+RJWFailedSolicitation.stages.0.label,试图邀请我嫖娼,RJWFailedSolicitation.stages.0.label,ThoughtDef\Thoughts_WhoreOLD.xml,def
+RJWTurnedDownWhore.stages.0.label,困扰我,RJWTurnedDownWhore.stages.0.label,ThoughtDef\Thoughts_Whore.xml,def
+RJWTurnedDownWhore.stages.0.label,让人困扰,RJWTurnedDownWhore.stages.0.label,ThoughtDef\Thoughts_WhoreOLD.xml,def
+SleptInBrothel.stages.0.label,睡在妓院,SleptInBrothel.stages.0.label,ThoughtDef\Thoughts_Whore.xml,def
+SleptInBrothel.stages.0.label,睡在青楼,SleptInBrothel.stages.0.label,ThoughtDef\Thoughts_WhoreOLD.xml,def
+SleptInBrothel.stages.0.description,哎呀，床单都是黏糊糊的。,SleptInBrothel.stages.0.description,ThoughtDef\Thoughts_Whore.xml,def
+SleptInBrothel.stages.0.description,哎呀，床单都黏糊糊的。,SleptInBrothel.stages.0.description,ThoughtDef\Thoughts_WhoreOLD.xml,def
+SleptInBrothel.stages.1.label,睡在妓院!,SleptInBrothel.stages.1.label,ThoughtDef\Thoughts_Whore.xml,def
+SleptInBrothel.stages.1.label,睡在青楼!,SleptInBrothel.stages.1.label,ThoughtDef\Thoughts_WhoreOLD.xml,def
+SleptInBrothel.stages.1.description,我就是喜欢这个地方，它的味道，它的声音……,SleptInBrothel.stages.1.description,ThoughtDef\Thoughts_Whore.xml,def
+SleptInBrothel.stages.1.description,我就是喜欢这个地方，它的味道，它的声音……,SleptInBrothel.stages.1.description,ThoughtDef\Thoughts_WhoreOLD.xml,def
+BrothelColonyTips.tips.0,您可以在菜单中的“性”选项卡中查看娼妓的费用（图标看起来像个爱心）,BrothelColonyTips.tips.0,TipSetDef\Tips.xml,def
+BrothelColonyTips.tips.1,如果您将套套放在床边的储存柜中，那么它将会被自动使用——如果您打算让您的殖民者卖淫，那么身边备一些套套是个不错的选择。,BrothelColonyTips.tips.1,TipSetDef\Tips.xml,def
+RJW_Brothel.modExtensions.0.label,青楼,RJW_Brothel.modExtensions.0.label,PawnTableDef\PawnTableDefs.xml,def
+Soliciting.label,拉客,Soliciting.label,WorkGiverDef\WorkGivers.xml,def
+Soliciting.verb,拉客中,Soliciting.verb,WorkGiverDef\WorkGivers.xml,def
+Soliciting.gerund,拉客中,Soliciting.gerund,WorkGiverDef\WorkGivers.xml,def
+Brothel.labelShort,拉客,Brothel.labelShort,WorkTypeDef\WorkTypes.xml,def
+Brothel.pawnLabel,娼妓,Brothel.pawnLabel,WorkTypeDef\WorkTypes.xml,def
+Brothel.gerundLabel,拉客,Brothel.gerundLabel,WorkTypeDef\WorkTypes.xml,def
+Brothel.description,娼妓招揽客人来赚钱,Brothel.description,WorkTypeDef\WorkTypes.xml,def
+Brothel.verb,娼妓,Brothel.verb,WorkTypeDef\WorkTypes.xml,def
+RJW_IsWhore.headerTip,娼妓,RJW_IsWhore.headerTip,PawnColumnDef\PawnColumns.xml,def
+RJW_PriceRangeOfWhore.headerTip,娼妓的价格范围,RJW_PriceRangeOfWhore.headerTip,PawnColumnDef\PawnColumns.xml,def
+RJW_PriceRangeOfWhore.label,服务价格,RJW_PriceRangeOfWhore.label,PawnColumnDef\PawnColumns.xml,def
+RJW_EarnedMoneyByWhore.headerTip,卖春总收入,RJW_EarnedMoneyByWhore.headerTip,PawnColumnDef\PawnColumns.xml,def
+RJW_EarnedMoneyByWhore.label,总收入,RJW_EarnedMoneyByWhore.label,PawnColumnDef\PawnColumns.xml,def
+RJW_CountOfWhore.headerTip,服务客户的数量,RJW_CountOfWhore.headerTip,PawnColumnDef\PawnColumns.xml,def
+RJW_CountOfWhore.label,客户,RJW_CountOfWhore.label,PawnColumnDef\PawnColumns.xml,def
+RJW_AverageMoneyByWhore.headerTip,平均单次卖春收入,RJW_AverageMoneyByWhore.headerTip,PawnColumnDef\PawnColumns.xml,def
+RJW_AverageMoneyByWhore.label,平均收入,RJW_AverageMoneyByWhore.label,PawnColumnDef\PawnColumns.xml,def
+RJW_WhoreMood.headerTip,娼妓的心情,RJW_WhoreMood.headerTip,PawnColumnDef\PawnColumns.xml,def
+RJW_WhoreMood.label,心情,RJW_WhoreMood.label,PawnColumnDef\PawnColumns.xml,def
+RJW_WhoringPregnancy.headerTip,备孕：只使用小穴且中出。\n\n正常：无偏好。\n\n避孕：如果没有避孕套则避免使用小穴。,RJW_WhoringPregnancy.headerTip,PawnColumnDef\PawnColumns.xml,def
+RJW_WhoringPregnancy.label,怀孕,RJW_WhoringPregnancy.label,PawnColumnDef\PawnColumns.xml,def
+RJW_WhoringCondom.headerTip,总是：在卖春时戴套，并随身携带至少五个。\n\n正常：在可使用时使用\n\n从不：不会戴套。,RJW_WhoringCondom.headerTip,PawnColumnDef\PawnColumns.xml,def
+RJW_WhoringCondom.label,套套,RJW_WhoringCondom.label,PawnColumnDef\PawnColumns.xml,def
+RJW_WhoringPayment.headerTip,用身体来换好处,RJW_WhoringPayment.headerTip,PawnColumnDef\PawnColumns.xml,def
+RJW_WhoringPayment.label,付款方式,RJW_WhoringPayment.label,PawnColumnDef\PawnColumns.xml,def
+WhoreBackstories.strings.0,性奴,WhoreBackstories.strings.0,WhoreBackstories.xml,def
+WhoreBackstories.strings.1,名妓,WhoreBackstories.strings.1,WhoreBackstories.xml,def
+WhoreBackstories.strings.2,同居者,WhoreBackstories.strings.2,WhoreBackstories.xml,def
+WhoreBackstories.strings.3,模特,WhoreBackstories.strings.3,WhoreBackstories.xml,def
+WhoreBackstories.strings.4,偶像,WhoreBackstories.strings.4,WhoreBackstories.xml,def
+WhoreBackstories.strings.5,女神,WhoreBackstories.strings.5,WhoreBackstories.xml,def
+WhoreBackstories.strings.6,欢愉者,WhoreBackstories.strings.6,WhoreBackstories.xml,def
+WhoreBackstories.strings.7,名妓,WhoreBackstories.strings.7,WhoreBackstories.xml,def
+WhoreBackstories.strings.8,舞者,WhoreBackstories.strings.8,WhoreBackstories.xml,def
+WhoreBackstories.strings.9,虚拟主播,WhoreBackstories.strings.9,WhoreBackstories.xml,def
+WhoreBackstories.strings.10,娼妓,WhoreBackstories.strings.10,WhoreBackstories.xml,def
+WhoreBackstories.strings.11,种女,WhoreBackstories.strings.11,WhoreBackstories.xml,def
+RJW_WhoreExperience.label,经验,RJW_WhoreExperience.label,PawnColumnDef\PawnColumns.xml,def
+RJW_WhoreExperience.headerTip,娼妓的经验,RJW_WhoreExperience.headerTip,PawnColumnDef\PawnColumns.xml,def
+Whorish_Thoughts.stages.0.label,愤怒的妓女,Whorish_Thoughts.stages.0.label,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts.stages.0.label,愤怒的娼妓,Whorish_Thoughts.stages.0.label,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Whorish_Thoughts.stages.0.description,我们只是要钱!我不是…,Whorish_Thoughts.stages.0.description,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts.stages.0.description,我们只卖身!我不是…,Whorish_Thoughts.stages.0.description,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Whorish_Thoughts.stages.1.label,妓女,Whorish_Thoughts.stages.1.label,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts.stages.1.label,娼妓,Whorish_Thoughts.stages.1.label,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Whorish_Thoughts.stages.1.description,好吧，至少薪水不错……,Whorish_Thoughts.stages.1.description,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts.stages.1.description,好吧，至少薪水不错……,Whorish_Thoughts.stages.1.description,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Whorish_Thoughts.stages.2.label,妓女,Whorish_Thoughts.stages.2.label,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts.stages.2.label,娼妓,Whorish_Thoughts.stages.2.label,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Whorish_Thoughts.stages.2.description,这工作还不算太糟!,Whorish_Thoughts.stages.2.description,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts.stages.2.description,这工作还不算太糟!,Whorish_Thoughts.stages.2.description,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Whorish_Thoughts_Captive.stages.0.label,强迫的妓女,Whorish_Thoughts_Captive.stages.0.label,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts_Captive.stages.0.label,被迫当娼妓,Whorish_Thoughts_Captive.stages.0.label,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Whorish_Thoughts_Captive.stages.0.description,他们强迫我当性玩具!,Whorish_Thoughts_Captive.stages.0.description,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts_Captive.stages.0.description,他们强迫我卖淫!,Whorish_Thoughts_Captive.stages.0.description,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Whorish_Thoughts_Captive.stages.1.label,不情愿的妓女,Whorish_Thoughts_Captive.stages.1.label,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts_Captive.stages.1.label,不情愿的娼妓,Whorish_Thoughts_Captive.stages.1.label,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Whorish_Thoughts_Captive.stages.1.description,我不是出租车!,Whorish_Thoughts_Captive.stages.1.description,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts_Captive.stages.1.description,我不是公交车!,Whorish_Thoughts_Captive.stages.1.description,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Whorish_Thoughts_Captive.stages.2.label,习惯的妓女,Whorish_Thoughts_Captive.stages.2.label,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts_Captive.stages.2.label,习惯的娼妓,Whorish_Thoughts_Captive.stages.2.label,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Whorish_Thoughts_Captive.stages.2.description,请不要打我。,Whorish_Thoughts_Captive.stages.2.description,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts_Captive.stages.2.description,请不要打我。,Whorish_Thoughts_Captive.stages.2.description,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Whorish_Thoughts_Captive.stages.3.label,彻底的妓女,Whorish_Thoughts_Captive.stages.3.label,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts_Captive.stages.3.label,老练的娼妓,Whorish_Thoughts_Captive.stages.3.label,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Whorish_Thoughts_Captive.stages.3.description,如果没有这些束缚，我可以得到更多的客户!,Whorish_Thoughts_Captive.stages.3.description,rjwwhoring.ThoughtDef_Whore\Thoughts_Whore.xml,def
+Whorish_Thoughts_Captive.stages.3.description,如果没有这些束缚，我可以得到更多的客户!,Whorish_Thoughts_Captive.stages.3.description,ThoughtDef\Thoughts_WhoreOLD.xml,def
+Brothel.relatedStats.0,美观度,Brothel.relatedStats.0,RoomRoleDef\RoomRoles.xml,def
+Brothel.relatedStats.1,洁净度,Brothel.relatedStats.1,RoomRoleDef\RoomRoles.xml,def
+Brothel.relatedStats.2,财富值,Brothel.relatedStats.2,RoomRoleDef\RoomRoles.xml,def
+Brothel.relatedStats.3,大小,Brothel.relatedStats.3,RoomRoleDef\RoomRoles.xml,def
+Brothel.relatedStats.4,印象等级,Brothel.relatedStats.4,RoomRoleDef\RoomRoles.xml,def
+Soliciting.requiredCapacities,聊天中,Soliciting.requiredCapacities,WorkGiverDef\WorkGivers.xml,def

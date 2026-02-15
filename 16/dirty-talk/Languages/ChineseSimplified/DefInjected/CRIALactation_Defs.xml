@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: milking-question-->
+  <Milking_Question.label>挤奶-问题</Milking_Question.label>
+  <!--EN: r_logentry(INITIATOR_thoughtLabel==producing milk, tag=Milking_Questiona, priority=1)->[is_milkproducing]-->
+  <Milking_Question.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_thoughtLabel==producing milk, tag=挤奶_Questiona, priority=1)->[is_milkproducing]</Milking_Question.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry(INITIATOR_thoughtLabel==producing milk, tag=Milking_Questiona, priority=1)->[is_milkproducing]-->
+  <Milking_Question.logRulesInitiator.rulesStrings.1>r_logentry(INITIATOR_thoughtLabel==producing milk, tag=挤奶_Questiona, priority=1)->[is_milkproducing]</Milking_Question.logRulesInitiator.rulesStrings.1>
+  <!--EN: not_milkproducing(INITIATOR_opinion>=25)->My [boobs] just can't compare to your [breastcompliment] [boobs]!-->
+  <Milking_Question.logRulesInitiator.rulesStrings.10>not_milkproducing(INITIATOR_opinion>=25)-> 我的[boobs]无法与你的相比[breastcompliment][boobs]</Milking_Question.logRulesInitiator.rulesStrings.10>
+  <!--EN: not_milkproducing(INITIATOR_opinion<=-25)->They aren't [milkproducing] at all and you know it, [counterpart]!-->
+  <Milking_Question.logRulesInitiator.rulesStrings.11>not_milkproducing(INITIATOR_opinio<=-25)-> 他们不是[milkproducing]你也知道的,[counterpart]</Milking_Question.logRulesInitiator.rulesStrings.11>
+  <!--EN: not_milkproducing->They're not [milkproducing] at all, [counterpart]! It's [milkterrible]!-->
+  <Milking_Question.logRulesInitiator.rulesStrings.12>not_milkproducing->他们不是[milkproducing]完全可以,[counterpart]它是[milkterrible]</Milking_Question.logRulesInitiator.rulesStrings.12>
+  <!--EN: not_milkproducing->There's no milk coming out at all! It's [milkterrible]!-->
+  <Milking_Question.logRulesInitiator.rulesStrings.13>not_milkproducing->根本没有产出任何产物!它是[milkterrible]</Milking_Question.logRulesInitiator.rulesStrings.13>
+  <!--EN: r_logentry->...-->
+  <Milking_Question.logRulesInitiator.rulesStrings.14>r_logentry->...</Milking_Question.logRulesInitiator.rulesStrings.14>
+  <!--EN: is_milkproducing(INITIATOR_opinion>=25)->They're [milkproducing] wonderfully, [counterpart]!-->
+  <Milking_Question.logRulesInitiator.rulesStrings.2>is_milkproducing(INITIATOR_opinion>=25)-> 他们是[milkproducing]不可思议,[counterpart]</Milking_Question.logRulesInitiator.rulesStrings.2>
+  <!--EN: is_milkproducing(INITIATOR_opinion>=25)->They're [milkproducing] wonderfully, thank you!-->
+  <Milking_Question.logRulesInitiator.rulesStrings.3>is_milkproducing(INITIATOR_opinion>=25)-> 他们是[milkproducing]太棒了，谢谢!</Milking_Question.logRulesInitiator.rulesStrings.3>
+  <!--EN: is_milkproducing(INITIATOR_opinion<=-25)->They're [milkproducing] more than your [boobs] possibly could, [counterpart]!-->
+  <Milking_Question.logRulesInitiator.rulesStrings.4>is_milkproducing(INITIATOR_opinio<=-25)-> 他们是[milkproducing]比你的更多[boobs]可能有,[counterpart]</Milking_Question.logRulesInitiator.rulesStrings.4>
+  <!--EN: is_milkproducing->They're [milkproducing] well, [counterpart].-->
+  <Milking_Question.logRulesInitiator.rulesStrings.5>is_milkproducing->他们是[milkproducing]嗯,[counterpart]</Milking_Question.logRulesInitiator.rulesStrings.5>
+  <!--EN: is_milkproducing->These [boobs] are [milkproducing] well, it feels great!-->
+  <Milking_Question.logRulesInitiator.rulesStrings.6>is_milkproducing->这些[boobs]是[milkproducing]嗯，感觉棒极了!</Milking_Question.logRulesInitiator.rulesStrings.6>
+  <!--EN: is_milkproducing->The [milkproduction] is coming along nicely, [counterpart].-->
+  <Milking_Question.logRulesInitiator.rulesStrings.7>is_milkproducing->该[milkproduction]进展顺利,[counterpart]</Milking_Question.logRulesInitiator.rulesStrings.7>
+  <!--EN: r_logentry(INITIATOR_thoughtLabel==not producing milk, tag=Milking_Questionb, priority=1)->[not_milkproducing]-->
+  <Milking_Question.logRulesInitiator.rulesStrings.8>r_logentry(INITIATOR_thoughtLabel==not producing milk, tag=挤奶_Questionb, priority=1)->[not_milkproducing]</Milking_Question.logRulesInitiator.rulesStrings.8>
+  <!--EN: not_milkproducing(INITIATOR_opinion>=25)->They're not [milkproducing] at all, [counterpart]! It's [milkterrible]!-->
+  <Milking_Question.logRulesInitiator.rulesStrings.9>not_milkproducing(INITIATOR_opinion>=25)-> 他们不是[milkproducing]完全可以,[counterpart]它是[milkterrible]</Milking_Question.logRulesInitiator.rulesStrings.9>
+  <!--EN: milking-question-->
+  <Milking_Questiona.label>挤奶-问题</Milking_Questiona.label>
+  <!--EN: r_logentry(INITIATOR_thoughtLabel==producing milk, priority=1)->[is_milkproducing]-->
+  <Milking_Questiona.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_thoughtLabel==producing milk, priority=1)->[is_milkproducing]</Milking_Questiona.logRulesInitiator.rulesStrings.0>
+  <!--EN: is_milkproducing(INITIATOR_opinion>=25)->That's great! My [boobs] are [milkproducing] nicely too!-->
+  <Milking_Questiona.logRulesInitiator.rulesStrings.1>is_milkproducing(INITIATOR_opinion>=25)-> 太棒了!我的[boobs]是[milkproducing]太棒了!</Milking_Questiona.logRulesInitiator.rulesStrings.1>
+  <!--EN: is_milkproducing(INITIATOR_opinion<=-25)->I should hope so...-->
+  <Milking_Questiona.logRulesInitiator.rulesStrings.2>is_milkproducing(INITIATOR_opinio<=-25)-> 我希望如此...</Milking_Questiona.logRulesInitiator.rulesStrings.2>
+  <!--EN: is_milkproducing->That's good, [counterpart]. Mine are too.-->
+  <Milking_Questiona.logRulesInitiator.rulesStrings.3>is_milkproducing->不错,[counterpart]我的也是。</Milking_Questiona.logRulesInitiator.rulesStrings.3>
+  <!--EN: is_milkproducing->My [boobs] are [milkproducing] well too, doesn't it feel nice?-->
+  <Milking_Questiona.logRulesInitiator.rulesStrings.4>is_milkproducing->我的[boobs]是[milkproducing]嗯，也是，感觉不是很好吗？</Milking_Questiona.logRulesInitiator.rulesStrings.4>
+  <!--EN: r_logentry(INITIATOR_thoughtLabel==not producing milk, priority=1)->[not_milkproducing]-->
+  <Milking_Questiona.logRulesInitiator.rulesStrings.5>r_logentry(INITIATOR_thoughtLabel==not producing milk, priority=1)->[not_milkproducing]</Milking_Questiona.logRulesInitiator.rulesStrings.5>
+  <!--EN: not_milkproducing(INITIATOR_opinion>=25)->My [boobs] just can't compare to your [breastcompliment] [boobs]!-->
+  <Milking_Questiona.logRulesInitiator.rulesStrings.6>not_milkproducing(INITIATOR_opinion>=25)-> 我的[boobs]无法与你的相比[breastcompliment][boobs]</Milking_Questiona.logRulesInitiator.rulesStrings.6>
+  <!--EN: not_milkproducing(INITIATOR_opinion<=-25)->Your [boobs] are [milkproducing] better than mine? [milkterrible]!-->
+  <Milking_Questiona.logRulesInitiator.rulesStrings.7>not_milkproducing(INITIATOR_opinio<=-25)-> 你的[boobs]是[milkproducing]比我的好？[milkterrible]</Milking_Questiona.logRulesInitiator.rulesStrings.7>
+  <!--EN: not_milkproducing->I'm jealous!-->
+  <Milking_Questiona.logRulesInitiator.rulesStrings.8>not_milkproducing->我有多嫉妒了!</Milking_Questiona.logRulesInitiator.rulesStrings.8>
+  <!--EN: r_logentry->...-->
+  <Milking_Questiona.logRulesInitiator.rulesStrings.9>r_logentry->...</Milking_Questiona.logRulesInitiator.rulesStrings.9>
+  <!--EN: milking-question-->
+  <Milking_Questionb.label>挤奶-问题</Milking_Questionb.label>
+  <!--EN: r_logentry(INITIATOR_thoughtLabel==producing milk, priority=1)->[is_milkproducing]-->
+  <Milking_Questionb.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_thoughtLabel==producing milk, priority=1)->[is_milkproducing]</Milking_Questionb.logRulesInitiator.rulesStrings.0>
+  <!--EN: is_milkproducing(INITIATOR_opinion>=25)->Your [breastcompliment] [boobs] will give us plenty of tasty milk soon enough, [counterpart]!-->
+  <Milking_Questionb.logRulesInitiator.rulesStrings.1>is_milkproducing(INITIATOR_opinion>=25)-> 你的[breastcompliment][boobs]很快就会得到很多鲜美的牛奶,[counterpart]</Milking_Questionb.logRulesInitiator.rulesStrings.1>
+  <!--EN: is_milkproducing(INITIATOR_opinion<=-25)->You should be ashamed, [counterpart]!-->
+  <Milking_Questionb.logRulesInitiator.rulesStrings.2>is_milkproducing(INITIATOR_opinio<=-25)-> 你应该感到羞耻,[counterpart]</Milking_Questionb.logRulesInitiator.rulesStrings.2>
+  <!--EN: is_milkproducing->I'm sure your [boobs] will get there, [counterpart].-->
+  <Milking_Questionb.logRulesInitiator.rulesStrings.3>is_milkproducing->我敢肯定你的[boobs]会到达那里,[counterpart]</Milking_Questionb.logRulesInitiator.rulesStrings.3>
+  <!--EN: r_logentry(INITIATOR_thoughtLabel==not producing milk, priority=1)->[not_milkproducing]-->
+  <Milking_Questionb.logRulesInitiator.rulesStrings.4>r_logentry(INITIATOR_thoughtLabel==not producing milk, priority=1)->[not_milkproducing]</Milking_Questionb.logRulesInitiator.rulesStrings.4>
+  <!--EN: not_milkproducing(INITIATOR_opinion>=25)->My [boobs] are dry too, [counterpart]! It is [milkterrible]!-->
+  <Milking_Questionb.logRulesInitiator.rulesStrings.5>not_milkproducing(INITIATOR_opinion>=25)-> 我的[boobs]也干,[counterpart]的确如此[milkterrible]</Milking_Questionb.logRulesInitiator.rulesStrings.5>
+  <!--EN: not_milkproducing(INITIATOR_opinion<=-25)->At least you're not [milkproducing] better than me...-->
+  <Milking_Questionb.logRulesInitiator.rulesStrings.6>not_milkproducing(INITIATOR_opinio<=-25)-> 至少你不是[milkproducing]比我强...</Milking_Questionb.logRulesInitiator.rulesStrings.6>
+  <!--EN: not_milkproducing->I'm in the same boat, [counterpart]!-->
+  <Milking_Questionb.logRulesInitiator.rulesStrings.7>not_milkproducing->我的处境相同,[counterpart]</Milking_Questionb.logRulesInitiator.rulesStrings.7>
+  <!--EN: r_logentry->...-->
+  <Milking_Questionb.logRulesInitiator.rulesStrings.8>r_logentry->...</Milking_Questionb.logRulesInitiator.rulesStrings.8>
+</LanguageData>

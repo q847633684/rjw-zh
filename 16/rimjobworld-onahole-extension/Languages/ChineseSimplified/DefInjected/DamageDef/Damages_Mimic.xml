@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '触手鞭打', 原英文: '无' -> 新英文: 'tentacle',更新于2026-02-14-->
+  <!--EN: tentacle-->
+  <Onahole_TentacleWhip.label>触手鞭打</Onahole_TentacleWhip.label>
+  <!--原中文: '{0}被触手鞭打致死。', 原英文: '无' -> 新英文: '{0} has been whipped to death.',更新于2026-02-14-->
+  <!--EN: {0} has been whipped to death.-->
+  <Onahole_TentacleWhip.deathMessage>{0}被触手鞭打致死。</Onahole_TentacleWhip.deathMessage>
+</LanguageData>

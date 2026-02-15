@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Personal -->
+
+  <CB_Repopulation_GivenAway_Duty_Sacred.stages.0.label>神圣重新填充</CB_Repopulation_GivenAway_Duty_Sacred.stages.0.label>
+  <CB_Repopulation_GivenAway_Duty_Sacred.stages.0.description>又一位神圣之子被送入世间</CB_Repopulation_GivenAway_Duty_Sacred.stages.0.description>
+
+  <CB_Repopulation_GivenAway_Duty_Essential.stages.0.label>重新填充</CB_Repopulation_GivenAway_Duty_Essential.stages.0.label>
+  <CB_Repopulation_GivenAway_Duty_Essential.stages.0.description>又一个孩子被送到这个世界</CB_Repopulation_GivenAway_Duty_Essential.stages.0.description>
+
+  <CB_Repopulation_GivenAway_Duty.stages.0.label>孩子被送走</CB_Repopulation_GivenAway_Duty.stages.0.label>
+  <CB_Repopulation_GivenAway_Duty.stages.0.description>又一个孩子被送到这个世界</CB_Repopulation_GivenAway_Duty.stages.0.description>
+
+  <CB_Repopulation_GivenAway.stages.0.label>神圣的重新填充</CB_Repopulation_GivenAway.stages.0.label>
+  <CB_Repopulation_GivenAway.stages.0.description>又一位神童被送入人间</CB_Repopulation_GivenAway.stages.0.description>
+  <CB_Repopulation_GivenAway.stages.1.label>重新填充</CB_Repopulation_GivenAway.stages.1.label>
+  <CB_Repopulation_GivenAway.stages.1.description>又一个孩子被送到这个世界</CB_Repopulation_GivenAway.stages.1.description>
+  <CB_Repopulation_GivenAway.stages.2.label>孩子被送走</CB_Repopulation_GivenAway.stages.2.label>
+  <CB_Repopulation_GivenAway.stages.2.description>少了一张嘴</CB_Repopulation_GivenAway.stages.2.description>
+  <CB_Repopulation_GivenAway.stages.3.label>孩子被送走</CB_Repopulation_GivenAway.stages.3.label>
+  <CB_Repopulation_GivenAway.stages.3.description>我们为什么要这样做？</CB_Repopulation_GivenAway.stages.3.description>
+  <CB_Repopulation_GivenAway.stages.4.label>孩子被送走</CB_Repopulation_GivenAway.stages.4.label>
+  <CB_Repopulation_GivenAway.stages.4.description>我们为什么要这样做？</CB_Repopulation_GivenAway.stages.4.description>
+
+  <CB_Repopulation_MyChild_Know_Duty.stages.0.label>我的孩子被送走</CB_Repopulation_MyChild_Know_Duty.stages.0.label>
+  <CB_Repopulation_MyChild_Know_Duty.stages.0.description>最神圣的职责是重新填充</CB_Repopulation_MyChild_Know_Duty.stages.0.description>
+  <CB_Repopulation_MyChild_Know_Duty.stages.1.label>我的孩子被送走</CB_Repopulation_MyChild_Know_Duty.stages.1.label>
+  <CB_Repopulation_MyChild_Know_Duty.stages.1.description>重新填充是一项重要职责</CB_Repopulation_MyChild_Know_Duty.stages.1.description>
+  <CB_Repopulation_MyChild_Know_Duty.stages.2.label>我的孩子被送走</CB_Repopulation_MyChild_Know_Duty.stages.2.label>
+  <CB_Repopulation_MyChild_Know_Duty.stages.2.description>它必须是我的吗？</CB_Repopulation_MyChild_Know_Duty.stages.2.description>
+  <CB_Repopulation_MyChild_Know_Duty.stages.3.label>我的孩子被送走</CB_Repopulation_MyChild_Know_Duty.stages.3.label>
+  <CB_Repopulation_MyChild_Know_Duty.stages.3.description>他们把我的孩子送走了！</CB_Repopulation_MyChild_Know_Duty.stages.3.description>
+  <CB_Repopulation_MyChild_Know_Duty.stages.4.label>我的孩子被送走</CB_Repopulation_MyChild_Know_Duty.stages.4.label>
+  <CB_Repopulation_MyChild_Know_Duty.stages.4.description>他们把我的孩子送走了！</CB_Repopulation_MyChild_Know_Duty.stages.4.description>
+
+  <CB_Repopulation_MyChild_Know.stages.0.label>我的孩子被送走</CB_Repopulation_MyChild_Know.stages.0.label>
+  <CB_Repopulation_MyChild_Know.stages.0.description>最神圣的职责是重新填充</CB_Repopulation_MyChild_Know.stages.0.description>
+  <CB_Repopulation_MyChild_Know.stages.1.label>我的孩子被送走</CB_Repopulation_MyChild_Know.stages.1.label>
+  <CB_Repopulation_MyChild_Know.stages.1.description>重新填充是一项重要职责</CB_Repopulation_MyChild_Know.stages.1.description>
+  <CB_Repopulation_MyChild_Know.stages.2.label>我的孩子被送走</CB_Repopulation_MyChild_Know.stages.2.label>
+  <CB_Repopulation_MyChild_Know.stages.2.description>它必须是我的吗？</CB_Repopulation_MyChild_Know.stages.2.description>
+  <CB_Repopulation_MyChild_Know.stages.3.label>我的孩子被送走</CB_Repopulation_MyChild_Know.stages.3.label>
+  <CB_Repopulation_MyChild_Know.stages.3.description>他们把我的孩子送走了！</CB_Repopulation_MyChild_Know.stages.3.description>
+  <CB_Repopulation_MyChild_Know.stages.4.label>我的孩子被送走</CB_Repopulation_MyChild_Know.stages.4.label>
+  <CB_Repopulation_MyChild_Know.stages.4.description>他们把我的孩子送走了！</CB_Repopulation_MyChild_Know.stages.4.description>
+
+  <CB_Repopulation_RefusedGivenAway.stages.0.label>神童版主</CB_Repopulation_RefusedGivenAway.stages.0.label>
+  <CB_Repopulation_RefusedGivenAway.stages.0.description>是他们走进这个世界的时候了，我们拒绝了</CB_Repopulation_RefusedGivenAway.stages.0.description>
+  <CB_Repopulation_RefusedGivenAway.stages.1.label>儿童扣留</CB_Repopulation_RefusedGivenAway.stages.1.label>
+  <CB_Repopulation_RefusedGivenAway.stages.1.description>我们违反了协议</CB_Repopulation_RefusedGivenAway.stages.1.description>
+  <CB_Repopulation_RefusedGivenAway.stages.2.label>儿童扣留</CB_Repopulation_RefusedGivenAway.stages.2.label>
+  <CB_Repopulation_RefusedGivenAway.stages.2.description>我们违反了协议</CB_Repopulation_RefusedGivenAway.stages.2.description>
+  <CB_Repopulation_RefusedGivenAway.stages.3.label>儿童扣留</CB_Repopulation_RefusedGivenAway.stages.3.label>
+  <CB_Repopulation_RefusedGivenAway.stages.3.description>我们违反了协议</CB_Repopulation_RefusedGivenAway.stages.3.description>
+  <CB_Repopulation_RefusedGivenAway.stages.4.label>儿童扣留</CB_Repopulation_RefusedGivenAway.stages.4.label>
+  <CB_Repopulation_RefusedGivenAway.stages.4.description>我们根本不应该考虑这个</CB_Repopulation_RefusedGivenAway.stages.4.description>
+
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.0.label>神童版主</CB_Repopulation_RefusedGivenAway_Duty.stages.0.label>
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.0.description>是他们走向世界的时候了，我们拒绝了</CB_Repopulation_RefusedGivenAway_Duty.stages.0.description>
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.1.label>扣留儿童</CB_Repopulation_RefusedGivenAway_Duty.stages.1.label>
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.1.description>我们违反了协议</CB_Repopulation_RefusedGivenAway_Duty.stages.1.description>
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.2.label>扣留儿童</CB_Repopulation_RefusedGivenAway_Duty.stages.2.label>
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.2.description>我们违反了协议</CB_Repopulation_RefusedGivenAway_Duty.stages.2.description>
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.3.label>扣留儿童</CB_Repopulation_RefusedGivenAway_Duty.stages.3.label>
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.3.description>我们违反了协议</CB_Repopulation_RefusedGivenAway_Duty.stages.3.description>
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.4.label>扣留儿童</CB_Repopulation_RefusedGivenAway_Duty.stages.4.label>
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.4.description>我们根本不应该考虑这个</CB_Repopulation_RefusedGivenAway_Duty.stages.4.description>
+
+
+  <!-- Colony wide -->
+
+  <CB_Repopulation_Required.stages.0.label>正在重新填充</CB_Repopulation_Required.stages.0.label>
+  <CB_Repopulation_Required.stages.0.description>我们正在履行重新填充这个星球的责任</CB_Repopulation_Required.stages.0.description>
+  <CB_Repopulation_Required.stages.1.label>不重新填充</CB_Repopulation_Required.stages.1.label>
+  <CB_Repopulation_Required.stages.1.description>我们没有履行重新填充这个星球的责任</CB_Repopulation_Required.stages.1.description>
+
+
+  <!--殖民地范围 -->
+
+</LanguageData>

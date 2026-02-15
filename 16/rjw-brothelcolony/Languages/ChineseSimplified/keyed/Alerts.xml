@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <AlertFaultyDefaultLabel>RJW - 妓院</AlertFaultyDefaultLabel>
+  <!--原中文: '{0} 卖身工作已开启。但未在青楼界面被设置成娼妓。', 原英文: '无' -> 新英文: '{0} has the work type enabled, yet is not set as whore in the brothel tab.',更新于2026-02-14-->
+  <!--EN: {0} has the work type enabled, yet is not set as whore in the brothel tab.-->
+  <AlertFaultyWhoreBrothelTabCheckbox>{0} 卖身工作已开启。但未在青楼界面被设置成娼妓。</AlertFaultyWhoreBrothelTabCheckbox>
+  <!--原中文: '{0} 需要套套。', 原英文: '无' -> 新英文: '{0} was told to use condoms, but currently has none.',更新于2026-02-14-->
+  <!--EN: {0} was told to use condoms, but currently has none.-->
+  <AlertFaultyWhoreNoCondoms>{0} 需要套套。</AlertFaultyWhoreNoCondoms>
+  <!--原中文: '{0} 想怀孕，但被要求使用避孕套.', 原英文: '无' -> 新英文: '{0} was told to use condoms, yet also to try for pregnancy.',更新于2026-02-14-->
+  <!--EN: {0} was told to use condoms, yet also to try for pregnancy.-->
+  <AlertFaultyWhoreCondomsWithPregnancy>{0} 想怀孕，但被要求使用避孕套.</AlertFaultyWhoreCondomsWithPregnancy>
+</LanguageData>

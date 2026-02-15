@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '肆意强奸', 原英文: '无' -> 新英文: 'random rape',更新于2026-02-14-->
+  <!--EN: random rape-->
+  <RandomRape.label>肆意强奸</RandomRape.label>
+  <!--原中文: '肆意强奸', 原英文: '无' -> 新英文: 'random rape',更新于2026-02-14-->
+  <!--EN: random rape-->
+  <RandomRape.beginLetterLabel>肆意强奸</RandomRape.beginLetterLabel>
+  <!--原中文: '{0}饥渴难耐，打算随便找个目标强奸。', 原英文: '无' -> 新英文: '{0} is sexually frustrated and is looking to a rape someone.',更新于2026-02-14-->
+  <!--EN: {0} is sexually frustrated and is looking to a rape someone.-->
+  <RandomRape.beginLetter>{0}饥渴难耐，打算随便找个目标强奸。</RandomRape.beginLetter>
+  <!--原中文: '{0}的性欲被满足了，不再肆意强奸他人。', 原英文: '无' -> 新英文: '{0} is no longer raping randomly.',更新于2026-02-14-->
+  <!--EN: {0} is no longer raping randomly.-->
+  <RandomRape.recoveryMessage>{0}的性欲被满足了，不再肆意强奸他人。</RandomRape.recoveryMessage>
+  <!--原中文: '精神状态：肆意强奸', 原英文: '无' -> 新英文: 'Mental state: Random Rape',更新于2026-02-14-->
+  <!--EN: Mental state: Random Rape-->
+  <RandomRape.baseInspectLine>精神状态：肆意强奸</RandomRape.baseInspectLine>
+</LanguageData>

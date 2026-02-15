@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '强迫逆口交', 原英文: '无' -> 新英文: 'fellatio',更新于2026-02-14-->
+  <!--EN: fellatio-->
+  <Rape_Reverse_Fellatio.label>强迫逆口交</Rape_Reverse_Fellatio.label>
+  <!--原中文: '为其口交', 原英文: '无' -> 新英文: 'Do fellatio',更新于2026-02-14-->
+  <!--EN: Do fellatio-->
+  <Rape_Reverse_Fellatio.modExtensions.0.RMBLabel>为其口交</Rape_Reverse_Fellatio.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->用小嘴毫不留情地榨干了[RECIPIENT_nameDef]的阴茎。', 原英文: '无' -> 新英文: 'r_logentry->Forcefully fellated [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Forcefully fellated [RECIPIENT_nameDef].-->
+  <Rape_Reverse_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->用小嘴毫不留情地榨干了[RECIPIENT_nameDef]的阴茎。</Rape_Reverse_Fellatio.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->被[INITIATOR_nameDef]用嘴毫不留情榨干了阴茎。', 原英文: '无' -> 新英文: 'r_logentry->Was forcibly fellated by [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Was forcibly fellated by [INITIATOR_nameDef].-->
+  <Rape_Reverse_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]用嘴毫不留情榨干了阴茎。</Rape_Reverse_Fellatio.logRulesRecipient.rulesStrings.0>
+</LanguageData>

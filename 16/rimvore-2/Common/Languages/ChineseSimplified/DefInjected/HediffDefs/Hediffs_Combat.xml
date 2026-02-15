@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: This pawn has been grappled and thrown to the ground, they will need a bit to get up again, which makes them susceptible to being vored!-->
+  <RV2_Grappled.description>这个pawn被抓并扔到地上后，他们需要一点时间才能再次站起来，这使得他们容易被伏击!</RV2_Grappled.description>
+  <!--EN: Grappled-->
+  <RV2_Grappled.label>格斗</RV2_Grappled.label>
+</LanguageData>

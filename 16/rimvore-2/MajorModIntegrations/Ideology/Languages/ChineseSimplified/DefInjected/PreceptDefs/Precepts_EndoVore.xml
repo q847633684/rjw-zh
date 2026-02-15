@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Endo Vore-->
+  <RV2_EndoVore.label>接上吃人</RV2_EndoVore.label>
+  <!--EN: Voring others without fatal intent is an affront to our belief.-->
+  <RV2_EndoVore_Abhorrent.description>无罪是对我们信仰的亵渎。</RV2_EndoVore_Abhorrent.description>
+  <!--EN: abhorrent-->
+  <RV2_EndoVore_Abhorrent.label>厌恶</RV2_EndoVore_Abhorrent.label>
+  <!--EN: I participated in endo vore when it is against my ideology. I feel horrible.-->
+  <RV2_EndoVore_Abhorrent.stages.0.description>我参加了 endovore当这违背了我的文化形态时。我感觉很糟糕。</RV2_EndoVore_Abhorrent.stages.0.description>
+  <!--EN: Endo vore-->
+  <RV2_EndoVore_Abhorrent.stages.0.label>接上吃人</RV2_EndoVore_Abhorrent.stages.0.label>
+  <!--EN: Not killing our prey is not okay.-->
+  <RV2_EndoVore_Disliked.description>没有杀死猎物是不好的。</RV2_EndoVore_Disliked.description>
+  <!--EN: disliked-->
+  <RV2_EndoVore_Disliked.label>反感</RV2_EndoVore_Disliked.label>
+  <!--EN: I should not have done that, my ideology discourages it-->
+  <RV2_EndoVore_Disliked.stages.0.description>我不应该那样做，我的文化让我不鼓励</RV2_EndoVore_Disliked.stages.0.description>
+  <!--EN: I participated in endo vore-->
+  <RV2_EndoVore_Disliked.stages.0.label>我参加了 endovore</RV2_EndoVore_Disliked.stages.0.label>
+  <!--EN: One of us endo vored someone, this is a disgusting insult to our beliefs!-->
+  <RV2_EndoVore_Know_Abhorrent.stages.0.description>我们中的一位远行的殖民者将人背弃了，这是对我们信仰的侮辱!</RV2_EndoVore_Know_Abhorrent.stages.0.description>
+  <!--EN: Someone endo vored!!-->
+  <RV2_EndoVore_Know_Abhorrent.stages.0.label>有人在 endo 中被洗劫一空!!</RV2_EndoVore_Know_Abhorrent.stages.0.label>
+  <!--EN: endo vore participant-->
+  <RV2_EndoVore_Know_Disliked.stages.0.label>接上吃人参与者</RV2_EndoVore_Know_Disliked.stages.0.label>
+  <!--EN: endo-vored-->
+  <RV2_EndoVore_Know_Liked.stages.0.label>已被强化</RV2_EndoVore_Know_Liked.stages.0.label>
+  <!--EN: One of our members vored without malicious intent, a very respectable act!-->
+  <RV2_EndoVore_Know_Required.stages.0.description>我们的一名成员无怨无悔地游荡，这是一种非常可敬的行为!</RV2_EndoVore_Know_Required.stages.0.description>
+  <!--EN: Someone endo vored!-->
+  <RV2_EndoVore_Know_Required.stages.0.label>有人 endo 被洗劫一空!</RV2_EndoVore_Know_Required.stages.0.label>
+  <!--EN: endo-vored-->
+  <RV2_EndoVore_Know_Social_Abhorrent.stages.0.label>已被强化</RV2_EndoVore_Know_Social_Abhorrent.stages.0.label>
+  <!--EN: divine endo lover-->
+  <RV2_EndoVore_Know_Social_Required.stages.0.label>神圣远行情人</RV2_EndoVore_Know_Social_Required.stages.0.label>
+  <!--EN: Endo vore is to be praised and encouraged.-->
+  <RV2_EndoVore_Liked.description>接上吃人受到表扬和鼓励。</RV2_EndoVore_Liked.description>
+  <!--EN: liked-->
+  <RV2_EndoVore_Liked.label>喜爱</RV2_EndoVore_Liked.label>
+  <!--EN: Partaking in this divine art fills me with joy-->
+  <RV2_EndoVore_Liked.stages.0.description>参与这神圣的艺术使我感到愉悦</RV2_EndoVore_Liked.stages.0.description>
+  <!--EN: I participated in endo vore-->
+  <RV2_EndoVore_Liked.stages.0.label>我参加了 endovore</RV2_EndoVore_Liked.stages.0.label>
+  <!--EN: No endo vore for {VORERELATEDINTERVAL} days-->
+  <RV2_EndoVore_Required.comps.3.description>未接上吃人与{VORERELATEDINTERVAL}天</RV2_EndoVore_Required.comps.3.description>
+  <!--EN: We are born to love our prey, we require regular endo vore.-->
+  <RV2_EndoVore_Required.description>我们生来就是为了爱我们的猎物，我们需要定期 endovore没有。</RV2_EndoVore_Required.description>
+  <!--EN: required-->
+  <RV2_EndoVore_Required.label>必需</RV2_EndoVore_Required.label>
+  <!--EN: By engaging in vore in a non-lethal way I honor my beliefs.-->
+  <RV2_EndoVore_Required.stages.0.description>通过从事吃人我以非致命的方式尊重我的信仰。</RV2_EndoVore_Required.stages.0.description>
+  <!--EN: Endo vored-->
+  <RV2_EndoVore_Required.stages.0.label>Endo 被伏击</RV2_EndoVore_Required.stages.0.label>
+  <!--EN: It's been far too long since I last endo-vored someone.-->
+  <RV2_NoRecentEndoVore_Required.stages.0.description>我已经很久很久没和一个人认识了。</RV2_NoRecentEndoVore_Required.stages.0.description>
+  <!--EN: want to endo vore prey-->
+  <RV2_NoRecentEndoVore_Required.stages.0.label>想接上吃人猎物</RV2_NoRecentEndoVore_Required.stages.0.label>
+</LanguageData>

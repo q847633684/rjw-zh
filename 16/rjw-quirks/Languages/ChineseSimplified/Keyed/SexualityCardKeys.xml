@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Add {0}-->
+  <AddQuirk>添加 {0}</AddQuirk>
+  <!--EN: Change-->
+  <ChangeQuirks>更改</ChangeQuirks>
+  <!--EN: (Debug) Add all-->
+  <DebugAddAllQuirks>(调试) 添加全部</DebugAddAllQuirks>
+  <!--EN: No Quirks, vanilla.-->
+  <NoQuirks>无特质，原版。</NoQuirks>
+  <!--EN: Quirks:-->
+  <Quirks>特质：</Quirks>
+  <!--EN: Remove all-->
+  <RemoveAllQuirks>移除全部</RemoveAllQuirks>
+  <!--EN: Remove {0}-->
+  <RemoveQuirk>移除 {0}</RemoveQuirk>
+</LanguageData>

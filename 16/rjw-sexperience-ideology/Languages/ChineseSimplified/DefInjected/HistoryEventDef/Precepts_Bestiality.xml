@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Issues -->
+  <!--重复key，需删除-->
+  <RSI_SexWithAnimal.label>与动物发生性行为</RSI_SexWithAnimal.label>
+  <!--重复key，需删除-->
+  <RSI_SexWithVeneratedAnimal.label>与圣兽发生性行为</RSI_SexWithVeneratedAnimal.label>
+  <!--原中文: '与非圣兽发生性行为', 原英文: '无' -> 新英文: 'sex with non venerated animal',更新于2026-02-14-->
+  <!--EN: sex with non venerated animal-->
+  <RSI_SexWithNonVeneratedAnimal.label>与非圣兽发生性行为</RSI_SexWithNonVeneratedAnimal.label>
+  <!--原中文: '与牵绊动物发生性行为', 原英文: '无' -> 新英文: 'Sex with bonded',更新于2026-02-14-->
+  <!--EN: Sex with bonded-->
+  <RSI_SexWithBondedAnimal.label>与牵绊动物发生性行为</RSI_SexWithBondedAnimal.label>
+  <!--原中文: '与非牵绊动物发生性行为', 原英文: '无' -> 新英文: 'Sex with non Bonded',更新于2026-02-14-->
+  <!--EN: Sex with non Bonded-->
+  <RSI_SexWithNonBondAnimal.label>与非牵绊动物发生性行为</RSI_SexWithNonBondAnimal.label>
+</LanguageData>

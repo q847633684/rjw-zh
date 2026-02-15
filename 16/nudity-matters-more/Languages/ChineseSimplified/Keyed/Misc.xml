@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Cannot enter biosculpter pod while wearing any apparel.-->
+  <NMM_BiopodWarning>穿着任何衣物时无法进入生物 sculpting 舱。</NMM_BiopodWarning>
+  <!--EN: {0_labelShort}'s arms stay firmly planted on {0_possessive} body.-->
+  <NMM_PrudeDraft>{0_labelShort}的双臂紧紧地抱住身体。</NMM_PrudeDraft>
+</LanguageData>

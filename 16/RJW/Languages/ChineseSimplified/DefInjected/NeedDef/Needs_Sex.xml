@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--重复key，需删除-->
+  <Sex.label>性需求</Sex.label>
+  <!--原中文: '代表对性需求的满足程度，可通过性相关活动提升，并随时间流逝而下降。', 原英文: '无' -> 新英文: 'Represents fulfillment of sexual need, which is gained by doing sexual related activities and declined by time & turn-ons.',更新于2026-02-14-->
+  <!--EN: Represents fulfillment of sexual need, which is gained by doing sexual related activities and declined by time & turn-ons.-->
+  <Sex.description>代表对性需求的满足程度，可通过性相关活动提升，并随时间流逝而下降。</Sex.description>
+</LanguageData>

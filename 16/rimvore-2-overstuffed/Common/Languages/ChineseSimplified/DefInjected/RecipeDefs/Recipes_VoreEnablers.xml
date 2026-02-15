@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Make cellular xenoconverter-->
+  <RV2_MakeGoalEnabler_Absorb.label>制作异种细胞转发器</RV2_MakeGoalEnabler_Absorb.label>
+  <!--EN: Make olifactive enzyme seeder-->
+  <RV2_MakeGoalEnabler_ConvertChemfuel.label>制作产物酶</RV2_MakeGoalEnabler_ConvertChemfuel.label>
+  <!--EN: Make ovifactive enzyme seeder-->
+  <RV2_MakeGoalEnabler_ConvertEggs.label>制作产卵酶</RV2_MakeGoalEnabler_ConvertEggs.label>
+  <!--EN: Make urifactive enzyme seeder-->
+  <RV2_MakeGoalEnabler_ConvertUrine.label>解锁制作</RV2_MakeGoalEnabler_ConvertUrine.label>
+  <!--EN: Make cleavage vore suite-->
+  <RV2_MakeTypeEnabler_Cleavage.label>制作cleavagevore套房</RV2_MakeTypeEnabler_Cleavage.label>
+  <!--EN: Make dermal porocizer-->
+  <RV2_MakeTypeEnabler_Membrane.label>制作</RV2_MakeTypeEnabler_Membrane.label>
+  <!--EN: Make umbilical elasticizer-->
+  <RV2_MakeTypeEnabler_Navel.label>制作脐带护甲</RV2_MakeTypeEnabler_Navel.label>
+  <!--EN: Make caudal actinodivisor-->
+  <RV2_MakeTypeEnabler_Tailmaw.label>制作尾形圆形器</RV2_MakeTypeEnabler_Tailmaw.label>
+  <!--EN: Make uberal elasticizer-->
+  <RV2_MakeTypeEnabler_Udder.label>解锁制作</RV2_MakeTypeEnabler_Udder.label>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '小型肛塞', 原英文: '无' -> 新英文: 'small anal plug',更新于2026-02-14-->
+  <!--EN: small anal plug-->
+  <MAnalPlugSmall.label>小型肛塞</MAnalPlugSmall.label>
+  <!--原中文: '无装饰圆滑闪亮的肛门塞。小号', 原英文: '无' -> 新英文: 'A simple polished shiny anal plug. S-size',更新于2026-02-14-->
+  <!--EN: A simple polished shiny anal plug. S-size-->
+  <MAnalPlugSmall.description>无装饰圆滑闪亮的肛门塞。小号</MAnalPlugSmall.description>
+  <!--过时key，需删除-->
+  <MAnalPlugSmall.comps.0.useLabel>装备</MAnalPlugSmall.comps.0.useLabel>
+  <!--原中文: '中型肛塞', 原英文: '无' -> 新英文: 'medium anal plug',更新于2026-02-14-->
+  <!--EN: medium anal plug-->
+  <MAnalPlugMedium.label>中型肛塞</MAnalPlugMedium.label>
+  <!--原中文: '无装饰圆滑闪亮的肛门塞。中号', 原英文: '无' -> 新英文: 'A simple polished shiny anal plug. M-size',更新于2026-02-14-->
+  <!--EN: A simple polished shiny anal plug. M-size-->
+  <MAnalPlugMedium.description>无装饰圆滑闪亮的肛门塞。中号</MAnalPlugMedium.description>
+  <!--过时key，需删除-->
+  <MAnalPlugMedium.comps.0.useLabel>装备</MAnalPlugMedium.comps.0.useLabel>
+  <!--原中文: '大型肛塞', 原英文: '无' -> 新英文: 'large anal plug',更新于2026-02-14-->
+  <!--EN: large anal plug-->
+  <MAnalPlugLarge.label>大型肛塞</MAnalPlugLarge.label>
+  <!--原中文: '无装饰圆滑闪亮的肛门塞。大号', 原英文: '无' -> 新英文: 'A simple polished shiny anal plug. L-size',更新于2026-02-14-->
+  <!--EN: A simple polished shiny anal plug. L-size-->
+  <MAnalPlugLarge.description>无装饰圆滑闪亮的肛门塞。大号</MAnalPlugLarge.description>
+  <!--过时key，需删除-->
+  <MAnalPlugLarge.comps.0.useLabel>装备</MAnalPlugLarge.comps.0.useLabel>
+</LanguageData>

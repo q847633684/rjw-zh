@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CRIALactationSettings.settings>RJW -C0ffee 的 RJW 意识形态插件 -哺乳期</CRIALactationSettings.settings>
+
+  <CRIALactation.massageCooldown>按摩冷却</CRIALactation.massageCooldown>
+  <CRIALactation.massageCooldownDesc>默认 0.3。刺激泌乳的按摩之间的时间间隔.1 = 一整天。更改此数字不会更新现有的冷却时间 Hediff，它仅适用于应用的新冷却时间 Hediff。</CRIALactation.massageCooldownDesc>
+
+  <CRIALactation.totalMassagesUntilLactation>需要的总按摩次数</CRIALactation.totalMassagesUntilLactation>
+  <CRIALactation.totalMassagesUntilLactationDesc>默认 20。哺乳开始前需要多少次按摩。进度保存为 0->1。每次按摩时，都会添加 1/总数的量。更改此值不会重置当前进度量。</CRIALactation.totalMassagesUntilLactationDesc>
+
+  <CRIALactation.hucowBreastSizeBonus>Hucow 乳房增大</CRIALactation.hucowBreastSizeBonus>
+  <CRIALactation.hucowBreastSizeBonusDesc>默认 0.5。当变成 Hucow 时，此金额将添加到 pawn 现有的胸部尺寸中。</CRIALactation.hucowBreastSizeBonusDesc>
+
+  <CRIALactation.hucowBreastSizeMinimum>Hucow 乳房最小尺寸</CRIALactation.hucowBreastSizeMinimum>
+  <CRIALactation.hucowBreastSizeMinimumDesc>默认 1.0。当变成 Hucow 时，这是乳房最终达到的最小尺寸。</CRIALactation.hucowBreastSizeMinimumDesc>
+
+  <!--<CRIALactation.totalMassagesUntilLatation>需要的总按摩次数</CRIALactation.totalMassagesUntilLatation>-->
+
+</LanguageData>

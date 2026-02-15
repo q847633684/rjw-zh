@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Don't we have rules around here?-->
+  <BathIntruded.stages.0.description>我们这儿难道没有规矩吗？</BathIntruded.stages.0.description>
+  <!--EN: {0} walked in on my bath-->
+  <BathIntruded.stages.0.label>{0} 撞见我在洗澡</BathIntruded.stages.0.label>
+  <!--EN: I thought I was safe in there.-->
+  <BathIntrudedPrude.stages.0.description>我本以为那里很安全。</BathIntrudedPrude.stages.0.description>
+  <!--EN: {0} walked in on my bath-->
+  <BathIntrudedPrude.stages.0.label>{0} 撞见我在洗澡</BathIntrudedPrude.stages.0.label>
+  <!--EN: Don't we have rules around here?-->
+  <ShowerIntruded.stages.0.description>我们这儿难道没有规矩吗？</ShowerIntruded.stages.0.description>
+  <!--EN: {0} walked in on my shower-->
+  <ShowerIntruded.stages.0.label>{0} 撞见我在淋浴</ShowerIntruded.stages.0.label>
+  <!--EN: I thought I was safe in there.-->
+  <ShowerIntrudedPrude.stages.0.description>我本以为那里很安全。</ShowerIntrudedPrude.stages.0.description>
+  <!--EN: {0} walked in on my shower-->
+  <ShowerIntrudedPrude.stages.0.label>{0} 撞见我在淋浴</ShowerIntrudedPrude.stages.0.label>
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Severe overstretching caused the orifice to turn outward extensively, leaving sensitive internal tissue exposed. Natural recovery is unlikely, and surgical intervention is required to restore normal function.-->
+  <RES_ExtremeProlapse.description>严重的过度拉伸导致腔口广泛外翻，敏感的内部组织暴露在外。自然恢复的可能性很小，需要外科手术干预才能恢复正常功能。</RES_ExtremeProlapse.description>
+  <!--EN: prolapse-->
+  <RES_ExtremeProlapse.label>脱垂</RES_ExtremeProlapse.label>
+  <!--EN: an extreme prolapse-->
+  <RES_ExtremeProlapse.labelNoun>一处严重脱垂</RES_ExtremeProlapse.labelNoun>
+  <!--EN: requires surgery-->
+  <RES_ExtremeProlapse.stages.0.label>需要手术</RES_ExtremeProlapse.stages.0.label>
+
+  <!--EN: Excessive penetration caused the orifice to invert slightly, forcing internal tissue outward. The exposed area is swollen and tender, making further activity painful until the tissue retracts naturally.-->
+  <RES_Prolapse.description>过度插入导致腔口轻微内翻，将内部组织向外推出。暴露的区域肿胀且触痛，在组织自然回缩之前，任何进一步的活动都会引起疼痛。</RES_Prolapse.description>
+  <!--EN: prolapse-->
+  <RES_Prolapse.label>脱垂</RES_Prolapse.label>
+  <!--EN: a prolapse-->
+  <RES_Prolapse.labelNoun>一处脱垂</RES_Prolapse.labelNoun>
+  <!--EN: recovering-->
+  <RES_Prolapse.stages.0.label>恢复中</RES_Prolapse.stages.0.label>
+  <!--EN: painful-->
+  <RES_Prolapse.stages.1.label>疼痛</RES_Prolapse.stages.1.label>
+</LanguageData>

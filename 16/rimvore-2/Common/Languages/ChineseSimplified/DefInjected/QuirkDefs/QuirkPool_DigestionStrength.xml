@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks determine how powerful a pawn's various organs are for all forms of chemical digestion: true nourishing digestion, conversion into another material, assimilation, and any others.-->
+  <DigestionStrength.description>这些怪癖决定了pawn的各个器官都有各种形式的化学消化: 真正的营养消化，转化为另一种材料，同化，和任何其他。</DigestionStrength.description>
+  <!--EN: Digestion strength-->
+  <DigestionStrength.label>消化能力</DigestionStrength.label>
+  <!--EN: [PAWN_label] takes about twice as long to digest live meals as most predators.-->
+  <DigestionStrength_Bad.description>[PAWN_label]消化活食的时间是大多数捕食者的两倍。</DigestionStrength_Bad.description>
+  <!--EN: Weak acid-->
+  <DigestionStrength_Bad.label>弱酸</DigestionStrength_Bad.label>
+  <!--EN: Whether due to magic or a technology that's not yet understood, [PAWN_label]'s digestive abilities are in a class of their own, capable of liquifying an entire Thrumbo in minutes.-->
+  <DigestionStrength_Godlike.description>不管是因为魔法还是一项尚未被理解的技术,[PAWN_label]的消化能力处于班级他们能在几分钟内清理完整个敲击兽。</DigestionStrength_Godlike.description>
+  <!--EN: Godlike Digestion-->
+  <DigestionStrength_Godlike.label>类神消化</DigestionStrength_Godlike.label>
+  <!--EN: [PAWN_label] can digest prey about twice as fast as most predators.-->
+  <DigestionStrength_Good.description>[PAWN_label]能以两倍的速度消化猎物。</DigestionStrength_Good.description>
+  <!--EN: Potent acid-->
+  <DigestionStrength_Good.label>强酸</DigestionStrength_Good.label>
+  <!--EN: [PAWN_label] digests prey at a normal speed.-->
+  <DigestionStrength_Normal.description>[PAWN_label]以正常速度消化猎物。</DigestionStrength_Normal.description>
+  <!--EN: Normal acid strength-->
+  <DigestionStrength_Normal.label>普通酸液强度</DigestionStrength_Normal.label>
+  <!--EN: [PAWN_label] takes about four times as long to digest prey as most predators. [PAWN_possessive] food is liable to die of boredom before dying of melting.-->
+  <DigestionStrength_VeryBad.description>[PAWN_label]消化猎物的时间是大部分捕食者的四倍。[PAWN_possessive]食物在熔化之前容易无聊地死亡。</DigestionStrength_VeryBad.description>
+  <!--EN: Watery acid-->
+  <DigestionStrength_VeryBad.label>水酸液</DigestionStrength_VeryBad.label>
+  <!--EN: [PAWN_label] can turn prey into nutrient soup in the blink of an eye—or, at least, four times as fast as most predators.-->
+  <DigestionStrength_VeryGood.description>[PAWN_label]能在一眨眼的功夫将猎物变成营养汤 -- 或者至少是大多数捕食者的四倍。</DigestionStrength_VeryGood.description>
+  <!--EN: Scouring acid-->
+  <DigestionStrength_VeryGood.label>洗蚀酸</DigestionStrength_VeryGood.label>
+</LanguageData>

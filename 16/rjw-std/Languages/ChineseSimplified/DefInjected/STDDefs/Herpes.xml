@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Herpes is an incurable but nonfatal disease. Affected pawns experience pain and itchiness in the affected body parts. Treatment is effective at reducing the intensity of the symptoms.-->
+  <Herpes.description>疱疹是一种无法治愈但不致命的疾病。受感染的角色在患处会感到疼痛和瘙痒。治疗可有效减轻症状的强度。</Herpes.description>
+  <!--EN: herpes-->
+  <Herpes.label>疱疹</Herpes.label>
+</LanguageData>

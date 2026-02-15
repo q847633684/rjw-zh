@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '节育环', 原英文: '无' -> 新英文: 'IUD',更新于2026-02-14-->
+  <!--EN: IUD-->
+  <RJW_IUD.label>节育环</RJW_IUD.label>
+  <!--原中文: '一种置入子宫的小型银色装置，可大幅降低受孕几率。', 原英文: '无' -> 新英文: 'A small silver device inserted into the womb that greatly reduces the chance of pregnancy.',更新于2026-02-14-->
+  <!--EN: A small silver device inserted into the womb that greatly reduces the chance of pregnancy.-->
+  <RJW_IUD.description>一种置入子宫的小型银色装置，可大幅降低受孕几率。</RJW_IUD.description>
+  <!--原中文: '高生育能力', 原英文: '无' -> 新英文: 'Fertile',更新于2026-02-14-->
+  <!--EN: Fertile-->
+  <IncreasedFertility.label>高生育能力</IncreasedFertility.label>
+  <!--原中文: '生育能力提升，利于孕育后代。', 原英文: '无' -> 新英文: 'Increased fertility, for baby making.',更新于2026-02-14-->
+  <!--EN: Increased fertility, for baby making.-->
+  <IncreasedFertility.description>生育能力提升，利于孕育后代。</IncreasedFertility.description>
+  <!--原中文: '低生育能力', 原英文: '无' -> 新英文: 'Infertile',更新于2026-02-14-->
+  <!--EN: Infertile-->
+  <DecreasedFertility.label>低生育能力</DecreasedFertility.label>
+  <!--原中文: '生育能力降低，不利于孕育后代。', 原英文: '无' -> 新英文: 'Low fertility, not for baby making.',更新于2026-02-14-->
+  <!--EN: Low fertility, not for baby making.-->
+  <DecreasedFertility.description>生育能力降低，不利于孕育后代。</DecreasedFertility.description>
+  <!--原中文: '超凡绝育器', 原英文: '无' -> 新英文: 'Archotech pregnancy blocker',更新于2026-02-14-->
+  <!--EN: Archotech pregnancy blocker-->
+  <ImpregnationBlocker.label>超凡绝育器</ImpregnationBlocker.label>
+  <!--原中文: '能阻止受精与妊娠的精密装置。', 原英文: '无' -> 新英文: 'A complex device that prevents fertilization and pregnancy.',更新于2026-02-14-->
+  <!--EN: A complex device that prevents fertilization and pregnancy.-->
+  <ImpregnationBlocker.description>能阻止受精与妊娠的精密装置。</ImpregnationBlocker.description>
+  <!--原中文: '超凡生育增强器', 原英文: '无' -> 新英文: 'Archotech fertility enhancer',更新于2026-02-14-->
+  <!--EN: Archotech fertility enhancer-->
+  <FertilityEnhancer.label>超凡生育增强器</FertilityEnhancer.label>
+  <!--原中文: '可提高受孕概率的精密装置。', 原英文: '无' -> 新英文: 'A complex device that increases the likelihood of pregnancy.',更新于2026-02-14-->
+  <!--EN: A complex device that increases the likelihood of pregnancy.-->
+  <FertilityEnhancer.description>可提高受孕概率的精密装置。</FertilityEnhancer.description>
+</LanguageData>

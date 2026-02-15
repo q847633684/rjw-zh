@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '雕刻假阴茎', 原英文: '无' -> 新英文: 'carve peg dick',更新于2026-02-14-->
+  <!--EN: carve peg dick-->
+  <MakePegDick.label>雕刻假阴茎</MakePegDick.label>
+  <!--原中文: '用木头雕刻一个假阳具。', 原英文: '无' -> 新英文: 'Carves a dildo from a piece of wood.',更新于2026-02-14-->
+  <!--EN: Carves a dildo from a piece of wood.-->
+  <MakePegDick.description>用木头雕刻一个假阳具。</MakePegDick.description>
+  <!--原中文: '雕刻假阴茎。', 原英文: '无' -> 新英文: 'Carving peg dick.',更新于2026-02-14-->
+  <!--EN: Carving peg dick.-->
+  <MakePegDick.jobString>雕刻假阴茎。</MakePegDick.jobString>
+  <!--原中文: '制作液压阴茎', 原英文: '无' -> 新英文: 'craft hydraulic penis',更新于2026-02-14-->
+  <!--EN: craft hydraulic penis-->
+  <MakeHydraulicPenis.label>制作液压阴茎</MakeHydraulicPenis.label>
+  <!--原中文: '用钢铁和零部件制作一个液压阴茎。', 原英文: '无' -> 新英文: 'Crafts a hydraulic penis from steel and components.',更新于2026-02-14-->
+  <!--EN: Crafts a hydraulic penis from steel and components.-->
+  <MakeHydraulicPenis.description>用钢铁和零部件制作一个液压阴茎。</MakeHydraulicPenis.description>
+  <!--原中文: '制作液压阴茎。', 原英文: '无' -> 新英文: 'Crafting hydraulic penis.',更新于2026-02-14-->
+  <!--EN: Crafting hydraulic penis.-->
+  <MakeHydraulicPenis.jobString>制作液压阴茎。</MakeHydraulicPenis.jobString>
+  <!--原中文: '制作仿生阴茎', 原英文: '无' -> 新英文: 'craft bionic penis',更新于2026-02-14-->
+  <!--EN: craft bionic penis-->
+  <MakeBionicPenis.label>制作仿生阴茎</MakeBionicPenis.label>
+  <!--原中文: '用超织物、玻璃钢和零部件制作一个仿生阴茎。', 原英文: '无' -> 新英文: 'Crafts a bionic penis from hyperweave, plasteel, and components.',更新于2026-02-14-->
+  <!--EN: Crafts a bionic penis from hyperweave, plasteel, and components.-->
+  <MakeBionicPenis.description>用超织物、玻璃钢和零部件制作一个仿生阴茎。</MakeBionicPenis.description>
+  <!--原中文: '制作仿生阴茎。', 原英文: '无' -> 新英文: 'Crafting bionic penis.',更新于2026-02-14-->
+  <!--EN: Crafting bionic penis.-->
+  <MakeBionicPenis.jobString>制作仿生阴茎。</MakeBionicPenis.jobString>
+  <!--原中文: '制作液压阴道', 原英文: '无' -> 新英文: 'craft hydraulic vagina',更新于2026-02-14-->
+  <!--EN: craft hydraulic vagina-->
+  <MakeHydraulicVagina.label>制作液压阴道</MakeHydraulicVagina.label>
+  <!--原中文: '用钢铁和零部件制作一个液压阴道。', 原英文: '无' -> 新英文: 'Crafts a hydraulic vagina from steel and components.',更新于2026-02-14-->
+  <!--EN: Crafts a hydraulic vagina from steel and components.-->
+  <MakeHydraulicVagina.description>用钢铁和零部件制作一个液压阴道。</MakeHydraulicVagina.description>
+  <!--原中文: '制作液压阴道。', 原英文: '无' -> 新英文: 'Crafting hydraulic vagina.',更新于2026-02-14-->
+  <!--EN: Crafting hydraulic vagina.-->
+  <MakeHydraulicVagina.jobString>制作液压阴道。</MakeHydraulicVagina.jobString>
+  <!--原中文: '制作仿生阴道', 原英文: '无' -> 新英文: 'craft bionic vagina',更新于2026-02-14-->
+  <!--EN: craft bionic vagina-->
+  <MakeBionicVagina.label>制作仿生阴道</MakeBionicVagina.label>
+  <!--原中文: '用超织物、玻璃钢和零部件制作一个仿生阴道。', 原英文: '无' -> 新英文: 'Crafts a bionic vagina from hyperweave, plasteel, and components.',更新于2026-02-14-->
+  <!--EN: Crafts a bionic vagina from hyperweave, plasteel, and components.-->
+  <MakeBionicVagina.description>用超织物、玻璃钢和零部件制作一个仿生阴道。</MakeBionicVagina.description>
+  <!--原中文: '制作仿生阴道。', 原英文: '无' -> 新英文: 'Crafting bionic vagina.',更新于2026-02-14-->
+  <!--EN: Crafting bionic vagina.-->
+  <MakeBionicVagina.jobString>制作仿生阴道。</MakeBionicVagina.jobString>
+  <!--原中文: '制作液压乳房', 原英文: '无' -> 新英文: 'craft hydraulic breasts',更新于2026-02-14-->
+  <!--EN: craft hydraulic breasts-->
+  <MakeHydraulicBreasts.label>制作液压乳房</MakeHydraulicBreasts.label>
+  <!--原中文: '用钢铁和零部件制作一个液压乳房。', 原英文: '无' -> 新英文: 'Crafts a pair of hydraulic breasts from steel and components.',更新于2026-02-14-->
+  <!--EN: Crafts a pair of hydraulic breasts from steel and components.-->
+  <MakeHydraulicBreasts.description>用钢铁和零部件制作一个液压乳房。</MakeHydraulicBreasts.description>
+  <!--原中文: '制作液压乳房。', 原英文: '无' -> 新英文: 'Crafting hydraulic breasts.',更新于2026-02-14-->
+  <!--EN: Crafting hydraulic breasts.-->
+  <MakeHydraulicBreasts.jobString>制作液压乳房。</MakeHydraulicBreasts.jobString>
+  <!--原中文: '制作仿生乳房', 原英文: '无' -> 新英文: 'craft bionic breasts',更新于2026-02-14-->
+  <!--EN: craft bionic breasts-->
+  <MakeBionicBreasts.label>制作仿生乳房</MakeBionicBreasts.label>
+  <!--原中文: '用超织物、玻璃钢和零部件制作一个仿生乳房。', 原英文: '无' -> 新英文: 'Crafts a pair of bionic breasts from hyperweave, plasteel, and components.',更新于2026-02-14-->
+  <!--EN: Crafts a pair of bionic breasts from hyperweave, plasteel, and components.-->
+  <MakeBionicBreasts.description>用超织物、玻璃钢和零部件制作一个仿生乳房。</MakeBionicBreasts.description>
+  <!--原中文: '制作仿生乳房。', 原英文: '无' -> 新英文: 'Crafting bionic breasts.',更新于2026-02-14-->
+  <!--EN: Crafting bionic breasts.-->
+  <MakeBionicBreasts.jobString>制作仿生乳房。</MakeBionicBreasts.jobString>
+  <!--原中文: '制作液压肛门', 原英文: '无' -> 新英文: 'craft hydraulic anus',更新于2026-02-14-->
+  <!--EN: craft hydraulic anus-->
+  <MakeHydraulicAnus.label>制作液压肛门</MakeHydraulicAnus.label>
+  <!--原中文: '用钢铁和零部件制作一个液压肛门。', 原英文: '无' -> 新英文: 'Crafts a hydraulic anus from steel and components.',更新于2026-02-14-->
+  <!--EN: Crafts a hydraulic anus from steel and components.-->
+  <MakeHydraulicAnus.description>用钢铁和零部件制作一个液压肛门。</MakeHydraulicAnus.description>
+  <!--原中文: '制作液压肛门。', 原英文: '无' -> 新英文: 'Crafting hydraulic anus.',更新于2026-02-14-->
+  <!--EN: Crafting hydraulic anus.-->
+  <MakeHydraulicAnus.jobString>制作液压肛门。</MakeHydraulicAnus.jobString>
+  <!--原中文: '制作仿生肛门', 原英文: '无' -> 新英文: 'craft bionic anus',更新于2026-02-14-->
+  <!--EN: craft bionic anus-->
+  <MakeBionicAnus.label>制作仿生肛门</MakeBionicAnus.label>
+  <!--原中文: '用超织物、玻璃钢和零部件制作一个仿生肛门。', 原英文: '无' -> 新英文: 'Crafts a bionic anus from hyperweave, plasteel, and components.',更新于2026-02-14-->
+  <!--EN: Crafts a bionic anus from hyperweave, plasteel, and components.-->
+  <MakeBionicAnus.description>用超织物、玻璃钢和零部件制作一个仿生肛门。</MakeBionicAnus.description>
+  <!--原中文: '制作仿生肛门。', 原英文: '无' -> 新英文: 'Crafting bionic anus.',更新于2026-02-14-->
+  <!--EN: Crafting bionic anus.-->
+  <MakeBionicAnus.jobString>制作仿生肛门。</MakeBionicAnus.jobString>
+</LanguageData>

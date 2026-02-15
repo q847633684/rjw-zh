@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: This pawn is currently NOT allowed to use grapple moves during combat-->
+  <RV2_Command_ToggleGrapple_DescOff>这个pawn当前不允许在战斗中使用格斗动作</RV2_Command_ToggleGrapple_DescOff>
+  <!--EN: This pawn is currently allowed to use grapple moves during combat-->
+  <RV2_Command_ToggleGrapple_DescOn>这个pawn当前被允许在战斗中使用格斗动作</RV2_Command_ToggleGrapple_DescOn>
+  <!--EN: Force the pawn to walk to and initiate a vore grapple with the selected target-->
+  <RV2_Widget_Grapple>强制pawn步行到并初始化吃人与所选目标搏斗</RV2_Widget_Grapple>
+  <!--EN: (Unavailable)\n-->
+  <RV2_Widget_Grapple_UnavailablePrefix>(不可用)</RV2_Widget_Grapple_UnavailablePrefix>
+  <!--EN: Currently not allowed to be non-fatally vored by other pawns.\nAutomatically assigned by settings-->
+  <RV2_Widget_IsEndoPreyAutoOffDesc>目前不允许被其他殖民者非致命主义奴役。
+由设置自动分配</RV2_Widget_IsEndoPreyAutoOffDesc>
+  <!--EN: Currently allowed to be non-fatally vored by other pawns.\nAutomatically assigned by settings-->
+  <RV2_Widget_IsEndoPreyAutoOnDesc>当前被允许被其他殖民者非致命的伤害。
+由设置自动分配</RV2_Widget_IsEndoPreyAutoOnDesc>
+  <!--EN: Currently not allowed to be non-fatally vored by other pawns.\nManually assigned by player-->
+  <RV2_Widget_IsEndoPreyManualOffDesc>目前不允许被其他殖民者非致命主义奴役。
+由玩家手动分配</RV2_Widget_IsEndoPreyManualOffDesc>
+  <!--EN: Currently allowed to be non-fatally vored by other pawns.\nManually assigned by player-->
+  <RV2_Widget_IsEndoPreyManualOnDesc>当前被允许被其他殖民者非致命的伤害。
+由玩家手动分配</RV2_Widget_IsEndoPreyManualOnDesc>
+  <!--EN: Currently not allowed to be fatally vored by other pawns.\nAutomatically assigned by settings-->
+  <RV2_Widget_IsFatalPreyAutoOffDesc>目前不允许被其他爪牙致死。
+由设置自动分配</RV2_Widget_IsFatalPreyAutoOffDesc>
+  <!--EN: Currently allowed to be fatally vored by other pawns.\nAutomatically assigned by settings-->
+  <RV2_Widget_IsFatalPreyAutoOnDesc>目前被允许被其他殖民者致死。
+由设置自动分配</RV2_Widget_IsFatalPreyAutoOnDesc>
+  <!--EN: Currently not allowed to be fatally vored by other pawns.\nManually assigned by player-->
+  <RV2_Widget_IsFatalPreyManualOffDesc>目前不允许被其他爪牙致死。
+由玩家手动分配</RV2_Widget_IsFatalPreyManualOffDesc>
+  <!--EN: Currently allowed to be fatally vored by other pawns.\nManually assigned by player-->
+  <RV2_Widget_IsFatalPreyManualOnDesc>目前被允许被其他殖民者致死。
+由玩家手动分配</RV2_Widget_IsFatalPreyManualOnDesc>
+  <!--EN: Can not be non-fatally vored by other pawns.-->
+  <RV2_Widget_IsNeverEndoPreyDesc>不能被其他殖民者致死。</RV2_Widget_IsNeverEndoPreyDesc>
+  <!--EN: Can not be fatally vored by other pawns.-->
+  <RV2_Widget_IsNeverFatalPreyDesc>不会被其他殖民者致死。</RV2_Widget_IsNeverFatalPreyDesc>
+  <!--EN: Can not vore other pawns.-->
+  <RV2_Widget_IsNeverPredatorDesc>不能吃人其他 pawns。</RV2_Widget_IsNeverPredatorDesc>
+  <!--EN: Currently not allowed to vore other pawns.\nAutomatically assigned by settings-->
+  <RV2_Widget_IsPredatorAutoOffDesc>目前不允许吃人其他 pawns。
+由设置自动分配</RV2_Widget_IsPredatorAutoOffDesc>
+  <!--EN: Currently allowed to vore other pawns.\nAutomatically assigned by settings-->
+  <RV2_Widget_IsPredatorAutoOnDesc>当前允许吃人其他 pawns。
+由设置自动分配</RV2_Widget_IsPredatorAutoOnDesc>
+  <!--EN: Currently not allowed to vore other pawns.\nManually assigned by player-->
+  <RV2_Widget_IsPredatorManualOffDesc>目前不允许吃人其他 pawns。
+由玩家手动分配</RV2_Widget_IsPredatorManualOffDesc>
+  <!--EN: Currently allowed to vore other pawns.\nManually assigned by player-->
+  <RV2_Widget_IsPredatorManualOnDesc>当前允许吃人其他 pawns。
+由玩家手动分配</RV2_Widget_IsPredatorManualOnDesc>
+</LanguageData>

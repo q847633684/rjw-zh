@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '阴道性交', 原英文: '无' -> 新英文: 'vaginal intercourses',更新于2026-02-14-->
+  <!--EN: vaginal intercourses-->
+  <VaginalSexCount.label>阴道性交</VaginalSexCount.label>
+  <!--原中文: '阴道性交的次数。', 原英文: '无' -> 新英文: 'The number of times of vaginal sex.',更新于2026-02-14-->
+  <!--EN: The number of times of vaginal sex.-->
+  <VaginalSexCount.description>阴道性交的次数。</VaginalSexCount.description>
+  <!--原中文: '肛交', 原英文: '无' -> 新英文: 'anal intercourses',更新于2026-02-14-->
+  <!--EN: anal intercourses-->
+  <AnalSexCount.label>肛交</AnalSexCount.label>
+  <!--原中文: '肛交的次数。', 原英文: '无' -> 新英文: 'The number of times of anal sex.',更新于2026-02-14-->
+  <!--EN: The number of times of anal sex.-->
+  <AnalSexCount.description>肛交的次数。</AnalSexCount.description>
+  <!--原中文: '吞精', 原英文: '无' -> 新英文: 'oral intercourses',更新于2026-02-14-->
+  <!--EN: oral intercourses-->
+  <OralSexCount.label>吞精</OralSexCount.label>
+  <!--原中文: '吞精的次数。', 原英文: '无' -> 新英文: 'The number of times of received oral sex.',更新于2026-02-14-->
+  <!--EN: The number of times of received oral sex.-->
+  <OralSexCount.description>吞精的次数。</OralSexCount.description>
+  <!--原中文: '口交', 原英文: '无' -> 新英文: 'blowjobs',更新于2026-02-14-->
+  <!--EN: blowjobs-->
+  <BlowjobCount.label>口交</BlowjobCount.label>
+  <!--原中文: '口交的次数。', 原英文: '无' -> 新英文: 'The number of times of blowjob.',更新于2026-02-14-->
+  <!--EN: The number of times of blowjob.-->
+  <BlowjobCount.description>口交的次数。</BlowjobCount.description>
+  <!--原中文: '舔阴', 原英文: '无' -> 新英文: 'cunnilingus',更新于2026-02-14-->
+  <!--EN: cunnilingus-->
+  <CunnilingusCount.label>舔阴</CunnilingusCount.label>
+  <!--原中文: '舔阴的次数。', 原英文: '无' -> 新英文: 'The number of times of cunnilingus.',更新于2026-02-14-->
+  <!--EN: The number of times of cunnilingus.-->
+  <CunnilingusCount.description>舔阴的次数。</CunnilingusCount.description>
+  <!--原中文: '摸阴', 原英文: '无' -> 新英文: 'genital touched',更新于2026-02-14-->
+  <!--EN: genital touched-->
+  <GenitalCaressCount.label>摸阴</GenitalCaressCount.label>
+  <!--原中文: '用手指刺激阴茎/阴道的次数。', 原英文: '无' -> 新英文: 'The number of times of handjob/fingering.',更新于2026-02-14-->
+  <!--EN: The number of times of handjob/fingering.-->
+  <GenitalCaressCount.description>用手指刺激阴茎/阴道的次数。</GenitalCaressCount.description>
+  <!--原中文: '手交', 原英文: '无' -> 新英文: 'handjobs',更新于2026-02-14-->
+  <!--EN: handjobs-->
+  <HandjobCount.label>手交</HandjobCount.label>
+  <!--原中文: '手交的次数。', 原英文: '无' -> 新英文: 'The number of times of handjob.',更新于2026-02-14-->
+  <!--EN: The number of times of handjob.-->
+  <HandjobCount.description>手交的次数。</HandjobCount.description>
+  <!--原中文: '指交', 原英文: '无' -> 新英文: 'fingerings',更新于2026-02-14-->
+  <!--EN: fingerings-->
+  <FingeringCount.label>指交</FingeringCount.label>
+  <!--原中文: '指交的次数。', 原英文: '无' -> 新英文: 'The number of times of fingering.',更新于2026-02-14-->
+  <!--EN: The number of times of fingering.-->
+  <FingeringCount.description>指交的次数。</FingeringCount.description>
+  <!--原中文: '足交', 原英文: '无' -> 新英文: 'footjob',更新于2026-02-14-->
+  <!--EN: footjob-->
+  <FootjobCount.label>足交</FootjobCount.label>
+  <!--原中文: '足交的次数。', 原英文: '无' -> 新英文: 'The number of times of footjob.',更新于2026-02-14-->
+  <!--EN: The number of times of footjob.-->
+  <FootjobCount.description>足交的次数。</FootjobCount.description>
+  <!--原中文: '杂项', 原英文: '无' -> 新英文: 'misc. intercourses',更新于2026-02-14-->
+  <!--EN: misc. intercourses-->
+  <MiscSexualBehaviorCount.label>杂项</MiscSexualBehaviorCount.label>
+  <!--原中文: '一些性交的次数。', 原英文: '无' -> 新英文: 'The number of times of something sexual.',更新于2026-02-14-->
+  <!--EN: The number of times of something sexual.-->
+  <MiscSexualBehaviorCount.description>一些性交的次数。</MiscSexualBehaviorCount.description>
+  <!--原中文: '高潮', 原英文: '无' -> 新英文: 'orgasms',更新于2026-02-14-->
+  <!--EN: orgasms-->
+  <OrgasmCount.label>高潮</OrgasmCount.label>
+  <!--原中文: '高潮的次数。', 原英文: '无' -> 新英文: 'The number of times of orgasm.',更新于2026-02-14-->
+  <!--EN: The number of times of orgasm.-->
+  <OrgasmCount.description>高潮的次数。</OrgasmCount.description>
+  <!--原中文: '性伴侣', 原英文: '无' -> 新英文: 'sex partners',更新于2026-02-14-->
+  <!--EN: sex partners-->
+  <SexPartnerCount.label>性伴侣</SexPartnerCount.label>
+  <!--原中文: '性伴侣的个数。', 原英文: '无' -> 新英文: 'The number of sex partners.',更新于2026-02-14-->
+  <!--EN: The number of sex partners.-->
+  <SexPartnerCount.description>性伴侣的个数。</SexPartnerCount.description>
+</LanguageData>

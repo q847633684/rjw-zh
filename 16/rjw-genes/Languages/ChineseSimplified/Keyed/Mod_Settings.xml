@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: If checked, genetic diseases will be added as Endogenes. Otherwise they are added as Xenogenes.-->
+  <rjw_genes_genetic_disease_as_endogenes_explanation>如果勾选，遗传性疾病将作为内源基因添加。否则，它们将作为外源基因添加。</rjw_genes_genetic_disease_as_endogenes_explanation>
+  <!--EN: Genetic STDs as Endogenes-->
+  <rjw_genes_genetic_disease_as_endogenes_key>遗传性病作为内源基因</rjw_genes_genetic_disease_as_endogenes_key>
+  <!--EN: Genetic STDS-->
+  <rjw_genes_genetic_disease_header_key>遗传性病</rjw_genes_genetic_disease_header_key>
+  <!--EN: If checked, genetic STDs are only spread on penetrative sex. Otherwise, any sextype is considered for spread.-->
+  <rjw_genes_genetic_disease_spread_only_on_penetrative_sex_explanation>如果勾选，遗传性病仅在插入式性行为中传播。否则，任何性行为类型都会传播。</rjw_genes_genetic_disease_spread_only_on_penetrative_sex_explanation>
+  <!--EN: Genetic STDs on penetrative-sex only-->
+  <rjw_genes_genetic_disease_spread_only_on_penetrative_sex_key>仅限插入式性行为传播遗传性病</rjw_genes_genetic_disease_spread_only_on_penetrative_sex_key>
+  <!--EN: If on, only animals that 'can rape' will be engaging in bestiality after being hit by a animal mating pulse. This usually means that only male animals will start breeding.-->
+  <rjw_genes_settings_animal_mating_needs_penis_explanation>如果开启，只有“能够强奸”的动物在被动物交配脉冲影响后才会进行兽交。这通常意味着只有雄性动物会开始交配。</rjw_genes_settings_animal_mating_needs_penis_explanation>
+  <!--EN: Animal-Mating GenitalCheck-->
+  <rjw_genes_settings_animal_mating_needs_penis_key>动物交配生殖器检查</rjw_genes_settings_animal_mating_needs_penis_key>
+  <!--EN: Adds detailed information to the log about interactions and genes.-->
+  <rjw_genes_settings_detailed_debug_explanation>向日志中添加关于互动和基因的详细信息。</rjw_genes_settings_detailed_debug_explanation>
+  <!--EN: detailed-debug-->
+  <rjw_genes_settings_detailed_debug_key>详细调试</rjw_genes_settings_detailed_debug_key>
+  <!--EN: Fertilin-Gain from Animals:-->
+  <rjw_genes_settings_fertilin_gain_from_animals>来自动物的致育素获取量：</rjw_genes_settings_fertilin_gain_from_animals>
+  <!--EN: % of fertilin gained (compared to human-baseline).-->
+  <rjw_genes_settings_fertilin_gain_from_animals_explanation>获取致育素的百分比（与人类基线相比）。</rjw_genes_settings_fertilin_gain_from_animals_explanation>
+  <!--EN: When enabled, pawns with the 'generous donor' are not drained and not fertilin exhausted. Hence they can fuel succubi and incubi non-stop. This makes them drastically easier to keep, and you should not do it.-->
+  <rjw_genes_settings_generous_donor_cheatmode_explanation>启用后，拥有“慷慨捐赠者”基因的角色不会被榨干，也不会致育素耗尽。因此，他们可以无休止地供养魅魔和梦魔。这会让他们极易维持，你不应该这样做。</rjw_genes_settings_generous_donor_cheatmode_explanation>
+  <!--EN: generous-donor cheatmode-->
+  <rjw_genes_settings_generous_donor_cheatmode_key>慷慨捐赠者作弊模式</rjw_genes_settings_generous_donor_cheatmode_key>
+  <!--EN: If checked, certain Genes will spread on sex.-->
+  <rjw_genes_settings_genetic_disease_spread_explanation>如果勾选，某些基因将在性行为中传播。</rjw_genes_settings_genetic_disease_spread_explanation>
+  <!--EN: Genetic STD Spread-->
+  <rjw_genes_settings_genetic_disease_spread_key>遗传性病传播</rjw_genes_settings_genetic_disease_spread_key>
+  <!--EN: Genitalia resizing age:-->
+  <rjw_genes_settings_genitalia_resizing_age>生殖器尺寸调整年龄：</rjw_genes_settings_genitalia_resizing_age>
+  <!--EN: At this age (in biological years) any resizing gene will be applied. This is done to prevent changes and issues related to genitalia changing in the pawns growth, but also for 'ethics'.-->
+  <rjw_genes_settings_genitalia_resizing_age_explanation>在此年龄（以生物年计算）时，任何尺寸调整基因将被应用。这样做是为了防止在角色成长过程中生殖器变化带来的改变和问题，同时也是出于“伦理”考虑。</rjw_genes_settings_genitalia_resizing_age_explanation>
+  <!--EN: years-->
+  <rjw_genes_settings_genitalia_resizing_postfix>岁</rjw_genes_settings_genitalia_resizing_postfix>
+  <!--EN: If off, pawns will not get bad thoughts for seduction.-->
+  <rjw_genes_settings_regret_stealing_love_explanation>如果关闭，角色不会因魅惑而产生负面想法。</rjw_genes_settings_regret_stealing_love_explanation>
+  <!--EN: Regret Stealing Love-->
+  <rjw_genes_settings_regret_stealing_love_key>魅惑后悔</rjw_genes_settings_regret_stealing_love_key>
+  <!--EN: Multiple sexdemons can spawn during a event-->
+  <rjw_genes_settings_sexdemon_group_spawn_explanation>一个事件中可以生成多个性魔</rjw_genes_settings_sexdemon_group_spawn_explanation>
+  <!--EN: Sexdemon groups-->
+  <rjw_genes_settings_sexdemon_group_spawn_key>性魔群体</rjw_genes_settings_sexdemon_group_spawn_key>
+  <!--EN: Allow Incubi to spawn through this event-->
+  <rjw_genes_settings_sexdemon_incubi_spawn_explanation>允许梦魔通过此事件生成</rjw_genes_settings_sexdemon_incubi_spawn_explanation>
+  <!--EN: Incubi-->
+  <rjw_genes_settings_sexdemon_incubi_spawn_key>梦魔</rjw_genes_settings_sexdemon_incubi_spawn_key>
+  <!--EN: Incubi and succubi will consider size/tightness of partners genital for deciding if they want to join-->
+  <rjw_genes_settings_sexdemon_size_matters_explanation>梦魔和魅魔会考虑伴侣生殖器的大小/紧致度来决定是否加入</rjw_genes_settings_sexdemon_size_matters_explanation>
+  <!--EN: Size matters-->
+  <rjw_genes_settings_sexdemon_size_matters_key>尺寸很重要</rjw_genes_settings_sexdemon_size_matters_key>
+  <!--EN: If enabled, incubi and succubi can spawn in through an event.-->
+  <rjw_genes_settings_sexdemon_spawn_explanation>如果启用，梦魔和魅魔可以通过事件生成。</rjw_genes_settings_sexdemon_spawn_explanation>
+  <!--EN: Sexdemon Visits-->
+  <rjw_genes_settings_sexdemon_spawn_key>性魔来访</rjw_genes_settings_sexdemon_spawn_key>
+  <!--EN: Allow Succubi to spawn through this event-->
+  <rjw_genes_settings_sexdemon_succubi_spawn_explanation>允许魅魔通过此事件生成</rjw_genes_settings_sexdemon_succubi_spawn_explanation>
+  <!--EN: Succubi-->
+  <rjw_genes_settings_sexdemon_succubi_spawn_key>魅魔</rjw_genes_settings_sexdemon_succubi_spawn_key>
+</LanguageData>

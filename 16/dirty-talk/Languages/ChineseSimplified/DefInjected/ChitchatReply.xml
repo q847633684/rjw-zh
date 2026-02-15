@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: colonist-horny-->
+  <Colonist_Horny.label>殖民者-性欲旺盛的</Colonist_Horny.label>
+  <!--EN: r_logentry(INITIATOR_opinion<-25, priority=1)->[bad_opinion]-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_opinion<-25, priority=1)->[bad_opinion]</Colonist_Horny.logRulesInitiator.rulesStrings.0>
+  <!--EN: bad_opinion->...gross-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.1>bad_opinion->没有。... 恶心</Colonist_Horny.logRulesInitiator.rulesStrings.1>
+  <!--EN: good_opinion(INITIATOR_thoughtLabel==horny, priority=1)->[good_opinion_horny]-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.10>good_opinion(INITIATOR_thoughtLabel==horny, priority=1)->[good_opinion_horny]</Colonist_Horny.logRulesInitiator.rulesStrings.10>
+  <!--EN: good_opinion_horny(INITIATOR_gender==Male, RECIPIENT_gender==Male, INITIATOR_opinion>=50, INITIATOR_trait==gay)->Maybe we can figure something out...*winks*-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.11>good_opinion_horny(INITIATOR_gender==Male, RECIPIENT_gender==Male, INITIATOR_opinion>=50, INITIATOR_trait==gay)-> 也许我们能想出点什么... * 眨眼间 *</Colonist_Horny.logRulesInitiator.rulesStrings.11>
+  <!--EN: good_opinion_horny(INITIATOR_gender==Female, RECIPIENT_gender==Female, INITIATOR_opinion>=50, INITIATOR_trait==gay)->Maybe we can figure something out...*winks*-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.12>good_opinion_horny(INITIATOR_gender==Female, RECIPIENT_gender==Female, INITIATOR_opinion>=50, INITIATOR_trait==gay)-> 也许我们能想出点什么... * 眨眼间 *</Colonist_Horny.logRulesInitiator.rulesStrings.12>
+  <!--EN: good_opinion_horny(INITIATOR_gender==Female, RECIPIENT_gender==Male, INITIATOR_opinion>=50, INITIATOR_trait!=gay)->Maybe we can figure something out...*winks*-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.13>good_opinion_horny(INITIATOR_gender==Female, RECIPIENT_gender==Male, INITIATOR_opinion>=50, INITIATOR_trait!=gay)-> 也许我们能想出点什么... * 眨眼间 *</Colonist_Horny.logRulesInitiator.rulesStrings.13>
+  <!--EN: good_opinion_horny(INITIATOR_gender==Male, RECIPIENT_gender==Female, INITIATOR_opinion>=50, INITIATOR_trait!=gay)->Maybe we can figure something out...*winks*-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.14>good_opinion_horny(INITIATOR_gender==Male, RECIPIENT_gender==Female, INITIATOR_opinion>=50, INITIATOR_trait!=gay)-> 也许我们能想出点什么... * 眨眼间 *</Colonist_Horny.logRulesInitiator.rulesStrings.14>
+  <!--EN: good_opinion_horny->I'm right there with you, [counterpart].-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.15>good_opinion_horny->我就在你身边,[counterpart]。</Colonist_Horny.logRulesInitiator.rulesStrings.15>
+  <!--EN: good_opinion(RECIPIENT_gender==Male)->Just go jack off or something, [counterpart].-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.16>good_opinion(RECIPIENT_gender==Male)-> 就当杰克走什么的,[counterpart]。</Colonist_Horny.logRulesInitiator.rulesStrings.16>
+  <!--EN: good_opinion->I'm sure you'll figure it out, [counterpart].-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.17>good_opinion->我相信你会找到答案的,[counterpart]。</Colonist_Horny.logRulesInitiator.rulesStrings.17>
+  <!--EN: bad_opinion->...ew...-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.2>bad_opinion->没有。... 哇 ..</Colonist_Horny.logRulesInitiator.rulesStrings.2>
+  <!--EN: bad_opinion->...ugh...-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.3>bad_opinion->没有。呃...</Colonist_Horny.logRulesInitiator.rulesStrings.3>
+  <!--EN: bad_opinion->Not my problem, [counterpart].-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.4>bad_opinion->不是我的问题,[counterpart]</Colonist_Horny.logRulesInitiator.rulesStrings.4>
+  <!--EN: r_logentry->[neutral_opinion]-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.5>r_logentry->[neutral_opinion]</Colonist_Horny.logRulesInitiator.rulesStrings.5>
+  <!--EN: neutral_opinion->Didn't need to know that, [counterpart].-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.6>neutral_opinion->不需要知道这些,[counterpart]</Colonist_Horny.logRulesInitiator.rulesStrings.6>
+  <!--EN: neutral_opinion->Can't help you with that, [counterpart].-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.7>neutral_opinion->我帮不了你,[counterpart]</Colonist_Horny.logRulesInitiator.rulesStrings.7>
+  <!--EN: r_logentry(INITIATOR_opinion>=25, priority=1)->[good_opinion]-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.8>r_logentry(INITIATOR_opinion>=25, priority=1)->[good_opinion]</Colonist_Horny.logRulesInitiator.rulesStrings.8>
+  <!--EN: good_opinion(INITIATOR_thoughtLabel==sexually frustrated, priority=1)->[good_opinion_horny]-->
+  <Colonist_Horny.logRulesInitiator.rulesStrings.9>good_opinion(INITIATOR_thoughtLabel==sexually frustrated, priority=1)->[good_opinion_horny]</Colonist_Horny.logRulesInitiator.rulesStrings.9>
+  <!--EN: getting-raped-react-->
+  <Getting_Raped_React.label>获取-被强奸-反应</Getting_Raped_React.label>
+  <!--EN: r_logentry(INITIATOR_trait==masochist, priority=3)->[masochist]-->
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==masochist, priority=3)->[masochist]</Getting_Raped_React.logRulesInitiator.rulesStrings.0>
+  <!--EN: masochist->[exclaim]! I love when master treats me like this! [exclaim]!-->
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.1>masochist->[exclaim]主人这样对待我真是太棒了![exclaim]</Getting_Raped_React.logRulesInitiator.rulesStrings.1>
+  <!--EN: r_logentry(RECIPIENT_trait==rapist, priority=2)->[rapist]-->
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.2>r_logentry(RECIPIENT_trait==rapist, priority=2)->[rapist]</Getting_Raped_React.logRulesInitiator.rulesStrings.2>
+  <!--EN: rapist(INITIATOR_opinion>=25)->How could you, [RECIPIENT_nameDef]!?-->
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.3>rapist(INITIATOR_opinion>=25)-> 你怎么能,[RECIPIENT_nameDef]哦!？</Getting_Raped_React.logRulesInitiator.rulesStrings.3>
+  <!--EN: rapist->Fuck you, [RECIPIENT_nameDef]!-->
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.4>rapist->去你的,[RECIPIENT_nameDef]</Getting_Raped_React.logRulesInitiator.rulesStrings.4>
+  <!--EN: r_logentry(RECIPIENT_moving==Yes)->Don't just walk away! Help me!-->
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.5>r_logentry(RECIPIENT_moving==Yes)-> 不要就这样一走了之!救救我!</Getting_Raped_React.logRulesInitiator.rulesStrings.5>
+  <!--EN: r_logentry->Don't just stand there! Do something!-->
+  <Getting_Raped_React.logRulesInitiator.rulesStrings.6>r_logentry->别光站在那里!做点什么!</Getting_Raped_React.logRulesInitiator.rulesStrings.6>
+  <!--EN: new-colony-masochist-->
+  <New_Colony_Masochist.label>新殖民地受虐狂</New_Colony_Masochist.label>
+  <!--EN: r_logentry(INITIATOR_trait==masochist, priority=1)->Just thinking about it gets me weak in the knees!-->
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==masochist, priority=1)-> 一想到这个，我的膝盖就会变得软弱!</New_Colony_Masochist.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry(INITIATOR_trait==masochist, priority=1)->Yeah...hehe...that would be "terrible!"-->
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.1>r_logentry(INITIATOR_trait==masochist, priority=1)-> 耶... 嘿嘿... 那就 “糟透了!”</New_Colony_Masochist.logRulesInitiator.rulesStrings.1>
+  <!--EN: r_logentry(INITIATOR_trait==abrasive, tag=New_Colony_Masochistb)->Why do you say it like that? Are you some kind of pervert?-->
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.2>r_logentry(INITIATOR_trait==abrasive, tag=New_Colony_Masochistb)-> 你为什么这样说？你是某种变态吗？</New_Colony_Masochist.logRulesInitiator.rulesStrings.2>
+  <!--EN: r_logentry(INITIATOR_opinion<-25, tag=New_Colony_Masochistb)->Why do you say it like that? Are you some kind of pervert?-->
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.3>r_logentry(INITIATOR_opinion<-25, tag=New_Colony_Masochistb)-> 你为什么这样说？你是某种变态吗？</New_Colony_Masochist.logRulesInitiator.rulesStrings.3>
+  <!--EN: r_logentry(INITIATOR_intellectual_level<3, priority=0.5)->Yeah, that wouldn't be good!-->
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.4>r_logentry(INITIATOR_intellectual_level<3, priority=0.5)-> 耶，那可不行!</New_Colony_Masochist.logRulesInitiator.rulesStrings.4>
+  <!--EN: r_logentry->Um...yeah...-->
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.5>r_logentry->嗯... 是...</New_Colony_Masochist.logRulesInitiator.rulesStrings.5>
+  <!--EN: r_logentry->...yeah...-->
+  <New_Colony_Masochist.logRulesInitiator.rulesStrings.6>r_logentry->没有。... 耶 ..</New_Colony_Masochist.logRulesInitiator.rulesStrings.6>
+  <!--EN: new-colony-masochist-->
+  <New_Colony_Masochistb.label>新殖民地受虐狂</New_Colony_Masochistb.label>
+  <!--EN: r_logentry->Why? Are you gonna *blushes* do something about it?-->
+  <New_Colony_Masochistb.logRulesInitiator.rulesStrings.0>r_logentry->为什么？你会做出改变吗？</New_Colony_Masochistb.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->*shivers* You're right, I am a pervert. Punish me!-->
+  <New_Colony_Masochistb.logRulesInitiator.rulesStrings.1>r_logentry->* 颤抖者 * 你说得对，我就是个变态。惩罚我!</New_Colony_Masochistb.logRulesInitiator.rulesStrings.1>
+  <!--EN: r_logentry->*blushes* What would you do to me if I was?-->
+  <New_Colony_Masochistb.logRulesInitiator.rulesStrings.2>r_logentry->* 脸红 * 如果我是你，你会对我做什么？</New_Colony_Masochistb.logRulesInitiator.rulesStrings.2>
+  <!--EN: new-colony-zoophile-->
+  <New_Colony_Zoophile.label>新殖民地亲兽</New_Colony_Zoophile.label>
+  <!--EN: r_logentry(INITIATOR_trait==zoophile, priority=1)->Me too!-->
+  <New_Colony_Zoophile.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==zoophile, priority=1)-> 我也是!</New_Colony_Zoophile.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry(INITIATOR_trait==zoophile, priority=1)->Same!-->
+  <New_Colony_Zoophile.logRulesInitiator.rulesStrings.1>r_logentry(INITIATOR_trait==zoophile, priority=1)-> 相同!</New_Colony_Zoophile.logRulesInitiator.rulesStrings.1>
+  <!--EN: r_logentry->...excuse me?-->
+  <New_Colony_Zoophile.logRulesInitiator.rulesStrings.2>r_logentry->没有。什么事？</New_Colony_Zoophile.logRulesInitiator.rulesStrings.2>
+  <!--EN: r_logentry->...what was that?-->
+  <New_Colony_Zoophile.logRulesInitiator.rulesStrings.3>r_logentry->没有。这是什么？</New_Colony_Zoophile.logRulesInitiator.rulesStrings.3>
+  <!--EN: r_logentry->...did I just hear that right?-->
+  <New_Colony_Zoophile.logRulesInitiator.rulesStrings.4>r_logentry->没有。我刚才说的对吗？</New_Colony_Zoophile.logRulesInitiator.rulesStrings.4>
+  <!--EN: sexlife-generic-good-->
+  <Sexlife_Generic_Good.label>性生活-通用-良好</Sexlife_Generic_Good.label>
+  <!--EN: r_logentry(INITIATOR_opinion<-25, priority=1)->[bad_opinion]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_opinion<-25, priority=1)->[bad_opinion]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.0>
+  <!--EN: bad_opinion(INITIATOR_thoughtDefName==GotRaped, RECIPIENT_trait==rapist, priority=2)->[bad_opinion_rapist]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.1>bad_opinion(INITIATOR_thoughtDefName==GotRaped, RECIPIENT_trait==rapist, priority=2)->[bad_opinion_rapist]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.1>
+  <!--EN: bad_opinion->Fuck off, [counterpart].-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.10>bad_opinion->滚蛋[counterpart]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.10>
+  <!--EN: bad_opinion->...ugh...-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.11>bad_opinion->没有。呃...</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.11>
+  <!--EN: bad_opinion2->None of your business, [counterpart].-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.12>bad_opinion2->不关你的事,[counterpart]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.12>
+  <!--EN: bad_opinion2->Fuck off, [counterpart].-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.13>bad_opinion2->滚蛋[counterpart]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.13>
+  <!--EN: bad_opinion2->...ugh...-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.14>bad_opinion2->没有。呃...</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.14>
+  <!--EN: r_logentry->[neutral_opinion]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.15>r_logentry->[neutral_opinion]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.15>
+  <!--EN: neutral_opinion->I don't really feel comfortable talking about that.-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.16>neutral_opinion->谈论这个我真的不舒服。</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.16>
+  <!--EN: neutral_opinion->I'd rather not talk to you about it.-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.17>neutral_opinion->我不想和你谈这件事。</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.17>
+  <!--EN: r_logentry(INITIATOR_opinion>=25, priority=1)->[good_opinion]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.18>r_logentry(INITIATOR_opinion>=25, priority=1)->[good_opinion]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.18>
+  <!--EN: good_opinion(INITIATOR_thoughtLabel==sexually frustrated, tag=Colonist_Horny, priority=1)->[good_opinion_frustrated]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.19>good_opinion(INITIATOR_thoughtLabel==sexually frustrated, tag=Colonist_性欲旺盛的, priority=1)->[good_opinion_frustrated]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.19>
+  <!--EN: bad_opinion(INITIATOR_thoughtDefName==GotRaped, RECIPIENT_thoughtLabel==stole some lovin’, priority=2)->[bad_opinion_rapist]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.2>bad_opinion(INITIATOR_thoughtDefName==GotRaped, RECIPIENT_thoughtLabel==stole some lovin’, priority=2)->[bad_opinion_rapist]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.2>
+  <!--EN: good_opinion_frustrated->Nonexistent, unfortunately!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.20>good_opinion_frustrated->很不幸，根本不存在!</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.20>
+  <!--EN: good_opinion_frustrated->I'm so [expletive_adj] horny!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.21>good_opinion_frustrated->我是如此[expletive_adj]性欲旺盛的不!</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.21>
+  <!--EN: good_opinion_frustrated(INITIATOR_gender==Male)->My [expletive_adj] balls are gonna explode!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.22>good_opinion_frustrated(INITIATOR_gender==Male)-> 我的[expletive_adj]球要爆炸了!</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.22>
+  <!--EN: good_opinion(INITIATOR_thoughtLabel==horny, tag=Colonist_Horny, priority=1)->[good_opinion_horny]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.23>good_opinion(INITIATOR_thoughtLabel==horny, tag=Colonist_性欲旺盛的, priority=1)->[good_opinion_horny]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.23>
+  <!--EN: good_opinion_horny->Not much going on lately...-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.24>good_opinion_性欲旺盛的->最近没什么事...</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.24>
+  <!--EN: good_opinion_horny->Could be better...-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.25>good_opinion_性欲旺盛的->会更好</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.25>
+  <!--EN: good_opinion(INITIATOR_thoughtLabel==sexually satisfied, priority=1)->[good_opinion_satisfied]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.26>good_opinion(INITIATOR_thoughtLabel==sexually satisfied, priority=1)->[good_opinion_satisfied]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.26>
+  <!--EN: good_opinion_satisfied->I'm doing pretty well for myself.-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.27>good_opinion_satisfied->我为自己做得很好。</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.27>
+  <!--EN: good_opinion_satisfied->No complaints!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.28>good_opinion_satisfied->无怨言!</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.28>
+  <!--EN: good_opinion(INITIATOR_thoughtLabel==ahegao, priority=1)->[good_opinion_ahegao]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.29>good_opinion(INITIATOR_thoughtLabel==ahegao, priority=1)->[good_opinion_ahegao]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.29>
+  <!--EN: bad_opinion_rapist(INITIATOR_trait==masochist, priority=1)->[bad_opinion2]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.3>bad_opinion_rapist(INITIATOR_trait==masochist, priority=1)->[bad_opinion2]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.3>
+  <!--EN: good_opinion_ahegao->Phenomenal!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.30>good_opinion_ahegao->太了不起了!</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.30>
+  <!--EN: good_opinion_ahegao->Hehe...I feel numb all over...-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.31>good_opinion_ahegao->嘿嘿... 浑身发麻...</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.31>
+  <!--EN: good_opinion(INITIATOR_thoughtLabel==got some lovin', priority=0.5)->[good_opinion_loved]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.32>good_opinion(INITIATOR_thoughtLabel==got some lovin', priority=0.5)->[good_opinion_loved]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.32>
+  <!--EN: good_opinion_loved->I'm doing pretty well for myself.-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.33>good_opinion_loved->我为自己做得很好。</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.33>
+  <!--EN: good_opinion_loved->Not bad.-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.34>good_opinion_loved->不错。</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.34>
+  <!--EN: good_opinion->Meh...-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.35>good_opinion->嗯...</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.35>
+  <!--EN: good_opinion(tag=Sexlife_Generic_Good_Raped, INITIATOR_thoughtDefName==GotAnalRaped, INITIATOR_trait!=masochist, INITIATOR_thoughtLabel!=begging for more, priority=2)->[good_opinion_analraped]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.36>good_opinion(tag=Sexlife_Generic_Good_Raped, INITIATOR_thoughtDefName==GotAnalRaped, INITIATOR_trait!=masochist, INITIATOR_thoughtLabel!=begging for more, priority=2)->[good_opinion_analraped]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.36>
+  <!--EN: good_opinion_analraped->[RECIPIENT_nameDef], I...was raped...in the ass...*sobs*-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.37>good_opinion_analraped->[RECIPIENT_nameDef],我... 被被强奸没有。..在屁股没有。..* 啜泣 *</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.37>
+  <!--EN: good_opinion_analraped->My asshole...*sniffles*...was violated...-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.38>good_opinion_analraped->我的屁眼... * 流鼻涕 * .. 被激怒了...</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.38>
+  <!--EN: good_opinion_analraped->I've been raped in the ass...I feel so dirty...*sobs*-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.39>good_opinion_analraped->我被被强奸在屁股没有。... 我感觉好脏... * 啜泣 *</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.39>
+  <!--EN: bad_opinion_rapist(INITIATOR_trait==rapist, priority=1)->[bad_opinion2]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.4>bad_opinion_rapist(INITIATOR_trait==rapist, priority=1)->[bad_opinion2]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.4>
+  <!--EN: good_opinion(tag=Sexlife_Generic_Good_Raped, INITIATOR_thoughtDefName==GotAnalRapedByFemale, INITIATOR_trait!=masochist, INITIATOR_thoughtLabel!=begging for more, priority=2)->[good_opinion_analraped]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.40>good_opinion(tag=Sexlife_Generic_Good_Raped, INITIATOR_thoughtDefName==GotAnalRapedByFemale, INITIATOR_trait!=masochist, INITIATOR_thoughtLabel!=begging for more, priority=2)->[good_opinion_analraped]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.40>
+  <!--EN: good_opinion_analraped->[RECIPIENT_nameDef], I was raped...in the ass...by a girl...*sobs*-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.41>good_opinion_analraped->[RECIPIENT_nameDef],我曾是被强奸没有。..在屁股没有。... 被一个女孩... * 啜泣 *</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.41>
+  <!--EN: good_opinion_analraped->My asshole...*sniffles*...was violated...-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.42>good_opinion_analraped->我的屁眼... * 流鼻涕 * .. 被激怒了...</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.42>
+  <!--EN: good_opinion_analraped->I've been raped in the ass...I feel so dirty...*sobs*-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.43>good_opinion_analraped->我被被强奸在屁股没有。... 我感觉好脏... * 啜泣 *</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.43>
+  <!--EN: good_opinion(tag=Sexlife_Generic_Good_Raped, INITIATOR_thoughtDefName==GotRaped, INITIATOR_trait!=masochist, INITIATOR_thoughtLabel!=begging for more, priority=2)->[good_opinion_raped]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.44>good_opinion(tag=Sexlife_Generic_Good_Raped, INITIATOR_thoughtDefName==GotRaped, INITIATOR_trait!=masochist, INITIATOR_thoughtLabel!=begging for more, priority=2)->[good_opinion_raped]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.44>
+  <!--EN: good_opinion_raped->[RECIPIENT_nameDef], I...I was raped...*sobs*-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.45>good_opinion_raped->[RECIPIENT_nameDef],我... 曾经被强奸没有。..* 啜泣 *</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.45>
+  <!--EN: good_opinion_raped->I...*sniffles*...was taken advantage of...-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.46>good_opinion_raped->我... * 抽鼻子 * .. 被人利用了...</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.46>
+  <!--EN: good_opinion_raped->I've been raped...I feel so helpless and used...*sobs*-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.47>good_opinion_raped->我被被强奸没有。... 我感到如此的无助和被利用... * 啜泣 *</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.47>
+  <!--EN: good_opinion(tag=Sexlife_Generic_Good_Raped, INITIATOR_thoughtDefName==GotRapedUnconscious, INITIATOR_trait!=masochist, INITIATOR_thoughtLabel!=begging for more, priority=2)->[good_opinion_ucraped]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.48>good_opinion(tag=Sexlife_Generic_Good_Raped, INITIATOR_thoughtDefName==GotRapedUnconscious, INITIATOR_trait!=masochist, INITIATOR_thoughtLabel!=begging for more, priority=2)->[good_opinion_ucraped]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.48>
+  <!--EN: good_opinion_ucraped->[RECIPIENT_nameDef], I...I was raped...*sobs*-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.49>good_opinion_ucraped->[RECIPIENT_nameDef],我... 曾经被强奸没有。..* 啜泣 *</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.49>
+  <!--EN: bad_opinion_rapist->Fuck off, rapist!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.5>bad_opinion_rapist->滚蛋，强奸犯!</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.5>
+  <!--EN: good_opinion_ucraped->I...was taken advantage of...while I was unconscious...*sobs*-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.50>good_opinion_ucraped->我... 被占了便宜... 当我失去知觉... * 啜泣 *</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.50>
+  <!--EN: good_opinion_ucraped->I was raped...and I didn't even have a chance to defend myself...*sobs*-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.51>good_opinion_ucraped->我曾是被强奸没有。..我甚至没有机会保护自己.* 啜泣 *</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.51>
+  <!--EN: good_opinion(tag=Sexlife_Generic_Good_Raped_Masochist, INITIATOR_thoughtDefName==MasochistGotAnalRaped, INITIATOR_trait==masochist, priority=2)->[good_opinion_analraped_masochist]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.52>good_opinion(tag=Sexlife_Generic_Good_Raped_Masochist, INITIATOR_thoughtDefName==MasochistGotAnalRaped, INITIATOR_trait==masochist, priority=2)->[good_opinion_analraped_masochist]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.52>
+  <!--EN: good_opinion_analraped_masochist->[RECIPIENT_nameDef], I was raped...in the ass...it was [masochist_amazing]!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.53>good_opinion_analraped_masochist->[RECIPIENT_nameDef],我曾是被强奸没有。..在屁股没有。... 是的[masochist_amazing]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.53>
+  <!--EN: good_opinion_analraped_masochist->My asshole...*sniffles*...was violated...-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.54>good_opinion_analraped_masochist->我的屁眼... * 流鼻涕 * .. 被激怒了...</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.54>
+  <!--EN: good_opinion_analraped_masochist->I've been raped in the ass...I feel so dirty...it was [masochist_amazing]!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.55>good_opinion_analraped_masochist->我被被强奸在屁股没有。... 我感觉好脏... 是的[masochist_amazing]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.55>
+  <!--EN: good_opinion(tag=Sexlife_Generic_Good_Raped_Masochist, INITIATOR_thoughtDefName==MasochistGotAnalRapedByFemale, INITIATOR_trait==masochist, priority=2)->[good_opinion_analraped_masochist]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.56>good_opinion(tag=Sexlife_Generic_Good_Raped_Masochist, INITIATOR_thoughtDefName==MasochistGotAnalRapedByFemale, INITIATOR_trait==masochist, priority=2)->[good_opinion_analraped_masochist]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.56>
+  <!--EN: good_opinion_analraped_masochist->[RECIPIENT_nameDef], I was raped...in the ass...by a girl...it was [masochist_amazing]!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.57>good_opinion_analraped_masochist->[RECIPIENT_nameDef],我曾是被强奸没有。..在屁股没有。... 被一个女孩... 是的[masochist_amazing]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.57>
+  <!--EN: good_opinion_analraped_masochist->My asshole...*sniffles*...was violated...-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.58>good_opinion_analraped_masochist->我的屁眼... * 流鼻涕 * .. 被激怒了...</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.58>
+  <!--EN: good_opinion_analraped_masochist->I've been raped in the ass...I feel so dirty...it was [masochist_amazing]!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.59>good_opinion_analraped_masochist->我被被强奸在屁股没有。... 我感觉好脏... 是的[masochist_amazing]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.59>
+  <!--EN: bad_opinion_rapist->Leave me alone, rapist!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.6>bad_opinion_rapist->别管我，强奸犯!</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.6>
+  <!--EN: good_opinion(tag=Sexlife_Generic_Good_Raped_Masochist, INITIATOR_thoughtDefName==MasochistGotRaped, INITIATOR_trait==masochist, priority=2)->[good_opinion_raped_masochist]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.60>good_opinion(tag=Sexlife_Generic_Good_Raped_Masochist, INITIATOR_thoughtDefName==MasochistGotRaped, INITIATOR_trait==masochist, priority=2)->[good_opinion_raped_masochist]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.60>
+  <!--EN: good_opinion_raped_masochist->[RECIPIENT_nameDef], I was raped...it was [masochist_amazing]!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.61>good_opinion_raped_masochist->[RECIPIENT_nameDef],我曾是被强奸没有。... 是的[masochist_amazing]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.61>
+  <!--EN: good_opinion_raped_masochist->I got raped. They just pinned me down and used me...[masochist_amazing]!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.62>good_opinion_raped_masochist->我得到被强奸没有。他们只是压住我，利用我.[masochist_amazing]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.62>
+  <!--EN: good_opinion_raped_masochist->I got thrown around like a piece of meat. Loved it!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.63>good_opinion_raped_masochist->我像块肉一样被甩了。喜欢!</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.63>
+  <!--EN: good_opinion(tag=Sexlife_Generic_Good_Raped_Masochist, INITIATOR_thoughtDefName==MasochistGotRapedUnconscious, INITIATOR_trait==masochist, priority=2)->[good_opinion_ucraped_masochist]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.64>good_opinion(tag=Sexlife_Generic_Good_Raped_Masochist, INITIATOR_thoughtDefName==MasochistGotRapedUnconscious, INITIATOR_trait==masochist, priority=2)->[good_opinion_ucraped_masochist]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.64>
+  <!--EN: good_opinion_ucraped_masochist->[RECIPIENT_nameDef], I was raped...it's kinda hot but I didn't get to feel anything.-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.65>good_opinion_ucraped_masochist->[RECIPIENT_nameDef],我曾是被强奸没有。... 有点性感的但是我没有任何感觉。</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.65>
+  <!--EN: good_opinion_ucraped_masochist->I...was taken advantage of while I was unconscious...too bad I missed the fun.-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.66>good_opinion_ucraped_masochist->我…… 在失去知觉的时候被人占了便宜…… 可惜我错过了乐趣。</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.66>
+  <!--EN: good_opinion_ucraped_masochist->I was raped...and I didn't even get to enjoy it...-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.67>good_opinion_ucraped_masochist->我曾是被强奸没有。... 我甚至都无法享受它...</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.67>
+  <!--EN: good_opinion(tag=Sexlife_Generic_Good_Rapist, INITIATOR_thoughtLabel==stole some lovin', priority=2)->[good_opinion_rapist]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.68>good_opinion(tag=Sexlife_Generic_Good_Rapist, INITIATOR_thoughtLabel==stole some lovin', priority=2)->[good_opinion_rapist]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.68>
+  <!--EN: good_opinion_rapist->Well, I forced myself on some bitch...-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.69>good_opinion_rapist->嗯，我强迫针对某个婊子的看法</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.69>
+  <!--EN: bad_opinion_rapist->Fuck off, you raping cunt!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.7>bad_opinion_rapist->滚蛋，你强奸小 unt!</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.7>
+  <!--EN: good_opinion_rapist->I've raped when I needed to.-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.70>good_opinion_rapist->我已经被强奸当我需要的时候。</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.70>
+  <!--EN: good_opinion(tag=Sexlife_Generic_Good_Zoophile, INITIATOR_trait==zoophile, INITIATOR_thoughtLabel==sexually satisfied, priority=1)->[good_opinion_zoophile]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.71>good_opinion(tag=Sexlife_Generic_Good_Zoophile, INITIATOR_trait==zoophile, INITIATOR_thoughtLabel==sexually satisfied, priority=1)->[good_opinion_zoophile]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.71>
+  <!--EN: good_opinion(tag=Sexlife_Generic_Good_Zoophile, INITIATOR_trait==zoophile, INITIATOR_thoughtLabel==horny, priority=1)->[good_opinion_zoophile]-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.72>good_opinion(tag=Sexlife_Generic_Good_Zoophile, INITIATOR_trait==zoophile, INITIATOR_thoughtLabel==horny, priority=1)->[good_opinion_zoophile]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.72>
+  <!--EN: good_opinion_zoophile->I've been having a good time with the animals!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.73>good_opinion_zoophile->我和动物们玩得很开心!</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.73>
+  <!--EN: good_opinion_zoophile->The animals have been treating me well!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.74>good_opinion_zoophile->动物们对我一直很好!</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.74>
+  <!--EN: masochist_amazing->amazing-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.75>masochist_amazing->令人惊叹</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.75>
+  <!--EN: masochist_amazing->so hot-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.76>masochist_amazing->如此性感的</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.76>
+  <!--EN: masochist_amazing->great-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.77>masochist_amazing->极佳</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.77>
+  <!--EN: masochist_amazing->fantastic-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.78>masochist_amazing->太棒了</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.78>
+  <!--EN: bad_opinion_rapist->You make me sick, [RECIPIENT_nameDef]!-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.8>bad_opinion_rapist->你让我恶心,[RECIPIENT_nameDef]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.8>
+  <!--EN: bad_opinion->None of your business, [counterpart].-->
+  <Sexlife_Generic_Good.logRulesInitiator.rulesStrings.9>bad_opinion->不关你的事,[counterpart]</Sexlife_Generic_Good.logRulesInitiator.rulesStrings.9>
+  <!--EN: sexlife-generic-good-raped-->
+  <Sexlife_Generic_Good_Raped.label>Sexlife-通用-良好-被强奸</Sexlife_Generic_Good_Raped.label>
+  <!--EN: r_logentry(INITIATOR_trait!=rapist, priority=1)->[not_rapist]-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait!=rapist, priority=1)->[not_rapist]</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry(INITIATOR_thoughtLabel!=stole some lovin’, priority=1)->[not_rapist]-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.1>r_logentry(INITIATOR_thoughtLabel!=stole some lovin’, priority=1)->[not_rapist]</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.1>
+  <!--EN: not_rapist(INITIATOR_trait==masochist, priority=2)->[masochist_reaction]-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.10>not_rapist(INITIATOR_trait==masochist, priority=2)->[masochist_reaction]</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.10>
+  <!--EN: not_rapist(INITIATOR_thoughtLabel==begging for more, priority=2)->[masochist_reaction]-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.11>not_rapist(INITIATOR_thoughtLabel==begging for more, priority=2)->[masochist_reaction]</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.11>
+  <!--EN: masochist_reaction(INITIATOR_thoughtLabel!=sexually satisfied, INITIATOR_thoughtLabel!=ahegao)->Lucky!-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.12>masochist_reaction(INITIATOR_thoughtLabel!=sexually satisfied, INITIATOR_thoughtLabel!=ahegao)-> 幸运!</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.12>
+  <!--EN: masochist_reaction->Sounds hot!-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.13>masochist_reaction->声音性感的不!</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.13>
+  <!--EN: masochist_reaction->Wow...any chance I could get their name?-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.14>masochist_reaction->哇... 我能知道他们的名字吗？</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.14>
+  <!--EN: not_rapist->Oh, you poor thing!-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.15>not_rapist->哦，你这个可怜的家伙!</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.15>
+  <!--EN: not_rapist->I can't believe it! Are you okay?-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.16>not_rapist->我不敢相信!你好吗？</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.16>
+  <!--EN: not_rapist->Oh my...Are you alright?-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.17>not_rapist->哦，天哪.你还好吧？</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.17>
+  <!--EN: r_logentry->[rapist]-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.18>r_logentry->[rapist]</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.18>
+  <!--EN: rapist->...-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.19>rapist->...</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.19>
+  <!--EN: not_rapist(INITIATOR_thoughtDefName==GotRaped, INITIATOR_trait!=masochist, priority=2)->[also_raped]-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.2>not_rapist(INITIATOR_thoughtDefName==GotRaped, INITIATOR_trait!=masochist, priority=2)->[also_raped]</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.2>
+  <!--EN: rapist->Oh...-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.20>rapist->哦...</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.20>
+  <!--EN: also_raped->I know what you're going through...-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.3>also_raped->我知道你在经历什么...</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.3>
+  <!--EN: also_raped->I know how it feels...how terrible...-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.4>also_raped->我知道那种感觉... 多糟糕...</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.4>
+  <!--EN: also_raped->We'll get through it together, [RECIPIENT_nameDef]...-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.5>also_raped->我们会一起度过的,[RECIPIENT_nameDef]...</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.5>
+  <!--EN: not_rapist(INITIATOR_shooting_passion!=None, priority=1)->[violent_reaction]-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.6>not_rapist(INITIATOR_shooting_激情!=None, priority=1)->[violent_reaction]</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.6>
+  <!--EN: not_rapist(INITIATOR_melee_passion!=None, priority=1)->[violent_reaction]-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.7>not_rapist(INITIATOR_melee_激情!=None, priority=1)->[violent_reaction]</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.7>
+  <!--EN: violent_reaction->What!? Where is the [insult]!?-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.8>violent_reaction->什么!？地点[insult]哦!？</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.8>
+  <!--EN: violent_reaction->What!? I'll kill the [insult]!-->
+  <Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.9>violent_reaction->什么!？我要杀了[insult]</Sexlife_Generic_Good_Raped.logRulesInitiator.rulesStrings.9>
+  <!--EN: sexlife-generic-good-raped-masochist-->
+  <Sexlife_Generic_Good_Raped_Masochist.label>Sexlife-通用-良好-被强奸-受虐狂</Sexlife_Generic_Good_Raped_Masochist.label>
+  <!--EN: r_logentry->[masochist_react]-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.0>r_logentry->[masochist_react]</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.0>
+  <!--EN: masochist_react(INITIATOR_trait!=masochist, priority=2)->[also_masochist]-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.1>masochist_react(INITIATOR_trait!=masochist, priority=2)->[also_masochist]</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.1>
+  <!--EN: masochist_react(INITIATOR_trait==kind, priority=1)->That's not okay!-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.10>masochist_react(INITIATOR_trait==kind, priority=1)-> 这可不行!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.10>
+  <!--EN: masochist_react->...Good for you.-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.11>masochist_react->没有。你真好。</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.11>
+  <!--EN: masochist_react->Oh, geez...-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.12>masochist_react->天呐...</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.12>
+  <!--EN: masochist_react(INITIATOR_trait==rapist, priority=2)->[rapist]-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.13>masochist_react(INITIATOR_trait==rapist, priority=2)->[rapist]</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.13>
+  <!--EN: rapist->Maybe I'll use you later...-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.14>rapist->也许我以后会利用你...</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.14>
+  <!--EN: rapist->Maybe I'll take a turn in a bit...-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.15>rapist->也许我会稍微转一圈...</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.15>
+  <!--EN: also_masochist(INITIATOR_thoughtLabel=horny, priority=1)->Lucky!-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.2>also_masochist(INITIATOR_thoughtLabel=性欲旺盛的, priority=1)-> 幸运!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.2>
+  <!--EN: also_masochist(INITIATOR_thoughtLabel=horny, priority=1)->[expletive], I wish that were me...-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.3>also_masochist(INITIATOR_thoughtLabel=性欲旺盛的, priority=1)->[expletive],我希望是我...</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.3>
+  <!--EN: also_masochist(INITIATOR_thoughtLabel=sexually frustrated, priority=1)->Lucky!-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.4>also_masochist(INITIATOR_thoughtLabel=sexually frustrated, priority=1)-> 幸运!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.4>
+  <!--EN: also_masochist(INITIATOR_thoughtLabel=sexually frustrated, priority=1)->[expletive], I wish that were me...-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.5>also_masochist(INITIATOR_thoughtLabel=sexually frustrated, priority=1)->[expletive],我希望是我...</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.5>
+  <!--EN: also_masochist->[expletive], I love getting used like that!-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.6>also_masochist->[expletive],我喜欢这样被人使用!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.6>
+  <!--EN: also_masochist->[expletive], I love when that happens!-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.7>also_masochist->[expletive],我喜欢这种情况!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.7>
+  <!--EN: also_masochist->That sounds so [expletive_adj] hot!-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.8>also_masochist->听起来是这样[expletive_adj]性感的不!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.8>
+  <!--EN: masochist_react(INITIATOR_trait==kind, priority=1)->You shouldn't be okay with people treating you like that!-->
+  <Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.9>masochist_react(INITIATOR_trait==kind, priority=1)-> 你不应该接受别人那样对待你!</Sexlife_Generic_Good_Raped_Masochist.logRulesInitiator.rulesStrings.9>
+  <!--EN: sexlife-generic-good-rapist-->
+  <Sexlife_Generic_Good_Rapist.label>性别狂暴者</Sexlife_Generic_Good_Rapist.label>
+  <!--EN: r_logentry(INITIATOR_trait==rapist, priority=2)->[also_rapist]-->
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==rapist, priority=2)->[also_rapist]</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.0>
+  <!--EN: also_rapist->Nice!-->
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.1>also_rapist->不错!</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.1>
+  <!--EN: r_logentry(INITIATOR_trait==masochist, priority=2)->[masochist]-->
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.2>r_logentry(INITIATOR_trait==masochist, priority=2)->[masochist]</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.2>
+  <!--EN: masochist->Hot!-->
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.3>masochist->带劲!</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.3>
+  <!--EN: masochist->Sounds hot!-->
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.4>masochist->听起来真带劲!</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.4>
+  <!--EN: masochist->Do me next!-->
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.5>masochist->下一步动手吧!</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.5>
+  <!--EN: r_logentry(tag=Sexlife_Generic_Good_Rapistb)->That is not okay, [RECIPIENT_nameDef]!-->
+  <Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.6>r_logentry(tag=Sexlife_Generic_Good_Rapistb)-> 这不行,[RECIPIENT_nameDef]</Sexlife_Generic_Good_Rapist.logRulesInitiator.rulesStrings.6>
+  <!--EN: sexlife-generic-good-rapistb-->
+  <Sexlife_Generic_Good_Rapistb.label>Sexlife-common-good-rapistb</Sexlife_Generic_Good_Rapistb.label>
+  <!--EN: r_logentry(INITIATOR_trait==rapist, priority=2)->[rapist]-->
+  <Sexlife_Generic_Good_Rapistb.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==rapist, priority=2)->[rapist]</Sexlife_Generic_Good_Rapistb.logRulesInitiator.rulesStrings.0>
+  <!--EN: rapist->Deal with it!-->
+  <Sexlife_Generic_Good_Rapistb.logRulesInitiator.rulesStrings.1>rapist->处理它!</Sexlife_Generic_Good_Rapistb.logRulesInitiator.rulesStrings.1>
+  <!--EN: r_logentry->I know...-->
+  <Sexlife_Generic_Good_Rapistb.logRulesInitiator.rulesStrings.2>r_logentry->我知道</Sexlife_Generic_Good_Rapistb.logRulesInitiator.rulesStrings.2>
+  <!--EN: sexlife-generic-good-zoophile-->
+  <Sexlife_Generic_Good_Zoophile.label>性欲丰富</Sexlife_Generic_Good_Zoophile.label>
+  <!--EN: r_logentry(INITIATOR_trait==zoophile, priority=2)->[also_zoophile]-->
+  <Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==zoophile, priority=2)->[also_zoophile]</Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.0>
+  <!--EN: also_zoophile->Nice!-->
+  <Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.1>also_zoophile->不错!</Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.1>
+  <!--EN: also_zoophile->Hot!-->
+  <Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.2>also_zoophile->带劲!</Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.2>
+  <!--EN: also_zoophile->Sounds hot!-->
+  <Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.3>also_zoophile->听起来真带劲!</Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.3>
+  <!--EN: r_logentry(tag=Sexlife_Generic_Good_Zoophileb)->That is not okay, [RECIPIENT_nameDef]!-->
+  <Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.4>r_logentry(tag=Sexlife_Generic_Good_Zoophileb)-> 这不行,[RECIPIENT_nameDef]</Sexlife_Generic_Good_Zoophile.logRulesInitiator.rulesStrings.4>
+  <!--EN: sexlife-generic-good-zoophile-->
+  <Sexlife_Generic_Good_Zoophileb.label>性欲丰富</Sexlife_Generic_Good_Zoophileb.label>
+  <!--EN: r_logentry(INITIATOR_trait==zoophile, priority=2)->[also_zoophile]-->
+  <Sexlife_Generic_Good_Zoophileb.logRulesInitiator.rulesStrings.0>r_logentry(INITIATOR_trait==zoophile, priority=2)->[also_zoophile]</Sexlife_Generic_Good_Zoophileb.logRulesInitiator.rulesStrings.0>
+  <!--EN: also_zoophile->Why not?-->
+  <Sexlife_Generic_Good_Zoophileb.logRulesInitiator.rulesStrings.1>also_zoophile->为什么？</Sexlife_Generic_Good_Zoophileb.logRulesInitiator.rulesStrings.1>
+  <!--EN: also_zoophile->The animal had a good time too!-->
+  <Sexlife_Generic_Good_Zoophileb.logRulesInitiator.rulesStrings.2>also_zoophile->这只动物也玩得很开心!</Sexlife_Generic_Good_Zoophileb.logRulesInitiator.rulesStrings.2>
+</LanguageData>

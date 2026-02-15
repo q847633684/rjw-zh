@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '链条', 原英文: '无' -> 新英文: 'chains',更新于2026-02-14-->
+  <!--EN: chains-->
+  <Chains.label>链条</Chains.label>
+  <!--原中文: '限制佩戴者行动的一系列链条。', 原英文: '无' -> 新英文: 'A series of chains that restrict its wearer.',更新于2026-02-14-->
+  <!--EN: A series of chains that restrict its wearer.-->
+  <Chains.description>限制佩戴者行动的一系列链条。</Chains.description>
+  <!--原中文: '链条', 原英文: '无' -> 新英文: 'chains',更新于2026-02-14-->
+  <!--EN: chains-->
+  <Chains.labelNoun>链条</Chains.labelNoun>
+  <!--原中文: '绑手', 原英文: '无' -> 新英文: 'bound hands',更新于2026-02-14-->
+  <!--EN: bound hands-->
+  <BoundHands.label>绑手</BoundHands.label>
+  <!--原中文: '绑手。', 原英文: '无' -> 新英文: 'Bound hands.',更新于2026-02-14-->
+  <!--EN: Bound hands.-->
+  <BoundHands.description>绑手。</BoundHands.description>
+  <!--原中文: '绑手', 原英文: '无' -> 新英文: 'bound hands',更新于2026-02-14-->
+  <!--EN: bound hands-->
+  <BoundHands.labelNoun>绑手</BoundHands.labelNoun>
+  <!--原中文: '绑腿', 原英文: '无' -> 新英文: 'bound legs',更新于2026-02-14-->
+  <!--EN: bound legs-->
+  <BoundLegs.label>绑腿</BoundLegs.label>
+  <!--原中文: '绑腿。', 原英文: '无' -> 新英文: 'Bound legs.',更新于2026-02-14-->
+  <!--EN: Bound legs.-->
+  <BoundLegs.description>绑腿。</BoundLegs.description>
+  <!--原中文: '绑腿', 原英文: '无' -> 新英文: 'bound legs',更新于2026-02-14-->
+  <!--EN: bound legs-->
+  <BoundLegs.labelNoun>绑腿</BoundLegs.labelNoun>
+  <!--原中文: '束缚', 原英文: '无' -> 新英文: 'Restraints',更新于2026-02-14-->
+  <!--EN: Restraints-->
+  <RJW_Restraints.label>束缚</RJW_Restraints.label>
+  <!--原中文: '束缚。', 原英文: '无' -> 新英文: 'A set of restraints.',更新于2026-02-14-->
+  <!--EN: A set of restraints.-->
+  <RJW_Restraints.description>束缚。</RJW_Restraints.description>
+  <!--原中文: '束缚', 原英文: '无' -> 新英文: 'restraints',更新于2026-02-14-->
+  <!--EN: restraints-->
+  <RJW_Restraints.labelNoun>束缚</RJW_Restraints.labelNoun>
+  <!-- insect restraints -->
+  <!--原中文: '结茧', 原英文: '无' -> 新英文: 'Cocoon',更新于2026-02-14-->
+  <!--EN: Cocoon-->
+  <RJW_Cocoon.label>结茧</RJW_Cocoon.label>
+  <!--原中文: '虫在准备繁殖时束缚寄主的茧。', 原英文: '无' -> 新英文: 'A cocoon that tends to its host until ready to procreate.',更新于2026-02-14-->
+  <!--EN: A cocoon that tends to its host until ready to procreate.-->
+  <RJW_Cocoon.description>虫在准备繁殖时束缚寄主的茧。</RJW_Cocoon.description>
+  <!--原中文: '结茧', 原英文: '无' -> 新英文: 'A cocoon',更新于2026-02-14-->
+  <!--EN: A cocoon-->
+  <RJW_Cocoon.labelNoun>结茧</RJW_Cocoon.labelNoun>
+</LanguageData>

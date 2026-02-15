@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Stretching Multiplier: {0}-->
+  <RES_DamageMultiplier_Label>拉伸倍数：{0}</RES_DamageMultiplier_Label>
+  <!--EN: Changes the strenght of stretching effect, also affects how fast Extreme Damage and Prolapse will happen.-->
+  <RES_DamageMultiplier_Tooltip>改变拉伸效果的强度，也影响严重损伤和脱垂发生的速度。</RES_DamageMultiplier_Tooltip>
+  <!--EN: Enable Debug Logging-->
+  <RES_DebugMode_Label>启用调试日志</RES_DebugMode_Label>
+  <!--EN: Allows debug logs to be displayed.-->
+  <RES_DebugMode_Tooltip>允许显示调试日志。</RES_DebugMode_Tooltip>
+  <!--EN: Show Stretch Messages for Animals-->
+  <RES_EnableStretchNotifications_ForAnimals_Label>显示动物的拉伸消息</RES_EnableStretchNotifications_ForAnimals_Label>
+  <!--EN: Show Stretch Messages for Named Animals only-->
+  <RES_EnableStretchNotifications_ForAnimals_OnlyNamed_Label>仅显示有名字的动物的拉伸消息</RES_EnableStretchNotifications_ForAnimals_OnlyNamed_Label>
+  <!--EN: Only display stretch-related messages for named Animal pawns.-->
+  <RES_EnableStretchNotifications_ForAnimals_OnlyNamed_Tooltip>仅显示有名字的动物角色的拉伸相关消息。</RES_EnableStretchNotifications_ForAnimals_OnlyNamed_Tooltip>
+  <!--EN: Display stretch-related messages for Animal pawns.-->
+  <RES_EnableStretchNotifications_ForAnimals_Tooltip>显示动物角色的拉伸相关消息。</RES_EnableStretchNotifications_ForAnimals_Tooltip>
+  <!--EN: Show Stretch Messages for Humans-->
+  <RES_EnableStretchNotifications_ForHumans_Label>显示人类的拉伸消息</RES_EnableStretchNotifications_ForHumans_Label>
+  <!--EN: Display stretch-related messages for Humanlike pawns.-->
+  <RES_EnableStretchNotifications_ForHumans_Tooltip>显示人形角色的拉伸相关消息。</RES_EnableStretchNotifications_ForHumans_Tooltip>
+  <!--EN: Enable Stretch Notifications-->
+  <RES_EnableStretchNotifications_Label>启用拉伸通知</RES_EnableStretchNotifications_Label>
+  <!--EN: Allows stretch notifications to be displayed.-->
+  <RES_EnableStretchNotifications_Tooltip>允许显示拉伸通知。</RES_EnableStretchNotifications_Tooltip>
+  <!--EN: Stretching notifications.-->
+  <RES_FeatureTabNotifications_Label>拉伸通知。</RES_FeatureTabNotifications_Label>
+  <!--EN: Stretching mechanics and their settings.-->
+  <RES_FeatureTabStretching_Label>拉伸机制及其设置。</RES_FeatureTabStretching_Label>
+  <!--EN: Enable extreme orifice injuries-->
+  <RES_IsExtremeInjuriesEnabled_Label>启用腔口严重损伤</RES_IsExtremeInjuriesEnabled_Label>
+  <!--EN: Allows orifices to be permanently traumatized from violent penetration, increasing their maximum stretchable length and/or girth.-->
+  <RES_IsExtremeInjuriesEnabled_Tooltip>允许腔口因暴力插入而永久性损伤，增加其最大可拉伸长度和/或粗度。</RES_IsExtremeInjuriesEnabled_Tooltip>
+  <!--EN: Enable orifice prolapsing-->
+  <RES_IsProlapseEnabled_Label>启用腔口脱垂</RES_IsProlapseEnabled_Label>
+  <!--EN: Stretching mechanics and their settings.-->
+  <RES_IsProlapseEnabled_Tooltip>拉伸机制及其设置。</RES_IsProlapseEnabled_Tooltip>
+  <!--EN: Show Stretch Messages for Player Faction Only-->
+  <RES_IsStretchTextPlayerFactionVisibleOnly_Label>仅显示玩家派系的拉伸消息</RES_IsStretchTextPlayerFactionVisibleOnly_Label>
+  <!--EN: Only displays stretch-related messages for pawns belonging to the player faction.-->
+  <RES_IsStretchTextPlayerFactionVisibleOnly_Tooltip>仅显示属于玩家派系的角色的拉伸相关消息。</RES_IsStretchTextPlayerFactionVisibleOnly_Tooltip>
+  <!--EN: Notifications-->
+  <RES_Notifications>通知</RES_Notifications>
+  <!--EN: Recovery Multiplier: {0}-->
+  <RES_RecoveryMultiplier_Label>恢复倍数：{0}</RES_RecoveryMultiplier_Label>
+  <!--EN: Changes the recovery speed of stretched orifices.-->
+  <RES_RecoveryMultiplier_Tooltip>改变被拉伸腔口的恢复速度。</RES_RecoveryMultiplier_Tooltip>
+  <!--EN: Reset-->
+  <RES_Reset>重置</RES_Reset>
+  <!--EN: Enable dangerous sex aversion-->
+  <RES_SexTypeAversion_Label>启用危险性行为规避</RES_SexTypeAversion_Label>
+  <!--EN: Pawns will try and select sex type that will not result in their orifices damaged.-->
+  <RES_SexTypeAversion_Tooltip>角色将尝试选择不会导致其腔口受损的性行为类型。</RES_SexTypeAversion_Tooltip>
+  <!--EN: Stretching-->
+  <RES_Stretching>拉伸</RES_Stretching>
+  <!--EN: Enable tightness sex thoughs-->
+  <RES_TightSexThoughts_Label>启用松紧度性爱想法</RES_TightSexThoughts_Label>
+  <!--EN: Enables thoughts based on tightness during sex.-->
+  <RES_TightSexThoughts_Tooltip>启用基于性爱中松紧度的想法。</RES_TightSexThoughts_Tooltip>
+</LanguageData>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Thoughts -->
+  <!--原中文: '强奸了某人', 原英文: '无' -> 新英文: 'raped someone',更新于2026-02-14-->
+  <!--EN: raped someone-->
+  <Rape_Abhorrent.stages.0.label>强奸了某人</Rape_Abhorrent.stages.0.label>
+  <!--原中文: '我强奸了某人。 我不该那么做。', 原英文: '无' -> 新英文: 'I raped someone. I shouldn't do that.',更新于2026-02-14-->
+  <!--EN: I raped someone. I shouldn't do that.-->
+  <Rape_Abhorrent.stages.0.description>我强奸了某人。 我不该那么做。</Rape_Abhorrent.stages.0.description>
+  <!--原中文: '强奸了某人', 原英文: '无' -> 新英文: 'raped someone',更新于2026-02-14-->
+  <!--EN: raped someone-->
+  <Rape_Know_Abhorrent.stages.0.label>强奸了某人</Rape_Know_Abhorrent.stages.0.label>
+  <!--原中文: '强奸了某人', 原英文: '无' -> 新英文: 'raped someone',更新于2026-02-14-->
+  <!--EN: raped someone-->
+  <Rape_Horrible.stages.0.label>强奸了某人</Rape_Horrible.stages.0.label>
+  <!--原中文: '我强奸了某人。 我不该那么做。', 原英文: '无' -> 新英文: 'I raped someone. I shouldn't do that.',更新于2026-02-14-->
+  <!--EN: I raped someone. I shouldn't do that.-->
+  <Rape_Horrible.stages.0.description>我强奸了某人。 我不该那么做。</Rape_Horrible.stages.0.description>
+  <!--原中文: '强奸了某人', 原英文: '无' -> 新英文: 'raped someone',更新于2026-02-14-->
+  <!--EN: raped someone-->
+  <Rape_Know_Horrible.stages.0.label>强奸了某人</Rape_Know_Horrible.stages.0.label>
+  <!--原中文: '强奸了某人', 原英文: '无' -> 新英文: 'raped someone',更新于2026-02-14-->
+  <!--EN: raped someone-->
+  <Rape_Disapproved.stages.0.label>强奸了某人</Rape_Disapproved.stages.0.label>
+  <!--原中文: '我强奸了某人。 我不该那么做。', 原英文: '无' -> 新英文: 'I raped someone. I shouldn't do that.',更新于2026-02-14-->
+  <!--EN: I raped someone. I shouldn't do that.-->
+  <Rape_Disapproved.stages.0.description>我强奸了某人。 我不该那么做。</Rape_Disapproved.stages.0.description>
+  <!--原中文: '强奸了某人', 原英文: '无' -> 新英文: 'raped someone',更新于2026-02-14-->
+  <!--EN: raped someone-->
+  <Rape_Know_Disapproved.stages.0.label>强奸了某人</Rape_Know_Disapproved.stages.0.label>
+  <!--原中文: '强奸了某人', 原英文: '无' -> 新英文: 'raped someone',更新于2026-02-14-->
+  <!--EN: raped someone-->
+  <Rape_Know_Honorable.stages.0.label>强奸了某人</Rape_Know_Honorable.stages.0.label>
+</LanguageData>

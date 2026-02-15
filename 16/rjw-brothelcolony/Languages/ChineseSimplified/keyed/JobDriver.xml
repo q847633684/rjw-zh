@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '{0}向{1}提供服务，并且收到了{2}银。基础价：{3}，青楼床铺品质：{4}', 原英文: '无' -> 新英文: '{0} served {1} and was paid {2}. Base price: {3}, Bed quality: {4}',更新于2026-02-14-->
+  <!--EN: {0} served {1} and was paid {2}. Base price: {3}, Bed quality: {4}-->
+  <WhoreIsServingVisitorsPaymentSilver>{0}向{1}提供服务，并且收到了{2}银。基础价：{3}，青楼床铺品质：{4}</WhoreIsServingVisitorsPaymentSilver>
+  <!--原中文: '{0}向{1}提供服务，并收到基于{3}的{2}点派系好感度。', 原英文: '无' -> 新英文: '{0} served {1} and earned {2} goodwill with {3}.',更新于2026-02-14-->
+  <!--EN: {0} served {1} and earned {2} goodwill with {3}.-->
+  <WhoreIsServingVisitorsPaymentGoodwill>{0}向{1}提供服务，并收到基于{3}的{2}点派系好感度。</WhoreIsServingVisitorsPaymentGoodwill>
+  <!--原中文: '{0}向{1}提供服务，并收到{2}点热忱圣点。', 原英文: '无' -> 新英文: '{0} served {1} and earned {2} sacred fervor.',更新于2026-02-14-->
+  <!--EN: {0} served {1} and earned {2} sacred fervor.-->
+  <WhoreIsServingVisitorsPaymentFervor>{0}向{1}提供服务，并收到{2}点热忱圣点。</WhoreIsServingVisitorsPaymentFervor>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--重复key，需删除-->
+  <Armbinder.label>拘束手套</Armbinder.label>
+  <!--重复key，需删除-->
+  <Armbinder.description>拘束手套可以阻止穿着它的任何小人使用其武器。</Armbinder.description>
+</LanguageData>

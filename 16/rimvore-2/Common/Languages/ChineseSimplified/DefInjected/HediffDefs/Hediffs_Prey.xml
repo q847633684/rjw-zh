@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: This pawn has been vored and is spending time inside of another pawn.-->
+  <RV2_CurrentlyVored.description>这个pawn已被洗劫一空，正在另一个星球里消磨时间pawn</RV2_CurrentlyVored.description>
+  <!--EN: Vored-->
+  <RV2_CurrentlyVored.label>被收留</RV2_CurrentlyVored.label>
+</LanguageData>

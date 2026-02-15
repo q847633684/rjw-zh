@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hediff_ASA.label>抗精子抗体</Hediff_ASA.label>
+  <Hediff_ASA.description>抗精子抗体。\n增加精子的死亡率。</Hediff_ASA.description>
+  <Hediff_ASA.labelNoun>抗精子抗体</Hediff_ASA.labelNoun>
+  <Hediff_ASA.labelNounPretty>{0} 具有抗精子抗体</Hediff_ASA.labelNounPretty>
+  
+  <Hediff_ForceFertile.label>沃</Hediff_ForceFertile.label>
+  <Hediff_ForceFertile.labelNounPretty>{0} 是可育的</Hediff_ForceFertile.labelNounPretty>
+  <Hediff_ForceFertile.description>沃</Hediff_ForceFertile.description>
+  <Hediff_ForceFertile.labelNoun>沃</Hediff_ForceFertile.labelNoun>
+
+
+</LanguageData>

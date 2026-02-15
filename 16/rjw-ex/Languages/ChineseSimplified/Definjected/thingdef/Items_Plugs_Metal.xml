@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--重复key，需删除-->
+  <MAnalPlugSmall.label>小号肛塞</MAnalPlugSmall.label>
+  <!--重复key，需删除-->
+  <MAnalPlugSmall.description>一个简单的肛塞。尺寸S</MAnalPlugSmall.description>
+  <!--重复key，需删除-->
+  <MAnalPlugMedium.label>中号肛塞</MAnalPlugMedium.label>
+  <!--重复key，需删除-->
+  <MAnalPlugMedium.description>一个简单的肛塞。尺寸M</MAnalPlugMedium.description>
+  <!--重复key，需删除-->
+  <MAnalPlugLarge.label>大号肛塞</MAnalPlugLarge.label>
+  <!--重复key，需删除-->
+  <MAnalPlugLarge.description>一个简单的肛塞。尺寸L</MAnalPlugLarge.description>
+</LanguageData>

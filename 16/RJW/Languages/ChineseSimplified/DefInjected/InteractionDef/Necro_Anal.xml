@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '强迫肛交', 原英文: '无' -> 新英文: 'anal',更新于2026-02-14-->
+  <!--EN: anal-->
+  <Necro_Anal.label>强迫肛交</Necro_Anal.label>
+  <!--原中文: '强迫肛交', 原英文: '无' -> 新英文: 'Fuck anally',更新于2026-02-14-->
+  <!--EN: Fuck anally-->
+  <Necro_Anal.modExtensions.0.RMBLabel>强迫肛交</Necro_Anal.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->强迫肛交了[RECIPIENT_nameDef]。', 原英文: '无' -> 新英文: 'r_logentry->Raped anally [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Raped anally [RECIPIENT_nameDef].-->
+  <Necro_Anal.logRulesInitiator.rulesStrings.0>r_logentry->强迫肛交了[RECIPIENT_nameDef]。</Necro_Anal.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->被迫受[INITIATOR_nameDef]肛交了。', 原英文: '无' -> 新英文: 'r_logentry->Was anally raped by [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Was anally raped by [INITIATOR_nameDef].-->
+  <Necro_Anal.logRulesRecipient.rulesStrings.0>r_logentry->被迫受[INITIATOR_nameDef]肛交了。</Necro_Anal.logRulesRecipient.rulesStrings.0>
+</LanguageData>

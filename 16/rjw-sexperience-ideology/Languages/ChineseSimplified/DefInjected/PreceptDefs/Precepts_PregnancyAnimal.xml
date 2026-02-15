@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'bestial pregnancy',新增于2026-02-14-->
+  <!--EN: bestial pregnancy-->
+  <PregnancyAnimal.label>兽交妊娠</PregnancyAnimal.label>
+  <!--翻译内容: 'Being pregnant with an animal's offspring feels wrong and unnatural. It's a burden that must be avoided at all costs.',新增于2026-02-14-->
+  <!--EN: Being pregnant with an animal's offspring feels wrong and unnatural. It's a burden that must be avoided at all costs.-->
+  <PregnancyAnimal_Horrible.description>怀着动物的后代感觉错误且不自然。这是一个必须不惜一切代价避免的负担。</PregnancyAnimal_Horrible.description>
+  <!--翻译内容: 'horrible',新增于2026-02-14-->
+  <!--EN: horrible-->
+  <PregnancyAnimal_Horrible.label>令人憎恶</PregnancyAnimal_Horrible.label>
+  <!--翻译内容: 'Carrying the offspring of an animal is nothing more than a natural, unremarkable part of life.',新增于2026-02-14-->
+  <!--EN: Carrying the offspring of an animal is nothing more than a natural, unremarkable part of life.-->
+  <PregnancyAnimal_NoRules.description>怀着动物的后代不过是生活中自然且寻常的一部分。</PregnancyAnimal_NoRules.description>
+  <!--翻译内容: 'indifferent',新增于2026-02-14-->
+  <!--EN: indifferent-->
+  <PregnancyAnimal_NoRules.label>无所谓</PregnancyAnimal_NoRules.label>
+  <!--翻译内容: 'We must do our part to help increase the animal population, even if it means bearing their offspring. It's a necessary duty for the balance of our society.',新增于2026-02-14-->
+  <!--EN: We must do our part to help increase the animal population, even if it means bearing their offspring. It's a necessary duty for the balance of our society.-->
+  <PregnancyAnimal_Required.description>我们必须尽自己的一份力来帮助增加动物数量，即使这意味着要怀上它们的后代。这是我们社会平衡的必要责任。</PregnancyAnimal_Required.description>
+  <!--翻译内容: 'breeding',新增于2026-02-14-->
+  <!--EN: breeding-->
+  <PregnancyAnimal_Required.label>繁殖义务</PregnancyAnimal_Required.label>
+  <!--翻译内容: 'I never imagined it would end like this — carrying an animal's offspring. This is a nightmare. What am I supposed to do now?',新增于2026-02-14-->
+  <!--EN: I never imagined it would end like this — carrying an animal's offspring. This is a nightmare. What am I supposed to do now?-->
+  <Pregnancy_Horrible_PregnantAnimal.stages.0.description>我从没想过会落到这种地步——怀着动物的后代。这简直是一场噩梦。我现在该怎么办？</Pregnancy_Horrible_PregnantAnimal.stages.0.description>
+  <!--翻译内容: 'pregnant from animal',新增于2026-02-14-->
+  <!--EN: pregnant from animal-->
+  <Pregnancy_Horrible_PregnantAnimal.stages.0.label>怀上兽胎</Pregnancy_Horrible_PregnantAnimal.stages.0.label>
+  <!--翻译内容: 'pregnant from animal',新增于2026-02-14-->
+  <!--EN: pregnant from animal-->
+  <Pregnancy_Horrible_PregnantAnimal_Social.stages.0.label>怀上兽胎</Pregnancy_Horrible_PregnantAnimal_Social.stages.0.label>
+  <!--翻译内容: 'The thought of being impregnated by an animal is thrilling — I want to experience it.',新增于2026-02-14-->
+  <!--EN: The thought of being impregnated by an animal is thrilling — I want to experience it.-->
+  <Pregnancy_Respected_NonPregnantAnimal.stages.0.description>一想到会被动物搞大肚子就让我兴奋不已——我想体验一下。</Pregnancy_Respected_NonPregnantAnimal.stages.0.description>
+  <!--翻译内容: 'not pregnant from animal',新增于2026-02-14-->
+  <!--EN: not pregnant from animal-->
+  <Pregnancy_Respected_NonPregnantAnimal.stages.0.label>未曾怀上兽胎</Pregnancy_Respected_NonPregnantAnimal.stages.0.label>
+  <!--翻译内容: 'not impregnated by an animal',新增于2026-02-14-->
+  <!--EN: not impregnated by an animal-->
+  <Pregnancy_Respected_NonPregnantAnimal_Social.stages.0.label>未曾被动物受孕</Pregnancy_Respected_NonPregnantAnimal_Social.stages.0.label>
+  <!--翻译内容: 'I'm pregnant with an animal's offspring, and it feels right, like I'm meant to be this way.',新增于2026-02-14-->
+  <!--EN: I'm pregnant with an animal's offspring, and it feels right, like I'm meant to be this way.-->
+  <Pregnancy_Respected_PregnantAnimal.stages.0.description>我怀上了动物的后代，这感觉理所当然，仿佛我本该如此。</Pregnancy_Respected_PregnantAnimal.stages.0.description>
+  <!--翻译内容: 'pregnant from animal',新增于2026-02-14-->
+  <!--EN: pregnant from animal-->
+  <Pregnancy_Respected_PregnantAnimal.stages.0.label>怀上兽胎</Pregnancy_Respected_PregnantAnimal.stages.0.label>
+  <!--翻译内容: 'pregnant from animal',新增于2026-02-14-->
+  <!--EN: pregnant from animal-->
+  <Pregnancy_Respected_PregnantAnimal_Social.stages.0.label>怀上兽胎</Pregnancy_Respected_PregnantAnimal_Social.stages.0.label>
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Labels -->
+  <!--原中文: '高潮', 原英文: '无' -> 新英文: 'Orgasm',更新于2026-02-14-->
+  <!--EN: Orgasm-->
+  <RJW_SexGizmo_Orgasm>高潮</RJW_SexGizmo_Orgasm>
+  <!--原中文: '耐力', 原英文: '无' -> 新英文: 'Stamina',更新于2026-02-14-->
+  <!--EN: Stamina-->
+  <RJW_SexGizmo_RestNeed>耐力</RJW_SexGizmo_RestNeed>
+  <!--原中文: '满足', 原英文: '无' -> 新英文: 'Satisfaction',更新于2026-02-14-->
+  <!--EN: Satisfaction-->
+  <RJW_SexGizmo_SexNeed>满足</RJW_SexGizmo_SexNeed>
+  <!-- ? -->
+  <!-- Buttons -->
+  <!--原中文: '性爱不会结束，直到小人崩溃或以其他方式中断。', 原英文: '无' -> 新英文: 'SexOverdrive - sex wont end until pawn collapses or interrupted otherwise.',更新于2026-02-14-->
+  <!--EN: SexOverdrive - sex wont end until pawn collapses or interrupted otherwise.-->
+  <RJW_SexGizmo_SexOverdriveTooltip>性爱不会结束，直到小人崩溃或以其他方式中断。</RJW_SexGizmo_SexOverdriveTooltip>
+  <!--原中文: '打一次。', 原英文: '无' -> 新英文: 'Hit once.',更新于2026-02-14-->
+  <!--EN: Hit once.-->
+  <RJW_SexGizmo_HitPawn>打一次。</RJW_SexGizmo_HitPawn>
+  <!--原中文: '将小人裹成茧。', 原英文: '无' -> 新英文: 'Wrap pawn into cocoon.',更新于2026-02-14-->
+  <!--EN: Wrap pawn into cocoon.-->
+  <RJW_SexGizmo_Cocoon>将小人裹成茧。</RJW_SexGizmo_Cocoon>
+  <!-- ? -->
+  <!--原中文: '塞入虫蛋。', 原英文: '无' -> 新英文: 'Stuff with eggs.',更新于2026-02-14-->
+  <!--EN: Stuff with eggs.-->
+  <RJW_SexGizmo_Egg>塞入虫蛋。</RJW_SexGizmo_Egg>
+  <!-- ? -->
+</LanguageData>

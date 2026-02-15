@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--过时key，需删除-->
+  <CumTolerance.label>精液成瘾</CumTolerance.label>
+  <!--过时key，需删除-->
+  <CumTolerance.description>更容易对精液上瘾。</CumTolerance.description>
+  <!-- <CumTolerance.0.label>легке</CumTolerance.0.label> -->
+  <!--过时key，需删除-->
+  <CumAddiction.label>精液成瘾</CumAddiction.label>
+  <!--过时key，需删除-->
+  <CumAddiction.description>精液成瘾。</CumAddiction.description>
+  <!-- <CumAddiction.stages.0.label>легка</CumAddiction.stages.0.label>-->
+  <!-- <CumAddiction.stages.1.label>ломка</CumAddiction.stages.1.label>-->
+</LanguageData>

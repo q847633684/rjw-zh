@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Stole a gene-->
+  <rjw_genes_GoodwillChangedReason_StoleGene.label>窃取了基因</rjw_genes_GoodwillChangedReason_StoleGene.label>
+  <!--EN: Infected a pawn with a genetic disease-->
+  <rjw_genes_GoodwillChangedReason_infected_with_disease.label>使小人感染了遗传疾病</rjw_genes_GoodwillChangedReason_infected_with_disease.label>
+  <!--EN: Spread a genetic disease-->
+  <rjw_genes_GoodwillChangedReason_spread_genetic_disease.label>传播了遗传疾病</rjw_genes_GoodwillChangedReason_spread_genetic_disease.label>
+</LanguageData>

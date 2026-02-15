@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Someone denied a vore proposal for something I have a massive fetish for! How inconsiderate!-->
+  <RV2_DeniedVoreProposalObsessed_Mood.stages.0.description>有人拒绝了吃人求婚一件我非常迷恋的东西!多么懦弱!</RV2_DeniedVoreProposalObsessed_Mood.stages.0.description>
+  <!--EN: vore proposal denied (obsessed)-->
+  <RV2_DeniedVoreProposalObsessed_Mood.stages.0.label>吃人拒绝求婚 (迷恋)</RV2_DeniedVoreProposalObsessed_Mood.stages.0.label>
+  <!--EN: vore proposal denied (obsessed)-->
+  <RV2_DeniedVoreProposalObsessed_Social.stages.0.label>吃人拒绝求婚 (迷恋)</RV2_DeniedVoreProposalObsessed_Social.stages.0.label>
+  <!--EN: Someone denied my vore proposal.-->
+  <RV2_DeniedVoreProposal_Mood.stages.0.description>有人拒绝了我的请求吃人求婚。</RV2_DeniedVoreProposal_Mood.stages.0.description>
+  <!--EN: vore proposal denied-->
+  <RV2_DeniedVoreProposal_Mood.stages.0.label>吃人拒绝求婚</RV2_DeniedVoreProposal_Mood.stages.0.label>
+  <!--EN: vore proposal denied-->
+  <RV2_DeniedVoreProposal_Social.stages.0.label>吃人拒绝求婚</RV2_DeniedVoreProposal_Social.stages.0.label>
+</LanguageData>

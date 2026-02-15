@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: {0} has been fully-assimilated.-->
+  <RV2_AssimilationAvulsion.deathMessage>{0}已被完全同化。</RV2_AssimilationAvulsion.deathMessage>
+  <!--EN: Damage caused by tearing a partially-assimilated pawn free from their predator.-->
+  <RV2_AssimilationAvulsion.label>撕裂部分同化物所造成的伤害pawn摆脱它们的捕食者。</RV2_AssimilationAvulsion.label>
+  <!--EN: {0} has been melted into chemfuel.-->
+  <RV2_ChemfuelConversionEnzymes.deathMessage>{0}已熔化为化合燃料。</RV2_ChemfuelConversionEnzymes.deathMessage>
+  <!--EN: Damage caused by olifaction.-->
+  <RV2_ChemfuelConversionEnzymes.label>橄榄石作用造成的伤害。</RV2_ChemfuelConversionEnzymes.label>
+  <!--EN: {0} has been melted into eggs.-->
+  <RV2_EggConversionEnzymes.deathMessage>{0}已经被融化成卵了。</RV2_EggConversionEnzymes.deathMessage>
+  <!--EN: Damage caused by ovifaction.-->
+  <RV2_EggConversionEnzymes.label>产卵造成的伤害。</RV2_EggConversionEnzymes.label>
+  <!--EN: {0} has been melted into piss.-->
+  <RV2_UrineConversionEnzymes.deathMessage>{0}已经融化成尿了。</RV2_UrineConversionEnzymes.deathMessage>
+  <!--EN: Damage caused by urifaction.-->
+  <RV2_UrineConversionEnzymes.label>分裂造成的伤害。</RV2_UrineConversionEnzymes.label>
+</LanguageData>

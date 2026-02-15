@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: An outfit for house servants of the master. Such servants also keep the Master's bed warm.-->
+  <SSASexymaid.description>为主人的家仆准备的装束。这样的仆人也负责为主人暖床。</SSASexymaid.description>
+  <!--EN: Sexy maid-->
+  <SSASexymaid.label>性感女仆装</SSASexymaid.label>
+  <!--EN: Sex slave`s bikini, show wearer as ready to be used or put on display.-->
+  <Sexslavebikini.description>性奴的比基尼，昭示着穿戴者随时可供使用或展示。</Sexslavebikini.description>
+  <!--EN: sex slave bikini-->
+  <Sexslavebikini.label>性奴比基尼</Sexslavebikini.label>
+  <!--EN: Cum rags don't need nice clothes.-->
+  <Sexslaverag.description>精液抹布还需要什么好衣服。</Sexslaverag.description>
+  <!--EN: Sex Slave Rag-->
+  <Sexslaverag.label>性奴破布装</Sexslaverag.label>
+  <!--EN: This ratty and simple kimono means that the wearer is little more than a common slave, barely worth even simple clothing.-->
+  <Slavekimono.description>这件破烂简陋的和服意味着穿着者不过是个普通奴隶，甚至连件粗布衣裳都不配有。</Slavekimono.description>
+  <!--EN: Slave Kimono-->
+  <Slavekimono.label>奴隶和服</Slavekimono.label>
+</LanguageData>

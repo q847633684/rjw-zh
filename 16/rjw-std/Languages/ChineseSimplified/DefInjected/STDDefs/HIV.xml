@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: HIV consists of two parts: an acute and a chronic infection. Both parts follow the same course, reducing the infected pawn's blood filtration as their severity increases. The acute phase progresses rapidly but can be fought by the pawn's immune system, whereas the chronic phase progresses very slowly but can never be cured. Treatment can modestly slow the progress of the disease.-->
+  <HIV.description>HIV 由两部分组成：急性感染和慢性感染。两者遵循相同的病程，随着严重程度增加，降低受感染角色的血液过滤能力。急性期进展迅速，但可以被角色的免疫系统对抗，而慢性期进展非常缓慢，但永远无法治愈。治疗可以适度减缓疾病的进展。</HIV.description>
+  <!--EN: HIV-->
+  <HIV.label>HIV</HIV.label>
+</LanguageData>

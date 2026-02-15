@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Actually, there are no pheromones for humans that we are aware of, did you know? There are smells we are conditioned to like, but actual pheromones are not known for humans. But, this is a game, so fuck it I guess? -->
+
+  <rjw_genes_aphrodisiac_pheromone.label>诱发性欲</rjw_genes_aphrodisiac_pheromone.label>
+  <rjw_genes_aphrodisiac_pheromone.description>由于闻到催情信息素而导致性欲增强。</rjw_genes_aphrodisiac_pheromone.description>
+  <rjw_genes_aphrodisiac_pheromone.stages.0.label>逐渐消失</rjw_genes_aphrodisiac_pheromone.stages.0.label>
+  <rjw_genes_aphrodisiac_pheromone.stages.1.label>中等</rjw_genes_aphrodisiac_pheromone.stages.1.label>
+  <rjw_genes_aphrodisiac_pheromone.stages.2.label>强</rjw_genes_aphrodisiac_pheromone.stages.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '[PAWN_nameDef]出生于一个文明定居点。', 原英文: '无' -> 新英文: '[PAWN_nameDef] was born in civil settlement.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] was born in civil settlement.-->
+  <rjw_childC.baseDesc>[PAWN_nameDef]出生于一个文明定居点。</rjw_childC.baseDesc>
+  <!--原中文: '儿童', 原英文: '无' -> 新英文: 'Child',更新于2026-02-14-->
+  <!--EN: Child-->
+  <rjw_childC.title>儿童</rjw_childC.title>
+  <!--原中文: '儿童', 原英文: '无' -> 新英文: 'Child',更新于2026-02-14-->
+  <!--EN: Child-->
+  <rjw_childC.titleShort>儿童</rjw_childC.titleShort>
+  <!--原中文: '[PAWN_nameDef]出生于一个部落。', 原英文: '无' -> 新英文: '[PAWN_nameDef] was born in a tribe.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] was born in a tribe.-->
+  <rjw_childT.baseDesc>[PAWN_nameDef]出生于一个部落。</rjw_childT.baseDesc>
+  <!--原中文: '儿童', 原英文: '无' -> 新英文: 'Child',更新于2026-02-14-->
+  <!--EN: Child-->
+  <rjw_childT.title>儿童</rjw_childT.title>
+  <!--原中文: '儿童', 原英文: '无' -> 新英文: 'Child',更新于2026-02-14-->
+  <!--EN: Child-->
+  <rjw_childT.titleShort>儿童</rjw_childT.titleShort>
+</LanguageData>

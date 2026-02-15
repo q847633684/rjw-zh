@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '全息锁', 原英文: '无' -> 新英文: 'Hololock',更新于2026-02-14-->
+  <!--EN: Hololock-->
+  <Hololock.label>全息锁</Hololock.label>
+  <!--原中文: '高科技的锁定器，功能包括：
+-高度耐寒，玻璃钢装饰结构。
+-随机密钥进行高度的加密，确保无法仿制。
+-自毁触发装置，确保损坏时破坏内部物品，而不是被人缴获。
+全息锁最初是为军事用途而设计的，后来在BDSM社区中流行起来。在BDSM社区，人们习惯用匹配的名字来雕刻钥匙和锁，这样更容易辨识。', 原英文: '无' -> 新英文: 'A high-tech locking mechanism. Features include:
+- Extremely hardy, plasteel-reinforced build
+- Key and lock paired using a cryptographic UID holographically embedded in a jade substrate, ensuring counterfeit keys are impossible to produce
+- Self-destruct failsafe triggers when the lock is tampered with, ensuring that the protected item is destroyed rather than captured by the enemy
+
+Originally designed for military use, the hololock has since become popular in the BDSM community, where it is customary to engrave a key and lock pair with matching names so they are easier to identify.',更新于2026-02-14-->
+  <!--EN: A high-tech locking mechanism. Features include:
+- Extremely hardy, plasteel-reinforced build
+- Key and lock paired using a cryptographic UID holographically embedded in a jade substrate, ensuring counterfeit keys are impossible to produce
+- Self-destruct failsafe triggers when the lock is tampered with, ensuring that the protected item is destroyed rather than captured by the enemy
+
+Originally designed for military use, the hololock has since become popular in the BDSM community, where it is customary to engrave a key and lock pair with matching names so they are easier to identify.-->
+  <Hololock.description>高科技的锁定器，功能包括：
+-高度耐寒，玻璃钢装饰结构。
+-随机密钥进行高度的加密，确保无法仿制。
+-自毁触发装置，确保损坏时破坏内部物品，而不是被人缴获。
+全息锁最初是为军事用途而设计的，后来在BDSM社区中流行起来。在BDSM社区，人们习惯用匹配的名字来雕刻钥匙和锁，这样更容易辨识。</Hololock.description>
+  <!--原中文: '全息钥匙', 原英文: '无' -> 新英文: 'Holokey',更新于2026-02-14-->
+  <!--EN: Holokey-->
+  <Holokey.label>全息钥匙</Holokey.label>
+  <!--原中文: '一个高科技的钥匙，用于打开配对的锁。', 原英文: '无' -> 新英文: 'A high-tech key. Releases the lock on an item with a matching cryptographic stamp.',更新于2026-02-14-->
+  <!--EN: A high-tech key. Releases the lock on an item with a matching cryptographic stamp.-->
+  <Holokey.description>一个高科技的钥匙，用于打开配对的锁。</Holokey.description>
+  <!--原中文: '解锁', 原英文: '无' -> 新英文: 'Unlock apparel',更新于2026-02-14-->
+  <!--EN: Unlock apparel-->
+  <Holokey.comps.2.useLabel>解锁</Holokey.comps.2.useLabel>
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--重复key，需删除-->
+  <Brothel.label>拉客</Brothel.label>
+  <!--原中文: '娼妓招揽客人来赚钱', 原英文: '无' -> 新英文: 'Whores solicite guests and earn money.',更新于2026-02-14-->
+  <!--EN: Whores solicite guests and earn money.-->
+  <Brothel.description>娼妓招揽客人来赚钱</Brothel.description>
+  <!--原中文: '拉客', 原英文: '无' -> 新英文: 'Whore',更新于2026-02-14-->
+  <!--EN: Whore-->
+  <Brothel.labelShort>拉客</Brothel.labelShort>
+  <!--原中文: '娼妓', 原英文: '无' -> 新英文: 'Whore',更新于2026-02-14-->
+  <!--EN: Whore-->
+  <Brothel.pawnLabel>娼妓</Brothel.pawnLabel>
+  <!--原中文: '拉客', 原英文: '无' -> 新英文: 'Soliciting',更新于2026-02-14-->
+  <!--EN: Soliciting-->
+  <Brothel.gerundLabel>拉客</Brothel.gerundLabel>
+  <!--原中文: '娼妓', 原英文: '无' -> 新英文: 'Whore',更新于2026-02-14-->
+  <!--EN: Whore-->
+  <Brothel.verb>娼妓</Brothel.verb>
+</LanguageData>

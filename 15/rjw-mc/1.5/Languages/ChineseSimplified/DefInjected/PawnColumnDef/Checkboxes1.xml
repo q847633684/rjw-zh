@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Milk_WillManual.headerTip>当其他 pawn 吃饱时，该 pawn 会手动挤奶</Milk_WillManual.headerTip>
+  <Milk_AllowManual.headerTip>此 pawn 将允许其他人在满时手动挤奶</Milk_AllowManual.headerTip>
+  <Milk_WillBfAdult.headerTip>这个 pawn 会尝试从其他人那里进行母乳喂养</Milk_WillBfAdult.headerTip>
+  <Milk_AllowBfAdult.headerTip>此 pawn 将允许其他人通过它们进行母乳喂养</Milk_AllowBfAdult.headerTip>
+  <Milk_AllowSelf.headerTip>这个 pawn 吃饱后会挤奶</Milk_AllowSelf.headerTip>
+  <Milk_AllowMachine.headerTip>这个 pawn 装满后会在挤奶站挤奶</Milk_AllowMachine.headerTip>
+  <Milk_AllowBfBaby.headerTip>此 pawn 将母乳喂养婴儿（哺乳时应用生物技术 hediff）</Milk_AllowBfBaby.headerTip>
+
+
+</LanguageData>

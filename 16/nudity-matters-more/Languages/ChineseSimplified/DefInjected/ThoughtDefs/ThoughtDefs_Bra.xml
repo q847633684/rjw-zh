@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: I have to adjust all the time.-->
+  <BadBra.stages.0.description>我总得调整它。</BadBra.stages.0.description>
+  <!--EN: uncomfortable bra-->
+  <BadBra.stages.0.label>不舒服的胸罩</BadBra.stages.0.label>
+  <!--EN: I keep having to check it.-->
+  <BadBraPrude.stages.0.description>我老得检查它。</BadBraPrude.stages.0.description>
+  <!--EN: useless bra-->
+  <BadBraPrude.stages.0.label>没用的胸罩</BadBraPrude.stages.0.label>
+  <!--EN: I'm spilling out of this stupid thing.-->
+  <BadBraSevere.stages.0.description>我要从这破玩意儿里溢出来了。</BadBraSevere.stages.0.description>
+  <!--EN: uncomfortable bra-->
+  <BadBraSevere.stages.0.label>不舒服的胸罩</BadBraSevere.stages.0.label>
+  <!--EN: I'm scared of my nipples popping out.-->
+  <BadBraSeverePrude.stages.0.description>我好怕乳头会露出来。</BadBraSeverePrude.stages.0.description>
+  <!--EN: useless bra-->
+  <BadBraSeverePrude.stages.0.label>没用的胸罩</BadBraSeverePrude.stages.0.label>
+  <!--EN: This is just better.-->
+  <Braless.stages.0.description>这样就是更好。</Braless.stages.0.description>
+  <!--EN: not wearing a bra-->
+  <Braless.stages.0.label>没穿胸罩</Braless.stages.0.label>
+  <!--EN: I'm so exposed like this.-->
+  <BralessPrude.stages.0.description>这样我感觉好暴露。</BralessPrude.stages.0.description>
+  <!--EN: not wearing a bra-->
+  <BralessPrude.stages.0.label>没穿胸罩</BralessPrude.stages.0.label>
+  <!--EN: This just doesn't work for me.-->
+  <BralessSevere.stages.0.description>这样真不适合我。</BralessSevere.stages.0.description>
+  <!--EN: not wearing a bra-->
+  <BralessSevere.stages.0.label>没穿胸罩</BralessSevere.stages.0.label>
+  <!--EN: I just know everyone can see them.-->
+  <BralessSeverePrude.stages.0.description>我就知道所有人都能看见它们。</BralessSeverePrude.stages.0.description>
+  <!--EN: not wearing a bra-->
+  <BralessSeverePrude.stages.0.label>没穿胸罩</BralessSeverePrude.stages.0.label>
+  <!--EN: It actually fits pretty well.-->
+  <GoodBra.stages.0.description>它居然还挺合身。</GoodBra.stages.0.description>
+  <!--EN: decent bra-->
+  <GoodBra.stages.0.label>不错的胸罩</GoodBra.stages.0.label>
+  <!--EN: I'm safe from disaster.-->
+  <GoodBraPrude.stages.0.description>我安全了，不会出糗。</GoodBraPrude.stages.0.description>
+  <!--EN: secure bra-->
+  <GoodBraPrude.stages.0.label>可靠的胸罩</GoodBraPrude.stages.0.label>
+  <!--EN: How did they make something that fits me.-->
+  <GoodBraSevere.stages.0.description>他们是怎么做出这么合我身的衣服的。</GoodBraSevere.stages.0.description>
+  <!--EN: decent bra-->
+  <GoodBraSevere.stages.0.label>不错的胸罩</GoodBraSevere.stages.0.label>
+  <!--EN: I put my life in its hands.-->
+  <GoodBraSeverePrude.stages.0.description>我把我的身家性命都托付给它了。</GoodBraSeverePrude.stages.0.description>
+  <!--EN: secure bra-->
+  <GoodBraSeverePrude.stages.0.label>可靠的胸罩</GoodBraSeverePrude.stages.0.label>
+  <!--EN: This feels good on my body.-->
+  <WearingCorset.stages.0.description>这穿在身上感觉真好。</WearingCorset.stages.0.description>
+  <!--EN: wearing a corset-->
+  <WearingCorset.stages.0.label>穿着束胸衣</WearingCorset.stages.0.label>
+  <!--EN: I feel contained.-->
+  <WearingCorsetPrude.stages.0.description>我感觉被约束住了。</WearingCorsetPrude.stages.0.description>
+  <!--EN: wearing a corset-->
+  <WearingCorsetPrude.stages.0.label>穿着束胸衣</WearingCorsetPrude.stages.0.label>
+  <!--EN: My breasts look stunning.-->
+  <WearingCorsetSevere.stages.0.description>我的乳房看起来美极了。</WearingCorsetSevere.stages.0.description>
+  <!--EN: wearing a corset-->
+  <WearingCorsetSevere.stages.0.label>穿着束胸衣</WearingCorsetSevere.stages.0.label>
+  <!--EN: They feel like they're about to pop out.-->
+  <WearingCorsetSeverePrude.stages.0.description>感觉它们快要弹出来了。</WearingCorsetSeverePrude.stages.0.description>
+  <!--EN: wearing a corset-->
+  <WearingCorsetSeverePrude.stages.0.label>穿着束胸衣</WearingCorsetSeverePrude.stages.0.label>
+</LanguageData>

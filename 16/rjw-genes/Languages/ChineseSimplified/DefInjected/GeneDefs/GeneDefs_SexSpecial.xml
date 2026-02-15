@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Carriers of this gene produce and aphrodisiac pheremone making others nearby more sexually needy.-->
+  <rjw_genes_aphrodisiac_pheromones.description>该基因携带者产生催情信息素，使附近的其他角色性需求增加。</rjw_genes_aphrodisiac_pheromones.description>
+  <!--EN: aphrodisiac pheromones-->
+  <rjw_genes_aphrodisiac_pheromones.label>催情信息素</rjw_genes_aphrodisiac_pheromones.label>
+
+  <!--EN: Carriers of this gene can produce a cocoon to prepare helpless (or willing) victims for breeding.-->
+  <rjw_genes_cocoonweaver.description>该基因携带者能产生一个茧，将无助（或自愿）的受害者包裹起来以备繁殖。</rjw_genes_cocoonweaver.description>
+  <!--EN: cocoon weaver-->
+  <rjw_genes_cocoonweaver.label>织茧者</rjw_genes_cocoonweaver.label>
+
+  <!--EN: Carriers of this gene produce an electrical charge in nearby electronics during orgasm. This charge is substantial enough to charge batteries.-->
+  <rjw_genes_electric_satisfaction.description>该基因携带者在高潮时会在附近的电子设备中产生电荷。此电荷足以给电池充电。</rjw_genes_electric_satisfaction.description>
+  <!--EN: electric satisfaction-->
+  <rjw_genes_electric_satisfaction.label>电力满足</rjw_genes_electric_satisfaction.label>
+
+  <!--EN: Carriers of this gene slowly turn male sexual partners into females.-->
+  <rjw_genes_feminizer.description>该基因携带者逐渐将男性性伴侣转变为女性。</rjw_genes_feminizer.description>
+  <!--EN: feminizer-->
+  <rjw_genes_feminizer.label>女性化者</rjw_genes_feminizer.label>
+
+  <!--EN: Carriers of this gene have saliva that stimulates growth in penises. Regular contact will lead to noticable growth.-->
+  <rjw_genes_hormonal_saliva.description>该基因携带者的唾液能刺激阴茎生长。定期接触将导致显著增大。</rjw_genes_hormonal_saliva.description>
+  <!--EN: hormonal saliva-->
+  <rjw_genes_hormonal_saliva.label>荷尔蒙唾液</rjw_genes_hormonal_saliva.label>
+
+  <!--EN: On orgasm, carriers of this gene get a boost in activity. (rest-need is partially filled)-->
+  <rjw_genes_orgasm_rush.description>高潮时，该基因携带者获得活动力提升。（休息需求部分满足）</rjw_genes_orgasm_rush.description>
+  <!--EN: orgasm rush-->
+  <rjw_genes_orgasm_rush.label>高潮冲刺</rjw_genes_orgasm_rush.label>
+
+  <!--EN: Carriers of this gene drain the age from their sexual partners. (Pawn stays adult)-->
+  <rjw_genes_sex_age_drain.description>该基因携带者从性伴侣身上吸取年龄。（角色保持成年）</rjw_genes_sex_age_drain.description>
+  <!--EN: sexual age drain-->
+  <rjw_genes_sex_age_drain.label>性爱年龄吸取</rjw_genes_sex_age_drain.label>
+
+  <!--EN: Carriers of this gene can bestow intelligence and docility to animals during sexual encounters, effectively increasing their training.-->
+  <rjw_genes_sex_tamer.description>该基因携带者在与动物发生性行为时，能赋予它们智慧和温顺，有效增加它们的训练度。</rjw_genes_sex_tamer.description>
+  <!--EN: sexual tamer-->
+  <rjw_genes_sex_tamer.label>性爱驯服者</rjw_genes_sex_tamer.label>
+
+  <!--EN: Carriers of this gene may switch a gene with their sex-partner. Switched Genes are always endogenes.-->
+  <rjw_genes_sexual_genetic_swap.description>携带此基因的小人可能会与其性伴侣交换基因。交换后的基因始终会被视为原生基因。</rjw_genes_sexual_genetic_swap.description>
+  <!--EN: sexual genetic swap-->
+  <rjw_genes_sexual_genetic_swap.label>基因交换者</rjw_genes_sexual_genetic_swap.label>
+
+  <!--EN: Carriers of this gene may steal a gene from their sex-partner. Stolen genes are always xenogenes.-->
+  <rjw_genes_sexual_genetic_thief.description>携带此基因的小人可能会从其性伴侣处窃取一个基因。窃取来的基因始终表现为外源基因（异源基因）。</rjw_genes_sexual_genetic_thief.description>
+  <!--EN: sexual gene thief-->
+  <rjw_genes_sexual_genetic_thief.label>基因窃取者</rjw_genes_sexual_genetic_thief.label>
+
+  <!--EN: Carriers of this gene have malfunctioning regenerative archites that grow more unstable with ongoing multiple orgasms - climaxing in a process of mytosis. This will result in an (biologically) identical pawn and both twins are set in a regenerative state. Also, the pawn can have multiple orgasms: In a state of higher unstableness, they come quicker.-->
+  <rjw_genes_sexual_mytosis.description>该基因的携带者体内含有故障的再生型纳米机械（Archites），这些机械会随着连续的多次高潮变得愈发不稳定，最终在有丝分裂的过程中达到顶点。这会导致产生一个生理特征完全相同的副本小人，且双胞胎双方都会进入再生休眠状态。此外，该小人拥有多次高潮的能力：在不稳定性较高的状态下，高潮触发的速度会更快。</rjw_genes_sexual_mytosis.description>
+  <!--EN: orgasmic mytosis-->
+  <rjw_genes_sexual_mytosis.label>有丝分裂克隆</rjw_genes_sexual_mytosis.label>
+
+  <!--EN: Carriers of this gene slowly turn male sexual partners into breedable cute twinks.-->
+  <rjw_genes_twinkifier.description>携带此基因的小人会缓慢地将其男性性伴侣改造为具备生育能力的可爱男宠（Twink）。</rjw_genes_twinkifier.description>
+  <!--EN: twinkifier-->
+  <rjw_genes_twinkifier.label>男宠转化者</rjw_genes_twinkifier.label>
+
+  <!--EN: Carriers of this gene reverse the age of their sexual partners. (Partner stays adult)-->
+  <rjw_genes_youth_fountain.description>该基因携带者逆转其性伴侣的年龄。（伴侣保持成年）</rjw_genes_youth_fountain.description>
+  <!--EN: youth fountain-->
+  <rjw_genes_youth_fountain.label>青春之泉</rjw_genes_youth_fountain.label>
+</LanguageData>

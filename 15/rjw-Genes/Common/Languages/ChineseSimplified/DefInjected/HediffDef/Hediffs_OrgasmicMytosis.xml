@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_orgasmic_mytosis_hediff.label>性高潮不稳定</rjw_genes_orgasmic_mytosis_hediff.label>
+  <rjw_genes_orgasmic_mytosis_hediff.description>具有该基因的异种型在高潮时变得更加不稳定 -一旦达到临界水平，它们将启动有丝分裂过程。</rjw_genes_orgasmic_mytosis_hediff.description>
+  <rjw_genes_orgasmic_mytosis_hediff.stages.0.label>稳定</rjw_genes_orgasmic_mytosis_hediff.stages.0.label>
+  <rjw_genes_orgasmic_mytosis_hediff.stages.1.label>激动</rjw_genes_orgasmic_mytosis_hediff.stages.1.label>
+  <rjw_genes_orgasmic_mytosis_hediff.stages.2.label>不稳定</rjw_genes_orgasmic_mytosis_hediff.stages.2.label>
+  <rjw_genes_orgasmic_mytosis_hediff.stages.3.label>严重</rjw_genes_orgasmic_mytosis_hediff.stages.3.label>
+
+  <rjw_genes_mytosis_shock_hediff.label>有丝分裂休克</rjw_genes_mytosis_shock_hediff.label>
+  <rjw_genes_mytosis_shock_hediff.description>最近经历（成功）有丝分裂。由于这是一个繁重的过程，因此需要一些时间进行再生。再生时，无法启动新的有丝分裂。</rjw_genes_mytosis_shock_hediff.description>
+  <rjw_genes_mytosis_shock_hediff.stages.0.label>逐渐消失</rjw_genes_mytosis_shock_hediff.stages.0.label>
+  <rjw_genes_mytosis_shock_hediff.stages.1.label>新鲜</rjw_genes_mytosis_shock_hediff.stages.1.label>
+
+
+</LanguageData>

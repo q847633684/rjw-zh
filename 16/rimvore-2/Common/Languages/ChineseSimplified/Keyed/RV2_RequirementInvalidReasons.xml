@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: {0} {1} too high, max: {2}-->
+  <RV2_RequirementInvalidReasons_DefTooHigh>{0}{1}过高，最高:{2}</RV2_RequirementInvalidReasons_DefTooHigh>
+  <!--EN: {0} {1} too low, min: {2}-->
+  <RV2_RequirementInvalidReasons_DefTooLow>{0}{1}过低，最低:{2}</RV2_RequirementInvalidReasons_DefTooLow>
+  <!--EN: Pawn is race {0}, but must be {1}-->
+  <RV2_RequirementInvalidReasons_InvalidRace>Pawn 正在种族中{0},但必须{1}</RV2_RequirementInvalidReasons_InvalidRace>
+  <!--EN: Pawn has relations {0}, but needs {1}-->
+  <RV2_RequirementInvalidReasons_InvalidRelation>卒兽有关系{0},但需要{1}</RV2_RequirementInvalidReasons_InvalidRelation>
+  <!--EN: Pawn does not have any of {0}-->
+  <RV2_RequirementInvalidReasons_MissingAlias>Pawn 没有任何{0}</RV2_RequirementInvalidReasons_MissingAlias>
+  <!--EN: Missing body part alias {0}-->
+  <RV2_RequirementInvalidReasons_MissingBodyPart>缺少身体部件别名{0}</RV2_RequirementInvalidReasons_MissingBodyPart>
+  <!--EN: Missing hediff alias {0}-->
+  <RV2_RequirementInvalidReasons_MissingHediff>缺少 hediff 别名{0}</RV2_RequirementInvalidReasons_MissingHediff>
+  <!--EN: Missing quirks: {0}-->
+  <RV2_RequirementInvalidReasons_MissingQuirk>缺少怪癖:{0}</RV2_RequirementInvalidReasons_MissingQuirk>
+  <!--EN: Pawn does not have {0} {1}-->
+  <RV2_RequirementInvalidReasons_NoDef>Pawn 没有{0}{1}</RV2_RequirementInvalidReasons_NoDef>
+  <!--EN: No hediff severity was in valid range: {0}-->
+  <RV2_RequirementInvalidReasons_NoHediffInRange>未在有效范围内:{0}</RV2_RequirementInvalidReasons_NoHediffInRange>
+  <!--EN: No hediff in range: {0}-->
+  <RV2_RequirementInvalidReasons_NoHediffInSeverityRange>无血红蛋白在射程内:{0}</RV2_RequirementInvalidReasons_NoHediffInSeverityRange>
+  <!--EN: Pawn has no quirks-->
+  <RV2_RequirementInvalidReasons_NoQuirks>小卒没有怪癖</RV2_RequirementInvalidReasons_NoQuirks>
+</LanguageData>

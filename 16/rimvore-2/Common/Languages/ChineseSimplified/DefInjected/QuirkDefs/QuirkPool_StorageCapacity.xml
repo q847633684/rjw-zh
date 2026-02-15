@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks determine how many prey can fit in the pawn. The volume of a preything is its body size. A predator's capacity is a multiplier of its body size.-->
+  <StorageCapacity.description>这些怪癖决定了能容纳多少猎物pawn猎物的体积等于其身体尺寸。捕食者的容量是其体型的乘数。</StorageCapacity.description>
+  <!--EN: Storage capacity-->
+  <StorageCapacity.label>储存容量</StorageCapacity.label>
+  <!--EN: [PAWN_label] struggles to fit as many prey inside [PAWN_objective]self as most of [PAWN_possessive] predatory peers can; there's only room for one, maybe (by default).-->
+  <StorageCapacity_Bad.description>[PAWN_label]努力在里面容纳尽可能多的猎物[PAWN_objective]拥有最多的自我[PAWN_possessive]掠食的同伴可以; 可能 (默认情况下) 只有一个人的空间。</StorageCapacity_Bad.description>
+  <!--EN: Tight-->
+  <StorageCapacity_Bad.label>紧绷</StorageCapacity_Bad.label>
+  <!--EN: [PAWN_label]'s skin is supernaturally stretchy, able to expand to sizes that defy all logic and reason. No matter how full [PAWN_pronoun] gets, [PAWN_pronoun] seemingly always has room for one more.-->
+  <StorageCapacity_Godlike.description>[PAWN_label]它的皮肤拥有超凡的伸展能力，能够将其扩张至完全挑战逻辑和理性的大小。无论多么满[PAWN_pronoun]获取,[PAWN_pronoun]似乎总是有地方再放一个人。</StorageCapacity_Godlike.description>
+  <!--EN: Godlike Capacity-->
+  <StorageCapacity_Godlike.label>神明容量</StorageCapacity_Godlike.label>
+  <!--EN: [PAWN_label] can stretch to fit more prey than the average predator.-->
+  <StorageCapacity_Good.description>[PAWN_label]可以伸展以适应比普通捕食者更多的猎物。</StorageCapacity_Good.description>
+  <!--EN: Stretchy-->
+  <StorageCapacity_Good.label>可拉伸</StorageCapacity_Good.label>
+  <!--EN: [PAWN_label] can fit as many prey as anyone else.-->
+  <StorageCapacity_Normal.description>[PAWN_label]可以像其他人一样容纳尽可能多的猎物。</StorageCapacity_Normal.description>
+  <!--EN: Normal capacity-->
+  <StorageCapacity_Normal.label>普通容量</StorageCapacity_Normal.label>
+  <!--EN: [PAWN_label] struggles with a lack of capacity for prey. [PAWN_pronoun] can't eat prey of the same size (by default), and fills up fast otherwise.-->
+  <StorageCapacity_VeryBad.description>[PAWN_label]与捕食能力的缺乏作斗争。[PAWN_pronoun]不能吃掉相同大小的猎物 (默认情况下)，否则会被快速填满。</StorageCapacity_VeryBad.description>
+  <!--EN: Claustrophobic-->
+  <StorageCapacity_VeryBad.label>幽闭恐惧症</StorageCapacity_VeryBad.label>
+  <!--EN: [PAWN_label] can stuff [PAWN_objective]self silly with prey and still have room for more, though even [PAWN_pronoun] has limits.-->
+  <StorageCapacity_VeryGood.description>[PAWN_label]罐头装填[PAWN_objective]用猎物实现愚蠢的自我，并且仍然有更多的空间，即使[PAWN_pronoun]有极限。</StorageCapacity_VeryGood.description>
+  <!--EN: Cavernous-->
+  <StorageCapacity_VeryGood.label>洞穴</StorageCapacity_VeryGood.label>
+</LanguageData>

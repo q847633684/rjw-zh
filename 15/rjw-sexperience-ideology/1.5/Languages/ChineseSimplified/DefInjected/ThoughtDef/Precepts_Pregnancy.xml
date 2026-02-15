@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Thoughts : Pregnant -->
+
+  <Pregnancy_Respected_Pregnant.stages.0.label>怀孕</Pregnancy_Respected_Pregnant.stages.0.label>
+  <Pregnancy_Respected_Pregnant.stages.0.description>我怀孕了。这使我成为社会的支柱。</Pregnancy_Respected_Pregnant.stages.0.description>
+
+  <Pregnancy_Elevated_Pregnant.stages.0.label>怀孕</Pregnancy_Elevated_Pregnant.stages.0.label>
+  <Pregnancy_Elevated_Pregnant.stages.0.description>我很快就会让我们的殖民地变得更强大。</Pregnancy_Elevated_Pregnant.stages.0.description>
+
+  <Pregnancy_Respected_Pregnant_Social.stages.0.label>怀孕</Pregnancy_Respected_Pregnant_Social.stages.0.label>
+  <Pregnancy_Elevated_Pregnant_Social.stages.0.label>怀孕</Pregnancy_Elevated_Pregnant_Social.stages.0.label>
+  <Pregnancy_Horrible_Pregnant_Social.stages.0.label>怀孕</Pregnancy_Horrible_Pregnant_Social.stages.0.label>
+
+  <Pregnancy_Horrible_Pregnant.stages.0.label>怀孕</Pregnancy_Horrible_Pregnant.stages.0.label>
+  <Pregnancy_Horrible_Pregnant.stages.0.description>我怎么会变成这样？我从来不想怀孕！</Pregnancy_Horrible_Pregnant.stages.0.description>
+
+
+  <!-- Thoughts: Not Pregnant -->
+
+  <Pregnancy_Horrible_NonPregnant.stages.0.label>未怀孕</Pregnancy_Horrible_NonPregnant.stages.0.label>
+  <Pregnancy_Horrible_NonPregnant.stages.0.description>我希望怀孕。</Pregnancy_Horrible_NonPregnant.stages.0.description>
+
+  <Pregnancy_Horrible_NonPregnant_Social.stages.0.label>未受精</Pregnancy_Horrible_NonPregnant_Social.stages.0.label>
+
+
+  <!--想法：没有怀孕 -->
+
+</LanguageData>

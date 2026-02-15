@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '卫生棉条', 原英文: '无' -> 新英文: 'tampon',更新于2026-02-14-->
+  <!--EN: tampon-->
+  <Absorber_Tampon.label>卫生棉条</Absorber_Tampon.label>
+  <!--原中文: '从阴道吸收液体的卫生棉条', 原英文: '无' -> 新英文: 'A tampon for absorbing fluids from a vagina.
+May cause an infection if worn for too long.',更新于2026-02-14-->
+  <!--EN: A tampon for absorbing fluids from a vagina.
+May cause an infection if worn for too long.-->
+  <Absorber_Tampon.description>从阴道吸收液体的卫生棉条</Absorber_Tampon.description>
+  <!--原中文: '湿的卫生棉条', 原英文: '无' -> 新英文: 'dirty tampon',更新于2026-02-14-->
+  <!--EN: dirty tampon-->
+  <Absorber_Tampon_Dirty.label>湿的卫生棉条</Absorber_Tampon_Dirty.label>
+  <!--原中文: '使用过的湿卫生棉条', 原英文: '无' -> 新英文: 'A wet used tampon.
+May cause infection if left in.',更新于2026-02-14-->
+  <!--EN: A wet used tampon.
+May cause infection if left in.-->
+  <Absorber_Tampon_Dirty.description>使用过的湿卫生棉条</Absorber_Tampon_Dirty.description>
+  <!--原中文: '卫生棉', 原英文: '无' -> 新英文: 'sanitary pad',更新于2026-02-14-->
+  <!--EN: sanitary pad-->
+  <Absorber_Pad.label>卫生棉</Absorber_Pad.label>
+  <!--原中文: '从阴道吸收液体的卫生棉', 原英文: '无' -> 新英文: 'A pad for absorbing fluids from a vagina.',更新于2026-02-14-->
+  <!--EN: A pad for absorbing fluids from a vagina.-->
+  <Absorber_Pad.description>从阴道吸收液体的卫生棉</Absorber_Pad.description>
+  <!--原中文: '湿的卫生棉', 原英文: '无' -> 新英文: 'wet sanitary pad',更新于2026-02-14-->
+  <!--EN: wet sanitary pad-->
+  <Absorber_Pad_Dirty.label>湿的卫生棉</Absorber_Pad_Dirty.label>
+  <!--原中文: '使用过的湿卫生棉', 原英文: '无' -> 新英文: 'A wet used pad.',更新于2026-02-14-->
+  <!--EN: A wet used pad.-->
+  <Absorber_Pad_Dirty.description>使用过的湿卫生棉</Absorber_Pad_Dirty.description>
+  <!--原中文: '卵巢再生药物', 原英文: '无' -> 新英文: 'Ovary regeneration pill',更新于2026-02-14-->
+  <!--EN: Ovary regeneration pill-->
+  <OvaryRegenerationPill.label>卵巢再生药物</OvaryRegenerationPill.label>
+  <!--原中文: '使卵巢再生以增加可排卵的卵子
+卵子消耗量越大，效果越差
+不能缓解更年期症状', 原英文: '无' -> 新英文: 'Recovers the ovaries' health, restoring some quantity of eggs.
+Less effective on ovaries with few eggs remaining.
+Cannot recover menopause.',更新于2026-02-14-->
+  <!--EN: Recovers the ovaries' health, restoring some quantity of eggs.
+Less effective on ovaries with few eggs remaining.
+Cannot recover menopause.-->
+  <OvaryRegenerationPill.description>使卵巢再生以增加可排卵的卵子
+卵子消耗量越大，效果越差
+不能缓解更年期症状</OvaryRegenerationPill.description>
+  <!--原中文: '排卵药', 原英文: '无' -> 新英文: 'Superovulation inducing agent',更新于2026-02-14-->
+  <!--EN: Superovulation inducing agent-->
+  <SuperovulationInducingAgent.label>排卵药</SuperovulationInducingAgent.label>
+  <!--原中文: '诱导排卵的药物
+可导致更年期提前', 原英文: '无' -> 新英文: 'Induce superovulation, causing the next ovulation to produce 1-4 extra eggs.
+
+May hasten the onset of menopause.',更新于2026-02-14-->
+  <!--EN: Induce superovulation, causing the next ovulation to produce 1-4 extra eggs.
+
+May hasten the onset of menopause.-->
+  <SuperovulationInducingAgent.description>诱导排卵的药物
+可导致更年期提前</SuperovulationInducingAgent.description>
+  <!--原中文: '混合物', 原英文: '无' -> 新英文: 'mixture',更新于2026-02-14-->
+  <!--EN: mixture-->
+  <FilthMixture.label>混合物</FilthMixture.label>
+</LanguageData>

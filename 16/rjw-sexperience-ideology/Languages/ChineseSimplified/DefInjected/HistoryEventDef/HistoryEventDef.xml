@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Issues -->
+  <!--原中文: '和动物做爱', 原英文: '无' -> 新英文: 'sex with animal',更新于2026-02-14-->
+  <!--EN: sex with animal-->
+  <RSI_SexWithAnimal.label>和动物做爱</RSI_SexWithAnimal.label>
+  <!--原中文: '和圣兽做爱', 原英文: '无' -> 新英文: 'sex with venerated animal',更新于2026-02-14-->
+  <!--EN: sex with venerated animal-->
+  <RSI_SexWithVeneratedAnimal.label>和圣兽做爱</RSI_SexWithVeneratedAnimal.label>
+  <!--原中文: '族内通婚', 原英文: '无' -> 新英文: 'Incestuous marriage',更新于2026-02-14-->
+  <!--EN: Incestuous marriage-->
+  <RSI_IncestuosMarriage.label>族内通婚</RSI_IncestuosMarriage.label>
+  <!--原中文: '被强奸', 原英文: '无' -> 新英文: 'raped',更新于2026-02-14-->
+  <!--EN: raped-->
+  <RSI_Raped.label>被强奸</RSI_Raped.label>
+  <!--原中文: '强奸了奴隶', 原英文: '无' -> 新英文: 'raped slave',更新于2026-02-14-->
+  <!--EN: raped slave-->
+  <RSI_RapedSlave.label>强奸了奴隶</RSI_RapedSlave.label>
+  <!--原中文: '强奸了囚犯', 原英文: '无' -> 新英文: 'raped prisoner',更新于2026-02-14-->
+  <!--EN: raped prisoner-->
+  <RSI_RapedPrisoner.label>强奸了囚犯</RSI_RapedPrisoner.label>
+  <!--原中文: '被强奸', 原英文: '无' -> 新英文: 'was raped',更新于2026-02-14-->
+  <!--EN: was raped-->
+  <RSI_WasRaped.label>被强奸</RSI_WasRaped.label>
+  <!--原中文: '奴隶被强奸', 原英文: '无' -> 新英文: 'was raped',更新于2026-02-14-->
+  <!--EN: was raped-->
+  <RSI_WasRapedSlave.label>奴隶被强奸</RSI_WasRapedSlave.label>
+  <!--原中文: '囚犯被强奸', 原英文: '无' -> 新英文: 'was raped',更新于2026-02-14-->
+  <!--EN: was raped-->
+  <RSI_WasRapedPrisoner.label>囚犯被强奸</RSI_WasRapedPrisoner.label>
+  <!--原中文: '阴道容纳性交', 原英文: '无' -> 新英文: 'vaginal sex',更新于2026-02-14-->
+  <!--EN: vaginal sex-->
+  <RSI_VaginalSex.label>阴道容纳性交</RSI_VaginalSex.label>
+  <!--原中文: '肛门容纳性交', 原英文: '无' -> 新英文: 'anal sex',更新于2026-02-14-->
+  <!--EN: anal sex-->
+  <RSI_AnalSex.label>肛门容纳性交</RSI_AnalSex.label>
+  <!--原中文: '口腔容纳性交', 原英文: '无' -> 新英文: 'oral sex',更新于2026-02-14-->
+  <!--EN: oral sex-->
+  <RSI_OralSex.label>口腔容纳性交</RSI_OralSex.label>
+  <!--原中文: '做爱', 原英文: '无' -> 新英文: 'sex',更新于2026-02-14-->
+  <!--EN: sex-->
+  <RSI_MiscSex.label>做爱</RSI_MiscSex.label>
+  <!--原中文: '乱交', 原英文: '无' -> 新英文: 'promiscuous sex',更新于2026-02-14-->
+  <!--EN: promiscuous sex-->
+  <RSI_PromiscuousSex.label>乱交</RSI_PromiscuousSex.label>
+</LanguageData>

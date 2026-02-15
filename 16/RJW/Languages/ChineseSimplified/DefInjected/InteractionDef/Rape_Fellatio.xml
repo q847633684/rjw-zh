@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '强迫口交', 原英文: '无' -> 新英文: 'fellatio',更新于2026-02-14-->
+  <!--EN: fellatio-->
+  <Rape_Fellatio.label>强迫口交</Rape_Fellatio.label>
+  <!--原中文: '要求口交', 原英文: '无' -> 新英文: 'Get fellated',更新于2026-02-14-->
+  <!--EN: Get fellated-->
+  <Rape_Fellatio.modExtensions.0.RMBLabel>要求口交</Rape_Fellatio.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->把阴茎塞进[RECIPIENT_nameDef]温暖湿滑的嘴里。', 原英文: '无' -> 新英文: 'r_logentry->Forced [RECIPIENT_nameDef] to give fellatio.',更新于2026-02-14-->
+  <!--EN: r_logentry->Forced [RECIPIENT_nameDef] to give fellatio.-->
+  <Rape_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->把阴茎塞进[RECIPIENT_nameDef]温暖湿滑的嘴里。</Rape_Fellatio.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->嘴巴被当成了[INITIATOR_nameDef]的泄欲洞口。', 原英文: '无' -> 新英文: 'r_logentry->Was forced to fellate [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Was forced to fellate [INITIATOR_nameDef].-->
+  <Rape_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->嘴巴被当成了[INITIATOR_nameDef]的泄欲洞口。</Rape_Fellatio.logRulesRecipient.rulesStrings.0>
+</LanguageData>

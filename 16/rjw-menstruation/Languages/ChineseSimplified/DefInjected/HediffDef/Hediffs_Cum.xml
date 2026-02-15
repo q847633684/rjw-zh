@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'Antisperm antibody.
+Increases death rate of sperm.',新增于2026-02-14-->
+  <!--EN: Antisperm antibody.
+Increases death rate of sperm.-->
+  <Hediff_ASA.description>抗精子抗体。
+增加精子死亡率。</Hediff_ASA.description>
+  <!--翻译内容: 'Antisperm antibody',新增于2026-02-14-->
+  <!--EN: Antisperm antibody-->
+  <Hediff_ASA.label>抗精子抗体</Hediff_ASA.label>
+  <!--翻译内容: 'antisperm antibody',新增于2026-02-14-->
+  <!--EN: antisperm antibody-->
+  <Hediff_ASA.labelNoun>抗精子抗体</Hediff_ASA.labelNoun>
+
+  <!--翻译内容: 'fertile',新增于2026-02-14-->
+  <!--EN: fertile-->
+  <Hediff_ForceFertile.description>可育</Hediff_ForceFertile.description>
+  <!--翻译内容: 'Fertile',新增于2026-02-14-->
+  <!--EN: Fertile-->
+  <Hediff_ForceFertile.label>强制可育</Hediff_ForceFertile.label>
+  <!--翻译内容: 'fertile',新增于2026-02-14-->
+  <!--EN: fertile-->
+  <Hediff_ForceFertile.labelNoun>可育</Hediff_ForceFertile.labelNoun>
+</LanguageData>

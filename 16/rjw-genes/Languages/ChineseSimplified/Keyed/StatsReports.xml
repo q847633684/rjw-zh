@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Pawn has a decent amount of children.-->
+  <StatsReport_ManyChildren>角色有相当数量的孩子。</StatsReport_ManyChildren>
+  <!--EN: Pawn doesn't have any children.-->
+  <StatsReport_NoChildren>角色没有任何孩子。</StatsReport_NoChildren>
+  <!--EN: Pawn has a lot of children.-->
+  <StatsReport_VeryManyChildren>角色有很多孩子。</StatsReport_VeryManyChildren>
+</LanguageData>

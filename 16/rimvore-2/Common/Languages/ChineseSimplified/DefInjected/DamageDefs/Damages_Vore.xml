@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: {0} has been melted into lube.-->
+  <RV2_LubeConversionEnzymes.deathMessage>{0}已被熔化成润滑油</RV2_LubeConversionEnzymes.deathMessage>
+  <!--EN: Damage caused by lubrifaction.-->
+  <RV2_LubeConversionEnzymes.label>由迷幻引起的伤害。</RV2_LubeConversionEnzymes.label>
+  <!--EN: {0} has been melted into milk.-->
+  <RV2_MilkConversionEnzymes.deathMessage>{0}已融化成乳汁。</RV2_MilkConversionEnzymes.deathMessage>
+  <!--EN: Damage caused by lactifaction.-->
+  <RV2_MilkConversionEnzymes.label>利器释放造成的伤害。</RV2_MilkConversionEnzymes.label>
+  <!--EN: {0} has been melted into cum.-->
+  <RV2_SpermConversionEnzymes.deathMessage>{0}已被熔化成精液</RV2_SpermConversionEnzymes.deathMessage>
+  <!--EN: Damage caused by spermifaction.-->
+  <RV2_SpermConversionEnzymes.label>因获取精子而造成的伤害。</RV2_SpermConversionEnzymes.label>
+  <!--EN: {0} has been digested.-->
+  <RV2_StomachAcid.deathMessage>{0}已被消化。</RV2_StomachAcid.deathMessage>
+  <!--EN: Damage caused by digestion.-->
+  <RV2_StomachAcid.label>因消化造成的伤害。</RV2_StomachAcid.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Medium version of Combat armor. Combat armor was issued within the Old world Armed Forces during the Great War. Now it serves all kind of soldiers in Rimworld.-->
+  <Fallarmory_MediumCombatArmor.description>中型战斗装甲。战斗装甲在大战期间由旧世界武装部队配发。如今它为边缘世界的各种士兵服务。</Fallarmory_MediumCombatArmor.description>
+  <!--EN: Medium Combat armor-->
+  <Fallarmory_MediumCombatArmor.label>中型战斗装甲</Fallarmory_MediumCombatArmor.label>
+  <!--EN: Full sets of Combat armor. Combat armor was issued within the Old world Armed Forces during the Great War. Now it serves all kind of soldiers in Rimworld.-->
+  <SSA_HeavyCombatArmor.description>全套战斗装甲。战斗装甲在大战期间由旧世界武装部队配发。如今它为边缘世界的各种士兵服务。</SSA_HeavyCombatArmor.description>
+  <!--EN: Heavy Combat armor-->
+  <SSA_HeavyCombatArmor.label>重型战斗装甲</SSA_HeavyCombatArmor.label>
+  <!--EN: Once symbolic of the Star Guardians, these garments are now mere tokens of elite concubines.-->
+  <Stargar.description>曾是星之守护者的象征，这些服装如今只是精英妾室的标志。</Stargar.description>
+  <!--EN: Starguardian-->
+  <Stargar.label>星之守护者</Stargar.label>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Issues -->
+  <!--重复key，需删除-->
+  <RSI_VaginalSex.label>阴道性交</RSI_VaginalSex.label>
+  <!--重复key，需删除-->
+  <RSI_AnalSex.label>肛门性交</RSI_AnalSex.label>
+  <!--重复key，需删除-->
+  <RSI_OralSex.label>口腔性交</RSI_OralSex.label>
+  <!--重复key，需删除-->
+  <RSI_PromiscuousSex.label>乱交</RSI_PromiscuousSex.label>
+  <!--重复key，需删除-->
+  <RSI_MiscSex.label>性交</RSI_MiscSex.label>
+</LanguageData>

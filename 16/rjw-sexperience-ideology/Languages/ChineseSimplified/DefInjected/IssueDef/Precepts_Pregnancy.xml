@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Issue -->
+  <!--原中文: '妊娠', 原英文: '无' -> 新英文: 'pregnancy',更新于2026-02-14-->
+  <!--EN: pregnancy-->
+  <Pregnancy.label>妊娠</Pregnancy.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '强迫逆双洞齐插', 原英文: '无' -> 新英文: 'double-penetration',更新于2026-02-14-->
+  <!--EN: double-penetration-->
+  <Rape_Reverse_DoublePenetration.label>强迫逆双洞齐插</Rape_Reverse_DoublePenetration.label>
+  <!--原中文: '让其双洞齐插', 原英文: '无' -> 新英文: 'Get double-penetrated',更新于2026-02-14-->
+  <!--EN: Get double-penetrated-->
+  <Rape_Reverse_DoublePenetration.modExtensions.0.RMBLabel>让其双洞齐插</Rape_Reverse_DoublePenetration.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->用[RECIPIENT_nameDef]的双头阴茎来了个双洞齐插。', 原英文: '无' -> 新英文: 'r_logentry->Double-penetrated by [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Double-penetrated by [RECIPIENT_nameDef].-->
+  <Rape_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->用[RECIPIENT_nameDef]的双头阴茎来了个双洞齐插。</Rape_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->被迫双洞齐插了[INITIATOR_nameDef]。', 原英文: '无' -> 新英文: 'r_logentry->Was forced to double-penetrate [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Was forced to double-penetrate [INITIATOR_nameDef].-->
+  <Rape_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->被迫双洞齐插了[INITIATOR_nameDef]。</Rape_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>
+</LanguageData>

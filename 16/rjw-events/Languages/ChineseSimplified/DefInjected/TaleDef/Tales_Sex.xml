@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '参加了群交', 原英文: '无' -> 新英文: 'attended orgy',更新于2026-02-14-->
+  <!--EN: attended orgy-->
+  <AttendedOrgy.label>参加了群交</AttendedOrgy.label>
+  <!--原中文: 'tale_noun->[ATTENDER_nameDef] 参加了 [ORGANIZER_nameDef] 组织的群交', 原英文: '无' -> 新英文: 'tale_noun->[ATTENDER_nameDef] attending [ORGANIZER_nameDef]'s orgy',更新于2026-02-14-->
+  <!--EN: tale_noun->[ATTENDER_nameDef] attending [ORGANIZER_nameDef]'s orgy-->
+  <AttendedOrgy.rulePack.rulesStrings.0>tale_noun->[ATTENDER_nameDef] 参加了 [ORGANIZER_nameDef] 组织的群交</AttendedOrgy.rulePack.rulesStrings.0>
+  <!--原中文: 'tale_noun->[ATTENDER_nameDef] 在 [ORGANIZER_nameDef] 组织的群交活动中和 [ORGANIZER_nameDef] 本人做爱', 原英文: '无' -> 新英文: 'tale_noun->[ATTENDER_nameDef] having sex with [ORGANIZER_nameDef] at their orgy',更新于2026-02-14-->
+  <!--EN: tale_noun->[ATTENDER_nameDef] having sex with [ORGANIZER_nameDef] at their orgy-->
+  <AttendedOrgy.rulePack.rulesStrings.1>tale_noun->[ATTENDER_nameDef] 在 [ORGANIZER_nameDef] 组织的群交活动中和 [ORGANIZER_nameDef] 本人做爱</AttendedOrgy.rulePack.rulesStrings.1>
+  <!--原中文: 'image->[ATTENDER_nameFull] 和 [ORGANIZER_nameFull] 深入探讨[circumstance_group]', 原英文: '无' -> 新英文: 'image->[ATTENDER_nameFull] making out with [ORGANIZER_nameFull] [circumstance_group]',更新于2026-02-14-->
+  <!--EN: image->[ATTENDER_nameFull] making out with [ORGANIZER_nameFull] [circumstance_group]-->
+  <AttendedOrgy.rulePack.rulesStrings.2>image->[ATTENDER_nameFull] 和 [ORGANIZER_nameFull] 深入探讨[circumstance_group]</AttendedOrgy.rulePack.rulesStrings.2>
+  <!--原中文: 'image->[ATTENDER_nameFull] 接过了 [ORGANIZER_nameFull] 递上来的饮料[circumstance_group]', 原英文: '无' -> 新英文: 'image->[ATTENDER_nameFull] getting a drink from [ORGANIZER_nameFull] [circumstance_group]',更新于2026-02-14-->
+  <!--EN: image->[ATTENDER_nameFull] getting a drink from [ORGANIZER_nameFull] [circumstance_group]-->
+  <AttendedOrgy.rulePack.rulesStrings.3>image->[ATTENDER_nameFull] 接过了 [ORGANIZER_nameFull] 递上来的饮料[circumstance_group]</AttendedOrgy.rulePack.rulesStrings.3>
+  <!--原中文: 'image->[ATTENDER_nameFull] 和 [ORGANIZER_nameFull] 交谈[circumstance_group]', 原英文: '无' -> 新英文: 'image->[ATTENDER_nameFull] chatting with [ORGANIZER_nameFull] [circumstance_group]',更新于2026-02-14-->
+  <!--EN: image->[ATTENDER_nameFull] chatting with [ORGANIZER_nameFull] [circumstance_group]-->
+  <AttendedOrgy.rulePack.rulesStrings.4>image->[ATTENDER_nameFull] 和 [ORGANIZER_nameFull] 交谈[circumstance_group]</AttendedOrgy.rulePack.rulesStrings.4>
+  <!--原中文: 'image->[ORGANIZER_nameFull] 欢迎了 [ATTENDER_nameFull] [circumstance_group]', 原英文: '无' -> 新英文: 'image->[ORGANIZER_nameFull] welcoming [ATTENDER_nameFull] [circumstance_group]',更新于2026-02-14-->
+  <!--EN: image->[ORGANIZER_nameFull] welcoming [ATTENDER_nameFull] [circumstance_group]-->
+  <AttendedOrgy.rulePack.rulesStrings.5>image->[ORGANIZER_nameFull] 欢迎了 [ATTENDER_nameFull] [circumstance_group]</AttendedOrgy.rulePack.rulesStrings.5>
+  <!--原中文: 'image->[ORGANIZER_nameFull] 把 [ATTENDER_nameFull] 介绍给一个朋友[circumstance_group]', 原英文: '无' -> 新英文: 'image->[ORGANIZER_nameFull] introducing [ATTENDER_nameFull] to a friend [circumstance_group]',更新于2026-02-14-->
+  <!--EN: image->[ORGANIZER_nameFull] introducing [ATTENDER_nameFull] to a friend [circumstance_group]-->
+  <AttendedOrgy.rulePack.rulesStrings.6>image->[ORGANIZER_nameFull] 把 [ATTENDER_nameFull] 介绍给一个朋友[circumstance_group]</AttendedOrgy.rulePack.rulesStrings.6>
+  <!--原中文: 'circumstance_phrase->，一边咧开嘴笑。', 原英文: '无' -> 新英文: 'circumstance_phrase->with a broad grin',更新于2026-02-14-->
+  <!--EN: circumstance_phrase->with a broad grin-->
+  <AttendedOrgy.rulePack.rulesStrings.7>circumstance_phrase->，一边咧开嘴笑。</AttendedOrgy.rulePack.rulesStrings.7>
+  <!--原中文: 'circumstance_phrase->，一边大笑。', 原英文: '无' -> 新英文: 'circumstance_phrase->with a laugh',更新于2026-02-14-->
+  <!--EN: circumstance_phrase->with a laugh-->
+  <AttendedOrgy.rulePack.rulesStrings.8>circumstance_phrase->，一边大笑。</AttendedOrgy.rulePack.rulesStrings.8>
+  <!--原中文: 'circumstance_phrase->，一边 [AdjectiveFriendly] 地笑。', 原英文: '无' -> 新英文: 'circumstance_phrase->with a [AdjectiveFriendly] smile',更新于2026-02-14-->
+  <!--EN: circumstance_phrase->with a [AdjectiveFriendly] smile-->
+  <AttendedOrgy.rulePack.rulesStrings.9>circumstance_phrase->，一边 [AdjectiveFriendly] 地笑。</AttendedOrgy.rulePack.rulesStrings.9>
+  <!--原中文: 'circumstance_phrase->，一边放声发笑。', 原英文: '无' -> 新英文: 'circumstance_phrase->while laughing uproariously',更新于2026-02-14-->
+  <!--EN: circumstance_phrase->while laughing uproariously-->
+  <AttendedOrgy.rulePack.rulesStrings.10>circumstance_phrase->，一边放声发笑。</AttendedOrgy.rulePack.rulesStrings.10>
+  <!--原中文: 'circumstance_phrase->，一边 [AdjectiveFriendly]', 原英文: '无' -> 新英文: 'circumstance_phrase->while [AdjectiveFriendly]',更新于2026-02-14-->
+  <!--EN: circumstance_phrase->while [AdjectiveFriendly]-->
+  <AttendedOrgy.rulePack.rulesStrings.11>circumstance_phrase->，一边 [AdjectiveFriendly]</AttendedOrgy.rulePack.rulesStrings.11>
+  <!--原中文: 'desc_sentence->[Quantity_adjphrase] [PersonJob] 参与了讨论。', 原英文: '无' -> 新英文: 'desc_sentence->[Quantity_adjphrase] [PersonJob]s are involved in the conversation.',更新于2026-02-14-->
+  <!--EN: desc_sentence->[Quantity_adjphrase] [PersonJob]s are involved in the conversation.-->
+  <AttendedOrgy.rulePack.rulesStrings.12>desc_sentence->[Quantity_adjphrase] [PersonJob] 参与了讨论。</AttendedOrgy.rulePack.rulesStrings.12>
+  <!--原中文: 'desc_sentence->四周被装点成 [Color] 和 [Color] 的颜色。', 原英文: '无' -> 新英文: 'desc_sentence->The area is decorated with [Color] and [Color].',更新于2026-02-14-->
+  <!--EN: desc_sentence->The area is decorated with [Color] and [Color].-->
+  <AttendedOrgy.rulePack.rulesStrings.13>desc_sentence->四周被装点成 [Color] 和 [Color] 的颜色。</AttendedOrgy.rulePack.rulesStrings.13>
+  <!--原中文: 'desc_sentence->[Quantity_adjphrase] [Animal] 在附近玩耍。', 原英文: '无' -> 新英文: 'desc_sentence->[Quantity_adjphrase] [Animal]s play nearby.',更新于2026-02-14-->
+  <!--EN: desc_sentence->[Quantity_adjphrase] [Animal]s play nearby.-->
+  <AttendedOrgy.rulePack.rulesStrings.14>desc_sentence->[Quantity_adjphrase] [Animal] 在附近玩耍。</AttendedOrgy.rulePack.rulesStrings.14>
+</LanguageData>

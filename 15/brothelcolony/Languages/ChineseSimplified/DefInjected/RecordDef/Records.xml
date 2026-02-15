@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Counts whoring stuff -->
+
+  <CountOfWhore.label>妓女次数</CountOfWhore.label>
+  <CountOfWhore.description>我自己嫖妓的次数。</CountOfWhore.description>
+
+  <EarnedMoneyByWhore.label>作为妓女赚取的银子</EarnedMoneyByWhore.label>
+  <EarnedMoneyByWhore.description>我作为妓女赚取的银币数量。</EarnedMoneyByWhore.description>
+
+
+</LanguageData>

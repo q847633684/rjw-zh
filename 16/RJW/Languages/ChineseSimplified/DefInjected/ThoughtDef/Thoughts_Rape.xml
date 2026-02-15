@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--重复key，需删除-->
+  <FeelingBroken.stages.0.label>头晕</FeelingBroken.stages.0.label>
+  <!--原中文: '啊……什么……我被……多少次了？', 原英文: '无' -> 新英文: 'Huh...wha...how many times was I...?',更新于2026-02-14-->
+  <!--EN: Huh...wha...how many times was I...?-->
+  <FeelingBroken.stages.0.description>啊……什么……我被……多少次了？</FeelingBroken.stages.0.description>
+  <!--重复key，需删除-->
+  <FeelingBroken.stages.1.label>我的身体要坏掉了</FeelingBroken.stages.1.label>
+  <!--原中文: '不……我不想要了……啊……啊啊……我的身体要……要坏掉了。', 原英文: '无' -> 新英文: 'No...I don't want...aah...ahhh...my body feels...broken...please...no more...',更新于2026-02-14-->
+  <!--EN: No...I don't want...aah...ahhh...my body feels...broken...please...no more...-->
+  <FeelingBroken.stages.1.description>不……我不想要了……啊……啊啊……我的身体要……要坏掉了。</FeelingBroken.stages.1.description>
+  <!--重复key，需删除-->
+  <FeelingBroken.stages.2.label>乞求更多</FeelingBroken.stages.2.label>
+  <!--原中文: '主人！快来惩罚我吧！快来注满我吧！我卑微的身体完全属于你！', 原英文: '无' -> 新英文: 'Masters, please violate me more, I only exist to be used by you. Please fuck me and fill me with your cum again, and again, and again...',更新于2026-02-14-->
+  <!--EN: Masters, please violate me more, I only exist to be used by you. Please fuck me and fill me with your cum again, and again, and again...-->
+  <FeelingBroken.stages.2.description>主人！快来惩罚我吧！快来注满我吧！我卑微的身体完全属于你！</FeelingBroken.stages.2.description>
+  <!--原中文: '被强奸', 原英文: '无' -> 新英文: 'raped',更新于2026-02-14-->
+  <!--EN: raped-->
+  <GotRaped.stages.0.label>被强奸</GotRaped.stages.0.label>
+  <!--原中文: '我被强奸了……我感到很无助，像个泄欲工具。', 原英文: '无' -> 新英文: 'I was raped...I feel so helpless and used.',更新于2026-02-14-->
+  <!--EN: I was raped...I feel so helpless and used.-->
+  <GotRaped.stages.0.description>我被强奸了……我感到很无助，像个泄欲工具。</GotRaped.stages.0.description>
+  <!--原中文: '被强奸屁股', 原英文: '无' -> 新英文: 'anally raped',更新于2026-02-14-->
+  <!--EN: anally raped-->
+  <GotAnalRaped.stages.0.label>被强奸屁股</GotAnalRaped.stages.0.label>
+  <!--原中文: '我被强奸了屁股……我感到如此的亵渎和肮脏。', 原英文: '无' -> 新英文: 'I was raped anally...I feel so violated and filthy.',更新于2026-02-14-->
+  <!--EN: I was raped anally...I feel so violated and filthy.-->
+  <GotAnalRaped.stages.0.description>我被强奸了屁股……我感到如此的亵渎和肮脏。</GotAnalRaped.stages.0.description>
+  <!--原中文: '被女孩强奸屁股', 原英文: '无' -> 新英文: 'anally raped by a girl',更新于2026-02-14-->
+  <!--EN: anally raped by a girl-->
+  <GotAnalRapedByFemale.stages.0.label>被女孩强奸屁股</GotAnalRapedByFemale.stages.0.label>
+  <!--原中文: '我被一个女孩强奸了屁股……太丢人了。我是一个软弱无用的垃圾。这可能是因为我的软弱而应得的……', 原英文: '无' -> 新英文: 'I was raped anally by a girl...It's so humiliating. I probably deserved it for being so weak...',更新于2026-02-14-->
+  <!--EN: I was raped anally by a girl...It's so humiliating. I probably deserved it for being so weak...-->
+  <GotAnalRapedByFemale.stages.0.description>我被一个女孩强奸了屁股……太丢人了。我是一个软弱无用的垃圾。这可能是因为我的软弱而应得的……</GotAnalRapedByFemale.stages.0.description>
+  <!--原中文: '被强奸（失去知觉）', 原英文: '无' -> 新英文: 'raped (Unconscious)',更新于2026-02-14-->
+  <!--EN: raped (Unconscious)-->
+  <GotRapedUnconscious.stages.0.label>被强奸（失去知觉）</GotRapedUnconscious.stages.0.label>
+  <!--原中文: '天哪！有人或什么东西在我昏迷的时候强奸了我。我感到如此的亵渎和肮脏。', 原英文: '无' -> 新英文: 'Oh God, someone or something raped me while I was unconscious. I feel so violated and dirty.',更新于2026-02-14-->
+  <!--EN: Oh God, someone or something raped me while I was unconscious. I feel so violated and dirty.-->
+  <GotRapedUnconscious.stages.0.description>天哪！有人或什么东西在我昏迷的时候强奸了我。我感到如此的亵渎和肮脏。</GotRapedUnconscious.stages.0.description>
+  <!--原中文: '被强奸（失去知觉）（受虐狂）', 原英文: '无' -> 新英文: 'raped (Unconscious)',更新于2026-02-14-->
+  <!--EN: raped (Unconscious)-->
+  <MasochistGotRapedUnconscious.stages.0.label>被强奸（失去知觉）（受虐狂）</MasochistGotRapedUnconscious.stages.0.label>
+  <!--原中文: '有人在我昏迷的时候用了我的身体，最糟糕的是我根本没享受到！', 原英文: '无' -> 新英文: 'Some one used my body while I was unconscious and the worst part was that I missed out and didn't feel anything!',更新于2026-02-14-->
+  <!--EN: Some one used my body while I was unconscious and the worst part was that I missed out and didn't feel anything!-->
+  <MasochistGotRapedUnconscious.stages.0.description>有人在我昏迷的时候用了我的身体，最糟糕的是我根本没享受到！</MasochistGotRapedUnconscious.stages.0.description>
+  <!--原中文: '被强奸（受虐狂）', 原英文: '无' -> 新英文: 'raped',更新于2026-02-14-->
+  <!--EN: raped-->
+  <MasochistGotRaped.stages.0.label>被强奸（受虐狂）</MasochistGotRaped.stages.0.label>
+  <!--原中文: '我被用完了就扔，像块肉一样。不过，我觉得这事……还不错……', 原英文: '无' -> 新英文: 'I was used and thrown around like a piece of meat. God, I love it when they rape me.',更新于2026-02-14-->
+  <!--EN: I was used and thrown around like a piece of meat. God, I love it when they rape me.-->
+  <MasochistGotRaped.stages.0.description>我被用完了就扔，像块肉一样。不过，我觉得这事……还不错……</MasochistGotRaped.stages.0.description>
+  <!--原中文: '被强奸屁股（受虐狂）', 原英文: '无' -> 新英文: 'anally raped',更新于2026-02-14-->
+  <!--EN: anally raped-->
+  <MasochistGotAnalRaped.stages.0.label>被强奸屁股（受虐狂）</MasochistGotAnalRaped.stages.0.label>
+  <!--原中文: '我的屁股被强奸了……太激烈了。他们把我压在地上，对我的屁眼就像打木桩一样地干……嗯~', 原英文: '无' -> 新英文: 'I was raped anally...it was so intense. They held me down and pounded like a piledriver...mmm...',更新于2026-02-14-->
+  <!--EN: I was raped anally...it was so intense. They held me down and pounded like a piledriver...mmm...-->
+  <MasochistGotAnalRaped.stages.0.description>我的屁股被强奸了……太激烈了。他们把我压在地上，对我的屁眼就像打木桩一样地干……嗯~</MasochistGotAnalRaped.stages.0.description>
+  <!--原中文: '被女孩强奸屁股（受虐狂）', 原英文: '无' -> 新英文: 'anally raped by a girl',更新于2026-02-14-->
+  <!--EN: anally raped by a girl-->
+  <MasochistGotAnalRapedByFemale.stages.0.label>被女孩强奸屁股（受虐狂）</MasochistGotAnalRapedByFemale.stages.0.label>
+  <!--原中文: '我被一个女孩强奸了屁股……天哪，真火辣。一个女人对你有这么大的权力，她把你打得屁滚尿流，然后把你当婊子……', 原英文: '无' -> 新英文: 'I was raped anally by a girl...God it was hot. There's just something about a woman having so much power over you as she makes you her bitch...',更新于2026-02-14-->
+  <!--EN: I was raped anally by a girl...God it was hot. There's just something about a woman having so much power over you as she makes you her bitch...-->
+  <MasochistGotAnalRapedByFemale.stages.0.description>我被一个女孩强奸了屁股……天哪，真火辣。一个女人对你有这么大的权力，她把你打得屁滚尿流，然后把你当婊子……</MasochistGotAnalRapedByFemale.stages.0.description>
+  <!--原中文: '强奸了我', 原英文: '无' -> 新英文: 'raped me',更新于2026-02-14-->
+  <!--EN: raped me-->
+  <HateMyRapist.stages.0.label>强奸了我</HateMyRapist.stages.0.label>
+  <!--原中文: '我被{0}强奸了，我永远不会原谅他们。', 原英文: '无' -> 新英文: 'I was raped by {0}. I'll never forgive them.',更新于2026-02-14-->
+  <!--EN: I was raped by {0}. I'll never forgive them.-->
+  <HateMyRapist.stages.0.description>我被{0}强奸了，我永远不会原谅他们。</HateMyRapist.stages.0.description>
+  <!--原中文: '强奸了我（受虐狂）', 原英文: '无' -> 新英文: 'raped me',更新于2026-02-14-->
+  <!--EN: raped me-->
+  <KindaLikeMyRapist.stages.0.label>强奸了我（受虐狂）</KindaLikeMyRapist.stages.0.label>
+  <!--原中文: '{0}粗暴地强迫我做爱。我希望他们能经常这样做……', 原英文: '无' -> 新英文: '{0} forced themselves on me roughly. Wish they'd do it more often...',更新于2026-02-14-->
+  <!--EN: {0} forced themselves on me roughly. Wish they'd do it more often...-->
+  <KindaLikeMyRapist.stages.0.description>{0}粗暴地强迫我做爱。我希望他们能经常这样做……</KindaLikeMyRapist.stages.0.description>
+  <!--原中文: '放任我被强奸', 原英文: '无' -> 新英文: 'allowed me to get raped',更新于2026-02-14-->
+  <!--EN: allowed me to get raped-->
+  <AllowedMeToGetRaped.stages.0.label>放任我被强奸</AllowedMeToGetRaped.stages.0.label>
+  <!--原中文: '我被强奸了，在我受苦时，那狗屎{0}瞥向一边装作什么也没发生！', 原英文: '无' -> 新英文: 'I got raped while that piece of shit {0} just looked the other way...',更新于2026-02-14-->
+  <!--EN: I got raped while that piece of shit {0} just looked the other way...-->
+  <AllowedMeToGetRaped.stages.0.description>我被强奸了，在我受苦时，那狗屎{0}瞥向一边装作什么也没发生！</AllowedMeToGetRaped.stages.0.description>
+  <!--原中文: '强迫泄欲', 原英文: '无' -> 新英文: 'stole some lovin’',更新于2026-02-14-->
+  <!--EN: stole some lovin’-->
+  <StoleSomeLovin.stages.0.label>强迫泄欲</StoleSomeLovin.stages.0.label>
+  <!--原中文: '我不得已的上了某个婊子，做爱过程很糟糕，但总比什么都没有好。', 原英文: '无' -> 新英文: 'I forced myself on some bitch. The sex was pretty shit, but it's better than nothing.',更新于2026-02-14-->
+  <!--EN: I forced myself on some bitch. The sex was pretty shit, but it's better than nothing.-->
+  <StoleSomeLovin.stages.0.description>我不得已的上了某个婊子，做爱过程很糟糕，但总比什么都没有好。</StoleSomeLovin.stages.0.description>
+  <!--原中文: '做了会儿爱', 原英文: '无' -> 新英文: 'made some lovin’',更新于2026-02-14-->
+  <!--EN: made some lovin’-->
+  <MadeSomeLovin.stages.0.label>做了会儿爱</MadeSomeLovin.stages.0.label>
+  <!--原中文: '在干草中度过了一些美好时光。', 原英文: '无' -> 新英文: 'Spent some good time rolling in the hay.',更新于2026-02-14-->
+  <!--EN: Spent some good time rolling in the hay.-->
+  <MadeSomeLovin.stages.0.description>在干草中度过了一些美好时光。</MadeSomeLovin.stages.0.description>
+  <!--原中文: '强迫泄欲（嗜血）', 原英文: '无' -> 新英文: 'stole some lovin’',更新于2026-02-14-->
+  <!--EN: stole some lovin’-->
+  <BloodlustStoleSomeLovin.stages.0.label>强迫泄欲（嗜血）</BloodlustStoleSomeLovin.stages.0.label>
+  <!--原中文: '我强迫那贱货跟我做爱。那叫声！那泪水！那血迹！简直太痛快了！自从那天我干翻了那些部落以后，我就再也没有感觉这么畅快过了！', 原英文: '无' -> 新英文: 'I raped some cunt who deserved it. The way they screamed and cried was so fucking good.',更新于2026-02-14-->
+  <!--EN: I raped some cunt who deserved it. The way they screamed and cried was so fucking good.-->
+  <BloodlustStoleSomeLovin.stages.0.description>我强迫那贱货跟我做爱。那叫声！那泪水！那血迹！简直太痛快了！自从那天我干翻了那些部落以后，我就再也没有感觉这么畅快过了！</BloodlustStoleSomeLovin.stages.0.description>
+</LanguageData>

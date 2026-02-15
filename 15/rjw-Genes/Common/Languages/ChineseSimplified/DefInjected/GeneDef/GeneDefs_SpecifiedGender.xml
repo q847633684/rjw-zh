@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_female_only.label>女性</rjw_genes_female_only.label>
+  <rjw_genes_female_only.description>此异型只有雌性。</rjw_genes_female_only.description>
+
+  <rjw_genes_male_only.label>男性</rjw_genes_male_only.label>
+  <rjw_genes_male_only.description>此异型只有雄性。</rjw_genes_male_only.description>
+
+  <rjw_genes_gender_fluid.label>性别流体</rjw_genes_gender_fluid.label>
+  <rjw_genes_gender_fluid.description>该基因的日常携带者可能会改变其生物性别。</rjw_genes_gender_fluid.description>
+
+
+</LanguageData>

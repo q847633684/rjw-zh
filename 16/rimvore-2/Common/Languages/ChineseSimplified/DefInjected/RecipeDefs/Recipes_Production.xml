@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Make a batch of chemfuel by extracting biofuel from digested remains.-->
+  <RV2_Make_ChemfuelFromRemains.description>通过从消化的残骸中提取生物燃料来制作一批化合燃料。</RV2_Make_ChemfuelFromRemains.description>
+  <!--EN: Refining chemfuel from remains.-->
+  <RV2_Make_ChemfuelFromRemains.jobString>正在从残骸中提炼化合燃料。</RV2_Make_ChemfuelFromRemains.jobString>
+  <!--EN: make chemfuel from remains-->
+  <RV2_Make_ChemfuelFromRemains.label>从残骸中制作化合燃料</RV2_Make_ChemfuelFromRemains.label>
+</LanguageData>

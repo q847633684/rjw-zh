@@ -1,0 +1,25 @@
+key,text,tag,file,type
+rjw_genes_naked_prowess.label,naked prowss,rjw_genes_naked_prowess.label,GeneDefs\GeneDefs_LifeForce.xml,def
+rjw_genes_naked_prowess.label,裸身威能,rjw_genes_naked_prowess.label,HediffDefs\Hediffs_Fertilin.xml,def
+rjw_genes_naked_prowess.description,"Driven by fertilin, this person has greatly increased strength and resilience.",rjw_genes_naked_prowess.description,GeneDefs\GeneDefs_LifeForce.xml,def
+rjw_genes_naked_prowess.description,在致育素的驱动下，此人的力量和韧性大幅提升。,rjw_genes_naked_prowess.description,HediffDefs\Hediffs_Fertilin.xml,def
+rjw_genes_succubus.label,魅魔,rjw_genes_succubus.label,PawnKindDefs\PawnKind_LifeForce.xml,def
+rjw_genes_incubus.label,梦魔,rjw_genes_incubus.label,PawnKindDefs\PawnKind_LifeForce.xml,def
+Bioscaffold.label,生物支架,Bioscaffold.label,HediffDefs\Bioscaffold.xml,def
+Bioscaffold.description,这是一种单次使用的纳米结构有机网状晶格材料，旨在怀孕前植入女性子宫。它能提供一个肥沃（富集）的环境，让胎儿发育得更加迅速。,Bioscaffold.description,HediffDefs\Bioscaffold.xml,def
+LimbicStimulator.label,边缘系统刺激器,LimbicStimulator.label,HediffDefs\LimbicStimulator.xml,def
+LimbicStimulator.description,一种嵌入大脑奖赏中心深处的永久性缓释化学刺激植入物，会极大地增加其对“爱爱”的需求。据说这种需求会变得如此强烈，以至于会驱使人们强行违背他人意愿发生关系，即使他们平时并不会这样做。事后的清醒会让植入者处于一种极度愉悦的状态，但如果他们违背本性进行了强取豪夺，也可能会感到悔恨——至少在他们习以为常之前是这样。,LimbicStimulator.description,HediffDefs\LimbicStimulator.xml,def
+OvaryAgitator.label,卵巢激扰器,OvaryAgitator.label,HediffDefs\OvaryAgitator.xml,def
+OvaryAgitator.description,一种粗糙的奴隶主植入物，用于增加排卵期释放的卵子数量，从而提高单次怀孕产下多胎的概率。由于大多数文明和统一的世界已经取缔了这种装置，它们的使用很大程度上局限于缺乏克隆设施的边缘世界。\n\n虽然它在初期能提升生育能力，但该植入物会在数年内缓慢耗尽受害者的卵巢功能，直至其不育。受害者的盟友会因此感到愤怒。,OvaryAgitator.description,HediffDefs\OvaryAgitator.xml,def
+Scrambler.label,扰频器,Scrambler.label,HediffDefs\Scrambler.xml,def
+Scrambler.description,一种类似于精神钉（mindscrew）的奴隶主植入物。它可以通过复杂的纳米电极网络，直接将令人眩晕的心智图像注入大脑视觉皮层。植入扰频器的受害者往往会产生社交退缩，以减少额外的刺激。由于这种混乱状态，他们在生理上也变得温顺，从而容易被他人强加意志。受害者的盟友会因此感到愤怒。,Scrambler.description,HediffDefs\Scrambler.xml,def
+RJWGenesTips.tips.0,当欲火中烧的角色在夜晚独自睡觉时，有几率触发稀有事件生成魅魔和梦魔。,RJWGenesTips.tips.0,TipSetDefs\Tips.xml,def
+RJWGenesTips.tips.1,噬精狂需要定期咬断阴茎。这种饥渴可以通过动物来满足——但这样他们需要更多！,RJWGenesTips.tips.1,TipSetDefs\Tips.xml,def
+RJWGenesTips.tips.2,魅魔通过性交吸取致育素。被吸取的角色在后续行为中提供的致育素会减少，直到他们恢复。,RJWGenesTips.tips.2,TipSetDefs\Tips.xml,def
+RJWGenesTips.tips.3,梦魔通过“汲取”与他们发生关系的角色来获取致育素。在该角色完全恢复之前，梦魔无法再次通过这种方式获取致育素。,RJWGenesTips.tips.3,TipSetDefs\Tips.xml,def
+RJWGenesTips.tips.4,RJW_Genes添加的外来种需要大量人力资源——在收留他们之前，请确保你有一个庞大的殖民地或大量囚犯！,RJWGenesTips.tips.4,TipSetDefs\Tips.xml,def
+RJWGenesTips.tips.5,魅魔从精液中获取致育素。请确保周围有足够的“汁液”让她们保持快乐。,RJWGenesTips.tips.5,TipSetDefs\Tips.xml,def
+RJWGenesTips.tips.6,“食精者”基因允许你通过舔阴来排解精液膨胀。……很酷，对吧？,RJWGenesTips.tips.6,TipSetDefs\Tips.xml,def
+RJWGenesTips.tips.7,有些动物携带稀有基因——你可以尝试培育它们，创造你自己的超级混血种！（对于猫娘或基因废物不提供任何保证）,RJWGenesTips.tips.7,TipSetDefs\Tips.xml,def
+RJWGenesTips.tips.8,动物基因继承的设置分布在RJW妊娠设置和其自身的模组选项中。,RJWGenesTips.tips.8,TipSetDefs\Tips.xml,def
+RJWGenesTips.tips.9,拥有“可育肛门”基因的角色所生的孩子可能会在学校被欺负，但他们仍然可以过上充实而幸福的生活。,RJWGenesTips.tips.9,TipSetDefs\Tips.xml,def

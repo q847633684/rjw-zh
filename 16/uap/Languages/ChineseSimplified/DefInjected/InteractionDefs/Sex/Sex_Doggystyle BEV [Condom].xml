@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: anal-->
+  <Sex_DoggystyleCondom_UAP.label>肛门</Sex_DoggystyleCondom_UAP.label>
+  <!--EN: r_logentry->Had anal sex with [RECIPIENT_nameDef].-->
+  <Sex_DoggystyleCondom_UAP.logRulesInitiator.rulesStrings.0>r_logentry->与 [RECIPIENT_nameDef] 进行了肛门性交。</Sex_DoggystyleCondom_UAP.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Had anal sex with [INITIATOR_nameDef].-->
+  <Sex_DoggystyleCondom_UAP.logRulesRecipient.rulesStrings.0>r_logentry->与 [INITIATOR_nameDef] 进行了肛门性交。</Sex_DoggystyleCondom_UAP.logRulesRecipient.rulesStrings.0>
+  <!--EN: (A) Doggystyle BEV [Condom]-->
+  <Sex_DoggystyleCondom_UAP.modExtensions.0.RMBLabel>(A) 狗仔式 BEV [安全套]</Sex_DoggystyleCondom_UAP.modExtensions.0.RMBLabel>
+</LanguageData>

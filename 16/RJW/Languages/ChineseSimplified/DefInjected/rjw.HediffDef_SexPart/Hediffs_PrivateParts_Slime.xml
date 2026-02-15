@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Slime privates -->
+  <!--原中文: '粘液触手', 原英文: '无' -> 新英文: 'slime tentacles',更新于2026-02-14-->
+  <!--EN: slime tentacles-->
+  <SlimeTentacles.label>粘液触手</SlimeTentacles.label>
+  <!--原中文: '粘液触手', 原英文: '无' -> 新英文: 'slime tentacles',更新于2026-02-14-->
+  <!--EN: slime tentacles-->
+  <SlimeTentacles.labelNoun>粘液触手</SlimeTentacles.labelNoun>
+  <!--原中文: '光滑，半透明的触须，可以变成任何形状。', 原英文: '无' -> 新英文: 'Slick, translucent tentacles that can conform into any shape desired.',更新于2026-02-14-->
+  <!--EN: Slick, translucent tentacles that can conform into any shape desired.-->
+  <SlimeTentacles.description>光滑，半透明的触须，可以变成任何形状。</SlimeTentacles.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <SlimeTentacles.stages.0.label>微型</SlimeTentacles.stages.0.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <SlimeTentacles.stages.1.label>很小</SlimeTentacles.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <SlimeTentacles.stages.2.label>平均</SlimeTentacles.stages.2.label>
+  <!--原中文: '大', 原英文: '无' -> 新英文: 'Large',更新于2026-02-14-->
+  <!--EN: Large-->
+  <SlimeTentacles.stages.3.label>大</SlimeTentacles.stages.3.label>
+  <!--原中文: '巨大', 原英文: '无' -> 新英文: 'Huge',更新于2026-02-14-->
+  <!--EN: Huge-->
+  <SlimeTentacles.stages.4.label>巨大</SlimeTentacles.stages.4.label>
+  <!--原中文: '超大', 原英文: '无' -> 新英文: 'Towering',更新于2026-02-14-->
+  <!--EN: Towering-->
+  <SlimeTentacles.stages.5.label>超大</SlimeTentacles.stages.5.label>
+  <!--原中文: '粘液阴道', 原英文: '无' -> 新英文: 'slime vagina',更新于2026-02-14-->
+  <!--EN: slime vagina-->
+  <SlimeVagina.label>粘液阴道</SlimeVagina.label>
+  <!--原中文: '粘液阴道', 原英文: '无' -> 新英文: 'slime vagina',更新于2026-02-14-->
+  <!--EN: slime vagina-->
+  <SlimeVagina.labelNoun>粘液阴道</SlimeVagina.labelNoun>
+  <!--原中文: '一种光滑、半透明的阴道，可以扩张或收缩以容纳任何阴茎。', 原英文: '无' -> 新英文: 'A slick, translucent vagina that can grow or shrink to accommodate any penis.',更新于2026-02-14-->
+  <!--EN: A slick, translucent vagina that can grow or shrink to accommodate any penis.-->
+  <SlimeVagina.description>一种光滑、半透明的阴道，可以扩张或收缩以容纳任何阴茎。</SlimeVagina.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <SlimeVagina.stages.0.label>微型</SlimeVagina.stages.0.label>
+  <!--原中文: '紧致', 原英文: '无' -> 新英文: 'Tight',更新于2026-02-14-->
+  <!--EN: Tight-->
+  <SlimeVagina.stages.1.label>紧致</SlimeVagina.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <SlimeVagina.stages.2.label>平均</SlimeVagina.stages.2.label>
+  <!--原中文: '松弛', 原英文: '无' -> 新英文: 'Accommodating',更新于2026-02-14-->
+  <!--EN: Accommodating-->
+  <SlimeVagina.stages.3.label>松弛</SlimeVagina.stages.3.label>
+  <!--原中文: '敞口', 原英文: '无' -> 新英文: 'Cavernous',更新于2026-02-14-->
+  <!--EN: Cavernous-->
+  <SlimeVagina.stages.4.label>敞口</SlimeVagina.stages.4.label>
+  <!--原中文: '深渊', 原英文: '无' -> 新英文: 'Abyssal',更新于2026-02-14-->
+  <!--EN: Abyssal-->
+  <SlimeVagina.stages.5.label>深渊</SlimeVagina.stages.5.label>
+  <!--原中文: '粘液肛门', 原英文: '无' -> 新英文: 'slime anus',更新于2026-02-14-->
+  <!--EN: slime anus-->
+  <SlimeAnus.label>粘液肛门</SlimeAnus.label>
+  <!--原中文: '粘液肛门', 原英文: '无' -> 新英文: 'a slime anus',更新于2026-02-14-->
+  <!--EN: a slime anus-->
+  <SlimeAnus.labelNoun>粘液肛门</SlimeAnus.labelNoun>
+  <!--原中文: '一种光滑、半透明的肛门，可以收紧并适应任何东西。', 原英文: '无' -> 新英文: 'A slick, translucent anus that can tighten and conform to fit anything.',更新于2026-02-14-->
+  <!--EN: A slick, translucent anus that can tighten and conform to fit anything.-->
+  <SlimeAnus.description>一种光滑、半透明的肛门，可以收紧并适应任何东西。</SlimeAnus.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <SlimeAnus.stages.0.label>微型</SlimeAnus.stages.0.label>
+  <!--原中文: '紧致', 原英文: '无' -> 新英文: 'Tight',更新于2026-02-14-->
+  <!--EN: Tight-->
+  <SlimeAnus.stages.1.label>紧致</SlimeAnus.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <SlimeAnus.stages.2.label>平均</SlimeAnus.stages.2.label>
+  <!--原中文: '松弛', 原英文: '无' -> 新英文: 'Accommodating',更新于2026-02-14-->
+  <!--EN: Accommodating-->
+  <SlimeAnus.stages.3.label>松弛</SlimeAnus.stages.3.label>
+  <!--原中文: '敞口', 原英文: '无' -> 新英文: 'Cavernous',更新于2026-02-14-->
+  <!--EN: Cavernous-->
+  <SlimeAnus.stages.4.label>敞口</SlimeAnus.stages.4.label>
+  <!--原中文: '深渊', 原英文: '无' -> 新英文: 'Abyssal',更新于2026-02-14-->
+  <!--EN: Abyssal-->
+  <SlimeAnus.stages.5.label>深渊</SlimeAnus.stages.5.label>
+  <!--原中文: '粘液乳房', 原英文: '无' -> 新英文: 'slime breasts',更新于2026-02-14-->
+  <!--EN: slime breasts-->
+  <SlimeBreasts.label>粘液乳房</SlimeBreasts.label>
+  <!--原中文: '粘液乳房', 原英文: '无' -> 新英文: 'a pair of slime breasts',更新于2026-02-14-->
+  <!--EN: a pair of slime breasts-->
+  <SlimeBreasts.labelNoun>粘液乳房</SlimeBreasts.labelNoun>
+  <!--原中文: '一对光滑、半透明的乳房，可以放或缩到任何想要的大小。', 原英文: '无' -> 新英文: 'A pair of slick, translucent breasts that can grow or shrink to any desired size.',更新于2026-02-14-->
+  <!--EN: A pair of slick, translucent breasts that can grow or shrink to any desired size.-->
+  <SlimeBreasts.description>一对光滑、半透明的乳房，可以放或缩到任何想要的大小。</SlimeBreasts.description>
+  <!--原中文: '飞机场', 原英文: '无' -> 新英文: 'Nipples',更新于2026-02-14-->
+  <!--EN: Nipples-->
+  <SlimeBreasts.stages.0.label>飞机场</SlimeBreasts.stages.0.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Tiny',更新于2026-02-14-->
+  <!--EN: Tiny-->
+  <SlimeBreasts.stages.1.label>很小</SlimeBreasts.stages.1.label>
+  <!--原中文: '小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <SlimeBreasts.stages.2.label>小</SlimeBreasts.stages.2.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <SlimeBreasts.stages.3.label>平均</SlimeBreasts.stages.3.label>
+  <!--原中文: '大', 原英文: '无' -> 新英文: 'Large',更新于2026-02-14-->
+  <!--EN: Large-->
+  <SlimeBreasts.stages.4.label>大</SlimeBreasts.stages.4.label>
+  <!--原中文: '巨大', 原英文: '无' -> 新英文: 'Huge',更新于2026-02-14-->
+  <!--EN: Huge-->
+  <SlimeBreasts.stages.5.label>巨大</SlimeBreasts.stages.5.label>
+  <!--原中文: '超大', 原英文: '无' -> 新英文: 'Enormous',更新于2026-02-14-->
+  <!--EN: Enormous-->
+  <SlimeBreasts.stages.6.label>超大</SlimeBreasts.stages.6.label>
+  <!--原中文: '超巨大', 原英文: '无' -> 新英文: 'Massive',更新于2026-02-14-->
+  <!--EN: Massive-->
+  <SlimeBreasts.stages.7.label>超巨大</SlimeBreasts.stages.7.label>
+  <!--原中文: '巨大怪兽', 原英文: '无' -> 新英文: 'Gargantuan',更新于2026-02-14-->
+  <!--EN: Gargantuan-->
+  <SlimeBreasts.stages.8.label>巨大怪兽</SlimeBreasts.stages.8.label>
+  <!--原中文: '超巨大建筑', 原英文: '无' -> 新英文: 'Colossal',更新于2026-02-14-->
+  <!--EN: Colossal-->
+  <SlimeBreasts.stages.9.label>超巨大建筑</SlimeBreasts.stages.9.label>
+  <!--原中文: '泰坦尼克', 原英文: '无' -> 新英文: 'Titanic',更新于2026-02-14-->
+  <!--EN: Titanic-->
+  <SlimeBreasts.stages.10.label>泰坦尼克</SlimeBreasts.stages.10.label>
+  <!--原中文: '天文级别', 原英文: '无' -> 新英文: 'Astronomical',更新于2026-02-14-->
+  <!--EN: Astronomical-->
+  <SlimeBreasts.stages.11.label>天文级别</SlimeBreasts.stages.11.label>
+</LanguageData>

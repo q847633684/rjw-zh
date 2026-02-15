@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: [PAWN_label] can melt live prey down to a great big puddle of vaginal lubricant in [PAWN_possessive] womb.-->
+  <Enablers_Core_Goal_ConvertLube.description>[PAWN_label]可以将活着的猎物融化成一大滩vaginallubricant于[PAWN_possessive]子宫内。</Enablers_Core_Goal_ConvertLube.description>
+  <!--EN: Lubrifactive enzymes-->
+  <Enablers_Core_Goal_ConvertLube.label>萤光酶</Enablers_Core_Goal_ConvertLube.label>
+  <!--EN: [PAWN_label] can melt live prey down to milk in [PAWN_possessive] breasts.-->
+  <Enablers_Core_Goal_ConvertMilk.description>[PAWN_label]可以将活着的猎物融化至[PAWN_possessive]乳房</Enablers_Core_Goal_ConvertMilk.description>
+  <!--EN: Lactifactive enzymes-->
+  <Enablers_Core_Goal_ConvertMilk.label>液化酶</Enablers_Core_Goal_ConvertMilk.label>
+  <!--EN: [PAWN_label] can melt live prey down to sperm in [PAWN_possessive] balls.-->
+  <Enablers_Core_Goal_ConvertSperm.description>[PAWN_label] can melt live prey down to &amp;lt;ALIMT >精子&amp;lt;/ALIMT> in [PAWN_possessive] balls.</Enablers_Core_Goal_ConvertSperm.description>
+  <!--EN: Spermifactive enzymes-->
+  <Enablers_Core_Goal_ConvertSperm.label>Spermifactive enzymes</Enablers_Core_Goal_ConvertSperm.label>
+  <!--EN: [PAWN_label] has potent enough digestive enzymes to reasonably digest live prey.-->
+  <Enablers_Core_Goal_Digest.description>[PAWN_label] has potent enough digestive enzymes to reasonably digest live prey.</Enablers_Core_Goal_Digest.description>
+  <!--EN: Digestive enzymes-->
+  <Enablers_Core_Goal_Digest.label>Digestive enzymes</Enablers_Core_Goal_Digest.label>
+  <!--EN: [PAWN_label]'s internal organs can function as a sanitary, comfortable, and even medicinal substitute for conventional bedrest.-->
+  <Enablers_Core_Goal_Heal.description>[PAWN_label]&amp;apos;s internal organs can function as a sanitary, comfortable, and even medicinal substitute for conventional bedrest.</Enablers_Core_Goal_Heal.description>
+  <!--EN: Analeptic enzymes-->
+  <Enablers_Core_Goal_Heal.label>Analeptic enzymes</Enablers_Core_Goal_Heal.label>
+  <!--EN: [PAWN_label] is sphinctrally strong and biochemically stable enough to hold onto prey indefinitely.-->
+  <Enablers_Core_Goal_Longendo.description>[PAWN_label]足够强，足以无限期地抓住猎物。</Enablers_Core_Goal_Longendo.description>
+  <!--EN: Long-term endo-->
+  <Enablers_Core_Goal_Longendo.label>长期治疗</Enablers_Core_Goal_Longendo.label>
+  <!--EN: [PAWN_label] is able to remake a pawn in their own image.-->
+  <Enablers_Core_Goal_Reform.description>[PAWN_label] is able to remake a pawn in their own image.</Enablers_Core_Goal_Reform.description>
+  <!--EN: Reforming enzymes-->
+  <Enablers_Core_Goal_Reform.label>Reforming enzymes</Enablers_Core_Goal_Reform.label>
+  <!--EN: [PAWN_label] is nice and hospitable enough inside that [PAWN_possessive] innards can be used for comfort, leisure, and sexual pleasure, thanks to numerous quality of life improvements such as sanitization and passive airflow induction.-->
+  <Enablers_Core_Goal_TempEndo.description>[PAWN_label] is nice and hospitable enough inside that [PAWN_possessive] innards can be used for comfort, leisure, and &amp;lt;ALIMT >性的&amp;lt;/ALIMT> pleasure, thanks to numerous quality of life improvements such as sanitization and passive airflow induction.</Enablers_Core_Goal_TempEndo.description>
+  <!--EN: Short-term endo-->
+  <Enablers_Core_Goal_TempEndo.label>Short-term endo</Enablers_Core_Goal_TempEndo.label>
+  <!--EN: [PAWN_label] has a pucker and guts stretchy enough to posternate up live prey.-->
+  <Enablers_Core_Type_Anal.description>[PAWN_label]拥有足够的韧性和勇气，可以将活着的猎物捕获。</Enablers_Core_Type_Anal.description>
+  <!--EN: Anal elasticity-->
+  <Enablers_Core_Type_Anal.label>肛门弹力</Enablers_Core_Type_Anal.label>
+  <!--EN: [PAWN_label] has a shaft stretchy enough to unsow live prey.-->
+  <Enablers_Core_Type_Cock.description>[PAWN_label]杆杆有足够的拉伸力，可以卸载猎物。</Enablers_Core_Type_Cock.description>
+  <!--EN: Penile elasticity-->
+  <Enablers_Core_Type_Cock.label>阴茎弹力</Enablers_Core_Type_Cock.label>
+  <!--EN: [PAWN_label] has tits stretchy enough to unnurse live prey.-->
+  <Enablers_Core_Type_Nipple.description>[PAWN_label]拥有足以拆解猎物的乳房。</Enablers_Core_Type_Nipple.description>
+  <!--EN: Nipple elasticity-->
+  <Enablers_Core_Type_Nipple.label>乳头弹力</Enablers_Core_Type_Nipple.label>
+  <!--EN: [PAWN_label] has a throat with enough stretch to swallow down live prey.-->
+  <Enablers_Core_Type_Oral.description>[PAWN_label]拥有足以吞下活物的咽喉。</Enablers_Core_Type_Oral.description>
+  <!--EN: Oral elasticity-->
+  <Enablers_Core_Type_Oral.label>用嘴弹力</Enablers_Core_Type_Oral.label>
+  <!--EN: [PAWN_label] has a snatch stretchy enough to unbirth live prey.-->
+  <Enablers_Core_Type_Vaginal.description>[PAWN_label]拥有足够的抓举能力，可以解除活着的猎物。</Enablers_Core_Type_Vaginal.description>
+  <!--EN: Vaginal elasticity-->
+  <Enablers_Core_Type_Vaginal.label>阴道弹力</Enablers_Core_Type_Vaginal.label>
+  <!--EN: These quirks are required for a pawn to be able to use vore, each representing one goal. Modifying their commonality sets the global chances that any pawn will be capable of using any given vore path. Vore enablers can be aquired to add the quirk to an existing pawn, even if the quirk itself is set to ForcedOnly; do this if you want vore to be a power unlocked solely through acquisition of the required enabler surgeries.-->
+  <Enablers_Goals_Core.description>这些怪癖是必须的pawn能够使用吃人,每个代表一个目标。修改它们的共性可以设置任何pawn将能够使用任何给定吃人路径。吃人支持者可以被获得，以增加一个现有的怪癖pawn,即使 quirk 本身已设置为 ForcedOnly; 如果你想这样做吃人仅通过获取所需的赋能手术即可解锁。</Enablers_Goals_Core.description>
+  <!--EN: Goal enablers-->
+  <Enablers_Goals_Core.label>赋能者</Enablers_Goals_Core.label>
+  <!--EN: These quirks are required for a pawn to be able to use vore, each representing one type. Modifying their commonality sets the global chances that any pawn will be capable of using any given vore path. Vore enablers can be aquired to add the quirk to an existing pawn, even if the quirk itself is set to Invalid; do this if you want vore to be a power unlocked solely through acquisition of the required enabler surgeries.-->
+  <Enablers_Types_Core.description>这些怪癖是必须的pawn能够使用吃人,每种类型代表一种类型。修改它们的共性可以设置任何pawn将能够使用任何给定吃人路径。吃人支持者可以被获得，以增加一个现有的怪癖pawn,即使怪癖本身设置为无效; 如果你想这样做吃人仅通过获取所需的赋能手术即可解锁。</Enablers_Types_Core.description>
+  <!--EN: Type enablers-->
+  <Enablers_Types_Core.label>打字能力</Enablers_Types_Core.label>
+</LanguageData>

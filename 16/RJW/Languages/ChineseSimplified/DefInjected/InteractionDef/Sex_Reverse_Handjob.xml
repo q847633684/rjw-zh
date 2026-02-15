@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '手交', 原英文: '无' -> 新英文: 'handjob',更新于2026-02-14-->
+  <!--EN: handjob-->
+  <Sex_Reverse_Handjob.label>手交</Sex_Reverse_Handjob.label>
+  <!--原中文: '为其手交', 原英文: '无' -> 新英文: 'Give handjob',更新于2026-02-14-->
+  <!--EN: Give handjob-->
+  <Sex_Reverse_Handjob.modExtensions.0.RMBLabel>为其手交</Sex_Reverse_Handjob.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->用手给[RECIPIENT_nameDef]的阴茎撸了一发。', 原英文: '无' -> 新英文: 'r_logentry->Gave a handjob to [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Gave a handjob to [RECIPIENT_nameDef].-->
+  <Sex_Reverse_Handjob.logRulesInitiator.rulesStrings.0>r_logentry->用手给[RECIPIENT_nameDef]的阴茎撸了一发。</Sex_Reverse_Handjob.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->让[INITIATOR_nameDef]给自己用手撸了一发。', 原英文: '无' -> 新英文: 'r_logentry->Received a handjob from [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Received a handjob from [INITIATOR_nameDef].-->
+  <Sex_Reverse_Handjob.logRulesRecipient.rulesStrings.0>r_logentry->让[INITIATOR_nameDef]给自己用手撸了一发。</Sex_Reverse_Handjob.logRulesRecipient.rulesStrings.0>
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '被配种。', 原英文: '无' -> 新英文: 'gettin' bred.',更新于2026-02-14-->
+  <!--EN: gettin' bred.-->
+  <GettinBred.reportString>被配种。</GettinBred.reportString>
+  <!--原中文: '配种。', 原英文: '无' -> 新英文: 'breeding',更新于2026-02-14-->
+  <!--EN: breeding-->
+  <Breed.reportString>配种。</Breed.reportString>
+  <!--原中文: '交配。', 原英文: '无' -> 新英文: 'mating',更新于2026-02-14-->
+  <!--EN: mating-->
+  <RJW_Mate.reportString>交配。</RJW_Mate.reportString>
+  <!--原中文: '兽交。', 原英文: '无' -> 新英文: 'lovin' animal',更新于2026-02-14-->
+  <!--EN: lovin' animal-->
+  <Bestiality.reportString>兽交。</Bestiality.reportString>
+  <!--原中文: '兽交。', 原英文: '无' -> 新英文: 'lovin' animal',更新于2026-02-14-->
+  <!--EN: lovin' animal-->
+  <BestialityForFemale.reportString>兽交。</BestialityForFemale.reportString>
+</LanguageData>

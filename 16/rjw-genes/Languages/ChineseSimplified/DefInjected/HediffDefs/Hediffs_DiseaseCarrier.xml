@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: This pawn is capable of carrying genetic diseases without being infected.-->
+  <rjw_genes_disease_carrier_storage.description>该角色能够携带遗传性病而不被感染。</rjw_genes_disease_carrier_storage.description>
+  <!--EN: stored genetic diseases-->
+  <rjw_genes_disease_carrier_storage.label>储存的遗传性病</rjw_genes_disease_carrier_storage.label>
+  <!--EN: active-->
+  <rjw_genes_disease_carrier_storage.stages.0.label>活跃</rjw_genes_disease_carrier_storage.stages.0.label>
+</LanguageData>

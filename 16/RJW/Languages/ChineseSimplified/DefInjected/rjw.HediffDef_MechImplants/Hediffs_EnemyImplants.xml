@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- vanilla mechanoids. Mechs implant things. -->
+  <!--原中文: '植入式机械体', 原英文: '无' -> 新英文: 'implanted mechanoid',更新于2026-02-14-->
+  <!--EN: implanted mechanoid-->
+  <RJW_MechanoidImplant.label>植入式机械体</RJW_MechanoidImplant.label>
+  <!--过时key，需删除-->
+  <RJW_MechanoidImplant.description>放在宿主肉穴里的小型计算机。可以分析生命体征和位置数据，并将这些信息反馈给机械族的AI伪人格核心。</RJW_MechanoidImplant.description>
+</LanguageData>

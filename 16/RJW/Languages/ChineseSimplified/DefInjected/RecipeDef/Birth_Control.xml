@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '制作10个避孕套', 原英文: '无' -> 新英文: 'make condom x10',更新于2026-02-14-->
+  <!--EN: make condom x10-->
+  <MakeCondom.label>制作10个避孕套</MakeCondom.label>
+  <!--原中文: '制作10个避孕套。', 原英文: '无' -> 新英文: 'Craft 10 condoms.',更新于2026-02-14-->
+  <!--EN: Craft 10 condoms.-->
+  <MakeCondom.description>制作10个避孕套。</MakeCondom.description>
+  <!--原中文: '制作避孕套。', 原英文: '无' -> 新英文: 'Making condoms.',更新于2026-02-14-->
+  <!--EN: Making condoms.-->
+  <MakeCondom.jobString>制作避孕套。</MakeCondom.jobString>
+</LanguageData>

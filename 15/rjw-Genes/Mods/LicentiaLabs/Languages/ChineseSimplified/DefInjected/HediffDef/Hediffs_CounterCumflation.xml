@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_cumflation_counter.label>精液膨胀负数</rjw_genes_cumflation_counter.label>
+  <rjw_genes_cumflation_counter.description>消除通常因累积膨胀而产生的负面影响。</rjw_genes_cumflation_counter.description>
+  <rjw_genes_cumflation_counter.stages.0.label>一点</rjw_genes_cumflation_counter.stages.0.label>
+  <rjw_genes_cumflation_counter.stages.1.label>轻微</rjw_genes_cumflation_counter.stages.1.label>
+  <rjw_genes_cumflation_counter.stages.2.label>中等</rjw_genes_cumflation_counter.stages.2.label>
+  <rjw_genes_cumflation_counter.stages.3.label>强烈</rjw_genes_cumflation_counter.stages.3.label>
+  <rjw_genes_cumflation_counter.stages.4.label>极端</rjw_genes_cumflation_counter.stages.4.label>
+  <rjw_genes_cumflation_counter.labelNoun>精液膨胀负数</rjw_genes_cumflation_counter.labelNoun>
+
+  <rjw_genes_cumstuffed_counter.label>暨塞满否定器</rjw_genes_cumstuffed_counter.label>
+  <rjw_genes_cumstuffed_counter.description>消除被暨塞满所带来的负面影响。</rjw_genes_cumstuffed_counter.description>
+  <rjw_genes_cumstuffed_counter.stages.0.label>稍微臃肿</rjw_genes_cumstuffed_counter.stages.0.label>
+  <rjw_genes_cumstuffed_counter.stages.1.label>臃肿</rjw_genes_cumstuffed_counter.stages.1.label>
+  <rjw_genes_cumstuffed_counter.stages.2.label>完整</rjw_genes_cumstuffed_counter.stages.2.label>
+  <rjw_genes_cumstuffed_counter.stages.3.label>填充</rjw_genes_cumstuffed_counter.stages.3.label>
+  <rjw_genes_cumstuffed_counter.stages.4.label>过度填充</rjw_genes_cumstuffed_counter.stages.4.label>
+  <rjw_genes_cumstuffed_counter.labelNoun>暨塞满否定</rjw_genes_cumstuffed_counter.labelNoun>
+
+
+</LanguageData>

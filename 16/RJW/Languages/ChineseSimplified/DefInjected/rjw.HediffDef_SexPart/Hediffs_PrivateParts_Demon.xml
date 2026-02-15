@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Demon privates -->
+  <!--原中文: '恶魔触手', 原英文: '无' -> 新英文: 'demon tentacles',更新于2026-02-14-->
+  <!--EN: demon tentacles-->
+  <DemonTentaclePenis.label>恶魔触手</DemonTentaclePenis.label>
+  <!--原中文: '恶魔触手', 原英文: '无' -> 新英文: 'demon tentacles',更新于2026-02-14-->
+  <!--EN: demon tentacles-->
+  <DemonTentaclePenis.labelNoun>恶魔触手</DemonTentaclePenis.labelNoun>
+  <!--原中文: '又长又灵活，不断涌出着恶魔的体液。触手能够触及身体的任何角落。', 原英文: '无' -> 新英文: 'Tentacles capable of reaching corners of the body you never thought possible.',更新于2026-02-14-->
+  <!--EN: Tentacles capable of reaching corners of the body you never thought possible.-->
+  <DemonTentaclePenis.description>又长又灵活，不断涌出着恶魔的体液。触手能够触及身体的任何角落。</DemonTentaclePenis.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <DemonTentaclePenis.stages.0.label>微型</DemonTentaclePenis.stages.0.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <DemonTentaclePenis.stages.1.label>很小</DemonTentaclePenis.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <DemonTentaclePenis.stages.2.label>平均</DemonTentaclePenis.stages.2.label>
+  <!--原中文: '大', 原英文: '无' -> 新英文: 'Large',更新于2026-02-14-->
+  <!--EN: Large-->
+  <DemonTentaclePenis.stages.3.label>大</DemonTentaclePenis.stages.3.label>
+  <!--原中文: '巨大', 原英文: '无' -> 新英文: 'Huge',更新于2026-02-14-->
+  <!--EN: Huge-->
+  <DemonTentaclePenis.stages.4.label>巨大</DemonTentaclePenis.stages.4.label>
+  <!--原中文: '超大', 原英文: '无' -> 新英文: 'Towering',更新于2026-02-14-->
+  <!--EN: Towering-->
+  <DemonTentaclePenis.stages.5.label>超大</DemonTentaclePenis.stages.5.label>
+  <!--原中文: '恶魔阴茎', 原英文: '无' -> 新英文: 'demon penis',更新于2026-02-14-->
+  <!--EN: demon penis-->
+  <DemonPenis.label>恶魔阴茎</DemonPenis.label>
+  <!--原中文: '恶魔阴茎', 原英文: '无' -> 新英文: 'a demon penis',更新于2026-02-14-->
+  <!--EN: a demon penis-->
+  <DemonPenis.labelNoun>恶魔阴茎</DemonPenis.labelNoun>
+  <!--原中文: '它和人类一般大小，能从尿道伸出小触角，可以导致它的情人屈从于快感，不断涌出恶魔的体液。', 原英文: '无' -> 新英文: 'A large, daunting mass that can cause its lovers to succumb to debauchery.',更新于2026-02-14-->
+  <!--EN: A large, daunting mass that can cause its lovers to succumb to debauchery.-->
+  <DemonPenis.description>它和人类一般大小，能从尿道伸出小触角，可以导致它的情人屈从于快感，不断涌出恶魔的体液。</DemonPenis.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <DemonPenis.stages.0.label>微型</DemonPenis.stages.0.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <DemonPenis.stages.1.label>很小</DemonPenis.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <DemonPenis.stages.2.label>平均</DemonPenis.stages.2.label>
+  <!--原中文: '大', 原英文: '无' -> 新英文: 'Large',更新于2026-02-14-->
+  <!--EN: Large-->
+  <DemonPenis.stages.3.label>大</DemonPenis.stages.3.label>
+  <!--原中文: '巨大', 原英文: '无' -> 新英文: 'Huge',更新于2026-02-14-->
+  <!--EN: Huge-->
+  <DemonPenis.stages.4.label>巨大</DemonPenis.stages.4.label>
+  <!--原中文: '超大', 原英文: '无' -> 新英文: 'Towering',更新于2026-02-14-->
+  <!--EN: Towering-->
+  <DemonPenis.stages.5.label>超大</DemonPenis.stages.5.label>
+  <!--原中文: '恶魔阴道', 原英文: '无' -> 新英文: 'demon vagina',更新于2026-02-14-->
+  <!--EN: demon vagina-->
+  <DemonVagina.label>恶魔阴道</DemonVagina.label>
+  <!--原中文: '恶魔阴道', 原英文: '无' -> 新英文: 'a demon vagina',更新于2026-02-14-->
+  <!--EN: a demon vagina-->
+  <DemonVagina.labelNoun>恶魔阴道</DemonVagina.labelNoun>
+  <!--原中文: '充满了小触角，能让情人爽上天堂，不断的涌出恶魔的体液。', 原英文: '无' -> 新英文: 'A tight vagina that can send its lovers to heaven.',更新于2026-02-14-->
+  <!--EN: A tight vagina that can send its lovers to heaven.-->
+  <DemonVagina.description>充满了小触角，能让情人爽上天堂，不断的涌出恶魔的体液。</DemonVagina.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <DemonVagina.stages.0.label>微型</DemonVagina.stages.0.label>
+  <!--原中文: '紧致', 原英文: '无' -> 新英文: 'Tight',更新于2026-02-14-->
+  <!--EN: Tight-->
+  <DemonVagina.stages.1.label>紧致</DemonVagina.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <DemonVagina.stages.2.label>平均</DemonVagina.stages.2.label>
+  <!--原中文: '松弛', 原英文: '无' -> 新英文: 'Accommodating',更新于2026-02-14-->
+  <!--EN: Accommodating-->
+  <DemonVagina.stages.3.label>松弛</DemonVagina.stages.3.label>
+  <!--原中文: '敞口', 原英文: '无' -> 新英文: 'Cavernous',更新于2026-02-14-->
+  <!--EN: Cavernous-->
+  <DemonVagina.stages.4.label>敞口</DemonVagina.stages.4.label>
+  <!--原中文: '深渊', 原英文: '无' -> 新英文: 'Abyssal',更新于2026-02-14-->
+  <!--EN: Abyssal-->
+  <DemonVagina.stages.5.label>深渊</DemonVagina.stages.5.label>
+  <!--原中文: '恶魔肛门', 原英文: '无' -> 新英文: 'demon anus',更新于2026-02-14-->
+  <!--EN: demon anus-->
+  <DemonAnus.label>恶魔肛门</DemonAnus.label>
+  <!--原中文: '恶魔肛门', 原英文: '无' -> 新英文: 'a demon anus',更新于2026-02-14-->
+  <!--EN: a demon anus-->
+  <DemonAnus.labelNoun>恶魔肛门</DemonAnus.labelNoun>
+  <!--原中文: '里面充满了触手……', 原英文: '无' -> 新英文: 'A demon anus.',更新于2026-02-14-->
+  <!--EN: A demon anus.-->
+  <DemonAnus.description>里面充满了触手……</DemonAnus.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <DemonAnus.stages.0.label>微型</DemonAnus.stages.0.label>
+  <!--原中文: '紧致', 原英文: '无' -> 新英文: 'Tight',更新于2026-02-14-->
+  <!--EN: Tight-->
+  <DemonAnus.stages.1.label>紧致</DemonAnus.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <DemonAnus.stages.2.label>平均</DemonAnus.stages.2.label>
+  <!--原中文: '松弛', 原英文: '无' -> 新英文: 'Accommodating',更新于2026-02-14-->
+  <!--EN: Accommodating-->
+  <DemonAnus.stages.3.label>松弛</DemonAnus.stages.3.label>
+  <!--原中文: '敞口', 原英文: '无' -> 新英文: 'Cavernous',更新于2026-02-14-->
+  <!--EN: Cavernous-->
+  <DemonAnus.stages.4.label>敞口</DemonAnus.stages.4.label>
+  <!--原中文: '深渊', 原英文: '无' -> 新英文: 'Abyssal',更新于2026-02-14-->
+  <!--EN: Abyssal-->
+  <DemonAnus.stages.5.label>深渊</DemonAnus.stages.5.label>
+</LanguageData>

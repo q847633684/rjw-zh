@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Trying to keep people from seeing their naked body by holding it tightly.-->
+  <CoverBody.description>试图通过紧紧抱住身体来避免他人看到自己的裸体。</CoverBody.description>
+  <!--EN: covering body-->
+  <CoverBody.label>遮掩身体</CoverBody.label>
+  <!--EN: one hand free-->
+  <CoverBody.stages.0.label>一只手空闲</CoverBody.stages.0.label>
+  <!--EN: one hand free-->
+  <CoverBody.stages.1.label>一只手空闲</CoverBody.stages.1.label>
+  <!--EN: using both hands-->
+  <CoverBody.stages.2.label>使用双手</CoverBody.stages.2.label>
+  <!--EN: this pawn is not covering their body.-->
+  <NotCovering.description>这个角色没有遮掩自己的身体。</NotCovering.description>
+  <!--EN: not covering body-->
+  <NotCovering.label>未遮掩身体</NotCovering.label>
+  <!--EN: minor-->
+  <NotCovering.stages.0.label>轻微</NotCovering.stages.0.label>
+</LanguageData>

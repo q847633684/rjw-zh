@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'left eye',新增于2026-02-14-->
+  <!--EN: left eye-->
+  <Onahole_Mimic.corePart.parts.1.parts.1.customLabel>左眼</Onahole_Mimic.corePart.parts.1.parts.1.customLabel>
+  <!--翻译内容: 'right eye',新增于2026-02-14-->
+  <!--EN: right eye-->
+  <Onahole_Mimic.corePart.parts.1.parts.2.customLabel>右眼</Onahole_Mimic.corePart.parts.1.parts.2.customLabel>
+  <!--翻译内容: 'tentacle 1',新增于2026-02-14-->
+  <!--EN: tentacle 1-->
+  <Onahole_Mimic.corePart.parts.2.customLabel>触手 1</Onahole_Mimic.corePart.parts.2.customLabel>
+  <!--翻译内容: 'tentacle 2',新增于2026-02-14-->
+  <!--EN: tentacle 2-->
+  <Onahole_Mimic.corePart.parts.3.customLabel>触手 2</Onahole_Mimic.corePart.parts.3.customLabel>
+  <!--翻译内容: 'tentacle 3',新增于2026-02-14-->
+  <!--EN: tentacle 3-->
+  <Onahole_Mimic.corePart.parts.4.customLabel>触手 3</Onahole_Mimic.corePart.parts.4.customLabel>
+  <!--翻译内容: 'tentacle 4',新增于2026-02-14-->
+  <!--EN: tentacle 4-->
+  <Onahole_Mimic.corePart.parts.5.customLabel>触手 4</Onahole_Mimic.corePart.parts.5.customLabel>
+</LanguageData>

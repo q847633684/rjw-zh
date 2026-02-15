@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '强行植入机械', 原英文: '无' -> 新英文: 'mechanoid implanting',更新于2026-02-14-->
+  <!--EN: mechanoid implanting-->
+  <Rape_MechImplant.label>强行植入机械</Rape_MechImplant.label>
+  <!--原中文: '将其植入机械', 原英文: '无' -> 新英文: 'Implant chip',更新于2026-02-14-->
+  <!--EN: Implant chip-->
+  <Rape_MechImplant.modExtensions.0.RMBLabel>将其植入机械</Rape_MechImplant.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->侵入了[RECIPIENT_nameDef]。', 原英文: '无' -> 新英文: 'r_logentry->Assaulted [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Assaulted [RECIPIENT_nameDef].-->
+  <Rape_MechImplant.logRulesInitiator.rulesStrings.0>r_logentry->侵入了[RECIPIENT_nameDef]。</Rape_MechImplant.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->被[INITIATOR_nameDef]侵入了。', 原英文: '无' -> 新英文: 'r_logentry->Was violated by [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Was violated by [INITIATOR_nameDef].-->
+  <Rape_MechImplant.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]侵入了。</Rape_MechImplant.logRulesRecipient.rulesStrings.0>
+</LanguageData>

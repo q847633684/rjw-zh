@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '绝育', 原英文: '无' -> 新英文: 'sterilized',更新于2026-02-14-->
+  <!--EN: sterilized-->
+  <Sterilized.label>绝育</Sterilized.label>
+  <!--原中文: '无法繁殖。', 原英文: '无' -> 新英文: 'Unable to reproduce.',更新于2026-02-14-->
+  <!--EN: Unable to reproduce.-->
+  <Sterilized.description>无法繁殖。</Sterilized.description>
+</LanguageData>

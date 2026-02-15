@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '舔阴', 原英文: '无' -> 新英文: 'cunnilingus',更新于2026-02-14-->
+  <!--EN: cunnilingus-->
+  <Sex_Cunnilingus.label>舔阴</Sex_Cunnilingus.label>
+  <!--原中文: '让其舔阴', 原英文: '无' -> 新英文: 'Receive cunnilingus',更新于2026-02-14-->
+  <!--EN: Receive cunnilingus-->
+  <Sex_Cunnilingus.modExtensions.0.RMBLabel>让其舔阴</Sex_Cunnilingus.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->让[RECIPIENT_nameDef]舔了阴道。', 原英文: '无' -> 新英文: 'r_logentry->Received cunnilingus from [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Received cunnilingus from [RECIPIENT_nameDef].-->
+  <Sex_Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->让[RECIPIENT_nameDef]舔了阴道。</Sex_Cunnilingus.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->舔了[INITIATOR_nameDef]的阴道。', 原英文: '无' -> 新英文: 'r_logentry->Gave cunnilingus to [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Gave cunnilingus to [INITIATOR_nameDef].-->
+  <Sex_Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->舔了[INITIATOR_nameDef]的阴道。</Sex_Cunnilingus.logRulesRecipient.rulesStrings.0>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Realign and stabilize a dislocated jaw. The procedure reduces pain and restores full function to the mouth.-->
+  <RES_RepairJaw.description>重新对齐并固定脱臼的下颌。该手术可减轻疼痛并恢复口腔的全部功能。</RES_RepairJaw.description>
+  <!--EN: Realigning jaw.-->
+  <RES_RepairJaw.jobString>正在对齐下颌。</RES_RepairJaw.jobString>
+  <!--EN: realign jaw-->
+  <RES_RepairJaw.label>对齐下颌</RES_RepairJaw.label>
+</LanguageData>

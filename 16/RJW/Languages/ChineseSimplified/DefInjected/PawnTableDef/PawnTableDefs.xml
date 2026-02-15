@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- default table cuz why not? -->
+  <!--原中文: '人形生物', 原英文: '无' -> 新英文: 'Humanlikes',更新于2026-02-14-->
+  <!--EN: Humanlikes-->
+  <RJW_PawnTable_Humanlikes.modExtensions.0.label>人形生物</RJW_PawnTable_Humanlikes.modExtensions.0.label>
+  <!--原中文: '动物', 原英文: '无' -> 新英文: 'Animals',更新于2026-02-14-->
+  <!--EN: Animals-->
+  <RJW_PawnTable_Animals.modExtensions.0.label>动物</RJW_PawnTable_Animals.modExtensions.0.label>
+  <!--原中文: '殖民者', 原英文: '无' -> 新英文: 'Colonists',更新于2026-02-14-->
+  <!--EN: Colonists-->
+  <RJW_PawnTable_Colonists.modExtensions.0.label>殖民者</RJW_PawnTable_Colonists.modExtensions.0.label>
+  <!--原中文: '资产', 原英文: '无' -> 新英文: 'Property',更新于2026-02-14-->
+  <!--EN: Property-->
+  <RJW_PawnTable_Property.modExtensions.0.label>资产</RJW_PawnTable_Property.modExtensions.0.label>
+</LanguageData>

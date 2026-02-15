@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '机械体阴茎', 原英文: '无' -> 新英文: 'mechanoid implanter',更新于2026-02-14-->
+  <!--EN: mechanoid implanter-->
+  <MechImplanter.label>机械体阴茎</MechImplanter.label>
+  <!--原中文: '一个机械体阴茎', 原英文: '无' -> 新英文: 'a mechanoid implanter',更新于2026-02-14-->
+  <!--EN: a mechanoid implanter-->
+  <MechImplanter.labelNoun>一个机械体阴茎</MechImplanter.labelNoun>
+  <!--原中文: '机械体阴茎。', 原英文: '无' -> 新英文: 'Mechanoid Implanter.',更新于2026-02-14-->
+  <!--EN: Mechanoid Implanter.-->
+  <MechImplanter.description>机械体阴茎。</MechImplanter.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <MechImplanter.stages.0.label>微型</MechImplanter.stages.0.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <MechImplanter.stages.1.label>很小</MechImplanter.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <MechImplanter.stages.2.label>平均</MechImplanter.stages.2.label>
+  <!--原中文: '大', 原英文: '无' -> 新英文: 'Large',更新于2026-02-14-->
+  <!--EN: Large-->
+  <MechImplanter.stages.3.label>大</MechImplanter.stages.3.label>
+  <!--原中文: '巨大', 原英文: '无' -> 新英文: 'Huge',更新于2026-02-14-->
+  <!--EN: Huge-->
+  <MechImplanter.stages.4.label>巨大</MechImplanter.stages.4.label>
+  <!--原中文: '超大', 原英文: '无' -> 新英文: 'Towering',更新于2026-02-14-->
+  <!--EN: Towering-->
+  <MechImplanter.stages.5.label>超大</MechImplanter.stages.5.label>
+  <!--原中文: '机械体阴道', 原英文: '无' -> 新英文: 'mechanoid vagina',更新于2026-02-14-->
+  <!--EN: mechanoid vagina-->
+  <MechVagina.label>机械体阴道</MechVagina.label>
+  <!--原中文: '机械体阴道', 原英文: '无' -> 新英文: 'a mechanoid vagina',更新于2026-02-14-->
+  <!--EN: a mechanoid vagina-->
+  <MechVagina.labelNoun>机械体阴道</MechVagina.labelNoun>
+  <!--原中文: '机械体阴道。', 原英文: '无' -> 新英文: 'Mechanoid vagina.',更新于2026-02-14-->
+  <!--EN: Mechanoid vagina.-->
+  <MechVagina.description>机械体阴道。</MechVagina.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <MechVagina.stages.0.label>微型</MechVagina.stages.0.label>
+  <!--原中文: '紧致', 原英文: '无' -> 新英文: 'Tight',更新于2026-02-14-->
+  <!--EN: Tight-->
+  <MechVagina.stages.1.label>紧致</MechVagina.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <MechVagina.stages.2.label>平均</MechVagina.stages.2.label>
+  <!--原中文: '松弛', 原英文: '无' -> 新英文: 'Accommodating',更新于2026-02-14-->
+  <!--EN: Accommodating-->
+  <MechVagina.stages.3.label>松弛</MechVagina.stages.3.label>
+  <!--原中文: '敞口', 原英文: '无' -> 新英文: 'Cavernous',更新于2026-02-14-->
+  <!--EN: Cavernous-->
+  <MechVagina.stages.4.label>敞口</MechVagina.stages.4.label>
+  <!--原中文: '深渊', 原英文: '无' -> 新英文: 'Abyssal',更新于2026-02-14-->
+  <!--EN: Abyssal-->
+  <MechVagina.stages.5.label>深渊</MechVagina.stages.5.label>
+  <!--原中文: '机械体乳房', 原英文: '无' -> 新英文: 'mechanoid breasts',更新于2026-02-14-->
+  <!--EN: mechanoid breasts-->
+  <MechBreasts.label>机械体乳房</MechBreasts.label>
+  <!--原中文: '一对机械体乳房', 原英文: '无' -> 新英文: 'a pair of mechanoid breasts',更新于2026-02-14-->
+  <!--EN: a pair of mechanoid breasts-->
+  <MechBreasts.labelNoun>一对机械体乳房</MechBreasts.labelNoun>
+  <!--原中文: '一对机械体乳房。', 原英文: '无' -> 新英文: 'A pair of mechanoid breasts.',更新于2026-02-14-->
+  <!--EN: A pair of mechanoid breasts.-->
+  <MechBreasts.description>一对机械体乳房。</MechBreasts.description>
+  <!--原中文: '飞机场', 原英文: '无' -> 新英文: 'Nipples',更新于2026-02-14-->
+  <!--EN: Nipples-->
+  <MechBreasts.stages.0.label>飞机场</MechBreasts.stages.0.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Tiny',更新于2026-02-14-->
+  <!--EN: Tiny-->
+  <MechBreasts.stages.1.label>很小</MechBreasts.stages.1.label>
+  <!--原中文: '很小', 原英文: '无' -> 新英文: 'Small',更新于2026-02-14-->
+  <!--EN: Small-->
+  <MechBreasts.stages.2.label>很小</MechBreasts.stages.2.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <MechBreasts.stages.3.label>平均</MechBreasts.stages.3.label>
+  <!--原中文: '大', 原英文: '无' -> 新英文: 'Large',更新于2026-02-14-->
+  <!--EN: Large-->
+  <MechBreasts.stages.4.label>大</MechBreasts.stages.4.label>
+  <!--原中文: '巨大', 原英文: '无' -> 新英文: 'Huge',更新于2026-02-14-->
+  <!--EN: Huge-->
+  <MechBreasts.stages.5.label>巨大</MechBreasts.stages.5.label>
+  <!--原中文: '超大', 原英文: '无' -> 新英文: 'Enormous',更新于2026-02-14-->
+  <!--EN: Enormous-->
+  <MechBreasts.stages.6.label>超大</MechBreasts.stages.6.label>
+  <!--原中文: '超巨大', 原英文: '无' -> 新英文: 'Massive',更新于2026-02-14-->
+  <!--EN: Massive-->
+  <MechBreasts.stages.7.label>超巨大</MechBreasts.stages.7.label>
+  <!--原中文: '巨大建筑', 原英文: '无' -> 新英文: 'Gargantuan',更新于2026-02-14-->
+  <!--EN: Gargantuan-->
+  <MechBreasts.stages.8.label>巨大建筑</MechBreasts.stages.8.label>
+  <!--原中文: '超巨大怪兽', 原英文: '无' -> 新英文: 'Colossal',更新于2026-02-14-->
+  <!--EN: Colossal-->
+  <MechBreasts.stages.9.label>超巨大怪兽</MechBreasts.stages.9.label>
+  <!--原中文: '超超巨大怪兽', 原英文: '无' -> 新英文: 'Titanic',更新于2026-02-14-->
+  <!--EN: Titanic-->
+  <MechBreasts.stages.10.label>超超巨大怪兽</MechBreasts.stages.10.label>
+  <!--原中文: '超超超巨大怪兽', 原英文: '无' -> 新英文: 'Astronomical',更新于2026-02-14-->
+  <!--EN: Astronomical-->
+  <MechBreasts.stages.11.label>超超超巨大怪兽</MechBreasts.stages.11.label>
+  <!--重复key，需删除-->
+  <MechAnus.label>机械体肛门</MechAnus.label>
+  <!--原中文: '机械体肛门', 原英文: '无' -> 新英文: 'a mechanoid anus',更新于2026-02-14-->
+  <!--EN: a mechanoid anus-->
+  <MechAnus.labelNoun>机械体肛门</MechAnus.labelNoun>
+  <!--原中文: '机械体肛门。', 原英文: '无' -> 新英文: 'Mechanoid anus.',更新于2026-02-14-->
+  <!--EN: Mechanoid anus.-->
+  <MechAnus.description>机械体肛门。</MechAnus.description>
+  <!--原中文: '微型', 原英文: '无' -> 新英文: 'Micro',更新于2026-02-14-->
+  <!--EN: Micro-->
+  <MechAnus.stages.0.label>微型</MechAnus.stages.0.label>
+  <!--原中文: '紧致', 原英文: '无' -> 新英文: 'Tight',更新于2026-02-14-->
+  <!--EN: Tight-->
+  <MechAnus.stages.1.label>紧致</MechAnus.stages.1.label>
+  <!--原中文: '平均', 原英文: '无' -> 新英文: 'Average',更新于2026-02-14-->
+  <!--EN: Average-->
+  <MechAnus.stages.2.label>平均</MechAnus.stages.2.label>
+  <!--原中文: '松弛', 原英文: '无' -> 新英文: 'Accommodating',更新于2026-02-14-->
+  <!--EN: Accommodating-->
+  <MechAnus.stages.3.label>松弛</MechAnus.stages.3.label>
+  <!--原中文: '敞口', 原英文: '无' -> 新英文: 'Cavernous',更新于2026-02-14-->
+  <!--EN: Cavernous-->
+  <MechAnus.stages.4.label>敞口</MechAnus.stages.4.label>
+  <!--原中文: '深渊', 原英文: '无' -> 新英文: 'Abyssal',更新于2026-02-14-->
+  <!--EN: Abyssal-->
+  <MechAnus.stages.5.label>深渊</MechAnus.stages.5.label>
+</LanguageData>

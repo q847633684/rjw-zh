@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Thoughts : Pregnant -->
+  <!--原中文: '怀孕', 原英文: '无' -> 新英文: 'pregnant',更新于2026-02-14-->
+  <!--EN: pregnant-->
+  <Pregnancy_Respected_Pregnant.stages.0.label>怀孕</Pregnancy_Respected_Pregnant.stages.0.label>
+  <!--原中文: '我怀孕了，这让我为殖民地建设添砖加瓦！', 原英文: '无' -> 新英文: 'I am pregnant. This makes me a pillar of society.',更新于2026-02-14-->
+  <!--EN: I am pregnant. This makes me a pillar of society.-->
+  <Pregnancy_Respected_Pregnant.stages.0.description>我怀孕了，这让我为殖民地建设添砖加瓦！</Pregnancy_Respected_Pregnant.stages.0.description>
+  <!--原中文: '怀孕', 原英文: '无' -> 新英文: 'pregnant',更新于2026-02-14-->
+  <!--EN: pregnant-->
+  <Pregnancy_Elevated_Pregnant.stages.0.label>怀孕</Pregnancy_Elevated_Pregnant.stages.0.label>
+  <!--原中文: '我很快就会让我们的殖民地变得更加强大。', 原英文: '无' -> 新英文: 'I am making our colony stronger by carrying our future.',更新于2026-02-14-->
+  <!--EN: I am making our colony stronger by carrying our future.-->
+  <Pregnancy_Elevated_Pregnant.stages.0.description>我很快就会让我们的殖民地变得更加强大。</Pregnancy_Elevated_Pregnant.stages.0.description>
+  <!--原中文: '怀孕', 原英文: '无' -> 新英文: 'pregnant',更新于2026-02-14-->
+  <!--EN: pregnant-->
+  <Pregnancy_Respected_Pregnant_Social.stages.0.label>怀孕</Pregnancy_Respected_Pregnant_Social.stages.0.label>
+  <!--原中文: '怀孕', 原英文: '无' -> 新英文: 'pregnant',更新于2026-02-14-->
+  <!--EN: pregnant-->
+  <Pregnancy_Elevated_Pregnant_Social.stages.0.label>怀孕</Pregnancy_Elevated_Pregnant_Social.stages.0.label>
+  <!--原中文: '怀孕', 原英文: '无' -> 新英文: 'pregnant',更新于2026-02-14-->
+  <!--EN: pregnant-->
+  <Pregnancy_Horrible_Pregnant_Social.stages.0.label>怀孕</Pregnancy_Horrible_Pregnant_Social.stages.0.label>
+  <!--原中文: '怀孕', 原英文: '无' -> 新英文: 'pregnant',更新于2026-02-14-->
+  <!--EN: pregnant-->
+  <Pregnancy_Horrible_Pregnant.stages.0.label>怀孕</Pregnancy_Horrible_Pregnant.stages.0.label>
+  <!--原中文: '怎么会变成这样？我从没想过要怀孕！', 原英文: '无' -> 新英文: 'How did I end up like this? I never wanted to be pregnant!',更新于2026-02-14-->
+  <!--EN: How did I end up like this? I never wanted to be pregnant!-->
+  <Pregnancy_Horrible_Pregnant.stages.0.description>怎么会变成这样？我从没想过要怀孕！</Pregnancy_Horrible_Pregnant.stages.0.description>
+  <!-- Thoughts: Not Pregnant -->
+  <!--原中文: '还没怀孕', 原英文: '无' -> 新英文: 'not pregnant',更新于2026-02-14-->
+  <!--EN: not pregnant-->
+  <Pregnancy_Horrible_NonPregnant.stages.0.label>还没怀孕</Pregnancy_Horrible_NonPregnant.stages.0.label>
+  <!--原中文: '我希望很快点怀孕。', 原英文: '无' -> 新英文: 'I wish to be pregnant.',更新于2026-02-14-->
+  <!--EN: I wish to be pregnant.-->
+  <Pregnancy_Horrible_NonPregnant.stages.0.description>我希望很快点怀孕。</Pregnancy_Horrible_NonPregnant.stages.0.description>
+  <!--原中文: '未受精', 原英文: '无' -> 新英文: 'unfertilized',更新于2026-02-14-->
+  <!--EN: unfertilized-->
+  <Pregnancy_Horrible_NonPregnant_Social.stages.0.label>未受精</Pregnancy_Horrible_NonPregnant_Social.stages.0.label>
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Agreement - same -->
+  <!--原中文: '恋兽癖同道', 原英文: '无' -> 新英文: 'zoophile agreement',更新于2026-02-14-->
+  <!--EN: zoophile agreement-->
+  <Zoophile_Zoophile.label>恋兽癖同道</Zoophile_Zoophile.label>
+  <!--原中文: '恋尸癖同道', 原英文: '无' -> 新英文: 'necrophile agreement',更新于2026-02-14-->
+  <!--EN: necrophile agreement-->
+  <Necrophile_Necrophile.label>恋尸癖同道</Necrophile_Necrophile.label>
+  <!-- Disagreement -->
+  <!--原中文: '恋兽癖', 原英文: '无' -> 新英文: 'zoophile',更新于2026-02-14-->
+  <!--EN: zoophile-->
+  <Zoophile_All.label>恋兽癖</Zoophile_All.label>
+  <!--原中文: '强奸犯', 原英文: '无' -> 新英文: 'rapist',更新于2026-02-14-->
+  <!--EN: rapist-->
+  <Rapist_All.label>强奸犯</Rapist_All.label>
+  <!--原中文: '恋尸癖', 原英文: '无' -> 新英文: 'necrophile',更新于2026-02-14-->
+  <!--EN: necrophile-->
+  <Necrophile_All.label>恋尸癖</Necrophile_All.label>
+</LanguageData>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: 'RJW性意识形态', 原英文: '无' -> 新英文: 'RJW Sexperience Ideology',更新于2026-02-14-->
+  <!--EN: RJW Sexperience Ideology-->
+  <RSI_Mod_Title>RJW - 性意识形态</RSI_Mod_Title>
+  <!--原中文: '模因', 原英文: '无' -> 新英文: 'Meme',更新于2026-02-14-->
+  <!--EN: Meme-->
+  <MemeStatFactor>模因</MemeStatFactor>
+  <!--原中文: '受害者条件：仅限奴隶、囚犯、必须顺从的性别', 原英文: '无' -> 新英文: 'slave, prisoner, submissive gender only',更新于2026-02-14-->
+  <!--EN: slave, prisoner, submissive gender only-->
+  <RSVictimCondition>受害者条件：仅限奴隶、囚犯、必须顺从的性别</RSVictimCondition>
+  <!--原中文: '不当动物：无法繁殖或被教义禁止', 原英文: '无' -> 新英文: 'improper animal: cannot breed or forbidden by precepts',更新于2026-02-14-->
+  <!--EN: improper animal: cannot breed or forbidden by precepts-->
+  <RSBreederCondition>不当动物：无法繁殖或被教义禁止</RSBreederCondition>
+  <!--原中文: '非人类', 原英文: '无' -> 新英文: 'not human',更新于2026-02-14-->
+  <!--EN: not human-->
+  <RSNotHuman>非人类</RSNotHuman>
+  <!--原中文: '非动物', 原英文: '无' -> 新英文: 'not animal',更新于2026-02-14-->
+  <!--EN: not animal-->
+  <RSNotAnimal>非动物</RSNotAnimal>
+  <!--原中文: '必须具有性行为能力', 原英文: '无' -> 新英文: 'capable of sex is required',更新于2026-02-14-->
+  <!--EN: capable of sex is required-->
+  <RSShouldCanFuck>必须具有性行为能力</RSShouldCanFuck>
+  <!--原中文: '启用乱伦教义的浪漫补丁*', 原英文: '无' -> 新英文: 'Enable romance patch for incest precepts*',更新于2026-02-14-->
+  <!--EN: Enable romance patch for incest precepts*-->
+  <RSI_PatchRomanceChanceFactor>启用乱伦教义的浪漫补丁*</RSI_PatchRomanceChanceFactor>
+  <!--原中文: '补丁用于让乱伦教义影响浪漫几率因子。可能与浪漫模组冲突。\n\n*需要重启游戏以应用更改。', 原英文: '无' -> 新英文: 'Patch for incest precepts to affect RomanceChanceFactor. May conflict with romance mods./n/n* Requires a game restart to apply changes',更新于2026-02-14-->
+  <!--EN: Patch for incest precepts to affect RomanceChanceFactor. May conflict with romance mods./n/n* Requires a game restart to apply changes-->
+  <RSI_PatchRomanceChanceFactorTip>补丁用于让乱伦教义影响浪漫几率因子。可能与浪漫模组冲突。\n\n*需要重启游戏以应用更改。</RSI_PatchRomanceChanceFactorTip>
+  <!--原中文: '启用乱伦教义的手动浪漫补丁*', 原英文: '无' -> 新英文: 'Enable manual romance patch for incest precepts*',更新于2026-02-14-->
+  <!--EN: Enable manual romance patch for incest precepts*-->
+  <RSI_PatchIncestuousManualRomance>启用乱伦教义的手动浪漫补丁*</RSI_PatchIncestuousManualRomance>
+  <!--原中文: '补丁用于让乱伦教义影响手动浪漫选项。\n\n*需要重启游戏以应用更改', 原英文: '无' -> 新英文: 'Patch for incest precepts to affect manual romance options./n/n* Requires a game restart to apply changes',更新于2026-02-14-->
+  <!--EN: Patch for incest precepts to affect manual romance options./n/n* Requires a game restart to apply changes-->
+  <RSI_PatchIncestuousManualRomanceTip>补丁用于让乱伦教义影响手动浪漫选项。\n\n*需要重启游戏以应用更改</RSI_PatchIncestuousManualRomanceTip>
+  <!--原中文: '兽交尝试间隔时间 x{0}', 原英文: '无' -> 新英文: 'Time between bestiality attempts x{0}',更新于2026-02-14-->
+  <!--EN: Time between bestiality attempts x{0}-->
+  <RSI_PreceptTipModifyBestialityMtb>兽交尝试间隔时间 x{0}</RSI_PreceptTipModifyBestialityMtb>
+  <!--原中文: '自慰尝试间隔时间 x{0}', 原英文: '无' -> 新英文: 'Time between masturbation attempts x{0}',更新于2026-02-14-->
+  <!--EN: Time between masturbation attempts x{0}-->
+  <RSI_PreceptTipModifyFappinMtb>自慰尝试间隔时间 x{0}</RSI_PreceptTipModifyFappinMtb>
+  <!--原中文: '恋尸癖尝试间隔时间 x{0}', 原英文: '无' -> 新英文: 'Time between necrophilia attempts x{0}',更新于2026-02-14-->
+  <!--EN: Time between necrophilia attempts x{0}-->
+  <RSI_PreceptTipModifyNecroMtb>恋尸癖尝试间隔时间 x{0}</RSI_PreceptTipModifyNecroMtb>
+  <!--原中文: '强奸尝试间隔时间 x{0}', 原英文: '无' -> 新英文: 'Time between rape attempts x{0}',更新于2026-02-14-->
+  <!--EN: Time between rape attempts x{0}-->
+  <RSI_PreceptTipModifyRapeCPMtb>强奸尝试间隔时间 x{0}</RSI_PreceptTipModifyRapeCPMtb>
+  <!-- Rewrite vanilla key -->
+  <!-- <CantRomanceTargetIncest>forbidden by ideology</CantRomanceTargetIncest> -->
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Clothing adjusts or rearranges with movement.-->
+  <NipSlip.description>衣物随着动作而调整或移位。</NipSlip.description>
+  <!--EN: clothing shift-->
+  <NipSlip.label>衣物移位</NipSlip.label>
+  <!--EN: nipple-->
+  <NipSlip.stages.0.label>露点</NipSlip.stages.0.label>
+  <!--EN: Clothing adjusts or rearranges with movement.-->
+  <PreNipSlip.description>衣物随着动作而调整或移位。</PreNipSlip.description>
+  <!--EN: clothing shift-->
+  <PreNipSlip.label>衣物移位</PreNipSlip.label>
+  <!--EN: pre-show-->
+  <PreNipSlip.stages.0.label>走光前</PreNipSlip.stages.0.label>
+</LanguageData>

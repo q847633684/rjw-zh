@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '给自动喂食器装填食物', 原英文: '无' -> 新英文: 'Refill auto feeder',更新于2026-02-14-->
+  <!--EN: Refill auto feeder-->
+  <RefillFeederFood.label>给自动喂食器装填食物</RefillFeederFood.label>
+  <!--原中文: '装填食物', 原英文: '无' -> 新英文: 'refill food for',更新于2026-02-14-->
+  <!--EN: refill food for-->
+  <RefillFeederFood.verb>装填食物</RefillFeederFood.verb>
+  <!--原中文: '装填食物', 原英文: '无' -> 新英文: 'refilling food for',更新于2026-02-14-->
+  <!--EN: refilling food for-->
+  <RefillFeederFood.gerund>装填食物</RefillFeederFood.gerund>
+  <!--原中文: '给药物注入器装填药物', 原英文: '无' -> 新英文: 'Refill drug infuser',更新于2026-02-14-->
+  <!--EN: Refill drug infuser-->
+  <RefillDrugInfuser.label>给药物注入器装填药物</RefillDrugInfuser.label>
+  <!--原中文: '装填药物', 原英文: '无' -> 新英文: 'refill drug for',更新于2026-02-14-->
+  <!--EN: refill drug for-->
+  <RefillDrugInfuser.verb>装填药物</RefillDrugInfuser.verb>
+  <!--原中文: '装填药物', 原英文: '无' -> 新英文: 'refilling drug for',更新于2026-02-14-->
+  <!--EN: refilling drug for-->
+  <RefillDrugInfuser.gerund>装填药物</RefillDrugInfuser.gerund>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: 'An unlocked armbinder that prevents any pawn it's attached to from using their arms.',新增于2026-02-14-->
+  <!--EN: An unlocked armbinder that prevents any pawn it's attached to from using their arms.-->
+  <UnlockedArmbinder.description>一个解锁的手臂束缚器，可以防止它所附着的任何棋子使用他们的手臂。</UnlockedArmbinder.description>
+  <!--翻译内容: 'unlocked armbinder',新增于2026-02-14-->
+  <!--EN: unlocked armbinder-->
+  <UnlockedArmbinder.label>未上锁手臂束缚器</UnlockedArmbinder.label>
+</LanguageData>

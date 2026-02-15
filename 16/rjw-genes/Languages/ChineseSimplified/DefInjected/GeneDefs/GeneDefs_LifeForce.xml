@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Carriers of this gene are able eat cocks to restore their fertilin supply. Cocks are consumed during this process.-->
+  <rjw_genes_cockeater.description>该基因携带者能够通过食用阴茎来恢复其致育素储备。阴茎在此过程中被消耗。</rjw_genes_cockeater.description>
+  <!--EN: cockeater-->
+  <rjw_genes_cockeater.label>噬根者</rjw_genes_cockeater.label>
+  <!--EN: Carriers of this gene are able to absorb fertilin through eating cum. This includes oral sex, eating cum for food or sucking out cumflated pawns.-->
+  <rjw_genes_cum_eater.description>该基因携带者能够通过食用精液吸收致育素。这包括口交、将精液作为食物食用，或吸出精液膨胀的角色。</rjw_genes_cum_eater.description>
+  <!--EN: cum eater-->
+  <rjw_genes_cum_eater.label>食精者</rjw_genes_cum_eater.label>
+  <!--EN: Carriers of this gene are able to absorb a great amount of fertilin by draining the vitality of the partner. This is done passively through having sex with a non-drained pawn that does not have this gene.-->
+  <rjw_genes_drainer.description>该基因携带者能够通过汲取伴侣的活力来吸收大量致育素。这是通过与未被汲取过且不具有此基因的角色发生性行为被动完成的。</rjw_genes_drainer.description>
+  <!--EN: vitality drainer-->
+  <rjw_genes_drainer.label>活力汲取者</rjw_genes_drainer.label>
+  <!--EN: Carriers of this gene are able to absorb the fertilin inside sperm through their vagina and anus.-->
+  <rjw_genes_fertilin_absorber.description>该基因携带者能够通过阴道和肛门吸收精液中的致育素。</rjw_genes_fertilin_absorber.description>
+  <!--EN: fertilin absorber-->
+  <rjw_genes_fertilin_absorber.label>致育素吸收者</rjw_genes_fertilin_absorber.label>
+  <!--EN: Carriers of this gene have a reserve of biological strength powered by a resource called fertilin. The resource can be gained and spent in various ways, some of which are unlocked by other genes.\n\nCarriers lose 5 fertilin per day from biological entropy. \n\nGene is inactive until carrier is able to have sex.-->
+  <rjw_genes_lifeforce.description>该基因携带者拥有一个名为致育素的生物能量储备。这种资源可以通过多种方式获取和消耗，其中一些方式由其他基因解锁。\n\n携带者每天因生物熵损失5点致育素。\n\n在携带者能够进行性行为之前，该基因处于非激活状态。</rjw_genes_lifeforce.description>
+  <!--EN: fertilin-->
+  <rjw_genes_lifeforce.label>致育素</rjw_genes_lifeforce.label>
+  <!--EN: Carriers lose an additional 7.5 fertilin per day from biological entropy.-->
+  <rjw_genes_lifeforce_drain.description>携带者每天因生物熵额外损失7.5点致育素。</rjw_genes_lifeforce_drain.description>
+  <!--EN: fertilin drain-->
+  <rjw_genes_lifeforce_drain.label>致育素损耗</rjw_genes_lifeforce_drain.label>
+  <!--EN: Carriers of this gene generate fertilin if nearby pawns are sexually satisfied. Be careful: Sexually frustrated pawns will make your empath loose fertilin!-->
+  <rjw_genes_lifeforce_empath.description>如果附近的角色性需求得到满足，该基因携带者会生成致育素。小心：性需求受挫的角色会使你的共情者流失致育素！</rjw_genes_lifeforce_empath.description>
+  <!--EN: empathic fertilin-->
+  <rjw_genes_lifeforce_empath.label>共情致育素</rjw_genes_lifeforce_empath.label>
+  <!--原中文: '该基因携带者在赤身裸体时，能够暂时提升其力量和韧性。', 原英文: 'Carriers of this gene are able to temporarily increase their strength and resilience, while they are naked.' -> 新英文: 'Driven by fertilin, this person has greatly increased strength and resilience.',更新于2026-02-15-->
+  <!--EN: Carriers of this gene are able to temporarily increase their strength and resilience, while they are naked.-->
+  <!--原中文: 'Driven by fertilin, this person has greatly increased strength and resilience.', 原英文: 'Carriers of this gene are able to temporarily increase their strength and resilience, while they are naked.' -> 新英文: 'Driven by fertilin, this person has greatly increased strength and resilience.',更新于2026-02-15-->
+  <!--EN: Carriers of this gene are able to temporarily increase their strength and resilience, while they are naked.-->
+  <!--原中文: 'Driven by fertilin, this person has greatly increased strength and resilience.', 原英文: 'Carriers of this gene are able to temporarily increase their strength and resilience, while they are naked.' -> 新英文: 'Driven by fertilin, this person has greatly increased strength and resilience.',更新于2026-02-15-->
+  <!--EN: Carriers of this gene are able to temporarily increase their strength and resilience, while they are naked.-->
+  <rjw_genes_naked_prowess.description>Driven by fertilin, this person has greatly increased strength and resilience.</rjw_genes_naked_prowess.description>
+  <!--原中文: '裸身威能', 原英文: 'naked prowess' -> 新英文: 'naked prowss',更新于2026-02-15-->
+  <!--EN: naked prowess-->
+  <!--原中文: 'naked prowss', 原英文: 'naked prowess' -> 新英文: 'naked prowss',更新于2026-02-15-->
+  <!--EN: naked prowess-->
+  <!--原中文: 'naked prowss', 原英文: 'naked prowess' -> 新英文: 'naked prowss',更新于2026-02-15-->
+  <!--EN: naked prowess-->
+  <rjw_genes_naked_prowess.label>naked prowss</rjw_genes_naked_prowess.label>
+  <!--EN: Carriers of this gene are able to briefly stun an enemy with a kiss.-->
+  <rjw_genes_paralysingkiss.description>该基因携带者能够用一个吻短暂击晕敌人。</rjw_genes_paralysingkiss.description>
+  <!--EN: paralysing kiss-->
+  <rjw_genes_paralysingkiss.label>麻痹之吻</rjw_genes_paralysingkiss.label>
+  <!--EN: Carriers of this gene are able use vaginal sex to tend to other's wounds.-->
+  <rjw_genes_pussyhealing.description>该基因携带者能够通过阴道性交来治疗他人的伤口。</rjw_genes_pussyhealing.description>
+  <!--EN: pussy healer-->
+  <rjw_genes_pussyhealing.label>鲍医</rjw_genes_pussyhealing.label>
+  <!--EN: Carriers of this gene are able to seduce a pawn into having sex with them.-->
+  <rjw_genes_seduce.description>该基因携带者能够诱惑角色与他们发生性关系。</rjw_genes_seduce.description>
+  <!--EN: seduction-->
+  <rjw_genes_seduce.label>诱惑</rjw_genes_seduce.label>
+</LanguageData>

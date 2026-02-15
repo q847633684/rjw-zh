@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HumanMilk.label>人乳</HumanMilk.label>
+  <HumanMilk.description>从人类身上收集的乳液，相当甜美，对新生儿来说很基本。</HumanMilk.description>
+
+  <HumanMilkBulk.label>母乳</HumanMilkBulk.label>
+  <HumanMilkBulk.description>来自人类的牛奶。甜甜的，对新生儿的生命至关重要。</HumanMilkBulk.description>
+
+  <HumanoidMilk.label>类人乳</HumanoidMilk.label>
+  <HumanoidMilk.description>从类人哺乳动物身上收集的乳液，相当甜美，对新生儿来说很基本。</HumanoidMilk.description>
+
+  <HumanoidMilkBulk.label>人形牛奶</HumanoidMilkBulk.label>
+  <HumanoidMilkBulk.description>来自人形哺乳动物的牛奶。甜美，对新生儿生命至关重要。</HumanoidMilkBulk.description>
+
+
+</LanguageData>

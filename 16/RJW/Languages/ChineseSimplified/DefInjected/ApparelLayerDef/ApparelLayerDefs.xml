@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- A plugs -->
+  <!--原中文: '可插入的', 原英文: '无' -> 新英文: 'insertable',更新于2026-02-14-->
+  <!--EN: insertable-->
+  <AnalInsertableBondage.label>可插入的</AnalInsertableBondage.label>
+  <!-- V plugs -->
+  <!--原中文: '可插入的', 原英文: '无' -> 新英文: 'insertable',更新于2026-02-14-->
+  <!--EN: insertable-->
+  <VaginalInsertableBondage.label>可插入的</VaginalInsertableBondage.label>
+  <!-- C belts -->
+  <!--原中文: '在皮肤上', 原英文: '无' -> 新英文: 'Over skin',更新于2026-02-14-->
+  <!--EN: Over skin-->
+  <BeltsOnSkinBondage.label>在皮肤上</BeltsOnSkinBondage.label>
+  <!-- <ApparelLayerDef>
+		<defName>OnSkinBondage1</defName>
+		<label>Over skin</label>
+		<drawOrder>3</drawOrder>
+	</ApparelLayerDef> -->
+  <!--原中文: '头饰', 原英文: '无' -> 新英文: 'headgear',更新于2026-02-14-->
+  <!--EN: headgear-->
+  <GagOuterBondage.label>头饰</GagOuterBondage.label>
+  <!-- chains, armbinders, etc -->
+  <!--原中文: '外面的', 原英文: '无' -> 新英文: 'outer',更新于2026-02-14-->
+  <!--EN: outer-->
+  <ArmsOuterBondage.label>外面的</ArmsOuterBondage.label>
+  <!--原中文: '外面的', 原英文: '无' -> 新英文: 'outer',更新于2026-02-14-->
+  <!--EN: outer-->
+  <LegsOuterBondage.label>外面的</LegsOuterBondage.label>
+</LanguageData>

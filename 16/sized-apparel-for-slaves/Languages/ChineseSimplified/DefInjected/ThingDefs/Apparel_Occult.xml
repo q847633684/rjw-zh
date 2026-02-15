@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: The nun's uniform, which symbolizes chastity, has ironically spawned numerous fetishes. Defile the wearer's chastity to your heart's content!-->
+  <Nun.description>象征着贞洁的修女服，讽刺地催生了无数的癖好。尽情玷污穿戴者的贞洁吧！</Nun.description>
+  <!--EN: Nun-->
+  <Nun.label>修女</Nun.label>
+  <!--EN: It is an old religious garb that believes that a woman's purpose is to bear children, and that the act is a sacred act.-->
+  <SSACultist.description>这是一种古老的宗教服装，信奉女性的目的是生育子嗣，并且这种行为是神圣的。</SSACultist.description>
+  <!--EN: Cultist-->
+  <SSACultist.label>邪教徒</SSACultist.label>
+  <!--EN: A demonic look that embodies a succubus, a vile creature that sucks out a man's... spirit.-->
+  <SSASuccubus.description>一种恶魔般的外观，体现了魅魔——一种吸取男人……精气的邪恶生物。</SSASuccubus.description>
+  <!--EN: Succubus-->
+  <SSASuccubus.label>魅魔</SSASuccubus.label>
+  <!--EN: A more gothic look for a sex slave costume that embodies a vile temptress.-->
+  <SSAWitch.description>一种更具哥特风格的性奴隶装束，体现了邪恶的诱惑者形象。</SSAWitch.description>
+  <!--EN: Witch-->
+  <SSAWitch.label>女巫</SSAWitch.label>
+</LanguageData>

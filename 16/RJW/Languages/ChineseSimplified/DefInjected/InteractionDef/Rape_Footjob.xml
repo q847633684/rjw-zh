@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '强迫足交', 原英文: '无' -> 新英文: 'footjob',更新于2026-02-14-->
+  <!--EN: footjob-->
+  <Rape_Footjob.label>强迫足交</Rape_Footjob.label>
+  <!--原中文: '要求足交', 原英文: '无' -> 新英文: 'Get footjob',更新于2026-02-14-->
+  <!--EN: Get footjob-->
+  <Rape_Footjob.modExtensions.0.RMBLabel>要求足交</Rape_Footjob.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->让[RECIPIENT_nameDef]用脚在自己阴茎上按揉。', 原英文: '无' -> 新英文: 'r_logentry->Forced [RECIPIENT_nameDef] to give a footjob.',更新于2026-02-14-->
+  <!--EN: r_logentry->Forced [RECIPIENT_nameDef] to give a footjob.-->
+  <Rape_Footjob.logRulesInitiator.rulesStrings.0>r_logentry->让[RECIPIENT_nameDef]用脚在自己阴茎上按揉。</Rape_Footjob.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->被迫用脚服侍了[INITIATOR_nameDef]的阴茎。', 原英文: '无' -> 新英文: 'r_logentry->Was forced to give a footjob to [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Was forced to give a footjob to [INITIATOR_nameDef].-->
+  <Rape_Footjob.logRulesRecipient.rulesStrings.0>r_logentry->被迫用脚服侍了[INITIATOR_nameDef]的阴茎。</Rape_Footjob.logRulesRecipient.rulesStrings.0>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks determine how much damage implants and clothing worn by the prey receives when the prey who came with them is digested, converted into some other material, assimilated, or otherwise killed by an act of vore.-->
+  <ItemDamage.description>这些怪癖决定了当植入者被消化、转换成其他材料、被吸收或以其他方式杀死时，植入者和衣物会受到多大的伤害吃人</ItemDamage.description>
+  <!--EN: Item damage-->
+  <ItemDamage.label>物品伤害</ItemDamage.label>
+  <!--EN: [PAWN_label] damages clothing and implants to a normal degree. The stomach wasn't necessarily designed to digest tough fiber and machined plasteel, but neither were clothes and delicate mechanisms necessarily designed to survive a long acid bath.-->
+  <ItemDamage_Default.description>[PAWN_label]损坏衣物和植入物至正常程度。胃不一定是为了消化坚韧的纤维和加工玻璃钢而设计的，但衣服和精致的机制也不一定是为了在长时间的酸浴中存活而设计的。</ItemDamage_Default.description>
+  <!--EN: Normal item damage-->
+  <ItemDamage_Default.label>普通物品伤害</ItemDamage_Default.label>
+  <!--EN: [PAWN_label]’s digestive system isn’t all that harsh on clothing and other accessories [PAWN_possessive] gurgled prey might have. That’s not to say that they’ll come out completely unscathed, however.-->
+  <ItemDamage_FiberFriendly.description>[PAWN_label]她的消化系统对衣物和其他衣物没有那么严格[PAWN_possessive]嗜血的猎物可能有。然而，这并不是说他们会毫发无伤地出来。</ItemDamage_FiberFriendly.description>
+  <!--EN: Fiber-friendly digestion-->
+  <ItemDamage_FiberFriendly.label>对纤维友好的消化</ItemDamage_FiberFriendly.label>
+  <!--EN: [PAWN_label] has a habit of melting the clothes amd prosthetics off [PAWN_possessive] prey when digesting them. Their innards are just so harsh on such petty accessories.-->
+  <ItemDamage_Moth.description>[PAWN_label]有将衣物和假肢融化的习惯[PAWN_possessive]消化它们时捕食它们。他们的内衣对这种小配件太苛刻了。</ItemDamage_Moth.description>
+  <!--EN: Mothlike digestion-->
+  <ItemDamage_Moth.label>轻度消化</ItemDamage_Moth.label>
+  <!--EN: [PAWN_label] has such a clean and purpose-driven digestive system that [PAWN_pronoun] can digest prey clean out of their clothes, leaving such vestments not only undamaged, but just as spotless as when they were donned. The same goes for implants and so on.-->
+  <ItemDamage_Spotless.description>[PAWN_label]拥有如此干净且目标明确的消化系统[PAWN_pronoun]可以将猎物的衣物消化干净，使其身上的法衣不仅没有被洗劫一空，而且一尘不染。植入物等也是如此。</ItemDamage_Spotless.description>
+  <!--EN: Spotless digestion-->
+  <ItemDamage_Spotless.label>一尘不染的消化能力</ItemDamage_Spotless.label>
+  <!--EN: [PAWN_label] leaves no trace of [PAWN_possessive] prey when [PAWN_pronoun] is done digesting. Clothing, implants, power armor? It all turns to mush, if anything at all.-->
+  <ItemDamage_Traceless.description>[PAWN_label]不留下任何痕迹[PAWN_possessive]捕食时[PAWN_pronoun]正在消化完成。衣物、植入物、动力装甲？一切都变成了糊状物，如果有的话。</ItemDamage_Traceless.description>
+  <!--EN: Traceless digestion-->
+  <ItemDamage_Traceless.label>无痕消化</ItemDamage_Traceless.label>
+</LanguageData>

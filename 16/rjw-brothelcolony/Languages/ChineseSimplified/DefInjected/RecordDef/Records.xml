@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Counts whoring stuff -->
+  <!--原中文: '服务次数', 原英文: '无' -> 新英文: 'times whored',更新于2026-02-14-->
+  <!--EN: times whored-->
+  <CountOfWhore.label>服务次数</CountOfWhore.label>
+  <!--原中文: '我进行了多少次服务。', 原英文: '无' -> 新英文: 'The number of times I whored myself.',更新于2026-02-14-->
+  <!--EN: The number of times I whored myself.-->
+  <CountOfWhore.description>我进行了多少次服务。</CountOfWhore.description>
+  <!--原中文: '当娼妓挣来的白银', 原英文: '无' -> 新英文: 'silvers earned as a whore',更新于2026-02-14-->
+  <!--EN: silvers earned as a whore-->
+  <EarnedMoneyByWhore.label>当娼妓挣来的白银</EarnedMoneyByWhore.label>
+  <!--原中文: '我当娼妓总共赚了多少白银。', 原英文: '无' -> 新英文: 'The amount of silvers I have earned as a whore.',更新于2026-02-14-->
+  <!--EN: The amount of silvers I have earned as a whore.-->
+  <EarnedMoneyByWhore.description>我当娼妓总共赚了多少白银。</EarnedMoneyByWhore.description>
+</LanguageData>

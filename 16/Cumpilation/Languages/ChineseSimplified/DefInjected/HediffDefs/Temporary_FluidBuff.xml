@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Due to a drug, the cowpers gland produces more fluid than usual.-->
+  <Cumpilation_ActiveCowpersGland.description>由于药物作用，尿道球腺分泌的体液比平时更多。</Cumpilation_ActiveCowpersGland.description>
+  <!--EN: stimulated prostate-->
+  <Cumpilation_ActiveCowpersGland.label>受刺激的尿道球腺</Cumpilation_ActiveCowpersGland.label>
+  <!--EN: wearing off-->
+  <Cumpilation_ActiveCowpersGland.stages.0.label>逐渐消退</Cumpilation_ActiveCowpersGland.stages.0.label>
+  <!--EN: altered-->
+  <Cumpilation_ActiveCowpersGland.stages.1.label>改变</Cumpilation_ActiveCowpersGland.stages.1.label>
+  <!--EN: fresh-->
+  <Cumpilation_ActiveCowpersGland.stages.2.label>新鲜</Cumpilation_ActiveCowpersGland.stages.2.label>
+  <!--EN: The mammary glands got stimulated and produce more fluid.-->
+  <Cumpilation_ActiveMammaries.description>乳腺受到刺激，分泌更多体液。</Cumpilation_ActiveMammaries.description>
+  <!--EN: stimulated mammaries-->
+  <Cumpilation_ActiveMammaries.label>受刺激的乳腺</Cumpilation_ActiveMammaries.label>
+  <!--EN: wearing off-->
+  <Cumpilation_ActiveMammaries.stages.0.label>逐渐消退</Cumpilation_ActiveMammaries.stages.0.label>
+  <!--EN: altered-->
+  <Cumpilation_ActiveMammaries.stages.1.label>改变</Cumpilation_ActiveMammaries.stages.1.label>
+  <!--EN: fresh-->
+  <Cumpilation_ActiveMammaries.stages.2.label>新鲜</Cumpilation_ActiveMammaries.stages.2.label>
+</LanguageData>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: vore proposal-->
+  <RV2_Proposal.label>吃人求婚</RV2_Proposal.label>
+  <!--EN: r_logentry->[INITIATOR_nameDef] proposed vore to [RECIPIENT_nameDef].-->
+  <RV2_Proposal.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]已提议吃人到[RECIPIENT_nameDef]</RV2_Proposal.logRulesInitiator.rulesStrings.0>
+  <!--EN: sent->[RECIPIENT_nameDef] was attracted and agreed.-->
+  <RV2_Proposal_Accepted.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被吸引并同意了。</RV2_Proposal_Accepted.rulePack.rulesStrings.0>
+  <!--EN: sent->[RECIPIENT_nameDef] responded well and accepted.-->
+  <RV2_Proposal_Accepted.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef]良好的反应并接受。</RV2_Proposal_Accepted.rulePack.rulesStrings.1>
+  <!--EN: sent->[RECIPIENT_nameDef] agreed.-->
+  <RV2_Proposal_Accepted.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef]同意。</RV2_Proposal_Accepted.rulePack.rulesStrings.2>
+  <!--EN: sent->[RECIPIENT_nameDef] accepted.-->
+  <RV2_Proposal_Accepted.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef]接受。</RV2_Proposal_Accepted.rulePack.rulesStrings.3>
+  <!--EN: sent->[RECIPIENT_nameDef] rejected the proposal.-->
+  <RV2_Proposal_Denied.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]拒绝该提议。</RV2_Proposal_Denied.rulePack.rulesStrings.0>
+  <!--EN: sent->[RECIPIENT_nameDef] ignored the proposal.-->
+  <RV2_Proposal_Denied.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef]忽略了该提议。</RV2_Proposal_Denied.rulePack.rulesStrings.1>
+  <!--EN: sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] down.-->
+  <RV2_Proposal_Denied.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef]转身[RECIPIENT_possessive]躺下。</RV2_Proposal_Denied.rulePack.rulesStrings.2>
+  <!--EN: sent->[RECIPIENT_nameDef] turned away.-->
+  <RV2_Proposal_Denied.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef]转身离开。</RV2_Proposal_Denied.rulePack.rulesStrings.3>
+  <!--EN: sent->[RECIPIENT_nameDef] gave a minimal response.-->
+  <RV2_Proposal_Denied.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef]给予了最低限度的回应。</RV2_Proposal_Denied.rulePack.rulesStrings.4>
+  <!--EN: sent->[RECIPIENT_nameDef] did not respond.-->
+  <RV2_Proposal_Denied.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef]没有反应。</RV2_Proposal_Denied.rulePack.rulesStrings.5>
+  <!--EN: sent->[RECIPIENT_nameDef] could not turn [RECIPIENT_possessive] down.-->
+  <RV2_Proposal_Forced.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]无法转身[RECIPIENT_possessive]躺下。</RV2_Proposal_Forced.rulePack.rulesStrings.0>
+  <!--EN: sent->[RECIPIENT_nameDef] was forced.-->
+  <RV2_Proposal_Forced.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef]曾经强迫</RV2_Proposal_Forced.rulePack.rulesStrings.1>
+  <!--EN: sent->[RECIPIENT_nameDef]'s opinion was disregarded.-->
+  <RV2_Proposal_Forced.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef]他的意见被无视。</RV2_Proposal_Forced.rulePack.rulesStrings.2>
+  <!--EN: sent->[RECIPIENT_nameDef] had no choice.-->
+  <RV2_Proposal_Forced.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef]别无选择。</RV2_Proposal_Forced.rulePack.rulesStrings.3>
+</LanguageData>

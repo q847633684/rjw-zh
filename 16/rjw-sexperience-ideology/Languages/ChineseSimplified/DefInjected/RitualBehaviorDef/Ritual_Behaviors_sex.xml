@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '引导者', 原英文: '无' -> 新英文: 'victim',更新于2026-02-14-->
+  <!--EN: victim-->
+  <Gangbang.roles.0.label>引导者</Gangbang.roles.0.label>
+  <!--过时key，需删除-->
+  <Gangbang.roles.1.label>受害者</Gangbang.roles.1.label>
+  <!--过时key，需删除-->
+  <Gangbang_Consensual.roles.0.label>引导者</Gangbang_Consensual.roles.0.label>
+  <!--原中文: '引导者', 原英文: '无' -> 新英文: 'breedee',更新于2026-02-14-->
+  <!--EN: breedee-->
+  <GangbangByAnimal.roles.0.label>引导者</GangbangByAnimal.roles.0.label>
+  <!--原中文: '受精者', 原英文: '无' -> 新英文: 'breeder',更新于2026-02-14-->
+  <!--EN: breeder-->
+  <GangbangByAnimal.roles.1.label>受精者</GangbangByAnimal.roles.1.label>
+  <!--过时key，需删除-->
+  <GangbangByAnimal.roles.2.label>授精者</GangbangByAnimal.roles.2.label>
+  <!--原中文: '引导者', 原英文: '无' -> 新英文: 'breeder',更新于2026-02-14-->
+  <!--EN: breeder-->
+  <GangbangByAnimal_Consensual.roles.0.label>引导者</GangbangByAnimal_Consensual.roles.0.label>
+  <!--过时key，需删除-->
+  <GangbangByAnimal_Consensual.roles.1.label>授精者</GangbangByAnimal_Consensual.roles.1.label>
+</LanguageData>

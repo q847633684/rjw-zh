@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Thoughts -->
+  <!--原中文: '贞洁被强行夺走', 原英文: '无' -> 新英文: 'Virginity stolen',更新于2026-02-14-->
+  <!--EN: Virginity stolen-->
+  <Virgin_Precious_Taken_Forcefully.stages.0.label>贞洁被强行夺走</Virgin_Precious_Taken_Forcefully.stages.0.label>
+  <!--原中文: '我的贞洁被强行夺走了。', 原英文: '无' -> 新英文: 'My virginity was taken forcefully.',更新于2026-02-14-->
+  <!--EN: My virginity was taken forcefully.-->
+  <Virgin_Precious_Taken_Forcefully.stages.0.description>我的贞洁被强行夺走了。</Virgin_Precious_Taken_Forcefully.stages.0.description>
+  <!--原中文: '失身于{0}', 原英文: '无' -> 新英文: 'Lost virginity to {0}',更新于2026-02-14-->
+  <!--EN: Lost virginity to {0}-->
+  <Virgin_Precious_Taken.stages.0.label>失身于{0}</Virgin_Precious_Taken.stages.0.label>
+  <!--原中文: '我不再是处。', 原英文: '无' -> 新英文: 'I am no longer a virgin.',更新于2026-02-14-->
+  <!--EN: I am no longer a virgin.-->
+  <Virgin_Precious_Taken.stages.0.description>我不再是处。</Virgin_Precious_Taken.stages.0.description>
+  <!--原中文: '失身于{0}', 原英文: '无' -> 新英文: 'Lost virginity to {0}',更新于2026-02-14-->
+  <!--EN: Lost virginity to {0}-->
+  <Virgin_Precious_Taken.stages.1.label>失身于{0}</Virgin_Precious_Taken.stages.1.label>
+  <!--原中文: '我不再是处。', 原英文: '无' -> 新英文: 'I am no longer a virgin.',更新于2026-02-14-->
+  <!--EN: I am no longer a virgin.-->
+  <Virgin_Precious_Taken.stages.1.description>我不再是处。</Virgin_Precious_Taken.stages.1.description>
+  <!--原中文: '失身于{0}', 原英文: '无' -> 新英文: 'Lost virginity to {0}',更新于2026-02-14-->
+  <!--EN: Lost virginity to {0}-->
+  <Virgin_Precious_Taken.stages.2.label>失身于{0}</Virgin_Precious_Taken.stages.2.label>
+  <!--原中文: '我不再是处。', 原英文: '无' -> 新英文: 'I am no longer a virgin.',更新于2026-02-14-->
+  <!--EN: I am no longer a virgin.-->
+  <Virgin_Precious_Taken.stages.2.description>我不再是处。</Virgin_Precious_Taken.stages.2.description>
+  <!--原中文: '把贞洁交给了{0}', 原英文: '无' -> 新英文: 'Gave virginity to {0}',更新于2026-02-14-->
+  <!--EN: Gave virginity to {0}-->
+  <Virgin_Precious_Taken.stages.3.label>把贞洁交给了{0}</Virgin_Precious_Taken.stages.3.label>
+  <!--原中文: '我把我的贞洁交给了我的爱人。', 原英文: '无' -> 新英文: 'I gave my virginity to my love.',更新于2026-02-14-->
+  <!--EN: I gave my virginity to my love.-->
+  <Virgin_Precious_Taken.stages.3.description>我把我的贞洁交给了我的爱人。</Virgin_Precious_Taken.stages.3.description>
+  <!--原中文: '失身于{0}', 原英文: '无' -> 新英文: 'Lost virginity to {0}',更新于2026-02-14-->
+  <!--EN: Lost virginity to {0}-->
+  <Virgin_Shameful_Taken.stages.0.label>失身于{0}</Virgin_Shameful_Taken.stages.0.label>
+  <!--原中文: '终于！', 原英文: '无' -> 新英文: 'Finally!',更新于2026-02-14-->
+  <!--EN: Finally!-->
+  <Virgin_Shameful_Taken.stages.0.description>终于！</Virgin_Shameful_Taken.stages.0.description>
+  <!--原中文: '失身于{0}', 原英文: '无' -> 新英文: 'Lost virginity to {0}',更新于2026-02-14-->
+  <!--EN: Lost virginity to {0}-->
+  <Virgin_Shameful_Taken.stages.1.label>失身于{0}</Virgin_Shameful_Taken.stages.1.label>
+  <!--原中文: '终于！', 原英文: '无' -> 新英文: 'Finally!',更新于2026-02-14-->
+  <!--EN: Finally!-->
+  <Virgin_Shameful_Taken.stages.1.description>终于！</Virgin_Shameful_Taken.stages.1.description>
+  <!--原中文: '失身于{0}', 原英文: '无' -> 新英文: 'Lost virginity to {0}',更新于2026-02-14-->
+  <!--EN: Lost virginity to {0}-->
+  <Virgin_Shameful_Taken.stages.2.label>失身于{0}</Virgin_Shameful_Taken.stages.2.label>
+  <!--原中文: '终于！', 原英文: '无' -> 新英文: 'Finally!',更新于2026-02-14-->
+  <!--EN: Finally!-->
+  <Virgin_Shameful_Taken.stages.2.description>终于！</Virgin_Shameful_Taken.stages.2.description>
+  <!--原中文: '淫妇', 原英文: '无' -> 新英文: 'slut',更新于2026-02-14-->
+  <!--EN: slut-->
+  <Virgin_OnlyForSpouse_Know_Taken.stages.0.label>淫妇</Virgin_OnlyForSpouse_Know_Taken.stages.0.label>
+</LanguageData>

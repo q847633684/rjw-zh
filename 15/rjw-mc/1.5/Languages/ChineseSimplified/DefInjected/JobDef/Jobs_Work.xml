@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MilkHuman.reportString>帮 TargetA 挤奶</MilkHuman.reportString>
+  <MilkedHuman.reportString>被 TargetA 挤奶。</MilkedHuman.reportString>
+  <MilkSelf.reportString>正在挤奶。</MilkSelf.reportString>
+  <MilkSelfAtMachine.reportString>正在挤奶。</MilkSelfAtMachine.reportString>
+  <MilkSelfAtMachineAutomatic.reportString>正在挤奶。</MilkSelfAtMachineAutomatic.reportString>
+  <BreastfeedAdult.reportString>从 TargetA 进行母乳喂养。</BreastfeedAdult.reportString>
+  <BreastfeederAdult.reportString>母乳喂养目标A。</BreastfeederAdult.reportString>
+
+
+</LanguageData>

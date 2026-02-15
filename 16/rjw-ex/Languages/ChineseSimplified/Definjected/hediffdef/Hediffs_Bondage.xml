@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '拘束手套', 原英文: '无' -> 新英文: 'armbinder',更新于2026-02-14-->
+  <!--EN: armbinder-->
+  <Armbinder.label>拘束手套</Armbinder.label>
+  <!--原中文: '拘束手套', 原英文: '无' -> 新英文: 'an armbinder',更新于2026-02-14-->
+  <!--EN: an armbinder-->
+  <Armbinder.labelNoun>拘束手套</Armbinder.labelNoun>
+  <!--原中文: '拘束手套。将双手束缚在躯干后面的一种拘束装置。', 原英文: '无' -> 新英文: 'An armbinder that prevents any pawn it's attached to from using their arms.',更新于2026-02-14-->
+  <!--EN: An armbinder that prevents any pawn it's attached to from using their arms.-->
+  <Armbinder.description>拘束手套。将双手束缚在躯干后面的一种拘束装置。</Armbinder.description>
+  <!--原中文: '贞操带', 原英文: '无' -> 新英文: 'chastity belt',更新于2026-02-14-->
+  <!--EN: chastity belt-->
+  <ChastityBelt.label>贞操带</ChastityBelt.label>
+  <!--过时key，需删除-->
+  <ChastityBelt.labelNoun>贞操带</ChastityBelt.labelNoun>
+  <!--原中文: '贞操带。限制其佩戴者插入阴道和肛门。', 原英文: '无' -> 新英文: 'A chastity belt that prevents sex and masturbation.',更新于2026-02-14-->
+  <!--EN: A chastity belt that prevents sex and masturbation.-->
+  <ChastityBelt.description>贞操带。限制其佩戴者插入阴道和肛门。</ChastityBelt.description>
+  <!--原中文: '贞操笼', 原英文: '无' -> 新英文: 'chastity Cage',更新于2026-02-14-->
+  <!--EN: chastity Cage-->
+  <ChastityCage.label>贞操笼</ChastityCage.label>
+  <!--原中文: '贞操笼', 原英文: '无' -> 新英文: 'a chastity cage',更新于2026-02-14-->
+  <!--EN: a chastity cage-->
+  <ChastityCage.labelNoun>贞操笼</ChastityCage.labelNoun>
+  <!--原中文: '贞操笼。限制其佩戴者接触阴茎。', 原英文: '无' -> 新英文: 'A chastity cage for penises that prevents erections.',更新于2026-02-14-->
+  <!--EN: A chastity cage for penises that prevents erections.-->
+  <ChastityCage.description>贞操笼。限制其佩戴者接触阴茎。</ChastityCage.description>
+  <!--原中文: '枷锁', 原英文: '无' -> 新英文: 'yoke',更新于2026-02-14-->
+  <!--EN: yoke-->
+  <Yoke.label>枷锁</Yoke.label>
+  <!--原中文: '枷锁', 原英文: '无' -> 新英文: 'a yoke',更新于2026-02-14-->
+  <!--EN: a yoke-->
+  <Yoke.labelNoun>枷锁</Yoke.labelNoun>
+  <!--原中文: '将使用者的手臂和头部相对于身体固定并保持举臂状态。', 原英文: '无' -> 新英文: 'Keeps the arms and head of the wearer locked relative to their body in a raised-arm position.',更新于2026-02-14-->
+  <!--EN: Keeps the arms and head of the wearer locked relative to their body in a raised-arm position.-->
+  <Yoke.description>将使用者的手臂和头部相对于身体固定并保持举臂状态。</Yoke.description>
+  <!--原中文: '口球', 原英文: '无' -> 新英文: 'closed gag',更新于2026-02-14-->
+  <!--EN: closed gag-->
+  <ClosedGag.label>口球</ClosedGag.label>
+  <!--原中文: '口球', 原英文: '无' -> 新英文: 'a closed gag',更新于2026-02-14-->
+  <!--EN: a closed gag-->
+  <ClosedGag.labelNoun>口球</ClosedGag.labelNoun>
+  <!--原中文: '一种封闭式的口球，阻止佩戴者说话。', 原英文: '无' -> 新英文: 'A closed gag that prevents its wearer from speaking.',更新于2026-02-14-->
+  <!--EN: A closed gag that prevents its wearer from speaking.-->
+  <ClosedGag.description>一种封闭式的口球，阻止佩戴者说话。</ClosedGag.description>
+  <!--原中文: '口枷', 原英文: '无' -> 新英文: 'open gag',更新于2026-02-14-->
+  <!--EN: open gag-->
+  <OpenGag.label>口枷</OpenGag.label>
+  <!--原中文: '口枷', 原英文: '无' -> 新英文: 'an open gag',更新于2026-02-14-->
+  <!--EN: an open gag-->
+  <OpenGag.labelNoun>口枷</OpenGag.labelNoun>
+  <!--原中文: '一种开口的口枷，只允许它的主人含糊不清地咕哝。', 原英文: '无' -> 新英文: 'An open gag that only allows its wearer to mutter incomprehensibly.',更新于2026-02-14-->
+  <!--EN: An open gag that only allows its wearer to mutter incomprehensibly.-->
+  <OpenGag.description>一种开口的口枷，只允许它的主人含糊不清地咕哝。</OpenGag.description>
+  <!--原中文: '拘束靴', 原英文: '无' -> 新英文: 'legbinder',更新于2026-02-14-->
+  <!--EN: legbinder-->
+  <Legbinder.label>拘束靴</Legbinder.label>
+  <!--原中文: '拘束靴', 原英文: '无' -> 新英文: 'a legbinder',更新于2026-02-14-->
+  <!--EN: a legbinder-->
+  <Legbinder.labelNoun>拘束靴</Legbinder.labelNoun>
+  <!--原中文: '拘束靴。一种束缚腿部的拘束装置，限制了运动。', 原英文: '无' -> 新英文: 'A legbinder that prevents any pawn it's attached to from using their legs.',更新于2026-02-14-->
+  <!--EN: A legbinder that prevents any pawn it's attached to from using their legs.-->
+  <Legbinder.description>拘束靴。一种束缚腿部的拘束装置，限制了运动。</Legbinder.description>
+  <!--原中文: '眼罩', 原英文: '无' -> 新英文: 'blindfold',更新于2026-02-14-->
+  <!--EN: blindfold-->
+  <RJW_Blindfold.label>眼罩</RJW_Blindfold.label>
+  <!--原中文: '眼罩', 原英文: '无' -> 新英文: 'a blindfold',更新于2026-02-14-->
+  <!--EN: a blindfold-->
+  <RJW_Blindfold.labelNoun>眼罩</RJW_Blindfold.labelNoun>
+  <!--原中文: '眼罩。能挡住视线的拘束装置。', 原英文: '无' -> 新英文: 'A blindfold. A restraint device that blocks the wearer's vision.',更新于2026-02-14-->
+  <!--EN: A blindfold. A restraint device that blocks the wearer's vision.-->
+  <RJW_Blindfold.description>眼罩。能挡住视线的拘束装置。</RJW_Blindfold.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Cleavage-->
+  <Cleavage.label>乳沟</Cleavage.label>
+  <!--EN: Cock (bladder)-->
+  <CockBladder.label>公鸡 (膀胱)</CockBladder.label>
+  <!--EN: Membrane-->
+  <Membrane.label>薄膜</Membrane.label>
+  <!--EN: Navel-->
+  <Navel.label>肚脐</Navel.label>
+  <!--EN: Tail (mouth)-->
+  <Tailmaw.label>一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。(嘴)</Tailmaw.label>
+  <!--EN: Udder-->
+  <Udder.label>乳房</Udder.label>
+  <!--EN: Vaginal (bladder)-->
+  <VaginalBladder.label>阴道(膀胱)</VaginalBladder.label>
+</LanguageData>

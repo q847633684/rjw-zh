@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: This implant did not withstand the harsh environment of someones insides. You can destroy this at a Machining Table to regain some materials.-->
+  <RV2_DestroyedImplant.description>这种植入物无法承受某人体内的恶劣环境。你可以在机械加工台上销毁它以回收一些材料。</RV2_DestroyedImplant.description>
+  <!--EN: digested implant-->
+  <RV2_DestroyedImplant.label>被消化的植入物</RV2_DestroyedImplant.label>
+  <!--EN: Disassemble implants that were destroyed during fatal vore.-->
+  <RV2_DisassembleDigestedImplant.description>拆解在死亡期间被摧毁的植入物吃人</RV2_DisassembleDigestedImplant.description>
+  <!--EN: Disassembling implant.-->
+  <RV2_DisassembleDigestedImplant.jobString>正在拆卸植入物。</RV2_DisassembleDigestedImplant.jobString>
+  <!--EN: disassemble implant remains-->
+  <RV2_DisassembleDigestedImplant.label>拆卸植入物残骸</RV2_DisassembleDigestedImplant.label>
+</LanguageData>

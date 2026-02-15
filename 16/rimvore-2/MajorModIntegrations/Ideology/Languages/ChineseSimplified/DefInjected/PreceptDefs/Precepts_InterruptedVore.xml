@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Interrupted Vore-->
+  <RV2_InterruptedVore.label>被打断吃人</RV2_InterruptedVore.label>
+  <!--EN: Good cultists swallow, they don't spit.-->
+  <RV2_InterruptedVore_Abhorrent.description>优秀的邪教徒会吞下燕子，但不会喷吐。</RV2_InterruptedVore_Abhorrent.description>
+  <!--EN: abhorrent-->
+  <RV2_InterruptedVore_Abhorrent.label>厌恶</RV2_InterruptedVore_Abhorrent.label>
+  <!--EN: I forced a pred to release their prey, my peer are shunning me-->
+  <RV2_InterruptedVore_Abhorrent.stages.0.description>我强迫一个 pred 想要释放它们的猎物，我的同伴们正在避开我</RV2_InterruptedVore_Abhorrent.stages.0.description>
+  <!--EN: Interrupted vore-->
+  <RV2_InterruptedVore_Abhorrent.stages.0.label>被打断吃人</RV2_InterruptedVore_Abhorrent.stages.0.label>
+  <!--EN: One of us interrupted a predator, this is a disgusting insult to our beliefs!-->
+  <RV2_InterruptedVore_Know_Abhorrent.stages.0.description>我们中的一员打断了一名捕食者，这是对我们的信仰的恶心侮辱!</RV2_InterruptedVore_Know_Abhorrent.stages.0.description>
+  <!--EN: Someone interrupted vore!!-->
+  <RV2_InterruptedVore_Know_Abhorrent.stages.0.label>有人被打断吃人!</RV2_InterruptedVore_Know_Abhorrent.stages.0.label>
+  <!--EN: interrupted vore-->
+  <RV2_InterruptedVore_Know_Social_Abhorrent.stages.0.label>被打断吃人</RV2_InterruptedVore_Know_Social_Abhorrent.stages.0.label>
+</LanguageData>

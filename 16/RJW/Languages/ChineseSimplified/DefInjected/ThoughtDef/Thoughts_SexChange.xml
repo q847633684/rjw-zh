@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '获得新生', 原英文: '无' -> 新英文: 'Happy with new self',更新于2026-02-14-->
+  <!--EN: Happy with new self-->
+  <male2trap.stages.0.label>获得新生</male2trap.stages.0.label>
+  <!--原中文: '嘁嘁嘁，扶他即同性恋，你懂的。', 原英文: '无' -> 新英文: 'Tee hee hee... Traps are gay, you know.',更新于2026-02-14-->
+  <!--EN: Tee hee hee... Traps are gay, you know.-->
+  <male2trap.stages.0.description>嘁嘁嘁，扶他即同性恋，你懂的。</male2trap.stages.0.description>
+  <!--原中文: '接受变性', 原英文: '无' -> 新英文: 'Acceptance of sex changes',更新于2026-02-14-->
+  <!--EN: Acceptance of sex changes-->
+  <male2trap.stages.1.label>接受变性</male2trap.stages.1.label>
+  <!--原中文: '好吧，至少我现在很漂亮。', 原英文: '无' -> 新英文: 'Well, at least I'm pretty now.',更新于2026-02-14-->
+  <!--EN: Well, at least I'm pretty now.-->
+  <male2trap.stages.1.description>好吧，至少我现在很漂亮。</male2trap.stages.1.description>
+  <!--原中文: '对变性不满', 原英文: '无' -> 新英文: 'Mild discontent with new gender',更新于2026-02-14-->
+  <!--EN: Mild discontent with new gender-->
+  <male2trap.stages.2.label>对变性不满</male2trap.stages.2.label>
+  <!--原中文: '但我应该是个男孩！', 原英文: '无' -> 新英文: 'But I'm a boy!',更新于2026-02-14-->
+  <!--EN: But I'm a boy!-->
+  <male2trap.stages.2.description>但我应该是个男孩！</male2trap.stages.2.description>
+  <!--原中文: '对变性暴怒', 原英文: '无' -> 新英文: 'Furious about transgender surgery',更新于2026-02-14-->
+  <!--EN: Furious about transgender surgery-->
+  <male2trap.stages.3.label>对变性暴怒</male2trap.stages.3.label>
+  <!--原中文: '你对我做了什么！', 原英文: '无' -> 新英文: 'What are you doing to me!',更新于2026-02-14-->
+  <!--EN: What are you doing to me!-->
+  <male2trap.stages.3.description>你对我做了什么！</male2trap.stages.3.description>
+  <!--原中文: '获得新生', 原英文: '无' -> 新英文: 'Happy with new self',更新于2026-02-14-->
+  <!--EN: Happy with new self-->
+  <male2female.stages.0.label>获得新生</male2female.stages.0.label>
+  <!--原中文: '我梦想成为一个最幸福的男孩，现在我是一个最幸福的女孩。', 原英文: '无' -> 新英文: 'Although I was a boy before, I kinda like being a girl now.',更新于2026-02-14-->
+  <!--EN: Although I was a boy before, I kinda like being a girl now.-->
+  <male2female.stages.0.description>我梦想成为一个最幸福的男孩，现在我是一个最幸福的女孩。</male2female.stages.0.description>
+  <!--原中文: '接受变性', 原英文: '无' -> 新英文: 'Acceptance of sex changes',更新于2026-02-14-->
+  <!--EN: Acceptance of sex changes-->
+  <male2female.stages.1.label>接受变性</male2female.stages.1.label>
+  <!--原中文: '好吧，我也将就带着这个活了。', 原英文: '无' -> 新英文: 'Well, I guess I will have to live with that now.',更新于2026-02-14-->
+  <!--EN: Well, I guess I will have to live with that now.-->
+  <male2female.stages.1.description>好吧，我也将就带着这个活了。</male2female.stages.1.description>
+  <!--原中文: '不满变性', 原英文: '无' -> 新英文: 'Mild discontent with new gender',更新于2026-02-14-->
+  <!--EN: Mild discontent with new gender-->
+  <male2female.stages.2.label>不满变性</male2female.stages.2.label>
+  <!--原中文: '但我是一个男孩！', 原英文: '无' -> 新英文: 'But I'm a boy!',更新于2026-02-14-->
+  <!--EN: But I'm a boy!-->
+  <male2female.stages.2.description>但我是一个男孩！</male2female.stages.2.description>
+  <!--原中文: '对变性暴怒', 原英文: '无' -> 新英文: 'Furious about transgender surgery',更新于2026-02-14-->
+  <!--EN: Furious about transgender surgery-->
+  <male2female.stages.3.label>对变性暴怒</male2female.stages.3.label>
+  <!--原中文: '啊！我不是你的玩具！把它缝回去！', 原英文: '无' -> 新英文: 'Aah, I'm not your toy! Sew it back!',更新于2026-02-14-->
+  <!--EN: Aah, I'm not your toy! Sew it back!-->
+  <male2female.stages.3.description>啊！我不是你的玩具！把它缝回去！</male2female.stages.3.description>
+  <!--原中文: '获得新生', 原英文: '无' -> 新英文: 'Happy with a vagina',更新于2026-02-14-->
+  <!--EN: Happy with a vagina-->
+  <male2futa.stages.0.label>获得新生</male2futa.stages.0.label>
+  <!--原中文: '哇！这个东西太棒了！以前没有它我是怎么活的！', 原英文: '无' -> 新英文: 'Whoa... This thing is awesome! How could I live without it before!',更新于2026-02-14-->
+  <!--EN: Whoa... This thing is awesome! How could I live without it before!-->
+  <male2futa.stages.0.description>哇！这个东西太棒了！以前没有它我是怎么活的！</male2futa.stages.0.description>
+  <!--原中文: '接受阴道', 原英文: '无' -> 新英文: 'Acceptance of vagina',更新于2026-02-14-->
+  <!--EN: Acceptance of vagina-->
+  <male2futa.stages.1.label>接受阴道</male2futa.stages.1.label>
+  <!--原中文: '好吧，我想现在我只能接受了。', 原英文: '无' -> 新英文: 'Well, I guess I will have to live with that now..',更新于2026-02-14-->
+  <!--EN: Well, I guess I will have to live with that now..-->
+  <male2futa.stages.1.description>好吧，我想现在我只能接受了。</male2futa.stages.1.description>
+  <!--原中文: '对阴道不满', 原英文: '无' -> 新英文: 'Mild discontent with vagina',更新于2026-02-14-->
+  <!--EN: Mild discontent with vagina-->
+  <male2futa.stages.2.label>对阴道不满</male2futa.stages.2.label>
+  <!--原中文: '这东西太可怕了，快把它从我身上拿掉啊啊啊！！！', 原英文: '无' -> 新英文: 'This thing is horrible! Take it away from meee!',更新于2026-02-14-->
+  <!--EN: This thing is horrible! Take it away from meee!-->
+  <male2futa.stages.2.description>这东西太可怕了，快把它从我身上拿掉啊啊啊！！！</male2futa.stages.2.description>
+  <!--原中文: '对阴道暴怒', 原英文: '无' -> 新英文: 'Furious about vagina attached',更新于2026-02-14-->
+  <!--EN: Furious about vagina attached-->
+  <male2futa.stages.3.label>对阴道暴怒</male2futa.stages.3.label>
+  <!--原中文: '我现在是怪物了！啊哈！', 原英文: '无' -> 新英文: 'I'm a monster now! Aaah!',更新于2026-02-14-->
+  <!--EN: I'm a monster now! Aaah!-->
+  <male2futa.stages.3.description>我现在是怪物了！啊哈！</male2futa.stages.3.description>
+  <!--原中文: '获得新生', 原英文: '无' -> 新英文: 'Happy with new self',更新于2026-02-14-->
+  <!--EN: Happy with new self-->
+  <female2trap.stages.0.label>获得新生</female2trap.stages.0.label>
+  <!--原中文: '嘁嘁嘁，扶他即同性恋，你懂的。', 原英文: '无' -> 新英文: 'Tee hee hee... Now I have a built-in strap-on!',更新于2026-02-14-->
+  <!--EN: Tee hee hee... Now I have a built-in strap-on!-->
+  <female2trap.stages.0.description>嘁嘁嘁，扶他即同性恋，你懂的。</female2trap.stages.0.description>
+  <!--原中文: '接受变性', 原英文: '无' -> 新英文: 'Acceptance of sex changes 1',更新于2026-02-14-->
+  <!--EN: Acceptance of sex changes 1-->
+  <female2trap.stages.1.label>接受变性</female2trap.stages.1.label>
+  <!--原中文: '好吧，至少我现在很漂亮。', 原英文: '无' -> 新英文: 'Well, at least I'm still pretty.',更新于2026-02-14-->
+  <!--EN: Well, at least I'm still pretty.-->
+  <female2trap.stages.1.description>好吧，至少我现在很漂亮。</female2trap.stages.1.description>
+  <!--原中文: '对变性不满', 原英文: '无' -> 新英文: 'Mild discontent with new gender 2',更新于2026-02-14-->
+  <!--EN: Mild discontent with new gender 2-->
+  <female2trap.stages.2.label>对变性不满</female2trap.stages.2.label>
+  <!--原中文: '但我应该是个女孩！', 原英文: '无' -> 新英文: 'But I'm a girl!',更新于2026-02-14-->
+  <!--EN: But I'm a girl!-->
+  <female2trap.stages.2.description>但我应该是个女孩！</female2trap.stages.2.description>
+  <!--原中文: '对变性暴怒', 原英文: '无' -> 新英文: 'Furious about transgender surgery 3',更新于2026-02-14-->
+  <!--EN: Furious about transgender surgery 3-->
+  <female2trap.stages.3.label>对变性暴怒</female2trap.stages.3.label>
+  <!--原中文: '你对我做了什么！', 原英文: '无' -> 新英文: 'What are you doing to me!',更新于2026-02-14-->
+  <!--EN: What are you doing to me!-->
+  <female2trap.stages.3.description>你对我做了什么！</female2trap.stages.3.description>
+  <!--原中文: '获得新生', 原英文: '无' -> 新英文: 'Happy with new self',更新于2026-02-14-->
+  <!--EN: Happy with new self-->
+  <female2male.stages.0.label>获得新生</female2male.stages.0.label>
+  <!--原中文: '我很高兴我的阳刚之气得到了释放。', 原英文: '无' -> 新英文: 'I'm so happy now with all my masculinity unleashed.',更新于2026-02-14-->
+  <!--EN: I'm so happy now with all my masculinity unleashed.-->
+  <female2male.stages.0.description>我很高兴我的阳刚之气得到了释放。</female2male.stages.0.description>
+  <!--原中文: '接受阴茎', 原英文: '无' -> 新英文: 'Acceptance of sex changes',更新于2026-02-14-->
+  <!--EN: Acceptance of sex changes-->
+  <female2male.stages.1.label>接受阴茎</female2male.stages.1.label>
+  <!--原中文: '好吧，我也将就带着这个活了。', 原英文: '无' -> 新英文: 'Well, I've got to live with this.',更新于2026-02-14-->
+  <!--EN: Well, I've got to live with this.-->
+  <female2male.stages.1.description>好吧，我也将就带着这个活了。</female2male.stages.1.description>
+  <!--原中文: '对阴茎不满', 原英文: '无' -> 新英文: 'Mild discontent with new gender',更新于2026-02-14-->
+  <!--EN: Mild discontent with new gender-->
+  <female2male.stages.2.label>对阴茎不满</female2male.stages.2.label>
+  <!--原中文: '但我应该是个女孩！', 原英文: '无' -> 新英文: 'But I'm a girl!',更新于2026-02-14-->
+  <!--EN: But I'm a girl!-->
+  <female2male.stages.2.description>但我应该是个女孩！</female2male.stages.2.description>
+  <!--原中文: '对阴茎暴怒', 原英文: '无' -> 新英文: 'Furious about transgender surgery',更新于2026-02-14-->
+  <!--EN: Furious about transgender surgery-->
+  <female2male.stages.3.label>对阴茎暴怒</female2male.stages.3.label>
+  <!--原中文: '你对我做了什么！', 原英文: '无' -> 新英文: 'What are you doing to me!',更新于2026-02-14-->
+  <!--EN: What are you doing to me!-->
+  <female2male.stages.3.description>你对我做了什么！</female2male.stages.3.description>
+  <!--原中文: '获得新生', 原英文: '无' -> 新英文: 'Happy with a dick',更新于2026-02-14-->
+  <!--EN: Happy with a dick-->
+  <female2futa.stages.0.label>获得新生</female2futa.stages.0.label>
+  <!--原中文: '哇！这个东西太棒了！以前没有它我是怎么活的！', 原英文: '无' -> 新英文: 'Whoa... This thing is awesome! How could I live without it before!',更新于2026-02-14-->
+  <!--EN: Whoa... This thing is awesome! How could I live without it before!-->
+  <female2futa.stages.0.description>哇！这个东西太棒了！以前没有它我是怎么活的！</female2futa.stages.0.description>
+  <!--原中文: '接受阴茎', 原英文: '无' -> 新英文: 'Acceptance of penis',更新于2026-02-14-->
+  <!--EN: Acceptance of penis-->
+  <female2futa.stages.1.label>接受阴茎</female2futa.stages.1.label>
+  <!--原中文: '好吧，至少我现在可以站着尿尿了。', 原英文: '无' -> 新英文: 'Well, at least I can pee standing now.',更新于2026-02-14-->
+  <!--EN: Well, at least I can pee standing now.-->
+  <female2futa.stages.1.description>好吧，至少我现在可以站着尿尿了。</female2futa.stages.1.description>
+  <!--原中文: '对阴茎不满', 原英文: '无' -> 新英文: 'Mild discontent with penis',更新于2026-02-14-->
+  <!--EN: Mild discontent with penis-->
+  <female2futa.stages.2.label>对阴茎不满</female2futa.stages.2.label>
+  <!--原中文: '这东西太可怕了，快把它从我身上拿掉啊啊啊！！！', 原英文: '无' -> 新英文: 'This thing is horrible! Take it away from meee!',更新于2026-02-14-->
+  <!--EN: This thing is horrible! Take it away from meee!-->
+  <female2futa.stages.2.description>这东西太可怕了，快把它从我身上拿掉啊啊啊！！！</female2futa.stages.2.description>
+  <!--原中文: '对阴茎暴怒', 原英文: '无' -> 新英文: 'Furious about penis attached',更新于2026-02-14-->
+  <!--EN: Furious about penis attached-->
+  <female2futa.stages.3.label>对阴茎暴怒</female2futa.stages.3.label>
+  <!--原中文: '我现在是怪物了！啊哈！', 原英文: '无' -> 新英文: 'I'm a monster now! Aaah!',更新于2026-02-14-->
+  <!--EN: I'm a monster now! Aaah!-->
+  <female2futa.stages.3.description>我现在是怪物了！啊哈！</female2futa.stages.3.description>
+  <!--原中文: '获得新生', 原英文: '无' -> 新英文: 'Happy with new self',更新于2026-02-14-->
+  <!--EN: Happy with new self-->
+  <futa2trap.stages.0.label>获得新生</futa2trap.stages.0.label>
+  <!--原中文: '嘁嘁嘁，扶他即同性恋，你懂的。', 原英文: '无' -> 新英文: 'Tee hee hee... I still have another hole!',更新于2026-02-14-->
+  <!--EN: Tee hee hee... I still have another hole!-->
+  <futa2trap.stages.0.description>嘁嘁嘁，扶他即同性恋，你懂的。</futa2trap.stages.0.description>
+  <!--原中文: '接受变性', 原英文: '无' -> 新英文: 'Acceptance of sex changes',更新于2026-02-14-->
+  <!--EN: Acceptance of sex changes-->
+  <futa2trap.stages.1.label>接受变性</futa2trap.stages.1.label>
+  <!--原中文: '好吧，至少我现在很漂亮。', 原英文: '无' -> 新英文: 'Well, at least I'm still pretty.',更新于2026-02-14-->
+  <!--EN: Well, at least I'm still pretty.-->
+  <futa2trap.stages.1.description>好吧，至少我现在很漂亮。</futa2trap.stages.1.description>
+  <!--原中文: '对变性不满', 原英文: '无' -> 新英文: 'Mild discontent with new gender',更新于2026-02-14-->
+  <!--EN: Mild discontent with new gender-->
+  <futa2trap.stages.2.label>对变性不满</futa2trap.stages.2.label>
+  <!--原中文: '这不是我的身体！', 原英文: '无' -> 新英文: 'Come on! Don't be a pussy! Give mine back!',更新于2026-02-14-->
+  <!--EN: Come on! Don't be a pussy! Give mine back!-->
+  <futa2trap.stages.2.description>这不是我的身体！</futa2trap.stages.2.description>
+  <!--原中文: '对变性暴怒', 原英文: '无' -> 新英文: 'Furious about transgender surgery',更新于2026-02-14-->
+  <!--EN: Furious about transgender surgery-->
+  <futa2trap.stages.3.label>对变性暴怒</futa2trap.stages.3.label>
+  <!--原中文: '你对我做了什么！', 原英文: '无' -> 新英文: 'Hey! Give it back!',更新于2026-02-14-->
+  <!--EN: Hey! Give it back!-->
+  <futa2trap.stages.3.description>你对我做了什么！</futa2trap.stages.3.description>
+  <!--原中文: '获得新生', 原英文: '无' -> 新英文: 'Happy without a vagina',更新于2026-02-14-->
+  <!--EN: Happy without a vagina-->
+  <futa2male.stages.0.label>获得新生</futa2male.stages.0.label>
+  <!--原中文: '这挺有趣的，但别再来一次了。', 原英文: '无' -> 新英文: 'It was an interesting experience. Let's not do that again.',更新于2026-02-14-->
+  <!--EN: It was an interesting experience. Let's not do that again.-->
+  <futa2male.stages.0.description>这挺有趣的，但别再来一次了。</futa2male.stages.0.description>
+  <!--原中文: '为失去阴道而悲伤', 原英文: '无' -> 新英文: 'Sad without a vagina',更新于2026-02-14-->
+  <!--EN: Sad without a vagina-->
+  <futa2male.stages.1.label>为失去阴道而悲伤</futa2male.stages.1.label>
+  <!--原中文: '噢，它还在的时候可有意思了……', 原英文: '无' -> 新英文: 'Oh well, it was fun while it lasted.',更新于2026-02-14-->
+  <!--EN: Oh well, it was fun while it lasted.-->
+  <futa2male.stages.1.description>噢，它还在的时候可有意思了……</futa2male.stages.1.description>
+  <!--原中文: '为失去阴道而不愉快', 原英文: '无' -> 新英文: 'Unhappy without a vagina',更新于2026-02-14-->
+  <!--EN: Unhappy without a vagina-->
+  <futa2male.stages.2.label>为失去阴道而不愉快</futa2male.stages.2.label>
+  <!--原中文: '讲真，它现在是我的，我想要把它弄回去！', 原英文: '无' -> 新英文: 'Seriously, it is mine now. I want it back.',更新于2026-02-14-->
+  <!--EN: Seriously, it is mine now. I want it back.-->
+  <futa2male.stages.2.description>讲真，它现在是我的，我想要把它弄回去！</futa2male.stages.2.description>
+  <!--原中文: '为失去阴道而愤怒', 原英文: '无' -> 新英文: 'Furious about vagina removal',更新于2026-02-14-->
+  <!--EN: Furious about vagina removal-->
+  <futa2male.stages.3.label>为失去阴道而愤怒</futa2male.stages.3.label>
+  <!--原中文: '啊啊！快点！把它还给我！！', 原英文: '无' -> 新英文: 'Aww come on! Give it back!',更新于2026-02-14-->
+  <!--EN: Aww come on! Give it back!-->
+  <futa2male.stages.3.description>啊啊！快点！把它还给我！！</futa2male.stages.3.description>
+  <!--原中文: '乐在其中', 原英文: '无' -> 新英文: 'Happy without a dick',更新于2026-02-14-->
+  <!--EN: Happy without a dick-->
+  <futa2female.stages.0.label>乐在其中</futa2female.stages.0.label>
+  <!--原中文: '这挺有趣的，但别再来一次了。', 原英文: '无' -> 新英文: 'It was an interesting experience. Let's not do that again.',更新于2026-02-14-->
+  <!--EN: It was an interesting experience. Let's not do that again.-->
+  <futa2female.stages.0.description>这挺有趣的，但别再来一次了。</futa2female.stages.0.description>
+  <!--原中文: '为失去阴茎而悲伤', 原英文: '无' -> 新英文: 'Sad without a dick',更新于2026-02-14-->
+  <!--EN: Sad without a dick-->
+  <futa2female.stages.1.label>为失去阴茎而悲伤</futa2female.stages.1.label>
+  <!--原中文: '噢，它还在的时候可有意思了……', 原英文: '无' -> 新英文: 'Oh well, it was fun while it lasted.',更新于2026-02-14-->
+  <!--EN: Oh well, it was fun while it lasted.-->
+  <futa2female.stages.1.description>噢，它还在的时候可有意思了……</futa2female.stages.1.description>
+  <!--原中文: '为失去阴茎而不愉快', 原英文: '无' -> 新英文: 'Unhappy without a dick',更新于2026-02-14-->
+  <!--EN: Unhappy without a dick-->
+  <futa2female.stages.2.label>为失去阴茎而不愉快</futa2female.stages.2.label>
+  <!--原中文: '讲真，它现在是我的，我想要把它弄回去！', 原英文: '无' -> 新英文: 'Seriously, it is mine! I want it back!',更新于2026-02-14-->
+  <!--EN: Seriously, it is mine! I want it back!-->
+  <futa2female.stages.2.description>讲真，它现在是我的，我想要把它弄回去！</futa2female.stages.2.description>
+  <!--原中文: '为失去阴茎而愤怒', 原英文: '无' -> 新英文: 'Furious about dick removal',更新于2026-02-14-->
+  <!--EN: Furious about dick removal-->
+  <futa2female.stages.3.label>为失去阴茎而愤怒</futa2female.stages.3.label>
+  <!--原中文: '啊啊！快点！把它还给我！！', 原英文: '无' -> 新英文: 'Aww come on! Give it back!',更新于2026-02-14-->
+  <!--EN: Aww come on! Give it back!-->
+  <futa2female.stages.3.description>啊啊！快点！把它还给我！！</futa2female.stages.3.description>
+  <!--原中文: '获得新生', 原英文: '无' -> 新英文: 'Happy with new self',更新于2026-02-14-->
+  <!--EN: Happy with new self-->
+  <trap2futa.stages.0.label>获得新生</trap2futa.stages.0.label>
+  <!--原中文: '嘁嘁嘁，我现在同时有了最棒的两种性别。', 原英文: '无' -> 新英文: 'Hey, now I have best of both worlds!',更新于2026-02-14-->
+  <!--EN: Hey, now I have best of both worlds!-->
+  <trap2futa.stages.0.description>嘁嘁嘁，我现在同时有了最棒的两种性别。</trap2futa.stages.0.description>
+  <!--原中文: '接受变性', 原英文: '无' -> 新英文: 'Acceptance of sex changes',更新于2026-02-14-->
+  <!--EN: Acceptance of sex changes-->
+  <trap2futa.stages.1.label>接受变性</trap2futa.stages.1.label>
+  <!--原中文: '好吧，至少两种感觉我都有了。', 原英文: '无' -> 新英文: 'Well, now I know both sides.',更新于2026-02-14-->
+  <!--EN: Well, now I know both sides.-->
+  <trap2futa.stages.1.description>好吧，至少两种感觉我都有了。</trap2futa.stages.1.description>
+  <!--原中文: '对变性不满', 原英文: '无' -> 新英文: 'Mild discontent with new gender',更新于2026-02-14-->
+  <!--EN: Mild discontent with new gender-->
+  <trap2futa.stages.2.label>对变性不满</trap2futa.stages.2.label>
+  <!--原中文: '但我应该是个男孩！', 原英文: '无' -> 新英文: 'But I was fine the way I was!',更新于2026-02-14-->
+  <!--EN: But I was fine the way I was!-->
+  <trap2futa.stages.2.description>但我应该是个男孩！</trap2futa.stages.2.description>
+  <!--原中文: '对变性暴怒', 原英文: '无' -> 新英文: 'Furious about transgender surgery',更新于2026-02-14-->
+  <!--EN: Furious about transgender surgery-->
+  <trap2futa.stages.3.label>对变性暴怒</trap2futa.stages.3.label>
+  <!--原中文: '你对我做了什么！', 原英文: '无' -> 新英文: 'What are you doing to me!',更新于2026-02-14-->
+  <!--EN: What are you doing to me!-->
+  <trap2futa.stages.3.description>你对我做了什么！</trap2futa.stages.3.description>
+  <!--原中文: '获得新生', 原英文: '无' -> 新英文: 'Happy without a breast',更新于2026-02-14-->
+  <!--EN: Happy without a breast-->
+  <trap2male.stages.0.label>获得新生</trap2male.stages.0.label>
+  <!--原中文: '这挺有趣的，但别再来一次了。', 原英文: '无' -> 新英文: 'It was an interesting experience. Let's not do that again.',更新于2026-02-14-->
+  <!--EN: It was an interesting experience. Let's not do that again.-->
+  <trap2male.stages.0.description>这挺有趣的，但别再来一次了。</trap2male.stages.0.description>
+  <!--原中文: '为失去乳房而悲伤', 原英文: '无' -> 新英文: 'Sad without a breast',更新于2026-02-14-->
+  <!--EN: Sad without a breast-->
+  <trap2male.stages.1.label>为失去乳房而悲伤</trap2male.stages.1.label>
+  <!--原中文: '噢，它们还在的时候可有意思了...', 原英文: '无' -> 新英文: 'Oh well, it was fun while it lasted.',更新于2026-02-14-->
+  <!--EN: Oh well, it was fun while it lasted.-->
+  <trap2male.stages.1.description>噢，它们还在的时候可有意思了...</trap2male.stages.1.description>
+  <!--原中文: '为失去乳房而不愉快', 原英文: '无' -> 新英文: 'Unhappy without a breast',更新于2026-02-14-->
+  <!--EN: Unhappy without a breast-->
+  <trap2male.stages.2.label>为失去乳房而不愉快</trap2male.stages.2.label>
+  <!--原中文: '说真的，它们现在是我的，我想要它们回来。', 原英文: '无' -> 新英文: 'Seriously, they're mine now. I want them back.',更新于2026-02-14-->
+  <!--EN: Seriously, they're mine now. I want them back.-->
+  <trap2male.stages.2.description>说真的，它们现在是我的，我想要它们回来。</trap2male.stages.2.description>
+  <!--原中文: '为失去乳房而愤怒', 原英文: '无' -> 新英文: 'Furious about breast removal',更新于2026-02-14-->
+  <!--EN: Furious about breast removal-->
+  <trap2male.stages.3.label>为失去乳房而愤怒</trap2male.stages.3.label>
+  <!--原中文: '啊啊！快点！把奶子还给我！！', 原英文: '无' -> 新英文: 'Aww come on! Give them back!',更新于2026-02-14-->
+  <!--EN: Aww come on! Give them back!-->
+  <trap2male.stages.3.description>啊啊！快点！把奶子还给我！！</trap2male.stages.3.description>
+  <!--原中文: '获得新生', 原英文: '无' -> 新英文: 'Happy without a dick',更新于2026-02-14-->
+  <!--EN: Happy without a dick-->
+  <trap2female.stages.0.label>获得新生</trap2female.stages.0.label>
+  <!--原中文: '这挺有趣的，但别再来一次了。', 原英文: '无' -> 新英文: 'It was an interesting experience. Let's not do that again.',更新于2026-02-14-->
+  <!--EN: It was an interesting experience. Let's not do that again.-->
+  <trap2female.stages.0.description>这挺有趣的，但别再来一次了。</trap2female.stages.0.description>
+  <!--原中文: '为失去阴茎而悲伤', 原英文: '无' -> 新英文: 'Sad without a dick',更新于2026-02-14-->
+  <!--EN: Sad without a dick-->
+  <trap2female.stages.1.label>为失去阴茎而悲伤</trap2female.stages.1.label>
+  <!--原中文: '噢，它还在的时候可有意思了……', 原英文: '无' -> 新英文: 'Oh well, time to learn to sit when I pee.',更新于2026-02-14-->
+  <!--EN: Oh well, time to learn to sit when I pee.-->
+  <trap2female.stages.1.description>噢，它还在的时候可有意思了……</trap2female.stages.1.description>
+  <!--原中文: '为失去阴茎而不愉快', 原英文: '无' -> 新英文: 'Unhappy without a dick',更新于2026-02-14-->
+  <!--EN: Unhappy without a dick-->
+  <trap2female.stages.2.label>为失去阴茎而不愉快</trap2female.stages.2.label>
+  <!--原中文: '说真的，它现在是我的，我想要把它弄回去！', 原英文: '无' -> 新英文: 'Seriously, it is mine. I want it back.',更新于2026-02-14-->
+  <!--EN: Seriously, it is mine. I want it back.-->
+  <trap2female.stages.2.description>说真的，它现在是我的，我想要把它弄回去！</trap2female.stages.2.description>
+  <!--原中文: '为失去阴茎而愤怒', 原英文: '无' -> 新英文: 'Furious about dick removal',更新于2026-02-14-->
+  <!--EN: Furious about dick removal-->
+  <trap2female.stages.3.label>为失去阴茎而愤怒</trap2female.stages.3.label>
+  <!--原中文: '啊啊！快点！它还给我！！', 原英文: '无' -> 新英文: 'Aww come on! Give it back!',更新于2026-02-14-->
+  <!--EN: Aww come on! Give it back!-->
+  <trap2female.stages.3.description>啊啊！快点！它还给我！！</trap2female.stages.3.description>
+  <!--知名梗：能对着Trap（女装大佬、画女偏说男）撸的你就是Gay。-->
+  <!--但在RJW里Trap指的是变性人。-->
+</LanguageData>

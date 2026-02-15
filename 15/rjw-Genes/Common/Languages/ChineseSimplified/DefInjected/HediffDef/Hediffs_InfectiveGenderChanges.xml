@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <rjw_genes_feminization_progress.label>女性化</rjw_genes_feminization_progress.label>
+  <rjw_genes_feminization_progress.description>某些东西正在改变这个 pawn -有机会发展女性特征关于性。</rjw_genes_feminization_progress.description>
+  <rjw_genes_feminization_progress.stages.0.label>可以忽略不计</rjw_genes_feminization_progress.stages.0.label>
+  <rjw_genes_feminization_progress.stages.1.label>轻微</rjw_genes_feminization_progress.stages.1.label>
+  <rjw_genes_feminization_progress.stages.2.label>严重</rjw_genes_feminization_progress.stages.2.label>
+  <rjw_genes_feminization_progress.stages.3.label>严重</rjw_genes_feminization_progress.stages.3.label>
+
+  <rjw_genes_twinkification_progress.label>双胞胎化</rjw_genes_twinkification_progress.label>
+  <rjw_genes_twinkification_progress.description>有东西正在改变这个棋子 -有机会变成一个可爱的，可在性交时繁殖双胞胎。</rjw_genes_twinkification_progress.description>
+  <rjw_genes_twinkification_progress.stages.0.label>可以忽略不计</rjw_genes_twinkification_progress.stages.0.label>
+  <rjw_genes_twinkification_progress.stages.1.label>次要</rjw_genes_twinkification_progress.stages.1.label>
+  <rjw_genes_twinkification_progress.stages.2.label>严重</rjw_genes_twinkification_progress.stages.2.label>
+  <rjw_genes_twinkification_progress.stages.3.label>严重</rjw_genes_twinkification_progress.stages.3.label>
+
+
+</LanguageData>

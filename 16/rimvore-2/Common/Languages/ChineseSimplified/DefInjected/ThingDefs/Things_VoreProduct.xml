@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: This sack contains nutritious soil and can be used to build fertilized soil.-->
+  <RV2_Manufactured_Fertilizer.description>这个袋子装有营养丰富的土壤，可以用来建造受精的土壤。</RV2_Manufactured_Fertilizer.description>
+  <!--EN: Fertilizer-->
+  <RV2_Manufactured_Fertilizer.label>肥料</RV2_Manufactured_Fertilizer.label>
+  <!--EN: The acid-bleached bones of a digested living being.\nYou can make fertilizer out of this at a crafting spot.-->
+  <RV2_Resource_Bones.description>被酸蚀过的活人的骨头。
+你可以在手工加工点制作肥料。</RV2_Resource_Bones.description>
+  <!--EN: Bones-->
+  <RV2_Resource_Bones.label>骷髅</RV2_Resource_Bones.label>
+  <!--EN: What was once a living being, rendered into delicious cum.\nDrinkable.-->
+  <RV2_Resource_Cum.description>曾经是什么生物，呈现为美味精液
+可饮用的。</RV2_Resource_Cum.description>
+  <!--EN: Cummified pawn-->
+  <RV2_Resource_Cum.label>损坏pawn</RV2_Resource_Cum.label>
+  <!--EN: What was once a living being, rendered into delicious milk.\Drinkable.-->
+  <RV2_Resource_Milk.description>曾经是生物的东西，被制成美味的牛奶。\ n 可饮用。</RV2_Resource_Milk.description>
+  <!--EN: Milkified pawn-->
+  <RV2_Resource_Milk.label>收取pawn</RV2_Resource_Milk.label>
+  <!--EN: The reeking remnants of a digested living being.\nYou can make fertilizer out of this at a crafting spot.-->
+  <RV2_Resource_Scat.description>被消化的生物残存的恶臭。
+你可以在手工加工点制作肥料。</RV2_Resource_Scat.description>
+  <!--EN: Scat-->
+  <RV2_Resource_Scat.label>粪便💩</RV2_Resource_Scat.label>
+</LanguageData>

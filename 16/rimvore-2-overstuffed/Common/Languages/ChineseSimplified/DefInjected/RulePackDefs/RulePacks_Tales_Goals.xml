@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+  <RV2_Goal_Amalgamate.rulePack.rulesStrings.0>extraSentencePack->[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</RV2_Goal_Amalgamate.rulePack.rulesStrings.0>
+  <!--EN: RV2_addendum->to make [PREY_definite] a part of [PREDATOR_definite] for a bit-->
+  <RV2_Goal_Amalgamate.rulePack.rulesStrings.1>RV2_addendum->制作[PREY_definite]所属[PREDATOR_definite]一段时间</RV2_Goal_Amalgamate.rulePack.rulesStrings.1>
+  <!--EN: RV2_goalFinish_verb->amalgamating-->
+  <RV2_Goal_Amalgamate.rulePack.rulesStrings.2>RV2_goalFinish_verb->合并</RV2_Goal_Amalgamate.rulePack.rulesStrings.2>
+  <!--EN: RV2_goalFinish_noun->amalgamation-->
+  <RV2_Goal_Amalgamate.rulePack.rulesStrings.3>RV2_goalFinish_noun->合并</RV2_Goal_Amalgamate.rulePack.rulesStrings.3>
+  <!--EN: RV2_goalFinish_image->[PREY_definite] has temporarily become a part of [PREDATOR_definite].-->
+  <RV2_Goal_Amalgamate.rulePack.rulesStrings.4>RV2_goalFinish_image->[PREY_definite]已暂时成为[PREDATOR_definite]</RV2_Goal_Amalgamate.rulePack.rulesStrings.4>
+  <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+  <RV2_Goal_Assimilate.rulePack.rulesStrings.0>extraSentencePack->[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</RV2_Goal_Assimilate.rulePack.rulesStrings.0>
+  <!--EN: RV2_addendum->to make [PREY_definite] a part of [PREDATOR_definite]-->
+  <RV2_Goal_Assimilate.rulePack.rulesStrings.1>RV2_addendum->制作[PREY_definite]所属[PREDATOR_definite]</RV2_Goal_Assimilate.rulePack.rulesStrings.1>
+  <!--EN: RV2_goalFinish_verb->assimilating-->
+  <RV2_Goal_Assimilate.rulePack.rulesStrings.2>RV2_goalFinish_verb->正在同化</RV2_Goal_Assimilate.rulePack.rulesStrings.2>
+  <!--EN: RV2_goalFinish_noun->assimilation-->
+  <RV2_Goal_Assimilate.rulePack.rulesStrings.3>RV2_goalFinish_noun->同化</RV2_Goal_Assimilate.rulePack.rulesStrings.3>
+  <!--EN: RV2_goalFinish_image->[PREY_definite] has become a part of [PREDATOR_definite].-->
+  <RV2_Goal_Assimilate.rulePack.rulesStrings.4>RV2_goalFinish_image->[PREY_definite]已成为[PREDATOR_definite]</RV2_Goal_Assimilate.rulePack.rulesStrings.4>
+  <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.0>extraSentencePack->[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.0>
+  <!--EN: RV2_addendum->to convert into chemfuel-->
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.1>RV2_addendum->转化为化合燃料</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.1>
+  <!--EN: RV2_goalFinish_desc_sentence->[PREY_definite] has turned into [RV2_goalProduct].-->
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.10>RV2_goalFinish_desc_sentence->[PREY_definite]已变成[RV2_goalProduct]</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.10>
+  <!--EN: RV2_goalFinish_desc_sentence->Nothing identifiable remains of [PREY_definite].-->
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.11>RV2_goalFinish_desc_sentence->没有可识别的残骸[PREY_definite]</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.11>
+  <!--EN: RV2_adverb->industriously-->
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.2>RV2_adverb->努力工作</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.2>
+  <!--EN: RV2_adjective->industrious-->
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.3>RV2_adjective->工作狂</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.3>
+  <!--EN: RV2_goalProduct->a jerry can of fuel-->
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.4>RV2_goalProduct->一罐燃料</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.4>
+  <!--EN: RV2_goalProduct->chemfuel-->
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.5>RV2_goalProduct->化合燃料</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.5>
+  <!--EN: RV2_goalFinish_verb->converting into [RV2_goalProduct]-->
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.6>RV2_goalFinish_verb->教化为[RV2_goalProduct]</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.6>
+  <!--EN: RV2_goalFinish_noun->conversion into [RV2_goalProduct]-->
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.7>RV2_goalFinish_noun->教化为[RV2_goalProduct]</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.7>
+  <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] turning into [RV2_goalProduct]-->
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.8>RV2_goalFinish_tale_noun->[PREY_definite]变成[RV2_goalProduct]</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.8>
+  <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] turning into [RV2_goalProduct] inside of [PREDATOR_definite]-->
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.9>RV2_goalFinish_tale_noun->[PREY_definite]变成[RV2_goalProduct]位于[PREDATOR_definite]</RV2_Goal_ConvertChemfuel.rulePack.rulesStrings.9>
+  <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+  <RV2_Goal_ConvertEggs.rulePack.rulesStrings.0>extraSentencePack->[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</RV2_Goal_ConvertEggs.rulePack.rulesStrings.0>
+  <!--EN: RV2_addendum->to convert into eggs-->
+  <RV2_Goal_ConvertEggs.rulePack.rulesStrings.1>RV2_addendum->将卵转化为卵</RV2_Goal_ConvertEggs.rulePack.rulesStrings.1>
+  <!--EN: RV2_adverb->motherly-->
+  <RV2_Goal_ConvertEggs.rulePack.rulesStrings.2>RV2_adverb->慈母</RV2_Goal_ConvertEggs.rulePack.rulesStrings.2>
+  <!--EN: RV2_goalFinish_verb->converting into eggs-->
+  <RV2_Goal_ConvertEggs.rulePack.rulesStrings.3>RV2_goalFinish_verb->转化为卵</RV2_Goal_ConvertEggs.rulePack.rulesStrings.3>
+  <!--EN: RV2_goalFinish_noun->conversion into eggs-->
+  <RV2_Goal_ConvertEggs.rulePack.rulesStrings.4>RV2_goalFinish_noun->教化为卵</RV2_Goal_ConvertEggs.rulePack.rulesStrings.4>
+  <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.0>extraSentencePack->[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</RV2_Goal_ConvertUrine.rulePack.rulesStrings.0>
+  <!--EN: RV2_goalProduct->piss-->
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.1>RV2_goalProduct->尿</RV2_Goal_ConvertUrine.rulePack.rulesStrings.1>
+  <!--EN: RV2_goalProduct->pee-->
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.2>RV2_goalProduct->撒尿</RV2_Goal_ConvertUrine.rulePack.rulesStrings.2>
+  <!--EN: RV2_goalProduct->urine-->
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.3>RV2_goalProduct->尿</RV2_Goal_ConvertUrine.rulePack.rulesStrings.3>
+  <!--EN: RV2_addendum->to convert into [RV2_goalProduct]-->
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.4>RV2_addendum->将教化为[RV2_goalProduct]</RV2_Goal_ConvertUrine.rulePack.rulesStrings.4>
+  <!--EN: RV2_goalFinish_verb->converting into [RV2_goalProduct]-->
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.5>RV2_goalFinish_verb->教化为[RV2_goalProduct]</RV2_Goal_ConvertUrine.rulePack.rulesStrings.5>
+  <!--EN: RV2_goalFinish_noun->conversion into [RV2_goalProduct]-->
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings.6>RV2_goalFinish_noun->教化为[RV2_goalProduct]</RV2_Goal_ConvertUrine.rulePack.rulesStrings.6>
+</LanguageData>

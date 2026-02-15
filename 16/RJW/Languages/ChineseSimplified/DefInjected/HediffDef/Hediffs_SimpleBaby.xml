@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '儿童成长状态', 原英文: '无' -> 新英文: 'child is growing',更新于2026-02-14-->
+  <!--EN: child is growing-->
+  <RJW_BabyState.label>儿童成长状态</RJW_BabyState.label>
+  <!--原中文: '成长中的孩子。', 原英文: '无' -> 新英文: 'A growing child.',更新于2026-02-14-->
+  <!--EN: A growing child.-->
+  <RJW_BabyState.description>成长中的孩子。</RJW_BabyState.description>
+  <!--原中文: '婴儿', 原英文: '无' -> 新英文: 'baby',更新于2026-02-14-->
+  <!--EN: baby-->
+  <RJW_BabyState.stages.0.label>婴儿</RJW_BabyState.stages.0.label>
+  <!--原中文: '幼儿', 原英文: '无' -> 新英文: 'toddler',更新于2026-02-14-->
+  <!--EN: toddler-->
+  <RJW_BabyState.stages.1.label>幼儿</RJW_BabyState.stages.1.label>
+  <!--原中文: '儿童', 原英文: '无' -> 新英文: 'child',更新于2026-02-14-->
+  <!--EN: child-->
+  <RJW_BabyState.stages.2.label>儿童</RJW_BabyState.stages.2.label>
+  <!-- This only exists separately from BabyState to get around a bug making children drop their weapons on savegame load. -->
+  <!--原中文: '太年轻无法胜任工作', 原英文: '无' -> 新英文: 'Too young to work',更新于2026-02-14-->
+  <!--EN: Too young to work-->
+  <RJW_NoManipulationFlag.label>太年轻无法胜任工作</RJW_NoManipulationFlag.label>
+  <!--原中文: '太年轻无法胜任工作。', 原英文: '无' -> 新英文: 'Too young to work.',更新于2026-02-14-->
+  <!--EN: Too young to work.-->
+  <RJW_NoManipulationFlag.description>太年轻无法胜任工作。</RJW_NoManipulationFlag.description>
+</LanguageData>

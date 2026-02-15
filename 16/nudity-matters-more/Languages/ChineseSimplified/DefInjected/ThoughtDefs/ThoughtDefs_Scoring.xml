@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These people know my body better than I do.-->
+  <ExhibScoreHigh.stages.0.description>这些人比我自己还要了解我的身体。</ExhibScoreHigh.stages.0.description>
+  <!--EN: exhibitionist thrilled-->
+  <ExhibScoreHigh.stages.0.label>裸露癖兴奋不已</ExhibScoreHigh.stages.0.label>
+  <!--EN: That was kind of exciting.-->
+  <ExhibScoreLow.stages.0.description>刚才有点刺激。</ExhibScoreLow.stages.0.description>
+  <!--EN: exhibitionist amused-->
+  <ExhibScoreLow.stages.0.label>裸露癖兴致盎然</ExhibScoreLow.stages.0.label>
+  <!--EN: I've gotten some thrills lately.-->
+  <ExhibScoreMid.stages.0.description>最近我得到了些许刺激。</ExhibScoreMid.stages.0.description>
+  <!--EN: exhibitionist pleased-->
+  <ExhibScoreMid.stages.0.label>裸露癖心满意足</ExhibScoreMid.stages.0.label>
+  <!--EN: I just want someone to see me naked.-->
+  <ExhibScoreNone.stages.0.description>我只想有人看见我赤裸的样子。</ExhibScoreNone.stages.0.description>
+  <!--EN: exhibitionist frustrated-->
+  <ExhibScoreNone.stages.0.label>裸露癖郁郁寡欢</ExhibScoreNone.stages.0.label>
+  <!--EN: This is unimaginable.-->
+  <PrudeScoreHigh.stages.0.description>这简直难以想象。</PrudeScoreHigh.stages.0.description>
+  <!--EN: modesty stripped-->
+  <PrudeScoreHigh.stages.0.label>羞耻心被剥离</PrudeScoreHigh.stages.0.label>
+  <!--EN: I feel kind of sick.-->
+  <PrudeScoreLow.stages.0.description>我感到有些恶心。</PrudeScoreLow.stages.0.description>
+  <!--EN: modesty breached-->
+  <PrudeScoreLow.stages.0.label>羞耻心被突破</PrudeScoreLow.stages.0.label>
+  <!--EN: People have seen things I don't want them to see.-->
+  <PrudeScoreMid.stages.0.description>人们看到了我不想让他们看到的东西。</PrudeScoreMid.stages.0.description>
+  <!--EN: modesty compromised-->
+  <PrudeScoreMid.stages.0.label>羞耻心受损害</PrudeScoreMid.stages.0.label>
+  <!--EN: I'm in control of my body right now.-->
+  <PrudeScoreNone.stages.0.description>此刻我能掌控自己的身体。</PrudeScoreNone.stages.0.description>
+  <!--EN: modesty intact-->
+  <PrudeScoreNone.stages.0.label>羞耻心未受侵扰</PrudeScoreNone.stages.0.label>
+  <!--EN: This is heaven.-->
+  <VoyScoreHigh.stages.0.description>此乃天堂。</VoyScoreHigh.stages.0.description>
+  <!--EN: voyeur thrilled-->
+  <VoyScoreHigh.stages.0.label>窥视癖兴奋不已</VoyScoreHigh.stages.0.label>
+  <!--EN: That was unexpected.-->
+  <VoyScoreLow.stages.0.description>真是意想不到。</VoyScoreLow.stages.0.description>
+  <!--EN: voyeur pleased-->
+  <VoyScoreLow.stages.0.label>窥视癖心满意足</VoyScoreLow.stages.0.label>
+  <!--EN: I'm really enjoying this colony.-->
+  <VoyScoreMid.stages.0.description>我真的很享受这个殖民地的生活。</VoyScoreMid.stages.0.description>
+  <!--EN: voyeur pleased-->
+  <VoyScoreMid.stages.0.label>窥视癖心满意足</VoyScoreMid.stages.0.label>
+  <!--EN: Everyone's so buttoned up.-->
+  <VoyScoreNone.stages.0.description>每个人都这么拘谨保守。</VoyScoreNone.stages.0.description>
+  <!--EN: voyeur frustrated-->
+  <VoyScoreNone.stages.0.label>窥视癖郁郁寡欢</VoyScoreNone.stages.0.label>
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Gendered preyism-->
+  <RV2_GenderedPreyism.label>性别捕食主义</RV2_GenderedPreyism.label>
+  <!--EN: Only females may be predators.-->
+  <RV2_GenderedPreyism_FemaleOnly.description>只有雌性可能是捕食者。</RV2_GenderedPreyism_FemaleOnly.description>
+  <!--EN: female predators only-->
+  <RV2_GenderedPreyism_FemaleOnly.label>仅限雌性捕食者</RV2_GenderedPreyism_FemaleOnly.label>
+  <!--EN: Females should be predators.-->
+  <RV2_GenderedPreyism_FemalePreferred.description>雌性应该是捕食者。</RV2_GenderedPreyism_FemalePreferred.description>
+  <!--EN: female predators encouraged-->
+  <RV2_GenderedPreyism_FemalePreferred.label>鼓励雌性肉食动物</RV2_GenderedPreyism_FemalePreferred.label>
+  <!--EN: Only males may be predators.-->
+  <RV2_GenderedPreyism_MaleOnly.description>只有雄性可能是捕食者。</RV2_GenderedPreyism_MaleOnly.description>
+  <!--EN: male predators only-->
+  <RV2_GenderedPreyism_MaleOnly.label>仅限雄性捕食者</RV2_GenderedPreyism_MaleOnly.label>
+  <!--EN: Males should be predators.-->
+  <RV2_GenderedPreyism_MalePreferred.description>雄性应该是捕食者。</RV2_GenderedPreyism_MalePreferred.description>
+  <!--EN: male predators encouraged-->
+  <RV2_GenderedPreyism_MalePreferred.label>鼓励雄性肉食动物</RV2_GenderedPreyism_MalePreferred.label>
+</LanguageData>

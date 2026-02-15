@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Consumable item -->
+  <!--原中文: '驼峰菇回味', 原英文: '无' -> 新英文: 'Humpshroom aftertaste',更新于2026-02-14-->
+  <!--EN: Humpshroom aftertaste-->
+  <HumpShroomEffect.stages.0.label>驼峰菇回味</HumpShroomEffect.stages.0.label>
+  <!--原中文: '这味道太有意思了。', 原英文: '无' -> 新英文: 'Tastes funny.',更新于2026-02-14-->
+  <!--EN: Tastes funny.-->
+  <HumpShroomEffect.stages.0.description>这味道太有意思了。</HumpShroomEffect.stages.0.description>
+  <!-- Ambrosia addiction -->
+  <!--原中文: '驼峰菇渴求', 原英文: '无' -> 新英文: 'humpshroom withdrawal',更新于2026-02-14-->
+  <!--EN: humpshroom withdrawal-->
+  <HumpShroomWithdrawal.stages.1.label>驼峰菇渴求</HumpShroomWithdrawal.stages.1.label>
+  <!--原中文: '我下面什么都感觉不到。', 原英文: '无' -> 新英文: 'I just feel nothing down there.',更新于2026-02-14-->
+  <!--EN: I just feel nothing down there.-->
+  <HumpShroomWithdrawal.stages.1.description>我下面什么都感觉不到。</HumpShroomWithdrawal.stages.1.description>
+</LanguageData>

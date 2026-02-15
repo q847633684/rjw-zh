@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '钉臂', 原英文: '无' -> 新英文: 'peg arm',更新于2026-02-14-->
+  <!--EN: peg arm-->
+  <PegArm.label>钉臂</PegArm.label>
+  <!--原中文: '钉臂。', 原英文: '无' -> 新英文: 'A peg arm.',更新于2026-02-14-->
+  <!--EN: A peg arm.-->
+  <PegArm.description>钉臂。</PegArm.description>
+  <!--原中文: '钉臂', 原英文: '无' -> 新英文: 'a peg arm',更新于2026-02-14-->
+  <!--EN: a peg arm-->
+  <PegArm.labelNoun>钉臂</PegArm.labelNoun>
+</LanguageData>

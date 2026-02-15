@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Oh that feels weird-->
+  <RV2_PreyStruggling.stages.0.description>哦，感觉很奇怪</RV2_PreyStruggling.stages.0.description>
+  <!--EN: Struggling prey-->
+  <RV2_PreyStruggling.stages.0.label>挣扎中的猎物</RV2_PreyStruggling.stages.0.label>
+  <!--EN: Feels like a bad belly ache...-->
+  <RV2_PreyStruggling.stages.1.description>肚子疼...</RV2_PreyStruggling.stages.1.description>
+  <!--EN: Multiple struggling prey-->
+  <RV2_PreyStruggling.stages.1.label>多个挣扎中的猎物</RV2_PreyStruggling.stages.1.label>
+  <!--EN: What a horrible feeling-->
+  <RV2_PreyStruggling_Hated.stages.0.description>多么可怕的感觉</RV2_PreyStruggling_Hated.stages.0.description>
+  <!--EN: Struggling prey-->
+  <RV2_PreyStruggling_Hated.stages.0.label>挣扎中的猎物</RV2_PreyStruggling_Hated.stages.0.label>
+  <!--EN: This disgusting feeling, make it stop! Please!-->
+  <RV2_PreyStruggling_Hated.stages.1.description>这种恶心的感觉，来吧停止不!求求你了!</RV2_PreyStruggling_Hated.stages.1.description>
+  <!--EN: Multiple struggling prey-->
+  <RV2_PreyStruggling_Hated.stages.1.label>多个挣扎中的猎物</RV2_PreyStruggling_Hated.stages.1.label>
+  <!--EN: That feels wonderful-->
+  <RV2_PreyStruggling_Loved.stages.0.description>美妙的感觉</RV2_PreyStruggling_Loved.stages.0.description>
+  <!--EN: Struggling prey-->
+  <RV2_PreyStruggling_Loved.stages.0.label>挣扎中的猎物</RV2_PreyStruggling_Loved.stages.0.label>
+  <!--EN: Yes! Keep wiggling around in there!-->
+  <RV2_PreyStruggling_Loved.stages.1.description>是的!在里面继续扭动!</RV2_PreyStruggling_Loved.stages.1.description>
+  <!--EN: Multiple struggling prey-->
+  <RV2_PreyStruggling_Loved.stages.1.label>多个挣扎中的猎物</RV2_PreyStruggling_Loved.stages.1.label>
+</LanguageData>

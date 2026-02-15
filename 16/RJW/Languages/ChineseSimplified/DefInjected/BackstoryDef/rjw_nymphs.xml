@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '[PAWN_nameDef]被塑造成一个性爱玩具、而非作为人类长大。在[PAWN_possessive]成长期中，[PAWN_pronoun]被灌输了很多与性爱有关的技能和社交技能，以满足其主人的需求。', 原英文: '无' -> 新英文: '[PAWN_nameDef] was made to be a sex toy, rather than a human. During [PAWN_possessive] growing period, [PAWN_pronoun] was taught plenty of social and sex related skills to satisfy any demands of its owners.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] was made to be a sex toy, rather than a human. During [PAWN_possessive] growing period, [PAWN_pronoun] was taught plenty of social and sex related skills to satisfy any demands of its owners.-->
+  <rjw_vatgrown_sex_slave.description>[PAWN_nameDef]被塑造成一个性爱玩具、而非作为人类长大。在[PAWN_possessive]成长期中，[PAWN_pronoun]被灌输了很多与性爱有关的技能和社交技能，以满足其主人的需求。</rjw_vatgrown_sex_slave.description>
+  <!--原中文: '[PAWN_nameDef]被塑造成一个性爱玩具、而非作为人类长大。在[PAWN_possessive]成长期中，[PAWN_pronoun]被灌输了很多与性爱有关的技能和社交技能，以满足其主人的需求。', 原英文: '无' -> 新英文: '[PAWN_nameDef] was made to be a sex toy, rather than a human. During [PAWN_possessive] growing period, [PAWN_pronoun] was taught plenty of social and sex related skills to satisfy any demands of its owners.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] was made to be a sex toy, rather than a human. During [PAWN_possessive] growing period, [PAWN_pronoun] was taught plenty of social and sex related skills to satisfy any demands of its owners.-->
+  <rjw_vatgrown_sex_slave.baseDesc>[PAWN_nameDef]被塑造成一个性爱玩具、而非作为人类长大。在[PAWN_possessive]成长期中，[PAWN_pronoun]被灌输了很多与性爱有关的技能和社交技能，以满足其主人的需求。</rjw_vatgrown_sex_slave.baseDesc>
+  <!--原中文: '人造人性奴', 原英文: '无' -> 新英文: 'Vat-Grown Sex Slave',更新于2026-02-14-->
+  <!--EN: Vat-Grown Sex Slave-->
+  <rjw_vatgrown_sex_slave.title>人造人性奴</rjw_vatgrown_sex_slave.title>
+  <!--原中文: '性奴', 原英文: '无' -> 新英文: 'Sex Slave',更新于2026-02-14-->
+  <!--EN: Sex Slave-->
+  <rjw_vatgrown_sex_slave.titleShort>性奴</rjw_vatgrown_sex_slave.titleShort>
+  <!--原中文: '[PAWN_nameDef]生来便渴望征服，若是你在[PAWN_pronoun]索求时敢说不，便会对你重拳出击。', 原英文: '无' -> 新英文: '[PAWN_nameDef] is a conqueror by nature and will punch you in a face if you try to say "No" to [PAWN_possessive] advances.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] is a conqueror by nature and will punch you in a face if you try to say "No" to [PAWN_possessive] advances.-->
+  <rjw_feisty.description>[PAWN_nameDef]生来便渴望征服，若是你在[PAWN_pronoun]索求时敢说不，便会对你重拳出击。</rjw_feisty.description>
+  <!--原中文: '[PAWN_nameDef]生来便渴望征服，若是你在[PAWN_pronoun]索求时敢说不，便会对你重拳出击。', 原英文: '无' -> 新英文: '[PAWN_nameDef] is a conqueror by nature and will punch you in a face if you try to say "No" to [PAWN_possessive] advances.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] is a conqueror by nature and will punch you in a face if you try to say "No" to [PAWN_possessive] advances.-->
+  <rjw_feisty.baseDesc>[PAWN_nameDef]生来便渴望征服，若是你在[PAWN_pronoun]索求时敢说不，便会对你重拳出击。</rjw_feisty.baseDesc>
+  <!--原中文: '活泼流莺', 原英文: '无' -> 新英文: 'Feisty Nymph',更新于2026-02-14-->
+  <!--EN: Feisty Nymph-->
+  <rjw_feisty.title>活泼流莺</rjw_feisty.title>
+  <!--原中文: '流莺', 原英文: '无' -> 新英文: 'Nymph',更新于2026-02-14-->
+  <!--EN: Nymph-->
+  <rjw_feisty.titleShort>流莺</rjw_feisty.titleShort>
+  <!--原中文: '[PAWN_nameDef]喜欢制造各种东西，尤其是能提供新鲜体验的东西。', 原英文: '无' -> 新英文: '[PAWN_nameDef] loves crafting various things, especially things that provide new experiences.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] loves crafting various things, especially things that provide new experiences.-->
+  <rjw_curious.description>[PAWN_nameDef]喜欢制造各种东西，尤其是能提供新鲜体验的东西。</rjw_curious.description>
+  <!--原中文: '[PAWN_nameDef]喜欢制造各种东西，尤其是能提供新鲜体验的东西。', 原英文: '无' -> 新英文: '[PAWN_nameDef] loves crafting various things, especially things that provide new experiences.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] loves crafting various things, especially things that provide new experiences.-->
+  <rjw_curious.baseDesc>[PAWN_nameDef]喜欢制造各种东西，尤其是能提供新鲜体验的东西。</rjw_curious.baseDesc>
+  <!--原中文: '好奇流莺', 原英文: '无' -> 新英文: 'Curious Nymph',更新于2026-02-14-->
+  <!--EN: Curious Nymph-->
+  <rjw_curious.title>好奇流莺</rjw_curious.title>
+  <!--原中文: '流莺', 原英文: '无' -> 新英文: 'Nymph',更新于2026-02-14-->
+  <!--EN: Nymph-->
+  <rjw_curious.titleShort>流莺</rjw_curious.titleShort>
+  <!--原中文: '[PAWN_nameDef]有着一双动人的眼睛，并且[PAWN_possessive]的声音绵软甜美。由于[PAWN_pronoun]之前从事的护士工作，[PAWN_pronoun]可以很好的照料人们。', 原英文: '无' -> 新英文: '[PAWN_nameDef] has a pair of charming eyes, and [PAWN_possessive] voice is soft and sweet. Due to [PAWN_possessive] previous nurse job, [PAWN_pronoun] tends people quite well.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] has a pair of charming eyes, and [PAWN_possessive] voice is soft and sweet. Due to [PAWN_possessive] previous nurse job, [PAWN_pronoun] tends people quite well.-->
+  <rjw_tender.description>[PAWN_nameDef]有着一双动人的眼睛，并且[PAWN_possessive]的声音绵软甜美。由于[PAWN_pronoun]之前从事的护士工作，[PAWN_pronoun]可以很好的照料人们。</rjw_tender.description>
+  <!--原中文: '[PAWN_nameDef]有着一双动人的眼睛，并且[PAWN_possessive]的声音绵软甜美。由于[PAWN_pronoun]之前从事的护士工作，[PAWN_pronoun]可以很好的照料人们。', 原英文: '无' -> 新英文: '[PAWN_nameDef] has a pair of charming eyes, and [PAWN_possessive] voice is soft and sweet. Due to [PAWN_possessive] previous nurse job, [PAWN_pronoun] tends people quite well.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] has a pair of charming eyes, and [PAWN_possessive] voice is soft and sweet. Due to [PAWN_possessive] previous nurse job, [PAWN_pronoun] tends people quite well.-->
+  <rjw_tender.baseDesc>[PAWN_nameDef]有着一双动人的眼睛，并且[PAWN_possessive]的声音绵软甜美。由于[PAWN_pronoun]之前从事的护士工作，[PAWN_pronoun]可以很好的照料人们。</rjw_tender.baseDesc>
+  <!--原中文: '温婉流莺', 原英文: '无' -> 新英文: 'Tender Nymph',更新于2026-02-14-->
+  <!--EN: Tender Nymph-->
+  <rjw_tender.title>温婉流莺</rjw_tender.title>
+  <!--原中文: '流莺', 原英文: '无' -> 新英文: 'Nymph',更新于2026-02-14-->
+  <!--EN: Nymph-->
+  <rjw_tender.titleShort>流莺</rjw_tender.titleShort>
+  <!--原中文: '没有人比[PAWN_nameDef]更能言善道。[PAWN_pronoun]有着灵活的舌头、敏锐的头脑和炙热的双唇。', 原英文: '无' -> 新英文: 'No one can be more loquacious than [PAWN_nameDef]. [PAWN_pronoun] has a flexible tongue, a sharp mind, and hot lips.',更新于2026-02-14-->
+  <!--EN: No one can be more loquacious than [PAWN_nameDef]. [PAWN_pronoun] has a flexible tongue, a sharp mind, and hot lips.-->
+  <rjw_chatty.description>没有人比[PAWN_nameDef]更能言善道。[PAWN_pronoun]有着灵活的舌头、敏锐的头脑和炙热的双唇。</rjw_chatty.description>
+  <!--原中文: '没有人比[PAWN_nameDef]更能言善道。[PAWN_pronoun]有着灵活的舌头、敏锐的头脑和炙热的双唇。', 原英文: '无' -> 新英文: 'No one can be more loquacious than [PAWN_nameDef]. [PAWN_pronoun] has a flexible tongue, a sharp mind, and hot lips.',更新于2026-02-14-->
+  <!--EN: No one can be more loquacious than [PAWN_nameDef]. [PAWN_pronoun] has a flexible tongue, a sharp mind, and hot lips.-->
+  <rjw_chatty.baseDesc>没有人比[PAWN_nameDef]更能言善道。[PAWN_pronoun]有着灵活的舌头、敏锐的头脑和炙热的双唇。</rjw_chatty.baseDesc>
+  <!--原中文: '健谈流莺', 原英文: '无' -> 新英文: 'Chatty Nymph',更新于2026-02-14-->
+  <!--EN: Chatty Nymph-->
+  <rjw_chatty.title>健谈流莺</rjw_chatty.title>
+  <!--原中文: '流莺', 原英文: '无' -> 新英文: 'Nymph',更新于2026-02-14-->
+  <!--EN: Nymph-->
+  <rjw_chatty.titleShort>流莺</rjw_chatty.titleShort>
+  <!--原中文: '[PAWN_nameDef]经历了一些可怕的事情，[PAWN_pronoun]看起来相当憔悴。', 原英文: '无' -> 新英文: '[PAWN_nameDef] suffered some terrible things, [PAWN_pronoun] looks rather emaciated.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] suffered some terrible things, [PAWN_pronoun] looks rather emaciated.-->
+  <rjw_broken.description>[PAWN_nameDef]经历了一些可怕的事情，[PAWN_pronoun]看起来相当憔悴。</rjw_broken.description>
+  <!--原中文: '[PAWN_nameDef]经历了一些可怕的事情，[PAWN_pronoun]看起来相当憔悴。', 原英文: '无' -> 新英文: '[PAWN_nameDef] suffered some terrible things, [PAWN_pronoun] looks rather emaciated.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] suffered some terrible things, [PAWN_pronoun] looks rather emaciated.-->
+  <rjw_broken.baseDesc>[PAWN_nameDef]经历了一些可怕的事情，[PAWN_pronoun]看起来相当憔悴。</rjw_broken.baseDesc>
+  <!--原中文: '崩坏流莺', 原英文: '无' -> 新英文: 'Broken Nymph',更新于2026-02-14-->
+  <!--EN: Broken Nymph-->
+  <rjw_broken.title>崩坏流莺</rjw_broken.title>
+  <!--原中文: '流莺', 原英文: '无' -> 新英文: 'Nymph',更新于2026-02-14-->
+  <!--EN: Nymph-->
+  <rjw_broken.titleShort>流莺</rjw_broken.titleShort>
+  <!--过时key，需删除-->
+  <rjw_homekeeper.description>[PAWN_nameDef]接受过管家的训练。你想要先吃饭？先洗澡？还是……先吃[PAWN_pronoun]？</rjw_homekeeper.description>
+  <!--原中文: '[PAWN_nameDef]接受过管家的训练。你想要先吃饭？先洗澡？还是……先吃[PAWN_pronoun]？', 原英文: '无' -> 新英文: '[PAWN_nameDef] was trained to be a housekeeper. Would you like dinner? A bath? Or perhaps...[PAWN_possessive]?.',更新于2026-02-14-->
+  <!--EN: [PAWN_nameDef] was trained to be a housekeeper. Would you like dinner? A bath? Or perhaps...[PAWN_possessive]?.-->
+  <rjw_homekeeper.baseDesc>[PAWN_nameDef]接受过管家的训练。你想要先吃饭？先洗澡？还是……先吃[PAWN_pronoun]？</rjw_homekeeper.baseDesc>
+  <!--原中文: '管家流莺', 原英文: '无' -> 新英文: 'Homekeeper Nymph',更新于2026-02-14-->
+  <!--EN: Homekeeper Nymph-->
+  <rjw_homekeeper.title>管家流莺</rjw_homekeeper.title>
+  <!--原中文: '流莺', 原英文: '无' -> 新英文: 'Nymph',更新于2026-02-14-->
+  <!--EN: Nymph-->
+  <rjw_homekeeper.titleShort>流莺</rjw_homekeeper.titleShort>
+  <!-- 我的上帝啊，这里必须用description，否则就不能正确显示！ -->
+</LanguageData>

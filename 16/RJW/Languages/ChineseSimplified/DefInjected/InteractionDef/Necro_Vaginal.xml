@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '强迫性交', 原英文: '无' -> 新英文: 'vaginal',更新于2026-02-14-->
+  <!--EN: vaginal-->
+  <Necro_Vaginal.label>强迫性交</Necro_Vaginal.label>
+  <!--原中文: '强迫性交', 原英文: '无' -> 新英文: 'Fuck vaginally',更新于2026-02-14-->
+  <!--EN: Fuck vaginally-->
+  <Necro_Vaginal.modExtensions.0.RMBLabel>强迫性交</Necro_Vaginal.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->强奸了[RECIPIENT_nameDef]的阴道。', 原英文: '无' -> 新英文: 'r_logentry->Raped vaginally [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Raped vaginally [RECIPIENT_nameDef].-->
+  <Necro_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->强奸了[RECIPIENT_nameDef]的阴道。</Necro_Vaginal.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->被[INITIATOR_nameDef]强奸了阴道。', 原英文: '无' -> 新英文: 'r_logentry->Was vaginally raped by [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Was vaginally raped by [INITIATOR_nameDef].-->
+  <Necro_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]强奸了阴道。</Necro_Vaginal.logRulesRecipient.rulesStrings.0>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '阴道交配', 原英文: '无' -> 新英文: 'vaginal breeding',更新于2026-02-14-->
+  <!--EN: vaginal breeding-->
+  <Bestiality_Vaginal.label>阴道交配</Bestiality_Vaginal.label>
+  <!--原中文: '为其阴道交配', 原英文: '无' -> 新英文: 'Breed vaginally',更新于2026-02-14-->
+  <!--EN: Breed vaginally-->
+  <Bestiality_Vaginal.modExtensions.0.RMBLabel>为其阴道交配</Bestiality_Vaginal.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->骑着[RECIPIENT_nameDef]并插进了阴道。', 原英文: '无' -> 新英文: 'r_logentry->Mounted [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Mounted [RECIPIENT_nameDef].-->
+  <Bestiality_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->骑着[RECIPIENT_nameDef]并插进了阴道。</Bestiality_Vaginal.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->被[INITIATOR_nameDef]骑着并插进了阴道。', 原英文: '无' -> 新英文: 'r_logentry->Was mounted by [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Was mounted by [INITIATOR_nameDef].-->
+  <Bestiality_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]骑着并插进了阴道。</Bestiality_Vaginal.logRulesRecipient.rulesStrings.0>
+</LanguageData>

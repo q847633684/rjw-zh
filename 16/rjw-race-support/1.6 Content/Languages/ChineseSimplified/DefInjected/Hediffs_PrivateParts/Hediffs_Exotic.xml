@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: A long and flexible tentacle, capable of laying eggs.-->
+  <DemonTentaclesF.description>一个长而柔韧的触手,能够产卵。</DemonTentaclesF.description>
+  <!--EN: demon tentacle-->
+  <DemonTentaclesF.label>恶魔触手</DemonTentaclesF.label>
+  <!--EN: a female demon tentacle-->
+  <DemonTentaclesF.labelNoun>一个母魔触手</DemonTentaclesF.labelNoun>
+  <!--EN: A rough and jagged stone-like penis.-->
+  <GolemPenis.description>粗糙锯齿状的岩石阳具/屌</GolemPenis.description>
+  <!--EN: golem penis-->
+  <GolemPenis.label>魔人阳具/屌</GolemPenis.label>
+  <!--EN: a golem penis-->
+  <GolemPenis.labelNoun>一个傀儡阳具/屌</GolemPenis.labelNoun>
+  <!--EN: A mass of tentacle-like penises, capable of both restraining and pleasuring.-->
+  <TentaclePenis.description>大量的触手-比如阴茎，同时具有抑制和愉悦的能力。</TentaclePenis.description>
+  <!--EN: tentacles-->
+  <TentaclePenis.label>触手</TentaclePenis.label>
+  <!--EN: reproductive tentacles-->
+  <TentaclePenis.labelNoun>生殖触手</TentaclePenis.labelNoun>
+</LanguageData>

@@ -1,0 +1,59 @@
+key,text,tag,file,type
+Cumpilation_Hediff_SlugCoverageController.label,Slugcovered,label,HediffDefs\SlugBukkake.xml,def
+Cumpilation_Hediff_SlugCoverageController.description,Covered in Slug.,description,HediffDefs\SlugBukkake.xml,def
+Cumpilation_Hediff_SlugCoverageController.stages.0.label,minor,label,HediffDefs\SlugBukkake.xml,def
+Cumpilation_Hediff_SlugCoverageController.stages.1.label,little,label,HediffDefs\SlugBukkake.xml,def
+Cumpilation_Hediff_SlugCoverageController.stages.2.label,extensive,label,HediffDefs\SlugBukkake.xml,def
+Cumpilation_Hediff_SlugCoverageController.stages.3.label,full,label,HediffDefs\SlugBukkake.xml,def
+Cumpilation_Hediff_Slugsplash.label,Slug,label,HediffDefs\SlugBukkake.xml,def
+Cumpilation_Hediff_Slugsplash.labelNoun,slug,labelNoun,HediffDefs\SlugBukkake.xml,def
+Cumpilation_Hediff_Slugsplash.description,slug,description,HediffDefs\SlugBukkake.xml,def
+Cumpilation_Hediff_Slugsplash.labelNounPretty,slug on {1},labelNounPretty,HediffDefs\SlugBukkake.xml,def
+Cumpilation_SlugStuffed.label,slug-stuffed,label,HediffDefs\SlugStuffed.xml,def
+Cumpilation_SlugStuffed.labelNoun,slug-stuffed,labelNoun,HediffDefs\SlugStuffed.xml,def
+Cumpilation_SlugStuffed.description,You came too close to someone currently slugging.,description,HediffDefs\SlugStuffed.xml,def
+Cumpilation_SlugStuffed.stages.0.label,slightly bloated,label,HediffDefs\SlugStuffed.xml,def
+Cumpilation_SlugStuffed.stages.1.label,bloated,label,HediffDefs\SlugStuffed.xml,def
+Cumpilation_SlugStuffed.stages.2.label,full,label,HediffDefs\SlugStuffed.xml,def
+Cumpilation_SlugStuffed.stages.3.label,over-stuffed,label,HediffDefs\SlugStuffed.xml,def
+Cumpilation_temporarySlugged.label,temporary slugged,label,HediffDefs\TemporarySlugged.xml,def
+Cumpilation_temporarySlugged.description,"Due to a drug, the cum has been changed to slug.",description,HediffDefs\TemporarySlugged.xml,def
+Cumpilation_temporarySlugged.stages.0.label,wearing off,label,HediffDefs\TemporarySlugged.xml,def
+Cumpilation_temporarySlugged.stages.1.label,altered,label,HediffDefs\TemporarySlugged.xml,def
+Cumpilation_temporarySlugged.stages.2.label,fresh,label,HediffDefs\TemporarySlugged.xml,def
+Cumpilation_NumOfConsumedSlug.label,consumed slug,label,RecordDefs\Record_SlugConsumption.xml,def
+Cumpilation_NumOfConsumedSlug.description,The number of times that i consumed slug.,description,RecordDefs\Record_SlugConsumption.xml,def
+Cumpilation_AmountConsumedSlug.label,consumed slug(mL),label,RecordDefs\Record_SlugConsumption.xml,def
+Cumpilation_AmountConsumedSlug.description,The amount of slug that i consumed.,description,RecordDefs\Record_SlugConsumption.xml,def
+Cumpilation_SlugFilth.label,slugspunk,label,SexFluidDefs\Slug.xml,def
+Cumpilation_Slug.label,slug,label,SexFluidDefs\Slug.xml,def
+Cumpilation_Slugmorpher.label,slug morpher,label,ThingDefs\Drug_ChangeFluid.xml,def
+Cumpilation_Slugmorpher.description,"A dangerous and creative way to deal with Wastepacks - distilled into a concentrated serum, it permanently changes the users cum into a toxic slug. Consumption will also lead to toxic buildup, which gets drastically worse if the users body cannot have its fluids changed.",description,ThingDefs\Drug_ChangeFluid.xml,def
+Cumpilation_Slugmorpher.ingestible.ingestCommandString,Inject {0},ingestCommandString,ThingDefs\Drug_ChangeFluid.xml,def
+Cumpilation_Slugmorpher.ingestible.ingestReportString,Injecting {0}.,ingestReportString,ThingDefs\Drug_ChangeFluid.xml,def
+Cumpilation_Sluggerdrop.label,slugger drops,label,ThingDefs\Drug_ChangeFluid.xml,def
+Cumpilation_Sluggerdrop.description,"A dangerous and creative way to deal with Wastepacks - distilled into a concentrated serum, it changes the users cum temporary into a toxic slug. Consumption will also lead to minor toxic buildup, which might get worse if the users body cannot have its fluids changed.",description,ThingDefs\Drug_ChangeFluid.xml,def
+Cumpilation_Sluggerdrop.ingestible.ingestCommandString,Inject {0},ingestCommandString,ThingDefs\Drug_ChangeFluid.xml,def
+Cumpilation_Sluggerdrop.ingestible.ingestReportString,Injecting {0}.,ingestReportString,ThingDefs\Drug_ChangeFluid.xml,def
+Cumpilation_ConsumedSlug.stages.0.label,ate slug,label,ThoughtDefs\Thought_ConsumedSlug.xml,def
+Cumpilation_ConsumedSlug.stages.0.description,i am worried about my health,description,ThoughtDefs\Thought_ConsumedSlug.xml,def
+Cumpilation_ConsumedSlug.stages.1.label,ate slug,label,ThoughtDefs\Thought_ConsumedSlug.xml,def
+Cumpilation_ConsumedSlug.stages.1.description,i hope it gives them relief to dump it in me,description,ThoughtDefs\Thought_ConsumedSlug.xml,def
+Cumpilation_ConsumedSlug.stages.2.label,ate slug,label,ThoughtDefs\Thought_ConsumedSlug.xml,def
+Cumpilation_ConsumedSlug.stages.2.description,it really gives me a kick,description,ThoughtDefs\Thought_ConsumedSlug.xml,def
+Cumpilation_SlugstuffedNegative.stages.0.label,bloated with slug,label,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedNegative.stages.0.description,I hope it's not too unhealthy.,description,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedNegative.stages.1.label,full of slug,label,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedNegative.stages.1.description,I should not get any more of this.,description,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedNegative.stages.2.label,stuffed with slug,label,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedNegative.stages.2.description,"Can I get it out, in any way??",description,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedNegative.stages.3.label,overstuffed with slug,label,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedNegative.stages.3.description,"Please, get it out, just get it out! Put something else in if necessary!",description,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedEnjoyed.stages.1.label,latent slug-bomb,label,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedEnjoyed.stages.1.description,"Damage, Incorporated",description,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedEnjoyed.stages.2.label,armed slug-bomb,label,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedEnjoyed.stages.2.description,TNT - I'm dynamite!,description,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedEnjoyed.stages.3.label,military-grade slug-bomb,label,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedEnjoyed.stages.3.description,"Do it baby, do it baby",description,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedEnjoyed.stages.4.label,nuclear slug-bomb,label,ThoughtDefs\Thought_SlugStuffed.xml,def
+Cumpilation_SlugstuffedEnjoyed.stages.4.description,"I'm a fire starter, twisted fire starter",description,ThoughtDefs\Thought_SlugStuffed.xml,def

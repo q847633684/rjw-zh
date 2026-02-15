@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Precepts -->
+  <!--原中文: '神圣', 原英文: '无' -> 新英文: 'holy',更新于2026-02-14-->
+  <!--EN: holy-->
+  <Pregnancy_Holy.label>神圣</Pregnancy_Holy.label>
+  <!--原中文: '怀孕是一项值得尊敬的责任。妇女承载着我们社会的下一代。', 原英文: '无' -> 新英文: 'To be pregnant is a duty worthy of respect. Women carry our society into the next generation.',更新于2026-02-14-->
+  <!--EN: To be pregnant is a duty worthy of respect. Women carry our society into the next generation.-->
+  <Pregnancy_Holy.description>怀孕是一项值得尊敬的责任。妇女承载着我们社会的下一代。</Pregnancy_Holy.description>
+  <!--原中文: '高尚', 原英文: '无' -> 新英文: 'elevated',更新于2026-02-14-->
+  <!--EN: elevated-->
+  <Pregnancy_Elevated.label>高尚</Pregnancy_Elevated.label>
+  <!--原中文: '怀孕是一种高尚的行为。', 原英文: '无' -> 新英文: 'Being pregnant is considered noble.',更新于2026-02-14-->
+  <!--EN: Being pregnant is considered noble.-->
+  <Pregnancy_Elevated.description>怀孕是一种高尚的行为。</Pregnancy_Elevated.description>
+  <!--原中文: '冷漠', 原英文: '无' -> 新英文: 'indifferent',更新于2026-02-14-->
+  <!--EN: indifferent-->
+  <Pregnancy_NoRules.label>冷漠</Pregnancy_NoRules.label>
+  <!--原中文: '也就那样吧。', 原英文: '无' -> 新英文: 'Pregnancy is an unremarkable fact of life.',更新于2026-02-14-->
+  <!--EN: Pregnancy is an unremarkable fact of life.-->
+  <Pregnancy_NoRules.description>也就那样吧。</Pregnancy_NoRules.description>
+  <!--原中文: '繁衍', 原英文: '无' -> 新英文: 'breeding',更新于2026-02-14-->
+  <!--EN: breeding-->
+  <Pregnancy_Required.label>繁衍</Pregnancy_Required.label>
+  <!--原中文: '女性应该怀孕——那些没有怀孕的人看起来格格不入。', 原英文: '无' -> 新英文: 'Women should be pregnant - those who are not, are seen unworthy.',更新于2026-02-14-->
+  <!--EN: Women should be pregnant - those who are not, are seen unworthy.-->
+  <Pregnancy_Required.description>女性应该怀孕——那些没有怀孕的人看起来格格不入。</Pregnancy_Required.description>
+  <!--原中文: '厌恶', 原英文: '无' -> 新英文: 'horrible',更新于2026-02-14-->
+  <!--EN: horrible-->
+  <Pregnancy_Horrible.label>厌恶</Pregnancy_Horrible.label>
+  <!--原中文: '怀了孕就不干净了。要小心保持你的纯洁。', 原英文: '无' -> 新英文: 'Being Pregnant is unclean. Take care and stay pure.',更新于2026-02-14-->
+  <!--EN: Being Pregnant is unclean. Take care and stay pure.-->
+  <Pregnancy_Horrible.description>怀了孕就不干净了。要小心保持你的纯洁。</Pregnancy_Horrible.description>
+</LanguageData>

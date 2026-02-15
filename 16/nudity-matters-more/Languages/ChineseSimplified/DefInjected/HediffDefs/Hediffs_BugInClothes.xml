@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: mild bug in clothes-->
+  <MildBugInClothes.description>衣服里有轻微的虫子</MildBugInClothes.description>
+  <!--EN: mild bug in clothes-->
+  <MildBugInClothes.label>衣服里有轻微虫子</MildBugInClothes.label>
+  <!--EN: minor-->
+  <MildBugInClothes.stages.0.label>轻微</MildBugInClothes.stages.0.label>
+</LanguageData>

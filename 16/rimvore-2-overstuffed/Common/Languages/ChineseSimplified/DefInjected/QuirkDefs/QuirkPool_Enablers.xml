@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks are required for a pawn to be able to use vore, each representing one type or goal. Modifying their commonality sets the global chances that any pawn will be capable of using any given vore path. Vore enablers can be aquired to add the quirk to an existing pawn, even if the quirk itself is set to ForcedOnly; do this if you want vore to be a power unlocked solely through acquisition of the required enablers.-->
+  <Enablers_Overstuffed.description>这些怪癖是必须的pawn能够使用吃人,每个代表一个类型或目标。修改它们的共性可以设置任何pawn将能够使用任何给定吃人路径。吃人支持者可以被获得，以增加一个现有的怪癖pawn,即使 quirk 本身已设置为 ForcedOnly; 如果你想这样做吃人仅通过获取所需的赋能装置来解锁电源。</Enablers_Overstuffed.description>
+  <!--EN: Overstuffed enablers-->
+  <Enablers_Overstuffed.label>超载</Enablers_Overstuffed.label>
+  <!--EN: [PAWN_label] can merge with other living beings on a cellular level, both permanently (assimilation) and temporarily (amalgamation).-->
+  <Enablers_Overstuffed_Goal_Absorb.description>[PAWN_label]可以在细胞水平上与其他生物融合，永久 (同化) 和暂时 (融合)。</Enablers_Overstuffed_Goal_Absorb.description>
+  <!--EN: Cellular absorbency-->
+  <Enablers_Overstuffed_Goal_Absorb.label>细胞吸收</Enablers_Overstuffed_Goal_Absorb.label>
+  <!--EN: [PAWN_label] can merge with other living beings on the cellular level, but only safely. Permanent integration is not possible.-->
+  <Enablers_Overstuffed_Goal_Amalgamate.description>[PAWN_label]可以在细胞层面上与其他生物融合，但只能安全地进行。无法永久集成。</Enablers_Overstuffed_Goal_Amalgamate.description>
+  <!--EN: Cellular amalgamation-->
+  <Enablers_Overstuffed_Goal_Amalgamate.label>细胞融合</Enablers_Overstuffed_Goal_Amalgamate.label>
+  <!--EN: [PAWN_label] can merge with other beings on the cellular level, but it's always a fatal process.-->
+  <Enablers_Overstuffed_Goal_Assimilate.description>[PAWN_label]可以在细胞层面上与其他人融合，但这始终是一个致命的过程。</Enablers_Overstuffed_Goal_Assimilate.description>
+  <!--EN: Cellular assimilation-->
+  <Enablers_Overstuffed_Goal_Assimilate.label>细胞同化</Enablers_Overstuffed_Goal_Assimilate.label>
+  <!--EN: [PAWN_label] can melt live prey down to chemfuel in a number of locations on [PAWN_possessive] body.-->
+  <Enablers_Overstuffed_Goal_ConvertChemfuel.description>[PAWN_label]可以在多个位置将活着的猎物融化成化合燃料。[PAWN_possessive]身体。</Enablers_Overstuffed_Goal_ConvertChemfuel.description>
+  <!--EN: Olifactive enzymes-->
+  <Enablers_Overstuffed_Goal_ConvertChemfuel.label>术酶</Enablers_Overstuffed_Goal_ConvertChemfuel.label>
+  <!--EN: [PAWN_label] can melt live prey down to eggs in [PAWN_possessive] ovaries.-->
+  <Enablers_Overstuffed_Goal_ConvertEggs.description>[PAWN_label]可以将活着的猎物融化成卵[PAWN_possessive]卵巢。</Enablers_Overstuffed_Goal_ConvertEggs.description>
+  <!--EN: Ovifactive enzymes-->
+  <Enablers_Overstuffed_Goal_ConvertEggs.label>产卵酶</Enablers_Overstuffed_Goal_ConvertEggs.label>
+  <!--EN: [PAWN_label]  can melt live prey down to fertilizer-grade urine in [PAWN_possessive] kidneys.-->
+  <Enablers_Overstuffed_Goal_ConvertUrine.description>[PAWN_label]可以将活着的猎物融化成肥料级的尿[PAWN_possessive]肾脏。</Enablers_Overstuffed_Goal_ConvertUrine.description>
+  <!--EN: Urifactive enzymes-->
+  <Enablers_Overstuffed_Goal_ConvertUrine.label>化学酶</Enablers_Overstuffed_Goal_ConvertUrine.label>
+  <!--EN: [PAWN_label] has a bust deep enough to contain live prey.-->
+  <Enablers_Overstuffed_Type_Cleavage.description>[PAWN_label]拥有足以容纳活物的胸部。</Enablers_Overstuffed_Type_Cleavage.description>
+  <!--EN: Cleavage depth-->
+  <Enablers_Overstuffed_Type_Cleavage.label>乳沟深度</Enablers_Overstuffed_Type_Cleavage.label>
+  <!--EN: [PAWN_label] has a permeable outer membrane which can be used to engulf live prey, like a slime.-->
+  <Enablers_Overstuffed_Type_Membrane.description>[PAWN_label]具有可被吞噬的活的外膜，比如史莱姆</Enablers_Overstuffed_Type_Membrane.description>
+  <!--EN: Dermal porocity-->
+  <Enablers_Overstuffed_Type_Membrane.label>皮肤拥挤</Enablers_Overstuffed_Type_Membrane.label>
+  <!--EN: [PAWN_label] has an untied and stretchy navel with which to ennavel live prey.-->
+  <Enablers_Overstuffed_Type_Navel.description>[PAWN_label]有一个解开的衣物和可伸展的肚脐，用以抓住猎物的肚脐。</Enablers_Overstuffed_Type_Navel.description>
+  <!--EN: Umbilical elasticity-->
+  <Enablers_Overstuffed_Type_Navel.label>脐带弹力</Enablers_Overstuffed_Type_Navel.label>
+  <!--EN: [PAWN_label] has a maw on [PAWN_possessive] tail stretchy enough to pythen live prey.-->
+  <Enablers_Overstuffed_Type_Tailmaw.description>[PAWN_label]有一个大小姐[PAWN_possessive]一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。有足够的拉伸力以将猎物点燃。</Enablers_Overstuffed_Type_Tailmaw.description>
+  <!--EN: Tailmaw elasticity-->
+  <Enablers_Overstuffed_Type_Tailmaw.label>尾毛弹性</Enablers_Overstuffed_Type_Tailmaw.label>
+  <!--EN: [PAWN_label] has udder teats stretchy enough to unnurse live prey.-->
+  <Enablers_Overstuffed_Type_Udder.description>[PAWN_label]让乳房乳头有足够的弹性，可以拆解活的猎物。</Enablers_Overstuffed_Type_Udder.description>
+  <!--EN: Uberal elasticity-->
+  <Enablers_Overstuffed_Type_Udder.label>旺盛的弹性</Enablers_Overstuffed_Type_Udder.label>
+</LanguageData>

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '轮奸演说', 原英文: '无' -> 新英文: 'gangbang speech',更新于2026-02-14-->
+  <!--EN: gangbang speech-->
+  <Speech_Gangbang.label>轮奸演说</Speech_Gangbang.label>
+  <!--原中文: 'r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]。', 原英文: '无' -> 新英文: 'r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].',更新于2026-02-14-->
+  <!--EN: r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]。</Speech_Gangbang.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy]。', 原英文: '无' -> 新英文: 'r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].',更新于2026-02-14-->
+  <!--EN: r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy]。</Speech_Gangbang.logRulesInitiator.rulesStrings.1>
+  <!--原中文: 'speechtopic->强奸真正价值的意义', 原英文: '无' -> 新英文: 'speechtopic->the meaning and true value of rape',更新于2026-02-14-->
+  <!--EN: speechtopic->the meaning and true value of rape-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.2>speechtopic->强奸真正价值的意义</Speech_Gangbang.logRulesInitiator.rulesStrings.2>
+  <!--原中文: 'speechtopic->强奸的表达方式', 原英文: '无' -> 新英文: 'speechtopic->expressions of rape',更新于2026-02-14-->
+  <!--EN: speechtopic->expressions of rape-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.3>speechtopic->强奸的表达方式</Speech_Gangbang.logRulesInitiator.rulesStrings.3>
+  <!--原中文: 'speechtopic->受控的淫荡', 原英文: '无' -> 新英文: 'speechtopic->controlled lustful',更新于2026-02-14-->
+  <!--EN: speechtopic->controlled lustful-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.4>speechtopic->受控的淫荡</Speech_Gangbang.logRulesInitiator.rulesStrings.4>
+  <!--原中文: 'speechtopic->肉穴的温度', 原英文: '无' -> 新英文: 'speechtopic->the warmth of pussy',更新于2026-02-14-->
+  <!--EN: speechtopic->the warmth of pussy-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.5>speechtopic->肉穴的温度</Speech_Gangbang.logRulesInitiator.rulesStrings.5>
+  <!--原中文: 'speechtopic->射精的意义', 原英文: '无' -> 新英文: 'speechtopic->the meaning of cum',更新于2026-02-14-->
+  <!--EN: speechtopic->the meaning of cum-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.6>speechtopic->射精的意义</Speech_Gangbang.logRulesInitiator.rulesStrings.6>
+  <!--原中文: 'speechtopic->爱与强奸', 原英文: '无' -> 新英文: 'speechtopic->love and rape',更新于2026-02-14-->
+  <!--EN: speechtopic->love and rape-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.7>speechtopic->爱与强奸</Speech_Gangbang.logRulesInitiator.rulesStrings.7>
+  <!--原中文: 'speechtopic->强奸的象征', 原英文: '无' -> 新英文: 'speechtopic->symbolizing rape',更新于2026-02-14-->
+  <!--EN: speechtopic->symbolizing rape-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.8>speechtopic->强奸的象征</Speech_Gangbang.logRulesInitiator.rulesStrings.8>
+  <!--原中文: 'speechtopic->迪克与蒲西', 原英文: '无' -> 新英文: 'speechtopic->dick and pussy',更新于2026-02-14-->
+  <!--EN: speechtopic->dick and pussy-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.9>speechtopic->迪克与蒲西</Speech_Gangbang.logRulesInitiator.rulesStrings.9>
+  <!--原中文: 'speechtopic->强奸的艺术', 原英文: '无' -> 新英文: 'speechtopic->the art of rape',更新于2026-02-14-->
+  <!--EN: speechtopic->the art of rape-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.10>speechtopic->强奸的艺术</Speech_Gangbang.logRulesInitiator.rulesStrings.10>
+  <!--原中文: 'speechtopic->受害者的诱惑', 原英文: '无' -> 新英文: 'speechtopic->the seduction of victim',更新于2026-02-14-->
+  <!--EN: speechtopic->the seduction of victim-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.11>speechtopic->受害者的诱惑</Speech_Gangbang.logRulesInitiator.rulesStrings.11>
+  <!--原中文: 'speechtopic->尖叫的音乐', 原英文: '无' -> 新英文: 'speechtopic->the music of screams',更新于2026-02-14-->
+  <!--EN: speechtopic->the music of screams-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.12>speechtopic->尖叫的音乐</Speech_Gangbang.logRulesInitiator.rulesStrings.12>
+  <!--原中文: 'speechtopic->地板上的精液', 原英文: '无' -> 新英文: 'speechtopic->cums on the floor',更新于2026-02-14-->
+  <!--EN: speechtopic->cums on the floor-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.13>speechtopic->地板上的精液</Speech_Gangbang.logRulesInitiator.rulesStrings.13>
+  <!--原中文: 'crazy->尖叫痴狂', 原英文: '无' -> 新英文: 'crazy->screamed maniacally',更新于2026-02-14-->
+  <!--EN: crazy->screamed maniacally-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.14>crazy->尖叫痴狂</Speech_Gangbang.logRulesInitiator.rulesStrings.14>
+  <!--原中文: 'crazy->突然唱起了圣歌', 原英文: '无' -> 新英文: 'crazy->broke into a chant',更新于2026-02-14-->
+  <!--EN: crazy->broke into a chant-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.15>crazy->突然唱起了圣歌</Speech_Gangbang.logRulesInitiator.rulesStrings.15>
+  <!--原中文: 'crazy->对着天堂吟唱', 原英文: '无' -> 新英文: 'crazy->chanted towards the heavens',更新于2026-02-14-->
+  <!--EN: crazy->chanted towards the heavens-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.16>crazy->对着天堂吟唱</Speech_Gangbang.logRulesInitiator.rulesStrings.16>
+  <!--原中文: 'crazy->对受害者的生殖器吐痰', 原英文: '无' -> 新英文: 'crazy->spat in the sacrifice's genital',更新于2026-02-14-->
+  <!--EN: crazy->spat in the sacrifice's genital-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.17>crazy->对受害者的生殖器吐痰</Speech_Gangbang.logRulesInitiator.rulesStrings.17>
+  <!--原中文: 'crazy->高声谈笑', 原英文: '无' -> 新英文: 'crazy->cackled',更新于2026-02-14-->
+  <!--EN: crazy->cackled-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.18>crazy->高声谈笑</Speech_Gangbang.logRulesInitiator.rulesStrings.18>
+  <!--原中文: 'crazy->挥舞着套套', 原英文: '无' -> 新英文: 'crazy->brandished a condom',更新于2026-02-14-->
+  <!--EN: crazy->brandished a condom-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.19>crazy->挥舞着套套</Speech_Gangbang.logRulesInitiator.rulesStrings.19>
+  <!--原中文: 'crazy->一边自慰一边喃喃自语', 原英文: '无' -> 新英文: 'crazy->muttered repetitively while masturbating',更新于2026-02-14-->
+  <!--EN: crazy->muttered repetitively while masturbating-->
+  <Speech_Gangbang.logRulesInitiator.rulesStrings.20>crazy->一边自慰一边喃喃自语</Speech_Gangbang.logRulesInitiator.rulesStrings.20>
+  <!--原中文: '兽交演讲', 原英文: '无' -> 新英文: 'zoophile speech',更新于2026-02-14-->
+  <!--EN: zoophile speech-->
+  <Speech_Zoophile.label>兽交演讲</Speech_Zoophile.label>
+  <!--原中文: 'r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]。', 原英文: '无' -> 新英文: 'r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].',更新于2026-02-14-->
+  <!--EN: r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].-->
+  <Speech_Zoophile.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic]。</Speech_Zoophile.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'speechtopic->兽交真正价值的意义', 原英文: '无' -> 新英文: 'speechtopic->the meaning and true value of bestiality',更新于2026-02-14-->
+  <!--EN: speechtopic->the meaning and true value of bestiality-->
+  <Speech_Zoophile.logRulesInitiator.rulesStrings.1>speechtopic->兽交真正价值的意义</Speech_Zoophile.logRulesInitiator.rulesStrings.1>
+  <!--原中文: 'speechtopic->兽交的表达方式', 原英文: '无' -> 新英文: 'speechtopic->expressions of bestiality',更新于2026-02-14-->
+  <!--EN: speechtopic->expressions of bestiality-->
+  <Speech_Zoophile.logRulesInitiator.rulesStrings.2>speechtopic->兽交的表达方式</Speech_Zoophile.logRulesInitiator.rulesStrings.2>
+  <!--原中文: 'speechtopic->受控的淫荡', 原英文: '无' -> 新英文: 'speechtopic->controlled lustful',更新于2026-02-14-->
+  <!--EN: speechtopic->controlled lustful-->
+  <Speech_Zoophile.logRulesInitiator.rulesStrings.3>speechtopic->受控的淫荡</Speech_Zoophile.logRulesInitiator.rulesStrings.3>
+  <!--原中文: 'speechtopic->精液的滚烫', 原英文: '无' -> 新英文: 'speechtopic->the warmth of cum',更新于2026-02-14-->
+  <!--EN: speechtopic->the warmth of cum-->
+  <Speech_Zoophile.logRulesInitiator.rulesStrings.4>speechtopic->精液的滚烫</Speech_Zoophile.logRulesInitiator.rulesStrings.4>
+  <!--原中文: 'speechtopic->跨种繁殖的意义', 原英文: '无' -> 新英文: 'speechtopic->the meaning of interspecies breeding',更新于2026-02-14-->
+  <!--EN: speechtopic->the meaning of interspecies breeding-->
+  <Speech_Zoophile.logRulesInitiator.rulesStrings.5>speechtopic->跨种繁殖的意义</Speech_Zoophile.logRulesInitiator.rulesStrings.5>
+  <!--原中文: 'speechtopic->动物与爱', 原英文: '无' -> 新英文: 'speechtopic->animal and love',更新于2026-02-14-->
+  <!--EN: speechtopic->animal and love-->
+  <Speech_Zoophile.logRulesInitiator.rulesStrings.6>speechtopic->动物与爱</Speech_Zoophile.logRulesInitiator.rulesStrings.6>
+  <!--原中文: 'speechtopic->兽交的象征', 原英文: '无' -> 新英文: 'speechtopic->symbolizing bestiality',更新于2026-02-14-->
+  <!--EN: speechtopic->symbolizing bestiality-->
+  <Speech_Zoophile.logRulesInitiator.rulesStrings.7>speechtopic->兽交的象征</Speech_Zoophile.logRulesInitiator.rulesStrings.7>
+  <!--原中文: 'speechtopic->繁殖和生育', 原英文: '无' -> 新英文: 'speechtopic->breed and birth',更新于2026-02-14-->
+  <!--EN: speechtopic->breed and birth-->
+  <Speech_Zoophile.logRulesInitiator.rulesStrings.8>speechtopic->繁殖和生育</Speech_Zoophile.logRulesInitiator.rulesStrings.8>
+  <!--原中文: 'speechtopic->繁殖的艺术', 原英文: '无' -> 新英文: 'speechtopic->the art of breeding',更新于2026-02-14-->
+  <!--EN: speechtopic->the art of breeding-->
+  <Speech_Zoophile.logRulesInitiator.rulesStrings.9>speechtopic->繁殖的艺术</Speech_Zoophile.logRulesInitiator.rulesStrings.9>
+  <!--原中文: 'speechtopic->动物的诱惑', 原英文: '无' -> 新英文: 'speechtopic->the seduction of animals',更新于2026-02-14-->
+  <!--EN: speechtopic->the seduction of animals-->
+  <Speech_Zoophile.logRulesInitiator.rulesStrings.10>speechtopic->动物的诱惑</Speech_Zoophile.logRulesInitiator.rulesStrings.10>
+  <!--原中文: 'speechtopic->地板上的精液', 原英文: '无' -> 新英文: 'speechtopic->cums on the floor',更新于2026-02-14-->
+  <!--EN: speechtopic->cums on the floor-->
+  <Speech_Zoophile.logRulesInitiator.rulesStrings.11>speechtopic->地板上的精液</Speech_Zoophile.logRulesInitiator.rulesStrings.11>
+  <!--原中文: '乱交演讲', 原英文: '无' -> 新英文: 'lewd speech',更新于2026-02-14-->
+  <!--EN: lewd speech-->
+  <Speech_Lewd.label>乱交演讲</Speech_Lewd.label>
+  <Speech_Lewd.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</Speech_Lewd.logRulesInitiator.rulesStrings.0>
+  <Speech_Lewd.logRulesInitiator.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</Speech_Lewd.logRulesInitiator.rulesStrings.1>
+  <!--原中文: 'speechtopic->性爱真正价值的意义', 原英文: '无' -> 新英文: 'speechtopic->the meaning and true value of sex',更新于2026-02-14-->
+  <!--EN: speechtopic->the meaning and true value of sex-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.2>speechtopic->性爱真正价值的意义</Speech_Lewd.logRulesInitiator.rulesStrings.2>
+  <!--原中文: 'speechtopic->性爱的表达方式', 原英文: '无' -> 新英文: 'speechtopic->expressions of sex',更新于2026-02-14-->
+  <!--EN: speechtopic->expressions of sex-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.3>speechtopic->性爱的表达方式</Speech_Lewd.logRulesInitiator.rulesStrings.3>
+  <!--原中文: 'speechtopic->受控的淫荡', 原英文: '无' -> 新英文: 'speechtopic->uncontrolled lustful',更新于2026-02-14-->
+  <!--EN: speechtopic->uncontrolled lustful-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.4>speechtopic->受控的淫荡</Speech_Lewd.logRulesInitiator.rulesStrings.4>
+  <!--原中文: 'speechtopic->肉穴的温度', 原英文: '无' -> 新英文: 'speechtopic->the warmth of pussy',更新于2026-02-14-->
+  <!--EN: speechtopic->the warmth of pussy-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.5>speechtopic->肉穴的温度</Speech_Lewd.logRulesInitiator.rulesStrings.5>
+  <!--原中文: 'speechtopic->射精的意义', 原英文: '无' -> 新英文: 'speechtopic->the meaning of cum',更新于2026-02-14-->
+  <!--EN: speechtopic->the meaning of cum-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.6>speechtopic->射精的意义</Speech_Lewd.logRulesInitiator.rulesStrings.6>
+  <!--原中文: 'speechtopic->爱与相奸', 原英文: '无' -> 新英文: 'speechtopic->love and incest',更新于2026-02-14-->
+  <!--EN: speechtopic->love and incest-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.7>speechtopic->爱与相奸</Speech_Lewd.logRulesInitiator.rulesStrings.7>
+  <!--原中文: 'speechtopic->强奸的象征', 原英文: '无' -> 新英文: 'speechtopic->symbolizing rape',更新于2026-02-14-->
+  <!--EN: speechtopic->symbolizing rape-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.8>speechtopic->强奸的象征</Speech_Lewd.logRulesInitiator.rulesStrings.8>
+  <!--原中文: 'speechtopic->迪克与蒲西', 原英文: '无' -> 新英文: 'speechtopic->dick and pussy',更新于2026-02-14-->
+  <!--EN: speechtopic->dick and pussy-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.9>speechtopic->迪克与蒲西</Speech_Lewd.logRulesInitiator.rulesStrings.9>
+  <!--原中文: 'speechtopic->性爱的艺术', 原英文: '无' -> 新英文: 'speechtopic->the art of sex',更新于2026-02-14-->
+  <!--EN: speechtopic->the art of sex-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.10>speechtopic->性爱的艺术</Speech_Lewd.logRulesInitiator.rulesStrings.10>
+  <!--原中文: 'speechtopic->[spokeof]的诱惑', 原英文: '无' -> 新英文: 'speechtopic->the seduction of [spokeof]',更新于2026-02-14-->
+  <!--EN: speechtopic->the seduction of [spokeof]-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.11>speechtopic->[spokeof]的诱惑</Speech_Lewd.logRulesInitiator.rulesStrings.11>
+  <!--原中文: 'speechtopic->呻吟的音乐', 原英文: '无' -> 新英文: 'speechtopic->the music of moan',更新于2026-02-14-->
+  <!--EN: speechtopic->the music of moan-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.12>speechtopic->呻吟的音乐</Speech_Lewd.logRulesInitiator.rulesStrings.12>
+  <!--原中文: 'speechtopic->地板上的精液', 原英文: '无' -> 新英文: 'speechtopic->cums on the floor',更新于2026-02-14-->
+  <!--EN: speechtopic->cums on the floor-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.13>speechtopic->地板上的精液</Speech_Lewd.logRulesInitiator.rulesStrings.13>
+  <!--原中文: 'crazy->尖叫痴狂', 原英文: '无' -> 新英文: 'crazy->moaned maniacally',更新于2026-02-14-->
+  <!--EN: crazy->moaned maniacally-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.14>crazy->尖叫痴狂</Speech_Lewd.logRulesInitiator.rulesStrings.14>
+  <!--原中文: 'crazy->扔出一只假阳具', 原英文: '无' -> 新英文: 'crazy->threw a dildo',更新于2026-02-14-->
+  <!--EN: crazy->threw a dildo-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.15>crazy->扔出一只假阳具</Speech_Lewd.logRulesInitiator.rulesStrings.15>
+  <!--原中文: 'crazy->扔出一只飞机杯', 原英文: '无' -> 新英文: 'crazy->threw an onahole',更新于2026-02-14-->
+  <!--EN: crazy->threw an onahole-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.16>crazy->扔出一只飞机杯</Speech_Lewd.logRulesInitiator.rulesStrings.16>
+  <!--原中文: 'crazy->对着天堂吟唱', 原英文: '无' -> 新英文: 'crazy->chanted towards the heavens',更新于2026-02-14-->
+  <!--EN: crazy->chanted towards the heavens-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.17>crazy->对着天堂吟唱</Speech_Lewd.logRulesInitiator.rulesStrings.17>
+  <!--原中文: 'crazy->呻吟', 原英文: '无' -> 新英文: 'crazy->moaned',更新于2026-02-14-->
+  <!--EN: crazy->moaned-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.18>crazy->呻吟</Speech_Lewd.logRulesInitiator.rulesStrings.18>
+  <!--原中文: 'crazy->挥舞着假阳具', 原英文: '无' -> 新英文: 'crazy->brandished a dildo',更新于2026-02-14-->
+  <!--EN: crazy->brandished a dildo-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.19>crazy->挥舞着假阳具</Speech_Lewd.logRulesInitiator.rulesStrings.19>
+  <!--原中文: 'crazy->一边自慰一边喃喃自语', 原英文: '无' -> 新英文: 'crazy->muttered repetitively while masturbating',更新于2026-02-14-->
+  <!--EN: crazy->muttered repetitively while masturbating-->
+  <Speech_Lewd.logRulesInitiator.rulesStrings.20>crazy->一边自慰一边喃喃自语</Speech_Lewd.logRulesInitiator.rulesStrings.20>
+</LanguageData>

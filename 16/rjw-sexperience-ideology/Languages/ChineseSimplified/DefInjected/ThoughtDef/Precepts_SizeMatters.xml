@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- Thoughts - Mood -->
+  <!--原中文: '令人蔑视的生殖器', 原英文: '无' -> 新英文: 'Despised Genitalsize',更新于2026-02-14-->
+  <!--EN: Despised Genitalsize-->
+  <GenitalSize_Approved.stages.0.label>令人蔑视的生殖器</GenitalSize_Approved.stages.0.label>
+  <!--原中文: '我……我现在这样也很好！', 原英文: '无' -> 新英文: 'I have to be okay with the way I am, I know no one else is.',更新于2026-02-14-->
+  <!--EN: I have to be okay with the way I am, I know no one else is.-->
+  <GenitalSize_Approved.stages.0.description>我……我现在这样也很好！</GenitalSize_Approved.stages.0.description>
+  <!--原中文: '令人失望的生殖器', 原英文: '无' -> 新英文: 'Unwanted Genitalsize',更新于2026-02-14-->
+  <!--EN: Unwanted Genitalsize-->
+  <GenitalSize_Approved.stages.1.label>令人失望的生殖器</GenitalSize_Approved.stages.1.label>
+  <!--原中文: '我觉得有点小了。', 原英文: '无' -> 新英文: 'I think I am below average.',更新于2026-02-14-->
+  <!--EN: I think I am below average.-->
+  <GenitalSize_Approved.stages.1.description>我觉得有点小了。</GenitalSize_Approved.stages.1.description>
+  <!--原中文: '平均水平的生殖器', 原英文: '无' -> 新英文: 'Normal Genitals',更新于2026-02-14-->
+  <!--EN: Normal Genitals-->
+  <GenitalSize_Approved.stages.2.label>平均水平的生殖器</GenitalSize_Approved.stages.2.label>
+  <!--原中文: '我觉得这样就是平均水平了。', 原英文: '无' -> 新英文: 'I guess I am the average.',更新于2026-02-14-->
+  <!--EN: I guess I am the average.-->
+  <GenitalSize_Approved.stages.2.description>我觉得这样就是平均水平了。</GenitalSize_Approved.stages.2.description>
+  <!--原中文: '令人赞叹的生殖器', 原英文: '无' -> 新英文: 'Appreciated Genitals',更新于2026-02-14-->
+  <!--EN: Appreciated Genitals-->
+  <GenitalSize_Approved.stages.3.label>令人赞叹的生殖器</GenitalSize_Approved.stages.3.label>
+  <!--原中文: '我觉得还挺大的。', 原英文: '无' -> 新英文: 'I think I am above average.',更新于2026-02-14-->
+  <!--EN: I think I am above average.-->
+  <GenitalSize_Approved.stages.3.description>我觉得还挺大的。</GenitalSize_Approved.stages.3.description>
+  <!--原中文: '令人震撼的生殖器', 原英文: '无' -> 新英文: 'Venerated Genitals',更新于2026-02-14-->
+  <!--EN: Venerated Genitals-->
+  <GenitalSize_Approved.stages.4.label>令人震撼的生殖器</GenitalSize_Approved.stages.4.label>
+  <!--原中文: '我不想成为房间里的大象，但我的一部分已经是了。', 原英文: '无' -> 新英文: 'My genitals are the ideal size and health, I am the perfect example.',更新于2026-02-14-->
+  <!--EN: My genitals are the ideal size and health, I am the perfect example.-->
+  <GenitalSize_Approved.stages.4.description>我不想成为房间里的大象，但我的一部分已经是了。</GenitalSize_Approved.stages.4.description>
+  <!--原中文: '令人震撼的生殖器', 原英文: '无' -> 新英文: 'Venerated Genitals',更新于2026-02-14-->
+  <!--EN: Venerated Genitals-->
+  <GenitalSize_Disapproved.stages.0.label>令人震撼的生殖器</GenitalSize_Disapproved.stages.0.label>
+  <!--原中文: '我不需要过大的生殖器，因为这正是我无上智慧和优雅的象征。', 原英文: '无' -> 新英文: 'I do not need great genitals, as I am a being of supreme intellect and grace.',更新于2026-02-14-->
+  <!--EN: I do not need great genitals, as I am a being of supreme intellect and grace.-->
+  <GenitalSize_Disapproved.stages.0.description>我不需要过大的生殖器，因为这正是我无上智慧和优雅的象征。</GenitalSize_Disapproved.stages.0.description>
+  <!--原中文: '令人赞叹的生殖器', 原英文: '无' -> 新英文: 'Appreciated Genitals',更新于2026-02-14-->
+  <!--EN: Appreciated Genitals-->
+  <GenitalSize_Disapproved.stages.1.label>令人赞叹的生殖器</GenitalSize_Disapproved.stages.1.label>
+  <!--原中文: '我觉得还挺小的。', 原英文: '无' -> 新英文: 'I think I am below average.',更新于2026-02-14-->
+  <!--EN: I think I am below average.-->
+  <GenitalSize_Disapproved.stages.1.description>我觉得还挺小的。</GenitalSize_Disapproved.stages.1.description>
+  <!--原中文: '平均水平的生殖器', 原英文: '无' -> 新英文: 'Normal Genitals',更新于2026-02-14-->
+  <!--EN: Normal Genitals-->
+  <GenitalSize_Disapproved.stages.2.label>平均水平的生殖器</GenitalSize_Disapproved.stages.2.label>
+  <!--原中文: '我觉得这样就是平均水平了。', 原英文: '无' -> 新英文: 'I guess I am the average.',更新于2026-02-14-->
+  <!--EN: I guess I am the average.-->
+  <GenitalSize_Disapproved.stages.2.description>我觉得这样就是平均水平了。</GenitalSize_Disapproved.stages.2.description>
+  <!--原中文: '令人失望的生殖器', 原英文: '无' -> 新英文: 'Unwanted Genitals',更新于2026-02-14-->
+  <!--EN: Unwanted Genitals-->
+  <GenitalSize_Disapproved.stages.3.label>令人失望的生殖器</GenitalSize_Disapproved.stages.3.label>
+  <!--原中文: '我觉得有点大了。', 原英文: '无' -> 新英文: 'I think I am above average.',更新于2026-02-14-->
+  <!--EN: I think I am above average.-->
+  <GenitalSize_Disapproved.stages.3.description>我觉得有点大了。</GenitalSize_Disapproved.stages.3.description>
+  <!--原中文: '令人蔑视的生殖器', 原英文: '无' -> 新英文: 'Despised Genitals',更新于2026-02-14-->
+  <!--EN: Despised Genitals-->
+  <GenitalSize_Disapproved.stages.4.label>令人蔑视的生殖器</GenitalSize_Disapproved.stages.4.label>
+  <!--原中文: '相比人类，我更像动物了。我为什么长成了这种样子？', 原英文: '无' -> 新英文: 'I am closer to an animal, than to a human. Why did I have to be born this way?',更新于2026-02-14-->
+  <!--EN: I am closer to an animal, than to a human. Why did I have to be born this way?-->
+  <GenitalSize_Disapproved.stages.4.description>相比人类，我更像动物了。我为什么长成了这种样子？</GenitalSize_Disapproved.stages.4.description>
+  <!-- Social-Thoughts (Opinion) -->
+  <!--原中文: '令人失望的生殖器', 原英文: '无' -> 新英文: 'Unwanted Genitals',更新于2026-02-14-->
+  <!--EN: Unwanted Genitals-->
+  <GenitalSize_Approved_Social.stages.0.label>令人失望的生殖器</GenitalSize_Approved_Social.stages.0.label>
+  <!--原中文: '平均水平的生殖器', 原英文: '无' -> 新英文: 'Normal Genitals',更新于2026-02-14-->
+  <!--EN: Normal Genitals-->
+  <GenitalSize_Approved_Social.stages.1.label>平均水平的生殖器</GenitalSize_Approved_Social.stages.1.label>
+  <!--原中文: '令人喜欢的生殖器', 原英文: '无' -> 新英文: 'Favorable Genitals',更新于2026-02-14-->
+  <!--EN: Favorable Genitals-->
+  <GenitalSize_Approved_Social.stages.2.label>令人喜欢的生殖器</GenitalSize_Approved_Social.stages.2.label>
+  <!--原中文: '令人喜欢的生殖器', 原英文: '无' -> 新英文: 'Favorable Genitals',更新于2026-02-14-->
+  <!--EN: Favorable Genitals-->
+  <GenitalSize_Disapproved_Social.stages.0.label>令人喜欢的生殖器</GenitalSize_Disapproved_Social.stages.0.label>
+  <!--原中文: '平均水平的生殖器', 原英文: '无' -> 新英文: 'Normal Genitals',更新于2026-02-14-->
+  <!--EN: Normal Genitals-->
+  <GenitalSize_Disapproved_Social.stages.1.label>平均水平的生殖器</GenitalSize_Disapproved_Social.stages.1.label>
+  <!--原中文: '令人失望的生殖器', 原英文: '无' -> 新英文: 'Unwanted Genitals',更新于2026-02-14-->
+  <!--EN: Unwanted Genitals-->
+  <GenitalSize_Disapproved_Social.stages.2.label>令人失望的生殖器</GenitalSize_Disapproved_Social.stages.2.label>
+</LanguageData>

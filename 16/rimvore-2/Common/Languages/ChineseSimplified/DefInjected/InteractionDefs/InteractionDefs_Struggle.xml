@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: struggling-->
+  <RV2_ActiveStruggle.label>挣扎中</RV2_ActiveStruggle.label>
+  <!--EN: r_logentry->[INITIATOR_nameDef] struggled inside [RECIPIENT_nameDef].-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]内心挣扎[RECIPIENT_nameDef]</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->[INITIATOR_nameDef]'s footprint is visible inside of [RECIPIENT_nameDef].-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef]的足迹位于[RECIPIENT_nameDef]</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.1>
+  <!--EN: r_logentry->A muffled scream can be heard inside of [RECIPIENT_nameDef].-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.10>r_logentry->内有微弱的尖叫声[RECIPIENT_nameDef]</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.10>
+  <!--EN: struggle_action_past->punched-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.11>struggle_action_past->冲锋</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.11>
+  <!--EN: struggle_action_past->scratched-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.12>struggle_action_past->被抓伤</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.12>
+  <!--EN: struggle_action_past->bit-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.13>struggle_action_past->钻头</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.13>
+  <!--EN: struggle_action_past->hurt-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.14>struggle_action_past->受伤</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.14>
+  <!--EN: struggle_action_past->bumped-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.15>struggle_action_past->被撞了</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.15>
+  <!--EN: struggle_action_past->kicked-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.16>struggle_action_past->被踢腿</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.16>
+  <!--EN: struggle_action_gerund->punching-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.17>struggle_action_gerund->冲孔</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.17>
+  <!--EN: struggle_action_gerund->scratching-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.18>struggle_action_gerund->抓</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.18>
+  <!--EN: struggle_action_gerund->biting-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.19>struggle_action_gerund->咬</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.19>
+  <!--EN: r_logentry->[INITIATOR_nameDef]'s handprint is visible inside of [RECIPIENT_nameDef].-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef]的掌纹可见于[RECIPIENT_nameDef]</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.2>
+  <!--EN: struggle_action_gerund->kicking-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.20>struggle_action_gerund->踢腿的</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.20>
+  <!--EN: r_logentry->[INITIATOR_nameDef] [struggle_action_past] [RECIPIENT_nameDef] insides.-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.3>r_logentry->[INITIATOR_nameDef][struggle_action_past][RECIPIENT_nameDef]内部。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.3>
+  <!--EN: r_logentry->[INITIATOR_nameDef] [struggle_action_past] some sensitive flesh inside of [RECIPIENT_nameDef].-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.4>r_logentry->[INITIATOR_nameDef][struggle_action_past]一些敏感的血肉在[RECIPIENT_nameDef]</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.4>
+  <!--EN: r_logentry->[INITIATOR_nameDef] tried to stretch to [INITIATOR_possessive] full size inside of [RECIPIENT_nameDef].-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.5>r_logentry->[INITIATOR_nameDef]试图伸展至[INITIATOR_possessive]内有完整尺寸:[RECIPIENT_nameDef]</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.5>
+  <!--EN: r_logentry->[RECIPIENT_nameDef] winced in pain due to [INITIATOR_nameDef]'s [struggle_action_gerund].-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.6>r_logentry->[RECIPIENT_nameDef]畏缩于疼痛由于[INITIATOR_nameDef]的[struggle_action_gerund]</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.6>
+  <!--EN: r_logentry->[RECIPIENT_nameDef] stumbled due to [INITIATOR_nameDef]'s [struggle_action_gerund].-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.7>r_logentry->[RECIPIENT_nameDef]因跌跌撞撞[INITIATOR_nameDef]的[struggle_action_gerund]</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.7>
+  <!--EN: r_logentry->[INITIATOR_nameDef] caused [RECIPIENT_nameDef] to stumble.-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.8>r_logentry->[INITIATOR_nameDef]造成[RECIPIENT_nameDef]绊倒。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.8>
+  <!--EN: r_logentry->[INITIATOR_nameDef] heavily distracts [RECIPIENT_nameDef] from [RECIPIENT_possessive] work.-->
+  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings.9>r_logentry->[INITIATOR_nameDef]严重分心[RECIPIENT_nameDef]来自[RECIPIENT_possessive]正在工作。</RV2_ActiveStruggle.logRulesInitiator.rulesStrings.9>
+  <!--EN: failed struggle-->
+  <RV2_FailedStruggle.label>失败的挣扎</RV2_FailedStruggle.label>
+  <!--EN: r_logentry->[INITIATOR_nameDef] failed to struggle out of [RECIPIENT_nameDef].-->
+  <RV2_FailedStruggle.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]挣扎挣扎失败[RECIPIENT_nameDef]</RV2_FailedStruggle.logRulesInitiator.rulesStrings.0>
+  <!--EN: successful struggle-->
+  <RV2_SuccessfulStruggle.label>斗争成功</RV2_SuccessfulStruggle.label>
+  <!--EN: r_logentry->[INITIATOR_nameDef] successfuly struggled out of [RECIPIENT_nameDef].-->
+  <RV2_SuccessfulStruggle.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef]成功挣扎自尽[RECIPIENT_nameDef]</RV2_SuccessfulStruggle.logRulesInitiator.rulesStrings.0>
+</LanguageData>

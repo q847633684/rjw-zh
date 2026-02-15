@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '骑脸交配', 原英文: '无' -> 新英文: 'MouthFuck',更新于2026-02-14-->
+  <!--EN: MouthFuck-->
+  <Bestiality_Oral.label>骑脸交配</Bestiality_Oral.label>
+  <!--原中文: '让其骑脸交配', 原英文: '无' -> 新英文: 'Breed orally',更新于2026-02-14-->
+  <!--EN: Breed orally-->
+  <Bestiality_Oral.modExtensions.0.RMBLabel>让其骑脸交配</Bestiality_Oral.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->爬着给[RECIPIENT_nameDef]口交。', 原英文: '无' -> 新英文: 'r_logentry->Mounted [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Mounted [RECIPIENT_nameDef].-->
+  <Bestiality_Oral.logRulesInitiator.rulesStrings.0>r_logentry->爬着给[RECIPIENT_nameDef]口交。</Bestiality_Oral.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->被[INITIATOR_nameDef]爬着口交。', 原英文: '无' -> 新英文: 'r_logentry->Was mounted by [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Was mounted by [INITIATOR_nameDef].-->
+  <Bestiality_Oral.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]爬着口交。</Bestiality_Oral.logRulesRecipient.rulesStrings.0>
+</LanguageData>

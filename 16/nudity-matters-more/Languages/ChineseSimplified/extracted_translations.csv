@@ -1,0 +1,327 @@
+key,text,tag,file,type
+NMM_PrudeDraft,{0_labelShort}'s arms stay firmly planted on {0_possessive} body.,NMM_PrudeDraft,Misc.xml,keyed
+NMM_BiopodWarning,Cannot enter biosculpter pod while wearing any apparel.,NMM_BiopodWarning,Misc.xml,keyed
+NMM_Nudity,Nudity,NMM_Nudity,NudityTab.xml,keyed
+NMM_FemButton,Females,NMM_FemButton,NudityTab.xml,keyed
+NMM_MaleButton,Males,NMM_MaleButton,NudityTab.xml,keyed
+NMM_TrapButton,Traps,NMM_TrapButton,NudityTab.xml,keyed
+NMM_FutaButton,Futas,NMM_FutaButton,NudityTab.xml,keyed
+NMM_CoverAllowed,Allowed to cover,NMM_CoverAllowed,NudityTab.xml,keyed
+NMM_Aware,Aware,NMM_Aware,NudityTab.xml,keyed
+NMM_All,All,NMM_All,NudityTab.xml,keyed
+NMM_Observer,As observer,NMM_Observer,NudityTab.xml,keyed
+NMM_Observed,As observed,NMM_Observed,NudityTab.xml,keyed
+NMM_NSWoman,never seen a naked woman,NMM_NSWoman,NudityTab.xml,keyed
+NMM_NSBreasts,never seen a woman's breasts,NMM_NSBreasts,NudityTab.xml,keyed
+NMM_NSFemGens,never seen a woman's genitals,NMM_NSFemGens,NudityTab.xml,keyed
+NMM_NSMaleGens,never seen a man's genitals,NMM_NSMaleGens,NudityTab.xml,keyed
+NMM_NBSNaked,{0_pronoun} has never been seen naked,NMM_NBSNaked,NudityTab.xml,keyed
+NMM_NBSBreasts,{0_possessive} breasts have never been seen,NMM_NBSBreasts,NudityTab.xml,keyed
+NMM_NBSGens,{0_possessive} genitals have never been seen,NMM_NBSGens,NudityTab.xml,keyed
+NMM_NBSNakedFP,I have never been seen naked,NMM_NBSNakedFP,NudityTab.xml,keyed
+NMM_NBSBreastsFP,my breasts have never been seen,NMM_NBSBreastsFP,NudityTab.xml,keyed
+NMM_NBSGensFP,my genitals have never been seen,NMM_NBSGensFP,NudityTab.xml,keyed
+NMM_StatusCoverNaked,naked (covering),NMM_StatusCoverNaked,NudityTab.xml,keyed
+NMM_StatusCoverBreasts,covering breasts,NMM_StatusCoverBreasts,NudityTab.xml,keyed
+NMM_StatusCoverGens,covering genitals,NMM_StatusCoverGens,NudityTab.xml,keyed
+NMM_StatusNaked,completely naked,NMM_StatusNaked,NudityTab.xml,keyed
+NMM_StatusBreasts,breasts uncovered,NMM_StatusBreasts,NudityTab.xml,keyed
+NMM_StatusGens,genitals uncovered,NMM_StatusGens,NudityTab.xml,keyed
+NMM_StatusNoShirt,shirtless,NMM_StatusNoShirt,NudityTab.xml,keyed
+NMM_StatusClothed,fully clothed,NMM_StatusClothed,NudityTab.xml,keyed
+NMM_SeenHerBreasts,Have seen her breasts,NMM_SeenHerBreasts,NudityTab.xml,keyed
+NMM_SeenHerGens,Have seen her genitals,NMM_SeenHerGens,NudityTab.xml,keyed
+NMM_SeenHisChest,Have seen his chest,NMM_SeenHisChest,NudityTab.xml,keyed
+NMM_SeenHisGens,Have seen his genitals,NMM_SeenHisGens,NudityTab.xml,keyed
+NMM_SeenMyBreasts,Has seen my breasts,NMM_SeenMyBreasts,NudityTab.xml,keyed
+NMM_SeenMyGens,Has seen my genitals,NMM_SeenMyGens,NudityTab.xml,keyed
+NMM_Never,never,NMM_Never,NudityTab.xml,keyed
+NMM_CanSeeNow,can see now,NMM_CanSeeNow,NudityTab.xml,keyed
+NMM_ICantSee,I can't see.,NMM_ICantSee,NudityTab.xml,keyed
+NMM_TheyCantSee,{0_pronoun} can't see.,NMM_TheyCantSee,NudityTab.xml,keyed
+NMM_NooneCanSee,{0_pronoun} doesn't want anyone to see {0_objective} naked.,NMM_NooneCanSee,NudityTab.xml,keyed
+NMM_AllCanSee,{0_pronoun} doesn't care if anyone sees {0_objective} naked.,NMM_AllCanSee,NudityTab.xml,keyed
+NMM_ICanSee,{0_pronoun} doesn't care if I see {0_objective} naked.,NMM_ICanSee,NudityTab.xml,keyed
+NMM_ICannotSee,{0_pronoun} doesn't want me to see {0_objective} naked.,NMM_ICannotSee,NudityTab.xml,keyed
+NMM_LoverCanSee,{0_pronoun} can occasionally see me naked.,NMM_LoverCanSee,NudityTab.xml,keyed
+NMM_TheyCantSeeMe,I don't want {0_objective} to see me naked.,NMM_TheyCantSeeMe,NudityTab.xml,keyed
+NMM_TheyCanSeeMe,I don't care if {0_pronoun} sees me naked.,NMM_TheyCanSeeMe,NudityTab.xml,keyed
+MildBugInClothes.label,mild bug in clothes,label,HediffDefs\Hediffs_BugInClothes.xml,def
+MildBugInClothes.description,mild bug in clothes,description,HediffDefs\Hediffs_BugInClothes.xml,def
+MildBugInClothes.stages.0.label,minor,label,HediffDefs\Hediffs_BugInClothes.xml,def
+NMM_VoyScore.label,voy score,label,HediffDefs\Hediffs_Scoring.xml,def
+NMM_VoyScore.description,voy score,description,HediffDefs\Hediffs_Scoring.xml,def
+NMM_VoyScore.stages.0.label,voy score,label,HediffDefs\Hediffs_Scoring.xml,def
+NMM_PrudeScore.label,prude score,label,HediffDefs\Hediffs_Scoring.xml,def
+NMM_PrudeScore.description,prude score,description,HediffDefs\Hediffs_Scoring.xml,def
+NMM_PrudeScore.stages.0.label,prude score,label,HediffDefs\Hediffs_Scoring.xml,def
+NMM_ExhibScore.label,exhibitionist score,label,HediffDefs\Hediffs_Scoring.xml,def
+NMM_ExhibScore.description,exhibitionist score,description,HediffDefs\Hediffs_Scoring.xml,def
+NMM_ExhibScore.stages.0.label,exhibitionist score,label,HediffDefs\Hediffs_Scoring.xml,def
+BraStatus.label,how the boobs doin,label,HediffDefs\Hediff_BraStatus.xml,def
+BraStatus.description,the boobs need the bra,description,HediffDefs\Hediff_BraStatus.xml,def
+BraStatus.stages.0.label,bra,label,HediffDefs\Hediff_BraStatus.xml,def
+CoverBody.label,covering body,label,HediffDefs\Hediff_CoverBody.xml,def
+CoverBody.description,Trying to keep people from seeing their naked body by holding it tightly.,description,HediffDefs\Hediff_CoverBody.xml,def
+CoverBody.stages.0.label,one hand free,label,HediffDefs\Hediff_CoverBody.xml,def
+CoverBody.stages.1.label,one hand free,label,HediffDefs\Hediff_CoverBody.xml,def
+CoverBody.stages.2.label,using both hands,label,HediffDefs\Hediff_CoverBody.xml,def
+NotCovering.label,not covering body,label,HediffDefs\Hediff_CoverBody.xml,def
+NotCovering.description,this pawn is not covering their body.,description,HediffDefs\Hediff_CoverBody.xml,def
+NotCovering.stages.0.label,minor,label,HediffDefs\Hediff_CoverBody.xml,def
+PrudeDrafted.label,this prude is drafted,label,HediffDefs\Hediff_DraftedPrude.xml,def
+PrudeDrafted.description,gra gra gra gra,description,HediffDefs\Hediff_DraftedPrude.xml,def
+PrudeDrafted.stages.0.label,dra,label,HediffDefs\Hediff_DraftedPrude.xml,def
+NakedTime.label,naked time,label,HediffDefs\Hediff_NakedTime.xml,def
+NakedTime.description,naked time,description,HediffDefs\Hediff_NakedTime.xml,def
+NakedTime.stages.0.label,naked time,label,HediffDefs\Hediff_NakedTime.xml,def
+PreNipSlip.label,clothing shift,label,HediffDefs\Hediff_NipSlip.xml,def
+PreNipSlip.description,Clothing adjusts or rearranges with movement.,description,HediffDefs\Hediff_NipSlip.xml,def
+PreNipSlip.stages.0.label,pre-show,label,HediffDefs\Hediff_NipSlip.xml,def
+NipSlip.label,clothing shift,label,HediffDefs\Hediff_NipSlip.xml,def
+NipSlip.description,Clothing adjusts or rearranges with movement.,description,HediffDefs\Hediff_NipSlip.xml,def
+NipSlip.stages.0.label,nipple,label,HediffDefs\Hediff_NipSlip.xml,def
+PrudeBrokenTracker.label,prude broken tracker,label,HediffDefs\Hediff_PrudeBrokenTracker.xml,def
+PrudeBrokenTracker.description,prude broken tracker,description,HediffDefs\Hediff_PrudeBrokenTracker.xml,def
+PrudeBrokenTracker.stages.0.label,prude broken tracker,label,HediffDefs\Hediff_PrudeBrokenTracker.xml,def
+WetShirt.label,wet clothing,label,HediffDefs\Hediff_WetShirt.xml,def
+WetShirt.description,"Their clothes are clinging to their body, getting more transparent the wetter they get.",description,HediffDefs\Hediff_WetShirt.xml,def
+WetShirt.stages.0.label,damp,label,HediffDefs\Hediff_WetShirt.xml,def
+WetShirt.stages.1.label,nearly see-through,label,HediffDefs\Hediff_WetShirt.xml,def
+WetShirt.stages.2.label,see-through,label,HediffDefs\Hediff_WetShirt.xml,def
+ShowerIntruded.stages.0.label,{0} walked in on my shower,label,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def
+ShowerIntruded.stages.0.description,Don't we have rules around here?,description,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def
+ShowerIntrudedPrude.stages.0.label,{0} walked in on my shower,label,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def
+ShowerIntrudedPrude.stages.0.description,I thought I was safe in there.,description,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def
+BathIntruded.stages.0.label,{0} walked in on my bath,label,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def
+BathIntruded.stages.0.description,Don't we have rules around here?,description,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def
+BathIntrudedPrude.stages.0.label,{0} walked in on my bath,label,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def
+BathIntrudedPrude.stages.0.description,I thought I was safe in there.,description,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def
+Braless.stages.0.label,not wearing a bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+Braless.stages.0.description,This is just better.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BralessPrude.stages.0.label,not wearing a bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BralessPrude.stages.0.description,I'm so exposed like this.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BralessSevere.stages.0.label,not wearing a bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BralessSevere.stages.0.description,This just doesn't work for me.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BralessSeverePrude.stages.0.label,not wearing a bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BralessSeverePrude.stages.0.description,I just know everyone can see them.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BadBra.stages.0.label,uncomfortable bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BadBra.stages.0.description,I have to adjust all the time.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BadBraPrude.stages.0.label,useless bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BadBraPrude.stages.0.description,I keep having to check it.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BadBraSevere.stages.0.label,uncomfortable bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BadBraSevere.stages.0.description,I'm spilling out of this stupid thing.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BadBraSeverePrude.stages.0.label,useless bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+BadBraSeverePrude.stages.0.description,I'm scared of my nipples popping out.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+GoodBra.stages.0.label,decent bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+GoodBra.stages.0.description,It actually fits pretty well.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+GoodBraSevere.stages.0.label,decent bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+GoodBraSevere.stages.0.description,How did they make something that fits me.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+GoodBraPrude.stages.0.label,secure bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+GoodBraPrude.stages.0.description,I'm safe from disaster.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+GoodBraSeverePrude.stages.0.label,secure bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+GoodBraSeverePrude.stages.0.description,I put my life in its hands.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+WearingCorset.stages.0.label,wearing a corset,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+WearingCorset.stages.0.description,This feels good on my body.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+WearingCorsetPrude.stages.0.label,wearing a corset,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+WearingCorsetPrude.stages.0.description,I feel contained.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+WearingCorsetSevere.stages.0.label,wearing a corset,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+WearingCorsetSevere.stages.0.description,My breasts look stunning.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+WearingCorsetSeverePrude.stages.0.label,wearing a corset,label,ThoughtDefs\ThoughtDefs_Bra.xml,def
+WearingCorsetSeverePrude.stages.0.description,They feel like they're about to pop out.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def
+FixationALovers.stages.0.label,thinking about {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationALovers.stages.0.description,"We're lovers, {OTHERPAWN_pronoun} might let me see {OTHERPAWN_objective} naked.",description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationARepeat.stages.0.label,thinking about {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationARepeat.stages.0.description,I can't remember what {OTHERPAWN_pronoun} looks like naked,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationBLovers.stages.0.label,want to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationBLovers.stages.0.description,I could just rip {OTHERPAWN_possessive} clothes off.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationCLovers.stages.0.label,dying to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationCLovers.stages.0.description,I can't get {OTHERPAWN_objective} out of my head. I need to see {OTHERPAWN_objective} naked now.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationDLovers.stages.0.label,never going to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationDLovers.stages.0.description,I don't think it's ever going to happen.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationAVoyeur.stages.0.label,thinking about {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationAVoyeur.stages.0.description,I want to know what {OTHERPAWN_pronoun} looks like.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationBVoyeur.stages.0.label,want to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationBVoyeur.stages.0.description,How can I make this happen?,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationCVoyeur.stages.0.label,dying to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationCVoyeur.stages.0.description,It's all I think about. I can't keep my eyes off of {OTHERPAWN_objective}.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationDVoyeur.stages.0.label,never going to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationDVoyeur.stages.0.description,I need to move on.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationABoobs.stages.0.label,thinking about {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationABoobs.stages.0.description,I want to know what {OTHERPAWN_possessive} breasts look like.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationABoobsRepeat.stages.0.label,thinking about {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationABoobsRepeat.stages.0.description,I don't think I can remember what {OTHERPAWN_possessive} breasts look like.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationBBoobs.stages.0.label,want to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationBBoobs.stages.0.description,That chest is just teasing me.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationCBoobs.stages.0.label,dying to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationCBoobs.stages.0.description,I just need to see {OTHERPAWN_possessive} breasts. How big are they really?,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationDBoobs.stages.0.label,never going to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationDBoobs.stages.0.description,Maybe someone else got lucky enough.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationABeauty.stages.0.label,thinking about {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationABeauty.stages.0.description,I'm so struck by {OTHERPAWN_objective}.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationBBeauty.stages.0.label,want to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationBBeauty.stages.0.description,What a gift it would be to see {OTHERPAWN_objective} naked.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationCBeauty.stages.0.label,dying to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationCBeauty.stages.0.description,I would do anything to see what's under those clothes.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationDBeauty.stages.0.label,never going to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+FixationDBeauty.stages.0.description,I must not be worthy.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenALovers.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenALovers.stages.0.description,I guess {OTHERPAWN_pronoun} trusts me.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBLovers.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBLovers.stages.0.description,Today was a special day.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCLovers.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCLovers.stages.0.description,I can't believe {OTHERPAWN_pronoun} showed {OTHERPAWN_objective}self to me. Is this real?,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenAVoyeur.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenAVoyeur.stages.0.description,What a nice treat.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBVoyeur.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBVoyeur.stages.0.description,I saw every bit of {OTHERPAWN_objective}.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCVoyeur.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCVoyeur.stages.0.description,I will think about this image forever.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenABoobs.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenABoobs.stages.0.description,I did not think {OTHERPAWN_possessive} breasts were that big..,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenABoobsRepeat.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenABoobsRepeat.stages.0.description,I forgot {OTHERPAWN_possessive} breasts were that big..,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBBoobs.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBBoobs.stages.0.description,Those breasts are a work of art.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCBoobs.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCBoobs.stages.0.description,I never want to forget those breasts.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenABeauty.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenABeauty.stages.0.description,What an immaculate creature.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBBeauty.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBBeauty.stages.0.description,That is one of the most beautiful things I've ever seen.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCBeauty.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCBeauty.stages.0.description,I'm a very lucky person.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenATop.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenATop.stages.0.description,That was unexpected.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBTop.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBTop.stages.0.description,Today was a good day.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCTop.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCTop.stages.0.description,"That was great, but I want more.",description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenABot.stages.0.label,saw {0} bottomless,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenABot.stages.0.description,That was unexpected.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBBot.stages.0.label,saw {0} bottomless,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBBot.stages.0.description,What a cute butt.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCBot.stages.0.label,saw {0} bottomless,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCBot.stages.0.description,"That was great, but I want more.",description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenATopBoobs.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenATopBoobs.stages.0.description,I did not think they were that big..,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenATopBoobsRepeat.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenATopBoobsRepeat.stages.0.description,I forgot they were that big..,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBTopBoobs.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenBTopBoobs.stages.0.description,Her breasts are a work of art.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCTopBoobs.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SeenCTopBoobs.stages.0.description,I never want to forget those breasts.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def
+SlipBUnaware.stages.0.label,I feel a breeze,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipBUnaware.stages.0.description,But there shouldn't be,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipCUnaware.stages.0.label,I feel a breeze,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipCUnaware.stages.0.description,Something feels very freeing.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipBAwareNoCare.stages.0.label,my nipple is out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipBAwareNoCare.stages.0.description,Don't care.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipCAwareNoCare.stages.0.label,my breast is out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipCAwareNoCare.stages.0.description,I couldn't be bothered.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipBCannotFix.stages.0.label,my nipple is out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipBCannotFix.stages.0.description,I can't do anything about it.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipCCannotFix.stages.0.label,my breast is out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipCCannotFix.stages.0.description,I can't do anything about it.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipACannotFixPrude.stages.0.label,my top is slipping,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipACannotFixPrude.stages.0.description,My nipple will be out any second.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipBCannotFixPrude.stages.0.label,my nipple is out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipBCannotFixPrude.stages.0.description,I'm completely helpless.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipCCannotFixPrude.stages.0.label,my breast is out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipCCannotFixPrude.stages.0.description,I can't do anything about it.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipBFixed.stages.0.label,my nipple was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipBFixed.stages.0.description,I need better clothes.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipCFixed.stages.0.label,my breast was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipCFixed.stages.0.description,I need better clothes.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipAFixedPrude.stages.0.label,had to fix my top,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipAFixedPrude.stages.0.description,My nipple was almost out.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipBFixedPrude.stages.0.label,my nipple was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipBFixedPrude.stages.0.description,I really hope no one saw.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipCFixedPrude.stages.0.label,my breast was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipCFixedPrude.stages.0.description,How long was it..,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipFixedCover.stages.0.label,can't keep my breasts covered,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipFixedCover.stages.0.description,Someone definitely saw.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipFixedCoverPrude.stages.0.label,can't keep my breasts covered,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+SlipFixedCoverPrude.stages.0.description,I really hope no one saw.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+PositiveHelped.stages.0.label,{0} told me my nipple was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+PositiveHelped.stages.0.description,That was embarassing.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+NegativeHelped.stages.0.label,{0} told me my nipple was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+NegativeHelped.stages.0.description,That was really emabrassing.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+PositiveHelpedPrude.stages.0.label,{0} told me my nipple was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+PositiveHelpedPrude.stages.0.description,I can't look them in the eye.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+NegativeHelpedPrude.stages.0.label,{0} told me my nipple was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+NegativeHelpedPrude.stages.0.description,I need to crawl in a hole.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def
+CoveringBody.stages.0.label,naked around people,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CoveringBody.stages.0.description,This is humiliating.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CoveringBodyPrude.stages.0.label,naked,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CoveringBodyPrude.stages.0.description,My arms are staying where they are.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CoveringBreasts.stages.0.label,topless around people,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CoveringBreasts.stages.0.description,This is really annoying.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CoveringBreastsPrude.stages.0.label,topless,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CoveringBreastsPrude.stages.0.description,My arms are staying where they are.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CoveringGenitals.stages.0.label,naked around people,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CoveringGenitals.stages.0.description,This is humiliating.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CoveringGenitalsPrude.stages.0.label,naked,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CoveringGenitalsPrude.stages.0.description,No one look at me.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+ShowingBody.stages.0.label,not allowed to cover up,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+ShowingBody.stages.0.description,I'm just not going to think about it.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+ShowingBodyPrude.stages.0.label,not allowed to cover up,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+ShowingBodyPrude.stages.0.description,This is a living nightmare.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+NakedHostile.stages.0.label,not covering body,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+NakedHostile.stages.0.description,The situation demands it.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+NakedHostilePrude.stages.0.label,not covering body,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+NakedHostilePrude.stages.0.description,How did I get in this situation.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+UncaringUncovered.stages.0.label,naked and uncaring,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+UncaringUncovered.stages.0.description,"Let them see, I don't care.",description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+DraftedPrude.stages.0.label,covering my body with my hands,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+DraftedPrude.stages.0.description,How did I get in this situation.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+NakedAlone.stages.0.label,naked by myself,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+NakedAlone.stages.0.description,This feels alright.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+NakedAlonePrude.stages.0.label,naked by myself,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+NakedAlonePrude.stages.0.description,I'm so scared someone will see me.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+NakedWithOthers.stages.0.label,naked around others,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+NakedWithOthers.stages.0.description,I'm ok letting these peple see me naked.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CannotCover.stages.0.label,cannot cover myself,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CannotCover.stages.0.description,I'm too weak to cover my body.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CannotCoverPrude.stages.0.label,cannot cover myself,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+CannotCoverPrude.stages.0.description,I'm just here for all the world to see.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+WokeNaked.stages.0.label,woke up naked,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+WokeNaked.stages.0.description,Did I go to sleep like that?,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+WokeNakedPrude.stages.0.label,woke up naked,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+WokeNakedPrude.stages.0.description,Anyone could have seen me.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+WokeNakedExhib.stages.0.label,woke up naked,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+WokeNakedExhib.stages.0.description,Anyone could have seen me.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def
+PrudeScoreNone.stages.0.label,modesty intact,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+PrudeScoreNone.stages.0.description,I'm in control of my body right now.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+PrudeScoreLow.stages.0.label,modesty breached,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+PrudeScoreLow.stages.0.description,I feel kind of sick.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+PrudeScoreMid.stages.0.label,modesty compromised,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+PrudeScoreMid.stages.0.description,People have seen things I don't want them to see.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+PrudeScoreHigh.stages.0.label,modesty stripped,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+PrudeScoreHigh.stages.0.description,This is unimaginable.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+VoyScoreHigh.stages.0.label,voyeur thrilled,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+VoyScoreHigh.stages.0.description,This is heaven.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+VoyScoreMid.stages.0.label,voyeur pleased,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+VoyScoreMid.stages.0.description,I'm really enjoying this colony.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+VoyScoreLow.stages.0.label,voyeur pleased,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+VoyScoreLow.stages.0.description,That was unexpected.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+VoyScoreNone.stages.0.label,voyeur frustrated,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+VoyScoreNone.stages.0.description,Everyone's so buttoned up.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+ExhibScoreHigh.stages.0.label,exhibitionist thrilled,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+ExhibScoreHigh.stages.0.description,These people know my body better than I do.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+ExhibScoreMid.stages.0.label,exhibitionist pleased,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+ExhibScoreMid.stages.0.description,I've gotten some thrills lately.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+ExhibScoreLow.stages.0.label,exhibitionist amused,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+ExhibScoreLow.stages.0.description,That was kind of exciting.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+ExhibScoreNone.stages.0.label,exhibitionist frustrated,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+ExhibScoreNone.stages.0.description,I just want someone to see me naked.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def
+CaughtPeepingShower.stages.0.label,intruded on my shower,label,ThoughtDefs\ThoughtDefs_Social.xml,def
+CaughtPeepingShowerPrude.stages.0.label,intruded on my shower,label,ThoughtDefs\ThoughtDefs_Social.xml,def
+CaughtPeepingBath.stages.0.label,intruded on my bath,label,ThoughtDefs\ThoughtDefs_Social.xml,def
+CaughtPeepingBathPrude.stages.0.label,intruded on my bath,label,ThoughtDefs\ThoughtDefs_Social.xml,def
+NMM_Prude.degreeDatas.0.label,prudish,label,TraitDefs\Traits_Singular.xml,def
+NMM_Prude.degreeDatas.0.description,{PAWN_nameDef}'s modesty is {PAWN_possessive} most guarded possession. {PAWN_pronoun} would sometimes rather die than lose it.,description,TraitDefs\Traits_Singular.xml,def
+NMM_Exhibitionist.degreeDatas.0.label,exhibitionist,label,TraitDefs\Traits_Singular.xml,def
+NMM_Exhibitionist.degreeDatas.0.description,"{PAWN_nameDef} almost compulsively wants people to see {PAWN_objective} naked, often going to unusual lengths for a thrill.",description,TraitDefs\Traits_Singular.xml,def
+NMM_Voyeur.degreeDatas.0.label,voyeur,label,TraitDefs\Traits_Singular.xml,def
+NMM_Voyeur.degreeDatas.0.description,"{PAWN_nameDef} obsesses about seeing people naked. If {PAWN_pronoun}'s looking at you, {PAWN_pronoun}'s probably thinking about what's under your clothes.",description,TraitDefs\Traits_Singular.xml,def

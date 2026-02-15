@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks influence whether or not struggling is available for prey or predator.-->
+  <StruggleCapability.description>这些怪癖会影响猎物或捕食者是否可以在战斗中生存。</StruggleCapability.description>
+  <!--EN: Struggle Capability-->
+  <StruggleCapability.label>战斗能力</StruggleCapability.label>
+  <!--EN: [PAWN_label]'s stomach secretes numbing enzymes that paralyze [PAWN_possessive] prey, as a result anyone vored by [PAWN_objective] will never struggle.-->
+  <StruggleCapability_NoStruggleAsPredator.description>[PAWN_label]的胃分泌麻痹[PAWN_possessive]猎物，因此有人被[PAWN_objective]永不挣扎。</StruggleCapability_NoStruggleAsPredator.description>
+  <!--EN: Numbing-->
+  <StruggleCapability_NoStruggleAsPredator.label>麻木</StruggleCapability_NoStruggleAsPredator.label>
+  <!--EN: [PAWN_label] does not mind being vored, no matter what the repercussions might be. As a result [PAWN_pronoun] will never bother to struggle.-->
+  <StruggleCapability_NoStruggleAsPrey.description>[PAWN_label]不管产生什么影响，我都不介意被放逐。因此[PAWN_pronoun]不会去挣扎。</StruggleCapability_NoStruggleAsPrey.description>
+  <!--EN: Sedentary-->
+  <StruggleCapability_NoStruggleAsPrey.label>久坐</StruggleCapability_NoStruggleAsPrey.label>
+  <!--EN: These quirks influence the struggling capability for the pawn when voring others.-->
+  <StruggleStrength_Predator.description>这些怪癖会影响人类的挣扎能力pawn收留他人时。</StruggleStrength_Predator.description>
+  <!--EN: Struggle strength (Predator)-->
+  <StruggleStrength_Predator.label>战斗强度 (捕食者)</StruggleStrength_Predator.label>
+  <!--EN: [PAWN_label] has a hard time trying to keep [PAWN_possessive] prey from struggling out of [PAWN_possessive] insides.-->
+  <StruggleStrength_Predator_Bad.description>[PAWN_label]很难保持[PAWN_possessive]挣扎而出的猎物[PAWN_possessive]内部。</StruggleStrength_Predator_Bad.description>
+  <!--EN: Loose-->
+  <StruggleStrength_Predator_Bad.label>松动</StruggleStrength_Predator_Bad.label>
+  <!--EN: [PAWN_label] has a resolve of steel, with the guts to match. Prey will have a more difficult time trying to struggle out of [PAWN_possessive].-->
+  <StruggleStrength_Predator_Good.description>[PAWN_label]有钢铁的决意，有与之匹配的勇气。猎物将有更难挣扎的时候。[PAWN_possessive]</StruggleStrength_Predator_Good.description>
+  <!--EN: Iron gut-->
+  <StruggleStrength_Predator_Good.label>铁肠</StruggleStrength_Predator_Good.label>
+  <!--EN: [PAWN_label] does not have any influence on [PAWN_possessive] struggling prey.-->
+  <StruggleStrength_Predator_Normal.description>[PAWN_label]不影响[PAWN_possessive]挣扎中的猎物。</StruggleStrength_Predator_Normal.description>
+  <!--EN: Normal-->
+  <StruggleStrength_Predator_Normal.label>普通</StruggleStrength_Predator_Normal.label>
+  <!--EN: These quirks influence the struggling capability for the pawn when vored by others.-->
+  <StruggleStrength_Prey.description>这些怪癖会影响人类的挣扎能力pawn被人崇拜时。</StruggleStrength_Prey.description>
+  <!--EN: Struggle strength (Prey)-->
+  <StruggleStrength_Prey.label>挣扎强度 (猎物)</StruggleStrength_Prey.label>
+  <!--EN: [PAWN_label] is a bit of a klutz and can't figure out how to move to make [PAWN_possessive] predator release [PAWN_objective].-->
+  <StruggleStrength_Prey_Bad.description>[PAWN_label]有点笨手笨脚的，不知道如何移动[PAWN_possessive]捕食者释放[PAWN_objective]</StruggleStrength_Prey_Bad.description>
+  <!--EN: Clumsy-->
+  <StruggleStrength_Prey_Bad.label>笨拙</StruggleStrength_Prey_Bad.label>
+  <!--EN: [PAWN_label] knows how to move to struggle [PAWN_possessive] way out of [PAWN_possessive] predator.-->
+  <StruggleStrength_Prey_Good.description>[PAWN_label]知道如何去挣扎[PAWN_possessive]退出方式[PAWN_possessive]捕食者。</StruggleStrength_Prey_Good.description>
+  <!--EN: Wiggler-->
+  <StruggleStrength_Prey_Good.label>摇杆</StruggleStrength_Prey_Good.label>
+  <!--EN: [PAWN_label] is as good as anyone else at struggling.-->
+  <StruggleStrength_Prey_Normal.description>[PAWN_label]和其他人一样善于挣扎。</StruggleStrength_Prey_Normal.description>
+  <!--EN: Normal-->
+  <StruggleStrength_Prey_Normal.label>普通</StruggleStrength_Prey_Normal.label>
+</LanguageData>

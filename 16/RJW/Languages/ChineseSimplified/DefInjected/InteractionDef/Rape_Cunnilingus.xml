@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '强迫舔阴', 原英文: '无' -> 新英文: 'cunnilingus',更新于2026-02-14-->
+  <!--EN: cunnilingus-->
+  <Rape_Cunnilingus.label>强迫舔阴</Rape_Cunnilingus.label>
+  <!--原中文: '要求舔阴', 原英文: '无' -> 新英文: 'Get cunnilingus',更新于2026-02-14-->
+  <!--EN: Get cunnilingus-->
+  <Rape_Cunnilingus.modExtensions.0.RMBLabel>要求舔阴</Rape_Cunnilingus.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->强迫[RECIPIENT_nameDef]舔自己的阴道。', 原英文: '无' -> 新英文: 'r_logentry->Forced [RECIPIENT_nameDef] to give cunnilingus.',更新于2026-02-14-->
+  <!--EN: r_logentry->Forced [RECIPIENT_nameDef] to give cunnilingus.-->
+  <Rape_Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->强迫[RECIPIENT_nameDef]舔自己的阴道。</Rape_Cunnilingus.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->被迫舔了[INITIATOR_nameDef]的阴道。', 原英文: '无' -> 新英文: 'r_logentry->Was forced into giving cunnilingus to [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Was forced into giving cunnilingus to [INITIATOR_nameDef].-->
+  <Rape_Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->被迫舔了[INITIATOR_nameDef]的阴道。</Rape_Cunnilingus.logRulesRecipient.rulesStrings.0>
+</LanguageData>

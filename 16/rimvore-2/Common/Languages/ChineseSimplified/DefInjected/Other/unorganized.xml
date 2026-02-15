@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: {0} couldn't bear the love of the BOOM GODS.-->
+  <BoomDay_NitroStomachExplosion.deathMessage>{0}无法忍受繁荣之神的爱。</BoomDay_NitroStomachExplosion.deathMessage>
+  <!--EN: The BOOM GODS look upon your pawns with disdain-->
+  <BoomDay_NitroStomachExplosion.label>繁荣之神鄙视你的残骸</BoomDay_NitroStomachExplosion.label>
+</LanguageData>

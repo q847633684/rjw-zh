@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--翻译内容: '(Debug) Provide tick support for triggering onahole bed auto capture.',新增于2026-02-14-->
+  <!--EN: (Debug) Provide tick support for triggering onahole bed auto capture.-->
+  <AutoCapture.description>（调试）为触发onahole bed自动捕获提供tick支持。</AutoCapture.description>
+  <!--翻译内容: 'Auto Capture',新增于2026-02-14-->
+  <!--EN: Auto Capture-->
+  <AutoCapture.label>自动捕捉</AutoCapture.label>
+</LanguageData>

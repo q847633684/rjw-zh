@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Massive negative, wtf is wrong with you -->
+
+  <CB_Repopulation_Duty.label>职责</CB_Repopulation_Duty.label>
+  <CB_Repopulation_Duty.description>我们的职责是重新填充这个世界，我们不期望任何回报。根据卖淫程度，这项义务可以是神圣的，也可以是必要的</CB_Repopulation_Duty.description>
+  <CB_Repopulation_Duty.comps.0.description>被赠予的后代</CB_Repopulation_Duty.comps.0.description>
+  <CB_Repopulation_Duty.comps.1.description>后代没有被送走</CB_Repopulation_Duty.comps.1.description>
+  <CB_Repopulation_Duty.comps.3.description>我的孩子被送走</CB_Repopulation_Duty.comps.3.description>
+
+  <CB_Repopulation_Kindness.label>善良</CB_Repopulation_Kindness.label>
+  <CB_Repopulation_Kindness.description>我们通过生育其他派系的后代来帮助他们。根据卖淫程度，这可以被视为神圣</CB_Repopulation_Kindness.description>
+  <CB_Repopulation_Kindness.comps.0.description>被赠送的后代</CB_Repopulation_Kindness.comps.0.description>
+  <CB_Repopulation_Kindness.comps.1.description>后代没有被送走</CB_Repopulation_Kindness.comps.1.description>
+  <CB_Repopulation_Kindness.comps.2.description>我的孩子被送走</CB_Repopulation_Kindness.comps.2.description>
+
+  <CB_Repopulation_Greed.label>贪婪</CB_Repopulation_Greed.label>
+  <CB_Repopulation_Greed.description>我们通过生育后代来帮助其他派系，但要付出代价。根据卖淫程度，这可以被视为神圣</CB_Repopulation_Greed.description>
+  <CB_Repopulation_Greed.comps.0.description>被赠送的后代</CB_Repopulation_Greed.comps.0.description>
+  <CB_Repopulation_Greed.comps.1.description>后代没有被送走</CB_Repopulation_Greed.comps.1.description>
+  <CB_Repopulation_Greed.comps.2.description>我的孩子被送走</CB_Repopulation_Greed.comps.2.description>
+
+  <CB_Repopulation_None.label>无</CB_Repopulation_None.label>
+  <CB_Repopulation_None.description>我们并不试图重新填充世界</CB_Repopulation_None.description>
+  <CB_Repopulation_None.comps.0.description>被赠予的后代</CB_Repopulation_None.comps.0.description>
+  <CB_Repopulation_None.comps.1.description>我的孩子被送走</CB_Repopulation_None.comps.1.description>
+
+
+</LanguageData>

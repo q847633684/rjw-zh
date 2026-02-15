@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '肛交', 原英文: '无' -> 新英文: 'anal',更新于2026-02-14-->
+  <!--EN: anal-->
+  <Sex_Anal.label>肛交</Sex_Anal.label>
+  <!--原中文: '与其肛交', 原英文: '无' -> 新英文: 'Have anal sex',更新于2026-02-14-->
+  <!--EN: Have anal sex-->
+  <Sex_Anal.modExtensions.0.RMBLabel>与其肛交</Sex_Anal.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->与[RECIPIENT_nameDef]发生肛交。', 原英文: '无' -> 新英文: 'r_logentry->Had anal sex with [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Had anal sex with [RECIPIENT_nameDef].-->
+  <Sex_Anal.logRulesInitiator.rulesStrings.0>r_logentry->与[RECIPIENT_nameDef]发生肛交。</Sex_Anal.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->与[INITIATOR_nameDef]发生肛交。', 原英文: '无' -> 新英文: 'r_logentry->Had anal sex with [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Had anal sex with [INITIATOR_nameDef].-->
+  <Sex_Anal.logRulesRecipient.rulesStrings.0>r_logentry->与[INITIATOR_nameDef]发生肛交。</Sex_Anal.logRulesRecipient.rulesStrings.0>
+</LanguageData>

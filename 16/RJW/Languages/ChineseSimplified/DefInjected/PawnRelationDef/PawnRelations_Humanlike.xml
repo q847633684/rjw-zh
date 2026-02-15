@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- close family -->
+  <!--过时key，需删除-->
+  <Parent.label>父亲</Parent.label>
+  <!--过时key，需删除-->
+  <Parent.labelFemale>母亲</Parent.labelFemale>
+  <!--过时key，需删除-->
+  <Child.label>儿子</Child.label>
+  <!--过时key，需删除-->
+  <Child.labelFemale>女儿</Child.labelFemale>
+  <!--过时key，需删除-->
+  <Sibling.label>兄弟</Sibling.label>
+  <!--过时key，需删除-->
+  <Sibling.labelFemale>姐妹</Sibling.labelFemale>
+  <!--过时key，需删除-->
+  <HalfSibling.label>同父异母/同母异父的兄弟</HalfSibling.label>
+  <!--过时key，需删除-->
+  <HalfSibling.labelFemale>同父异母/同母异父的姐妹</HalfSibling.labelFemale>
+  <!--过时key，需删除-->
+  <Grandparent.label>祖父</Grandparent.label>
+  <!--过时key，需删除-->
+  <Grandparent.labelFemale>祖母</Grandparent.labelFemale>
+  <!--过时key，需删除-->
+  <Grandchild.label>孙子</Grandchild.label>
+  <!--过时key，需删除-->
+  <Grandchild.labelFemale>孙女</Grandchild.labelFemale>
+  <!--过时key，需删除-->
+  <NephewOrNiece.label>侄子</NephewOrNiece.label>
+  <!--过时key，需删除-->
+  <NephewOrNiece.labelFemale>侄女</NephewOrNiece.labelFemale>
+  <!--过时key，需删除-->
+  <UncleOrAunt.label>叔叔/舅舅</UncleOrAunt.label>
+  <!--过时key，需删除-->
+  <UncleOrAunt.labelFemale>姑姑/阿姨</UncleOrAunt.labelFemale>
+  <!--过时key，需删除-->
+  <Cousin.label>表兄弟/堂兄弟</Cousin.label>
+  <!--过时key，需删除-->
+  <Cousin.labelFemale>表姐妹/堂姐妹</Cousin.labelFemale>
+  <!-- distant family -->
+  <!--过时key，需删除-->
+  <GreatGrandparent.label>曾祖父</GreatGrandparent.label>
+  <!--过时key，需删除-->
+  <GreatGrandparent.labelFemale>曾祖母</GreatGrandparent.labelFemale>
+  <!--过时key，需删除-->
+  <GreatGrandchild.label>曾孙</GreatGrandchild.label>
+  <!--过时key，需删除-->
+  <GreatGrandchild.labelFemale>曾孙女</GreatGrandchild.labelFemale>
+  <!--过时key，需删除-->
+  <GranduncleOrGrandaunt.label>叔祖/舅祖</GranduncleOrGrandaunt.label>
+  <!--过时key，需删除-->
+  <GranduncleOrGrandaunt.labelFemale>姑祖/姨祖</GranduncleOrGrandaunt.labelFemale>
+  <!--过时key，需删除-->
+  <GrandnephewOrGrandniece.label>侄孙</GrandnephewOrGrandniece.label>
+  <!--过时key，需删除-->
+  <GrandnephewOrGrandniece.labelFemale>侄孙女</GrandnephewOrGrandniece.labelFemale>
+  <!--过时key，需删除-->
+  <CousinOnceRemoved.label>远房表亲</CousinOnceRemoved.label>
+  <!--过时key，需删除-->
+  <CousinOnceRemoved.labelFemale>远房表亲</CousinOnceRemoved.labelFemale>
+  <!--过时key，需删除-->
+  <SecondCousin.label>再从堂亲/表亲</SecondCousin.label>
+  <!--过时key，需删除-->
+  <SecondCousin.labelFemale>再从堂亲/表亲</SecondCousin.labelFemale>
+  <!-- kin -->
+  <!--过时key，需删除-->
+  <Kin.label>亲属</Kin.label>
+  <!--过时key，需删除-->
+  <Kin.labelFemale>亲属</Kin.labelFemale>
+</LanguageData>

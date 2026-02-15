@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '强迫双洞齐插', 原英文: '无' -> 新英文: 'double-penetration',更新于2026-02-14-->
+  <!--EN: double-penetration-->
+  <Necro_DoublePenetrationM.label>强迫双洞齐插</Necro_DoublePenetrationM.label>
+  <!--原中文: '强迫双洞齐插', 原英文: '无' -> 新英文: 'Double-penetrate',更新于2026-02-14-->
+  <!--EN: Double-penetrate-->
+  <Necro_DoublePenetrationM.modExtensions.0.RMBLabel>强迫双洞齐插</Necro_DoublePenetrationM.modExtensions.0.RMBLabel>
+  <!--原中文: 'r_logentry->强迫双洞齐插了[RECIPIENT_nameDef]。', 原英文: '无' -> 新英文: 'r_logentry->Double-penetrated [RECIPIENT_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Double-penetrated [RECIPIENT_nameDef].-->
+  <Necro_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->强迫双洞齐插了[RECIPIENT_nameDef]。</Necro_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+  <!--原中文: 'r_logentry->被迫受[INITIATOR_nameDef]双洞齐插了。', 原英文: '无' -> 新英文: 'r_logentry->Was double-penetrated by [INITIATOR_nameDef].',更新于2026-02-14-->
+  <!--EN: r_logentry->Was double-penetrated by [INITIATOR_nameDef].-->
+  <Necro_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->被迫受[INITIATOR_nameDef]双洞齐插了。</Necro_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+</LanguageData>

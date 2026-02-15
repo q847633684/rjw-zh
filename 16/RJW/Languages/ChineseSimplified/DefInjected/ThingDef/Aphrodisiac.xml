@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '壮阳药', 原英文: '无' -> 新英文: 'aphrodisiac drug',更新于2026-02-14-->
+  <!--EN: aphrodisiac drug-->
+  <Aphrodisiac.label>壮阳药</Aphrodisiac.label>
+  <!--原中文: '一种由驼峰菇制成的可吸食药品。', 原英文: '无' -> 新英文: 'A smokable drug made from humpshroom.',更新于2026-02-14-->
+  <!--EN: A smokable drug made from humpshroom.-->
+  <Aphrodisiac.description>一种由驼峰菇制成的可吸食药品。</Aphrodisiac.description>
+  <!--原中文: '吸食{0}', 原英文: '无' -> 新英文: 'Smoke {0}',更新于2026-02-14-->
+  <!--EN: Smoke {0}-->
+  <Aphrodisiac.ingestible.ingestCommandString>吸食{0}</Aphrodisiac.ingestible.ingestCommandString>
+  <!--原中文: '吸食{0}中。', 原英文: '无' -> 新英文: 'Smoking {0}.',更新于2026-02-14-->
+  <!--EN: Smoking {0}.-->
+  <Aphrodisiac.ingestible.ingestReportString>吸食{0}中。</Aphrodisiac.ingestible.ingestReportString>
+</LanguageData>

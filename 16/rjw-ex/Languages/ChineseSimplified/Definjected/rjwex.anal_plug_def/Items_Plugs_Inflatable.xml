@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '可扩式肛塞', 原英文: '无' -> 新英文: '(lockable)expandable anal plug',更新于2026-02-14-->
+  <!--EN: (lockable)expandable anal plug-->
+  <AnalPlugExpandable.label>可扩式肛塞</AnalPlugExpandable.label>
+  <!--原中文: '可扩式肛塞。装备全息锁。', 原英文: '无' -> 新英文: 'An Expandable anal plug equipped with a hololock.',更新于2026-02-14-->
+  <!--EN: An Expandable anal plug equipped with a hololock.-->
+  <AnalPlugExpandable.description>可扩式肛塞。装备全息锁。</AnalPlugExpandable.description>
+  <!--过时key，需删除-->
+  <AnalPlugExpandable.comps.0.useLabel>装备</AnalPlugExpandable.comps.0.useLabel>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--原中文: '扶她', 原英文: '无' -> 新英文: 'Herm',更新于2026-02-14-->
+  <!--EN: Herm-->
+  <PawnColumnWorker_RJWGender_IsHerm>扶她</PawnColumnWorker_RJWGender_IsHerm>
+  <!-- todo? -->
+  <!-- or not todo? -->
+  <!--原中文: '这个人是奴隶吗？', 原英文: '无' -> 新英文: 'Is pawn Slave?',更新于2026-02-14-->
+  <!--EN: Is pawn Slave?-->
+  <PawnColumnWorker_IsSlave>这个人是奴隶吗？</PawnColumnWorker_IsSlave>
+  <!--原中文: '这个人是囚犯吗？', 原英文: '无' -> 新英文: 'Is pawn Prisoner?',更新于2026-02-14-->
+  <!--EN: Is pawn Prisoner?-->
+  <PawnColumnWorker_IsPrisoner>这个人是囚犯吗？</PawnColumnWorker_IsPrisoner>
+  <!--原中文: '这个人是泄欲对象吗？', 原英文: '无' -> 新英文: 'Is pawn Comfort Pawn?',更新于2026-02-14-->
+  <!--EN: Is pawn Comfort Pawn?-->
+  <PawnColumnWorker_IsComfort>这个人是泄欲对象吗？</PawnColumnWorker_IsComfort>
+  <!--原中文: '这个人是配种对象吗？', 原英文: '无' -> 新英文: 'Is pawn Breeder?',更新于2026-02-14-->
+  <!--EN: Is pawn Breeder?-->
+  <PawnColumnWorker_IsBreeder>这个人是配种对象吗？</PawnColumnWorker_IsBreeder>
+  <!--原中文: '选择对象', 原英文: '无' -> 新英文: 'Designators: {0}',更新于2026-02-14-->
+  <!--EN: Designators: {0}-->
+  <MainTabWindow_Designators>选择对象</MainTabWindow_Designators>
+</LanguageData>
