@@ -2,136 +2,156 @@
 <LanguageData>
   <!--EN: analbreed — react to-->
   <Anal_Breed_Reply.label>分析繁殖者-产生反应</Anal_Breed_Reply.label>
-  <!--EN: zoophile_n->[exclaim_low]! [fuck] my [ass] with that [animal_penis_recipient]!-->
-  <Anal_Breed_Reply.logRulesInitiator.rulesStrings.0>zoophile_n->[exclaim_low][fuck]我的[ass]说完这些[animal_penis_recipient]</Anal_Breed_Reply.logRulesInitiator.rulesStrings.0>
-  <!--EN: human_react_n->What the fuck! Get off! [exclaim_high]!-->
-  <Anal_Breed_Reply.logRulesInitiator.rulesStrings.1>human_react_n->搞什么鬼!下车![exclaim_high]</Anal_Breed_Reply.logRulesInitiator.rulesStrings.1>
-  <!--EN: human_react_n->[exclaim_high]! Get your [derogadj] [animal_penis_recipient] out of my [ass]!-->
-  <Anal_Breed_Reply.logRulesInitiator.rulesStrings.2>human_react_n->[exclaim_high]获取你的[derogadj][animal_penis_recipient]离开我的[ass]</Anal_Breed_Reply.logRulesInitiator.rulesStrings.2>
-  <!--EN: human_react_n->[exclaim_high]! Get your [animal_penis_recipient] out of my [ass]!-->
-  <Anal_Breed_Reply.logRulesInitiator.rulesStrings.3>human_react_n->[exclaim_high]获取你的[animal_penis_recipient]离开我的[ass]</Anal_Breed_Reply.logRulesInitiator.rulesStrings.3>
+  <Anal_Breed_Reply.logRulesInitiator.rulesStrings>
+    <!--EN: zoophile_n->[exclaim_low]! [fuck] my [ass] with that [animal_penis_recipient]!-->
+    <li>zoophile_n-&gt;[exclaim_low][fuck]我的[ass]说完这些[animal_penis_recipient]</li>
+    <!--EN: human_react_n->What the fuck! Get off! [exclaim_high]!-->
+    <li>human_react_n-&gt;搞什么鬼!下车![exclaim_high]</li>
+    <!--EN: human_react_n->[exclaim_high]! Get your [derogadj] [animal_penis_recipient] out of my [ass]!-->
+    <li>human_react_n-&gt;[exclaim_high]获取你的[derogadj][animal_penis_recipient]离开我的[ass]</li>
+    <!--EN: human_react_n->[exclaim_high]! Get your [animal_penis_recipient] out of my [ass]!-->
+    <li>human_react_n-&gt;[exclaim_high]获取你的[animal_penis_recipient]离开我的[ass]</li>
+  </Anal_Breed_Reply.logRulesInitiator.rulesStrings>
   <!--EN: analbreed — react to-->
   <Anal_Breed_Reply_Reverse.label>分析繁殖者-产生反应</Anal_Breed_Reply_Reverse.label>
-  <!--EN: zoophile_n->If you insist, [animal_noun]!-->
-  <Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>zoophile_n->如果你坚持,[animal_noun]</Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>
-  <!--EN: zoophile_n->I'll never turn down a [RECIPIENT_kind] [ass]!-->
-  <Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>zoophile_n->我绝对不会拒绝[RECIPIENT_kind][ass]</Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>
-  <!--EN: human_react_n->Oh...I shouldn't do this!-->
-  <Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>human_react_n->哦... 我不应该这么做!</Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>
-  <!--EN: human_react_n->Oh...I shouldn't, but your [animal_ass_recipient]...-->
-  <Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>human_react_n->哦…… 我不应该，但是你的[animal_ass_recipient]...</Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>
-  <!--EN: human_react_n->This is so wrong, [animal_noun], but your [animal_ass_recipient] is irresistable!-->
-  <Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>human_react_n->这是非常错误的,[animal_noun],但你的[animal_ass_recipient]不可抵抗!</Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>
-  <!--EN: human_react_n->Your [animal_ass_recipient] shouldn't feel this good, [animal_noun]!-->
-  <Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>human_react_n->你的[animal_ass_recipient]感觉应该没这么好,[animal_noun]</Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>
+  <Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings>
+    <!--EN: zoophile_n->If you insist, [animal_noun]!-->
+    <li>zoophile_n-&gt;如果你坚持,[animal_noun]</li>
+    <!--EN: zoophile_n->I'll never turn down a [RECIPIENT_kind] [ass]!-->
+    <li>zoophile_n-&gt;我绝对不会拒绝[RECIPIENT_kind][ass]</li>
+    <!--EN: human_react_n->Oh...I shouldn't do this!-->
+    <li>human_react_n-&gt;哦... 我不应该这么做!</li>
+    <!--EN: human_react_n->Oh...I shouldn't, but your [animal_ass_recipient]...-->
+    <li>human_react_n-&gt;哦…… 我不应该，但是你的[animal_ass_recipient]...</li>
+    <!--EN: human_react_n->This is so wrong, [animal_noun], but your [animal_ass_recipient] is irresistable!-->
+    <li>human_react_n-&gt;这是非常错误的,[animal_noun],但你的[animal_ass_recipient]不可抵抗!</li>
+    <!--EN: human_react_n->Your [animal_ass_recipient] shouldn't feel this good, [animal_noun]!-->
+    <li>human_react_n-&gt;你的[animal_ass_recipient]感觉应该没这么好,[animal_noun]</li>
+  </Anal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings>
   <!--EN: analbreed — react to-->
   <DP_Breed_Reply.label>分析繁殖者-产生反应</DP_Breed_Reply.label>
-  <!--EN: zoophile_n->[exclaim_low]! [fuck] me with those [penis]s!-->
-  <DP_Breed_Reply.logRulesInitiator.rulesStrings.0>zoophile_n->[exclaim_low][fuck]和那些在一起的我[penis]!</DP_Breed_Reply.logRulesInitiator.rulesStrings.0>
-  <!--EN: human_react_n->What the fuck! Get off! [exclaim_high]!-->
-  <DP_Breed_Reply.logRulesInitiator.rulesStrings.1>human_react_n->搞什么鬼!下车![exclaim_high]</DP_Breed_Reply.logRulesInitiator.rulesStrings.1>
-  <!--EN: human_react_n->[exclaim_high]! Get your [penis]s out of me, [animal_noun]!-->
-  <DP_Breed_Reply.logRulesInitiator.rulesStrings.2>human_react_n->[exclaim_high]获取你的[penis] 离开我,[animal_noun]</DP_Breed_Reply.logRulesInitiator.rulesStrings.2>
+  <DP_Breed_Reply.logRulesInitiator.rulesStrings>
+    <!--EN: zoophile_n->[exclaim_low]! [fuck] me with those [penis]s!-->
+    <li>zoophile_n-&gt;[exclaim_low][fuck]和那些在一起的我[penis]!</li>
+    <!--EN: human_react_n->What the fuck! Get off! [exclaim_high]!-->
+    <li>human_react_n-&gt;搞什么鬼!下车![exclaim_high]</li>
+    <!--EN: human_react_n->[exclaim_high]! Get your [penis]s out of me, [animal_noun]!-->
+    <li>human_react_n-&gt;[exclaim_high]获取你的[penis] 离开我,[animal_noun]</li>
+  </DP_Breed_Reply.logRulesInitiator.rulesStrings>
   <!--EN: analbreed — react to-->
   <DP_Breed_Reply_Reverse.label>分析繁殖者-产生反应</DP_Breed_Reply_Reverse.label>
-  <!--EN: zoophile_n->If you insist, [animal_noun]!-->
-  <DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>zoophile_n->如果你坚持,[animal_noun]</DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>
-  <!--EN: zoophile_n->[exclaim_low]! You like these [penis]s, [animal_noun]? [exclaim_low]!-->
-  <DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>zoophile_n->[exclaim_low]你喜欢这些吗[penis],[animal_noun]什么？[exclaim_low]</DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>
-  <!--EN: human_react_n->Oh...I shouldn't do this!-->
-  <DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>human_react_n->哦... 我不应该这么做!</DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>
-  <!--EN: human_react_n->Oh...I shouldn't, but...[exclaim_low]!-->
-  <DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>human_react_n->哦.我不应该，但是.[exclaim_low]</DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>
-  <!--EN: human_react_n->This is so wrong, [animal_noun], but you're irresistable!-->
-  <DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>human_react_n->这是非常错误的,[animal_noun],但你是不可抵抗的!</DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>
-  <!--EN: human_react_n->You shouldn't make my [penis]s feel this good, [animal_noun]! [exclaim_low]!-->
-  <DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>human_react_n->你不应该将我的[penis]感觉很好,[animal_noun][exclaim_low]</DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>
+  <DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings>
+    <!--EN: zoophile_n->If you insist, [animal_noun]!-->
+    <li>zoophile_n-&gt;如果你坚持,[animal_noun]</li>
+    <!--EN: zoophile_n->[exclaim_low]! You like these [penis]s, [animal_noun]? [exclaim_low]!-->
+    <li>zoophile_n-&gt;[exclaim_low]你喜欢这些吗[penis],[animal_noun]什么？[exclaim_low]</li>
+    <!--EN: human_react_n->Oh...I shouldn't do this!-->
+    <li>human_react_n-&gt;哦... 我不应该这么做!</li>
+    <!--EN: human_react_n->Oh...I shouldn't, but...[exclaim_low]!-->
+    <li>human_react_n-&gt;哦.我不应该，但是.[exclaim_low]</li>
+    <!--EN: human_react_n->This is so wrong, [animal_noun], but you're irresistable!-->
+    <li>human_react_n-&gt;这是非常错误的,[animal_noun],但你是不可抵抗的!</li>
+    <!--EN: human_react_n->You shouldn't make my [penis]s feel this good, [animal_noun]! [exclaim_low]!-->
+    <li>human_react_n-&gt;你不应该将我的[penis]感觉很好,[animal_noun][exclaim_low]</li>
+  </DP_Breed_Reply_Reverse.logRulesInitiator.rulesStrings>
   <!--EN: oralbreed — react to-->
   <Handjob_Service_Reply.label>动物繁殖反应</Handjob_Service_Reply.label>
-  <!--EN: zoophile_n->[exclaim_low]!-->
-  <Handjob_Service_Reply.logRulesInitiator.rulesStrings.0>zoophile_n->[exclaim_low]</Handjob_Service_Reply.logRulesInitiator.rulesStrings.0>
-  <!--EN: human_react_n->[exclaim_low]!-->
-  <Handjob_Service_Reply.logRulesInitiator.rulesStrings.1>human_react_n->[exclaim_low]</Handjob_Service_Reply.logRulesInitiator.rulesStrings.1>
+  <Handjob_Service_Reply.logRulesInitiator.rulesStrings>
+    <!--EN: zoophile_n->[exclaim_low]!-->
+    <li>zoophile_n-&gt;[exclaim_low]</li>
+    <!--EN: human_react_n->[exclaim_low]!-->
+    <li>human_react_n-&gt;[exclaim_low]</li>
+  </Handjob_Service_Reply.logRulesInitiator.rulesStrings>
   <!--EN: oralbreed — react to-->
   <Orally_Breed_Reply.label>动物繁殖反应</Orally_Breed_Reply.label>
-  <!--EN: zoophile_n->*[exclaim_oral]* yoor [animal_penis_recipient] tasds *[exclaim_oral]* so good, [animal_noun]!-->
-  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.0>zoophile_n->*[exclaim_oral]* 尤尔[animal_penis_recipient]Tasds *[exclaim_oral]* 非常好,[animal_noun]</Orally_Breed_Reply.logRulesInitiator.rulesStrings.0>
-  <!--EN: zoophile_n->*[exclaim_oral]* *[exclaim_oral]* *[exclaim_oral]*-->
-  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.1>zoophile_n->*[exclaim_oral]* *[exclaim_oral]* *[exclaim_oral]*</Orally_Breed_Reply.logRulesInitiator.rulesStrings.1>
-  <!--EN: zoophile_n->*[exclaim_oral]* good *[exclaim_oral]* [animal_noun]! *[exclaim_oral]*-->
-  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.2>zoophile_n->*[exclaim_oral]* 良好 *[exclaim_oral]*[animal_noun]!*[exclaim_oral]*</Orally_Breed_Reply.logRulesInitiator.rulesStrings.2>
-  <!--EN: zoophile_n->*[exclaim_oral]* cum *[exclaim_oral]* in my mouf *[exclaim_oral]* [animal_noun]!-->
-  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.3>zoophile_n->*[exclaim_oral]*精液*[exclaim_oral]* 在我的耳朵里 *[exclaim_oral]*[animal_noun]</Orally_Breed_Reply.logRulesInitiator.rulesStrings.3>
-  <!--EN: zoophile_n->*[exclaim_oral]* feed me *[exclaim_oral]* [cum] *[exclaim_oral]* [animal_noun]!-->
-  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.4>zoophile_n->*[exclaim_oral]* 喂我 *[exclaim_oral]*[cum]*[exclaim_oral]*[animal_noun]</Orally_Breed_Reply.logRulesInitiator.rulesStrings.4>
-  <!--EN: human_react_n->*[exclaim_oral]* Ged oor [animal_penis_recipient] out of *[exclaim_oral]* my mouf, [animal_noun]!-->
-  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.5>human_react_n->*[exclaim_oral]* 饥饿[animal_penis_recipient]出自 *[exclaim_oral]* 我的胃,[animal_noun]</Orally_Breed_Reply.logRulesInitiator.rulesStrings.5>
-  <!--EN: human_react_n->*[exclaim_oral]* *[exclaim_oral]* *[exclaim_oral]*-->
-  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.6>human_react_n->*[exclaim_oral]* *[exclaim_oral]* *[exclaim_oral]*</Orally_Breed_Reply.logRulesInitiator.rulesStrings.6>
-  <!--EN: human_react_n->*[exclaim_oral]* bad *[exclaim_oral]* [animal_noun]! *[exclaim_oral]*-->
-  <Orally_Breed_Reply.logRulesInitiator.rulesStrings.7>human_react_n->*[exclaim_oral]* 坏 *[exclaim_oral]*[animal_noun]!*[exclaim_oral]*</Orally_Breed_Reply.logRulesInitiator.rulesStrings.7>
+  <Orally_Breed_Reply.logRulesInitiator.rulesStrings>
+    <!--EN: zoophile_n->*[exclaim_oral]* yoor [animal_penis_recipient] tasds *[exclaim_oral]* so good, [animal_noun]!-->
+    <li>zoophile_n-&gt;*[exclaim_oral]* 尤尔[animal_penis_recipient]Tasds *[exclaim_oral]* 非常好,[animal_noun]</li>
+    <!--EN: zoophile_n->*[exclaim_oral]* *[exclaim_oral]* *[exclaim_oral]*-->
+    <li>zoophile_n-&gt;*[exclaim_oral]* *[exclaim_oral]* *[exclaim_oral]*</li>
+    <!--EN: zoophile_n->*[exclaim_oral]* good *[exclaim_oral]* [animal_noun]! *[exclaim_oral]*-->
+    <li>zoophile_n-&gt;*[exclaim_oral]* 良好 *[exclaim_oral]*[animal_noun]!*[exclaim_oral]*</li>
+    <!--EN: zoophile_n->*[exclaim_oral]* cum *[exclaim_oral]* in my mouf *[exclaim_oral]* [animal_noun]!-->
+    <li>zoophile_n-&gt;*[exclaim_oral]*精液*[exclaim_oral]* 在我的耳朵里 *[exclaim_oral]*[animal_noun]</li>
+    <!--EN: zoophile_n->*[exclaim_oral]* feed me *[exclaim_oral]* [cum] *[exclaim_oral]* [animal_noun]!-->
+    <li>zoophile_n-&gt;*[exclaim_oral]* 喂我 *[exclaim_oral]*[cum]*[exclaim_oral]*[animal_noun]</li>
+    <!--EN: human_react_n->*[exclaim_oral]* Ged oor [animal_penis_recipient] out of *[exclaim_oral]* my mouf, [animal_noun]!-->
+    <li>human_react_n-&gt;*[exclaim_oral]* 饥饿[animal_penis_recipient]出自 *[exclaim_oral]* 我的胃,[animal_noun]</li>
+    <!--EN: human_react_n->*[exclaim_oral]* *[exclaim_oral]* *[exclaim_oral]*-->
+    <li>human_react_n-&gt;*[exclaim_oral]* *[exclaim_oral]* *[exclaim_oral]*</li>
+    <!--EN: human_react_n->*[exclaim_oral]* bad *[exclaim_oral]* [animal_noun]! *[exclaim_oral]*-->
+    <li>human_react_n-&gt;*[exclaim_oral]* 坏 *[exclaim_oral]*[animal_noun]!*[exclaim_oral]*</li>
+  </Orally_Breed_Reply.logRulesInitiator.rulesStrings>
   <!--EN: oralbreed — react to-->
   <Orally_Breed_Reply_Reverse.label>动物繁殖反应</Orally_Breed_Reply_Reverse.label>
-  <!--EN: zoophile_n->[exclaim_low]! Good [animal_noun], just like that!-->
-  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>zoophile_n->[exclaim_low]良好[animal_noun],就是这样!</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>
-  <!--EN: zoophile_n->[exclaim_low]! You're mouth feels so good!-->
-  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>zoophile_n->[exclaim_low]你的嘴感觉真好!</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>
-  <!--EN: zoophile_n->[exclaim_low]... How's that taste, [animal_noun]?-->
-  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>zoophile_n->[exclaim_low]味道怎么样,[animal_noun]什么？</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>
-  <!--EN: zoophile_n->You're good with your tongue, [animal_noun]!-->
-  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>zoophile_n->你的舌头用得很好,[animal_noun]</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>
-  <!--EN: human_react_n->Get your mouth away from my...[exclaim_low]...-->
-  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>human_react_n->离我远点...[exclaim_low]...</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>
-  <!--EN: human_react_n->[exclaim_low]! Your mouth shouldn't feel this good, [animal_noun]...-->
-  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>human_react_n->[exclaim_low]你的嘴应该没那么舒服,[animal_noun]...</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>
-  <!--EN: human_react_n->When you offer up your mouth like that...[exclaim_low]...-->
-  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.6>human_react_n->当你这样开口时.[exclaim_low]...</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.6>
-  <!--EN: human_react_n->[exclaim_low]...this is so wrong...-->
-  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.7>human_react_n->[exclaim_low]... 这也太不对了...</Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.7>
+  <Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings>
+    <!--EN: zoophile_n->[exclaim_low]! Good [animal_noun], just like that!-->
+    <li>zoophile_n-&gt;[exclaim_low]良好[animal_noun],就是这样!</li>
+    <!--EN: zoophile_n->[exclaim_low]! You're mouth feels so good!-->
+    <li>zoophile_n-&gt;[exclaim_low]你的嘴感觉真好!</li>
+    <!--EN: zoophile_n->[exclaim_low]... How's that taste, [animal_noun]?-->
+    <li>zoophile_n-&gt;[exclaim_low]味道怎么样,[animal_noun]什么？</li>
+    <!--EN: zoophile_n->You're good with your tongue, [animal_noun]!-->
+    <li>zoophile_n-&gt;你的舌头用得很好,[animal_noun]</li>
+    <!--EN: human_react_n->Get your mouth away from my...[exclaim_low]...-->
+    <li>human_react_n-&gt;离我远点...[exclaim_low]...</li>
+    <!--EN: human_react_n->[exclaim_low]! Your mouth shouldn't feel this good, [animal_noun]...-->
+    <li>human_react_n-&gt;[exclaim_low]你的嘴应该没那么舒服,[animal_noun]...</li>
+    <!--EN: human_react_n->When you offer up your mouth like that...[exclaim_low]...-->
+    <li>human_react_n-&gt;当你这样开口时.[exclaim_low]...</li>
+    <!--EN: human_react_n->[exclaim_low]...this is so wrong...-->
+    <li>human_react_n-&gt;[exclaim_low]... 这也太不对了...</li>
+  </Orally_Breed_Reply_Reverse.logRulesInitiator.rulesStrings>
   <!--EN: oralbreed — react to-->
   <Orally_Service_Reply.label>动物繁殖反应</Orally_Service_Reply.label>
-  <!--EN: zoophile_n->[exclaim_low]! Hey there [animal_noun]!-->
-  <Orally_Service_Reply.logRulesInitiator.rulesStrings.0>zoophile_n->[exclaim_low]!你好[animal_noun]!</Orally_Service_Reply.logRulesInitiator.rulesStrings.0>
-  <!--EN: zoophile_n->[exclaim_low]! Good [animal_noun], just like that!-->
-  <Orally_Service_Reply.logRulesInitiator.rulesStrings.1>zoophile_n->[exclaim_low]!好乖的[animal_noun],就是这样!</Orally_Service_Reply.logRulesInitiator.rulesStrings.1>
-  <!--EN: zoophile_n->[exclaim_low]! Good [animal_noun], right there!-->
-  <Orally_Service_Reply.logRulesInitiator.rulesStrings.2>zoophile_n->[exclaim_low]!好乖的[animal_noun],就在那里!</Orally_Service_Reply.logRulesInitiator.rulesStrings.2>
-  <!--EN: zoophile_n->[exclaim_low]... How's that taste, [animal_noun]?-->
-  <Orally_Service_Reply.logRulesInitiator.rulesStrings.3>zoophile_n->[exclaim_low]味道怎么样,[animal_noun]什么？</Orally_Service_Reply.logRulesInitiator.rulesStrings.3>
-  <!--EN: zoophile_n->You're good with your tongue, [animal_noun]!-->
-  <Orally_Service_Reply.logRulesInitiator.rulesStrings.4>zoophile_n->你的舌头用得很好,[animal_noun]!</Orally_Service_Reply.logRulesInitiator.rulesStrings.4>
-  <!--EN: human_react_n->Get your mouth away from my...[exclaim_low]...-->
-  <Orally_Service_Reply.logRulesInitiator.rulesStrings.5>human_react_n->离我远点...[exclaim_low]...</Orally_Service_Reply.logRulesInitiator.rulesStrings.5>
-  <!--EN: human_react_n->Get your tongue off of my...[exclaim_low]...-->
-  <Orally_Service_Reply.logRulesInitiator.rulesStrings.6>human_react_n->离我远点...[exclaim_low]...</Orally_Service_Reply.logRulesInitiator.rulesStrings.6>
-  <!--EN: human_react_n->[exclaim_low]...stop licking there, [animal_noun]...[exclaim_low]...-->
-  <Orally_Service_Reply.logRulesInitiator.rulesStrings.7>human_react_n->[exclaim_low]...停止舔着那里,[animal_noun]...[exclaim_low]...</Orally_Service_Reply.logRulesInitiator.rulesStrings.7>
-  <!--EN: human_react_n->[exclaim_low]...this is so wrong...-->
-  <Orally_Service_Reply.logRulesInitiator.rulesStrings.8>human_react_n->[exclaim_low]... 这也太不对了...</Orally_Service_Reply.logRulesInitiator.rulesStrings.8>
-  <!--EN: human_react_n->[exclaim_low]! Bad [animal_noun]! Don't lick there! [exclaim_low]...-->
-  <Orally_Service_Reply.logRulesInitiator.rulesStrings.9>human_react_n->[exclaim_low]恶化[animal_noun]不要舔那里![exclaim_low]...</Orally_Service_Reply.logRulesInitiator.rulesStrings.9>
+  <Orally_Service_Reply.logRulesInitiator.rulesStrings>
+    <!--EN: zoophile_n->[exclaim_low]! Hey there [animal_noun]!-->
+    <li>zoophile_n-&gt;[exclaim_low]!你好[animal_noun]!</li>
+    <!--EN: zoophile_n->[exclaim_low]! Good [animal_noun], just like that!-->
+    <li>zoophile_n-&gt;[exclaim_low]!好乖的[animal_noun],就是这样!</li>
+    <!--EN: zoophile_n->[exclaim_low]! Good [animal_noun], right there!-->
+    <li>zoophile_n-&gt;[exclaim_low]!好乖的[animal_noun],就在那里!</li>
+    <!--EN: zoophile_n->[exclaim_low]... How's that taste, [animal_noun]?-->
+    <li>zoophile_n-&gt;[exclaim_low]味道怎么样,[animal_noun]什么？</li>
+    <!--EN: zoophile_n->You're good with your tongue, [animal_noun]!-->
+    <li>zoophile_n-&gt;你的舌头用得很好,[animal_noun]!</li>
+    <!--EN: human_react_n->Get your mouth away from my...[exclaim_low]...-->
+    <li>human_react_n-&gt;离我远点...[exclaim_low]...</li>
+    <!--EN: human_react_n->Get your tongue off of my...[exclaim_low]...-->
+    <li>human_react_n-&gt;离我远点...[exclaim_low]...</li>
+    <!--EN: human_react_n->[exclaim_low]...stop licking there, [animal_noun]...[exclaim_low]...-->
+    <li>human_react_n-&gt;[exclaim_low]...停止舔着那里,[animal_noun]...[exclaim_low]...</li>
+    <!--EN: human_react_n->[exclaim_low]...this is so wrong...-->
+    <li>human_react_n-&gt;[exclaim_low]... 这也太不对了...</li>
+    <!--EN: human_react_n->[exclaim_low]! Bad [animal_noun]! Don't lick there! [exclaim_low]...-->
+    <li>human_react_n-&gt;[exclaim_low]恶化[animal_noun]不要舔那里![exclaim_low]...</li>
+  </Orally_Service_Reply.logRulesInitiator.rulesStrings>
   <!--EN: vaginalbreed — react to-->
   <Vaginal_Breed_Reply.label>阴道繁殖反应</Vaginal_Breed_Reply.label>
-  <!--EN: zoophile_n->[exclaim_low]! [fuck] my [vagina] with that [animal_penis_recipient], [animal_noun]!-->
-  <Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.0>zoophile_n->[exclaim_low][fuck]我的[vagina]说完这些[animal_penis_recipient],[animal_noun]!</Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.0>
-  <!--EN: human_react_n->What the fuck! Get off!-->
-  <Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.1>human_react_n->搞什么鬼!下车!</Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.1>
-  <!--EN: human_react_n->[exclaim_high]! Get your [animal_penis_recipient] out of my [vagina]!-->
-  <Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.2>human_react_n->[exclaim_high]获取你的[animal_penis_recipient]离开我的[vagina]!</Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.2>
-  <!--EN: human_react_n->[exclaim_high]! Get your [derogadj] [animal_penis_recipient] out of my [vagina]!-->
-  <Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.3>human_react_n->[exclaim_high]获取你的[derogadj][animal_penis_recipient]离开我的[vagina]!</Vaginal_Breed_Reply.logRulesInitiator.rulesStrings.3>
+  <Vaginal_Breed_Reply.logRulesInitiator.rulesStrings>
+    <!--EN: zoophile_n->[exclaim_low]! [fuck] my [vagina] with that [animal_penis_recipient], [animal_noun]!-->
+    <li>zoophile_n-&gt;[exclaim_low][fuck]我的[vagina]说完这些[animal_penis_recipient],[animal_noun]!</li>
+    <!--EN: human_react_n->What the fuck! Get off!-->
+    <li>human_react_n-&gt;搞什么鬼!下车!</li>
+    <!--EN: human_react_n->[exclaim_high]! Get your [animal_penis_recipient] out of my [vagina]!-->
+    <li>human_react_n-&gt;[exclaim_high]获取你的[animal_penis_recipient]离开我的[vagina]!</li>
+    <!--EN: human_react_n->[exclaim_high]! Get your [derogadj] [animal_penis_recipient] out of my [vagina]!-->
+    <li>human_react_n-&gt;[exclaim_high]获取你的[derogadj][animal_penis_recipient]离开我的[vagina]!</li>
+  </Vaginal_Breed_Reply.logRulesInitiator.rulesStrings>
   <!--EN: vaginalbreed — react to-->
   <Vaginal_Breed_Reply_Reverse.label>阴道繁殖反应</Vaginal_Breed_Reply_Reverse.label>
-  <!--EN: zoophile_n->If you insist, [animal_noun]!-->
-  <Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>zoophile_n->如果你坚持,[animal_noun]!</Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.0>
-  <!--EN: zoophile_n->I'll never turn down a [animal_vagina_recipient]!-->
-  <Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>zoophile_n->我绝对不会拒绝[animal_vagina_recipient]!</Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.1>
-  <!--EN: human_react_n->Oh...I shouldn't do this!-->
-  <Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>human_react_n->哦... 我不应该这么做!</Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.2>
-  <!--EN: human_react_n->Oh...I shouldn't, but your [animal_vagina_recipient]...-->
-  <Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>human_react_n->哦…… 我不应该，但是你的[animal_vagina_recipient]...</Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.3>
-  <!--EN: human_react_n->This is so wrong, [animal_noun], but your [animal_vagina_recipient] is irresistable!-->
-  <Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>human_react_n->这是非常错误的,[animal_noun],但你的[animal_vagina_recipient]不可抵抗!</Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.4>
-  <!--EN: human_react_n->Your [animal_vagina_recipient] shouldn't feel this good, [animal_noun]!-->
-  <Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>human_react_n->你的[animal_vagina_recipient]感觉应该没这么好,[animal_noun]</Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings.5>
+  <Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings>
+    <!--EN: zoophile_n->If you insist, [animal_noun]!-->
+    <li>zoophile_n-&gt;如果你坚持,[animal_noun]!</li>
+    <!--EN: zoophile_n->I'll never turn down a [animal_vagina_recipient]!-->
+    <li>zoophile_n-&gt;我绝对不会拒绝[animal_vagina_recipient]!</li>
+    <!--EN: human_react_n->Oh...I shouldn't do this!-->
+    <li>human_react_n-&gt;哦... 我不应该这么做!</li>
+    <!--EN: human_react_n->Oh...I shouldn't, but your [animal_vagina_recipient]...-->
+    <li>human_react_n-&gt;哦…… 我不应该，但是你的[animal_vagina_recipient]...</li>
+    <!--EN: human_react_n->This is so wrong, [animal_noun], but your [animal_vagina_recipient] is irresistable!-->
+    <li>human_react_n-&gt;这是非常错误的,[animal_noun],但你的[animal_vagina_recipient]不可抵抗!</li>
+    <!--EN: human_react_n->Your [animal_vagina_recipient] shouldn't feel this good, [animal_noun]!-->
+    <li>human_react_n-&gt;你的[animal_vagina_recipient]感觉应该没这么好,[animal_noun]</li>
+  </Vaginal_Breed_Reply_Reverse.logRulesInitiator.rulesStrings>
 </LanguageData>
