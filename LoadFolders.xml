@@ -56,7 +56,9 @@
 		<!-- RJW 可挤奶殖民者 废除
 		<li IfModActive="rjw.milk.humanoid">16/rjw-milk-humanoid</li>-->
 		<!-- RJW 性体验 完成-->
-		<li IfModActive="rjw.sexperience">16/rjw-sexperience</li><!--未完成-->
+		<li IfModActive="rjw.sexperience">16/rjw-sexperience</li>
+			<!-- RJW 性体验 - 兼容的技能模组 完成-->
+		<li IfModActive="vanillaexpanded.skills">16/rjw-sexperience/Mod Compatibility/Vanilla Skills Expanded</li>
 		<!-- RJW 性体验识形态 完成-->
 		<li IfModActive="rjw.sexperience.ideology">16/rjw-sexperience-ideology</li>
 		<!-- RJW 月经系统 完成-->
@@ -72,11 +74,11 @@
 		<li IfModActive="rim.job.world.onahole.ext">16/rimjobworld-onahole-extension</li>
 		<!-- RJWPE儿童	完成-->
 		<li IfModActive="rim.job.world.pe">16/RJWPE</li>
-			<li IfModActive="Ludeon.RimWorld.Ideology">16/RJWPE/Ideology</li><!--未完成-->
-			<li IfModActive="Ludeon.RimWorld.Biotech">16/RJWPE/Biotech</li><!--未完成-->
-			<li IfModActive="Vegapnk.rjw.genes">16/RJWPE/Genes</li><!--未完成-->
-			<li IfModActive="calamabanana.rjw.brothelcolony">16/RJWPE/BrothelColony</li><!--未完成-->
-			<li IfModActive="c0ffee.rimworld.animations">16/RJWPE/Voice Patch</li><!--未完成-->
+			<li IfModActive="Ludeon.RimWorld.Ideology">16/RJWPE/Ideology</li>
+			<li IfModActive="Ludeon.RimWorld.Biotech">16/RJWPE/Biotech</li>
+			<li IfModActive="Vegapnk.rjw.genes">16/RJWPE/Genes</li>
+			<li IfModActive="calamabanana.rjw.brothelcolony">16/RJWPE/BrothelColony</li>
+			<li IfModActive="c0ffee.rimworld.animations">16/RJWPE/Voice Patch</li>
 		<!-- RJW 风味文字 完成-->
 		<li IfModActive="moth.rjw.flavor">16/rjw-flavor-text</li>
 		<!-- RJW 特征 完成-->

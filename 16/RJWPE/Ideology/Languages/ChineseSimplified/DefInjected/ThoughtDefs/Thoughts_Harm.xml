@@ -2,122 +2,122 @@
 <LanguageData>
   <!--翻译内容: 'I hurt another child. I drew blood. What is wrong with me?',新增于2026-02-16-->
   <!--EN: I hurt another child. I drew blood. What is wrong with me?-->
-  <Harm_Child_Abhorrent.stages.0.description>I hurt another child. I drew blood. What is wrong with me?</Harm_Child_Abhorrent.stages.0.description>
+  <Harm_Child_Abhorrent.stages.0.description>我伤害了另一个孩子。我弄得他流血了。我到底怎么了？</Harm_Child_Abhorrent.stages.0.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Abhorrent.stages.0.label>harmed a child</Harm_Child_Abhorrent.stages.0.label>
+  <Harm_Child_Abhorrent.stages.0.label>伤害儿童</Harm_Child_Abhorrent.stages.0.label>
   <!--翻译内容: 'I attacked an innocent child. I drew blood. I am a monster.',新增于2026-02-16-->
   <!--EN: I attacked an innocent child. I drew blood. I am a monster.-->
-  <Harm_Child_Abhorrent.stages.1.description>I attacked an innocent child. I drew blood. I am a monster.</Harm_Child_Abhorrent.stages.1.description>
+  <Harm_Child_Abhorrent.stages.1.description>我袭击了一个无辜的孩子。我见血了。我就是个怪物。</Harm_Child_Abhorrent.stages.1.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Abhorrent.stages.1.label>harmed a child</Harm_Child_Abhorrent.stages.1.label>
+  <Harm_Child_Abhorrent.stages.1.label>伤害儿童</Harm_Child_Abhorrent.stages.1.label>
   <!--翻译内容: 'I harmed another kid. They started it.',新增于2026-02-16-->
   <!--EN: I harmed another kid. They started it.-->
-  <Harm_Child_Accepted.stages.0.description>I harmed another kid. They started it.</Harm_Child_Accepted.stages.0.description>
+  <Harm_Child_Accepted.stages.0.description>我伤害了另一个孩子。是他们先挑衅的。</Harm_Child_Accepted.stages.0.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Accepted.stages.0.label>harmed a child</Harm_Child_Accepted.stages.0.label>
+  <Harm_Child_Accepted.stages.0.label>伤害儿童</Harm_Child_Accepted.stages.0.label>
   <!--翻译内容: 'I harmed a kid. It had to be done.',新增于2026-02-16-->
   <!--EN: I harmed a kid. It had to be done.-->
-  <Harm_Child_Accepted.stages.1.description>I harmed a kid. It had to be done.</Harm_Child_Accepted.stages.1.description>
+  <Harm_Child_Accepted.stages.1.description>我伤害了一个孩子。这是必须的。</Harm_Child_Accepted.stages.1.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Accepted.stages.1.label>harmed a child</Harm_Child_Accepted.stages.1.label>
+  <Harm_Child_Accepted.stages.1.label>伤害儿童</Harm_Child_Accepted.stages.1.label>
   <!--翻译内容: 'I have attacked another kid. I'd better keep my head down.',新增于2026-02-16-->
   <!--EN: I have attacked another kid. I'd better keep my head down.-->
-  <Harm_Child_Disapproved.stages.0.description>I have attacked another kid. I&amp;amp;apos;d better keep my head down.</Harm_Child_Disapproved.stages.0.description>
+  <Harm_Child_Disapproved.stages.0.description>我又打了一个孩子。我最好低调点。</Harm_Child_Disapproved.stages.0.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Disapproved.stages.0.label>harmed a child</Harm_Child_Disapproved.stages.0.label>
+  <Harm_Child_Disapproved.stages.0.label>伤害儿童</Harm_Child_Disapproved.stages.0.label>
   <!--翻译内容: 'I have attacked a minor. Was that justifiable?',新增于2026-02-16-->
   <!--EN: I have attacked a minor. Was that justifiable?-->
-  <Harm_Child_Disapproved.stages.1.description>I have attacked a minor. Was that justifiable?</Harm_Child_Disapproved.stages.1.description>
+  <Harm_Child_Disapproved.stages.1.description>我袭击了一个未成年人。这样做合理吗？</Harm_Child_Disapproved.stages.1.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Disapproved.stages.1.label>harmed a child</Harm_Child_Disapproved.stages.1.label>
+  <Harm_Child_Disapproved.stages.1.label>伤害儿童</Harm_Child_Disapproved.stages.1.label>
   <!--翻译内容: 'I really fucked that kid up.',新增于2026-02-16-->
   <!--EN: I really fucked that kid up.-->
-  <Harm_Child_Honorable.stages.0.description>I really fucked that kid up.</Harm_Child_Honorable.stages.0.description>
+  <Harm_Child_Honorable.stages.0.description>我真是彻底毁了那孩子。</Harm_Child_Honorable.stages.0.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Honorable.stages.0.label>harmed a child</Harm_Child_Honorable.stages.0.label>
+  <Harm_Child_Honorable.stages.0.label>伤害儿童</Harm_Child_Honorable.stages.0.label>
   <!--翻译内容: 'I really fucked that kid up. It's fun when they are that weak.',新增于2026-02-16-->
   <!--EN: I really fucked that kid up. It's fun when they are that weak.-->
-  <Harm_Child_Honorable.stages.1.description>I really fucked that kid up. It&amp;amp;apos;s fun when they are that weak.</Harm_Child_Honorable.stages.1.description>
+  <Harm_Child_Honorable.stages.1.description>那孩子被我搞得够呛。他们这么弱的时候，玩起来真过瘾。</Harm_Child_Honorable.stages.1.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Honorable.stages.1.label>harmed a child</Harm_Child_Honorable.stages.1.label>
+  <Harm_Child_Honorable.stages.1.label>伤害儿童</Harm_Child_Honorable.stages.1.label>
   <!--翻译内容: 'I saw someone hurting a kid. Someone needs to do something!',新增于2026-02-16-->
   <!--EN: I saw someone hurting a kid. Someone needs to do something!-->
-  <Harm_Child_Know_Abhorrent.stages.0.description>I saw someone hurting a kid. Someone needs to do something!</Harm_Child_Know_Abhorrent.stages.0.description>
+  <Harm_Child_Know_Abhorrent.stages.0.description>我看到有人伤害了一个孩子。必须有人采取行动！</Harm_Child_Know_Abhorrent.stages.0.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Know_Abhorrent.stages.0.label>harmed a child</Harm_Child_Know_Abhorrent.stages.0.label>
+  <Harm_Child_Know_Abhorrent.stages.0.label>伤害儿童</Harm_Child_Know_Abhorrent.stages.0.label>
   <!--翻译内容: 'I have witnessed someone hurting a child. There must be justice or this place must burn.',新增于2026-02-16-->
   <!--EN: I have witnessed someone hurting a child. There must be justice or this place must burn.-->
-  <Harm_Child_Know_Abhorrent.stages.1.description>I have witnessed someone hurting a child. There must be justice or this place must burn.</Harm_Child_Know_Abhorrent.stages.1.description>
+  <Harm_Child_Know_Abhorrent.stages.1.description>我亲眼目睹了有人伤害孩子。正义必须伸张，否则这地方就该烧个精光。</Harm_Child_Know_Abhorrent.stages.1.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Know_Abhorrent.stages.1.label>harmed a child</Harm_Child_Know_Abhorrent.stages.1.label>
+  <Harm_Child_Know_Abhorrent.stages.1.label>伤害儿童</Harm_Child_Know_Abhorrent.stages.1.label>
   <!--翻译内容: 'Someone hurt some kid. I had better be careful.',新增于2026-02-16-->
   <!--EN: Someone hurt some kid. I had better be careful.-->
-  <Harm_Child_Know_Accepted.stages.0.description>Someone hurt some kid. I had better be careful.</Harm_Child_Know_Accepted.stages.0.description>
+  <Harm_Child_Know_Accepted.stages.0.description>有人伤害了孩子，我得当心点。</Harm_Child_Know_Accepted.stages.0.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Know_Accepted.stages.0.label>harmed a child</Harm_Child_Know_Accepted.stages.0.label>
+  <Harm_Child_Know_Accepted.stages.0.label>伤害儿童</Harm_Child_Know_Accepted.stages.0.label>
   <!--翻译内容: 'Someone hurt a kid... I guess they might have had it coming...',新增于2026-02-16-->
   <!--EN: Someone hurt a kid... I guess they might have had it coming...-->
-  <Harm_Child_Know_Accepted.stages.1.description>Someone hurt a kid... I guess they might have had it coming...</Harm_Child_Know_Accepted.stages.1.description>
+  <Harm_Child_Know_Accepted.stages.1.description>有人伤害了一个孩子...我想他们可能活该吧...</Harm_Child_Know_Accepted.stages.1.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Know_Accepted.stages.1.label>harmed a child</Harm_Child_Know_Accepted.stages.1.label>
+  <Harm_Child_Know_Accepted.stages.1.label>伤害儿童</Harm_Child_Know_Accepted.stages.1.label>
   <!--翻译内容: 'Someone just hurt a kid. I should say something.',新增于2026-02-16-->
   <!--EN: Someone just hurt a kid. I should say something.-->
-  <Harm_Child_Know_Disapproved.stages.0.description>Someone just hurt a kid. I should say something.</Harm_Child_Know_Disapproved.stages.0.description>
+  <Harm_Child_Know_Disapproved.stages.0.description>有人刚伤害了一个孩子。我该说点什么。</Harm_Child_Know_Disapproved.stages.0.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Know_Disapproved.stages.0.label>harmed a child</Harm_Child_Know_Disapproved.stages.0.label>
+  <Harm_Child_Know_Disapproved.stages.0.label>伤害儿童</Harm_Child_Know_Disapproved.stages.0.label>
   <!--翻译内容: 'Someone just harmed a kid. Perhaps I should say something?',新增于2026-02-16-->
   <!--EN: Someone just harmed a kid. Perhaps I should say something?-->
-  <Harm_Child_Know_Disapproved.stages.1.description>Someone just harmed a kid. Perhaps I should say something?</Harm_Child_Know_Disapproved.stages.1.description>
+  <Harm_Child_Know_Disapproved.stages.1.description>有人刚刚伤害了一个孩子。或许我该说点什么？</Harm_Child_Know_Disapproved.stages.1.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Know_Disapproved.stages.1.label>harmed a child</Harm_Child_Know_Disapproved.stages.1.label>
+  <Harm_Child_Know_Disapproved.stages.1.label>伤害儿童</Harm_Child_Know_Disapproved.stages.1.label>
   <!--翻译内容: 'I just saw someone hurt a kid. They do that for fun around here.',新增于2026-02-16-->
   <!--EN: I just saw someone hurt a kid. They do that for fun around here.-->
-  <Harm_Child_Know_Honorable.stages.0.description>I just saw someone hurt a kid. They do that for fun around here.</Harm_Child_Know_Honorable.stages.0.description>
+  <Harm_Child_Know_Honorable.stages.0.description>我刚看见有人伤害一个孩子。在这儿，他们就是为了好玩才这么做的。</Harm_Child_Know_Honorable.stages.0.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Know_Honorable.stages.0.label>harmed a child</Harm_Child_Know_Honorable.stages.0.label>
+  <Harm_Child_Know_Honorable.stages.0.label>伤害儿童</Harm_Child_Know_Honorable.stages.0.label>
   <!--翻译内容: 'I just saw someone harm a kid. I hope I get my chance to do the same, soon.',新增于2026-02-16-->
   <!--EN: I just saw someone harm a kid. I hope I get my chance to do the same, soon.-->
-  <Harm_Child_Know_Honorable.stages.1.description>I just saw someone harm a kid. I hope I get my chance to do the same, soon.</Harm_Child_Know_Honorable.stages.1.description>
+  <Harm_Child_Know_Honorable.stages.1.description>我刚看到有人伤害了孩子。希望我能很快有机会以牙还牙。</Harm_Child_Know_Honorable.stages.1.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Know_Honorable.stages.1.label>harmed a child</Harm_Child_Know_Honorable.stages.1.label>
+  <Harm_Child_Know_Honorable.stages.1.label>伤害儿童</Harm_Child_Know_Honorable.stages.1.label>
   <!--翻译内容: 'Someone has harmed a child. That's against the rules, right?',新增于2026-02-16-->
   <!--EN: Someone has harmed a child. That's against the rules, right?-->
-  <Harm_Child_Know_Prohibited.stages.0.description>Someone has harmed a child. That&amp;amp;apos;s against the rules, right?</Harm_Child_Know_Prohibited.stages.0.description>
+  <Harm_Child_Know_Prohibited.stages.0.description>有人伤害了一个孩子。这违反了规则，对吧？</Harm_Child_Know_Prohibited.stages.0.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Know_Prohibited.stages.0.label>harmed a child</Harm_Child_Know_Prohibited.stages.0.label>
+  <Harm_Child_Know_Prohibited.stages.0.label>伤害儿童</Harm_Child_Know_Prohibited.stages.0.label>
   <!--翻译内容: 'Someone has harmed a child. How can that possibly have been justified?',新增于2026-02-16-->
   <!--EN: Someone has harmed a child. How can that possibly have been justified?-->
-  <Harm_Child_Know_Prohibited.stages.1.description>Someone has harmed a child. How can that possibly have been justified?</Harm_Child_Know_Prohibited.stages.1.description>
+  <Harm_Child_Know_Prohibited.stages.1.description>有人伤害了孩子。这怎么可能有正当理由？</Harm_Child_Know_Prohibited.stages.1.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Know_Prohibited.stages.1.label>harmed a child</Harm_Child_Know_Prohibited.stages.1.label>
+  <Harm_Child_Know_Prohibited.stages.1.label>伤害儿童</Harm_Child_Know_Prohibited.stages.1.label>
   <!--翻译内容: 'I have harmed another child. I am in so much trouble.',新增于2026-02-16-->
   <!--EN: I have harmed another child. I am in so much trouble.-->
-  <Harm_Child_Prohibited.stages.0.description>I have harmed another child. I am in so much trouble.</Harm_Child_Prohibited.stages.0.description>
+  <Harm_Child_Prohibited.stages.0.description>我伤害了另一个孩子。我陷入了巨大的麻烦。</Harm_Child_Prohibited.stages.0.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Prohibited.stages.0.label>harmed a child</Harm_Child_Prohibited.stages.0.label>
+  <Harm_Child_Prohibited.stages.0.label>伤害儿童</Harm_Child_Prohibited.stages.0.label>
   <!--翻译内容: 'I have harmed a child and the blood cannot be washed from my hands.',新增于2026-02-16-->
   <!--EN: I have harmed a child and the blood cannot be washed from my hands.-->
-  <Harm_Child_Prohibited.stages.1.description>I have harmed a child and the blood cannot be washed from my hands.</Harm_Child_Prohibited.stages.1.description>
+  <Harm_Child_Prohibited.stages.1.description>我伤害了孩子，双手沾满的鲜血无法洗净。</Harm_Child_Prohibited.stages.1.description>
   <!--翻译内容: 'harmed a child',新增于2026-02-16-->
   <!--EN: harmed a child-->
-  <Harm_Child_Prohibited.stages.1.label>harmed a child</Harm_Child_Prohibited.stages.1.label>
+  <Harm_Child_Prohibited.stages.1.label>伤害儿童</Harm_Child_Prohibited.stages.1.label>
 </LanguageData>

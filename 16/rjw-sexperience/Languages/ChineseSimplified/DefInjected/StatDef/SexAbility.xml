@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--原中文: '性能力', 原英文: '无' -> 新英文: 'sex ability',更新于2026-02-14-->
-  <!--EN: sex ability-->
-  <SexAbility.label>性能力</SexAbility.label>
-  <!--原中文: '衡量小人是否有能力进行性行为，以及他们在这方面的表现有多好。', 原英文: '无' -> 新英文: 'Measures whether or not a pawn is capable of sex, and how good they are at it',更新于2026-02-14-->
-  <!--EN: Measures whether or not a pawn is capable of sex, and how good they are at it-->
-  <SexAbility.description>衡量小人是否有能力进行性行为，以及他们在这方面的表现有多好。</SexAbility.description>
-</LanguageData>

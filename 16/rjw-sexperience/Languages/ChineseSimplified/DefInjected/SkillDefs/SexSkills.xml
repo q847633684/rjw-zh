@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--翻译内容: 'subject->sex',新增于2026-02-14-->
+  <!--EN: Sex skill.-->
+  <Sex.description>性的技巧</Sex.description>
   <!--EN: subject->sex-->
-  <Sex.generalRules.rulesStrings.0>subject->性别</Sex.generalRules.rulesStrings.0>
-  <!--翻译内容: 'subject->fucking',新增于2026-02-14-->
+  <Sex.generalRules.rulesStrings.0>subject-&gt;性别</Sex.generalRules.rulesStrings.0>
   <!--EN: subject->fucking-->
-  <Sex.generalRules.rulesStrings.1>subject->操</Sex.generalRules.rulesStrings.1>
-  <!--翻译内容: 'subject->intimact',新增于2026-02-14-->
+  <Sex.generalRules.rulesStrings.1>subject-&gt;操</Sex.generalRules.rulesStrings.1>
   <!--EN: subject->intimact-->
-  <Sex.generalRules.rulesStrings.2>subject->亲密感</Sex.generalRules.rulesStrings.2>
+  <Sex.generalRules.rulesStrings.2>subject-&gt;亲密感</Sex.generalRules.rulesStrings.2>
+  <!--EN: sex-->
+  <Sex.skillLabel>性</Sex.skillLabel>
 </LanguageData>

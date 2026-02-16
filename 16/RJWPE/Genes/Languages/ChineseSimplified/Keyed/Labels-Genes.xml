@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<settings_tabs_genes>Genes</settings_tabs_genes>
+	<settings_tabs_genes>基因</settings_tabs_genes>
 	
-	<lifeForce_header>Life Force</lifeForce_header>
-	<lifeForce_minAge_title>Minimum age</lifeForce_minAge_title>
-	<lifeForce_minAge_desc>The age at which the gene becomes active.</lifeForce_minAge_desc>
+	<lifeForce_header>生命力</lifeForce_header>
+	<lifeForce_minAge_title>最低年龄</lifeForce_minAge_title>
+	<lifeForce_minAge_desc>基因变得活跃的年龄。</lifeForce_minAge_desc>
 </LanguageData>

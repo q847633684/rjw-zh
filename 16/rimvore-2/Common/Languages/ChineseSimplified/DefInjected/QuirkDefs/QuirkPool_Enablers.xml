@@ -9,7 +9,7 @@
   <!--EN: Lactifactive enzymes-->
   <Enablers_Core_Goal_ConvertMilk.label>液化酶</Enablers_Core_Goal_ConvertMilk.label>
   <!--EN: [PAWN_label] can melt live prey down to sperm in [PAWN_possessive] balls.-->
-  <Enablers_Core_Goal_ConvertSperm.description>[PAWN_label] can melt live prey down to &amp;lt;ALIMT >精子&amp;lt;/ALIMT> in [PAWN_possessive] balls.</Enablers_Core_Goal_ConvertSperm.description>
+  <Enablers_Core_Goal_ConvertSperm.description>[PAWN_label] can melt live prey down to &lt;ALIMT >精子&lt;/ALIMT> in [PAWN_possessive] balls.</Enablers_Core_Goal_ConvertSperm.description>
   <!--EN: Spermifactive enzymes-->
   <Enablers_Core_Goal_ConvertSperm.label>Spermifactive enzymes</Enablers_Core_Goal_ConvertSperm.label>
   <!--EN: [PAWN_label] has potent enough digestive enzymes to reasonably digest live prey.-->
@@ -17,7 +17,7 @@
   <!--EN: Digestive enzymes-->
   <Enablers_Core_Goal_Digest.label>Digestive enzymes</Enablers_Core_Goal_Digest.label>
   <!--EN: [PAWN_label]'s internal organs can function as a sanitary, comfortable, and even medicinal substitute for conventional bedrest.-->
-  <Enablers_Core_Goal_Heal.description>[PAWN_label]&amp;apos;s internal organs can function as a sanitary, comfortable, and even medicinal substitute for conventional bedrest.</Enablers_Core_Goal_Heal.description>
+  <Enablers_Core_Goal_Heal.description>[PAWN_label]&apos;s internal organs can function as a sanitary, comfortable, and even medicinal substitute for conventional bedrest.</Enablers_Core_Goal_Heal.description>
   <!--EN: Analeptic enzymes-->
   <Enablers_Core_Goal_Heal.label>Analeptic enzymes</Enablers_Core_Goal_Heal.label>
   <!--EN: [PAWN_label] is sphinctrally strong and biochemically stable enough to hold onto prey indefinitely.-->
@@ -29,7 +29,7 @@
   <!--EN: Reforming enzymes-->
   <Enablers_Core_Goal_Reform.label>Reforming enzymes</Enablers_Core_Goal_Reform.label>
   <!--EN: [PAWN_label] is nice and hospitable enough inside that [PAWN_possessive] innards can be used for comfort, leisure, and sexual pleasure, thanks to numerous quality of life improvements such as sanitization and passive airflow induction.-->
-  <Enablers_Core_Goal_TempEndo.description>[PAWN_label] is nice and hospitable enough inside that [PAWN_possessive] innards can be used for comfort, leisure, and &amp;lt;ALIMT >性的&amp;lt;/ALIMT> pleasure, thanks to numerous quality of life improvements such as sanitization and passive airflow induction.</Enablers_Core_Goal_TempEndo.description>
+  <Enablers_Core_Goal_TempEndo.description>[PAWN_label] is nice and hospitable enough inside that [PAWN_possessive] innards can be used for comfort, leisure, and &lt;ALIMT >性的&lt;/ALIMT> pleasure, thanks to numerous quality of life improvements such as sanitization and passive airflow induction.</Enablers_Core_Goal_TempEndo.description>
   <!--EN: Short-term endo-->
   <Enablers_Core_Goal_TempEndo.label>Short-term endo</Enablers_Core_Goal_TempEndo.label>
   <!--EN: [PAWN_label] has a pucker and guts stretchy enough to posternate up live prey.-->

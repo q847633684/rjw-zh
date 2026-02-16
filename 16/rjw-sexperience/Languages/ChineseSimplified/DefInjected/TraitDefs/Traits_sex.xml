@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: [PAWN_nameDef] never experienced. However, her hymen had damaged for some reason.-->
+  <Virgin.degreeDatas.0.description>[PAWN_nameDef]从未经历过性生活，但是她的处女膜因某种原因损坏了。</Virgin.degreeDatas.0.description>
+  <!--EN: damaged virgin-->
+  <Virgin.degreeDatas.0.label>处女膜破损</Virgin.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] never experienced.-->
+  <Virgin.degreeDatas.1.description>[PAWN_nameDef]还未经人事。</Virgin.degreeDatas.1.description>
+  <!--EN: virgin-->
+  <Virgin.degreeDatas.1.label>未经人事</Virgin.degreeDatas.1.label>
+  <!--EN: [PAWN_nameDef] looks experienced. But the hymen is still there.-->
+  <Virgin.degreeDatas.2.description>[PAWN_nameDef]看起来身经百战，但她的处女膜确实还在。</Virgin.degreeDatas.2.description>
+  <!--EN: virgin?-->
+  <Virgin.degreeDatas.2.label>处女？</Virgin.degreeDatas.2.label>
+  <!--EN: [PAWN_nameDef] never experienced.-->
+  <Virgin.degreeDatas.3.description>[PAWN_nameDef]还没有和人爱爱过。</Virgin.degreeDatas.3.description>
+  <!--EN: virgin-->
+  <Virgin.degreeDatas.3.label>处女</Virgin.degreeDatas.3.label>
+</LanguageData>

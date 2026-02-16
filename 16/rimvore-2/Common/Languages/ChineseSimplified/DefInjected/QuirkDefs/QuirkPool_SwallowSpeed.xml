@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: These quirks determine how quickly a pawn begins vore (i.e., how quickly the prey is removed from the map and added to the pawn's hediffs). It does not currently impact how quickly the "passing" stages progress.-->
-  <SwallowSpeed.description>这些怪癖决定了pawn开始吃人(也就是说，猎物从地图上移除并添加到pawn&amp;apos;S hediffs&amp;apos;)。它目前不影响 “通过” 阶段的进度。</SwallowSpeed.description>
+  <SwallowSpeed.description>这些怪癖决定了pawn开始吃人(也就是说，猎物从地图上移除并添加到pawn&apos;S hediffs&apos;)。它目前不影响 “通过” 阶段的进度。</SwallowSpeed.description>
   <!--EN: Swallow Speed-->
   <SwallowSpeed.label>吞食速度</SwallowSpeed.label>
   <!--EN: [PAWN_label] takes prey in at a leisurely pace, half as quick as other predators.-->

@@ -19,13 +19,13 @@
   <!--EN: saw->recognized, that-->
   <AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->I was [AreolaSlip] only because I [saw] the [emotion] look from [RECIPIENT_nameDef].-->
   <AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I was [AreolaSlip] only because I [saw] the [emotion] look from [RECIPIENT_nameDef].</AreolaSlip_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
@@ -219,7 +219,7 @@
   <!--EN: saw->recognized-->
   <Bath_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized</Bath_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore-->
-  <Bath_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore</Bath_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <Bath_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore</Bath_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew-->
   <Bath_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew</Bath_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: staring->staring-->
@@ -293,7 +293,7 @@
   <!--EN: emotion->ashamed-->
   <Bath_Observed_Interaction.logRulesInitiator.rulesStrings.49>emotion->ashamed</Bath_Observed_Interaction.logRulesInitiator.rulesStrings.49>
   <!--EN: r_logentry->[RECIPIENT_nameDef] walked in as I was [bath]. I couldn't ignore [RECIPIENT_possessive] [emotion] stare as they saw my [nudity].-->
-  <Bath_Observed_Interaction.logRulesInitiator.rulesStrings.5>r_logentry->[RECIPIENT_nameDef] walked in as I was [bath]. I couldn&amp;apos;t ignore [RECIPIENT_possessive] [emotion] stare as they saw my [nudity].</Bath_Observed_Interaction.logRulesInitiator.rulesStrings.5>
+  <Bath_Observed_Interaction.logRulesInitiator.rulesStrings.5>r_logentry->[RECIPIENT_nameDef] walked in as I was [bath]. I couldn&apos;t ignore [RECIPIENT_possessive] [emotion] stare as they saw my [nudity].</Bath_Observed_Interaction.logRulesInitiator.rulesStrings.5>
   <!--EN: emotion->indifferent-->
   <Bath_Observed_Interaction.logRulesInitiator.rulesStrings.50>emotion->indifferent</Bath_Observed_Interaction.logRulesInitiator.rulesStrings.50>
   <!--EN: emotion->daring-->
@@ -359,7 +359,7 @@
   <!--EN: emotion->intrigued-->
   <Bath_Observed_Interaction.logRulesInitiator.rulesStrings.79>emotion->intrigued</Bath_Observed_Interaction.logRulesInitiator.rulesStrings.79>
   <!--EN: r_logentry->I [saw] I wasn't alone anymore. [RECIPIENT_nameDef] was there, [staring] while I was [bath].-->
-  <Bath_Observed_Interaction.logRulesInitiator.rulesStrings.8>r_logentry->I [saw] I wasn&amp;apos;t alone anymore. [RECIPIENT_nameDef] was there, [staring] while I was [bath].</Bath_Observed_Interaction.logRulesInitiator.rulesStrings.8>
+  <Bath_Observed_Interaction.logRulesInitiator.rulesStrings.8>r_logentry->I [saw] I wasn&apos;t alone anymore. [RECIPIENT_nameDef] was there, [staring] while I was [bath].</Bath_Observed_Interaction.logRulesInitiator.rulesStrings.8>
   <!--EN: emotion->analytical-->
   <Bath_Observed_Interaction.logRulesInitiator.rulesStrings.80>emotion->analytical</Bath_Observed_Interaction.logRulesInitiator.rulesStrings.80>
   <!--EN: emotion->overwhelmed-->
@@ -397,7 +397,7 @@
   <!--EN: saw->recognized, that-->
   <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->recognized, that</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->couldn't ignore, that-->
-  <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->couldn&amp;apos;t ignore, that</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.17>
+  <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->couldn&apos;t ignore, that</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->knew, that-->
   <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->knew, that</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->caught a glimpse of-->
@@ -405,7 +405,7 @@
   <!--EN: r_logentry->The transparent gel hid nothing. I [saw] [RECIPIENT_nameDef], and [RECIPIENT_possessive] [emotion] gaze studied my [submerged] state.-->
   <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->The transparent gel hid nothing. I [saw] [RECIPIENT_nameDef], and [RECIPIENT_possessive] [emotion] gaze studied my [submerged] state.</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->realized I wasn't alone,-->
-  <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.20>saw->realized I wasn&amp;apos;t alone,</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.20>
+  <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.20>saw->realized I wasn&apos;t alone,</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.20>
   <!--EN: saw->locked eyes with-->
   <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.21>saw->locked eyes with</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.21>
   <!--EN: saw->saw movement in the corner of my eye,-->
@@ -491,7 +491,7 @@
   <!--EN: emotion->defiant-->
   <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.59>emotion->defiant</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.59>
   <!--EN: r_logentry->The tubes and sensors didn't distract from the main view. I [saw] [RECIPIENT_nameDef], [staring] at my [submerged] state.-->
-  <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.6>r_logentry->The tubes and sensors didn&amp;apos;t distract from the main view. I [saw] [RECIPIENT_nameDef], [staring] at my [submerged] state.</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.6>
+  <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.6>r_logentry->The tubes and sensors didn&apos;t distract from the main view. I [saw] [RECIPIENT_nameDef], [staring] at my [submerged] state.</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.6>
   <!--EN: emotion->ashamed-->
   <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.60>emotion->ashamed</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.60>
   <!--EN: emotion->indifferent-->
@@ -557,7 +557,7 @@
   <!--EN: emotion->conflicted-->
   <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.89>emotion->conflicted</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.89>
   <!--EN: r_logentry->I couldn't move, [Biopod], and could only watch as I [saw] [RECIPIENT_nameDef] examined my [submerged] state with [emotion] curiosity.-->
-  <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.9>r_logentry->I couldn&amp;apos;t move, [Biopod], and could only watch as I [saw] [RECIPIENT_nameDef] examined my [submerged] state with [emotion] curiosity.</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.9>
+  <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.9>r_logentry->I couldn&apos;t move, [Biopod], and could only watch as I [saw] [RECIPIENT_nameDef] examined my [submerged] state with [emotion] curiosity.</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.9>
   <!--EN: emotion->intrigued-->
   <Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.90>emotion->intrigued</Biopod_Observed_Interaction.logRulesInitiator.rulesStrings.90>
   <!--EN: emotion->analytical-->
@@ -579,7 +579,7 @@
   <!--EN: r_logentry->I [saw] [RECIPIENT_nameDef] was [staring] at my naked [genitals] with an [emotion] look.-->
   <Bottomless_Observed_Interaction.logRulesInitiator.rulesStrings.0>r_logentry->I [saw] [RECIPIENT_nameDef] was [staring] at my naked [genitals] with an [emotion] look.</Bottomless_Observed_Interaction.logRulesInitiator.rulesStrings.0>
   <!--EN: r_logentry->I wasn't wearing anything below, and I [saw] [RECIPIENT_nameDef] [emotion] gaze drift down to my [genitals].-->
-  <Bottomless_Observed_Interaction.logRulesInitiator.rulesStrings.1>r_logentry->I wasn&amp;apos;t wearing anything below, and I [saw] [RECIPIENT_nameDef] [emotion] gaze drift down to my [genitals].</Bottomless_Observed_Interaction.logRulesInitiator.rulesStrings.1>
+  <Bottomless_Observed_Interaction.logRulesInitiator.rulesStrings.1>r_logentry->I wasn&apos;t wearing anything below, and I [saw] [RECIPIENT_nameDef] [emotion] gaze drift down to my [genitals].</Bottomless_Observed_Interaction.logRulesInitiator.rulesStrings.1>
   <!--EN: saw->have seen-->
   <Bottomless_Observed_Interaction.logRulesInitiator.rulesStrings.10>saw->have seen</Bottomless_Observed_Interaction.logRulesInitiator.rulesStrings.10>
   <!--EN: saw->noticed-->
@@ -763,7 +763,7 @@
   <!--EN: saw->recognized-->
   <BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized</BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore-->
-  <BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore</BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore</BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew-->
   <BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew</BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: staring->staring-->
@@ -815,7 +815,7 @@
   <!--EN: breasts->bosom-->
   <BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.39>breasts->bosom</BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.39>
   <!--EN: r_logentry->I couldn't ignore the blatant [staring] from [RECIPIENT_nameDef] when I was [BreastSlip].-->
-  <BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.4>r_logentry->I couldn&amp;apos;t ignore the blatant [staring] from [RECIPIENT_nameDef] when I was [BreastSlip].</BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.4>
+  <BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.4>r_logentry->I couldn&apos;t ignore the blatant [staring] from [RECIPIENT_nameDef] when I was [BreastSlip].</BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.4>
   <!--EN: breasts->curves-->
   <BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.40>breasts->curves</BreastSlip_Observed_Interaction.logRulesInitiator.rulesStrings.40>
   <!--EN: breasts->upper body-->
@@ -939,13 +939,13 @@
   <!--EN: saw->recognized, that-->
   <Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->The intimacy of [Breastfeed] was broken when I [saw] [RECIPIENT_nameDef] watching, [RECIPIENT_possessive] face a mask of [emotion] emotion.-->
   <Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->The intimacy of [Breastfeed] was broken when I [saw] [RECIPIENT_nameDef] watching, [RECIPIENT_possessive] face a mask of [emotion] emotion.</Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
@@ -969,7 +969,7 @@
   <!--EN: staring->observing me-->
   <Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.29>staring->observing me</Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.29>
   <!--EN: r_logentry->I tried to be discreet while [Breastfeed], but I [saw] [RECIPIENT_nameDef] couldn't tear [RECIPIENT_possessive] [staring] eyes away.-->
-  <Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.3>r_logentry->I tried to be discreet while [Breastfeed], but I [saw] [RECIPIENT_nameDef] couldn&amp;apos;t tear [RECIPIENT_possessive] [staring] eyes away.</Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.3>
+  <Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.3>r_logentry->I tried to be discreet while [Breastfeed], but I [saw] [RECIPIENT_nameDef] couldn&apos;t tear [RECIPIENT_possessive] [staring] eyes away.</Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.3>
   <!--EN: staring->watching closesly at me-->
   <Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.30>staring->watching closesly at me</Breastfeed_Observed_Interaction.logRulesInitiator.rulesStrings.30>
   <!--EN: staring->staring in awe at me-->
@@ -1139,7 +1139,7 @@
   <!--EN: saw->recognized, that-->
   <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->recognized, that</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->couldn't ignore, that-->
-  <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->couldn&amp;apos;t ignore, that</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.17>
+  <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->couldn&apos;t ignore, that</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->knew, that-->
   <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->knew, that</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->caught a glimpse of-->
@@ -1147,7 +1147,7 @@
   <!--EN: r_logentry->I thought I had a moment of privacy for [Changing], but I [saw] [RECIPIENT_nameDef], and [RECIPIENT_possessive] [emotion] look was fixed on my [nudity].-->
   <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I thought I had a moment of privacy for [Changing], but I [saw] [RECIPIENT_nameDef], and [RECIPIENT_possessive] [emotion] look was fixed on my [nudity].</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->realized I wasn't alone,-->
-  <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.20>saw->realized I wasn&amp;apos;t alone,</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.20>
+  <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.20>saw->realized I wasn&apos;t alone,</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.20>
   <!--EN: saw->locked eyes with-->
   <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.21>saw->locked eyes with</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.21>
   <!--EN: saw->saw movement in the corner of my eye,-->
@@ -1189,7 +1189,7 @@
   <!--EN: Changing->changing outfits without a thought-->
   <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.39>Changing->changing outfits without a thought</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.39>
   <!--EN: r_logentry->The lock didn't click. I [saw] [RECIPIENT_nameDef] enter while I was [Changing], and we shared an [emotion] moment of silence.-->
-  <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.4>r_logentry->The lock didn&amp;apos;t click. I [saw] [RECIPIENT_nameDef] enter while I was [Changing], and we shared an [emotion] moment of silence.</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.4>
+  <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.4>r_logentry->The lock didn&apos;t click. I [saw] [RECIPIENT_nameDef] enter while I was [Changing], and we shared an [emotion] moment of silence.</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.4>
   <!--EN: Changing->pulling fresh clothes over my bare skin-->
   <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.40>Changing->pulling fresh clothes over my bare skin</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.40>
   <!--EN: Changing->folding my dirty clothes, still naked-->
@@ -1233,7 +1233,7 @@
   <!--EN: emotion->ashamed-->
   <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.59>emotion->ashamed</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.59>
   <!--EN: r_logentry->It was an awkward encounter; I was [Changing] and [saw] [RECIPIENT_nameDef]'s eyes linger on my [nudity] with [emotion] emotion.-->
-  <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.6>r_logentry->It was an awkward encounter; I was [Changing] and [saw] [RECIPIENT_nameDef]&amp;apos;s eyes linger on my [nudity] with [emotion] emotion.</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.6>
+  <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.6>r_logentry->It was an awkward encounter; I was [Changing] and [saw] [RECIPIENT_nameDef]&apos;s eyes linger on my [nudity] with [emotion] emotion.</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.6>
   <!--EN: emotion->indifferent-->
   <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.60>emotion->indifferent</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.60>
   <!--EN: emotion->daring-->
@@ -1277,7 +1277,7 @@
   <!--EN: emotion->vouyeristic-->
   <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.79>emotion->vouyeristic</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.79>
   <!--EN: r_logentry->"Excuse me!" was all I could manage when I [saw] [RECIPIENT_nameDef] watching me with an [emotion] gaze while I was [Changing].-->
-  <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.8>r_logentry->&amp;quot;Excuse me!&amp;quot; was all I could manage when I [saw] [RECIPIENT_nameDef] watching me with an [emotion] gaze while I was [Changing].</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.8>
+  <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.8>r_logentry->&quot;Excuse me!&quot; was all I could manage when I [saw] [RECIPIENT_nameDef] watching me with an [emotion] gaze while I was [Changing].</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.8>
   <!--EN: emotion->inspecting-->
   <Changing_Observed_Interaction.logRulesInitiator.rulesStrings.80>emotion->inspecting</Changing_Observed_Interaction.logRulesInitiator.rulesStrings.80>
   <!--EN: emotion->curious-->
@@ -1333,7 +1333,7 @@
   <!--EN: saw->recognized-->
   <Covering_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized</Covering_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore-->
-  <Covering_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore</Covering_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <Covering_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore</Covering_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <Covering_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</Covering_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: staring->staring-->
@@ -1477,7 +1477,7 @@
   <!--EN: r_logentry->I was [HotTub], when I [saw] [RECIPIENT_nameDef] [staring] my [nudity]. With an [emotion] face, I glanced back at [RECIPIENT_possessive] [emotion] look.-->
   <HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.0>r_logentry->I was [HotTub], when I [saw] [RECIPIENT_nameDef] [staring] my [nudity]. With an [emotion] face, I glanced back at [RECIPIENT_possessive] [emotion] look.</HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.0>
   <!--EN: r_logentry->When [HotTub], bubbles didn't hide my [nudity]; I [saw] [RECIPIENT_nameDef] [staring] at me with an [emotion] intensity.-->
-  <HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.1>r_logentry->When [HotTub], bubbles didn&amp;apos;t hide my [nudity]; I [saw] [RECIPIENT_nameDef] [staring] at me with an [emotion] intensity.</HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.1>
+  <HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.1>r_logentry->When [HotTub], bubbles didn&apos;t hide my [nudity]; I [saw] [RECIPIENT_nameDef] [staring] at me with an [emotion] intensity.</HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.1>
   <!--EN: saw->noticed-->
   <HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.10>saw->noticed</HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.10>
   <!--EN: saw->caught-->
@@ -1489,7 +1489,7 @@
   <!--EN: saw->recognized-->
   <HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.14>saw->recognized</HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.14>
   <!--EN: saw->couldn't ignore-->
-  <HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->couldn&amp;apos;t ignore</HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.15>
+  <HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->couldn&apos;t ignore</HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->knew-->
   <HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->knew</HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: staring->staring-->
@@ -1587,7 +1587,7 @@
   <!--EN: emotion->gentle-->
   <HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.59>emotion->gentle</HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.59>
   <!--EN: r_logentry->I [saw] [RECIPIENT_nameDef] was [staring] me [HotTub]; the water didn't offer much cover.-->
-  <HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.6>r_logentry->I [saw] [RECIPIENT_nameDef] was [staring] me [HotTub]; the water didn&amp;apos;t offer much cover.</HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.6>
+  <HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.6>r_logentry->I [saw] [RECIPIENT_nameDef] was [staring] me [HotTub]; the water didn&apos;t offer much cover.</HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.6>
   <!--EN: emotion->furious-->
   <HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.60>emotion->furious</HotTub_Observed_Interaction.logRulesInitiator.rulesStrings.60>
   <!--EN: emotion->nervous-->
@@ -1673,13 +1673,13 @@
   <!--EN: saw->recognized, that-->
   <HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->I held my difficult pose, but I [saw] [RECIPIENT_nameDef] was [staring] with a distracting [emotion] emotion.-->
   <HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I held my difficult pose, but I [saw] [RECIPIENT_nameDef] was [staring] with a distracting [emotion] emotion.</HumanArtBottom_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
@@ -1883,13 +1883,13 @@
   <!--EN: saw->recognized, that-->
   <HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->I held my pose, but I [saw] [RECIPIENT_nameDef] was [staring] with an [emotion] that broke the artistic silence.-->
   <HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I held my pose, but I [saw] [RECIPIENT_nameDef] was [staring] with an [emotion] that broke the artistic silence.</HumanArtFull_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
@@ -2083,7 +2083,7 @@
   <!--EN: saw->recognized, that-->
   <HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->recognized, that</HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->couldn't ignore, that-->
-  <HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->couldn&amp;apos;t ignore, that</HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.17>
+  <HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->couldn&apos;t ignore, that</HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->knew, that-->
   <HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->knew, that</HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->caught a glimpse of-->
@@ -2091,7 +2091,7 @@
   <!--EN: r_logentry->As a topless model, [HumanArtTop], I [saw] [RECIPIENT_nameDef] with [emotion] gaze on my [breasts].-->
   <HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->As a topless model, [HumanArtTop], I [saw] [RECIPIENT_nameDef] with [emotion] gaze on my [breasts].</HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->realized I wasn't alone,-->
-  <HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.20>saw->realized I wasn&amp;apos;t alone,</HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.20>
+  <HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.20>saw->realized I wasn&apos;t alone,</HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.20>
   <!--EN: saw->locked eyes with-->
   <HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.21>saw->locked eyes with</HumanArtTop_Observed_Interaction.logRulesInitiator.rulesStrings.21>
   <!--EN: saw->saw movement in the corner of my eye,-->
@@ -2313,7 +2313,7 @@
   <!--EN: masturbation->autoerotic activity-->
   <Masturbation_Observed_Interaction.logRulesInitiator.rulesStrings.29>masturbation->autoerotic activity</Masturbation_Observed_Interaction.logRulesInitiator.rulesStrings.29>
   <!--EN: r_logentry->I [saw] [RECIPIENT_nameDef]. The [emotion] look on [RECIPIENT_possessive] face confirmed they knew exactly what they'd walked in on.-->
-  <Masturbation_Observed_Interaction.logRulesInitiator.rulesStrings.3>r_logentry->I [saw] [RECIPIENT_nameDef]. The [emotion] look on [RECIPIENT_possessive] face confirmed they knew exactly what they&amp;apos;d walked in on.</Masturbation_Observed_Interaction.logRulesInitiator.rulesStrings.3>
+  <Masturbation_Observed_Interaction.logRulesInitiator.rulesStrings.3>r_logentry->I [saw] [RECIPIENT_nameDef]. The [emotion] look on [RECIPIENT_possessive] face confirmed they knew exactly what they&apos;d walked in on.</Masturbation_Observed_Interaction.logRulesInitiator.rulesStrings.3>
   <!--EN: masturbation->solo act-->
   <Masturbation_Observed_Interaction.logRulesInitiator.rulesStrings.30>masturbation->solo act</Masturbation_Observed_Interaction.logRulesInitiator.rulesStrings.30>
   <!--EN: masturbation->personal release-->
@@ -2451,13 +2451,13 @@
   <!--EN: saw->recognized, that-->
   <MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->I [saw] [RECIPIENT_nameDef] watching with [emotion] curiosity as I was [MedicalBottomSelf].-->
   <MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I [saw] [RECIPIENT_nameDef] watching with [emotion] curiosity as I was [MedicalBottomSelf].</MedicalBottomSelf_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
@@ -2661,13 +2661,13 @@
   <!--EN: saw->recognized, that-->
   <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->I [saw] [RECIPIENT_nameDef] watching with [emotion] curiosity examining my [genitals].-->
   <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I [saw] [RECIPIENT_nameDef] watching with [emotion] curiosity examining my [genitals].</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
@@ -2713,7 +2713,7 @@
   <!--EN: MedicalBottom->with nothing covering my hips for medical observation-->
   <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.39>MedicalBottom->with nothing covering my hips for medical observation</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.39>
   <!--EN: r_logentry->The clinical setting didn't stop the [emotion] stare I [saw] from [RECIPIENT_nameDef].-->
-  <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.4>r_logentry->The clinical setting didn&amp;apos;t stop the [emotion] stare I [saw] from [RECIPIENT_nameDef].</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.4>
+  <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.4>r_logentry->The clinical setting didn&apos;t stop the [emotion] stare I [saw] from [RECIPIENT_nameDef].</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.4>
   <!--EN: MedicalBottom->exposed below the waist, pretending not to notice-->
   <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.40>MedicalBottom->exposed below the waist, pretending not to notice</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.40>
   <!--EN: MedicalBottom->struggling to spread my butt under examination-->
@@ -2823,7 +2823,7 @@
   <!--EN: emotion->interested-->
   <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.89>emotion->interested</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.89>
   <!--EN: r_logentry->The doctor's touch was professional, unlike the [emotion] stare I [saw] from [RECIPIENT_nameDef].-->
-  <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.9>r_logentry->The doctor&amp;apos;s touch was professional, unlike the [emotion] stare I [saw] from [RECIPIENT_nameDef].</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.9>
+  <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.9>r_logentry->The doctor&apos;s touch was professional, unlike the [emotion] stare I [saw] from [RECIPIENT_nameDef].</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.9>
   <!--EN: emotion->discouraged-->
   <MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.90>emotion->discouraged</MedicalBottom_Observed_Interaction.logRulesInitiator.rulesStrings.90>
   <!--EN: emotion->perverted-->
@@ -2869,13 +2869,13 @@
   <!--EN: saw->recognized, that-->
   <MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->I [saw] [RECIPIENT_nameDef] watching with [emotion] fascination as I [MedicalFullSelf].-->
   <MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I [saw] [RECIPIENT_nameDef] watching with [emotion] fascination as I [MedicalFullSelf].</MedicalFullSelf_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
@@ -3067,13 +3067,13 @@
   <!--EN: saw->recognized, that-->
   <MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->I [saw] [RECIPIENT_nameDef] was [staring] with an [emotion] that was anything but clinical.-->
   <MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I [saw] [RECIPIENT_nameDef] was [staring] with an [emotion] that was anything but clinical.</MedicalFull_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
@@ -3263,13 +3263,13 @@
   <!--EN: saw->recognized, that-->
   <MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->I [saw] [RECIPIENT_nameDef] watching with [emotion] interest as I was [MedicalTopSelf].-->
   <MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I [saw] [RECIPIENT_nameDef] watching with [emotion] interest as I was [MedicalTopSelf].</MedicalTopSelf_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
@@ -3463,13 +3463,13 @@
   <!--EN: saw->recognized, that-->
   <MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->I [saw] [RECIPIENT_nameDef] watching with [emotion] interest with my [breasts] was examined.-->
   <MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I [saw] [RECIPIENT_nameDef] watching with [emotion] interest with my [breasts] was examined.</MedicalTop_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
@@ -3657,15 +3657,15 @@
   <!--EN: saw->recognized, that-->
   <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->The rhythmic process of [Milk] was interrupted when I [saw] [RECIPIENT_nameDef]'s [emotion] gaze.-->
-  <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->The rhythmic process of [Milk] was interrupted when I [saw] [RECIPIENT_nameDef]&amp;apos;s [emotion] gaze.</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.2>
+  <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->The rhythmic process of [Milk] was interrupted when I [saw] [RECIPIENT_nameDef]&apos;s [emotion] gaze.</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
   <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.20>saw->locked eyes with</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.20>
   <!--EN: saw->saw movement in the corner of my eye,-->
@@ -3687,7 +3687,7 @@
   <!--EN: staring->observing me-->
   <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.29>staring->observing me</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.29>
   <!--EN: r_logentry->I couldn't move, I could only watch as I [saw] [RECIPIENT_nameDef] [staring] while I was [Milk].-->
-  <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.3>r_logentry->I couldn&amp;apos;t move, I could only watch as I [saw] [RECIPIENT_nameDef] [staring] while I was [Milk].</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.3>
+  <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.3>r_logentry->I couldn&apos;t move, I could only watch as I [saw] [RECIPIENT_nameDef] [staring] while I was [Milk].</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.3>
   <!--EN: staring->watching closesly at me-->
   <Milk_Observed_Interaction.logRulesInitiator.rulesStrings.30>staring->watching closesly at me</Milk_Observed_Interaction.logRulesInitiator.rulesStrings.30>
   <!--EN: staring->staring in awe at me-->
@@ -3857,7 +3857,7 @@
   <!--EN: saw->recognized-->
   <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore-->
-  <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: staring->staring-->
   <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.17>staring->staring</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: staring->eyeing-->
@@ -3865,7 +3865,7 @@
   <!--EN: staring->gazing-->
   <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.19>staring->gazing</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->I was just there, showing all of my [nudity], and I [saw] [RECIPIENT_nameDef] couldn't help but [stare].-->
-  <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I was just there, showing all of my [nudity], and I [saw] [RECIPIENT_nameDef] couldn&amp;apos;t help but [stare].</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.2>
+  <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I was just there, showing all of my [nudity], and I [saw] [RECIPIENT_nameDef] couldn&apos;t help but [stare].</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: staring->watching-->
   <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.20>staring->watching</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.20>
   <!--EN: staring->looking-->
@@ -3909,7 +3909,7 @@
   <!--EN: emotion->ashamed-->
   <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.39>emotion->ashamed</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.39>
   <!--EN: r_logentry->I felt [RECIPIENT_nameDef]'s [staring] gaze meet mine as they took in my [nudity].-->
-  <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.4>r_logentry->I felt [RECIPIENT_nameDef]&amp;apos;s [staring] gaze meet mine as they took in my [nudity].</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.4>
+  <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.4>r_logentry->I felt [RECIPIENT_nameDef]&apos;s [staring] gaze meet mine as they took in my [nudity].</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.4>
   <!--EN: emotion->indifferent-->
   <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.40>emotion->indifferent</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.40>
   <!--EN: emotion->daring-->
@@ -3975,7 +3975,7 @@
   <!--EN: emotion->intrigued-->
   <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.69>emotion->intrigued</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.69>
   <!--EN: r_logentry->[RECIPIENT_nameDef]'s gaze fell upon me, and I [realized that] they were [staring] at my [nudity].-->
-  <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.7>r_logentry->[RECIPIENT_nameDef]&amp;apos;s gaze fell upon me, and I [realized that] they were [staring] at my [nudity].</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.7>
+  <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.7>r_logentry->[RECIPIENT_nameDef]&apos;s gaze fell upon me, and I [realized that] they were [staring] at my [nudity].</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.7>
   <!--EN: emotion->analytical-->
   <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.70>emotion->analytical</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.70>
   <!--EN: emotion->overwhelmed-->
@@ -3983,9 +3983,9 @@
   <!--EN: emotion->calm-->
   <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.72>emotion->calm</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.72>
   <!--EN: r_logentry->I wasn't wearing a thing. I [saw] [RECIPIENT_nameDef] looking at my [nudity] with an [emotion] fascination.-->
-  <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.8>r_logentry->I wasn&amp;apos;t wearing a thing. I [saw] [RECIPIENT_nameDef] looking at my [nudity] with an [emotion] fascination.</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.8>
+  <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.8>r_logentry->I wasn&apos;t wearing a thing. I [saw] [RECIPIENT_nameDef] looking at my [nudity] with an [emotion] fascination.</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.8>
   <!--EN: r_logentry->When [RECIPIENT_nameDef] [saw] my [nudity], [RECIPIENT_possessive] reaction was pure [emotion] look; they couldn't stop [staring].-->
-  <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.9>r_logentry->When [RECIPIENT_nameDef] [saw] my [nudity], [RECIPIENT_possessive] reaction was pure [emotion] look; they couldn&amp;apos;t stop [staring].</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.9>
+  <Naked_Observed_Interaction.logRulesInitiator.rulesStrings.9>r_logentry->When [RECIPIENT_nameDef] [saw] my [nudity], [RECIPIENT_possessive] reaction was pure [emotion] look; they couldn&apos;t stop [staring].</Naked_Observed_Interaction.logRulesInitiator.rulesStrings.9>
   <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was naked.-->
   <Naked_Observed_Interaction.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was naked.</Naked_Observed_Interaction.logRulesRecipient.rulesStrings.0>
   <!--EN: seen_by->observed by-->
@@ -4013,7 +4013,7 @@
   <!--EN: saw->recognized-->
   <NipSlip_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized</NipSlip_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore-->
-  <NipSlip_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore</NipSlip_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <NipSlip_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore</NipSlip_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew-->
   <NipSlip_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew</NipSlip_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: staring->staring-->
@@ -4187,7 +4187,7 @@
   <!--EN: saw->recognized, that-->
   <Rape_Observed_Interaction.logRulesInitiator.rulesStrings.11>saw->recognized, that</Rape_Observed_Interaction.logRulesInitiator.rulesStrings.11>
   <!--EN: saw->couldn't ignore, that-->
-  <Rape_Observed_Interaction.logRulesInitiator.rulesStrings.12>saw->couldn&amp;apos;t ignore, that</Rape_Observed_Interaction.logRulesInitiator.rulesStrings.12>
+  <Rape_Observed_Interaction.logRulesInitiator.rulesStrings.12>saw->couldn&apos;t ignore, that</Rape_Observed_Interaction.logRulesInitiator.rulesStrings.12>
   <!--EN: saw->knew, that-->
   <Rape_Observed_Interaction.logRulesInitiator.rulesStrings.13>saw->knew, that</Rape_Observed_Interaction.logRulesInitiator.rulesStrings.13>
   <!--EN: staring->staring at me-->
@@ -4333,7 +4333,7 @@
   <!--EN: saw->recognized-->
   <Raped_Observed_Interaction.logRulesInitiator.rulesStrings.11>saw->recognized</Raped_Observed_Interaction.logRulesInitiator.rulesStrings.11>
   <!--EN: saw->couldn't ignore-->
-  <Raped_Observed_Interaction.logRulesInitiator.rulesStrings.12>saw->couldn&amp;apos;t ignore</Raped_Observed_Interaction.logRulesInitiator.rulesStrings.12>
+  <Raped_Observed_Interaction.logRulesInitiator.rulesStrings.12>saw->couldn&apos;t ignore</Raped_Observed_Interaction.logRulesInitiator.rulesStrings.12>
   <!--EN: saw->caught a glimpse of-->
   <Raped_Observed_Interaction.logRulesInitiator.rulesStrings.13>saw->caught a glimpse of</Raped_Observed_Interaction.logRulesInitiator.rulesStrings.13>
   <!--EN: saw->saw movement in the corner of my eye,-->
@@ -4493,7 +4493,7 @@
   <!--EN: saw->recognized-->
   <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore-->
-  <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew-->
   <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: staring->staring-->
@@ -4501,7 +4501,7 @@
   <!--EN: staring->eyeing-->
   <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.19>staring->eyeing</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->Even in the dim light of the sauna, I couldn't ignore [RECIPIENT_nameDef] [staring] my sweaty [nudity].-->
-  <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->Even in the dim light of the sauna, I couldn&amp;apos;t ignore [RECIPIENT_nameDef] [staring] my sweaty [nudity].</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.2>
+  <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->Even in the dim light of the sauna, I couldn&apos;t ignore [RECIPIENT_nameDef] [staring] my sweaty [nudity].</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: staring->gazing-->
   <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.20>staring->gazing</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.20>
   <!--EN: staring->watching-->
@@ -4567,7 +4567,7 @@
   <!--EN: emotion->defiant-->
   <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.49>emotion->defiant</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.49>
   <!--EN: r_logentry->I [saw] I wasn't alone in the steam. [RECIPIENT_nameDef] was [staring] me, [RECIPIENT_nameDef] face a mask of [emotion] emotion.-->
-  <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.5>r_logentry->I [saw] I wasn&amp;apos;t alone in the steam. [RECIPIENT_nameDef] was [staring] me, [RECIPIENT_nameDef] face a mask of [emotion] emotion.</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.5>
+  <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.5>r_logentry->I [saw] I wasn&apos;t alone in the steam. [RECIPIENT_nameDef] was [staring] me, [RECIPIENT_nameDef] face a mask of [emotion] emotion.</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.5>
   <!--EN: emotion->ashamed-->
   <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.50>emotion->ashamed</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.50>
   <!--EN: emotion->indifferent-->
@@ -4643,7 +4643,7 @@
   <!--EN: emotion->calm-->
   <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.83>emotion->calm</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.83>
   <!--EN: r_logentry->Sweat was trickling down my body, and I [saw] [RECIPIENT_nameDef]'s [staring] follow every drop. It was an [emotion] experience.-->
-  <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.9>r_logentry->Sweat was trickling down my body, and I [saw] [RECIPIENT_nameDef]&amp;apos;s [staring] follow every drop. It was an [emotion] experience.</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.9>
+  <Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.9>r_logentry->Sweat was trickling down my body, and I [saw] [RECIPIENT_nameDef]&apos;s [staring] follow every drop. It was an [emotion] experience.</Sauna_Observed_Interaction.logRulesInitiator.rulesStrings.9>
   <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was using sauna.-->
   <Sauna_Observed_Interaction.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was using sauna.</Sauna_Observed_Interaction.logRulesRecipient.rulesStrings.0>
   <!--EN: seen_by->observed by-->
@@ -4671,13 +4671,13 @@
   <!--EN: saw->recognized, that-->
   <SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->The private act of [SelfMilk] became a public spectacle when I [saw] [RECIPIENT_nameDef] was [staring] at my [breasts].-->
   <SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->The private act of [SelfMilk] became a public spectacle when I [saw] [RECIPIENT_nameDef] was [staring] at my [breasts].</SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
@@ -4723,7 +4723,7 @@
   <!--EN: SelfMilk->milking myself slowly and carefully-->
   <SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.39>SelfMilk->milking myself slowly and carefully</SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.39>
   <!--EN: r_logentry->I couldn't hide what I was doing; I [saw] [RECIPIENT_nameDef] was [staring] right at my hands on my [breasts].-->
-  <SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.4>r_logentry->I couldn&amp;apos;t hide what I was doing; I [saw] [RECIPIENT_nameDef] was [staring] right at my hands on my [breasts].</SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.4>
+  <SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.4>r_logentry->I couldn&apos;t hide what I was doing; I [saw] [RECIPIENT_nameDef] was [staring] right at my hands on my [breasts].</SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.4>
   <!--EN: SelfMilk->pressing out milk with steady hands-->
   <SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.40>SelfMilk->pressing out milk with steady hands</SelfMilk_Observed_Interaction.logRulesInitiator.rulesStrings.40>
   <!--EN: SelfMilk->coaxing milk from my chest-->
@@ -4863,7 +4863,7 @@
   <!--EN: saw->recognized, that-->
   <Sex_Observed_Interaction.logRulesInitiator.rulesStrings.11>saw->recognized, that</Sex_Observed_Interaction.logRulesInitiator.rulesStrings.11>
   <!--EN: saw->couldn't ignore, that-->
-  <Sex_Observed_Interaction.logRulesInitiator.rulesStrings.12>saw->couldn&amp;apos;t ignore, that</Sex_Observed_Interaction.logRulesInitiator.rulesStrings.12>
+  <Sex_Observed_Interaction.logRulesInitiator.rulesStrings.12>saw->couldn&apos;t ignore, that</Sex_Observed_Interaction.logRulesInitiator.rulesStrings.12>
   <!--EN: saw->knew, that-->
   <Sex_Observed_Interaction.logRulesInitiator.rulesStrings.13>saw->knew, that</Sex_Observed_Interaction.logRulesInitiator.rulesStrings.13>
   <!--EN: staring->staring-->
@@ -4891,7 +4891,7 @@
   <!--EN: sex->physical intimacy-->
   <Sex_Observed_Interaction.logRulesInitiator.rulesStrings.24>sex->physical intimacy</Sex_Observed_Interaction.logRulesInitiator.rulesStrings.24>
   <!--EN: sex->"sleeping together"-->
-  <Sex_Observed_Interaction.logRulesInitiator.rulesStrings.25>sex->&amp;quot;sleeping together&amp;quot;</Sex_Observed_Interaction.logRulesInitiator.rulesStrings.25>
+  <Sex_Observed_Interaction.logRulesInitiator.rulesStrings.25>sex->&quot;sleeping together&quot;</Sex_Observed_Interaction.logRulesInitiator.rulesStrings.25>
   <!--EN: sex->laying with someone-->
   <Sex_Observed_Interaction.logRulesInitiator.rulesStrings.26>sex->laying with someone</Sex_Observed_Interaction.logRulesInitiator.rulesStrings.26>
   <!--EN: sex->sharing the night-->
@@ -5025,7 +5025,7 @@
   <!--EN: saw->recognized-->
   <Shower_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized</Shower_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore-->
-  <Shower_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore</Shower_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <Shower_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore</Shower_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew-->
   <Shower_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew</Shower_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: staring->staring-->
@@ -5033,7 +5033,7 @@
   <!--EN: staring->eyeing-->
   <Shower_Observed_Interaction.logRulesInitiator.rulesStrings.19>staring->eyeing</Shower_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->The steam from the shower didn't hide my [nudity] from [RECIPIENT_nameDef]; I felt [RECIPIENT_possessive] [emotion] gaze [staring] at me.-->
-  <Shower_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->The steam from the shower didn&amp;apos;t hide my [nudity] from [RECIPIENT_nameDef]; I felt [RECIPIENT_possessive] [emotion] gaze [staring] at me.</Shower_Observed_Interaction.logRulesInitiator.rulesStrings.2>
+  <Shower_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->The steam from the shower didn&apos;t hide my [nudity] from [RECIPIENT_nameDef]; I felt [RECIPIENT_possessive] [emotion] gaze [staring] at me.</Shower_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: staring->gazing-->
   <Shower_Observed_Interaction.logRulesInitiator.rulesStrings.20>staring->gazing</Shower_Observed_Interaction.logRulesInitiator.rulesStrings.20>
   <!--EN: staring->watching-->
@@ -5165,7 +5165,7 @@
   <!--EN: emotion->stunned-->
   <Shower_Observed_Interaction.logRulesInitiator.rulesStrings.79>emotion->stunned</Shower_Observed_Interaction.logRulesInitiator.rulesStrings.79>
   <!--EN: r_logentry->I realized I wasn't alone. [RECIPIENT_nameDef] was there, [staring] me shower with an [emotion] intensity.-->
-  <Shower_Observed_Interaction.logRulesInitiator.rulesStrings.8>r_logentry->I realized I wasn&amp;apos;t alone. [RECIPIENT_nameDef] was there, [staring] me shower with an [emotion] intensity.</Shower_Observed_Interaction.logRulesInitiator.rulesStrings.8>
+  <Shower_Observed_Interaction.logRulesInitiator.rulesStrings.8>r_logentry->I realized I wasn&apos;t alone. [RECIPIENT_nameDef] was there, [staring] me shower with an [emotion] intensity.</Shower_Observed_Interaction.logRulesInitiator.rulesStrings.8>
   <!--EN: emotion->conflicted-->
   <Shower_Observed_Interaction.logRulesInitiator.rulesStrings.80>emotion->conflicted</Shower_Observed_Interaction.logRulesInitiator.rulesStrings.80>
   <!--EN: emotion->intrigued-->
@@ -5205,13 +5205,13 @@
   <!--EN: saw->recognized, that-->
   <Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->I was sedated but aware enough to [saw] [RECIPIENT_nameDef] [staring] with an [emotion] that was unsettling.-->
   <Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I was sedated but aware enough to [saw] [RECIPIENT_nameDef] [staring] with an [emotion] that was unsettling.</Surgery_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
@@ -5399,7 +5399,7 @@
   <!--EN: saw->recognized-->
   <Swimming_Observed_Interaction.logRulesInitiator.rulesStrings.14>saw->recognized</Swimming_Observed_Interaction.logRulesInitiator.rulesStrings.14>
   <!--EN: saw->couldn't ignore-->
-  <Swimming_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->couldn&amp;apos;t ignore</Swimming_Observed_Interaction.logRulesInitiator.rulesStrings.15>
+  <Swimming_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->couldn&apos;t ignore</Swimming_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->knew-->
   <Swimming_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->knew</Swimming_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: staring->staring-->
@@ -5577,7 +5577,7 @@
   <!--EN: saw->recognized-->
   <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore-->
-  <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew-->
   <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: staring->staring-->
@@ -5585,7 +5585,7 @@
   <!--EN: staring->eyeing-->
   <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.19>staring->eyeing</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->I felt [RECIPIENT_nameDef]'s [staring] gaze fixed directly on my exposed [breasts].-->
-  <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I felt [RECIPIENT_nameDef]&amp;apos;s [staring] gaze fixed directly on my exposed [breasts].</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.2>
+  <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I felt [RECIPIENT_nameDef]&apos;s [staring] gaze fixed directly on my exposed [breasts].</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: staring->gazing-->
   <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.20>staring->gazing</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.20>
   <!--EN: staring->watching-->
@@ -5607,7 +5607,7 @@
   <!--EN: breasts->bust-->
   <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.29>breasts->bust</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.29>
   <!--EN: r_logentry->The [emotion] expression on [RECIPIENT_nameDef]'s face made it obvious they [saw] my exposed [breasts].-->
-  <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.3>r_logentry->The [emotion] expression on [RECIPIENT_nameDef]&amp;apos;s face made it obvious they [saw] my exposed [breasts].</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.3>
+  <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.3>r_logentry->The [emotion] expression on [RECIPIENT_nameDef]&apos;s face made it obvious they [saw] my exposed [breasts].</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.3>
   <!--EN: breasts->mammaries-->
   <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.30>breasts->mammaries</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.30>
   <!--EN: breasts->bosom-->
@@ -5651,7 +5651,7 @@
   <!--EN: emotion->intense-->
   <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.49>emotion->intense</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.49>
   <!--EN: r_logentry->[RECIPIENT_nameDef] didn't even try to hide it, [RECIPIENT_possessive] [staring] was focused right on my [breasts].-->
-  <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.5>r_logentry->[RECIPIENT_nameDef] didn&amp;apos;t even try to hide it, [RECIPIENT_possessive] [staring] was focused right on my [breasts].</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.5>
+  <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.5>r_logentry->[RECIPIENT_nameDef] didn&apos;t even try to hide it, [RECIPIENT_possessive] [staring] was focused right on my [breasts].</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.5>
   <!--EN: emotion->wild-->
   <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.50>emotion->wild</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.50>
   <!--EN: emotion->gentle-->
@@ -5673,7 +5673,7 @@
   <!--EN: emotion->uncaring-->
   <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.59>emotion->uncaring</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.59>
   <!--EN: r_logentry->I wasn't wearing a top, and [RECIPIENT_nameDef]'s [emotion] glance at my [breasts] didn't go unnoticed.-->
-  <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.6>r_logentry->I wasn&amp;apos;t wearing a top, and [RECIPIENT_nameDef]&amp;apos;s [emotion] glance at my [breasts] didn&amp;apos;t go unnoticed.</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.6>
+  <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.6>r_logentry->I wasn&apos;t wearing a top, and [RECIPIENT_nameDef]&apos;s [emotion] glance at my [breasts] didn&apos;t go unnoticed.</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.6>
   <!--EN: emotion->prudish-->
   <Topless_Observed_Interaction.logRulesInitiator.rulesStrings.60>emotion->prudish</Topless_Observed_Interaction.logRulesInitiator.rulesStrings.60>
   <!--EN: emotion->vouyeristic-->
@@ -5737,13 +5737,13 @@
   <!--EN: saw->recognized, that-->
   <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.15>saw->recognized, that</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.15>
   <!--EN: saw->couldn't ignore, that-->
-  <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&amp;apos;t ignore, that</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.16>
+  <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.16>saw->couldn&apos;t ignore, that</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.16>
   <!--EN: saw->knew, that-->
   <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.17>saw->knew, that</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.17>
   <!--EN: saw->caught a glimpse of-->
   <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.18>saw->caught a glimpse of</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.18>
   <!--EN: saw->realized I wasn't alone,-->
-  <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&amp;apos;t alone,</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.19>
+  <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.19>saw->realized I wasn&apos;t alone,</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.19>
   <!--EN: r_logentry->I was [WetShirt] and I [saw] [RECIPIENT_nameDef] with eyes fixed on the outline of my [breasts].-->
   <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.2>r_logentry->I was [WetShirt] and I [saw] [RECIPIENT_nameDef] with eyes fixed on the outline of my [breasts].</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.2>
   <!--EN: saw->locked eyes with-->
@@ -5767,7 +5767,7 @@
   <!--EN: staring->observing me-->
   <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.29>staring->observing me</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.29>
   <!--EN: r_logentry->The [WetShirt] was nothing compared to the heat I [saw] in [RECIPIENT_nameDef]'s [emotion] gaze.-->
-  <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.3>r_logentry->The [WetShirt] was nothing compared to the heat I [saw] in [RECIPIENT_nameDef]&amp;apos;s [emotion] gaze.</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.3>
+  <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.3>r_logentry->The [WetShirt] was nothing compared to the heat I [saw] in [RECIPIENT_nameDef]&apos;s [emotion] gaze.</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.3>
   <!--EN: staring->watching closesly at me-->
   <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.30>staring->watching closesly at me</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.30>
   <!--EN: staring->staring in awe at me-->
@@ -5833,7 +5833,7 @@
   <!--EN: emotion->burning with lust-->
   <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.59>emotion->burning with lust</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.59>
   <!--EN: r_logentry->It was an accident, being [WetShirt], but I [saw] the [emotion] interest in [RECIPIENT_nameDef]'s [staring].-->
-  <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.6>r_logentry->It was an accident, being [WetShirt], but I [saw] the [emotion] interest in [RECIPIENT_nameDef]&amp;apos;s [staring].</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.6>
+  <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.6>r_logentry->It was an accident, being [WetShirt], but I [saw] the [emotion] interest in [RECIPIENT_nameDef]&apos;s [staring].</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.6>
   <!--EN: emotion->defiant-->
   <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.60>emotion->defiant</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.60>
   <!--EN: emotion->ashamed-->
@@ -5855,7 +5855,7 @@
   <!--EN: emotion->intense-->
   <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.69>emotion->intense</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.69>
   <!--EN: r_logentry->I [saw] a flicker of [emotion] on [RECIPIENT_nameDef]'s face as they [saw] how the fabric clung to my [breasts].-->
-  <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.7>r_logentry->I [saw] a flicker of [emotion] on [RECIPIENT_nameDef]&amp;apos;s face as they [saw] how the fabric clung to my [breasts].</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.7>
+  <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.7>r_logentry->I [saw] a flicker of [emotion] on [RECIPIENT_nameDef]&apos;s face as they [saw] how the fabric clung to my [breasts].</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.7>
   <!--EN: emotion->wild-->
   <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.70>emotion->wild</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.70>
   <!--EN: emotion->gentle-->
@@ -5877,7 +5877,7 @@
   <!--EN: emotion->uncaring-->
   <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.79>emotion->uncaring</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.79>
   <!--EN: r_logentry->I was completely exposed by being [WetShirt], and I [saw] [RECIPIENT_nameDef] couldn't help but [staring].-->
-  <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.8>r_logentry->I was completely exposed by being [WetShirt], and I [saw] [RECIPIENT_nameDef] couldn&amp;apos;t help but [staring].</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.8>
+  <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.8>r_logentry->I was completely exposed by being [WetShirt], and I [saw] [RECIPIENT_nameDef] couldn&apos;t help but [staring].</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.8>
   <!--EN: emotion->prudish-->
   <WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.80>emotion->prudish</WetShirt_Observed_Interaction.logRulesInitiator.rulesStrings.80>
   <!--EN: emotion->vouyeristic-->

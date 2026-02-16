@@ -10,7 +10,7 @@
   <!--EN: Digestion recovery-->
   <RV2_DigestionRecovery.labelNoun>消化能力</RV2_DigestionRecovery.labelNoun>
   <!--EN: Digestion recovery (<25%)-->
-  <RV2_DigestionRecovery.stages.0.label>消化恢复 (&amp;lt;25%)</RV2_DigestionRecovery.stages.0.label>
+  <RV2_DigestionRecovery.stages.0.label>消化恢复 (&lt;25%)</RV2_DigestionRecovery.stages.0.label>
   <!--EN: Digestion recovery (>25%)-->
   <RV2_DigestionRecovery.stages.1.label>消化回收率 (>25%)</RV2_DigestionRecovery.stages.1.label>
   <!--EN: Digestion recovery (>50%)-->

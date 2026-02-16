@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<settings_tabs_biotech>Biotech</settings_tabs_biotech>
+	<settings_tabs_biotech>生物技术</settings_tabs_biotech>
 	
-	<baby_header>Baby options</baby_header>
-	<baby_disable_giggling_title>Disable giggling</baby_disable_giggling_title>
+	<baby_header>婴儿选项</baby_header>
+	<baby_disable_giggling_title>禁用咯咯笑</baby_disable_giggling_title>
 	
-	<ageless_header>Ageless gene</ageless_header>
-	<ageless_age_tick_factor_title>Age tick factor</ageless_age_tick_factor_title>
-	<ageless_age_tick_factor_desc>Multiplier for the amount by which a pawn (biologically) ages per tick.</ageless_age_tick_factor_desc>
-	<ageless_age_tick_factor_edit>Edit</ageless_age_tick_factor_edit>
-	<ageless_age_tick_factor_editor_title>Ageless gene age tick factor</ageless_age_tick_factor_editor_title>
-	<ageless_age_tick_factor_editor_info>-> As this is for becoming ageless, you cannot go above a multipler of 1.</ageless_age_tick_factor_editor_info>
-	<ageless_age_tick_factor_editor_axis_x>Age</ageless_age_tick_factor_editor_axis_x>
-	<ageless_age_tick_factor_editor_axis_y>Multiplier</ageless_age_tick_factor_editor_axis_y>
+	<ageless_header>永生基因</ageless_header>
+	<ageless_age_tick_factor_title>每刻衰老系数</ageless_age_tick_factor_title>
+	<ageless_age_tick_factor_desc>角色每刻（生物年龄）衰老量的乘数。</ageless_age_tick_factor_desc>
+	<ageless_age_tick_factor_edit>编辑</ageless_age_tick_factor_edit>
+	<ageless_age_tick_factor_editor_title>永生基因每刻衰老系数</ageless_age_tick_factor_editor_title>
+	<ageless_age_tick_factor_editor_info>-&gt; 因为这是为了实现永生，所以乘数不能高于1。</ageless_age_tick_factor_editor_info>
+	<ageless_age_tick_factor_editor_axis_x>年龄</ageless_age_tick_factor_editor_axis_x>
+	<ageless_age_tick_factor_editor_axis_y>乘数</ageless_age_tick_factor_editor_axis_y>
 	
-	<ageless_gene_desc>Carriers of this gene have archites in the bloodstream which continuously reverse the process of aging. Starting at the age of {0}, carriers begin to biologically age slower. By {1}, the aging process stops completely.</ageless_gene_desc>
+	<ageless_gene_desc>此基因的携带者血液中拥有超物质，能持续逆转衰老过程。从{0}岁开始，携带者生物意义上的衰老速度开始变慢。到{1}岁时，衰老过程完全停止。</ageless_gene_desc>
 </LanguageData>
