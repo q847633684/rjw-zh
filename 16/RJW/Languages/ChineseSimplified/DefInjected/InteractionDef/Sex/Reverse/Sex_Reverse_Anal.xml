@@ -2,10 +2,14 @@
 <LanguageData>
   <!--EN: anal-->
   <Sex_Reverse_Anal.label>肛交</Sex_Reverse_Anal.label>
-  <!--EN: r_logentry->Was fucked anally by [RECIPIENT_nameDef].-->
-  <Sex_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry-&gt;让[RECIPIENT_nameDef]肛交了。</Sex_Reverse_Anal.logRulesInitiator.rulesStrings.0>
-  <!--EN: r_logentry->Fucked anally [INITIATOR_nameDef].-->
-  <Sex_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry-&gt;肛交了[INITIATOR_nameDef]。</Sex_Reverse_Anal.logRulesRecipient.rulesStrings.0>
+  <Sex_Reverse_Anal.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Was fucked anally by [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;让[RECIPIENT_nameDef]肛交了。</li>
+  </Sex_Reverse_Anal.logRulesInitiator.rulesStrings>
+  <Sex_Reverse_Anal.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Fucked anally [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;肛交了[INITIATOR_nameDef]。</li>
+  </Sex_Reverse_Anal.logRulesRecipient.rulesStrings>
   <!--EN: Get fucked anally-->
   <Sex_Reverse_Anal.modExtensions.0.RMBLabel>让其肛交</Sex_Reverse_Anal.modExtensions.0.RMBLabel>
 </LanguageData>

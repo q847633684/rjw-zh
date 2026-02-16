@@ -2,10 +2,14 @@
 <LanguageData>
   <!--EN: beakjob-->
   <Rape_Beakjob.label>强迫喙交</Rape_Beakjob.label>
-  <!--EN: r_logentry->Forced [RECIPIENT_nameDef] to give a beakjob.-->
-  <Rape_Beakjob.logRulesInitiator.rulesStrings.0>r_logentry-&gt;逼迫[RECIPIENT_nameDef]喙交了阴茎。</Rape_Beakjob.logRulesInitiator.rulesStrings.0>
-  <!--EN: r_logentry->Was forced to give a beakjob to [INITIATOR_nameDef].-->
-  <Rape_Beakjob.logRulesRecipient.rulesStrings.0>r_logentry-&gt;被迫喙交了[INITIATOR_nameDef]的阴茎。</Rape_Beakjob.logRulesRecipient.rulesStrings.0>
+  <Rape_Beakjob.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Forced [RECIPIENT_nameDef] to give a beakjob.-->
+    <li>r_logentry-&gt;逼迫[RECIPIENT_nameDef]喙交了阴茎。</li>
+  </Rape_Beakjob.logRulesInitiator.rulesStrings>
+  <Rape_Beakjob.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Was forced to give a beakjob to [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;被迫喙交了[INITIATOR_nameDef]的阴茎。</li>
+  </Rape_Beakjob.logRulesRecipient.rulesStrings>
   <!--EN: Get beakjob-->
   <Rape_Beakjob.modExtensions.0.RMBLabel>要求喙交</Rape_Beakjob.modExtensions.0.RMBLabel>
 </LanguageData>

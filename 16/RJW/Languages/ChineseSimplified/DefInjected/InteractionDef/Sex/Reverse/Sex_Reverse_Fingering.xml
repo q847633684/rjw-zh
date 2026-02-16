@@ -2,10 +2,14 @@
 <LanguageData>
   <!--EN: fingering-->
   <Sex_Reverse_Fingering.label>指交</Sex_Reverse_Fingering.label>
-  <!--EN: r_logentry->Fingered [RECIPIENT_nameDef].-->
-  <Sex_Reverse_Fingering.logRulesInitiator.rulesStrings.0>r_logentry-&gt;用手指抚弄了[RECIPIENT_nameDef]的阴道。</Sex_Reverse_Fingering.logRulesInitiator.rulesStrings.0>
-  <!--EN: r_logentry->Was fingered by [INITIATOR_nameDef].-->
-  <Sex_Reverse_Fingering.logRulesRecipient.rulesStrings.0>r_logentry-&gt;让[INITIATOR_nameDef]用手指抚弄了阴道。</Sex_Reverse_Fingering.logRulesRecipient.rulesStrings.0>
+  <Sex_Reverse_Fingering.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Fingered [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;用手指抚弄了[RECIPIENT_nameDef]的阴道。</li>
+  </Sex_Reverse_Fingering.logRulesInitiator.rulesStrings>
+  <Sex_Reverse_Fingering.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Was fingered by [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;让[INITIATOR_nameDef]用手指抚弄了阴道。</li>
+  </Sex_Reverse_Fingering.logRulesRecipient.rulesStrings>
   <!--EN: Give fingering-->
   <Sex_Reverse_Fingering.modExtensions.0.RMBLabel>为其指交</Sex_Reverse_Fingering.modExtensions.0.RMBLabel>
 </LanguageData>

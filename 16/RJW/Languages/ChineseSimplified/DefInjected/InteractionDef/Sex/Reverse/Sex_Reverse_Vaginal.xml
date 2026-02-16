@@ -2,10 +2,14 @@
 <LanguageData>
   <!--EN: vaginal-->
   <Sex_Reverse_Vaginal.label>阴道性交</Sex_Reverse_Vaginal.label>
-  <!--EN: r_logentry->Was fucked vaginally by [RECIPIENT_nameDef].-->
-  <Sex_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry-&gt;与[RECIPIENT_nameDef]做爱被内射了。</Sex_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
-  <!--EN: r_logentry->Fucked vaginally [INITIATOR_nameDef].-->
-  <Sex_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry-&gt;与[INITIATOR_nameDef]做爱并内射了。</Sex_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
+  <Sex_Reverse_Vaginal.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Was fucked vaginally by [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;与[RECIPIENT_nameDef]做爱被内射了。</li>
+  </Sex_Reverse_Vaginal.logRulesInitiator.rulesStrings>
+  <Sex_Reverse_Vaginal.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Fucked vaginally [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;与[INITIATOR_nameDef]做爱并内射了。</li>
+  </Sex_Reverse_Vaginal.logRulesRecipient.rulesStrings>
   <!--EN: Get fucked vaginally-->
   <Sex_Reverse_Vaginal.modExtensions.0.RMBLabel>让其性交</Sex_Reverse_Vaginal.modExtensions.0.RMBLabel>
 </LanguageData>

@@ -1,19 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: TalkTopicAny->[TalkTopicSex]-->
-  <TalkTopicsSex.rulePack.rulesStrings.0>TalkTopicAny-&gt;[TalkTopicSex]</TalkTopicsSex.rulePack.rulesStrings.0>
-  <!--EN: TalkTopicSex(p=0.08)->[talktopicsexfile]-->
-  <TalkTopicsSex.rulePack.rulesStrings.1>TalkTopicSex(p=0.08)-&gt;[talktopicsexfile]</TalkTopicsSex.rulePack.rulesStrings.1>
-  <!--EN: TalkTopicHeavy(p=0.08)->the link between [talktopicsexfile] and [talktopicsexfile]-->
-  <TalkTopicsSex.rulePack.rulesStrings.2>TalkTopicHeavy(p=0.08)-&gt;[talktopicsexfile]和[talktopicsexfile]之间的关系</TalkTopicsSex.rulePack.rulesStrings.2>
-  <!--EN: TalkTopicHeavy(p=0.08)->the connection between [talktopicsexfile] and [talktopicsexfile]-->
-  <TalkTopicsSex.rulePack.rulesStrings.3>TalkTopicHeavy(p=0.08)-&gt;[talktopicsexfile]和[talktopicsexfile]之间的联系</TalkTopicsSex.rulePack.rulesStrings.3>
-  <!--EN: TalkTopicHeavy(p=0.08)->the relationship between [talktopicsexfile] and [talktopicsexfile]-->
-  <TalkTopicsSex.rulePack.rulesStrings.4>TalkTopicHeavy(p=0.08)-&gt;[talktopicsexfile]和[talktopicsexfile]之间的性爱关系</TalkTopicsSex.rulePack.rulesStrings.4>
-  <!--EN: TalkTopicHeavy(p=0.16)->the link between [talktopicheavyfile] and [talktopicsexfile]-->
-  <TalkTopicsSex.rulePack.rulesStrings.5>TalkTopicHeavy(p=0.16)-&gt;[talktopicheavyfile]和[talktopicsexfile]之间的关系</TalkTopicsSex.rulePack.rulesStrings.5>
-  <!--EN: TalkTopicHeavy(p=0.16)->the connection between [talktopicheavyfile] and [talktopicsexfile]-->
-  <TalkTopicsSex.rulePack.rulesStrings.6>TalkTopicHeavy(p=0.16)-&gt;[talktopicheavyfile]和[talktopicsexfile]之间的联系</TalkTopicsSex.rulePack.rulesStrings.6>
-  <!--EN: TalkTopicHeavy(p=0.16)->the relationship between [talktopicheavyfile] and [talktopicsexfile]-->
-  <TalkTopicsSex.rulePack.rulesStrings.7>TalkTopicHeavy(p=0.16)-&gt;[talktopicheavyfile]和[talktopicsexfile]之间的性爱关系</TalkTopicsSex.rulePack.rulesStrings.7>
+  <TalkTopicsSex.rulePack.rulesStrings>
+    <!--EN: TalkTopicAny->[TalkTopicSex]-->
+    <li>TalkTopicAny-&gt;[TalkTopicSex]</li>
+    <!--EN: TalkTopicSex(p=0.08)->[talktopicsexfile]-->
+    <li>TalkTopicSex(p=0.08)-&gt;[talktopicsexfile]</li>
+    <!--EN: TalkTopicHeavy(p=0.08)->the link between [talktopicsexfile] and [talktopicsexfile]-->
+    <li>TalkTopicHeavy(p=0.08)-&gt;[talktopicsexfile]和[talktopicsexfile]之间的关系</li>
+    <!--EN: TalkTopicHeavy(p=0.08)->the connection between [talktopicsexfile] and [talktopicsexfile]-->
+    <li>TalkTopicHeavy(p=0.08)-&gt;[talktopicsexfile]和[talktopicsexfile]之间的联系</li>
+    <!--EN: TalkTopicHeavy(p=0.08)->the relationship between [talktopicsexfile] and [talktopicsexfile]-->
+    <li>TalkTopicHeavy(p=0.08)-&gt;[talktopicsexfile]和[talktopicsexfile]之间的性爱关系</li>
+    <!--EN: TalkTopicHeavy(p=0.16)->the link between [talktopicheavyfile] and [talktopicsexfile]-->
+    <li>TalkTopicHeavy(p=0.16)-&gt;[talktopicheavyfile]和[talktopicsexfile]之间的关系</li>
+    <!--EN: TalkTopicHeavy(p=0.16)->the connection between [talktopicheavyfile] and [talktopicsexfile]-->
+    <li>TalkTopicHeavy(p=0.16)-&gt;[talktopicheavyfile]和[talktopicsexfile]之间的联系</li>
+    <!--EN: TalkTopicHeavy(p=0.16)->the relationship between [talktopicheavyfile] and [talktopicsexfile]-->
+    <li>TalkTopicHeavy(p=0.16)-&gt;[talktopicheavyfile]和[talktopicsexfile]之间的性爱关系</li>
+  </TalkTopicsSex.rulePack.rulesStrings>
 </LanguageData>

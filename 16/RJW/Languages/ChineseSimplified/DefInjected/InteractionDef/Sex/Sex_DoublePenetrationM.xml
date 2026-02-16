@@ -2,10 +2,14 @@
 <LanguageData>
   <!--EN: double-penetration-->
   <Sex_DoublePenetrationM.label>双洞齐插</Sex_DoublePenetrationM.label>
-  <!--EN: r_logentry->Double-penetrated [RECIPIENT_nameDef].-->
-  <Sex_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry-&gt;双洞齐插了[RECIPIENT_nameDef]。</Sex_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
-  <!--EN: r_logentry->Was double-penetrated by [INITIATOR_nameDef].-->
-  <Sex_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry-&gt;让[INITIATOR_nameDef]双洞齐插了。</Sex_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+  <Sex_DoublePenetrationM.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Double-penetrated [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;双洞齐插了[RECIPIENT_nameDef]。</li>
+  </Sex_DoublePenetrationM.logRulesInitiator.rulesStrings>
+  <Sex_DoublePenetrationM.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Was double-penetrated by [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;让[INITIATOR_nameDef]双洞齐插了。</li>
+  </Sex_DoublePenetrationM.logRulesRecipient.rulesStrings>
   <!--EN: Double-penetrate-->
   <Sex_DoublePenetrationM.modExtensions.0.RMBLabel>将其双洞齐插</Sex_DoublePenetrationM.modExtensions.0.RMBLabel>
 </LanguageData>

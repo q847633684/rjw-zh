@@ -2,10 +2,14 @@
 <LanguageData>
   <!--EN: fellatio-->
   <Sex_Fellatio.label>口交</Sex_Fellatio.label>
-  <!--EN: r_logentry->Fellated by [RECIPIENT_nameDef].-->
-  <Sex_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry-&gt;让[RECIPIENT_nameDef]口交了阴茎。</Sex_Fellatio.logRulesInitiator.rulesStrings.0>
-  <!--EN: r_logentry->Fellated [INITIATOR_nameDef].-->
-  <Sex_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry-&gt;口交了[INITIATOR_nameDef]的阴茎。</Sex_Fellatio.logRulesRecipient.rulesStrings.0>
+  <Sex_Fellatio.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Fellated by [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;让[RECIPIENT_nameDef]口交了阴茎。</li>
+  </Sex_Fellatio.logRulesInitiator.rulesStrings>
+  <Sex_Fellatio.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Fellated [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;口交了[INITIATOR_nameDef]的阴茎。</li>
+  </Sex_Fellatio.logRulesRecipient.rulesStrings>
   <!--EN: Receive fellatio-->
   <Sex_Fellatio.modExtensions.0.RMBLabel>让其口交</Sex_Fellatio.modExtensions.0.RMBLabel>
 </LanguageData>

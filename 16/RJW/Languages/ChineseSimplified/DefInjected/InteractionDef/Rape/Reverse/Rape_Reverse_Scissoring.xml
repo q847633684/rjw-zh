@@ -2,10 +2,14 @@
 <LanguageData>
   <!--EN: scissoring-->
   <Rape_Reverse_Scissoring.label>强迫逆剪刀腿</Rape_Reverse_Scissoring.label>
-  <!--EN: r_logentry->Forcefully scissored with [RECIPIENT_nameDef].-->
-  <Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry-&gt;用剪刀腿粗暴地与[RECIPIENT_nameDef]磨豆腐。</Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings.0>
-  <!--EN: r_logentry->Was forcibly scissored with [INITIATOR_nameDef].-->
-  <Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry-&gt;被[INITIATOR_nameDef]用剪刀腿粗暴地磨豆腐。</Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Forcefully scissored with [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;用剪刀腿粗暴地与[RECIPIENT_nameDef]磨豆腐。</li>
+  </Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings>
+  <Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Was forcibly scissored with [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;被[INITIATOR_nameDef]用剪刀腿粗暴地磨豆腐。</li>
+  </Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings>
   <!--EN: Do scissoring-->
   <Rape_Reverse_Scissoring.modExtensions.0.RMBLabel>为其剪刀腿</Rape_Reverse_Scissoring.modExtensions.0.RMBLabel>
 </LanguageData>

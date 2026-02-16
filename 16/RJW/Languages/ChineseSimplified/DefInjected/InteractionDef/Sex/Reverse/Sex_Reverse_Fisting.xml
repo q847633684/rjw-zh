@@ -2,10 +2,14 @@
 <LanguageData>
   <!--EN: fisting-->
   <Sex_Reverse_Fisting.label>拳交</Sex_Reverse_Fisting.label>
-  <!--EN: r_logentry->Fisted [RECIPIENT_nameDef].-->
-  <Sex_Reverse_Fisting.logRulesInitiator.rulesStrings.0>r_logentry-&gt;拳交了[RECIPIENT_nameDef]。</Sex_Reverse_Fisting.logRulesInitiator.rulesStrings.0>
-  <!--EN: r_logentry->Was fisted by [INITIATOR_nameDef].-->
-  <Sex_Reverse_Fisting.logRulesRecipient.rulesStrings.0>r_logentry-&gt;让[INITIATOR_nameDef]拳交了。</Sex_Reverse_Fisting.logRulesRecipient.rulesStrings.0>
+  <Sex_Reverse_Fisting.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Fisted [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;拳交了[RECIPIENT_nameDef]。</li>
+  </Sex_Reverse_Fisting.logRulesInitiator.rulesStrings>
+  <Sex_Reverse_Fisting.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Was fisted by [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;让[INITIATOR_nameDef]拳交了。</li>
+  </Sex_Reverse_Fisting.logRulesRecipient.rulesStrings>
   <!--EN: Give fisting-->
   <Sex_Reverse_Fisting.modExtensions.0.RMBLabel>为其拳交</Sex_Reverse_Fisting.modExtensions.0.RMBLabel>
 </LanguageData>

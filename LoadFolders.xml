@@ -74,11 +74,11 @@
 		<li IfModActive="rim.job.world.onahole.ext">16/rimjobworld-onahole-extension</li>
 		<!-- RJWPE儿童	完成-->
 		<li IfModActive="rim.job.world.pe">16/RJWPE</li>
-			<li IfModActive="Ludeon.RimWorld.Ideology">16/RJWPE/Ideology</li>
-			<li IfModActive="Ludeon.RimWorld.Biotech">16/RJWPE/Biotech</li>
-			<li IfModActive="Vegapnk.rjw.genes">16/RJWPE/Genes</li>
-			<li IfModActive="calamabanana.rjw.brothelcolony">16/RJWPE/BrothelColony</li>
-			<li IfModActive="c0ffee.rimworld.animations">16/RJWPE/Voice Patch</li>
+		<li IfModActive="Ludeon.RimWorld.Ideology">16/RJWPE/Ideology</li>
+		<li IfModActive="Ludeon.RimWorld.Biotech">16/RJWPE/Biotech</li>
+		<li IfModActive="Vegapnk.rjw.genes">16/RJWPE/Genes</li>
+		<li IfModActive="calamabanana.rjw.brothelcolony">16/RJWPE/BrothelColony</li>
+		<li IfModActive="c0ffee.rimworld.animations">16/RJWPE/Voice Patch</li>
 		<!-- RJW 风味文字 完成-->
 		<li IfModActive="moth.rjw.flavor">16/rjw-flavor-text</li>
 		<!-- RJW 特征 完成-->

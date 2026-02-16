@@ -2,10 +2,14 @@
 <LanguageData>
   <!--EN: rimming-->
   <Sex_Rimming.label>舔肛</Sex_Rimming.label>
-  <!--EN: r_logentry->Rimmed by [RECIPIENT_nameDef].-->
-  <Sex_Rimming.logRulesInitiator.rulesStrings.0>r_logentry-&gt;让[RECIPIENT_nameDef]舔了肛门。</Sex_Rimming.logRulesInitiator.rulesStrings.0>
-  <!--EN: r_logentry->Rimmed [INITIATOR_nameDef].-->
-  <Sex_Rimming.logRulesRecipient.rulesStrings.0>r_logentry-&gt;舔了舔[INITIATOR_nameDef]的肛门。</Sex_Rimming.logRulesRecipient.rulesStrings.0>
+  <Sex_Rimming.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Rimmed by [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;让[RECIPIENT_nameDef]舔了肛门。</li>
+  </Sex_Rimming.logRulesInitiator.rulesStrings>
+  <Sex_Rimming.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Rimmed [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;舔了舔[INITIATOR_nameDef]的肛门。</li>
+  </Sex_Rimming.logRulesRecipient.rulesStrings>
   <!--EN: Receive anal rimming-->
   <Sex_Rimming.modExtensions.0.RMBLabel>让其舔肛</Sex_Rimming.modExtensions.0.RMBLabel>
 </LanguageData>

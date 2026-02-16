@@ -1,17 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: sent-> [RECIPIENT_nameDef] fellated [INITIATOR_nameDef] with [RECIPIENT_possessive] beak.-->
-  <BeakjobRP.rulePack.rulesStrings.0>sent-&gt;[RECIPIENT_nameDef]用[RECIPIENT_possessive]喙交了[INITIATOR_nameDef]的阴茎。</BeakjobRP.rulePack.rulesStrings.0>
-  <!--EN: sent-> [RECIPIENT_nameDef] went down on [INITIATOR_nameDef].-->
-  <CunnilingusRP.rulePack.rulesStrings.0>sent-&gt;[RECIPIENT_nameDef]舐了[INITIATOR_nameDef]的阴道。</CunnilingusRP.rulePack.rulesStrings.0>
-  <!--EN: sent-> [RECIPIENT_nameDef] deepthroated [INITIATOR_nameDef].-->
-  <DeepthroatRP.rulePack.rulesStrings.0>sent-&gt;[RECIPIENT_nameDef]将[INITIATOR_nameDef]的阴茎吞进喉咙。</DeepthroatRP.rulePack.rulesStrings.0>
-  <!--EN: sent-> [RECIPIENT_nameDef] sucked off [INITIATOR_nameDef].-->
-  <FellatioRP.rulePack.rulesStrings.0>sent-&gt;[RECIPIENT_nameDef]吸吮了[INITIATOR_nameDef]的阴茎。</FellatioRP.rulePack.rulesStrings.0>
-  <!--EN: sent-> [RECIPIENT_nameDef] make out with [INITIATOR_nameDef].-->
-  <MutualMakeoutRP.rulePack.rulesStrings.0>sent-&gt;[RECIPIENT_nameDef]与[INITIATOR_nameDef]相互亲热。</MutualMakeoutRP.rulePack.rulesStrings.0>
-  <!--EN: sent-> [RECIPIENT_nameDef] rimmed [INITIATOR_nameDef].-->
-  <RimmingRP.rulePack.rulesStrings.0>sent-&gt;[RECIPIENT_nameDef]舔了[INITIATOR_nameDef]的肛门。</RimmingRP.rulePack.rulesStrings.0>
-  <!--EN: sent-> [RECIPIENT_nameDef] 69'd with [INITIATOR_nameDef].-->
-  <SixtynineRP.rulePack.rulesStrings.0>sent-&gt;[RECIPIENT_nameDef]与[INITIATOR_nameDef]以69的姿势做爱。</SixtynineRP.rulePack.rulesStrings.0>
+  <BeakjobRP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] fellated [INITIATOR_nameDef] with [RECIPIENT_possessive] beak.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]用[RECIPIENT_possessive]喙交了[INITIATOR_nameDef]的阴茎。</li>
+  </BeakjobRP.rulePack.rulesStrings>
+  <CunnilingusRP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] went down on [INITIATOR_nameDef].-->
+    <li>sent-&gt;[RECIPIENT_nameDef]舐了[INITIATOR_nameDef]的阴道。</li>
+  </CunnilingusRP.rulePack.rulesStrings>
+  <DeepthroatRP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] deepthroated [INITIATOR_nameDef].-->
+    <li>sent-&gt;[RECIPIENT_nameDef]将[INITIATOR_nameDef]的阴茎吞进喉咙。</li>
+  </DeepthroatRP.rulePack.rulesStrings>
+  <FellatioRP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] sucked off [INITIATOR_nameDef].-->
+    <li>sent-&gt;[RECIPIENT_nameDef]吸吮了[INITIATOR_nameDef]的阴茎。</li>
+  </FellatioRP.rulePack.rulesStrings>
+  <MutualMakeoutRP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] make out with [INITIATOR_nameDef].-->
+    <li>sent-&gt;[RECIPIENT_nameDef]与[INITIATOR_nameDef]相互亲热。</li>
+  </MutualMakeoutRP.rulePack.rulesStrings>
+  <RimmingRP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] rimmed [INITIATOR_nameDef].-->
+    <li>sent-&gt;[RECIPIENT_nameDef]舔了[INITIATOR_nameDef]的肛门。</li>
+  </RimmingRP.rulePack.rulesStrings>
+  <SixtynineRP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] 69'd with [INITIATOR_nameDef].-->
+    <li>sent-&gt;[RECIPIENT_nameDef]与[INITIATOR_nameDef]以69的姿势做爱。</li>
+  </SixtynineRP.rulePack.rulesStrings>
 </LanguageData>

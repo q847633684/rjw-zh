@@ -2,10 +2,14 @@
 <LanguageData>
   <!--EN: cunnilingus-->
   <Sex_Reverse_Cunnilingus.label>舔阴</Sex_Reverse_Cunnilingus.label>
-  <!--EN: r_logentry->Gave cunnilingus to [RECIPIENT_nameDef].-->
-  <Sex_Reverse_Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry-&gt;舔了[RECIPIENT_nameDef]的阴道。</Sex_Reverse_Cunnilingus.logRulesInitiator.rulesStrings.0>
-  <!--EN: r_logentry->Received cunnilingus from [INITIATOR_nameDef].-->
-  <Sex_Reverse_Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry-&gt;让[INITIATOR_nameDef]舔了阴道。</Sex_Reverse_Cunnilingus.logRulesRecipient.rulesStrings.0>
+  <Sex_Reverse_Cunnilingus.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Gave cunnilingus to [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;舔了[RECIPIENT_nameDef]的阴道。</li>
+  </Sex_Reverse_Cunnilingus.logRulesInitiator.rulesStrings>
+  <Sex_Reverse_Cunnilingus.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Received cunnilingus from [INITIATOR_nameDef].-->
+    <li>r_logentry-&gt;让[INITIATOR_nameDef]舔了阴道。</li>
+  </Sex_Reverse_Cunnilingus.logRulesRecipient.rulesStrings>
   <!--EN: Give cunnilingus-->
   <Sex_Reverse_Cunnilingus.modExtensions.0.RMBLabel>为其舔阴</Sex_Reverse_Cunnilingus.modExtensions.0.RMBLabel>
 </LanguageData>

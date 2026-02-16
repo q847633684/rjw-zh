@@ -2,10 +2,14 @@
 <LanguageData>
   <!--EN: masturbation_handjoba-->
   <Masturbation_HandjobA.label>慰菊</Masturbation_HandjobA.label>
-  <!--EN: r_logentry->Masturbated.-->
-  <Masturbation_HandjobA.logRulesInitiator.rulesStrings.0>r_logentry-&gt;慰菊。</Masturbation_HandjobA.logRulesInitiator.rulesStrings.0>
-  <!--EN: r_logentry->Masturbated.-->
-  <Masturbation_HandjobA.logRulesRecipient.rulesStrings.0>r_logentry-&gt;慰菊。</Masturbation_HandjobA.logRulesRecipient.rulesStrings.0>
+  <Masturbation_HandjobA.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Masturbated.-->
+    <li>r_logentry-&gt;慰菊。</li>
+  </Masturbation_HandjobA.logRulesInitiator.rulesStrings>
+  <Masturbation_HandjobA.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Masturbated.-->
+    <li>r_logentry-&gt;慰菊。</li>
+  </Masturbation_HandjobA.logRulesRecipient.rulesStrings>
   <!--EN: Use anus-->
   <Masturbation_HandjobA.modExtensions.0.RMBLabel>慰菊</Masturbation_HandjobA.modExtensions.0.RMBLabel>
 </LanguageData>

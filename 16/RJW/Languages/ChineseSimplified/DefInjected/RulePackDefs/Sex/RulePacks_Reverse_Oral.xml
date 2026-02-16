@@ -1,15 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: sent-> [INITIATOR_nameDef] fellated [RECIPIENT_nameDef] with [INITIATOR_possessive] beak.-->
-  <BeakjobReverseRP.rulePack.rulesStrings.0>sent-&gt;[INITIATOR_nameDef]用[INITIATOR_possessive]喙交[RECIPIENT_nameDef]的阴茎。</BeakjobReverseRP.rulePack.rulesStrings.0>
-  <!--EN: sent-> [INITIATOR_nameDef] went down on [RECIPIENT_nameDef].-->
-  <CunnilingusReverseRP.rulePack.rulesStrings.0>sent-&gt;[INITIATOR_nameDef]舔了[RECIPIENT_nameDef]的阴道。</CunnilingusReverseRP.rulePack.rulesStrings.0>
-  <!--EN: sent-> [INITIATOR_nameDef] deepthroated [RECIPIENT_nameDef].-->
-  <DeepthroatReverseRP.rulePack.rulesStrings.0>sent-&gt;[INITIATOR_nameDef]把[RECIPIENT_nameDef]的阴茎吞进喉咙。</DeepthroatReverseRP.rulePack.rulesStrings.0>
-  <!--EN: sent-> [INITIATOR_nameDef] sucked off [RECIPIENT_nameDef].-->
-  <FellatioReverseRP.rulePack.rulesStrings.0>sent-&gt;[INITIATOR_nameDef]口交了[RECIPIENT_nameDef]的阴茎。</FellatioReverseRP.rulePack.rulesStrings.0>
-  <!--EN: sent-> [INITIATOR_nameDef] rimmed [RECIPIENT_nameDef].-->
-  <RimmingReverseRP.rulePack.rulesStrings.0>sent-&gt;[INITIATOR_nameDef]舔了[RECIPIENT_nameDef]的肛门。</RimmingReverseRP.rulePack.rulesStrings.0>
-  <!--EN: sent-> [INITIATOR_nameDef] 69'd with [RECIPIENT_nameDef].-->
-  <SixtynineReverseRP.rulePack.rulesStrings.0>sent-&gt;[INITIATOR_nameDef]与[RECIPIENT_nameDef]69。</SixtynineReverseRP.rulePack.rulesStrings.0>
+  <BeakjobReverseRP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] fellated [RECIPIENT_nameDef] with [INITIATOR_possessive] beak.-->
+    <li>sent-&gt;[INITIATOR_nameDef]用[INITIATOR_possessive]喙交[RECIPIENT_nameDef]的阴茎。</li>
+  </BeakjobReverseRP.rulePack.rulesStrings>
+  <CunnilingusReverseRP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] went down on [RECIPIENT_nameDef].-->
+    <li>sent-&gt;[INITIATOR_nameDef]舔了[RECIPIENT_nameDef]的阴道。</li>
+  </CunnilingusReverseRP.rulePack.rulesStrings>
+  <DeepthroatReverseRP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] deepthroated [RECIPIENT_nameDef].-->
+    <li>sent-&gt;[INITIATOR_nameDef]把[RECIPIENT_nameDef]的阴茎吞进喉咙。</li>
+  </DeepthroatReverseRP.rulePack.rulesStrings>
+  <FellatioReverseRP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] sucked off [RECIPIENT_nameDef].-->
+    <li>sent-&gt;[INITIATOR_nameDef]口交了[RECIPIENT_nameDef]的阴茎。</li>
+  </FellatioReverseRP.rulePack.rulesStrings>
+  <RimmingReverseRP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] rimmed [RECIPIENT_nameDef].-->
+    <li>sent-&gt;[INITIATOR_nameDef]舔了[RECIPIENT_nameDef]的肛门。</li>
+  </RimmingReverseRP.rulePack.rulesStrings>
+  <SixtynineReverseRP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] 69'd with [RECIPIENT_nameDef].-->
+    <li>sent-&gt;[INITIATOR_nameDef]与[RECIPIENT_nameDef]69。</li>
+  </SixtynineReverseRP.rulePack.rulesStrings>
 </LanguageData>

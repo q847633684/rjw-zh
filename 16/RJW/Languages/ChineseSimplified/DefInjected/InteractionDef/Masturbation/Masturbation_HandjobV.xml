@@ -2,10 +2,14 @@
 <LanguageData>
   <!--EN: masturbation_handjobv-->
   <Masturbation_HandjobV.label>自慰</Masturbation_HandjobV.label>
-  <!--EN: r_logentry->Masturbated.-->
-  <Masturbation_HandjobV.logRulesInitiator.rulesStrings.0>r_logentry-&gt;自慰。</Masturbation_HandjobV.logRulesInitiator.rulesStrings.0>
-  <!--EN: r_logentry->Masturbated.-->
-  <Masturbation_HandjobV.logRulesRecipient.rulesStrings.0>r_logentry-&gt;自慰。</Masturbation_HandjobV.logRulesRecipient.rulesStrings.0>
+  <Masturbation_HandjobV.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Masturbated.-->
+    <li>r_logentry-&gt;自慰。</li>
+  </Masturbation_HandjobV.logRulesInitiator.rulesStrings>
+  <Masturbation_HandjobV.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Masturbated.-->
+    <li>r_logentry-&gt;自慰。</li>
+  </Masturbation_HandjobV.logRulesRecipient.rulesStrings>
   <!--EN: Use vagina-->
   <Masturbation_HandjobV.modExtensions.0.RMBLabel>自慰</Masturbation_HandjobV.modExtensions.0.RMBLabel>
 </LanguageData>

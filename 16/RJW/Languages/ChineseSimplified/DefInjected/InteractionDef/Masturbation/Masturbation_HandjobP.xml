@@ -2,10 +2,14 @@
 <LanguageData>
   <!--EN: masturbation_handjobp-->
   <Masturbation_HandjobP.label>撸管</Masturbation_HandjobP.label>
-  <!--EN: r_logentry->Masturbated.-->
-  <Masturbation_HandjobP.logRulesInitiator.rulesStrings.0>r_logentry-&gt;开导！</Masturbation_HandjobP.logRulesInitiator.rulesStrings.0>
-  <!--EN: r_logentry->Masturbated.-->
-  <Masturbation_HandjobP.logRulesRecipient.rulesStrings.0>r_logentry-&gt;开导！</Masturbation_HandjobP.logRulesRecipient.rulesStrings.0>
+  <Masturbation_HandjobP.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->Masturbated.-->
+    <li>r_logentry-&gt;开导！</li>
+  </Masturbation_HandjobP.logRulesInitiator.rulesStrings>
+  <Masturbation_HandjobP.logRulesRecipient.rulesStrings>
+    <!--EN: r_logentry->Masturbated.-->
+    <li>r_logentry-&gt;开导！</li>
+  </Masturbation_HandjobP.logRulesRecipient.rulesStrings>
   <!--EN: Use penis-->
   <Masturbation_HandjobP.modExtensions.0.RMBLabel>撸管</Masturbation_HandjobP.modExtensions.0.RMBLabel>
 </LanguageData>
