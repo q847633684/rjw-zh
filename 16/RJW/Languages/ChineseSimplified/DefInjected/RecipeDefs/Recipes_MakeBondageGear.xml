@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Make a hololock.-->
+  <MakeHololock.description>制作全息锁。</MakeHololock.description>
+  <!--EN: Making hololock.-->
+  <MakeHololock.jobString>制作全息锁。</MakeHololock.jobString>
+  <!--EN: make hololock-->
+  <MakeHololock.label>制作全息锁</MakeHololock.label>
+  <!--EN: Make a restricvive chains.-->
+  <MakePrisonerChains.description>制作链条。</MakePrisonerChains.description>
+  <!--EN: Making chains.-->
+  <MakePrisonerChains.jobString>制作链条。</MakePrisonerChains.jobString>
+  <!--EN: make chains-->
+  <MakePrisonerChains.label>制作链条</MakePrisonerChains.label>
+</LanguageData>

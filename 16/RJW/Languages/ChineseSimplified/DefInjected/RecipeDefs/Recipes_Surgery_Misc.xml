@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Install a peg arm.-->
+  <InstallPegArm.description>安装钉臂。</InstallPegArm.description>
+  <!--EN: Installing peg arm.-->
+  <InstallPegArm.jobString>安装钉臂。</InstallPegArm.jobString>
+  <!--EN: install peg arm-->
+  <InstallPegArm.label>安装钉臂</InstallPegArm.label>
+</LanguageData>

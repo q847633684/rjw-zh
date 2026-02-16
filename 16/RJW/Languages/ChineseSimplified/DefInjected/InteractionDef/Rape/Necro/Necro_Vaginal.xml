@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: vaginal-->
+  <Necro_Vaginal.label>强迫性交</Necro_Vaginal.label>
+  <!--EN: r_logentry->Raped vaginally [RECIPIENT_nameDef].-->
+  <Necro_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry-&gt;强奸了[RECIPIENT_nameDef]的阴道。</Necro_Vaginal.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Was vaginally raped by [INITIATOR_nameDef].-->
+  <Necro_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry-&gt;被[INITIATOR_nameDef]强奸了阴道。</Necro_Vaginal.logRulesRecipient.rulesStrings.0>
+  <!--EN: Fuck vaginally-->
+  <Necro_Vaginal.modExtensions.0.RMBLabel>强迫性交</Necro_Vaginal.modExtensions.0.RMBLabel>
+</LanguageData>

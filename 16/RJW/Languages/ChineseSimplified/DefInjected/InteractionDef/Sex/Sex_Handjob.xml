@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: handjob-->
+  <Sex_Handjob.label>手交</Sex_Handjob.label>
+  <!--EN: r_logentry->Received a handjob from [RECIPIENT_nameDef].-->
+  <Sex_Handjob.logRulesInitiator.rulesStrings.0>r_logentry-&gt;让[RECIPIENT_nameDef]用手撸了一发。</Sex_Handjob.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Gave a handjob to [INITIATOR_nameDef].-->
+  <Sex_Handjob.logRulesRecipient.rulesStrings.0>r_logentry-&gt;用手给[INITIATOR_nameDef]撸了一发。</Sex_Handjob.logRulesRecipient.rulesStrings.0>
+  <!--EN: Receive handjob-->
+  <Sex_Handjob.modExtensions.0.RMBLabel>让其手交</Sex_Handjob.modExtensions.0.RMBLabel>
+</LanguageData>

@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: An artificial anus built by an archotech. It's indistinguishable from a normal anus. Unmatched strength and self-repairing properties make it almost impossible to destroy. Its internal workings are a mystery to all human minds.-->
+  <ArchotechAnus.description>一个由超凡人工智能打造的人工肛门。
+-它从外形上难以和自然肛门区分。
+-无与伦比的强度和自我修复的特性使其几乎不可能被破坏。
+它的内部运作原理对所有人来说都是一个谜。</ArchotechAnus.description>
+  <!--EN: archotech anus-->
+  <ArchotechAnus.label>超凡肛门</ArchotechAnus.label>
+  <!--EN: A pair of artificial breasts built by an archotech. They can change shape into any desired appearance, at any time and wont interfere in the wearers activities. Their surface is smoother than any natural skin, while beeing harder to damage than plasteel and beeing able to heal themselves. Its internal workings are a mystery to all human minds.-->
+  <ArchotechBreasts.description>一对由超凡人工智能打造的人工乳房。
+-它们能变成任何你想要的形状，在任何时候都不会妨碍佩戴者。
+-它们的表面比任何自然皮肤都要顺滑，想要弄坏它比破坏塑钢还要困难并拥有自我修复能力。
+它们的内部运作原理对所有人来说都是一个谜。</ArchotechBreasts.description>
+  <!--EN: archotech breasts-->
+  <ArchotechBreasts.label>超凡乳房</ArchotechBreasts.label>
+  <!--EN: An artificial penis built by an archotech. It's stimulating capabilities are unmatched in every kind of sexual situation. Not only is it able to change color, texture, length and shape to provide the perfect stimulation for every kind of orifice, it's also stronger than plasteel and self-repairing. It attaches seamlessly to the body and directly connects to the nervous system to greatly enhance the owner's stamina and virility to keep the pleasure going for as long as possible. AI-controlled vibrations combined with custom pheromones make sure to make every sex-act into an unforgettable experience. Its internal workings are a mystery to all human minds.-->
+  <ArchotechPenis.description>一根由超凡人工智能打造的人工阴茎。
+-它的刺激能力在各种性行为中都是无与伦比的。
+-它不仅能够改变颜色，纹理，长度与形状以达到为所有孔洞提供完美的刺激的能力。
+-它可以比塑钢还硬且具有自我修复能力。
+-它能与身体无缝连接，且直接连接到神经系统，极大地增强了所有者的耐力与性能力使得欢愉无限延长。
+-由人工智能控制的震动与定制的信息素相结合，确保每一次性行为都能成为一次难忘的体验。
+它的内部运作原理对所有人来说都是一个谜。</ArchotechPenis.description>
+  <!--EN: archotech penis-->
+  <ArchotechPenis.label>超凡阴茎</ArchotechPenis.label>
+  <!--EN: An artificial vagina built by an archotech. It looks exactly like its fleshy original, but its properties make it the perfect replacement for its weaker, organic counterpart. Advanced lubrication, flexibility in addition to its self-repairing mechanisms enables it to endure any type of inserted object with ease and allows any kind of offspring to pass through without complications. It seamlessly attaches to the hosting body and maintains immunity of most known STDs. Exceptional sensitivity, warmth regulation as well as pheromones will satisfy any kind of partner. Its internal workings are a mystery to all human minds.-->
+  <ArchotechVagina.description>一条由超凡人工智能打造的人工阴道。
+-它与它的肉质原型如出一辙，但它的特性使其完美的代替了它柔弱的有机原版。
+-顶尖的润滑、伸缩性以及自我修复能力使其能够轻松承受任何插入物体，并允许任何类型的后代通过而不会发生特殊情况。 
+-它能与身体无缝连接并且对拥有对大多数已知性病的免疫能力。
+-卓越的灵敏度，温度调节以及费洛蒙能满足任何类型的对象。
+它的内部运作原理对所有人来说都是一个谜。</ArchotechVagina.description>
+  <!--EN: archotech vagina-->
+  <ArchotechVagina.label>超凡阴道</ArchotechVagina.label>
+  <!--EN: A high-tech prosthetic anus. Features include:
+- Resizes to any desired size
+- Auto-lubrication with boro-graphitic pseudofluid, smooth but never slimy (includes toggleable sliminess in case you're into that)-->
+  <BionicAnus.description>一个高科技的人造肛门，功能包括：
+-调整到任何你需要的大小。
+-使用硼石墨润滑液进行自动润滑，平滑但不粘连（包括可切换的粘性，防止您陷入其中）</BionicAnus.description>
+  <!--EN: bionic anus-->
+  <BionicAnus.label>仿生肛门</BionicAnus.label>
+  <!--EN: High-tech prosthetic breasts. Features include:
+- Resizes to any desired size-->
+  <BionicBreasts.description>一个高科技的人造乳房，功能包括：
+-调整到任何你需要的大小。</BionicBreasts.description>
+  <!--EN: bionic breasts-->
+  <BionicBreasts.label>仿生乳房</BionicBreasts.label>
+  <!--EN: A high-tech prosthetic penis. Features include:
+- Adjustable size allows you to fit in any vagina.
+- Over 50 different vibration modes, including 10 of the most stimulating waveforms known to science
+- State-of-the-art neural interface activates neural pathways you didn't even know you had to make you feel things you never even imagined.-->
+  <BionicPenis.description>高科技的人造阴茎，功能包括：
+-可调整大小，适合各式各样的阴道。
+-超过50种不同的振动模式，包括10种科学已知最刺激的波形。
+-最先进的神经系统链接让你感受你从未享受过的快感。</BionicPenis.description>
+  <!--EN: bionic penis-->
+  <BionicPenis.label>仿生阴茎</BionicPenis.label>
+  <!--EN: A high-tech prosthetic vagina. Features include:
+- Interior lined with 150 million micro-g-spots
+- Resizes to fit any penis
+- Auto-lubrication with boro-graphitic pseudofluid, smooth but never slimy (includes toggleable sliminess in case you're into that)-->
+  <BionicVagina.description>一个高科技的人造阴道，功能包括：
+-内部排列有1.5亿个微G点。
+-使用内部压力传感器来适应任何阴茎的大小、速度和压力。
+-使用硼石墨润滑液进行自动润滑，平滑但不粘连（包括可切换的粘性，防止您陷入其中）</BionicVagina.description>
+  <!--EN: bionic vagina-->
+  <BionicVagina.label>仿生阴道</BionicVagina.label>
+  <!--EN: A prosthetic anus. Its cold metal grip is uncomfortable but it has great suction power.-->
+  <HydraulicAnus.description>一个假肛门，用简单的液压装置来收紧，被它冰冷地裹住让人很不舒服，不过有着很强的吸力。</HydraulicAnus.description>
+  <!--EN: hydraulic anus-->
+  <HydraulicAnus.label>液压肛门</HydraulicAnus.label>
+  <!--EN: Prosthetic breasts. Conical metal.-->
+  <HydraulicBreasts.description>一对并不好看的假体乳房，锥形的金属结构增加了泵送功能，可以biubiu地射你朋友一身。</HydraulicBreasts.description>
+  <!--EN: hydraulic breasts-->
+  <HydraulicBreasts.label>液压乳房</HydraulicBreasts.label>
+  <!--EN: A prosthetic penis. Cold metal phallus. Has built in fluid delivery system.-->
+  <HydraulicPenis.description>一个假阴茎，冰冷的金属，内置流体输送系统，通过液压变大。</HydraulicPenis.description>
+  <!--EN: hydraulic penis-->
+  <HydraulicPenis.label>液压阴茎</HydraulicPenis.label>
+  <!--EN: A prosthetic vagina. Its cold metal grip is uncomfortable but it has great suction power.-->
+  <HydraulicVagina.description>一个假阴道，它使用简单的液压系统来模拟正常阴道的紧密度，被它冰冷地裹住让人很不舒服，不过有着很强的吸力。</HydraulicVagina.description>
+  <!--EN: hydraulic vagina-->
+  <HydraulicVagina.label>液压阴道</HydraulicVagina.label>
+  <!--EN: A wooden dildo designed to replace a missing penis. Be careful of splinters.-->
+  <PegDick.description>一根木制阳具，被设计用来代替断掉的阴茎。（小心木刺）</PegDick.description>
+  <!--EN: peg dick-->
+  <PegDick.label>假阴茎</PegDick.label>
+</LanguageData>

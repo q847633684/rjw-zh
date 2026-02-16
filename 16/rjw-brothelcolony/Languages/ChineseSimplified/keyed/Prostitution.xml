@@ -1,79 +1,50 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--原中文: '{0}无法支付{1}的嫖价', 原英文: '无' -> 新英文: '{0} could not afford {1}',更新于2026-02-14-->
-  <!--EN: {0} could not afford {1}-->
-  <ProstitutionCouldNotAfford>{0}无法支付{1}的嫖价</ProstitutionCouldNotAfford>
-  <!--原中文: '{0}因状态不佳被拒绝。', 原英文: '无' -> 新英文: '{0} is unhealty and was rejected.',更新于2026-02-14-->
-  <!--EN: {0} is unhealty and was rejected.-->
-  <ProstitutionUnhealtyAndReject>{0}因状态不佳被拒绝。</ProstitutionUnhealtyAndReject>
-  <!--原中文: '{0}觉得您的娼妓不足以吸引他。', 原英文: '无' -> 新英文: '{0} found none of your whores appealing.',更新于2026-02-14-->
-  <!--EN: {0} found none of your whores appealing.-->
-  <ProstitutionNoneAppealing>{0}觉得您的娼妓不足以吸引他。</ProstitutionNoneAppealing>
-  <!--原中文: '下次妓展将于{0}后准备完毕', 原英文: '无' -> 新英文: 'Next presentation ready in: {0}',更新于2026-02-14-->
   <!--EN: Next presentation ready in: {0}-->
   <ProstitutionAbilityPresentCooldown>下次妓展将于{0}后准备完毕</ProstitutionAbilityPresentCooldown>
-  <!--原中文: '请先至少指定一张青楼床铺。', 原英文: '无' -> 新英文: 'Designate at least one brothel bed first.',更新于2026-02-14-->
   <!--EN: Designate at least one brothel bed first.-->
   <ProstitutionAbilityPresentDisabled>请先至少指定一张青楼床铺。</ProstitutionAbilityPresentDisabled>
-  <!--原中文: '\n\n警告！ {0} 是远行队队长，队中动物将会跟随他。', 原英文: '无' -> 新英文: '\n\nWarning! {0} is a caravan leader, their pack animals would follow them.',更新于2026-02-14-->
-  <!--EN: \n\nWarning! {0} is a caravan leader, their pack animals would follow them.-->
-  <ProstitutionAbilityPresentWarning>\n\n警告！ {0} 是远行队队长，队中动物将会跟随他。</ProstitutionAbilityPresentWarning>
-  <!--原中文: '\n\n可供客人使用的白银：\n', 原英文: '无' -> 新英文: '\n\nSilver available to guests:\n',更新于2026-02-14-->
-  <!--EN: \n\nSilver available to guests:\n-->
-  <ProstitutionAbilityPresentSilverGuests>\n\n可供客人使用的白银：\n</ProstitutionAbilityPresentSilverGuests>
-  <!--原中文: '{0} - {1}的组\n', 原英文: '无' -> 新英文: '{0} - {1}'s group\n',更新于2026-02-14-->
   <!--EN: {0} - {1}'s group\n-->
   <ProstitutionAbilityPresentSilverGroup>{0} - {1}的组\n</ProstitutionAbilityPresentSilverGroup>
-  <!--原中文: '\n总计：{0}\n', 原英文: '无' -> 新英文: '\nTotal: {0}\n',更新于2026-02-14-->
+  <!--EN: \n\nSilver available to guests:\n-->
+  <ProstitutionAbilityPresentSilverGuests>\n\n可供客人使用的白银：\n</ProstitutionAbilityPresentSilverGuests>
   <!--EN: \nTotal: {0}\n-->
   <ProstitutionAbilityPresentSilverTotal>\n总计：{0}\n</ProstitutionAbilityPresentSilverTotal>
-  <!--原中文: '最便宜的娼妓：\n{0}:{1}银', 原英文: '无' -> 新英文: 'Cheapest whore:\n{0}: {1} silver',更新于2026-02-14-->
-  <!--EN: Cheapest whore:\n{0}: {1} silver-->
-  <ProstitutionAbilityPresentWhorePrice>最便宜的娼妓：\n{0}:{1}银</ProstitutionAbilityPresentWhorePrice>
-  <!--原中文: '有些娼妓不会索要白银。', 原英文: '无' -> 新英文: 'Some whores do not ask for silver.',更新于2026-02-14-->
-  <!--EN: Some whores do not ask for silver.-->
-  <ProstitutionAbilityPresentWhoreFree>有些娼妓不会索要白银。</ProstitutionAbilityPresentWhoreFree>
-  <!--原中文: '神圣生育力', 原英文: '无' -> 新英文: 'Sacred Fertility',更新于2026-02-14-->
-  <!--EN: Sacred Fertility-->
-  <ProstitutionAbilityPresentWhoreTitle>神圣生育力</ProstitutionAbilityPresentWhoreTitle>
-  <!--原中文: '所有参与者的生育力都提高了。', 原英文: '无' -> 新英文: 'The fertility of all participants has increased.',更新于2026-02-14-->
-  <!--EN: The fertility of all participants has increased.-->
-  <ProstitutionAbilityPresentWhoreOutcomeDesc>所有参与者的生育力都提高了。</ProstitutionAbilityPresentWhoreOutcomeDesc>
-  <!--原中文: '\n\n基于仪式的质量我们获得了{0}%的生育力提升。\n\n为每位小人支付五点热忱圣点将会额外提升100%。', 原英文: '无' -> 新英文: '\n\nThe quality of the ritual earned us an initial fertility boost of {0}%.\n\nSpending five Sacred Fervor per pawn adds another 100%.',更新于2026-02-14-->
+  <!--EN: \n\nWarning! {0} is a caravan leader, their pack animals would follow them.-->
+  <ProstitutionAbilityPresentWarning>\n\n警告！ {0} 是远行队队长，队中动物将会跟随他。</ProstitutionAbilityPresentWarning>
   <!--EN: \n\nThe quality of the ritual earned us an initial fertility boost of {0}%.\n\nSpending five Sacred Fervor per pawn adds another 100%.-->
   <ProstitutionAbilityPresentWhoreDiaNodeText>\n\n基于仪式的质量我们获得了{0}%的生育力提升。\n\n为每位小人支付五点热忱圣点将会额外提升100%。</ProstitutionAbilityPresentWhoreDiaNodeText>
-  <!--原中文: '无', 原英文: '无' -> 新英文: 'None',更新于2026-02-14-->
-  <!--EN: None-->
-  <ProstitutionAbilityPresentWhoreDiaOptionNone>无</ProstitutionAbilityPresentWhoreDiaOptionNone>
-  <!--原中文: '为每位参与者支付{0}点热忱圣点\n总计：{1}点', 原英文: '无' -> 新英文: 'Spend {0} fervor per participant\nTotal: {1}',更新于2026-02-14-->
   <!--EN: Spend {0} fervor per participant\nTotal: {1}-->
   <ProstitutionAbilityPresentWhoreDiaOption>为每位参与者支付{0}点热忱圣点\n总计：{1}点</ProstitutionAbilityPresentWhoreDiaOption>
-  <!--原中文: '没有足够的点数', 原英文: '无' -> 新英文: 'Can not afford this much',更新于2026-02-14-->
   <!--EN: Can not afford this much-->
   <ProstitutionAbilityPresentWhoreDiaOptionDisable>没有足够的点数</ProstitutionAbilityPresentWhoreDiaOptionDisable>
-  <!--原中文: '请先至少指定一张青楼床铺。', 原英文: '无' -> 新英文: 'Designate at least one brothel bed first.',更新于2026-02-14-->
+  <!--EN: None-->
+  <ProstitutionAbilityPresentWhoreDiaOptionNone>无</ProstitutionAbilityPresentWhoreDiaOptionNone>
+  <!--EN: Some whores do not ask for silver.-->
+  <ProstitutionAbilityPresentWhoreFree>有些娼妓不会索要白银。</ProstitutionAbilityPresentWhoreFree>
+  <!--EN: The fertility of all participants has increased.-->
+  <ProstitutionAbilityPresentWhoreOutcomeDesc>所有参与者的生育力都提高了。</ProstitutionAbilityPresentWhoreOutcomeDesc>
+  <!--EN: Cheapest whore:\n{0}: {1} silver-->
+  <ProstitutionAbilityPresentWhorePrice>最便宜的娼妓：\n{0}:{1}银</ProstitutionAbilityPresentWhorePrice>
+  <!--EN: Sacred Fertility-->
+  <ProstitutionAbilityPresentWhoreTitle>神圣生育力</ProstitutionAbilityPresentWhoreTitle>
+  <!--EN: {0} could not afford {1}-->
+  <ProstitutionCouldNotAfford>{0}无法支付{1}的嫖价</ProstitutionCouldNotAfford>
   <!--EN: Designate at least one brothel bed first.-->
   <ProstitutionDesignateBrothelBedFirst>请先至少指定一张青楼床铺。</ProstitutionDesignateBrothelBedFirst>
-  <!--原中文: '仪式参与者必须为非敌对访客', 原英文: '无' -> 新英文: 'Ritual role must be a non-hostile visitor',更新于2026-02-14-->
-  <!--EN: Ritual role must be a non-hostile visitor-->
-  <ProstitutionRitualReasonClient>仪式参与者必须为非敌对访客</ProstitutionRitualReasonClient>
-  <!--原中文: '{0}并未被设置为娼妓。', 原英文: '无' -> 新英文: '{0} is not designated as whore.',更新于2026-02-14-->
-  <!--EN: {0} is not designated as whore.-->
-  <ProstitutionRitualReasonWhore>{0}并未被设置为娼妓。</ProstitutionRitualReasonWhore>
-  <!--原中文: '没有客户了。', 原英文: '无' -> 新英文: 'No more clients',更新于2026-02-14-->
-  <!--EN: No more clients-->
-  <ProstitutionLetterTitle>没有客户了。</ProstitutionLetterTitle>
-  <!--原中文: '没有可服务的客户了。', 原英文: '无' -> 新英文: 'No more clients left to serve.',更新于2026-02-14-->
   <!--EN: No more clients left to serve.-->
   <ProstitutionLetterDesc>没有可服务的客户了。</ProstitutionLetterDesc>
-  <!--原中文: '
-娼妓将会尽力服务任何选择他们的客户。{madam}的社交等级 ({madam_skills}) 将会帮助拉客。\n\n\n\n男性客户: {male_clients}\n\n女性客户: {female_clients}\n\n\n
-  ', 原英文: '无' -> 新英文: '
-Prostitutes will do their best to serve all clients willing to take them. {madam}'s social skills ({madam_skills}) will help them to find clients.\n\n\n\nMale clients: {male_clients}\n\nFemale clients: {female_clients}\n\n\n
-  ',更新于2026-02-14-->
+  <!--EN: No more clients-->
+  <ProstitutionLetterTitle>没有客户了。</ProstitutionLetterTitle>
+  <!--EN: {0} found none of your whores appealing.-->
+  <ProstitutionNoneAppealing>{0}觉得您的娼妓不足以吸引他。</ProstitutionNoneAppealing>
   <!--EN: 
 Prostitutes will do their best to serve all clients willing to take them. {madam}'s social skills ({madam_skills}) will help them to find clients.\n\n\n\nMale clients: {male_clients}\n\nFemale clients: {female_clients}\n\n\n-->
-  <ProstitutionRitualDesc>
-娼妓将会尽力服务任何选择他们的客户。{madam}的社交等级 ({madam_skills}) 将会帮助拉客。\n\n\n\n男性客户: {male_clients}\n\n女性客户: {female_clients}\n\n\n
-  </ProstitutionRitualDesc>
+  <ProstitutionRitualDesc>娼妓将会尽力服务任何选择他们的客户。{madam}的社交等级 ({madam_skills}) 将会帮助拉客。\n\n\n\n男性客户: {male_clients}\n\n女性客户: {female_clients}\n\n\n</ProstitutionRitualDesc>
+  <!--EN: Ritual role must be a non-hostile visitor-->
+  <ProstitutionRitualReasonClient>仪式参与者必须为非敌对访客</ProstitutionRitualReasonClient>
+  <!--EN: {0} is not designated as whore.-->
+  <ProstitutionRitualReasonWhore>{0}并未被设置为娼妓。</ProstitutionRitualReasonWhore>
+  <!--EN: {0} is unhealty and was rejected.-->
+  <ProstitutionUnhealtyAndReject>{0}因状态不佳被拒绝。</ProstitutionUnhealtyAndReject>
 </LanguageData>

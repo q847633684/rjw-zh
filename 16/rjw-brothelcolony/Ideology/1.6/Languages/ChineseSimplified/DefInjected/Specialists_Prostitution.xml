@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: nounInsert->whore-->
+  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.0>nounInsert-&gt;妓女</CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.0>
+  <!--EN: nounInsert->prostitute-->
+  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.1>nounInsert-&gt;娼妓</CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.1>
+  <!--EN: nounInsert->temptress-->
+  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.2>nounInsert-&gt;诱惑者</CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.2>
+  <!--EN: nounInsert->madam-->
+  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.3>nounInsert-&gt;老鸨</CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.3>
+  <!--EN: nounInsert->harlot-->
+  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.4>nounInsert-&gt;淫妇</CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.4>
+  <!--EN: nounInsert->seductress-->
+  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.5>nounInsert-&gt;勾引者</CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.5>
+  <!--EN: r_roleName(p=4)->[nounInsert]-->
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.0>r_roleName(p=4)-&gt;[nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.0>
+  <!--EN: r_roleName(p=2)->[memeAdjective] [nounInsert]-->
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.1>r_roleName(p=2)-&gt;[memeAdjective][nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.1>
+  <!--EN: r_roleName->[nounInsert] of [chosenTheme]-->
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.2>r_roleName-&gt;[chosenTheme]的[nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.2>
+  <!--EN: r_roleName->[nounInsert] of [keyDeity]-->
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.3>r_roleName-&gt;[keyDeity]的[nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.3>
+  <!--EN: r_roleName->[nounInsert] of [memeConcept]-->
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.4>r_roleName-&gt;[memeConcept]的[nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.4>
+  <!--EN: r_roleName->[nounInsert] of [chosenIdeoName]-->
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.5>r_roleName-&gt;[chosenIdeoName]的[nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.5>
+  <!--EN: r_roleName->[chosenAdjective] [nounInsert]-->
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.6>r_roleName-&gt;[chosenAdjective][nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.6>
+  <!--EN: r_roleName->[keyDeity]'s [nounInsert]-->
+  <CB_NamerRoleWhoring.rulePack.rulesStrings.7>r_roleName-&gt;[keyDeity]的[nounInsert]</CB_NamerRoleWhoring.rulePack.rulesStrings.7>
+  <!--EN: Specialised in managing your prostitutes, a madam or a pimp. They present your whores to visitors and increase the success chance when whoring at settlements. Able to convert earned fervour into ideology points.-->
+  <CB_Prostitution_Specialist.description>专门管理你的妓女，老鸨或皮条客。他们向访客展示你的妓女，并在定居点卖淫时提高成功率。能够将获得的狂热转化为文化点数。</CB_Prostitution_Specialist.description>
+  <!--EN: Prostitution specialist-->
+  <CB_Prostitution_Specialist.label>卖淫专家</CB_Prostitution_Specialist.label>
+</LanguageData>

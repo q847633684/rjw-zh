@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: "Who's next?"-->
+  <Hediff_RapeEnemyCD.description>“下一个是谁？”</Hediff_RapeEnemyCD.description>
+  <!--EN: rape enemy cooldown-->
+  <Hediff_RapeEnemyCD.label>强奸敌人冷却时间</Hediff_RapeEnemyCD.label>
+  <!--EN: Submitting.-->
+  <Hediff_Submitting.description>咕……要上就上吧。</Hediff_Submitting.description>
+  <!--EN: Prostrating self-->
+  <Hediff_Submitting.label>屈服</Hediff_Submitting.label>
+</LanguageData>

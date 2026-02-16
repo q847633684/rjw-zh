@@ -1,179 +1,194 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!-- EN: No genes can be taken. -->
-  <RepopulationNoGenesCanTaken>没有可提取的基因</RepopulationNoGenesCanTaken>
-  <!-- EN: No new genes to give. -->
-  <RepopulationNoNewGenes>没有可给予的基因</RepopulationNoNewGenes>
-  <!-- EN: No bed available. -->
-  <RepopulationNoBedAvaliable>没有空闲床铺</RepopulationNoBedAvaliable>
-  <!-- EN: Target not interested in {0} -->
-  <RepopulationTargetnotInterested>目标对{0}不感兴趣</RepopulationTargetnotInterested>
-  <!-- EN: No genes available on target -->
-  <RepopulationNoGenesAvaliable>目标没有可用的基因</RepopulationNoGenesAvaliable>
-  <!-- EN: Select a visitor -->
-  <RepopulationSelectVisitor>选择访客</RepopulationSelectVisitor>
-  <!-- EN: Select offering -->
-  <RepopulationSelectOffering>选择赠予</RepopulationSelectOffering>
-  <!-- EN: Select target -->
-  <RepopulationSelectTarget>选择目标</RepopulationSelectTarget>
-  <!-- EN: Learned genes -->
-  <RepopulationActionLabel>已获取基因</RepopulationActionLabel>
-  <!-- EN: Select to see all learned genes. -->
-  <RepopulationActionDesc>查看所有已获取基因。</RepopulationActionDesc>
-  <!--原中文: '这些基因已被{0}获取。\n \n在基因改造中添加基因需要消耗{1}点热忱圣点，以及基于每级基因复杂度额外消耗{2}点热忱圣点。\n \n移除一个基因需要消耗{3}点热忱圣点，以及基于每级基因复杂度额外消耗{4}点热忱圣点。\n \n若目标还未出生，则热忱圣点需求减半。', 原英文: 'These genes have been learned by {0}".\n \nAdding genes with Gene Tampering requires {1} fervor, plus an additional {2} fervor per level of complexity of the gene.\n \nRemoving a gene requires {3} fervor, plus an additional {4} fervor per level of complexity of the gene \n \nTargeting an unborn halfs the cost.' -> 新英文: 'These genes have been learned by {0}.\n \nAdding genes with Gene Tampering requires {1} fervor, plus an additional {2} fervor per level of complexity of the gene.\n \nRemoving a gene requires {3} fervor, plus an additional {4} fervor per level of complexity of the gene \n \nTargeting an unborn halfs the cost.',更新于2026-02-14-->
-  <!--EN: These genes have been learned by {0}".\n \nAdding genes with Gene Tampering requires {1} fervor, plus an additional {2} fervor per level of complexity of the gene.\n \nRemoving a gene requires {3} fervor, plus an additional {4} fervor per level of complexity of the gene \n \nTargeting an unborn halfs the cost.-->
-  <RepopulationActionDiaNode>These genes have been learned by {0}.\n \nAdding genes with Gene Tampering requires {1} fervor, plus an additional {2} fervor per level of complexity of the gene.\n \nRemoving a gene requires {3} fervor, plus an additional {4} fervor per level of complexity of the gene \n \nTargeting an unborn halfs the cost.</RepopulationActionDiaNode>
-  <!-- EN: Fervor is required to learn a gene -->
-  <RepopulationActionDisabled>需要热忱圣点来获取基因</RepopulationActionDisabled>
-  <!-- EN: {0} can not walk on their own. -->
-  <RepopulationOfferCanNotWalk>{0}无法自行走路。</RepopulationOfferCanNotWalk>
-  <!-- EN: {0} is not one of yours. -->
-  <RepopulationOfferIsNotOne>{0}不是你的人。</RepopulationOfferIsNotOne>
-  <!-- EN: \n\n{0} is expected to be given to {1}.\nThey will not appreciate us handing their relative to someone else. -->
-  <RepopulationOfferDiaNode>\n\n{0}已被预定赠予{1}。\n他们将不会希望我们将其子嗣赠与他人。</RepopulationOfferDiaNode>
-  <!-- EN: Do it anyways -->
-  <RepopulationOfferDiaOptionYes>给就完了</RepopulationOfferDiaOptionYes>
-  <!-- EN: Better not -->
-  <RepopulationOfferDiaOptionNo>还是算了</RepopulationOfferDiaOptionNo>
-  <!-- EN: Offering to wrong faction -->
-  <RepopulationOfferDiaNodeTitle>给错派系了</RepopulationOfferDiaNodeTitle>
-  <!-- EN: \n\nWe are offering {0} to {1}\n\nAs {0} is not one of theirs, they consider this a favour to us. Due to our relationship with them ({2}), and {3}'s personal opinion ({4}) of {0}, they are only offering {5} of the usual reward. -->
-  <RepopulationOfferLetterText1>\n\n我们将{0}赠予{1}\n\n但{0}并非其子嗣，他们认为收下此人是在帮助我们。由于我们与其派系的关系({2})及{3}对{0}的个人意见({4})，他们只给予我们{5}而非正常的回报。</RepopulationOfferLetterText1>
-  <!-- EN: \n\nWe are offering {0} to {1}\n\nAs {0} is one of theirs, they offer us the usual reward. -->
-  <RepopulationOfferLetterText2>\n\n我们将{0}赠予{1}\n\n且{0}是其子嗣，他们将给予我们正常的回报。</RepopulationOfferLetterText2>
-  <!-- EN: Offering {0} -->
-  <RepopulationOfferLetterTitle>赠予{0}</RepopulationOfferLetterTitle>
-  <!-- EN: Accept for {0} silver -->
-  <RepopulationOfferLetterAcceptForSilver>接受并收取{0}白银</RepopulationOfferLetterAcceptForSilver>
-  <!-- EN: Accept for {0} goodwill -->
-  <RepopulationOfferLetterAcceptForGoodwill>接受并提升{0}点派系好感度</RepopulationOfferLetterAcceptForGoodwill>
-  <!-- EN: Accept for {0} fervor -->
-  <RepopulationOfferLetterAcceptForFervor>接受并收取{0}热忱圣点</RepopulationOfferLetterAcceptForFervor>
-  <!-- EN: Accept for nothing in return -->
-  <RepopulationOfferLetterAcceptNothing>接受且不求回报</RepopulationOfferLetterAcceptNothing>
-  <!-- EN: Refuse -->
-  <RepopulationOfferLetterAcceptRefuse>拒绝</RepopulationOfferLetterAcceptRefuse>
-  <!-- EN: {0} | Complexity: {1} | Metabolism: {2} -->
-  <RepopulationValidGenesDiaOption>{0} | 复杂度: {1} | 代谢速度: {2}</RepopulationValidGenesDiaOption>
-  <!-- EN: Available genes -->
-  <RepopulationFloatMenuTitle>可用基因</RepopulationFloatMenuTitle>
-  <!-- EN: Genes -->
-  <RepopulationFloatMenuTitle2>基因</RepopulationFloatMenuTitle2>
-  <!-- EN: Remove genes -->
-  <RepopulationWidgetRemoveGeneTitle>移除基因</RepopulationWidgetRemoveGeneTitle>
-  <!-- EN: Add genes -->
-  <RepopulationWidgetAddGeneTitle>添加基因</RepopulationWidgetAddGeneTitle>
-  <!-- EN: Fervor: {0} -->
-  <RepopulationGeneFervor>热忱圣点：{0}</RepopulationGeneFervor>
-  <!-- EN: Remove ({0}) -->
-  <RepopulationGeneRemovePrice>移除({0})</RepopulationGeneRemovePrice>
-  <!-- EN: Add ({0}) -->
-  <RepopulationGeneAddPrice>添加({0})</RepopulationGeneAddPrice>
-  <!-- EN: {0} has been removed from {1}. -->
-  <RepopulationGeneRemovedMessage>{0}已从{1}身上移除。</RepopulationGeneRemovedMessage>
-  <!-- EN: {0} has been removed from the unborn. -->
-  <RepopulationGeneRemovedUnbornMessage>{0}已从胎儿身上移除。</RepopulationGeneRemovedUnbornMessage>
-  <!--原中文: '{0}已被添加至{1}。', 原英文: '{0} has been added to {PAWN}.' -> 新英文: '{0} has been added to {1}.',更新于2026-02-14-->
-  <!--EN: {0} has been added to {PAWN}.-->
-  <RepopulationGeneAddedMessage>{0} has been added to {1}.</RepopulationGeneAddedMessage>
-  <!-- EN: {0} has been added to the unborn. -->
-  <RepopulationGeneAddedUnbornMessage>{0}已被添加至胎儿。</RepopulationGeneAddedUnbornMessage>
-  <!-- EN: Succesful gene tampering -->
-  <RepopulationRitualGeneTamperingTitle>成功的基因修改</RepopulationRitualGeneTamperingTitle>
-  <!-- EN: \n\nYou currently have {0} Sacred Fervor to spend.\nChose a single gene you want to tamper with for {1}'s child. The genes of the mother can not be tampered with while she is with child. -->
-  <RepopulationRitualGeneTamperingDiaNodeText1>\n\n您目前有{0}点热忱圣点可用花费。\n选择一个您希望在{1}的子嗣上修改的基因。母亲的基因无法在怀孕中修改。</RepopulationRitualGeneTamperingDiaNodeText1>
-  <!-- EN: \n\nYou currently have {0} Sacred Fervor to spend.\nChose a single gene you want to tamper with for {1}. -->
-  <RepopulationRitualGeneTamperingDiaNodeText2>\n\n您目前有{0}点热忱圣点可用花费。\n选择一个您希望在{1}的子嗣上修改的基因。</RepopulationRitualGeneTamperingDiaNodeText2>
-  <!-- EN: Not a target -->
-  <RepopulationRitualReasonNotTarget>不是合理的目标</RepopulationRitualReasonNotTarget>
-  <!-- EN: That is an animal -->
-  <RepopulationRitualReasonAnimal>这是个动物</RepopulationRitualReasonAnimal>
-  <!-- EN: Target has no genes, and is not pregnant -->
-  <RepopulationRitualReasonNotPregnantAndHasNoGenes>目标没有基因，且没有怀孕</RepopulationRitualReasonNotPregnantAndHasNoGenes>
-  <!-- EN: Departing  -->
-  <RepopulationCommandActionLabelStart>离去</RepopulationCommandActionLabelStart>
-  <!-- EN: for silver -->
-  <RepopulationCommandActionLabelForSilver>为白银</RepopulationCommandActionLabelForSilver>
-  <!-- EN: for goodwill -->
-  <RepopulationCommandActionLabelForGoodwill>派系好感度</RepopulationCommandActionLabelForGoodwill>
-  <!-- EN: for fervor -->
-  <RepopulationCommandActionLabelForFervor>为热忱圣点</RepopulationCommandActionLabelForFervor>
-  <!-- EN: Told to leave automatically, you can change the settings here -->
-  <RepopulationCommandActionDesc>被自动告知离去，您可以在此修改设置</RepopulationCommandActionDesc>
-  <!-- EN: Yes, for silver -->
-  <RepopulationLetterDiaOptionForSilver>同意并收取白银</RepopulationLetterDiaOptionForSilver>
-  <!-- EN: Yes, for goodwill -->
-  <RepopulationLetterDiaOptionForGoodwill>同意并获取派系好感度</RepopulationLetterDiaOptionForGoodwill>
-  <!-- EN: Yes, for fervor -->
-  <RepopulationLetterDiaOptionForFervor>同意并获取热忱圣点</RepopulationLetterDiaOptionForFervor>
-  <!-- EN: Yes, for nothing in return -->
-  <RepopulationLetterDiaOptionNothing>同意且不求回报</RepopulationLetterDiaOptionNothing>
-  <!-- EN: No, ask when they arrive -->
-  <RepopulationLetterDiaOptionNoAsk>拒绝并询问他们何时到来</RepopulationLetterDiaOptionNoAsk>
-  <!-- EN: No, never -->
-  <RepopulationLetterDiaOptionNoNever>永不</RepopulationLetterDiaOptionNoNever>
-  <!-- EN: We made a choice when we declared our intent to repopulate -->
-  <RepopulationLetterDiaOptionDisabled>我们已在我们宣布我们人口复兴的意图时做出了选择</RepopulationLetterDiaOptionDisabled>
-  <!-- EN: Dead -->
-  <RepopulationLetterDiaOptionDead>死了</RepopulationLetterDiaOptionDead>
-  <!--翻译内容: '{0} has joined {1}. Your relations have improved by {2}.',新增于2026-02-14-->
+  <!--EN: Visitors from {2} have arrived. {0} has been fathered by {1}, one of their a members.\n\nWe tasked ourselves with repopulating this world, and they are now asking to take {0} with them.\n\n-->
+  <CB_AskToTakeLetterDescription>来自{2}的访客们已到来。{0}的父亲{1}，其中一位访客。\n\n我们将复兴此世界的人口作为目标，现在他们希望带{0}与他们一起离开。\n\n</CB_AskToTakeLetterDescription>
+  <!--EN: \n\nThe mother, {0}, {1}-->
+  <CB_AskToTakeLetterDescriptionMotherWarning>\n\nThe mother, {0}, {1}</CB_AskToTakeLetterDescriptionMotherWarning>
+  <!--EN: {0} has joined {1} and will leave when they do. Your relations have improved by {2}.-->
+  <CB_AskToTakeLetterFavourPaid>{0}已加入{1}且会随他们离开。您与他们的关系提升了{2}。</CB_AskToTakeLetterFavourPaid>
   <!--EN: {0} has joined {1}. Your relations have improved by {2}.-->
   <CB_AskToTakeLetterFavourPaid_CR>{0}已加入{1}。你们的关系已经改善了{2}。</CB_AskToTakeLetterFavourPaid_CR>
-  <!--翻译内容: '{0} has joined {1}. You have gained {2} fervor.',新增于2026-02-14-->
+  <!--EN: {0} has joined {1} and will leave when they do. You have gained {2} fervor.-->
+  <CB_AskToTakeLetterFervorPaid>{0}已加入{1}且会随他们离开。您获得了{2}热忱圣点。</CB_AskToTakeLetterFervorPaid>
   <!--EN: {0} has joined {1}. You have gained {2} fervor.-->
   <CB_AskToTakeLetterFervorPaid_CR>{0}已加入{1}。您已获得 {2} 点热情。</CB_AskToTakeLetterFervorPaid_CR>
-  <!--翻译内容: '{0} has joined {1}.',新增于2026-02-14-->
+  <!--EN: Visitors asking for {0}-->
+  <CB_AskToTakeLetterLabel>访客希望带走{0}</CB_AskToTakeLetterLabel>
+  <!--EN: {0} has joined {1} and will leave when they do.-->
+  <CB_AskToTakeLetterNothingPaid>{0}已加入{1}将会随他们离开。</CB_AskToTakeLetterNothingPaid>
   <!--EN: {0} has joined {1}.-->
   <CB_AskToTakeLetterNothingPaid_CR>{0}已加入{1}。</CB_AskToTakeLetterNothingPaid_CR>
-  <!--翻译内容: '{0} paid {1} for {2}. {2} has joined them.',新增于2026-02-14-->
+  <!--EN: {0} are upset by the refusal. Relations have lowered by {3}. They will ask for {1} after {2} days again.-->
+  <CB_AskToTakeLetterRefused>{0}对于拒绝行为表示失望。您与他们的关系降低了{3}。他们将在{2}天后再次索要{1}。</CB_AskToTakeLetterRefused>
+  <!--EN: {0} paid {1} for {2}. {2} has joined them, and will leave when they do.-->
+  <CB_AskToTakeLetterSilverPaid>{0}向{1}支付生养{2}的报酬。{2}已加入他们，且会随他们一起离开。</CB_AskToTakeLetterSilverPaid>
   <!--EN: {0} paid {1} for {2}. {2} has joined them.-->
   <CB_AskToTakeLetterSilverPaid_CR>{0}为{2}支付了{1}。 {2} 已加入他们。</CB_AskToTakeLetterSilverPaid_CR>
-  <!--翻译内容: 'Cannot send away: {0} is in a biosculpter pod',新增于2026-02-14-->
   <!--EN: Cannot send away: {0} is in a biosculpter pod-->
   <CB_CannotSendAwayBiosculpterPod>无法送走：{0} 位于生物雕塑容器中</CB_CannotSendAwayBiosculpterPod>
-  <!--翻译内容: 'Cannot send away: {0} is currentily in cryptosleep',新增于2026-02-14-->
   <!--EN: Cannot send away: {0} is currentily in cryptosleep-->
   <CB_CannotSendAwayCrypto>无法发送：{0} 当前处于加密睡眠状态</CB_CannotSendAwayCrypto>
-  <!--翻译内容: 'Cannot send away: {0} is not available',新增于2026-02-14-->
   <!--EN: Cannot send away: {0} is not available-->
   <CB_CannotSendAwayDespawned>无法送走：{0}不可用</CB_CannotSendAwayDespawned>
-  <!--翻译内容: 'Cannot send away: {0} is in a growth vat',新增于2026-02-14-->
   <!--EN: Cannot send away: {0} is in a growth vat-->
   <CB_CannotSendAwayGrowthVat>无法送走：{0} 在生长桶中</CB_CannotSendAwayGrowthVat>
-  <!--翻译内容: 'Cannot send away: {0} cannot move',新增于2026-02-14-->
+  <!--EN: Cannot send away: {0} are no longer here-->
+  <CB_CannotSendAwayLordLeft>{0}已不在殖民地</CB_CannotSendAwayLordLeft>
   <!--EN: Cannot send away: {0} cannot move-->
   <CB_CannotSendAwayNoMove>无法送走：{0}无法移动</CB_CannotSendAwayNoMove>
-  <!--翻译内容: 'Offer a pawn to this settlement and choose a reward.',新增于2026-02-14-->
   <!--EN: Offer a pawn to this settlement and choose a reward.-->
   <CB_Gizmo_CR_Desc>向该和解提供典当并选择奖励。</CB_Gizmo_CR_Desc>
-  <!--翻译内容: 'Offer pawn',新增于2026-02-14-->
   <!--EN: Offer pawn-->
   <CB_Gizmo_CR_Label>提供典当</CB_Gizmo_CR_Label>
-  <!--翻译内容: 'Offer pawn(s) to {0}',新增于2026-02-14-->
   <!--EN: Offer pawn(s) to {0}-->
   <CB_OfferPawns_Header>将典当提供给{0}</CB_OfferPawns_Header>
-  <!--翻译内容: 'Offer',新增于2026-02-14-->
   <!--EN: Offer-->
   <CB_OfferPawns_OfferButton>提供</CB_OfferPawns_OfferButton>
-  <!--翻译内容: '{0} unable to join {1}',新增于2026-02-14-->
   <!--EN: {0} unable to join {1}-->
   <CB_PawnMapHeld>{0}无法加入{1}</CB_PawnMapHeld>
-  <!--翻译内容: '{0} is unable to join {1} by themselves. Make sure {0} can move on their own, and press their "Depart Now" button.',新增于2026-02-14-->
   <!--EN: {0} is unable to join {1} by themselves. Make sure {0} can move on their own, and press their "Depart Now" button.-->
   <CB_PawnMapHeldDesc>{0} 无法自行加入 {1}。确保 {0} 可以自行移动，然后按“立即出发”键。按钮。</CB_PawnMapHeldDesc>
-  <!--翻译内容: 'Promised to: {0}',新增于2026-02-14-->
+  <!--EN: Visitors from {0} will ask if they can take {1} with them-->
+  <CB_SetToLeaveLetterAsk>来自{0}的访问者将会询问是否能带{1}与他们一起离开。</CB_SetToLeaveLetterAsk>
+  <!--EN: 
+	 {0} has been fathered by {1}, a member of {2}.\n\nWe tasked ourselves with repopulating this world, and have now to decide if the child should prepare to join the next group of {2} passing by on their own, or if they should ask first.
+	 \n\n-->
+  <CB_SetToLeaveLetterDescription>{0}的父亲{1}，来自{2}的一名访客。\n\n我们将复兴此世界的人口作为目标，现在我们要决定是否让此子在{2}再次来访时加入他们，或当他们向我们索要时。
+	 \n\n</CB_SetToLeaveLetterDescription>
+  <!--EN: \nWe strongly believe this to be our duty.-->
+  <CB_SetToLeaveLetterDescription0>\n我们坚定的认为这是我们的职责所在。</CB_SetToLeaveLetterDescription0>
+  <!--EN: \n{0} will appreciate our kindness.-->
+  <CB_SetToLeaveLetterDescription1>\n{0}将会对我们的好意表示感谢。</CB_SetToLeaveLetterDescription1>
+  <!--EN: \nUsually we are doing this for silver.-->
+  <CB_SetToLeaveLetterDescription2>\n我们一般是为了钱而这么做。</CB_SetToLeaveLetterDescription2>
+  <!--EN: {0}Repopulation-->
+  <CB_SetToLeaveLetterLabel>{0}人口复兴</CB_SetToLeaveLetterLabel>
+  <!--EN: {0} will automatically join the next group of visitors from {1}-->
+  <CB_SetToLeaveLetterYes>{0}将会自动加入下一个来自{1}的访问者。</CB_SetToLeaveLetterYes>
   <!--EN: Promised to: {0}-->
   <CB_UI_CR_Donor_Faction>承诺：{0}</CB_UI_CR_Donor_Faction>
-  <!--翻译内容: ' Promised to: No one',新增于2026-02-14-->
   <!--EN:  Promised to: No one-->
   <CB_UI_CR_Donor_Faction_None>承诺对象：没有人</CB_UI_CR_Donor_Faction_None>
-  <!--翻译内容: 'Pledged:',新增于2026-02-14-->
   <!--EN: Pledged:-->
   <CB_UI_CR_Promised>承诺:</CB_UI_CR_Promised>
-  <!--翻译内容: 'Depart now',新增于2026-02-14-->
+  <!--EN: Select to see all learned genes.-->
+  <RepopulationActionDesc>查看所有已获取基因。</RepopulationActionDesc>
+  <!--EN: These genes have been learned by {0}.\n \nAdding genes with Gene Tampering requires {1} fervor, plus an additional {2} fervor per level of complexity of the gene.\n \nRemoving a gene requires {3} fervor, plus an additional {4} fervor per level of complexity of the gene \n \nTargeting an unborn halfs the cost.-->
+  <RepopulationActionDiaNode>These genes have been learned by {0}.\n \nAdding genes with Gene Tampering requires {1} fervor, plus an additional {2} fervor per level of complexity of the gene.\n \nRemoving a gene requires {3} fervor, plus an additional {4} fervor per level of complexity of the gene \n \nTargeting an unborn halfs the cost.</RepopulationActionDiaNode>
+  <!--EN: Fervor is required to learn a gene-->
+  <RepopulationActionDisabled>需要热忱圣点来获取基因</RepopulationActionDisabled>
+  <!--EN: Learned genes-->
+  <RepopulationActionLabel>已获取基因</RepopulationActionLabel>
+  <!--EN: Told to leave automatically, you can change the settings here-->
+  <RepopulationCommandActionDesc>被自动告知离去，您可以在此修改设置</RepopulationCommandActionDesc>
   <!--EN: Depart now-->
   <RepopulationCommandActionHandoverNow>立即出发</RepopulationCommandActionHandoverNow>
-  <!--翻译内容: 'Try to join already present caravan',新增于2026-02-14-->
   <!--EN: Try to join already present caravan-->
   <RepopulationCommandActionHandoverNowDesc>尝试加入已有的商队</RepopulationCommandActionHandoverNowDesc>
+  <!--EN: for fervor-->
+  <RepopulationCommandActionLabelForFervor>为热忱圣点</RepopulationCommandActionLabelForFervor>
+  <!--EN: for goodwill-->
+  <RepopulationCommandActionLabelForGoodwill>派系好感度</RepopulationCommandActionLabelForGoodwill>
+  <!--EN: for silver-->
+  <RepopulationCommandActionLabelForSilver>为白银</RepopulationCommandActionLabelForSilver>
+  <!--EN: Departing-->
+  <RepopulationCommandActionLabelStart>离去</RepopulationCommandActionLabelStart>
+  <!--EN: Available genes-->
+  <RepopulationFloatMenuTitle>可用基因</RepopulationFloatMenuTitle>
+  <!--EN: Genes-->
+  <RepopulationFloatMenuTitle2>基因</RepopulationFloatMenuTitle2>
+  <!--EN: Add ({0})-->
+  <RepopulationGeneAddPrice>添加({0})</RepopulationGeneAddPrice>
+  <!--EN: {0} has been added to {1}.-->
+  <RepopulationGeneAddedMessage>{0} has been added to {1}.</RepopulationGeneAddedMessage>
+  <!--EN: {0} has been added to the unborn.-->
+  <RepopulationGeneAddedUnbornMessage>{0}已被添加至胎儿。</RepopulationGeneAddedUnbornMessage>
+  <!--EN: Fervor: {0}-->
+  <RepopulationGeneFervor>热忱圣点：{0}</RepopulationGeneFervor>
+  <!--EN: Remove ({0})-->
+  <RepopulationGeneRemovePrice>移除({0})</RepopulationGeneRemovePrice>
+  <!--EN: {0} has been removed from {1}.-->
+  <RepopulationGeneRemovedMessage>{0}已从{1}身上移除。</RepopulationGeneRemovedMessage>
+  <!--EN: {0} has been removed from the unborn.-->
+  <RepopulationGeneRemovedUnbornMessage>{0}已从胎儿身上移除。</RepopulationGeneRemovedUnbornMessage>
+  <!--EN: Dead-->
+  <RepopulationLetterDiaOptionDead>死了</RepopulationLetterDiaOptionDead>
+  <!--EN: We made a choice when we declared our intent to repopulate-->
+  <RepopulationLetterDiaOptionDisabled>我们已在我们宣布我们人口复兴的意图时做出了选择</RepopulationLetterDiaOptionDisabled>
+  <!--EN: Yes, for fervor-->
+  <RepopulationLetterDiaOptionForFervor>同意并获取热忱圣点</RepopulationLetterDiaOptionForFervor>
+  <!--EN: Yes, for goodwill-->
+  <RepopulationLetterDiaOptionForGoodwill>同意并获取派系好感度</RepopulationLetterDiaOptionForGoodwill>
+  <!--EN: Yes, for silver-->
+  <RepopulationLetterDiaOptionForSilver>同意并收取白银</RepopulationLetterDiaOptionForSilver>
+  <!--EN: No, ask when they arrive-->
+  <RepopulationLetterDiaOptionNoAsk>拒绝并询问他们何时到来</RepopulationLetterDiaOptionNoAsk>
+  <!--EN: No, never-->
+  <RepopulationLetterDiaOptionNoNever>永不</RepopulationLetterDiaOptionNoNever>
+  <!--EN: Yes, for nothing in return-->
+  <RepopulationLetterDiaOptionNothing>同意且不求回报</RepopulationLetterDiaOptionNothing>
+  <!--EN: No bed available.-->
+  <RepopulationNoBedAvaliable>没有空闲床铺</RepopulationNoBedAvaliable>
+  <!--EN: No genes available on target-->
+  <RepopulationNoGenesAvaliable>目标没有可用的基因</RepopulationNoGenesAvaliable>
+  <!--EN: No genes can be taken.-->
+  <RepopulationNoGenesCanTaken>没有可提取的基因</RepopulationNoGenesCanTaken>
+  <!--EN: No new genes to give.-->
+  <RepopulationNoNewGenes>没有可给予的基因</RepopulationNoNewGenes>
+  <!--EN: {0} can not walk on their own.-->
+  <RepopulationOfferCanNotWalk>{0}无法自行走路。</RepopulationOfferCanNotWalk>
+  <!--EN: \n\n{0} is expected to be given to {1}.\nThey will not appreciate us handing their relative to someone else.-->
+  <RepopulationOfferDiaNode>\n\n{0}已被预定赠予{1}。\n他们将不会希望我们将其子嗣赠与他人。</RepopulationOfferDiaNode>
+  <!--EN: Offering to wrong faction-->
+  <RepopulationOfferDiaNodeTitle>给错派系了</RepopulationOfferDiaNodeTitle>
+  <!--EN: Better not-->
+  <RepopulationOfferDiaOptionNo>还是算了</RepopulationOfferDiaOptionNo>
+  <!--EN: Do it anyways-->
+  <RepopulationOfferDiaOptionYes>给就完了</RepopulationOfferDiaOptionYes>
+  <!--EN: {0} is not one of yours.-->
+  <RepopulationOfferIsNotOne>{0}不是你的人。</RepopulationOfferIsNotOne>
+  <!--EN: Accept for {0} fervor-->
+  <RepopulationOfferLetterAcceptForFervor>接受并收取{0}热忱圣点</RepopulationOfferLetterAcceptForFervor>
+  <!--EN: Accept for {0} goodwill-->
+  <RepopulationOfferLetterAcceptForGoodwill>接受并提升{0}点派系好感度</RepopulationOfferLetterAcceptForGoodwill>
+  <!--EN: Accept for {0} silver-->
+  <RepopulationOfferLetterAcceptForSilver>接受并收取{0}白银</RepopulationOfferLetterAcceptForSilver>
+  <!--EN: Accept for nothing in return-->
+  <RepopulationOfferLetterAcceptNothing>接受且不求回报</RepopulationOfferLetterAcceptNothing>
+  <!--EN: Refuse-->
+  <RepopulationOfferLetterAcceptRefuse>拒绝</RepopulationOfferLetterAcceptRefuse>
+  <!--EN: \n\nWe are offering {0} to {1}\n\nAs {0} is not one of theirs, they consider this a favour to us. Due to our relationship with them ({2}), and {3}'s personal opinion ({4}) of {0}, they are only offering {5} of the usual reward.-->
+  <RepopulationOfferLetterText1>\n\n我们将{0}赠予{1}\n\n但{0}并非其子嗣，他们认为收下此人是在帮助我们。由于我们与其派系的关系({2})及{3}对{0}的个人意见({4})，他们只给予我们{5}而非正常的回报。</RepopulationOfferLetterText1>
+  <!--EN: \n\nWe are offering {0} to {1}\n\nAs {0} is one of theirs, they offer us the usual reward.-->
+  <RepopulationOfferLetterText2>\n\n我们将{0}赠予{1}\n\n且{0}是其子嗣，他们将给予我们正常的回报。</RepopulationOfferLetterText2>
+  <!--EN: Offering {0}-->
+  <RepopulationOfferLetterTitle>赠予{0}</RepopulationOfferLetterTitle>
+  <!--EN: \n\nYou currently have {0} Sacred Fervor to spend.\nChose a single gene you want to tamper with for {1}'s child. The genes of the mother can not be tampered with while she is with child.-->
+  <RepopulationRitualGeneTamperingDiaNodeText1>\n\n您目前有{0}点热忱圣点可用花费。\n选择一个您希望在{1}的子嗣上修改的基因。母亲的基因无法在怀孕中修改。</RepopulationRitualGeneTamperingDiaNodeText1>
+  <!--EN: \n\nYou currently have {0} Sacred Fervor to spend.\nChose a single gene you want to tamper with for {1}.-->
+  <RepopulationRitualGeneTamperingDiaNodeText2>\n\n您目前有{0}点热忱圣点可用花费。\n选择一个您希望在{1}的子嗣上修改的基因。</RepopulationRitualGeneTamperingDiaNodeText2>
+  <!--EN: Succesful gene tampering-->
+  <RepopulationRitualGeneTamperingTitle>成功的基因修改</RepopulationRitualGeneTamperingTitle>
+  <!--EN: That is an animal-->
+  <RepopulationRitualReasonAnimal>这是个动物</RepopulationRitualReasonAnimal>
+  <!--EN: Target has no genes, and is not pregnant-->
+  <RepopulationRitualReasonNotPregnantAndHasNoGenes>目标没有基因，且没有怀孕</RepopulationRitualReasonNotPregnantAndHasNoGenes>
+  <!--EN: Not a target-->
+  <RepopulationRitualReasonNotTarget>不是合理的目标</RepopulationRitualReasonNotTarget>
+  <!--EN: Select offering-->
+  <RepopulationSelectOffering>选择赠予</RepopulationSelectOffering>
+  <!--EN: Select target-->
+  <RepopulationSelectTarget>选择目标</RepopulationSelectTarget>
+  <!--EN: Select a visitor-->
+  <RepopulationSelectVisitor>选择访客</RepopulationSelectVisitor>
+  <!--EN: Target not interested in {0}-->
+  <RepopulationTargetnotInterested>目标对{0}不感兴趣</RepopulationTargetnotInterested>
+  <!--EN: {0} | Complexity: {1} | Metabolism: {2}-->
+  <RepopulationValidGenesDiaOption>{0} | 复杂度: {1} | 代谢速度: {2}</RepopulationValidGenesDiaOption>
+  <!--EN: Add genes-->
+  <RepopulationWidgetAddGeneTitle>添加基因</RepopulationWidgetAddGeneTitle>
+  <!--EN: Remove genes-->
+  <RepopulationWidgetRemoveGeneTitle>移除基因</RepopulationWidgetRemoveGeneTitle>
+  <!--EN: Have {0} leave automatically?-->
+  <b>让{0}自动离开?</b>
 </LanguageData>

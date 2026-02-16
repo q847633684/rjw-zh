@@ -43,6 +43,8 @@
 		<li IfModActive="abscon.privacy.please">16/privacy-please</li>
 		<!-- RJW 妓院殖民地 完成-->
 		<li IfModActive="calamabanana.rjw.brothelcolony">16/rjw-brothelcolony</li>
+    	<li IfModActive="Ludeon.RimWorld.Ideology">16/rjw-brothelcolony/Ideology/1.6</li>
+    	<li IfModActive="Ludeon.RimWorld.Biotech">16/rjw-brothelcolony/Biotech/1.6</li>
 		<!-- RJW 扩展 完成-->
 		<li IfModActive="rimworld.ekss.rjwex">16/rjw-ex</li>
 		<!-- RJW 基因 完成-->

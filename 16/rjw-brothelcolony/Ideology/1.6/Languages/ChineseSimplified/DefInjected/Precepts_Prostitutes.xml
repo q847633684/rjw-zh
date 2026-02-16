@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Mandatory whores-->
+  <CB_Prositutes_Issue.label>强制卖淫</CB_Prositutes_Issue.label>
+  <!--EN: Everyone is required to be a prostitute-->
+  <CB_Prostitute_Colonist.description>所有人都必须成为妓女</CB_Prostitute_Colonist.description>
+  <!--EN: Everyone-->
+  <CB_Prostitute_Colonist.label>所有人</CB_Prostitute_Colonist.label>
+  <!--EN: Female colonists, slaves and prisoners are required to be prostitutes-->
+  <CB_Prostitute_Colonist_Female.description>女性殖民者、奴隶和囚犯必须成为妓女</CB_Prostitute_Colonist_Female.description>
+  <!--EN: Females-->
+  <CB_Prostitute_Colonist_Female.label>女性</CB_Prostitute_Colonist_Female.label>
+  <!--EN: Male colonists, slaves and prisoners are required to be prostitutes-->
+  <CB_Prostitute_Colonist_Male.description>男性殖民者、奴隶和囚犯必须成为妓女</CB_Prostitute_Colonist_Male.description>
+  <!--EN: Males-->
+  <CB_Prostitute_Colonist_Male.label>男性</CB_Prostitute_Colonist_Male.label>
+  <!--EN: No one is required to be a prostitute-->
+  <CB_Prostitute_None.description>没有人必须成为妓女</CB_Prostitute_None.description>
+  <!--EN: No one-->
+  <CB_Prostitute_None.label>没有人</CB_Prostitute_None.label>
+  <!--EN: Prisoners are required be prostitutes-->
+  <CB_Prostitute_Prisoners.description>囚犯必须成为妓女</CB_Prostitute_Prisoners.description>
+  <!--EN: Prisoners-->
+  <CB_Prostitute_Prisoners.label>囚犯</CB_Prostitute_Prisoners.label>
+  <!--EN: Female prisoners are required to be prostitutes-->
+  <CB_Prostitute_Prisoners_Female.description>女性囚犯必须成为妓女</CB_Prostitute_Prisoners_Female.description>
+  <!--EN: Female prisoners-->
+  <CB_Prostitute_Prisoners_Female.label>女性囚犯</CB_Prostitute_Prisoners_Female.label>
+  <!--EN: Male prisoners are required to be prostitutes-->
+  <CB_Prostitute_Prisoners_Male.description>男性囚犯必须成为妓女</CB_Prostitute_Prisoners_Male.description>
+  <!--EN: Male prisoners-->
+  <CB_Prostitute_Prisoners_Male.label>男性囚犯</CB_Prostitute_Prisoners_Male.label>
+  <!--EN: Slaves and prisoners are required to be prostitutes-->
+  <CB_Prostitute_Slave.description>奴隶和囚犯必须成为妓女</CB_Prostitute_Slave.description>
+  <!--EN: Slaves and prisoners-->
+  <CB_Prostitute_Slave.label>奴隶和囚犯</CB_Prostitute_Slave.label>
+  <!--EN: Female slaves and prisoners are required to be prostitutes-->
+  <CB_Prostitute_Slave_Female.description>女性奴隶和囚犯必须成为妓女</CB_Prostitute_Slave_Female.description>
+  <!--EN: Female slaves and prisoners-->
+  <CB_Prostitute_Slave_Female.label>女性奴隶和囚犯</CB_Prostitute_Slave_Female.label>
+  <!--EN: Male slaves and prisoners are required to be prostitutes-->
+  <CB_Prostitute_Slave_Male.description>男性奴隶和囚犯必须成为妓女</CB_Prostitute_Slave_Male.description>
+  <!--EN: Male slaves and prisoners-->
+  <CB_Prostitute_Slave_Male.label>男性奴隶和囚犯</CB_Prostitute_Slave_Male.label>
+</LanguageData>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!-- As usual stolen from CnP -->
-  <!--重复key，需删除-->
-  <RJW_Contraceptive.label>避孕药</RJW_Contraceptive.label>
-  <!--重复key，需删除-->
-  <RJW_Contraceptive.description>严重降低生育能力。</RJW_Contraceptive.description>
-</LanguageData>

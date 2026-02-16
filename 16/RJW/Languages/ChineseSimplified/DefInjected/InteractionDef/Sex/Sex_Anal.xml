@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: anal-->
+  <Sex_Anal.label>肛交</Sex_Anal.label>
+  <!--EN: r_logentry->Had anal sex with [RECIPIENT_nameDef].-->
+  <Sex_Anal.logRulesInitiator.rulesStrings.0>r_logentry-&gt;与[RECIPIENT_nameDef]发生肛交。</Sex_Anal.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Had anal sex with [INITIATOR_nameDef].-->
+  <Sex_Anal.logRulesRecipient.rulesStrings.0>r_logentry-&gt;与[INITIATOR_nameDef]发生肛交。</Sex_Anal.logRulesRecipient.rulesStrings.0>
+  <!--EN: Have anal sex-->
+  <Sex_Anal.modExtensions.0.RMBLabel>与其肛交</Sex_Anal.modExtensions.0.RMBLabel>
+</LanguageData>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: A anus.-->
+  <Anus.description>一个切下来的人类肛门。</Anus.description>
+  <!--EN: anus-->
+  <Anus.label>人类肛门</Anus.label>
+  <!--EN: an anus-->
+  <Anus.labelNoun>人类肛门</Anus.labelNoun>
+  <!--EN: Micro-->
+  <Anus.stages.0.label>微型</Anus.stages.0.label>
+  <!--EN: Tight-->
+  <Anus.stages.1.label>紧致</Anus.stages.1.label>
+  <!--EN: Average-->
+  <Anus.stages.2.label>平均</Anus.stages.2.label>
+  <!--EN: Accommodating-->
+  <Anus.stages.3.label>松弛</Anus.stages.3.label>
+  <!--EN: Cavernous-->
+  <Anus.stages.4.label>敞口</Anus.stages.4.label>
+  <!--EN: Abyssal-->
+  <Anus.stages.5.label>深渊</Anus.stages.5.label>
+  <!--EN: A pair of breasts.-->
+  <Breasts.description>一对切下来的人类乳房。</Breasts.description>
+  <!--EN: breasts-->
+  <Breasts.label>人类乳房</Breasts.label>
+  <!--EN: a pair of breasts-->
+  <Breasts.labelNoun>人类乳房</Breasts.labelNoun>
+  <!--EN: Nipples-->
+  <Breasts.stages.0.label>飞机场</Breasts.stages.0.label>
+  <!--EN: Tiny-->
+  <Breasts.stages.1.label>很小</Breasts.stages.1.label>
+  <!--EN: Titanic-->
+  <Breasts.stages.10.label>泰坦尼克</Breasts.stages.10.label>
+  <!--EN: Astronomical-->
+  <Breasts.stages.11.label>天文级别</Breasts.stages.11.label>
+  <!--EN: Small-->
+  <Breasts.stages.2.label>小</Breasts.stages.2.label>
+  <!--EN: Average-->
+  <Breasts.stages.3.label>平均</Breasts.stages.3.label>
+  <!--EN: Large-->
+  <Breasts.stages.4.label>大</Breasts.stages.4.label>
+  <!--EN: Huge-->
+  <Breasts.stages.5.label>巨大</Breasts.stages.5.label>
+  <!--EN: Enormous-->
+  <Breasts.stages.6.label>超大</Breasts.stages.6.label>
+  <!--EN: Massive-->
+  <Breasts.stages.7.label>超巨大</Breasts.stages.7.label>
+  <!--EN: Gargantuan-->
+  <Breasts.stages.8.label>巨大怪兽</Breasts.stages.8.label>
+  <!--EN: Colossal-->
+  <Breasts.stages.9.label>超巨大建筑</Breasts.stages.9.label>
+  <!--EN: a flat chest without any nipples where there should be.-->
+  <FeaturelessChest.description>平滑，无特征的胸部。主要在非哺乳动物身上。</FeaturelessChest.description>
+  <!--EN: featureless chest-->
+  <FeaturelessChest.label>平滑胸部</FeaturelessChest.label>
+  <!--EN: a featureless chest-->
+  <FeaturelessChest.labelNoun>平滑胸部</FeaturelessChest.labelNoun>
+  <!--EN: A penis.-->
+  <Penis.description>一根切下来的人类阴茎。</Penis.description>
+  <!--EN: penis-->
+  <Penis.label>人类阴茎</Penis.label>
+  <!--EN: a penis-->
+  <Penis.labelNoun>人类阴茎</Penis.labelNoun>
+  <!--EN: Micro-->
+  <Penis.stages.0.label>牙签</Penis.stages.0.label>
+  <!--EN: Small-->
+  <Penis.stages.1.label>很小</Penis.stages.1.label>
+  <!--EN: Average-->
+  <Penis.stages.2.label>平均</Penis.stages.2.label>
+  <!--EN: Large-->
+  <Penis.stages.3.label>大</Penis.stages.3.label>
+  <!--EN: Huge-->
+  <Penis.stages.4.label>巨大</Penis.stages.4.label>
+  <!--EN: Towering-->
+  <Penis.stages.5.label>超大</Penis.stages.5.label>
+  <!--EN: A vagina.-->
+  <Vagina.description>一个切下来的人类阴道。</Vagina.description>
+  <!--EN: vagina-->
+  <Vagina.label>人类阴道</Vagina.label>
+  <!--EN: a vagina-->
+  <Vagina.labelNoun>人类阴道</Vagina.labelNoun>
+  <!--EN: Micro-->
+  <Vagina.stages.0.label>微型</Vagina.stages.0.label>
+  <!--EN: Tight-->
+  <Vagina.stages.1.label>紧致</Vagina.stages.1.label>
+  <!--EN: Average-->
+  <Vagina.stages.2.label>平均</Vagina.stages.2.label>
+  <!--EN: Accommodating-->
+  <Vagina.stages.3.label>松弛</Vagina.stages.3.label>
+  <!--EN: Cavernous-->
+  <Vagina.stages.4.label>敞口</Vagina.stages.4.label>
+  <!--EN: Abyssal-->
+  <Vagina.stages.5.label>深渊</Vagina.stages.5.label>
+</LanguageData>

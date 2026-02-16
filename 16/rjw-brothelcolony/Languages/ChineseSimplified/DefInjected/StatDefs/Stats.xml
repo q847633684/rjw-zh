@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--翻译内容: 'Mostly used by other mods to manipulate the final price of whoring.',新增于2026-02-14-->
   <!--EN: Mostly used by other mods to manipulate the final price of whoring.-->
   <WhoringPriceOffset.description>主要被其他模组用来操纵嫖娼的最终价格。</WhoringPriceOffset.description>
-  <!--翻译内容: 'Whoring Price Offset',新增于2026-02-14-->
   <!--EN: Whoring Price Offset-->
   <WhoringPriceOffset.label>嫖娼价格偏移</WhoringPriceOffset.label>
 </LanguageData>

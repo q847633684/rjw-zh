@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: fingering-->
+  <Rape_Fingering.label>强迫指交</Rape_Fingering.label>
+  <!--EN: r_logentry->Forced [RECIPIENT_nameDef] to give fingering.-->
+  <Rape_Fingering.logRulesInitiator.rulesStrings.0>r_logentry-&gt;用[RECIPIENT_nameDef]的手指蹭着自己的骆驼趾。</Rape_Fingering.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Was forced to finger [INITIATOR_nameDef].-->
+  <Rape_Fingering.logRulesRecipient.rulesStrings.0>r_logentry-&gt;被[INITIATOR_nameDef]用骆驼趾蹭着手指。</Rape_Fingering.logRulesRecipient.rulesStrings.0>
+  <!--EN: Get fingered-->
+  <Rape_Fingering.modExtensions.0.RMBLabel>要求指交</Rape_Fingering.modExtensions.0.RMBLabel>
+</LanguageData>

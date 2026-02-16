@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Designate animal for breeding. The colony animals will try to breed this animal.-->
+  <RJW_BreedAnimal.headerTip>Designate animal for breeding. The colony animals will try to breed this animal.</RJW_BreedAnimal.headerTip>
+  <!--EN: Designate pawn for breeding. The colony animals will try to breed this pawn.-->
+  <RJW_BreedHumanlike.headerTip>Designate pawn for breeding. The colony animals will try to breed this pawn.</RJW_BreedHumanlike.headerTip>
+  <!--EN: Designate animal as a breeder. These animals will try to breed pawns desiganted for breeding.-->
+  <RJW_BreederAnimal.headerTip>Designate animal as a breeder. These animals will try to breed pawns desiganted for breeding.</RJW_BreederAnimal.headerTip>
+  <!--EN: Designate pawn as a comfort pawn. This pawn will then be used by others to relieve their pent-up needs.-->
+  <RJW_Comfort.headerTip>Designate pawn as a comfort pawn. This pawn will then be used by others to relieve their pent-up needs.</RJW_Comfort.headerTip>
+  <!--EN: Designate pawn as the <color=yellow>Hero</color>. A <color=yellow>Hero</color> can be directly ordered to do lovin' with other pawns.-->
+  <RJW_Hero.headerTip>将角色指定为</RJW_Hero.headerTip>
+  <!--EN: Designate pawn as a prostitute. Prostitutes provide service to guests for silver.-->
+  <RJW_Whore.headerTip>Designate pawn as a prostitute. Prostitutes provide service to guests for silver.</RJW_Whore.headerTip>
+</LanguageData>

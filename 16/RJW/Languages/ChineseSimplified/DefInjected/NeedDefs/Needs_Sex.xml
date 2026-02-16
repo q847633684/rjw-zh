@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Represents fulfillment of sexual need, which is gained by doing sexual related activities and declined by time & turn-ons.-->
+  <Sex.description>代表对性需求的满足程度，可通过性相关活动提升，并随时间流逝而下降。</Sex.description>
+  <!--EN: sex-->
+  <Sex.label>性需求</Sex.label>
+</LanguageData>

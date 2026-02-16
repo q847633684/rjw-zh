@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: beakjob-->
+  <Sex_Reverse_Beakjob.label>喙交</Sex_Reverse_Beakjob.label>
+  <!--EN: r_logentry->Gave a beakjob to [RECIPIENT_nameDef].-->
+  <Sex_Reverse_Beakjob.logRulesInitiator.rulesStrings.0>r_logentry-&gt;喙交了[RECIPIENT_nameDef]的阴茎。</Sex_Reverse_Beakjob.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Received a beakjob from [INITIATOR_nameDef].-->
+  <Sex_Reverse_Beakjob.logRulesRecipient.rulesStrings.0>r_logentry-&gt;让[INITIATOR_nameDef]喙交了阴茎。</Sex_Reverse_Beakjob.logRulesRecipient.rulesStrings.0>
+  <!--EN: Give beakjob-->
+  <Sex_Reverse_Beakjob.modExtensions.0.RMBLabel>为其喙交</Sex_Reverse_Beakjob.modExtensions.0.RMBLabel>
+</LanguageData>

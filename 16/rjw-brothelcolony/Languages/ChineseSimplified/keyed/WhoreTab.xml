@@ -1,51 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--原中文: '白银', 原英文: '无' -> 新英文: 'Silver',更新于2026-02-14-->
-  <!--EN: Silver-->
-  <WhoringPaymentTypeSilver>白银</WhoringPaymentTypeSilver>
-  <!--原中文: '热忱圣点', 原英文: '无' -> 新英文: 'Fervor',更新于2026-02-14-->
-  <!--EN: Fervor-->
-  <WhoringPaymentTypeFervor>热忱圣点</WhoringPaymentTypeFervor>
-  <!--原中文: '派系好感度', 原英文: '无' -> 新英文: 'Goodwill',更新于2026-02-14-->
-  <!--EN: Goodwill-->
-  <WhoringPaymentTypeGoodwill>派系好感度</WhoringPaymentTypeGoodwill>
-  <!--原中文: '无', 原英文: '无' -> 新英文: 'Nothing',更新于2026-02-14-->
-  <!--EN: Nothing-->
-  <WhoringPaymentTypeNothing>无</WhoringPaymentTypeNothing>
-  <!--原中文: '正常', 原英文: '无' -> 新英文: 'Normal',更新于2026-02-14-->
-  <!--EN: Normal-->
-  <WhoringPregnancyTypeNormal>正常</WhoringPregnancyTypeNormal>
-  <!--原中文: '避免', 原英文: '无' -> 新英文: 'Avoid',更新于2026-02-14-->
-  <!--EN: Avoid-->
-  <WhoringPregnancyTypeAvoid>避免</WhoringPregnancyTypeAvoid>
-  <!--原中文: '尝试', 原英文: '无' -> 新英文: 'Try',更新于2026-02-14-->
-  <!--EN: Try-->
-  <WhoringPregnancyTypeTry>尝试</WhoringPregnancyTypeTry>
-  <!--原中文: '正常', 原英文: '无' -> 新英文: 'Normal',更新于2026-02-14-->
-  <!--EN: Normal-->
-  <WhoringCondomTypeNormal>正常</WhoringCondomTypeNormal>
-  <!--原中文: '戴套', 原英文: '无' -> 新英文: 'Always',更新于2026-02-14-->
   <!--EN: Always-->
   <WhoringCondomTypeAlways>戴套</WhoringCondomTypeAlways>
-  <!--原中文: '中出', 原英文: '无' -> 新英文: 'Never',更新于2026-02-14-->
   <!--EN: Never-->
   <WhoringCondomTypeNever>中出</WhoringCondomTypeNever>
-  <!--原中文: '  基础: {0}\n  特性: {1}\n  技能点: {2}', 原英文: '无' -> 新英文: '  Base Price: {0}\n  Traits and Beauty: {1}\n  Skill: {2}',更新于2026-02-14-->
-  <!--EN:   Base Price: {0}\n  Traits and Beauty: {1}\n  Skill: {2}-->
-  <WhoringTipPrice>  基础: {0}\n  特性: {1}\n  技能点: {2}</WhoringTipPrice>
-  <!--原中文: '  性别: {0}\n  年龄: {1}\n  伤口: {2}', 原英文: '无' -> 新英文: '  Gender: {0}\n  Age: {1}\n  Injuries: {2}',更新于2026-02-14-->
+  <!--EN: Normal-->
+  <WhoringCondomTypeNormal>正常</WhoringCondomTypeNormal>
+  <!--EN: Fervor-->
+  <WhoringPaymentTypeFervor>热忱圣点</WhoringPaymentTypeFervor>
+  <!--EN: Goodwill-->
+  <WhoringPaymentTypeGoodwill>派系好感度</WhoringPaymentTypeGoodwill>
+  <!--EN: Nothing-->
+  <WhoringPaymentTypeNothing>无</WhoringPaymentTypeNothing>
+  <!--EN: Silver-->
+  <WhoringPaymentTypeSilver>白银</WhoringPaymentTypeSilver>
+  <!--EN: Avoid-->
+  <WhoringPregnancyTypeAvoid>避免</WhoringPregnancyTypeAvoid>
+  <!--EN: Normal-->
+  <WhoringPregnancyTypeNormal>正常</WhoringPregnancyTypeNormal>
+  <!--EN: Try-->
+  <WhoringPregnancyTypeTry>尝试</WhoringPregnancyTypeTry>
   <!--EN:   Gender: {0}\n  Age: {1}\n  Injuries: {2}-->
-  <WhoringTipBoth>  性别: {0}\n  年龄: {1}\n  伤口: {2}</WhoringTipBoth>
-  <!--原中文: '最低收入:\n{0}\n最高收入:\n{1}\n获取:\n{2}\n\n受青楼床铺品质影响。', 原英文: '无' -> 新英文: 'Min:\n{0}\nMax:\n{1}\nBoth:\n{2}\n\nAffected by quality of whoring bed',更新于2026-02-14-->
-  <!--EN: Min:\n{0}\nMax:\n{1}\nBoth:\n{2}\n\nAffected by quality of whoring bed-->
-  <WhoringTipPaymentTypeSilver>最低收入:\n{0}\n最高收入:\n{1}\n获取:\n{2}\n\n受青楼床铺品质影响。</WhoringTipPaymentTypeSilver>
-  <!--原中文: '获得{0}点派系好感度，\n\n受青楼床铺品质影响。', 原英文: '无' -> 新英文: 'Raise Goodwill by {0}\n\nAffected by quality of whoring bed.',更新于2026-02-14-->
-  <!--EN: Raise Goodwill by {0}\n\nAffected by quality of whoring bed.-->
-  <WhoringTipPaymentTypeGoodwill>获得{0}点派系好感度，\n\n受青楼床铺品质影响。</WhoringTipPaymentTypeGoodwill>
-  <!--原中文: '获得{0}点热忱圣点，\n\n受青楼床铺品质影响。', 原英文: '无' -> 新英文: 'Earn {0} sacred fervor.\n\nAffected by quality of whoring bed.',更新于2026-02-14-->
-  <!--EN: Earn {0} sacred fervor.\n\nAffected by quality of whoring bed.-->
-  <WhoringTipPaymentTypeFervor>获得{0}点热忱圣点，\n\n受青楼床铺品质影响。</WhoringTipPaymentTypeFervor>
-  <!--原中文: '没有付钱？', 原英文: '无' -> 新英文: 'No payment?',更新于2026-02-14-->
+  <WhoringTipBoth>性别: {0}\n  年龄: {1}\n  伤口: {2}</WhoringTipBoth>
   <!--EN: No payment?-->
   <WhoringTipNoPayment>没有付钱？</WhoringTipNoPayment>
+  <!--EN: Earn {0} sacred fervor.\n\nAffected by quality of whoring bed.-->
+  <WhoringTipPaymentTypeFervor>获得{0}点热忱圣点，\n\n受青楼床铺品质影响。</WhoringTipPaymentTypeFervor>
+  <!--EN: Raise Goodwill by {0}\n\nAffected by quality of whoring bed.-->
+  <WhoringTipPaymentTypeGoodwill>获得{0}点派系好感度，\n\n受青楼床铺品质影响。</WhoringTipPaymentTypeGoodwill>
+  <!--EN: Min:\n{0}\nMax:\n{1}\nBoth:\n{2}\n\nAffected by quality of whoring bed-->
+  <WhoringTipPaymentTypeSilver>最低收入:\n{0}\n最高收入:\n{1}\n获取:\n{2}\n\n受青楼床铺品质影响。</WhoringTipPaymentTypeSilver>
+  <!--EN:   Base Price: {0}\n  Traits and Beauty: {1}\n  Skill: {2}-->
+  <WhoringTipPrice>基础: {0}\n  特性: {1}\n  技能点: {2}</WhoringTipPrice>
 </LanguageData>

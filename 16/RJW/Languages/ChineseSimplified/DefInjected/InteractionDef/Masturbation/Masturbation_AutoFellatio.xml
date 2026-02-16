@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: masturbation_autofellatio-->
+  <Masturbation_AutoFellatio.label>自我发电</Masturbation_AutoFellatio.label>
+  <!--EN: r_logentry->Masturbated.-->
+  <Masturbation_AutoFellatio.logRulesInitiator.rulesStrings.0>r_logentry-&gt;自我发电。</Masturbation_AutoFellatio.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Masturbated.-->
+  <Masturbation_AutoFellatio.logRulesRecipient.rulesStrings.0>r_logentry-&gt;自我发电。</Masturbation_AutoFellatio.logRulesRecipient.rulesStrings.0>
+  <!--EN: AutoFellatio-->
+  <Masturbation_AutoFellatio.modExtensions.0.RMBLabel>自我发电</Masturbation_AutoFellatio.modExtensions.0.RMBLabel>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: cunnilingus-->
+  <Sex_Cunnilingus.label>舔阴</Sex_Cunnilingus.label>
+  <!--EN: r_logentry->Received cunnilingus from [RECIPIENT_nameDef].-->
+  <Sex_Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry-&gt;让[RECIPIENT_nameDef]舔了阴道。</Sex_Cunnilingus.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Gave cunnilingus to [INITIATOR_nameDef].-->
+  <Sex_Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry-&gt;舔了[INITIATOR_nameDef]的阴道。</Sex_Cunnilingus.logRulesRecipient.rulesStrings.0>
+  <!--EN: Receive cunnilingus-->
+  <Sex_Cunnilingus.modExtensions.0.RMBLabel>让其舔阴</Sex_Cunnilingus.modExtensions.0.RMBLabel>
+</LanguageData>

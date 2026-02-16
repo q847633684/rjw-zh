@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: An oozy slime glob. Useless for humans.-->
+  <SlimeGlob.description>一种溢出液组成的粘液球，用于生长粘液部件，人类无法安装。</SlimeGlob.description>
+  <!--EN: slime glob-->
+  <SlimeGlob.label>粘液团</SlimeGlob.label>
+</LanguageData>

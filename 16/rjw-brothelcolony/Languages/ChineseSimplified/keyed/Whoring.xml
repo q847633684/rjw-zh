@@ -1,116 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--原中文: '启用嫖娼选项卡', 原英文: '无' -> 新英文: 'Enable whoring tab',更新于2026-02-14-->
-  <!--EN: Enable whoring tab-->
-  <whoringtab_enabled>启用嫖娼选项卡</whoringtab_enabled>
-  <!--原中文: '显示/隐藏嫖娼选项卡', 原英文: '无' -> 新英文: 'Shows/hide whoring tab',更新于2026-02-14-->
-  <!--EN: Shows/hide whoring tab-->
-  <whoringtab_enabled_desc>显示/隐藏嫖娼选项卡</whoringtab_enabled_desc>
-  <!--原中文: '显示床铺的价格倍率', 原英文: '无' -> 新英文: 'Show whore price factor on beds',更新于2026-02-14-->
-  <!--EN: Show whore price factor on beds-->
-  <show_whore_price_factor_on_bed>显示床铺的价格倍率</show_whore_price_factor_on_bed>
-  <!--原中文: '将价格倍率作为标签显示在启用嫖娼的床上。', 原英文: '无' -> 新英文: 'Show whore price factor as a label on beds that are enabled for whoring.',更新于2026-02-14-->
-  <!--EN: Show whore price factor as a label on beds that are enabled for whoring.-->
-  <show_whore_price_factor_on_bed_desc>将价格倍率作为标签显示在启用嫖娼的床上。</show_whore_price_factor_on_bed_desc>
-  <!--原中文: '显示床铺图标', 原英文: '无' -> 新英文: 'Show bed widgets',更新于2026-02-14-->
-  <!--EN: Show bed widgets-->
-  <show_whore_widgets_on_bed>显示床铺图标</show_whore_widgets_on_bed>
-  <!--原中文: '显示床铺图标，以标记公共/私人的床铺，供嫖客使用。', 原英文: '无' -> 新英文: 'Show bed widgets to mark beds for public/private for whoring.',更新于2026-02-14-->
-  <!--EN: Show bed widgets to mark beds for public/private for whoring.-->
-  <show_whore_widgets_on_bed_desc>显示床铺图标，以标记公共/私人的床铺，供嫖客使用。</show_whore_widgets_on_bed_desc>
-  <!--原中文: '收钱提示', 原英文: '无' -> 新英文: 'Notify about payment',更新于2026-02-14-->
-  <!--EN: Notify about payment-->
-  <NotifyPayment>收钱提示</NotifyPayment>
-  <!--原中文: '以便您需要寻芳客的付款提示', 原英文: '无' -> 新英文: 'If you want to see notifications about clients paying',更新于2026-02-14-->
-  <!--EN: If you want to see notifications about clients paying-->
-  <NotifyPayment_desc>以便您需要寻芳客的付款提示</NotifyPayment_desc>
-  <!--原中文: '阻止移除殖民者亲友关系', 原英文: '无' -> 新英文: 'Prevent deletion of any relatives of colonists (Dangerous)',更新于2026-02-14-->
-  <!--EN: Prevent deletion of any relatives of colonists (Dangerous)-->
-  <PreventRelativePurge>阻止移除殖民者亲友关系</PreventRelativePurge>
-  <!--原中文: '此设置对人口复兴观念的运行十分重要，1.6版本对于殖民地外的小人的自动清除有时会在孩子出生前就删除其生父及其他亲属', 原英文: '无' -> 新英文: 'Do not turn this setting on unless you are using a mod like "No random relatives" that prevents relatives from being generated to avoid massive bloat of world pawns',更新于2026-02-14-->
-  <!--EN: Do not turn this setting on unless you are using a mod like "No random relatives" that prevents relatives from being generated to avoid massive bloat of world pawns-->
-  <PreventRelativePurge_desc>此设置对人口复兴观念的运行十分重要，1.6版本对于殖民地外的小人的自动清除有时会在孩子出生前就删除其生父及其他亲属</PreventRelativePurge_desc>
-  <!--原中文: '印钱', 原英文: '无' -> 新英文: 'Money Printing',更新于2026-02-14-->
-  <!--EN: Money Printing-->
-  <MoneyPrinting>印钱</MoneyPrinting>
-  <!--原中文: '访客将直接刷出白银，而不是使用他们随身携带的', 原英文: '无' -> 新英文: 'Clients will spawn silver out of thin air instead of being limited to their own's/caravan's silver',更新于2026-02-14-->
-  <!--EN: Clients will spawn silver out of thin air instead of being limited to their own's/caravan's silver-->
-  <MoneyPrinting_desc>访客将直接刷出白银，而不是使用他们随身携带的</MoneyPrinting_desc>
-  <!--原中文: '最低嫖价', 原英文: '无' -> 新英文: 'Lowest Price',更新于2026-02-14-->
-  <!--EN: Lowest Price-->
-  <MinimumPrice>最低嫖价</MinimumPrice>
-  <!--原中文: '如果寻芳客无法付清全价，这是您的娼妓能接受的最低价', 原英文: '无' -> 新英文: 'If clients can't pay in full, this is the minimum your whores will accept',更新于2026-02-14-->
-  <!--EN: If clients can't pay in full, this is the minimum your whores will accept-->
-  <MinimumPrice_desc>如果寻芳客无法付清全价，这是您的娼妓能接受的最低价</MinimumPrice_desc>
-  <!--原中文: '嫖价倍率', 原英文: '无' -> 新英文: 'Price Multiplier',更新于2026-02-14-->
-  <!--EN: Price Multiplier-->
-  <PriceMultiplier>嫖价倍率</PriceMultiplier>
-  <!--原中文: '嫖价倍率默认设置为1倍。', 原英文: '无' -> 新英文: 'Default 1. Multiplier for whore prices',更新于2026-02-14-->
-  <!--EN: Default 1. Multiplier for whore prices-->
-  <PriceMultiplier_desc>嫖价倍率默认设置为1倍。</PriceMultiplier_desc>
-  <!--原中文: '最低嫖娼标准', 原英文: '无' -> 新英文: 'Acceptance, lower boundary',更新于2026-02-14-->
   <!--EN: Acceptance, lower boundary-->
   <AcceptanceLower>最低嫖娼标准</AcceptanceLower>
-  <!--原中文: '基础值为0.05，寻芳客将会在最低与最高的区间内生成随机数，若您的娼妓高于此随机数，寻芳客将开始嫖娼。 ', 原英文: '无' -> 新英文: 'Default 0.05. A client accepts if his evaluation of your whore is higher than a random number rolled between those two boundaries. ',更新于2026-02-14-->
   <!--EN: Default 0.05. A client accepts if his evaluation of your whore is higher than a random number rolled between those two boundaries.-->
-  <AcceptanceLower_desc>基础值为0.05，寻芳客将会在最低与最高的区间内生成随机数，若您的娼妓高于此随机数，寻芳客将开始嫖娼。 </AcceptanceLower_desc>
-  <!--原中文: '最高嫖娼标准Acceptance, upper boundary', 原英文: '无' -> 新英文: 'Acceptance, upper boundary',更新于2026-02-14-->
+  <AcceptanceLower_desc>基础值为0.05，寻芳客将会在最低与最高的区间内生成随机数，若您的娼妓高于此随机数，寻芳客将开始嫖娼。</AcceptanceLower_desc>
   <!--EN: Acceptance, upper boundary-->
   <AcceptanceUpper>最高嫖娼标准Acceptance, upper boundary</AcceptanceUpper>
-  <!--原中文: '基础值为1，寻芳客将会在最低与最高的区间内生成随机数，若您的娼妓高于此随机数，寻芳客将开始嫖娼。', 原英文: '无' -> 新英文: 'Default 1. A client accepts if his evaluation of your whore is higher than a random number rolled between those two boundaries. ',更新于2026-02-14-->
   <!--EN: Default 1. A client accepts if his evaluation of your whore is higher than a random number rolled between those two boundaries.-->
   <AcceptanceUpper_desc>基础值为1，寻芳客将会在最低与最高的区间内生成随机数，若您的娼妓高于此随机数，寻芳客将开始嫖娼。</AcceptanceUpper_desc>
-  <!--原中文: '禁用访客RNG', 原英文: '无' -> 新英文: 'Disable Client RNG',更新于2026-02-14-->
+  <!--EN: Porn Mode - Whores always willing-->
+  <AlwaysWilling>色情模式-娼妓将一直接客</AlwaysWilling>
+  <!--EN: If enabled, your whores will go for clients even when fully satisified. This takes away from the challenge of properly training and supplying your workforce.-->
+  <AlwaysWilling_desc>若开启，您的娼妓哪怕已经满足也会接客。这将会消除训练及获取足够寻芳客嫖娼的娼妓的游戏内容。</AlwaysWilling_desc>
+  <!--EN: Prisoner-->
+  <BrothelTabIsPrisoner>囚犯</BrothelTabIsPrisoner>
+  <!--EN: Slave-->
+  <BrothelTabIsSlave>奴隶</BrothelTabIsSlave>
+  <!--EN: Also allow babies to be handed off at other faction's settlements-->
+  <CanDeliverAllAges>还允许将婴儿移交给其他派系的定居点</CanDeliverAllAges>
+  <!--EN: A caravan with a repopulation specialist can hand over pawns to other faction's settlement. The intended design is to hand over children that can walk, but some people prefer to also be able to offload babies fresh from the oven.-->
+  <CanDeliverAllAges_desc>拥有繁殖专家的商队可以将典当移交给其他派系的定居点。预期的设计是为了让孩子能够走路，但有些人更喜欢能够从烤箱里卸下刚出炉的婴儿。</CanDeliverAllAges_desc>
   <!--EN: Disable Client RNG-->
   <ClientAlwaysAccept>禁用访客RNG</ClientAlwaysAccept>
-  <!--原中文: '访客直接同意服务请求，不进行RNG检定。', 原英文: '无' -> 新英文: 'Instead of respecting various modifiers and rolling dice, Clients will always accept solicitation.',更新于2026-02-14-->
   <!--EN: Instead of respecting various modifiers and rolling dice, Clients will always accept solicitation.-->
   <ClientAlwaysAccept_desc>访客直接同意服务请求，不进行RNG检定。</ClientAlwaysAccept_desc>
-  <!--原中文: '只看客户的性取向', 原英文: '无' -> 新英文: 'Only client sexuality matters',更新于2026-02-14-->
-  <!--EN: Only client sexuality matters-->
-  <GayForPay>只看客户的性取向</GayForPay>
-  <!--原中文: '若开启，您的娼妓将会对所有可以接受他们服务的客户提供服务，而不看他们自己的性取向。请注意:除非您有其他mod可以影响他人的性取向，否则一个同性恋娼妓将会很难找到客户。', 原英文: '无' -> 新英文: 'If enabled, your whores will take any client that will take them, regardless of their own sexual orientation. Beware, unless additional mods affecting the sexuality-spread among pawns are used, a gay whore would very unlikely ever find a client otherwise.',更新于2026-02-14-->
-  <!--EN: If enabled, your whores will take any client that will take them, regardless of their own sexual orientation. Beware, unless additional mods affecting the sexuality-spread among pawns are used, a gay whore would very unlikely ever find a client otherwise.-->
-  <GayForPay_desc>若开启，您的娼妓将会对所有可以接受他们服务的客户提供服务，而不看他们自己的性取向。请注意:除非您有其他mod可以影响他人的性取向，否则一个同性恋娼妓将会很难找到客户。</GayForPay_desc>
-  <!--原中文: '色情模式-娼妓将一直接客 ', 原英文: '无' -> 新英文: 'Porn Mode - Whores always willing ',更新于2026-02-14-->
-  <!--EN: Porn Mode - Whores always willing-->
-  <AlwaysWilling>色情模式-娼妓将一直接客 </AlwaysWilling>
-  <!--原中文: '若开启，您的娼妓哪怕已经满足也会接客。这将会消除训练及获取足够寻芳客嫖娼的娼妓的游戏内容。 ', 原英文: '无' -> 新英文: 'If enabled, your whores will go for clients even when fully satisified. This takes away from the challenge of properly training and supplying your workforce. ',更新于2026-02-14-->
-  <!--EN: If enabled, your whores will go for clients even when fully satisified. This takes away from the challenge of properly training and supplying your workforce.-->
-  <AlwaysWilling_desc>若开启，您的娼妓哪怕已经满足也会接客。这将会消除训练及获取足够寻芳客嫖娼的娼妓的游戏内容。 </AlwaysWilling_desc>
-  <!--原中文: '收集Debug日志信息', 原英文: '无' -> 新英文: 'Debug mode',更新于2026-02-14-->
+  <!--EN: Whether owner(s) are allowed to use this bed for whoring.-->
+  <CommandBedAllowWhoringDesc>是否允许这张床的拥有者招嫖。</CommandBedAllowWhoringDesc>
+  <!--EN: Allow owner to whore-->
+  <CommandBedAllowWhoringLabel>允许拥有者招嫖</CommandBedAllowWhoringLabel>
+  <!--EN: Allow all whores to use this bed to entertain customers.-->
+  <CommandBedSetAsWhoreBedDesc>允许所有娼妓使用这张床来招待顾客。</CommandBedSetAsWhoreBedDesc>
+  <!--EN: Allow everyone to whore-->
+  <CommandBedSetAsWhoreBedLabel>允许每个人卖淫</CommandBedSetAsWhoreBedLabel>
+  <!--EN: This bed type is not assignable to pawns.-->
+  <CommandDisableBedTypeIsNotAssignable>此床铺类型无法分配给小人。</CommandDisableBedTypeIsNotAssignable>
   <!--EN: Debug mode-->
   <DebugWhoring>收集Debug日志信息</DebugWhoring>
-  <!--原中文: 'Enables 启用调试日志，以帮助发现错误。', 原英文: '无' -> 新英文: 'Enables some very spamming debug logs to help find bugs in the mod. Also enables rightclicking clients to get debug-info about all things that could be preventing solicitation',更新于2026-02-14-->
   <!--EN: Enables some very spamming debug logs to help find bugs in the mod. Also enables rightclicking clients to get debug-info about all things that could be preventing solicitation-->
   <DebugWhoring_desc>Enables 启用调试日志，以帮助发现错误。</DebugWhoring_desc>
-  <!--Whore Activities-->
-  <!--原中文: '{0}接受了{1}提供的服务。', 原英文: '无' -> 新英文: '{0} accepted the deal {1} offered.',更新于2026-02-14-->
-  <!--EN: {0} accepted the deal {1} offered.-->
-  <RJW_VisitorAcceptWhore>{0}接受了{1}提供的服务。</RJW_VisitorAcceptWhore>
-  <!--原中文: '{0}尝试获取{1}的服务。', 原英文: '无' -> 新英文: '{0} wants to be serviced by {1}.',更新于2026-02-14-->
-  <!--EN: {0} wants to be serviced by {1}.-->
-  <RJW_VisitorSolicitWhore>{0}尝试获取{1}的服务。</RJW_VisitorSolicitWhore>
-  <!--原中文: '{0}拒绝了{1}提供的服务。', 原英文: '无' -> 新英文: '{0} rejected the deal {1} offered.',更新于2026-02-14-->
-  <!--EN: {0} rejected the deal {1} offered.-->
-  <RJW_VisitorRejectWhore>{0}拒绝了{1}提供的服务。</RJW_VisitorRejectWhore>
-  <!--原中文: '{0}拒绝了{1}的服务，因为他/她看起来状态欠佳。', 原英文: '无' -> 新英文: '{0} rejected the offer because {1} does not look healthy',更新于2026-02-14-->
-  <!--EN: {0} rejected the offer because {1} does not look healthy-->
-  <RJW_VisitorSickWhore>{0}拒绝了{1}的服务，因为他/她看起来状态欠佳。</RJW_VisitorSickWhore>
-  <!--Whore designators-->
-  <!--原中文: '设为娼妓', 原英文: '无' -> 新英文: 'Assign to whorin'',更新于2026-02-14-->
   <!--EN: Assign to whorin'-->
   <ForService>设为娼妓</ForService>
-  <!-- This field is not visible -->
-  <!--原中文: '设为娼妓
-- 会尝试与引诱访客。
-- 如果不忙，将招待其他殖民者.
-- 工作中尽量避免自慰，可能会导致寻芳客生气 .
-', 原英文: '无' -> 新英文: 'Mark for whoring
-- Will try to solicit visitors.
-- Entertains other colonists if not busy.
-- Tries to refrain from masturbation while on the job, may cause frustration.
-',更新于2026-02-14-->
   <!--EN: Mark for whoring
 - Will try to solicit visitors.
 - Entertains other colonists if not busy.
@@ -118,135 +47,77 @@
   <ForServiceDesc>设为娼妓
 - 会尝试与引诱访客。
 - 如果不忙，将招待其他殖民者.
-- 工作中尽量避免自慰，可能会导致寻芳客生气 .
-</ForServiceDesc>
-  <!--原中文: '不愿成为娼妓', 原英文: '无' -> 新英文: 'Won't agree to be a whore',更新于2026-02-14-->
+- 工作中尽量避免自慰，可能会导致寻芳客生气 .</ForServiceDesc>
   <!--EN: Won't agree to be a whore-->
   <ForServiceRefuseDesc>不愿成为娼妓</ForServiceRefuseDesc>
-  <!--Bed designators-->
-  <!--原中文: '允许每个人卖淫', 原英文: '无' -> 新英文: 'Allow everyone to whore',更新于2026-02-14-->
-  <!--EN: Allow everyone to whore-->
-  <CommandBedSetAsWhoreBedLabel>允许每个人卖淫</CommandBedSetAsWhoreBedLabel>
-  <!--原中文: '允许所有娼妓使用这张床来招待顾客。', 原英文: '无' -> 新英文: 'Allow all whores to use this bed to entertain customers.',更新于2026-02-14-->
-  <!--EN: Allow all whores to use this bed to entertain customers.-->
-  <CommandBedSetAsWhoreBedDesc>允许所有娼妓使用这张床来招待顾客。</CommandBedSetAsWhoreBedDesc>
-  <!--原中文: '允许拥有者招嫖', 原英文: '无' -> 新英文: 'Allow owner to whore',更新于2026-02-14-->
-  <!--EN: Allow owner to whore-->
-  <CommandBedAllowWhoringLabel>允许拥有者招嫖</CommandBedAllowWhoringLabel>
-  <!--原中文: '是否允许这张床的拥有者招嫖。', 原英文: '无' -> 新英文: 'Whether owner(s) are allowed to use this bed for whoring.',更新于2026-02-14-->
-  <!--EN: Whether owner(s) are allowed to use this bed for whoring.-->
-  <CommandBedAllowWhoringDesc>是否允许这张床的拥有者招嫖。</CommandBedAllowWhoringDesc>
-  <!--原中文: '嫖客价格因素（基于舒适度、房间印象和房间内的床位数：{0}', 原英文: '无' -> 新英文: 'Whoring price factor (based on comfort, room impressiveness and number of beds in room: {0}',更新于2026-02-14-->
-  <!--EN: Whoring price factor (based on comfort, room impressiveness and number of beds in room: {0}-->
-  <WhorePriceCalcDesc>嫖客价格因素（基于舒适度、房间印象和房间内的床位数：{0}</WhorePriceCalcDesc>
-  <!--原中文: '此床铺类型无法分配给小人。', 原英文: '无' -> 新英文: 'This bed type is not assignable to pawns.',更新于2026-02-14-->
-  <!--EN: This bed type is not assignable to pawns.-->
-  <CommandDisableBedTypeIsNotAssignable>此床铺类型无法分配给小人。</CommandDisableBedTypeIsNotAssignable>
-  <!--原中文: '寻芳客的嫖价范围： ', 原英文: '无' -> 新英文: 'Whoring price range: ',更新于2026-02-14-->
-  <!--EN: Whoring price range:-->
-  <WhorePrice>寻芳客的嫖价范围： </WhorePrice>
-  <!--原中文: '囚犯', 原英文: '无' -> 新英文: 'Prisoner',更新于2026-02-14-->
-  <!--EN: Prisoner-->
-  <BrothelTabIsPrisoner>囚犯</BrothelTabIsPrisoner>
-  <!--原中文: '奴隶', 原英文: '无' -> 新英文: 'Slave',更新于2026-02-14-->
-  <!--EN: Slave-->
-  <BrothelTabIsSlave>奴隶</BrothelTabIsSlave>
-  <!--Repopulationist-->
-  <!--原中文: '访客希望带走{0}', 原英文: '无' -> 新英文: 'Visitors asking for {0}',更新于2026-02-14-->
-  <!--EN: Visitors asking for {0}-->
-  <CB_AskToTakeLetterLabel>访客希望带走{0}</CB_AskToTakeLetterLabel>
-  <!--原中文: '{0}已不在殖民地', 原英文: '无' -> 新英文: 'Cannot send away: {0} are no longer here',更新于2026-02-14-->
-  <!--EN: Cannot send away: {0} are no longer here-->
-  <CB_CannotSendAwayLordLeft>{0}已不在殖民地</CB_CannotSendAwayLordLeft>
-  <!--原中文: '来自{2}的访客们已到来。{0}的父亲{1}，其中一位访客。\n\n我们将复兴此世界的人口作为目标，现在他们希望带{0}与他们一起离开。\n\n', 原英文: '无' -> 新英文: 'Visitors from {2} have arrived. {0} has been fathered by {1}, one of their a members.\n\nWe tasked ourselves with repopulating this world, and they are now asking to take {0} with them.\n\n',更新于2026-02-14-->
-  <!--EN: Visitors from {2} have arrived. {0} has been fathered by {1}, one of their a members.\n\nWe tasked ourselves with repopulating this world, and they are now asking to take {0} with them.\n\n-->
-  <CB_AskToTakeLetterDescription>来自{2}的访客们已到来。{0}的父亲{1}，其中一位访客。\n\n我们将复兴此世界的人口作为目标，现在他们希望带{0}与他们一起离开。\n\n</CB_AskToTakeLetterDescription>
-  <CB_AskToTakeLetterDescriptionMotherWarning>\n\nThe mother, {0}, {1}</CB_AskToTakeLetterDescriptionMotherWarning>
-  <!--原中文: '{0}已加入{1}将会随他们离开。', 原英文: '无' -> 新英文: '{0} has joined {1} and will leave when they do.',更新于2026-02-14-->
-  <!--EN: {0} has joined {1} and will leave when they do.-->
-  <CB_AskToTakeLetterNothingPaid>{0}已加入{1}将会随他们离开。</CB_AskToTakeLetterNothingPaid>
-  <!--原中文: '{0}向{1}支付生养{2}的报酬。{2}已加入他们，且会随他们一起离开。', 原英文: '无' -> 新英文: '{0} paid {1} for {2}. {2} has joined them, and will leave when they do.',更新于2026-02-14-->
-  <!--EN: {0} paid {1} for {2}. {2} has joined them, and will leave when they do.-->
-  <CB_AskToTakeLetterSilverPaid>{0}向{1}支付生养{2}的报酬。{2}已加入他们，且会随他们一起离开。</CB_AskToTakeLetterSilverPaid>
-  <!--原中文: '{0}已加入{1}且会随他们离开。您与他们的关系提升了{2}。', 原英文: '无' -> 新英文: '{0} has joined {1} and will leave when they do. Your relations have improved by {2}.',更新于2026-02-14-->
-  <!--EN: {0} has joined {1} and will leave when they do. Your relations have improved by {2}.-->
-  <CB_AskToTakeLetterFavourPaid>{0}已加入{1}且会随他们离开。您与他们的关系提升了{2}。</CB_AskToTakeLetterFavourPaid>
-  <!--原中文: '{0}已加入{1}且会随他们离开。您获得了{2}热忱圣点。', 原英文: '无' -> 新英文: '{0} has joined {1} and will leave when they do. You have gained {2} fervor.',更新于2026-02-14-->
-  <!--EN: {0} has joined {1} and will leave when they do. You have gained {2} fervor.-->
-  <CB_AskToTakeLetterFervorPaid>{0}已加入{1}且会随他们离开。您获得了{2}热忱圣点。</CB_AskToTakeLetterFervorPaid>
-  <!--原中文: '{0}对于拒绝行为表示失望。您与他们的关系降低了{3}。他们将在{2}天后再次索要{1}。', 原英文: '无' -> 新英文: '{0} are upset by the refusal. Relations have lowered by {3}. They will ask for {1} after {2} days again.',更新于2026-02-14-->
-  <!--EN: {0} are upset by the refusal. Relations have lowered by {3}. They will ask for {1} after {2} days again.-->
-  <CB_AskToTakeLetterRefused>{0}对于拒绝行为表示失望。您与他们的关系降低了{3}。他们将在{2}天后再次索要{1}。</CB_AskToTakeLetterRefused>
-  <!--原中文: '{0}人口复兴', 原英文: '无' -> 新英文: '{0}Repopulation',更新于2026-02-14-->
-  <!--EN: {0}Repopulation-->
-  <CB_SetToLeaveLetterLabel>{0}人口复兴</CB_SetToLeaveLetterLabel>
-  <!--原中文: '
-	 {0}的父亲{1}，来自{2}的一名访客。\n\n我们将复兴此世界的人口作为目标，现在我们要决定是否让此子在{2}再次来访时加入他们，或当他们向我们索要时。
-	 \n\n', 原英文: '无' -> 新英文: '
-	 {0} has been fathered by {1}, a member of {2}.\n\nWe tasked ourselves with repopulating this world, and have now to decide if the child should prepare to join the next group of {2} passing by on their own, or if they should ask first.
-	 \n\n',更新于2026-02-14-->
-  <!--EN: 
-	 {0} has been fathered by {1}, a member of {2}.\n\nWe tasked ourselves with repopulating this world, and have now to decide if the child should prepare to join the next group of {2} passing by on their own, or if they should ask first.
-	 \n\n-->
-  <CB_SetToLeaveLetterDescription>
-	 {0}的父亲{1}，来自{2}的一名访客。\n\n我们将复兴此世界的人口作为目标，现在我们要决定是否让此子在{2}再次来访时加入他们，或当他们向我们索要时。
-	 \n\n<b>让{0}自动离开?</b>
-	 </CB_SetToLeaveLetterDescription>
-  <!--原中文: '\n我们坚定的认为这是我们的职责所在。', 原英文: '无' -> 新英文: '\nWe strongly believe this to be our duty.',更新于2026-02-14-->
-  <!--EN: \nWe strongly believe this to be our duty.-->
-  <CB_SetToLeaveLetterDescription0>\n我们坚定的认为这是我们的职责所在。</CB_SetToLeaveLetterDescription0>
-  <!--原中文: '\n{0}将会对我们的好意表示感谢。', 原英文: '无' -> 新英文: '\n{0} will appreciate our kindness.',更新于2026-02-14-->
-  <!--EN: \n{0} will appreciate our kindness.-->
-  <CB_SetToLeaveLetterDescription1>\n{0}将会对我们的好意表示感谢。</CB_SetToLeaveLetterDescription1>
-  <!--原中文: '\n我们一般是为了钱而这么做。', 原英文: '无' -> 新英文: '\nUsually we are doing this for silver.',更新于2026-02-14-->
-  <!--EN: \nUsually we are doing this for silver.-->
-  <CB_SetToLeaveLetterDescription2>\n我们一般是为了钱而这么做。</CB_SetToLeaveLetterDescription2>
-  <!--原中文: '{0}将会自动加入下一个来自{1}的访问者。', 原英文: '无' -> 新英文: '{0} will automatically join the next group of visitors from {1}',更新于2026-02-14-->
-  <!--EN: {0} will automatically join the next group of visitors from {1}-->
-  <CB_SetToLeaveLetterYes>{0}将会自动加入下一个来自{1}的访问者。</CB_SetToLeaveLetterYes>
-  <!--原中文: '来自{0}的访问者将会询问是否能带{1}与他们一起离开。', 原英文: '无' -> 新英文: 'Visitors from {0} will ask if they can take {1} with them',更新于2026-02-14-->
-  <!--EN: Visitors from {0} will ask if they can take {1} with them-->
-  <CB_SetToLeaveLetterAsk>来自{0}的访问者将会询问是否能带{1}与他们一起离开。</CB_SetToLeaveLetterAsk>
-  <!--翻译内容: 'Also allow babies to be handed off at other faction's settlements',新增于2026-02-14-->
-  <!--EN: Also allow babies to be handed off at other faction's settlements-->
-  <CanDeliverAllAges>还允许将婴儿移交给其他派系的定居点</CanDeliverAllAges>
-  <!--翻译内容: 'A caravan with a repopulation specialist can hand over pawns to other faction's settlement. The intended design is to hand over children that can walk, but some people prefer to also be able to offload babies fresh from the oven.',新增于2026-02-14-->
-  <!--EN: A caravan with a repopulation specialist can hand over pawns to other faction's settlement. The intended design is to hand over children that can walk, but some people prefer to also be able to offload babies fresh from the oven.-->
-  <CanDeliverAllAges_desc>拥有繁殖专家的商队可以将典当移交给其他派系的定居点。预期的设计是为了让孩子能够走路，但有些人更喜欢能够从烤箱里卸下刚出炉的婴儿。</CanDeliverAllAges_desc>
-  <!--翻译内容: '			General Whoring',新增于2026-02-14-->
+  <!--EN: Only client sexuality matters-->
+  <GayForPay>只看客户的性取向</GayForPay>
+  <!--EN: If enabled, your whores will take any client that will take them, regardless of their own sexual orientation. Beware, unless additional mods affecting the sexuality-spread among pawns are used, a gay whore would very unlikely ever find a client otherwise.-->
+  <GayForPay_desc>若开启，您的娼妓将会对所有可以接受他们服务的客户提供服务，而不看他们自己的性取向。请注意:除非您有其他mod可以影响他人的性取向，否则一个同性恋娼妓将会很难找到客户。</GayForPay_desc>
   <!--EN: 			General Whoring-->
   <GeneralWhoringSettings>一般嫖娼</GeneralWhoringSettings>
-  <!--翻译内容: 'Prevent deletion of children of colonists',新增于2026-02-14-->
+  <!--EN: Lowest Price-->
+  <MinimumPrice>最低嫖价</MinimumPrice>
+  <!--EN: If clients can't pay in full, this is the minimum your whores will accept-->
+  <MinimumPrice_desc>如果寻芳客无法付清全价，这是您的娼妓能接受的最低价</MinimumPrice_desc>
+  <!--EN: Money Printing-->
+  <MoneyPrinting>印钱</MoneyPrinting>
+  <!--EN: Clients will spawn silver out of thin air instead of being limited to their own's/caravan's silver-->
+  <MoneyPrinting_desc>访客将直接刷出白银，而不是使用他们随身携带的</MoneyPrinting_desc>
+  <!--EN: Notify about payment-->
+  <NotifyPayment>收钱提示</NotifyPayment>
+  <!--EN: If you want to see notifications about clients paying-->
+  <NotifyPayment_desc>以便您需要寻芳客的付款提示</NotifyPayment_desc>
   <!--EN: Prevent deletion of children of colonists-->
   <PreventChildPurge>防止删除殖民者的孩子</PreventChildPurge>
-  <!--翻译内容: 'What is the point of Repopulationism if your children instantly get autodeleted by Rimworlds overly aggressive Garbage Collection?',新增于2026-02-14-->
   <!--EN: What is the point of Repopulationism if your children instantly get autodeleted by Rimworlds overly aggressive Garbage Collection?-->
   <PreventChildPurge_desc>如果你的孩子会被《Rimworlds》过于激进的垃圾回收机制立即自动删除，那么人口再造主义还有什么意义呢？</PreventChildPurge_desc>
-  <!--翻译内容: 'Prevent deletion of fathers relevant to Repopulationism (Necessary if using Repopulationism) ',新增于2026-02-14-->
   <!--EN: Prevent deletion of fathers relevant to Repopulationism (Necessary if using Repopulationism)-->
-  <PreventFatherPurge>防止删除与人口再造相关的父亲（如果使用人口再造，则必须执行此操作） </PreventFatherPurge>
-  <!--翻译内容: 'This setting is important for Repopulationism to work properly. The aggressive culling of World-Pawns of 1.6 sometimes deletes fathers before children are born and before they can come to pick up their children.',新增于2026-02-14-->
+  <PreventFatherPurge>防止删除与人口再造相关的父亲（如果使用人口再造，则必须执行此操作）</PreventFatherPurge>
   <!--EN: This setting is important for Repopulationism to work properly. The aggressive culling of World-Pawns of 1.6 sometimes deletes fathers before children are born and before they can come to pick up their children.-->
   <PreventFatherPurge_desc>此设置对于人口重建机制的正常运作至关重要。1.6 版本中对世界棋子的激进清除有时会在孩子出生前、父亲来接孩子之前就将他们抹杀掉。</PreventFatherPurge_desc>
-  <!--翻译内容: 'Attempt to prevent deletion of those selected above by other mods suchs as BetterGC (Dangerous / Needs restart)',新增于2026-02-14-->
   <!--EN: Attempt to prevent deletion of those selected above by other mods suchs as BetterGC (Dangerous / Needs restart)-->
   <PreventPurgeEvenMore>尝试防止其他模组（如 BetterGC）删除上述选定的棋子（危险 / 需要重启）</PreventPurgeEvenMore>
-  <!--翻译内容: 'Do not turn this on unless needed. Some WorldPawn cleaning mods skip the vanilla validiation of WorldPawns and straight up go to deletion, yet still use the vanilla method to delete them. Enabling this setting will patch that vanilla method in hopes of preserving your friends. Personally I'd recommend disabling those other mods, as vanilla Rimworld 1.6 is already aggressive enough on its own when purging WorldPawns. Toggling needs a restart to take effact.',新增于2026-02-14-->
   <!--EN: Do not turn this on unless needed. Some WorldPawn cleaning mods skip the vanilla validiation of WorldPawns and straight up go to deletion, yet still use the vanilla method to delete them. Enabling this setting will patch that vanilla method in hopes of preserving your friends. Personally I'd recommend disabling those other mods, as vanilla Rimworld 1.6 is already aggressive enough on its own when purging WorldPawns. Toggling needs a restart to take effact.-->
   <PreventPurgeEvenMore_desc>除非必要，否则请勿启用此功能。某些世界角色清理模组会跳过原版游戏对世界角色的验证，直接删除它们，但仍然使用原版游戏的删除方法。启用此设置将修复原版游戏的删除方法，以期保留您的好友。我个人建议禁用这些其他模组，因为原版 Rimworld 1.6 在清理世界角色时已经足够彻底了。切换设置需要重启游戏才能生效。</PreventPurgeEvenMore_desc>
-  <!--翻译内容: '\n\n			Repopulationism',新增于2026-02-14-->
+  <!--EN: Prevent deletion of any relatives of colonists (Dangerous)-->
+  <PreventRelativePurge>阻止移除殖民者亲友关系</PreventRelativePurge>
+  <!--EN: Do not turn this setting on unless you are using a mod like "No random relatives" that prevents relatives from being generated to avoid massive bloat of world pawns-->
+  <PreventRelativePurge_desc>此设置对人口复兴观念的运行十分重要，1.6版本对于殖民地外的小人的自动清除有时会在孩子出生前就删除其生父及其他亲属</PreventRelativePurge_desc>
+  <!--EN: Price Multiplier-->
+  <PriceMultiplier>嫖价倍率</PriceMultiplier>
+  <!--EN: Default 1. Multiplier for whore prices-->
+  <PriceMultiplier_desc>嫖价倍率默认设置为1倍。</PriceMultiplier_desc>
+  <!--EN: {0} accepted the deal {1} offered.-->
+  <RJW_VisitorAcceptWhore>{0}接受了{1}提供的服务。</RJW_VisitorAcceptWhore>
+  <!--EN: {0} rejected the deal {1} offered.-->
+  <RJW_VisitorRejectWhore>{0}拒绝了{1}提供的服务。</RJW_VisitorRejectWhore>
+  <!--EN: {0} rejected the offer because {1} does not look healthy-->
+  <RJW_VisitorSickWhore>{0}拒绝了{1}的服务，因为他/她看起来状态欠佳。</RJW_VisitorSickWhore>
+  <!--EN: {0} wants to be serviced by {1}.-->
+  <RJW_VisitorSolicitWhore>{0}尝试获取{1}的服务。</RJW_VisitorSolicitWhore>
   <!--EN: \n\n			Repopulationism-->
   <RepopulationismSettings>\n\n			Repopulationism</RepopulationismSettings>
-  <!--翻译内容: 'Reset settings to default',新增于2026-02-14-->
   <!--EN: Reset settings to default-->
   <ResetSettings>重置设置为默认值</ResetSettings>
-  <!--翻译内容: 'Resets all settings to their somewhat balanced default values',新增于2026-02-14-->
   <!--EN: Resets all settings to their somewhat balanced default values-->
   <ResetSettings_desc>将所有设置重置为其大致平衡的默认值</ResetSettings_desc>
-  <!--翻译内容: '\n\n			Whoring Difficulty',新增于2026-02-14-->
+  <!--EN: Whoring price range:-->
+  <WhorePrice>寻芳客的嫖价范围：</WhorePrice>
+  <!--EN: Whoring price factor (based on comfort, room impressiveness and number of beds in room: {0}-->
+  <WhorePriceCalcDesc>嫖客价格因素（基于舒适度、房间印象和房间内的床位数：{0}</WhorePriceCalcDesc>
   <!--EN: \n\n			Whoring Difficulty-->
   <WhoringDifficultySettings>\n\n			嫖娼难度</WhoringDifficultySettings>
-  <!--原中文: '让{0}自动离开?', 原英文: '无' -> 新英文: 'Have {0} leave automatically?',更新于2026-02-14-->
-  <!--EN: Have {0} leave automatically?-->
-  <b>让{0}自动离开?</b>
+  <!--EN: Show whore price factor on beds-->
+  <show_whore_price_factor_on_bed>显示床铺的价格倍率</show_whore_price_factor_on_bed>
+  <!--EN: Show whore price factor as a label on beds that are enabled for whoring.-->
+  <show_whore_price_factor_on_bed_desc>将价格倍率作为标签显示在启用嫖娼的床上。</show_whore_price_factor_on_bed_desc>
+  <!--EN: Show bed widgets-->
+  <show_whore_widgets_on_bed>显示床铺图标</show_whore_widgets_on_bed>
+  <!--EN: Show bed widgets to mark beds for public/private for whoring.-->
+  <show_whore_widgets_on_bed_desc>显示床铺图标，以标记公共/私人的床铺，供嫖客使用。</show_whore_widgets_on_bed_desc>
+  <!--EN: Enable whoring tab-->
+  <whoringtab_enabled>启用嫖娼选项卡</whoringtab_enabled>
+  <!--EN: Shows/hide whoring tab-->
+  <whoringtab_enabled_desc>显示/隐藏嫖娼选项卡</whoringtab_enabled_desc>
 </LanguageData>

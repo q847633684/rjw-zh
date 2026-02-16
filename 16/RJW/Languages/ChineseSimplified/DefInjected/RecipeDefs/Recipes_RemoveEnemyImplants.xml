@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Removes cocoon.-->
+  <RJW_RemoveCocoon.description>移除结茧。</RJW_RemoveCocoon.description>
+  <!--EN: Removing cocoon.-->
+  <RJW_RemoveCocoon.jobString>移除结茧。</RJW_RemoveCocoon.jobString>
+  <!--EN: remove cocoon-->
+  <RJW_RemoveCocoon.label>移除结茧</RJW_RemoveCocoon.label>
+  <!--EN: Removes restraints.-->
+  <RJW_RemoveRestraints.description>移除束缚。</RJW_RemoveRestraints.description>
+  <!--EN: Removing restraints.-->
+  <RJW_RemoveRestraints.jobString>移除束缚。</RJW_RemoveRestraints.jobString>
+  <!--EN: remove restraints-->
+  <RJW_RemoveRestraints.label>移除束缚</RJW_RemoveRestraints.label>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: gettin' raped.-->
+  <GettinRaped.reportString>被强奸。</GettinRaped.reportString>
+  <!--EN: raping.-->
+  <RandomRape.reportString>随机强奸。</RandomRape.reportString>
+  <!--EN: rapin' CP-->
+  <RapeComfortPawn.reportString>强奸泄欲对象。</RapeComfortPawn.reportString>
+  <!--EN: rapin' enemy-->
+  <RapeEnemy.reportString>强奸敌人。</RapeEnemy.reportString>
+  <!--EN: rapin' enemy-->
+  <RapeEnemyByAnimal.reportString>被动物强奸的敌人。</RapeEnemyByAnimal.reportString>
+  <!--EN: rapin' enemy-->
+  <RapeEnemyByInsect.reportString>被虫子强奸的敌人。</RapeEnemyByInsect.reportString>
+  <!--EN: rapin' enemy-->
+  <RapeEnemyByMech.reportString>被机械体强奸的敌人。</RapeEnemyByMech.reportString>
+  <!--EN: rapin' enemy-->
+  <RapeEnemyToParasite.reportString>强奸敌对寄生体。</RapeEnemyToParasite.reportString>
+</LanguageData>

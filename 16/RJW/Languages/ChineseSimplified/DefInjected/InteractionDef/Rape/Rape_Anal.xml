@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: anal-->
+  <Rape_Anal.label>强迫肛交</Rape_Anal.label>
+  <!--EN: r_logentry->Raped anally [RECIPIENT_nameDef].-->
+  <Rape_Anal.logRulesInitiator.rulesStrings.0>r_logentry-&gt;粗暴地插入[RECIPIENT_nameDef]的肛门。</Rape_Anal.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Was anally raped by [INITIATOR_nameDef].-->
+  <Rape_Anal.logRulesRecipient.rulesStrings.0>r_logentry-&gt;被[INITIATOR_nameDef]强奸了屁股。</Rape_Anal.logRulesRecipient.rulesStrings.0>
+  <!--EN: Fuck anally-->
+  <Rape_Anal.modExtensions.0.RMBLabel>将其肛交</Rape_Anal.modExtensions.0.RMBLabel>
+</LanguageData>

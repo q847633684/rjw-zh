@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--翻译内容: 'genital stats',新增于2026-02-14-->
   <!--EN: genital stats-->
   <RJW_GenitalStats.label>生殖器统计数据</RJW_GenitalStats.label>
+  <!--EN: ownership-->
+  <RJW_OriginalPartOwner.label>所有权</RJW_OriginalPartOwner.label>
 </LanguageData>

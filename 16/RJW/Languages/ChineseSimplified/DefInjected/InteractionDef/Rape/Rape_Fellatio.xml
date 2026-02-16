@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: fellatio-->
+  <Rape_Fellatio.label>强迫口交</Rape_Fellatio.label>
+  <!--EN: r_logentry->Forced [RECIPIENT_nameDef] to give fellatio.-->
+  <Rape_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry-&gt;把阴茎塞进[RECIPIENT_nameDef]温暖湿滑的嘴里。</Rape_Fellatio.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Was forced to fellate [INITIATOR_nameDef].-->
+  <Rape_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry-&gt;嘴巴被当成了[INITIATOR_nameDef]的泄欲洞口。</Rape_Fellatio.logRulesRecipient.rulesStrings.0>
+  <!--EN: Get fellated-->
+  <Rape_Fellatio.modExtensions.0.RMBLabel>要求口交</Rape_Fellatio.modExtensions.0.RMBLabel>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: early-stage-->
+  <RJW_pregnancy.stages.0.label>前期</RJW_pregnancy.stages.0.label>
+  <!--EN: middle-stage-->
+  <RJW_pregnancy.stages.1.label>中期</RJW_pregnancy.stages.1.label>
+  <!--EN: late-stage-->
+  <RJW_pregnancy.stages.2.label>晚期</RJW_pregnancy.stages.2.label>
+  <!--EN: having contractions-->
+  <RJW_pregnancy.stages.3.label>临产</RJW_pregnancy.stages.3.label>
+  <!--EN: early-stage-->
+  <RJW_pregnancy_beast.stages.0.label>前期</RJW_pregnancy_beast.stages.0.label>
+  <!--EN: middle-stage-->
+  <RJW_pregnancy_beast.stages.1.label>中期</RJW_pregnancy_beast.stages.1.label>
+  <!--EN: late-stage-->
+  <RJW_pregnancy_beast.stages.2.label>晚期</RJW_pregnancy_beast.stages.2.label>
+  <!--EN: having contractions-->
+  <RJW_pregnancy_beast.stages.3.label>临产</RJW_pregnancy_beast.stages.3.label>
+  <!--EN: early-stage-->
+  <RJW_pregnancy_mech.stages.0.label>前期</RJW_pregnancy_mech.stages.0.label>
+  <!--EN: middle-stage-->
+  <RJW_pregnancy_mech.stages.1.label>中期</RJW_pregnancy_mech.stages.1.label>
+  <!--EN: late-stage-->
+  <RJW_pregnancy_mech.stages.2.label>晚期</RJW_pregnancy_mech.stages.2.label>
+  <!--EN: having contractions-->
+  <RJW_pregnancy_mech.stages.3.label>临产</RJW_pregnancy_mech.stages.3.label>
+</LanguageData>

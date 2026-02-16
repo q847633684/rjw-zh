@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Prostitution is a job like any other.-->
+  <CB_Prostitution_Accepted.description>性工作与其他任何工作一样，只是一份职业。</CB_Prostitution_Accepted.description>
+  <!--EN: Accepted-->
+  <CB_Prostitution_Accepted.label>认同</CB_Prostitution_Accepted.label>
+  <!--EN: Dutiful whore-->
+  <CB_Prostitution_Essential.comps.0.description>尽职的性工作者</CB_Prostitution_Essential.comps.0.description>
+  <!--EN: Someone is a prostitute-->
+  <CB_Prostitution_Essential.comps.1.description>某人是一名性工作者</CB_Prostitution_Essential.comps.1.description>
+  <!--EN: Reluctant whore-->
+  <CB_Prostitution_Essential.comps.4.description>不情愿的性工作者</CB_Prostitution_Essential.comps.4.description>
+  <!--EN: Serving others with our bodies is a duty.-->
+  <CB_Prostitution_Essential.description>用我们的身体服务他人是一种职责。</CB_Prostitution_Essential.description>
+  <!--EN: Essential-->
+  <CB_Prostitution_Essential.label>必要职责</CB_Prostitution_Essential.label>
+  <!--EN: Forced whore-->
+  <CB_Prostitution_Horrendous.comps.0.description>被迫的性工作者</CB_Prostitution_Horrendous.comps.0.description>
+  <!--EN: Someone is a prostitute-->
+  <CB_Prostitution_Horrendous.comps.1.description>某人是一名性工作者</CB_Prostitution_Horrendous.comps.1.description>
+  <!--EN: Prostitution is horrendous.-->
+  <CB_Prostitution_Horrendous.description>性工作是骇人听闻的。</CB_Prostitution_Horrendous.description>
+  <!--EN: Horrendous-->
+  <CB_Prostitution_Horrendous.label>骇人听闻</CB_Prostitution_Horrendous.label>
+  <!--EN: prostitution-->
+  <CB_Prostitution_Issue.label>性工作</CB_Prostitution_Issue.label>
+  <!--EN: Unwilling whore-->
+  <CB_Prostitution_Neutral.comps.0.description>非自愿的性工作者</CB_Prostitution_Neutral.comps.0.description>
+  <!--EN: Prostitution is something that happens, but I would not want to do it.-->
+  <CB_Prostitution_Neutral.description>性工作是社会中存在的一种现象，但我自己不愿意从事。</CB_Prostitution_Neutral.description>
+  <!--EN: Neutral-->
+  <CB_Prostitution_Neutral.label>中立</CB_Prostitution_Neutral.label>
+  <!--EN: Sacred duty-->
+  <CB_Prostitution_Sacred.comps.0.description>神圣的职责</CB_Prostitution_Sacred.comps.0.description>
+  <!--EN: Someone is a sacred prostitute-->
+  <CB_Prostitution_Sacred.comps.1.description>某人是一名神圣的性工作者</CB_Prostitution_Sacred.comps.1.description>
+  <!--EN: Reluctant whore-->
+  <CB_Prostitution_Sacred.comps.4.description>不情愿的性工作者</CB_Prostitution_Sacred.comps.4.description>
+  <!--EN: Serving others with our bodies is a most sacred duty.-->
+  <CB_Prostitution_Sacred.description>用我们的身体服务他人是最神圣的职责。</CB_Prostitution_Sacred.description>
+  <!--EN: Sacred-->
+  <CB_Prostitution_Sacred.label>神圣</CB_Prostitution_Sacred.label>
+  <!--EN: had success soliciting-->
+  <CB_Soliciting_Success.label>成功招揽到顾客</CB_Soliciting_Success.label>
+  <!--EN: failed to solicite-->
+  <CB_Soliciting_Success_NoIdeo.label>招揽顾客失败</CB_Soliciting_Success_NoIdeo.label>
+  <!--EN: worked in the brothel-->
+  <CB_Whoring.label>在妓院工作</CB_Whoring.label>
+  <!--EN: worked in the brothel-->
+  <CB_Whoring_NoIdeo.label>在妓院工作</CB_Whoring_NoIdeo.label>
+  <!--EN: worked reluctantly in the brothel-->
+  <CB_Whoring_Reluctant.label>不情愿地在妓院工作</CB_Whoring_Reluctant.label>
+</LanguageData>

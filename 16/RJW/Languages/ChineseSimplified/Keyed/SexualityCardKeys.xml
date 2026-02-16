@@ -1,67 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--Sexuality card-->
-  <!--原中文: '显示性取向', 原英文: '无' -> 新英文: 'Show sexuality',更新于2026-02-14-->
-  <!--EN: Show sexuality-->
-  <SexcardTooltip>显示性取向</SexcardTooltip>
-  <!--原中文: '想要成为：', 原英文: '无' -> 新英文: 'Wants to be: ',更新于2026-02-14-->
-  <!--EN: Wants to be:-->
-  <SexPartWants>想要成为：</SexPartWants>
-  <!--原中文: '编辑{0}', 原英文: '无' -> 新英文: 'Edit {0}',更新于2026-02-14-->
-  <!--EN: Edit {0}-->
-  <PartsEditLabel>编辑{0}</PartsEditLabel>
-  <!--原中文: '体液乘率', 原英文: '无' -> 新英文: 'Fluid Multiplier',更新于2026-02-14-->
-  <!--EN: Fluid Multiplier-->
-  <PartsEditFluidMultiplierLabel>体液乘率</PartsEditFluidMultiplierLabel>
-  <!--原中文: 'RJW：编辑部位', 原英文: '无' -> 新英文: 'RJW: Edit parts',更新于2026-02-14-->
   <!--EN: RJW: Edit parts-->
   <PartsEditDevEntry>RJW：编辑部位</PartsEditDevEntry>
-  <!--原中文: '启用生育', 原英文: '无' -> 新英文: 'Enable reproduction',更新于2026-02-14-->
-  <!--EN: Enable reproduction-->
-  <SC_Fertility_Enable>启用生育</SC_Fertility_Enable>
-  <!--原中文: '增强生育能力', 原英文: '无' -> 新英文: 'Enchance fertility',更新于2026-02-14-->
-  <!--EN: Enchance fertility-->
-  <SC_Fertility_Enchance>增强生育能力</SC_Fertility_Enchance>
-  <!--原中文: '禁用生育', 原英文: '无' -> 新英文: 'Disable reproduction',更新于2026-02-14-->
+  <!--EN: Fluid Multiplier-->
+  <PartsEditFluidMultiplierLabel>体液乘率</PartsEditFluidMultiplierLabel>
+  <!--EN: Edit {0}-->
+  <PartsEditLabel>编辑{0}</PartsEditLabel>
   <!--EN: Disable reproduction-->
   <SC_Fertility_Disable>禁用生育</SC_Fertility_Disable>
-  <!--原中文: '体液类型', 原英文: '无' -> 新英文: 'Fluid Type',更新于2026-02-14-->
+  <!--EN: Enable reproduction-->
+  <SC_Fertility_Enable>启用生育</SC_Fertility_Enable>
+  <!--EN: Enchance fertility-->
+  <SC_Fertility_Enchance>增强生育能力</SC_Fertility_Enchance>
   <!--EN: Fluid Type-->
   <SC_FluidType>体液类型</SC_FluidType>
-  <!--原中文: '（默认）', 原英文: '无' -> 新英文: ' (Default)',更新于2026-02-14-->
   <!--EN:  (Default)-->
   <SC_FluidTypeDefault>（默认）</SC_FluidTypeDefault>
-  <!--原中文: '重新随机', 原英文: '无' -> 新英文: 'Reroll',更新于2026-02-14-->
   <!--EN: Reroll-->
   <SC_Reroll>重新随机</SC_Reroll>
-  <!--原中文: '性取向：{0}', 原英文: '无' -> 新英文: 'Sexuality: {0}',更新于2026-02-14-->
   <!--EN: Sexuality: {0}-->
   <SC_Sexuality>性取向：{0}</SC_Sexuality>
-  <!--原中文: '无性恋', 原英文: '无' -> 新英文: 'Asexual',更新于2026-02-14-->
   <!--EN: Asexual-->
   <SC_Sexuality_Asexual>无性恋</SC_Sexuality_Asexual>
-  <!--原中文: '双性恋', 原英文: '无' -> 新英文: 'Bisexual',更新于2026-02-14-->
   <!--EN: Bisexual-->
   <SC_Sexuality_Bisexual>双性恋</SC_Sexuality_Bisexual>
-  <!--原中文: '异性恋', 原英文: '无' -> 新英文: 'Hetero',更新于2026-02-14-->
   <!--EN: Hetero-->
   <SC_Sexuality_Heterosexual>异性恋</SC_Sexuality_Heterosexual>
-  <!--原中文: '同性恋', 原英文: '无' -> 新英文: 'Gay',更新于2026-02-14-->
   <!--EN: Gay-->
   <SC_Sexuality_Homosexual>同性恋</SC_Sexuality_Homosexual>
-  <!--原中文: '偏向异性恋的双性恋', 原英文: '无' -> 新英文: 'Bisexual, leaning hetero',更新于2026-02-14-->
   <!--EN: Bisexual, leaning hetero-->
   <SC_Sexuality_LeaningHeterosexual>偏向异性恋的双性恋</SC_Sexuality_LeaningHeterosexual>
-  <!--原中文: '偏向同性恋的双性恋', 原英文: '无' -> 新英文: 'Bisexual, leaning gay',更新于2026-02-14-->
   <!--EN: Bisexual, leaning gay-->
   <SC_Sexuality_LeaningHomosexual>偏向同性恋的双性恋</SC_Sexuality_LeaningHomosexual>
-  <!--原中文: '大多数情况下为异性恋', 原英文: '无' -> 新英文: 'Mostly hetero',更新于2026-02-14-->
   <!--EN: Mostly hetero-->
   <SC_Sexuality_MostlyHeterosexual>大多数情况下为异性恋</SC_Sexuality_MostlyHeterosexual>
-  <!--原中文: '大多数情况下为同性恋', 原英文: '无' -> 新英文: 'Mostly gay',更新于2026-02-14-->
   <!--EN: Mostly gay-->
   <SC_Sexuality_MostlyHomosexual>大多数情况下为同性恋</SC_Sexuality_MostlyHomosexual>
-  <!--原中文: '泛性恋', 原英文: '无' -> 新英文: 'Pansexual',更新于2026-02-14-->
   <!--EN: Pansexual-->
   <SC_Sexuality_Pansexual>泛性恋</SC_Sexuality_Pansexual>
+  <!--EN: Wants to be:-->
+  <SexPartWants>想要成为：</SexPartWants>
+  <!--EN: Show sexuality-->
+  <SexcardTooltip>显示性取向</SexcardTooltip>
 </LanguageData>

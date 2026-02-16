@@ -1,51 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--原中文: '远行队即将离开，您的娼妓将停止服务。', 原英文: '无' -> 新英文: 'Caravan moving away, your whores had to stop.',更新于2026-02-14-->
-  <!--EN: Caravan moving away, your whores had to stop.-->
-  <CaravanWhoringStop>远行队即将离开，您的娼妓将停止服务。</CaravanWhoringStop>
-  <!--原中文: '{0}并无男性寻芳客，但当前只有女性娼妓。', 原英文: '无' -> 新英文: '{0} does not seem to have male clients, yet you brought female whores.',更新于2026-02-14-->
-  <!--EN: {0} does not seem to have male clients, yet you brought female whores.-->
-  <CaravanWhoringNoMaleClients>{0}并无男性寻芳客，但当前只有女性娼妓。</CaravanWhoringNoMaleClients>
-  <!--原中文: '{0}并无女性寻芳客，但当前只有男性娼妓。', 原英文: '无' -> 新英文: '{0} does not seem to have female clients, yet you brought male whores.',更新于2026-02-14-->
-  <!--EN: {0} does not seem to have female clients, yet you brought male whores.-->
-  <CaravanWhoringNoFemaleClients>{0}并无女性寻芳客，但当前只有男性娼妓。</CaravanWhoringNoFemaleClients>
-  <!--原中文: '{0}没钱嫖娼。', 原英文: '无' -> 新英文: '{0} has no silver to pay for your services.',更新于2026-02-14-->
-  <!--EN: {0} has no silver to pay for your services.-->
-  <CaravanWhoringNoMoney>{0}没钱嫖娼。</CaravanWhoringNoMoney>
-  <!--原中文: '您的一位娼妓因其低下的社交等级难以拉客。在远行队中加入一位老鸨来增加其社交等级。', 原英文: '无' -> 新英文: 'One of your whores' success chances is quite low, as they have low social skills. A prostitution specialist in the caravan would add their social skill.',更新于2026-02-14-->
-  <!--EN: One of your whores' success chances is quite low, as they have low social skills. A prostitution specialist in the caravan would add their social skill.-->
-  <CaravanWhoringLowSoftSkills>您的一位娼妓因其低下的社交等级难以拉客。在远行队中加入一位老鸨来增加其社交等级。</CaravanWhoringLowSoftSkills>
-  <!--原中文: '{0}向{1}提供服务，并收到{2}银作为回报。基础价：{3}，bonus from specialist: {4}', 原英文: '无' -> 新英文: '{0} served {1} and was paid {2}. Base price: {3}, bonus from specialist: {4}',更新于2026-02-14-->
-  <!--EN: {0} served {1} and was paid {2}. Base price: {3}, bonus from specialist: {4}-->
-  <CaravanWhoringNotifyPaymentSilver>{0}向{1}提供服务，并收到{2}银作为回报。基础价：{3}，bonus from specialist: {4}</CaravanWhoringNotifyPaymentSilver>
-  <!--原中文: '{0}向{1}提供服务，并收到基于{3}的{2}点派系好感度。', 原英文: '无' -> 新英文: '{0} served {1} and earned {2} goodwill with {3}.',更新于2026-02-14-->
-  <!--EN: {0} served {1} and earned {2} goodwill with {3}.-->
-  <CaravanWhoringNotifyPaymentGoodwill>{0}向{1}提供服务，并收到基于{3}的{2}点派系好感度。</CaravanWhoringNotifyPaymentGoodwill>
-  <!--原中文: '{0}向{1}提供服务，并收到{2}点热忱圣点。', 原英文: '无' -> 新英文: '{0} served {1} and earned {2} sacred fervor.',更新于2026-02-14-->
-  <!--EN: {0} served {1} and earned {2} sacred fervor.-->
-  <CaravanWhoringNotifyPaymentFervor>{0}向{1}提供服务，并收到{2}点热忱圣点。</CaravanWhoringNotifyPaymentFervor>
-  <!--原中文: '开始卖淫', 原英文: '无' -> 新英文: 'Start Whoring',更新于2026-02-14-->
-  <!--EN: Start Whoring-->
-  <CaravanWhoringActionLabelNoWhoring>开始卖淫</CaravanWhoringActionLabelNoWhoring>
-  <!--原中文: '结束卖淫', 原英文: '无' -> 新英文: 'Stop Whoring',更新于2026-02-14-->
-  <!--EN: Stop Whoring-->
-  <CaravanWhoringActionLabelWhoring>结束卖淫</CaravanWhoringActionLabelWhoring>
-  <!--原中文: '为当前殖民地提供娼妓', 原英文: '无' -> 新英文: 'Offer your whores at the local settlement for a while',更新于2026-02-14-->
   <!--EN: Offer your whores at the local settlement for a while-->
   <CaravanWhoringActionDescNoWhoring>为当前殖民地提供娼妓</CaravanWhoringActionDescNoWhoring>
-  <!--原中文: '停止提供娼妓', 原英文: '无' -> 新英文: 'Stop offering your whores',更新于2026-02-14-->
   <!--EN: Stop offering your whores-->
   <CaravanWhoringActionDescWhoring>停止提供娼妓</CaravanWhoringActionDescWhoring>
-  <!--原中文: '您的远行队已于{0}停止提供娼妓服务', 原英文: '无' -> 新英文: 'Your caravan stopped whoring at {0}',更新于2026-02-14-->
-  <!--EN: Your caravan stopped whoring at {0}-->
-  <CaravanWhoringActionStop>您的远行队已于{0}停止提供娼妓服务</CaravanWhoringActionStop>
-  <!--原中文: '您的远行队于{0}开始提供娼妓服务', 原英文: '无' -> 新英文: 'Your caravan started whoring at {0}',更新于2026-02-14-->
-  <!--EN: Your caravan started whoring at {0}-->
-  <CaravanWhoringActionStart>您的远行队于{0}开始提供娼妓服务</CaravanWhoringActionStart>
-  <!--原中文: '您的远行队将在{0}早上时开始提供服务', 原英文: '无' -> 新英文: 'Your caravan will start whoring at {0} in the morning',更新于2026-02-14-->
-  <!--EN: Your caravan will start whoring at {0} in the morning-->
-  <CaravanWhoringActionStartAtInMorning>您的远行队将在{0}早上时开始提供服务</CaravanWhoringActionStartAtInMorning>
-  <!--原中文: '你需要至少携带一名娼妓', 原英文: '无' -> 新英文: 'You have to bring at least one whore',更新于2026-02-14-->
   <!--EN: You have to bring at least one whore-->
   <CaravanWhoringActionDisable>你需要至少携带一名娼妓</CaravanWhoringActionDisable>
+  <!--EN: Start Whoring-->
+  <CaravanWhoringActionLabelNoWhoring>开始卖淫</CaravanWhoringActionLabelNoWhoring>
+  <!--EN: Stop Whoring-->
+  <CaravanWhoringActionLabelWhoring>结束卖淫</CaravanWhoringActionLabelWhoring>
+  <!--EN: Your caravan started whoring at {0}-->
+  <CaravanWhoringActionStart>您的远行队于{0}开始提供娼妓服务</CaravanWhoringActionStart>
+  <!--EN: Your caravan will start whoring at {0} in the morning-->
+  <CaravanWhoringActionStartAtInMorning>您的远行队将在{0}早上时开始提供服务</CaravanWhoringActionStartAtInMorning>
+  <!--EN: Your caravan stopped whoring at {0}-->
+  <CaravanWhoringActionStop>您的远行队已于{0}停止提供娼妓服务</CaravanWhoringActionStop>
+  <!--EN: One of your whores' success chances is quite low, as they have low social skills. A prostitution specialist in the caravan would add their social skill.-->
+  <CaravanWhoringLowSoftSkills>您的一位娼妓因其低下的社交等级难以拉客。在远行队中加入一位老鸨来增加其社交等级。</CaravanWhoringLowSoftSkills>
+  <!--EN: {0} does not seem to have female clients, yet you brought male whores.-->
+  <CaravanWhoringNoFemaleClients>{0}并无女性寻芳客，但当前只有男性娼妓。</CaravanWhoringNoFemaleClients>
+  <!--EN: {0} does not seem to have male clients, yet you brought female whores.-->
+  <CaravanWhoringNoMaleClients>{0}并无男性寻芳客，但当前只有女性娼妓。</CaravanWhoringNoMaleClients>
+  <!--EN: {0} has no silver to pay for your services.-->
+  <CaravanWhoringNoMoney>{0}没钱嫖娼。</CaravanWhoringNoMoney>
+  <!--EN: {0} served {1} and earned {2} sacred fervor.-->
+  <CaravanWhoringNotifyPaymentFervor>{0}向{1}提供服务，并收到{2}点热忱圣点。</CaravanWhoringNotifyPaymentFervor>
+  <!--EN: {0} served {1} and earned {2} goodwill with {3}.-->
+  <CaravanWhoringNotifyPaymentGoodwill>{0}向{1}提供服务，并收到基于{3}的{2}点派系好感度。</CaravanWhoringNotifyPaymentGoodwill>
+  <!--EN: {0} served {1} and was paid {2}. Base price: {3}, bonus from specialist: {4}-->
+  <CaravanWhoringNotifyPaymentSilver>{0}向{1}提供服务，并收到{2}银作为回报。基础价：{3}，bonus from specialist: {4}</CaravanWhoringNotifyPaymentSilver>
+  <!--EN: Caravan moving away, your whores had to stop.-->
+  <CaravanWhoringStop>远行队即将离开，您的娼妓将停止服务。</CaravanWhoringStop>
 </LanguageData>

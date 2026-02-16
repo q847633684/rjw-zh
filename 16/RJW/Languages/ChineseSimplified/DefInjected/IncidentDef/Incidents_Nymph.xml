@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--原中文: '流莺加入', 原英文: '无' -> 新英文: 'nymph joins',更新于2026-02-14-->
   <!--EN: nymph joins-->
   <NymphJoins.label>流莺加入</NymphJoins.label>
-  <!--原中文: '流莺访客组', 原英文: '无' -> 新英文: 'nymph visitor',更新于2026-02-14-->
   <!--EN: nymph visitor-->
   <NymphVisitor.label>流莺访客组</NymphVisitor.label>
-  <!--过时key，需删除-->
-  <NymphVisitorGroupEasy.label>流莺袭击（简单）</NymphVisitorGroupEasy.label>
-  <!--过时key，需删除-->
-  <NymphVisitorGroupHard.label>流莺袭击（困难）</NymphVisitorGroupHard.label>
 </LanguageData>

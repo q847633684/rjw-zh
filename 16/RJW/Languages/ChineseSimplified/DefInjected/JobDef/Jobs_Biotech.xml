@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--原中文: '正在黑入指定目标的植入机械。', 原英文: '无' -> 新英文: 'hacking implanted mech of TargetA.',更新于2026-02-14-->
-  <!--EN: hacking implanted mech of TargetA.-->
-  <RJW_HackMechPregnancy.reportString>正在黑入指定目标的植入机械。</RJW_HackMechPregnancy.reportString>
-</LanguageData>

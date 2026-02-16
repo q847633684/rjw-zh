@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Installs a archotech anus, replaces other bodyparts if present.-->
+  <InstallArchotechAnus.description>安装一个超凡肛门，如果已有其他部位会被替换。</InstallArchotechAnus.description>
+  <!--EN: Installing archotech anus.-->
+  <InstallArchotechAnus.jobString>正在安装超凡肛门。</InstallArchotechAnus.jobString>
+  <!--EN: install archotech anus-->
+  <InstallArchotechAnus.label>安装超凡肛门</InstallArchotechAnus.label>
+  <!--EN: Installs a pair of archotech breasts, replaces other bodyparts if present.-->
+  <InstallArchotechBreasts.description>安装一对超凡乳房，如果已有其他部位会被替换。</InstallArchotechBreasts.description>
+  <!--EN: Installing archotech breasts.-->
+  <InstallArchotechBreasts.jobString>正在安装超凡乳房。</InstallArchotechBreasts.jobString>
+  <!--EN: install archotech breasts-->
+  <InstallArchotechBreasts.label>安装超凡乳房</InstallArchotechBreasts.label>
+  <!--EN: Attaches a archotech penis, replaces other bodyparts if present.-->
+  <InstallArchotechPenis.description>安装一个超凡阴茎，如果已有其他部位会被替换。</InstallArchotechPenis.description>
+  <!--EN: Attaching archotech penis.-->
+  <InstallArchotechPenis.jobString>正在安装超凡阴茎。</InstallArchotechPenis.jobString>
+  <!--EN: install archotech penis-->
+  <InstallArchotechPenis.label>安装超凡阴茎</InstallArchotechPenis.label>
+  <!--EN: Installs a archotech vagina, replaces other bodyparts if present.-->
+  <InstallArchotechVagina.description>安装一个超凡阴道，如果已有其他部位会被替换。</InstallArchotechVagina.description>
+  <!--EN: Installing archotech vagina.-->
+  <InstallArchotechVagina.jobString>正在安装超凡阴道。</InstallArchotechVagina.jobString>
+  <!--EN: install archotech vagina-->
+  <InstallArchotechVagina.label>安装超凡阴道</InstallArchotechVagina.label>
+  <!--EN: Installs a bionic anus, replaces other bodyparts if present.-->
+  <InstallBionicAnus.description>安装一个仿生肛门，如果已有其他部位会被替换。</InstallBionicAnus.description>
+  <!--EN: Installing bionic anus.-->
+  <InstallBionicAnus.jobString>正在安装仿生肛门。</InstallBionicAnus.jobString>
+  <!--EN: install bionic anus-->
+  <InstallBionicAnus.label>安装仿生肛门</InstallBionicAnus.label>
+  <!--EN: Installs a pair of bionic breasts, replaces other bodyparts if present.-->
+  <InstallBionicBreasts.description>安装一对仿生乳房，如果已有其他部位会被替换。</InstallBionicBreasts.description>
+  <!--EN: Installing bionic breasts.-->
+  <InstallBionicBreasts.jobString>正在安装仿生乳房。</InstallBionicBreasts.jobString>
+  <!--EN: install bionic breasts-->
+  <InstallBionicBreasts.label>安装仿生乳房</InstallBionicBreasts.label>
+  <!--EN: Attaches a bionic penis, replaces other bodyparts if present.-->
+  <InstallBionicPenis.description>安装一个仿生阴茎，如果已有其他部位会被替换。</InstallBionicPenis.description>
+  <!--EN: Attaching bionic penis.-->
+  <InstallBionicPenis.jobString>正在安装仿生阴茎。</InstallBionicPenis.jobString>
+  <!--EN: install bionic penis-->
+  <InstallBionicPenis.label>安装仿生阴茎</InstallBionicPenis.label>
+  <!--EN: Installs a bionic vagina, replaces other bodyparts if present.-->
+  <InstallBionicVagina.description>安装一个仿生阴道，如果已有其他部位会被替换。</InstallBionicVagina.description>
+  <!--EN: Installing bionic vagina.-->
+  <InstallBionicVagina.jobString>正在安装仿生阴道。</InstallBionicVagina.jobString>
+  <!--EN: install bionic vagina-->
+  <InstallBionicVagina.label>安装仿生阴道</InstallBionicVagina.label>
+  <!--EN: Installs a hydraulic anus, replaces other bodyparts if present.-->
+  <InstallHydraulicAnus.description>安装一个液压肛门，如果已有其他部位会被替换。</InstallHydraulicAnus.description>
+  <!--EN: Installing hydraulic anus.-->
+  <InstallHydraulicAnus.jobString>正在安装液压肛门。</InstallHydraulicAnus.jobString>
+  <!--EN: install hydraulic anus-->
+  <InstallHydraulicAnus.label>安装液压肛门</InstallHydraulicAnus.label>
+  <!--EN: Installs a pair of hydraulic breasts, replaces other bodyparts if present.-->
+  <InstallHydraulicBreasts.description>安装一对液压乳房，如果已有其他部位会被替换。</InstallHydraulicBreasts.description>
+  <!--EN: Installing hydraulic breasts.-->
+  <InstallHydraulicBreasts.jobString>正在安装液压乳房。</InstallHydraulicBreasts.jobString>
+  <!--EN: install hydraulic breasts-->
+  <InstallHydraulicBreasts.label>安装液压乳房</InstallHydraulicBreasts.label>
+  <!--EN: Installs a hydraulic penis, replaces other bodyparts if present.-->
+  <InstallHydraulicPenis.description>安装一个液压阴茎，如果已有其他部位会被替换。</InstallHydraulicPenis.description>
+  <!--EN: Installing hydraulic penis.-->
+  <InstallHydraulicPenis.jobString>正在安装液压阴茎。</InstallHydraulicPenis.jobString>
+  <!--EN: install hydraulic penis-->
+  <InstallHydraulicPenis.label>安装液压阴茎</InstallHydraulicPenis.label>
+  <!--EN: Installs a hydraulic vagina, replaces other bodyparts if present.-->
+  <InstallHydraulicVagina.description>安装一个液压阴道，如果已有其他部位会被替换。</InstallHydraulicVagina.description>
+  <!--EN: Installing hydraulic vagina.-->
+  <InstallHydraulicVagina.jobString>正在安装液压阴道。</InstallHydraulicVagina.jobString>
+  <!--EN: install hydraulic vagina-->
+  <InstallHydraulicVagina.label>安装液压阴道</InstallHydraulicVagina.label>
+</LanguageData>

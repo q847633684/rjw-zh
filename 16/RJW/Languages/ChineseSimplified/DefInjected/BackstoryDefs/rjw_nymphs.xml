@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: [PAWN_nameDef] suffered some terrible things, [PAWN_pronoun] looks rather emaciated.-->
+  <rjw_broken.baseDesc>[PAWN_nameDef]经历了一些可怕的事情，[PAWN_pronoun]看起来相当憔悴。</rjw_broken.baseDesc>
+  <!--EN: Broken Nymph-->
+  <rjw_broken.title>崩坏流莺</rjw_broken.title>
+  <!--EN: Nymph-->
+  <rjw_broken.titleShort>流莺</rjw_broken.titleShort>
+  <!--EN: No one can be more loquacious than [PAWN_nameDef]. [PAWN_pronoun] has a flexible tongue, a sharp mind, and hot lips.-->
+  <rjw_chatty.baseDesc>没有人比[PAWN_nameDef]更能言善道。[PAWN_pronoun]有着灵活的舌头、敏锐的头脑和炙热的双唇。</rjw_chatty.baseDesc>
+  <!--EN: Chatty Nymph-->
+  <rjw_chatty.title>健谈流莺</rjw_chatty.title>
+  <!--EN: Nymph-->
+  <rjw_chatty.titleShort>流莺</rjw_chatty.titleShort>
+  <!--EN: [PAWN_nameDef] loves crafting various things, especially things that provide new experiences.-->
+  <rjw_curious.baseDesc>[PAWN_nameDef]喜欢制造各种东西，尤其是能提供新鲜体验的东西。</rjw_curious.baseDesc>
+  <!--EN: Curious Nymph-->
+  <rjw_curious.title>好奇流莺</rjw_curious.title>
+  <!--EN: Nymph-->
+  <rjw_curious.titleShort>流莺</rjw_curious.titleShort>
+  <!--EN: [PAWN_nameDef] is a conqueror by nature and will punch you in a face if you try to say "No" to [PAWN_possessive] advances.-->
+  <rjw_feisty.baseDesc>[PAWN_nameDef]生来便渴望征服，若是你在[PAWN_pronoun]索求时敢说不，便会对你重拳出击。</rjw_feisty.baseDesc>
+  <!--EN: Feisty Nymph-->
+  <rjw_feisty.title>活泼流莺</rjw_feisty.title>
+  <!--EN: Nymph-->
+  <rjw_feisty.titleShort>流莺</rjw_feisty.titleShort>
+  <!--EN: [PAWN_nameDef] was trained to be a housekeeper. Would you like dinner? A bath? Or perhaps...[PAWN_possessive]?.-->
+  <rjw_homekeeper.baseDesc>[PAWN_nameDef]接受过管家的训练。你想要先吃饭？先洗澡？还是……先吃[PAWN_pronoun]？</rjw_homekeeper.baseDesc>
+  <!--EN: Homekeeper Nymph-->
+  <rjw_homekeeper.title>管家流莺</rjw_homekeeper.title>
+  <!--EN: Nymph-->
+  <rjw_homekeeper.titleShort>流莺</rjw_homekeeper.titleShort>
+  <!--EN: [PAWN_nameDef] has a pair of charming eyes, and [PAWN_possessive] voice is soft and sweet. Due to [PAWN_possessive] previous nurse job, [PAWN_pronoun] tends people quite well.-->
+  <rjw_tender.baseDesc>[PAWN_nameDef]有着一双动人的眼睛，并且[PAWN_possessive]的声音绵软甜美。由于[PAWN_pronoun]之前从事的护士工作，[PAWN_pronoun]可以很好的照料人们。</rjw_tender.baseDesc>
+  <!--EN: Tender Nymph-->
+  <rjw_tender.title>温婉流莺</rjw_tender.title>
+  <!--EN: Nymph-->
+  <rjw_tender.titleShort>流莺</rjw_tender.titleShort>
+  <!--EN: [PAWN_nameDef] was made to be a sex toy, rather than a human. During [PAWN_possessive] growing period, [PAWN_pronoun] was taught plenty of social and sex related skills to satisfy any demands of its owners.-->
+  <rjw_vatgrown_sex_slave.baseDesc>[PAWN_nameDef]被塑造成一个性爱玩具、而非作为人类长大。在[PAWN_possessive]成长期中，[PAWN_pronoun]被灌输了很多与性爱有关的技能和社交技能，以满足其主人的需求。</rjw_vatgrown_sex_slave.baseDesc>
+  <!--EN: Vat-Grown Sex Slave-->
+  <rjw_vatgrown_sex_slave.title>人造人性奴</rjw_vatgrown_sex_slave.title>
+  <!--EN: Sex Slave-->
+  <rjw_vatgrown_sex_slave.titleShort>性奴</rjw_vatgrown_sex_slave.titleShort>
+</LanguageData>

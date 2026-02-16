@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!-- Make honey breasts produce honey if Alpha Bees is loaded. -->
-  <!--原中文: '蜜汁', 原英文: '无' -> 新英文: 'honey',更新于2026-02-14-->
-  <!--EN: honey-->
-  <Honey.label>蜜汁</Honey.label>
-</LanguageData>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!-- Placeholder egg/unsupported/any races -->
-  <!--原中文: '未知的蛋', 原英文: '无' -> 新英文: 'generic insect egg',更新于2026-02-14-->
-  <!--EN: generic insect egg-->
-  <RJW_UnknownEgg.label>未知的蛋</RJW_UnknownEgg.label>
-  <!--过时key，需删除-->
-  <RJW_UnknownEgg.description>寄生卵，进入宿主体内并以其营养为食直至孵化，很庆幸它们不会从你的胸膛钻出个洞来。</RJW_UnknownEgg.description>
-</LanguageData>

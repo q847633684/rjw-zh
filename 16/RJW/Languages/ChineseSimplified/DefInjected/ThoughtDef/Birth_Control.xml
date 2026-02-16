@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--原中文: '不得不戴避孕套', 原英文: '无' -> 新英文: 'Had to wear condom',更新于2026-02-14-->
-  <!--EN: Had to wear condom-->
-  <SexWithCondom.stages.0.label>不得不戴避孕套</SexWithCondom.stages.0.label>
-  <!--原中文: '不得不戴避孕套', 原英文: '无' -> 新英文: 'Had to wear condom',更新于2026-02-14-->
-  <!--EN: Had to wear condom-->
-  <SexWithCondom.stages.0.description>不得不戴避孕套</SexWithCondom.stages.0.description>
-</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Safely neutralize mechanoid nanites.-->
+  <RJW_AbortionMech.description>安全中和纳米机械。</RJW_AbortionMech.description>
+  <!--EN: Neutralize mechanoid-->
+  <RJW_AbortionMech.label>中和机械胚胎</RJW_AbortionMech.label>
+  <!--EN: Hack mechanoid AI, cutting it from global mechanoid AI, results docile(unless provoked) mechanoid.-->
+  <RJW_HackMech.description>破解机械AI，将其从敌对AI核心的控制中分离出来，使机械AI变得温顺（除非受到挑衅）。</RJW_HackMech.description>
+  <!--EN: Hacking mechanoid.-->
+  <RJW_HackMech.jobString>破解机械。</RJW_HackMech.jobString>
+  <!--EN: Hack mechanoid-->
+  <RJW_HackMech.label>破解机械</RJW_HackMech.label>
+</LanguageData>

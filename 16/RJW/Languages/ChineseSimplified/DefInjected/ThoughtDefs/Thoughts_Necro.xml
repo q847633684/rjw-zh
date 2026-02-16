@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: {0} wasn't the only thing that was stiff if you know what I mean...-->
+  <ViolatedCorpse.stages.0.description>{0}不仅仅是个僵硬的东西，你懂我意思的……</ViolatedCorpse.stages.0.description>
+  <!--EN: had sex with a corpse-->
+  <ViolatedCorpse.stages.0.label>奸尸</ViolatedCorpse.stages.0.label>
+</LanguageData>

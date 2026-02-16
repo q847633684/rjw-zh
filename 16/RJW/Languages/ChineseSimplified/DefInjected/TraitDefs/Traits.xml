@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Dead people can't say no, can they?-->
+  <Necrophiliac.degreeDatas.0.description>死人永远不会拒绝，不是吗？</Necrophiliac.degreeDatas.0.description>
+  <!--EN: necrophile-->
+  <Necrophiliac.degreeDatas.0.label>恋尸癖</Necrophiliac.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] doesn't take "No" as an answer.-->
+  <Rapist.degreeDatas.0.description>[PAWN_nameDef]不接受他人的拒绝……</Rapist.degreeDatas.0.description>
+  <!--EN: rapist-->
+  <Rapist.degreeDatas.0.label>强奸犯</Rapist.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] likes to walk on the wild side.-->
+  <Zoophile.degreeDatas.0.description>[PAWN_nameDef]喜欢走在狂野的那一边。</Zoophile.degreeDatas.0.description>
+  <!--EN: zoophile-->
+  <Zoophile.degreeDatas.0.label>恋兽癖</Zoophile.degreeDatas.0.label>
+</LanguageData>

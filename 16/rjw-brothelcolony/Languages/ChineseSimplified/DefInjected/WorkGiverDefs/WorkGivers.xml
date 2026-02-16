@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: soliciting-->
+  <Soliciting.gerund>拉客中</Soliciting.gerund>
+  <!--EN: solicite visitors-->
+  <Soliciting.label>拉客</Soliciting.label>
+  <!--EN: solicite-->
+  <Soliciting.verb>拉客中</Soliciting.verb>
+</LanguageData>

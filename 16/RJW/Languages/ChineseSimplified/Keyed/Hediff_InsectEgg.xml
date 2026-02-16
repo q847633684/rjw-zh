@@ -1,32 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!-- LabelBase -->
-  <!--原中文: '卵', 原英文: '无' -> 新英文: ' egg',更新于2026-02-14-->
-  <!--EN:  egg-->
-  <Hediff_InsectEgg_egg>卵</Hediff_InsectEgg_egg>
-  <!-- return implanter.kindDef.race.label + " egg"; -->
-  <!-- unidentified egg sizes -->
-  <!--原中文: '小卵', 原英文: '无' -> 新英文: 'Small egg',更新于2026-02-14-->
-  <!--EN: Small egg-->
-  <Hediff_InsectEgg_small>小卵</Hediff_InsectEgg_small>
-  <!-- eggssize <= 0.10f -->
-  <!--原中文: '中卵', 原英文: '无' -> 新英文: 'Medium egg',更新于2026-02-14-->
-  <!--EN: Medium egg-->
-  <Hediff_InsectEgg_medium>中卵</Hediff_InsectEgg_medium>
-  <!-- eggssize <= 0.3f -->
-  <!--原中文: '大卵', 原英文: '无' -> 新英文: 'Big egg',更新于2026-02-14-->
   <!--EN: Big egg-->
   <Hediff_InsectEgg_big>大卵</Hediff_InsectEgg_big>
-  <!-- eggssize <= 0.5f -->
-  <!--原中文: '巨大卵', 原英文: '无' -> 新英文: 'Huge egg',更新于2026-02-14-->
-  <!--EN: Huge egg-->
-  <Hediff_InsectEgg_huge>巨大卵</Hediff_InsectEgg_huge>
-  <!-- eggssize > 0.5f -->
-  <!-- LabelInBrackets -->
-  <!--原中文: '受精', 原英文: '无' -> 新英文: 'Fertilized',更新于2026-02-14-->
+  <!--EN:  egg-->
+  <Hediff_InsectEgg_egg>卵</Hediff_InsectEgg_egg>
   <!--EN: Fertilized-->
   <Hediff_InsectEgg_fertilized>受精</Hediff_InsectEgg_fertilized>
-  <!--原中文: '未受精', 原英文: '无' -> 新英文: 'Unfertilized',更新于2026-02-14-->
+  <!--EN: Huge egg-->
+  <Hediff_InsectEgg_huge>巨大卵</Hediff_InsectEgg_huge>
+  <!--EN: Medium egg-->
+  <Hediff_InsectEgg_medium>中卵</Hediff_InsectEgg_medium>
+  <!--EN: Small egg-->
+  <Hediff_InsectEgg_small>小卵</Hediff_InsectEgg_small>
   <!--EN: Unfertilized-->
   <Hediff_InsectEgg_unfertilized>未受精</Hediff_InsectEgg_unfertilized>
 </LanguageData>

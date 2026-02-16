@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: presenting prostitutes-->
+  <CB_MadamSpeech.label>介绍妓女</CB_MadamSpeech.label>
+  <!--EN: r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.0>r_logentry-&amp;gt;[INITIATOR_nameDef] [spokeof] [speechtopic].</CB_MadamSpeech.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->[INITIATOR_nameDef] [praised] [speechtopic].-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.1>r_logentry-&amp;gt;[INITIATOR_nameDef] [praised] [speechtopic].</CB_MadamSpeech.logRulesInitiator.rulesStrings.1>
+  <!--EN: speechtopic->pleasure-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.2>speechtopic-&amp;gt;快感</CB_MadamSpeech.logRulesInitiator.rulesStrings.2>
+  <!--EN: speechtopic->orgasms-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.3>speechtopic-&amp;gt;高潮</CB_MadamSpeech.logRulesInitiator.rulesStrings.3>
+  <!--EN: speechtopic->affordable prices-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.4>speechtopic-&amp;gt;实惠的价格</CB_MadamSpeech.logRulesInitiator.rulesStrings.4>
+  <!--EN: speechtopic->[TalkTopicSex]-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.5>speechtopic-&amp;gt;[TalkTopicSex]</CB_MadamSpeech.logRulesInitiator.rulesStrings.5>
+  <!--EN: speechtopic->[TalkTopicSex]-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.6>speechtopic-&amp;gt;[TalkTopicSex]</CB_MadamSpeech.logRulesInitiator.rulesStrings.6>
+  <!--EN: speechtopic->lust-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.7>speechtopic-&amp;gt;情欲</CB_MadamSpeech.logRulesInitiator.rulesStrings.7>
+  <!--EN: speechtopic->skilled whores-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.8>speechtopic-&amp;gt;技艺娴熟的妓女</CB_MadamSpeech.logRulesInitiator.rulesStrings.8>
+  <!--EN: speechtopic->erotic fantasies-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.9>speechtopic-&amp;gt;性幻想</CB_MadamSpeech.logRulesInitiator.rulesStrings.9>
+  <!--EN: speechtopic->the link between [talktopicsexfile] and [talktopicsexfile]-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.10>speechtopic-&amp;gt;[talktopicsexfile] 和 [talktopicsexfile] 之间的联系</CB_MadamSpeech.logRulesInitiator.rulesStrings.10>
+  <!--EN: speechtopic->the connection between [talktopicsexfile] and [talktopicsexfile]-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.11>speechtopic-&amp;gt;[talktopicsexfile] 和 [talktopicsexfile] 之间的关联</CB_MadamSpeech.logRulesInitiator.rulesStrings.11>
+  <!--EN: speechtopic->the relationship between [talktopicsexfile] and [talktopicsexfile]-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.12>speechtopic-&amp;gt;[talktopicsexfile] 和 [talktopicsexfile] 之间的关系</CB_MadamSpeech.logRulesInitiator.rulesStrings.12>
+  <!--EN: speechtopic->the link between [talktopicheavyfile] and [talktopicsexfile]-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.13>speechtopic-&amp;gt;[talktopicheavyfile] 和 [talktopicsexfile] 之间的联系</CB_MadamSpeech.logRulesInitiator.rulesStrings.13>
+  <!--EN: speechtopic->the connection between [talktopicheavyfile] and [talktopicsexfile]-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.14>speechtopic-&amp;gt;[talktopicheavyfile] 和 [talktopicsexfile] 之间的关联</CB_MadamSpeech.logRulesInitiator.rulesStrings.14>
+  <!--EN: speechtopic->the relationship between [talktopicheavyfile] and [talktopicsexfile]-->
+  <CB_MadamSpeech.logRulesInitiator.rulesStrings.15>speechtopic-&amp;gt;[talktopicheavyfile] 和 [talktopicsexfile] 之间的关系</CB_MadamSpeech.logRulesInitiator.rulesStrings.15>
+  <!--EN: participant count-->
+  <CB_NoneOutcome.comps.0.label>参与人数</CB_NoneOutcome.comps.0.label>
+  <!--EN: No other outcome.-->
+  <CB_NoneOutcome.description>没有其他结果。</CB_NoneOutcome.description>
+  <!--EN: Nothing-->
+  <CB_NoneOutcome.outcomeChances.0.description>无</CB_NoneOutcome.outcomeChances.0.description>
+  <!--EN: None-->
+  <CB_NoneOutcome.outcomeChances.0.label>无</CB_NoneOutcome.outcomeChances.0.label>
+  <!--EN: Present your whores to visitors of your choice-->
+  <CB_Prostitution_Present_Ritual.description>向您选择的访客介绍您的妓女</CB_Prostitution_Present_Ritual.description>
+  <!--EN: presenting-->
+  <CB_Prostitution_Present_Ritual.label>介绍</CB_Prostitution_Present_Ritual.label>
+  <!--EN: {SPEAKER_labelShort} is presenting your whores to visitors.-->
+  <CB_Prostitution_Present_Ritual_Behaviour.letterText>{SPEAKER_labelShort} 正在向访客介绍您的妓女。</CB_Prostitution_Present_Ritual_Behaviour.letterText>
+  <!--EN: madam-->
+  <CB_Prostitution_Present_Ritual_Behaviour.roles.0.label>老鸨</CB_Prostitution_Present_Ritual_Behaviour.roles.0.label>
+  <!--EN: prostitute-->
+  <CB_Prostitution_Present_Ritual_Behaviour.roles.1.label>妓女</CB_Prostitution_Present_Ritual_Behaviour.roles.1.label>
+  <!--EN: pawns capable of whoring-->
+  <CB_Prostitution_Present_Ritual_Behaviour.roles.1.missingDesc>能够卖淫的角色</CB_Prostitution_Present_Ritual_Behaviour.roles.1.missingDesc>
+  <!--EN: client-->
+  <CB_Prostitution_Present_Ritual_Behaviour.roles.2.label>顾客</CB_Prostitution_Present_Ritual_Behaviour.roles.2.label>
+  <!--EN: non-hostile visitors-->
+  <CB_Prostitution_Present_Ritual_Behaviour.roles.2.missingDesc>非敌对的访客</CB_Prostitution_Present_Ritual_Behaviour.roles.2.missingDesc>
+  <!--EN: No spectators allowed.-->
+  <CB_Prostitution_Present_Ritual_Behaviour.spectatorFilter.description>不允许有旁观者。</CB_Prostitution_Present_Ritual_Behaviour.spectatorFilter.description>
+  <!--EN: {0}: The speech is over, and the party is beginning.-->
+  <CB_Prostitution_Present_Ritual_Behaviour.stages.0.postAction.text>{0}: 演讲结束，派对开始了。</CB_Prostitution_Present_Ritual_Behaviour.stages.0.postAction.text>
+</LanguageData>
