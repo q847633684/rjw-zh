@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Observed_generator_conclusion_Negative-->
+  <Observed_generator_conclusion_Negative.label>Observed_generator_conclusion_Negative</Observed_generator_conclusion_Negative.label>
+  <Observed_generator_conclusion_Negative.texts>
+    <!--EN: {OBSERVER_nameShort} gaze was rather unappealing, making me want to cover myself.-->
+    <li>{OBSERVER_nameShort} gaze was rather unappealing, making me want to cover myself.</li>
+    <!--EN: {OBSERVER_nameShort} look was a truly distasteful display, leaving me quite repulsed.-->
+    <li>{OBSERVER_nameShort} look was a truly distasteful display, leaving me quite repulsed.</li>
+    <!--EN: I felt a profound sense of discomfort and aversion from {OBSERVER_nameShort} eyes.-->
+    <li>I felt a profound sense of discomfort and aversion from {OBSERVER_nameShort} eyes.</li>
+    <!--EN: {OBSERVER_nameShort} gaze stirred something negative within me, a deep unease.-->
+    <li>{OBSERVER_nameShort} gaze stirred something negative within me, a deep unease.</li>
+    <!--EN: Such vulgarity in {OBSERVER_nameShort} look, it filled me with a feeling of disgust.-->
+    <li>Such vulgarity in {OBSERVER_nameShort} look, it filled me with a feeling of disgust.</li>
+    <!--EN: I wanted to tear my eyes away from them; {OBSERVER_nameShort} gaze was simply unpleasant.-->
+    <li>I wanted to tear my eyes away from them; {OBSERVER_nameShort} gaze was simply unpleasant.</li>
+    <!--EN: {OBSERVER_nameShort} look was an unsightly vision, inspiring a chill that spread through my entire being.-->
+    <li>{OBSERVER_nameShort} look was an unsightly vision, inspiring a chill that spread through my entire being.</li>
+    <!--EN: My senses were overwhelmed by the sheer ugliness of {OBSERVER_nameShort} observation.-->
+    <li>My senses were overwhelmed by the sheer ugliness of {OBSERVER_nameShort} observation.</li>
+    <!--EN: It was an experience I wished had never happened, a pure distaste for {OBSERVER_nameShort} gaze.-->
+    <li>It was an experience I wished had never happened, a pure distaste for {OBSERVER_nameShort} gaze.</li>
+    <!--EN: I felt a powerful disconnection, repelled by the raw honesty of {OBSERVER_nameShort} stare.-->
+    <li>I felt a powerful disconnection, repelled by the raw honesty of {OBSERVER_nameShort} stare.</li>
+    <!--EN: This was a moment of pure, unadulterated revulsion from being seen by them.-->
+    <li>This was a moment of pure, unadulterated revulsion from being seen by them.</li>
+    <!--EN: Every fiber of my being recoiled with disapproval of {OBSERVER_nameShort} look.-->
+    <li>Every fiber of my being recoiled with disapproval of {OBSERVER_nameShort} look.</li>
+    <!--EN: I felt a sickening dread, a yearning for distance from {OBSERVER_nameShort} eyes.-->
+    <li>I felt a sickening dread, a yearning for distance from {OBSERVER_nameShort} eyes.</li>
+    <!--EN: The way they looked at me was truly unsettling, almost offensive.-->
+    <li>The way they looked at me was truly unsettling, almost offensive.</li>
+    <!--EN: It left me disturbed, eager to escape such unpleasant gazes.-->
+    <li>It left me disturbed, eager to escape such unpleasant gazes.</li>
+    <!--EN: A profound sense of discomfort washed over me from {OBSERVER_nameShort} observation.-->
+    <li>A profound sense of discomfort washed over me from {OBSERVER_nameShort} observation.</li>
+    <!--EN: I felt a deep, prudish aversion, utterly displeased by {OBSERVER_nameShort} attention.-->
+    <li>I felt a deep, prudish aversion, utterly displeased by {OBSERVER_nameShort} attention.</li>
+    <!--EN: This was an unforgettable encounter, a blight on my eyes and soul from {OBSERVER_nameShort} stare.-->
+    <li>This was an unforgettable encounter, a blight on my eyes and soul from {OBSERVER_nameShort} stare.</li>
+    <!--EN: My heart pounded with a mixture of disdain and intense discomfort from {OBSERVER_nameShort} look.-->
+    <li>My heart pounded with a mixture of disdain and intense discomfort from {OBSERVER_nameShort} look.</li>
+    <!--EN: {OBSERVER_nameShort} reaction filled me with an irritating, almost nauseating, feeling.-->
+    <li>{OBSERVER_nameShort} reaction filled me with an irritating, almost nauseating, feeling.</li>
+  </Observed_generator_conclusion_Negative.texts>
+  <!--EN: Observed_generator_conclusion_Neutral-->
+  <Observed_generator_conclusion_Neutral.label>Observed_generator_conclusion_Neutral</Observed_generator_conclusion_Neutral.label>
+  <Observed_generator_conclusion_Neutral.texts>
+    <!--EN: {OBSERVER_nameShort} gaze was simply a look, nothing more, nothing less.-->
+    <li>{OBSERVER_nameShort} gaze was simply a look, nothing more, nothing less.</li>
+    <!--EN: I was observed, without any particular emotional response.-->
+    <li>I was observed, without any particular emotional response.</li>
+    <!--EN: The scene unfolded, and I was seen as a matter of fact.-->
+    <li>The scene unfolded, and I was seen as a matter of fact.</li>
+    <!--EN: My feelings remained unswayed by {OBSERVER_nameShort} look, neither positive nor negative.-->
+    <li>My feelings remained unswayed by {OBSERVER_nameShort} look, neither positive nor negative.</li>
+    <!--EN: I was there, and they saw me. That was all.-->
+    <li>I was there, and they saw me. That was all.</li>
+    <!--EN: {OBSERVER_nameShort} observation didn't provoke a strong reaction in me.-->
+    <li>{OBSERVER_nameShort} observation didn&amp;apos;t provoke a strong reaction in me.</li>
+    <!--EN: A neutral observation, I was part of {OBSERVER_nameShort} surroundings.-->
+    <li>A neutral observation, I was part of {OBSERVER_nameShort} surroundings.</li>
+    <!--EN: {OBSERVER_nameShort} gaze passed over me, moving on to other things.-->
+    <li>{OBSERVER_nameShort} gaze passed over me, moving on to other things.</li>
+    <!--EN: {OBSERVER_nameShort} look had no strong opinion.-->
+    <li>{OBSERVER_nameShort} look had no strong opinion.</li>
+    <!--EN: The moment of being seen was unremarkable, simply existing.-->
+    <li>The moment of being seen was unremarkable, simply existing.</li>
+    <!--EN: I felt no particular draw or repulsion from {OBSERVER_nameShort} attention.-->
+    <li>I felt no particular draw or repulsion from {OBSERVER_nameShort} attention.</li>
+    <!--EN: {OBSERVER_nameShort} look didn't leave a lasting impression on me.-->
+    <li>{OBSERVER_nameShort} look didn&amp;apos;t leave a lasting impression on me.</li>
+    <!--EN: My thoughts remained dispassionate about {OBSERVER_nameShort} observation.-->
+    <li>My thoughts remained dispassionate about {OBSERVER_nameShort} observation.</li>
+    <!--EN: Just another visual, nothing to dwell on about {OBSERVER_nameShort} gaze.-->
+    <li>Just another visual, nothing to dwell on about {OBSERVER_nameShort} gaze.</li>
+    <!--EN: I acknowledged {OBSERVER_nameShort} sight, then dismissed it.-->
+    <li>I acknowledged {OBSERVER_nameShort} sight, then dismissed it.</li>
+    <!--EN: {OBSERVER_nameShort} look was neither appealing nor unappealing.-->
+    <li>{OBSERVER_nameShort} look was neither appealing nor unappealing.</li>
+    <!--EN: My emotions were unaffected by {OBSERVER_nameShort} observation.-->
+    <li>My emotions were unaffected by {OBSERVER_nameShort} observation.</li>
+    <!--EN: A fleeting moment of being seen, quickly forgotten.-->
+    <li>A fleeting moment of being seen, quickly forgotten.</li>
+    <!--EN: I felt no curiosity or aversion from {OBSERVER_nameShort} gaze.-->
+    <li>I felt no curiosity or aversion from {OBSERVER_nameShort} gaze.</li>
+    <!--EN: The scene was simply present, {OBSERVER_nameShort} observation without consequence.-->
+    <li>The scene was simply present, {OBSERVER_nameShort} observation without consequence.</li>
+  </Observed_generator_conclusion_Neutral.texts>
+  <!--EN: Observed_generator_conclusion_positive-->
+  <Observed_generator_conclusion_positive.label>Observed_generator_conclusion_positive</Observed_generator_conclusion_positive.label>
+  <Observed_generator_conclusion_positive.texts>
+    <!--EN: That was unbelievable, that made me wanting to be seen more.-->
+    <li>That was unbelievable, that made me wanting to be seen more.</li>
+    <!--EN: {OBSERVER_nameShort} gaze was truly captivating, leaving me utterly enchanted.-->
+    <li>{OBSERVER_nameShort} gaze was truly captivating, leaving me utterly enchanted.</li>
+    <!--EN: I felt a profound sense of being admired and desired.-->
+    <li>I felt a profound sense of being admired and desired.</li>
+    <!--EN: {OBSERVER_nameShort} eyes stirred something primal within me, a deep longing to be appreciated.-->
+    <li>{OBSERVER_nameShort} eyes stirred something primal within me, a deep longing to be appreciated.</li>
+    <!--EN: Such appreciation, it filled me with a joyous, almost reverent, feeling.-->
+    <li>Such appreciation, it filled me with a joyous, almost reverent, feeling.</li>
+    <!--EN: I couldn't help but want {OBSERVER_nameShort} eyes to linger; it was simply magnificent.-->
+    <li>I couldn&amp;apos;t help but want {OBSERVER_nameShort} eyes to linger; it was simply magnificent.</li>
+    <!--EN: {OBSERVER_nameShort} gaze was a perfect vision, inspiring a warmth that spread through my entire being.-->
+    <li>{OBSERVER_nameShort} gaze was a perfect vision, inspiring a warmth that spread through my entire being.</li>
+    <!--EN: My senses were overwhelmed by the sheer allure of being seen in that moment.-->
+    <li>My senses were overwhelmed by the sheer allure of being seen in that moment.</li>
+    <!--EN: It was an experience I never wanted to end, a pure delight to be observed.-->
+    <li>It was an experience I never wanted to end, a pure delight to be observed.</li>
+    <!--EN: I felt a powerful connection, drawn in by {OBSERVER_nameShort} honest appreciation.-->
+    <li>I felt a powerful connection, drawn in by {OBSERVER_nameShort} honest appreciation.</li>
+    <!--EN: This was a moment of pure, unadulterated pleasure from being seen.-->
+    <li>This was a moment of pure, unadulterated pleasure from being seen.</li>
+    <!--EN: Every fiber of my being resonated with {OBSERVER_nameShort} appreciation.-->
+    <li>Every fiber of my being resonated with {OBSERVER_nameShort} appreciation.</li>
+    <!--EN: I felt a delicious thrill, a yearning for {OBSERVER_nameShort} closer intimacy.-->
+    <li>I felt a delicious thrill, a yearning for {OBSERVER_nameShort} closer intimacy.</li>
+    <!--EN: The beauty they saw in me was truly inspiring, almost divine.-->
+    <li>The beauty they saw in me was truly inspiring, almost divine.</li>
+    <!--EN: It left me breathless, eager for more such captivating gazes.-->
+    <li>It left me breathless, eager for more such captivating gazes.</li>
+    <!--EN: A profound sense of satisfaction washed over me from {OBSERVER_nameShort} look.-->
+    <li>A profound sense of satisfaction washed over me from {OBSERVER_nameShort} look.</li>
+    <!--EN: I felt a deep, sensual awakening, utterly enthralled by {OBSERVER_nameShort} attention.-->
+    <li>I felt a deep, sensual awakening, utterly enthralled by {OBSERVER_nameShort} attention.</li>
+    <!--EN: This was an unforgettable encounter, a feast for {OBSERVER_nameShort} eyes and my soul.-->
+    <li>This was an unforgettable encounter, a feast for {OBSERVER_nameShort} eyes and my soul.</li>
+    <!--EN: My heart pounded with a mixture of awe and intense longing for {OBSERVER_nameShort} continued gaze.-->
+    <li>My heart pounded with a mixture of awe and intense longing for {OBSERVER_nameShort} continued gaze.</li>
+    <!--EN: {OBSERVER_nameShort} reaction filled me with an exhilarating, almost intoxicating, joy.-->
+    <li>{OBSERVER_nameShort} reaction filled me with an exhilarating, almost intoxicating, joy.</li>
+  </Observed_generator_conclusion_positive.texts>
+  <!--EN: Observer_generator_conclusion_Negative-->
+  <Observer_generator_conclusion_Negative.label>Observer_generator_conclusion_Negative</Observer_generator_conclusion_Negative.label>
+  <Observer_generator_conclusion_Negative.texts>
+    <!--EN: That was rather unappealing, making me want to look away.-->
+    <li>That was rather unappealing, making me want to look away.</li>
+    <!--EN: A truly distasteful display, leaving me quite repulsed.-->
+    <li>A truly distasteful display, leaving me quite repulsed.</li>
+    <!--EN: I felt a profound sense of discomfort and aversion.-->
+    <li>I felt a profound sense of discomfort and aversion.</li>
+    <!--EN: The sight stirred something negative within me, a deep unease.-->
+    <li>The sight stirred something negative within me, a deep unease.</li>
+    <!--EN: Such vulgarity, it filled me with a feeling of disgust.-->
+    <li>Such vulgarity, it filled me with a feeling of disgust.</li>
+    <!--EN: I wanted to tear my eyes away; it was simply unpleasant.-->
+    <li>I wanted to tear my eyes away; it was simply unpleasant.</li>
+    <!--EN: An unsightly vision, inspiring a chill that spread through my entire being.-->
+    <li>An unsightly vision, inspiring a chill that spread through my entire being.</li>
+    <!--EN: My senses were overwhelmed by the sheer ugliness of the moment.-->
+    <li>My senses were overwhelmed by the sheer ugliness of the moment.</li>
+    <!--EN: It was an experience I wished had never happened, a pure distaste.-->
+    <li>It was an experience I wished had never happened, a pure distaste.</li>
+    <!--EN: I felt a powerful disconnection, repelled by the raw honesty of the scene.-->
+    <li>I felt a powerful disconnection, repelled by the raw honesty of the scene.</li>
+    <!--EN: This was a moment of pure, unadulterated revulsion.-->
+    <li>This was a moment of pure, unadulterated revulsion.</li>
+    <!--EN: Every fiber of my being recoiled with disapproval.-->
+    <li>Every fiber of my being recoiled with disapproval.</li>
+    <!--EN: I felt a sickening dread, a yearning for distance.-->
+    <li>I felt a sickening dread, a yearning for distance.</li>
+    <!--EN: The sight I witnessed was truly unsettling, almost offensive.-->
+    <li>The sight I witnessed was truly unsettling, almost offensive.</li>
+    <!--EN: It left me disturbed, eager to escape such unpleasant sights.-->
+    <li>It left me disturbed, eager to escape such unpleasant sights.</li>
+    <!--EN: A profound sense of discomfort washed over me.-->
+    <li>A profound sense of discomfort washed over me.</li>
+    <!--EN: I felt a deep, prudish aversion, utterly displeased.-->
+    <li>I felt a deep, prudish aversion, utterly displeased.</li>
+    <!--EN: This was an unforgettable encounter, a blight on the eyes and soul.-->
+    <li>This was an unforgettable encounter, a blight on the eyes and soul.</li>
+    <!--EN: My heart pounded with a mixture of disdain and intense discomfort.-->
+    <li>My heart pounded with a mixture of disdain and intense discomfort.</li>
+    <!--EN: The scene filled me with an irritating, almost nauseating, feeling.-->
+    <li>The scene filled me with an irritating, almost nauseating, feeling.</li>
+  </Observer_generator_conclusion_Negative.texts>
+  <!--EN: Observer_generator_conclusion_Neutral-->
+  <Observer_generator_conclusion_Neutral.label>Observer_generator_conclusion_Neutral</Observer_generator_conclusion_Neutral.label>
+  <Observer_generator_conclusion_Neutral.texts>
+    <!--EN: It was simply a sight, nothing more, nothing less.-->
+    <li>It was simply a sight, nothing more, nothing less.</li>
+    <!--EN: I observed it without any particular emotional response.-->
+    <li>I observed it without any particular emotional response.</li>
+    <!--EN: The scene unfolded, and I took it in as a matter of fact.-->
+    <li>The scene unfolded, and I took it in as a matter of fact.</li>
+    <!--EN: My feelings remained unswayed, neither positive nor negative.-->
+    <li>My feelings remained unswayed, neither positive nor negative.</li>
+    <!--EN: It was there, and I saw it. That was all.-->
+    <li>It was there, and I saw it. That was all.</li>
+    <!--EN: I registered the nudity, but it didn't provoke a strong reaction.-->
+    <li>I registered the nudity, but it didn&amp;apos;t provoke a strong reaction.</li>
+    <!--EN: A neutral observation, part of the surroundings.-->
+    <li>A neutral observation, part of the surroundings.</li>
+    <!--EN: My gaze passed over it, moving on to other things.-->
+    <li>My gaze passed over it, moving on to other things.</li>
+    <!--EN: It was what it was; I had no strong opinion.-->
+    <li>It was what it was; I had no strong opinion.</li>
+    <!--EN: The moment was unremarkable, simply existing.-->
+    <li>The moment was unremarkable, simply existing.</li>
+    <!--EN: I felt no particular draw or repulsion.-->
+    <li>I felt no particular draw or repulsion.</li>
+    <!--EN: It didn't leave a lasting impression.-->
+    <li>It didn&amp;apos;t leave a lasting impression.</li>
+    <!--EN: My thoughts remained dispassionate.-->
+    <li>My thoughts remained dispassionate.</li>
+    <!--EN: Just another visual, nothing to dwell on.-->
+    <li>Just another visual, nothing to dwell on.</li>
+    <!--EN: I acknowledged the sight, then dismissed it.-->
+    <li>I acknowledged the sight, then dismissed it.</li>
+    <!--EN: It was neither appealing nor unappealing.-->
+    <li>It was neither appealing nor unappealing.</li>
+    <!--EN: My emotions were unaffected by the display.-->
+    <li>My emotions were unaffected by the display.</li>
+    <!--EN: A fleeting moment, quickly forgotten.-->
+    <li>A fleeting moment, quickly forgotten.</li>
+    <!--EN: I felt no curiosity or aversion.-->
+    <li>I felt no curiosity or aversion.</li>
+    <!--EN: The scene was simply present, without consequence.-->
+    <li>The scene was simply present, without consequence.</li>
+  </Observer_generator_conclusion_Neutral.texts>
+  <!--EN: Observer_generator_conclusion_positive-->
+  <Observer_generator_conclusion_positive.label>Observer_generator_conclusion_positive</Observer_generator_conclusion_positive.label>
+  <Observer_generator_conclusion_positive.texts>
+    <!--EN: That was unbelievable, that made me wanting to see more.-->
+    <li>That was unbelievable, that made me wanting to see more.</li>
+    <!--EN: A truly captivating display, leaving me utterly enchanted.-->
+    <li>A truly captivating display, leaving me utterly enchanted.</li>
+    <!--EN: I felt a profound sense of admiration and desire.-->
+    <li>I felt a profound sense of admiration and desire.</li>
+    <!--EN: The sight stirred something primal within me, a deep longing.-->
+    <li>The sight stirred something primal within me, a deep longing.</li>
+    <!--EN: Such beauty, it filled me with a joyous, almost reverent, feeling.-->
+    <li>Such beauty, it filled me with a joyous, almost reverent, feeling.</li>
+    <!--EN: I couldn't tear my eyes away; it was simply magnificent.-->
+    <li>I couldn&amp;apos;t tear my eyes away; it was simply magnificent.</li>
+    <!--EN: A perfect vision, inspiring a warmth that spread through my entire being.-->
+    <li>A perfect vision, inspiring a warmth that spread through my entire being.</li>
+    <!--EN: My senses were overwhelmed by the sheer allure of the moment.-->
+    <li>My senses were overwhelmed by the sheer allure of the moment.</li>
+    <!--EN: It was an experience I never wanted to end, a pure delight.-->
+    <li>It was an experience I never wanted to end, a pure delight.</li>
+    <!--EN: I felt a powerful connection, drawn in by the raw honesty of the scene.-->
+    <li>I felt a powerful connection, drawn in by the raw honesty of the scene.</li>
+    <!--EN: This was a moment of pure, unadulterated pleasure.-->
+    <li>This was a moment of pure, unadulterated pleasure.</li>
+    <!--EN: Every fiber of my being resonated with appreciation.-->
+    <li>Every fiber of my being resonated with appreciation.</li>
+    <!--EN: I felt a delicious thrill, a yearning for closer intimacy.-->
+    <li>I felt a delicious thrill, a yearning for closer intimacy.</li>
+    <!--EN: The beauty I witnessed was truly inspiring, almost divine.-->
+    <li>The beauty I witnessed was truly inspiring, almost divine.</li>
+    <!--EN: It left me breathless, eager for more such captivating sights.-->
+    <li>It left me breathless, eager for more such captivating sights.</li>
+    <!--EN: A profound sense of satisfaction washed over me.-->
+    <li>A profound sense of satisfaction washed over me.</li>
+    <!--EN: I felt a deep, sensual awakening, utterly enthralled.-->
+    <li>I felt a deep, sensual awakening, utterly enthralled.</li>
+    <!--EN: This was an unforgettable encounter, a feast for the eyes and soul.-->
+    <li>This was an unforgettable encounter, a feast for the eyes and soul.</li>
+    <!--EN: My heart pounded with a mixture of awe and intense longing.-->
+    <li>My heart pounded with a mixture of awe and intense longing.</li>
+    <!--EN: The scene filled me with an exhilarating, almost intoxicating, joy.-->
+    <li>The scene filled me with an exhilarating, almost intoxicating, joy.</li>
+  </Observer_generator_conclusion_positive.texts>
+</LanguageData>

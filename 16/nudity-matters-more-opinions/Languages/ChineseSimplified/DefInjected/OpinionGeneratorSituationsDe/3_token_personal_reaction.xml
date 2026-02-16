@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Observed_reacts_to_was_seen_by_anotehr_pawn_Negative-->
+  <Observed_reacts_to_was_seen_by_anotehr_pawn_Negative.label>Observed_reacts_to_was_seen_by_anotehr_pawn_Negative</Observed_reacts_to_was_seen_by_anotehr_pawn_Negative.label>
+  <Observed_reacts_to_was_seen_by_anotehr_pawn_Negative.texts>
+    <!--EN: and felt a shiver of discomfort from {OBSERVER_possessive}.-->
+    <li>and felt a shiver of discomfort from {OBSERVER_possessive}.</li>
+    <!--EN: and was quite embarrassed by {OBSERVER_possessive} gaze.-->
+    <li>and was quite embarrassed by {OBSERVER_possessive} gaze.</li>
+    <!--EN: and felt a wave of shame.-->
+    <li>and felt a wave of shame.</li>
+    <!--EN: and was annoyed to be noticed by {OBSERVER_possessive}.-->
+    <li>and was annoyed to be noticed by {OBSERVER_possessive}.</li>
+    <!--EN: and felt a sense of vulnerability.-->
+    <li>and felt a sense of vulnerability.</li>
+    <!--EN: and found {OBSERVER_possessive} attention intrusive.-->
+    <li>and found {OBSERVER_possessive} attention intrusive.</li>
+    <!--EN: and felt uneasy.-->
+    <li>and felt uneasy.</li>
+    <!--EN: and was bothered by {OBSERVER_possessive} presence.-->
+    <li>and was bothered by {OBSERVER_possessive} presence.</li>
+    <!--EN: and felt a strong sense of privacy invasion.-->
+    <li>and felt a strong sense of privacy invasion.</li>
+    <!--EN: and was disturbed by {OBSERVER_possessive} observation.-->
+    <li>and was disturbed by {OBSERVER_possessive} observation.</li>
+    <!--EN: and found {OBSERVER_possessive} gaze unsettling.-->
+    <li>and found {OBSERVER_possessive} gaze unsettling.</li>
+    <!--EN: and felt a pang of irritation.-->
+    <li>and felt a pang of irritation.</li>
+    <!--EN: and was offended by {OBSERVER_possessive}.-->
+    <li>and was offended by {OBSERVER_possessive}.</li>
+    <!--EN: and found {OBSERVER_possessive} reaction inappropriate.-->
+    <li>and found {OBSERVER_possessive} reaction inappropriate.</li>
+    <!--EN: and felt a sense of exposure.-->
+    <li>and felt a sense of exposure.</li>
+    <!--EN: and was distressed by {OBSERVER_possessive}.-->
+    <li>and was distressed by {OBSERVER_possessive}.</li>
+    <!--EN: and found {OBSERVER_possessive} stare unnerving.-->
+    <li>and found {OBSERVER_possessive} stare unnerving.</li>
+    <!--EN: and felt a prickle of anger.-->
+    <li>and felt a prickle of anger.</li>
+    <!--EN: and was put off by {OBSERVER_possessive}.-->
+    <li>and was put off by {OBSERVER_possessive}.</li>
+    <!--EN: and found {OBSERVER_possessive} attention unwelcome.-->
+    <li>and found {OBSERVER_possessive} attention unwelcome.</li>
+    <!--EN: and felt a strong aversion.-->
+    <li>and felt a strong aversion.</li>
+    <!--EN: and was appalled by {OBSERVER_possessive} reaction.-->
+    <li>and was appalled by {OBSERVER_possessive} reaction.</li>
+    <!--EN: and found {OBSERVER_possessive} gaze to be judgmental.-->
+    <li>and found {OBSERVER_possessive} gaze to be judgmental.</li>
+    <!--EN: and felt a profound sense of humiliation.-->
+    <li>and felt a profound sense of humiliation.</li>
+    <!--EN: and was deeply troubled by {OBSERVER_possessive} observation.-->
+    <li>and was deeply troubled by {OBSERVER_possessive} observation.</li>
+    <!--EN: and found {OBSERVER_possessive} presence to be a source of distress.-->
+    <li>and found {OBSERVER_possessive} presence to be a source of distress.</li>
+    <!--EN: and felt an overwhelming sense of indignation.-->
+    <li>and felt an overwhelming sense of indignation.</li>
+    <!--EN: and was utterly repulsed by {OBSERVER_possessive} scrutiny.-->
+    <li>and was utterly repulsed by {OBSERVER_possessive} scrutiny.</li>
+    <!--EN: and found {OBSERVER_possessive} gaze to be a violation.-->
+    <li>and found {OBSERVER_possessive} gaze to be a violation.</li>
+    <!--EN: and felt a bitter resentment towards {OBSERVER_possessive}.-->
+    <li>and felt a bitter resentment towards {OBSERVER_possessive}.</li>
+  </Observed_reacts_to_was_seen_by_anotehr_pawn_Negative.texts>
+  <!--EN: Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral-->
+  <Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral.label>Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral</Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral.label>
+  <Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral.texts>
+    <!--EN: and felt no particular reaction to {OBSERVER_possessive}.-->
+    <li>and felt no particular reaction to {OBSERVER_possessive}.</li>
+    <!--EN: and didn't mind being seen by {OBSERVER_possessive}.-->
+    <li>and didn&amp;apos;t mind being seen by {OBSERVER_possessive}.</li>
+    <!--EN: and simply registered {OBSERVER_possessive} presence.-->
+    <li>and simply registered {OBSERVER_possessive} presence.</li>
+    <!--EN: and felt indifferent to {OBSERVER_possessive} gaze.-->
+    <li>and felt indifferent to {OBSERVER_possessive} gaze.</li>
+    <!--EN: and took no special notice of {OBSERVER_possessive}.-->
+    <li>and took no special notice of {OBSERVER_possessive}.</li>
+    <!--EN: and felt no strong emotion.-->
+    <li>and felt no strong emotion.</li>
+    <!--EN: and acknowledged {OBSERVER_possessive} observation.-->
+    <li>and acknowledged {OBSERVER_possessive} observation.</li>
+    <!--EN: and remained unconcerned.-->
+    <li>and remained unconcerned.</li>
+    <!--EN: and processed the fact that {OBSERVER_possessive} saw them.-->
+    <li>and processed the fact that {OBSERVER_possessive} saw them.</li>
+    <!--EN: and paid little attention to {OBSERVER_possessive}.-->
+    <li>and paid little attention to {OBSERVER_possessive}.</li>
+    <!--EN: and felt a mild awareness.-->
+    <li>and felt a mild awareness.</li>
+    <!--EN: and continued as normal.-->
+    <li>and continued as normal.</li>
+    <!--EN: and found {OBSERVER_possessive} glance unremarkable.-->
+    <li>and found {OBSERVER_possessive} glance unremarkable.</li>
+    <!--EN: and gave it no further thought.-->
+    <li>and gave it no further thought.</li>
+    <!--EN: and felt no strong reaction to {OBSERVER_possessive}.-->
+    <li>and felt no strong reaction to {OBSERVER_possessive}.</li>
+    <!--EN: and simply noted {OBSERVER_possessive} presence.-->
+    <li>and simply noted {OBSERVER_possessive} presence.</li>
+    <!--EN: and had no opinion about {OBSERVER_possessive}.-->
+    <li>and had no opinion about {OBSERVER_possessive}.</li>
+    <!--EN: and continued with my activities.-->
+    <li>and continued with my activities.</li>
+    <!--EN: and found {OBSERVER_possessive} observation to be average.-->
+    <li>and found {OBSERVER_possessive} observation to be average.</li>
+    <!--EN: and didn't dwell on being seen by {OBSERVER_possessive}.-->
+    <li>and didn&amp;apos;t dwell on being seen by {OBSERVER_possessive}.</li>
+    <!--EN: and felt a slight detachment.-->
+    <li>and felt a slight detachment.</li>
+    <!--EN: and barely registered {OBSERVER_possessive}.-->
+    <li>and barely registered {OBSERVER_possessive}.</li>
+    <!--EN: and felt neither positive nor negative about {OBSERVER_possessive}.-->
+    <li>and felt neither positive nor negative about {OBSERVER_possessive}.</li>
+    <!--EN: and focused on my own affairs.-->
+    <li>and focused on my own affairs.</li>
+    <!--EN: and found {OBSERVER_possessive} gaze to be just there.-->
+    <li>and found {OBSERVER_possessive} gaze to be just there.</li>
+    <!--EN: and felt no compelling urge to react to {OBSERVER_possessive}.-->
+    <li>and felt no compelling urge to react to {OBSERVER_possessive}.</li>
+    <!--EN: and simply processed the visual information from {OBSERVER_possessive}.-->
+    <li>and simply processed the visual information from {OBSERVER_possessive}.</li>
+    <!--EN: and found {OBSERVER_possessive} observation to be a normal occurrence.-->
+    <li>and found {OBSERVER_possessive} observation to be a normal occurrence.</li>
+    <!--EN: and felt a sense of detached acceptance.-->
+    <li>and felt a sense of detached acceptance.</li>
+    <!--EN: and continued my routine without a second thought for {OBSERVER_possessive}.-->
+    <li>and continued my routine without a second thought for {OBSERVER_possessive}.</li>
+  </Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral.texts>
+  <!--EN: Observed_reacts_to_was_seen_by_anotehr_pawn_Positive-->
+  <Observed_reacts_to_was_seen_by_anotehr_pawn_Positive.label>Observed_reacts_to_was_seen_by_anotehr_pawn_Positive</Observed_reacts_to_was_seen_by_anotehr_pawn_Positive.label>
+  <Observed_reacts_to_was_seen_by_anotehr_pawn_Positive.texts>
+    <!--EN: and felt a pleasant warmth from {OBSERVER_possessive}.-->
+    <li>and felt a pleasant warmth from {OBSERVER_possessive}.</li>
+    <!--EN: and was quite pleased by {OBSERVER_possessive} attention.-->
+    <li>and was quite pleased by {OBSERVER_possessive} attention.</li>
+    <!--EN: and felt a surge of confidence.-->
+    <li>and felt a surge of confidence.</li>
+    <!--EN: and was delighted to be noticed by {OBSERVER_possessive}.-->
+    <li>and was delighted to be noticed by {OBSERVER_possessive}.</li>
+    <!--EN: and felt a sense of pride.-->
+    <li>and felt a sense of pride.</li>
+    <!--EN: and found {OBSERVER_possessive} gaze affirming.-->
+    <li>and found {OBSERVER_possessive} gaze affirming.</li>
+    <!--EN: and felt good about themselves.-->
+    <li>and felt good about themselves.</li>
+    <!--EN: and was happy to be seen by {OBSERVER_possessive}.-->
+    <li>and was happy to be seen by {OBSERVER_possessive}.</li>
+    <!--EN: and felt a sense of acceptance.-->
+    <li>and felt a sense of acceptance.</li>
+    <!--EN: and found {OBSERVER_possessive} presence comforting.-->
+    <li>and found {OBSERVER_possessive} presence comforting.</li>
+    <!--EN: and felt a positive connection.-->
+    <li>and felt a positive connection.</li>
+    <!--EN: and was flattered by {OBSERVER_possessive} observation.-->
+    <li>and was flattered by {OBSERVER_possessive} observation.</li>
+    <!--EN: and felt a boost in morale.-->
+    <li>and felt a boost in morale.</li>
+    <!--EN: and found {OBSERVER_possessive} reaction encouraging.-->
+    <li>and found {OBSERVER_possessive} reaction encouraging.</li>
+    <!--EN: and felt a sense of joy.-->
+    <li>and felt a sense of joy.</li>
+    <!--EN: and was pleased by the interaction with {OBSERVER_possessive}.-->
+    <li>and was pleased by the interaction with {OBSERVER_possessive}.</li>
+    <!--EN: and felt a warm glow.-->
+    <li>and felt a warm glow.</li>
+    <!--EN: and found {OBSERVER_possessive} attention validating.-->
+    <li>and found {OBSERVER_possessive} attention validating.</li>
+    <!--EN: and felt a sense of contentment.-->
+    <li>and felt a sense of contentment.</li>
+    <!--EN: and was glad {OBSERVER_possessive} saw them.-->
+    <li>and was glad {OBSERVER_possessive} saw them.</li>
+    <!--EN: and felt a positive affirmation.-->
+    <li>and felt a positive affirmation.</li>
+    <!--EN: and found {OBSERVER_possessive} gaze appreciative.-->
+    <li>and found {OBSERVER_possessive} gaze appreciative.</li>
+    <!--EN: and felt a sense of openness.-->
+    <li>and felt a sense of openness.</li>
+    <!--EN: and was happy to share the moment with {OBSERVER_possessive}.-->
+    <li>and was happy to share the moment with {OBSERVER_possessive}.</li>
+    <!--EN: and felt a pleasant sensation.-->
+    <li>and felt a pleasant sensation.</li>
+    <!--EN: and found {OBSERVER_possessive} presence to be a good thing.-->
+    <li>and found {OBSERVER_possessive} presence to be a good thing.</li>
+    <!--EN: and felt a sense of comfort in being seen.-->
+    <li>and felt a sense of comfort in being seen.</li>
+    <!--EN: and was genuinely pleased by {OBSERVER_possessive} reaction.-->
+    <li>and was genuinely pleased by {OBSERVER_possessive} reaction.</li>
+    <!--EN: and felt a delightful sense of connection.-->
+    <li>and felt a delightful sense of connection.</li>
+    <!--EN: and embraced the moment with {OBSERVER_possessive}.-->
+    <li>and embraced the moment with {OBSERVER_possessive}.</li>
+  </Observed_reacts_to_was_seen_by_anotehr_pawn_Positive.texts>
+  <!--EN: Observer_reacts_to_see_pawn_Negative-->
+  <Observer_reacts_to_see_pawn_Negative.label>Observer_reacts_to_see_pawn_Negative</Observer_reacts_to_see_pawn_Negative.label>
+  <Observer_reacts_to_see_pawn_Negative.texts>
+    <!--EN: and was utterly disgusted by {OBSERVED_objective}.-->
+    <li>and was utterly disgusted by {OBSERVED_objective}.</li>
+    <!--EN: and felt a shiver of revulsion.-->
+    <li>and felt a shiver of revulsion.</li>
+    <!--EN: and was quite repulsed.-->
+    <li>and was quite repulsed.</li>
+    <!--EN: and found {OBSERVED_objective} to be off-putting.-->
+    <li>and found {OBSERVED_objective} to be off-putting.</li>
+    <!--EN: and recoiled from the sight of {OBSERVED_objective}.-->
+    <li>and recoiled from the sight of {OBSERVED_objective}.</li>
+    <!--EN: and felt a wave of discomfort.-->
+    <li>and felt a wave of discomfort.</li>
+    <!--EN: and was annoyed by {OBSERVED_objective}.-->
+    <li>and was annoyed by {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be an unpleasant sight.-->
+    <li>and found {OBSERVED_objective} to be an unpleasant sight.</li>
+    <!--EN: and felt a strong sense of disapproval.-->
+    <li>and felt a strong sense of disapproval.</li>
+    <!--EN: and was disturbed by {OBSERVED_objective}.-->
+    <li>and was disturbed by {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be quite unsightly.-->
+    <li>and found {OBSERVED_objective} to be quite unsightly.</li>
+    <!--EN: and felt a pang of irritation.-->
+    <li>and felt a pang of irritation.</li>
+    <!--EN: and was offended by {OBSERVED_objective}.-->
+    <li>and was offended by {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be inappropriate.-->
+    <li>and found {OBSERVED_objective} to be inappropriate.</li>
+    <!--EN: and felt a sense of unease.-->
+    <li>and felt a sense of unease.</li>
+    <!--EN: and was bothered by {OBSERVED_objective}.-->
+    <li>and was bothered by {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be a disturbing image.-->
+    <li>and found {OBSERVED_objective} to be a disturbing image.</li>
+    <!--EN: and felt a prickle of disgust.-->
+    <li>and felt a prickle of disgust.</li>
+    <!--EN: and was put off by {OBSERVED_objective}.-->
+    <li>and was put off by {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be quite jarring.-->
+    <li>and found {OBSERVED_objective} to be quite jarring.</li>
+    <!--EN: and felt a strong aversion.-->
+    <li>and felt a strong aversion.</li>
+    <!--EN: and was appalled by the sight of {OBSERVED_objective}.-->
+    <li>and was appalled by the sight of {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be truly hideous.-->
+    <li>and found {OBSERVED_objective} to be truly hideous.</li>
+    <!--EN: and felt a profound sense of moral outrage.-->
+    <li>and felt a profound sense of moral outrage.</li>
+    <!--EN: and was deeply troubled by the presence of {OBSERVED_objective}.-->
+    <li>and was deeply troubled by the presence of {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be a blight on {OBSERVED_objective} day.-->
+    <li>and found {OBSERVED_objective} to be a blight on {OBSERVED_objective} day.</li>
+    <!--EN: and felt an overwhelming sense of displeasure.-->
+    <li>and felt an overwhelming sense of displeasure.</li>
+    <!--EN: and was utterly repulsed by {OBSERVED_possessive} appearance.-->
+    <li>and was utterly repulsed by {OBSERVED_possessive} appearance.</li>
+    <!--EN: and found {OBSERVED_objective} to be an absolute eyesore.-->
+    <li>and found {OBSERVED_objective} to be an absolute eyesore.</li>
+    <!--EN: and felt a bitter resentment.-->
+    <li>and felt a bitter resentment.</li>
+  </Observer_reacts_to_see_pawn_Negative.texts>
+  <!--EN: Observer_reacts_to_see_pawn_Neutral-->
+  <Observer_reacts_to_see_pawn_Neutral.label>Observer_reacts_to_see_pawn_Neutral</Observer_reacts_to_see_pawn_Neutral.label>
+  <Observer_reacts_to_see_pawn_Neutral.texts>
+    <!--EN: and simply observed {OBSERVED_objective}.-->
+    <li>and simply observed {OBSERVED_objective}.</li>
+    <!--EN: and didn't feel much about it.-->
+    <li>and didn&amp;apos;t feel much about it.</li>
+    <!--EN: and took note of {OBSERVED_objective}.-->
+    <li>and took note of {OBSERVED_objective}.</li>
+    <!--EN: and registered the sight of {OBSERVED_objective}.-->
+    <li>and registered the sight of {OBSERVED_objective}.</li>
+    <!--EN: and felt no particular emotion.-->
+    <li>and felt no particular emotion.</li>
+    <!--EN: and made a mental note.-->
+    <li>and made a mental note.</li>
+    <!--EN: and acknowledged {OBSERVED_objective}.-->
+    <li>and acknowledged {OBSERVED_objective}.</li>
+    <!--EN: and remained indifferent.-->
+    <li>and remained indifferent.</li>
+    <!--EN: and processed the information.-->
+    <li>and processed the information.</li>
+    <!--EN: and paid little attention to {OBSERVED_objective}.-->
+    <li>and paid little attention to {OBSERVED_objective}.</li>
+    <!--EN: and felt a mild curiosity.-->
+    <li>and felt a mild curiosity.</li>
+    <!--EN: and moved on quickly.-->
+    <li>and moved on quickly.</li>
+    <!--EN: and found {OBSERVED_objective} unremarkable.-->
+    <li>and found {OBSERVED_objective} unremarkable.</li>
+    <!--EN: and gave it a passing glance.-->
+    <li>and gave it a passing glance.</li>
+    <!--EN: and felt no strong reaction.-->
+    <li>and felt no strong reaction.</li>
+    <!--EN: and simply saw {OBSERVED_objective}.-->
+    <li>and simply saw {OBSERVED_objective}.</li>
+    <!--EN: and had no opinion.-->
+    <li>and had no opinion.</li>
+    <!--EN: and continued with my tasks.-->
+    <li>and continued with my tasks.</li>
+    <!--EN: and found {OBSERVED_objective} to be average.-->
+    <li>and found {OBSERVED_objective} to be average.</li>
+    <!--EN: and didn't linger on the sight.-->
+    <li>and didn&amp;apos;t linger on the sight.</li>
+    <!--EN: and felt a slight disinterest.-->
+    <li>and felt a slight disinterest.</li>
+    <!--EN: and barely noticed {OBSERVED_objective}.-->
+    <li>and barely noticed {OBSERVED_objective}.</li>
+    <!--EN: and felt neither positive nor negative.-->
+    <li>and felt neither positive nor negative.</li>
+    <!--EN: and focused on other things.-->
+    <li>and focused on other things.</li>
+    <!--EN: and found {OBSERVED_objective} to be just there.-->
+    <li>and found {OBSERVED_objective} to be just there.</li>
+    <!--EN: and felt no compelling urge to react.-->
+    <li>and felt no compelling urge to react.</li>
+    <!--EN: and simply processed the visual data.-->
+    <li>and simply processed the visual data.</li>
+    <!--EN: and found {OBSERVED_objective} to be a normal occurrence.-->
+    <li>and found {OBSERVED_objective} to be a normal occurrence.</li>
+    <!--EN: and felt a sense of detached observation.-->
+    <li>and felt a sense of detached observation.</li>
+    <!--EN: and continued my routine without a second thought.-->
+    <li>and continued my routine without a second thought.</li>
+  </Observer_reacts_to_see_pawn_Neutral.texts>
+  <!--EN: Observer_reacts_to_see_pawn_Positive-->
+  <Observer_reacts_to_see_pawn_Positive.label>Observer_reacts_to_see_pawn_Positive</Observer_reacts_to_see_pawn_Positive.label>
+  <Observer_reacts_to_see_pawn_Positive.texts>
+    <!--EN: and was utterly captivated by {OBSERVED_objective}.-->
+    <li>and was utterly captivated by {OBSERVED_objective}.</li>
+    <!--EN: and felt a pleasant warmth.-->
+    <li>and felt a pleasant warmth.</li>
+    <!--EN: and was quite impressed.-->
+    <li>and was quite impressed.</li>
+    <!--EN: and found {OBSERVED_objective} truly captivating.-->
+    <li>and found {OBSERVED_objective} truly captivating.</li>
+    <!--EN: and admired {OBSERVED_objective} greatly.-->
+    <li>and admired {OBSERVED_objective} greatly.</li>
+    <!--EN: and felt a surge of positive emotion.-->
+    <li>and felt a surge of positive emotion.</li>
+    <!--EN: and was delighted by {OBSERVED_objective}.-->
+    <li>and was delighted by {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be a beautiful sight.-->
+    <li>and found {OBSERVED_objective} to be a beautiful sight.</li>
+    <!--EN: and felt a deep sense of appreciation.-->
+    <li>and felt a deep sense of appreciation.</li>
+    <!--EN: and was pleasantly surprised by {OBSERVED_objective}.-->
+    <li>and was pleasantly surprised by {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be quite appealing.-->
+    <li>and found {OBSERVED_objective} to be quite appealing.</li>
+    <!--EN: and felt a spark of joy.-->
+    <li>and felt a spark of joy.</li>
+    <!--EN: and was mesmerized by {OBSERVED_objective}.-->
+    <li>and was mesmerized by {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be perfect.-->
+    <li>and found {OBSERVED_objective} to be perfect.</li>
+    <!--EN: and felt a strong attraction.-->
+    <li>and felt a strong attraction.</li>
+    <!--EN: and was enchanted by {OBSERVED_objective}.-->
+    <li>and was enchanted by {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be incredibly attractive.-->
+    <li>and found {OBSERVED_objective} to be incredibly attractive.</li>
+    <!--EN: and felt a sense of wonder.-->
+    <li>and felt a sense of wonder.</li>
+    <!--EN: and was charmed by {OBSERVED_objective}.-->
+    <li>and was charmed by {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be a delightful vision.-->
+    <li>and found {OBSERVED_objective} to be a delightful vision.</li>
+    <!--EN: and felt a rush of admiration.-->
+    <li>and felt a rush of admiration.</li>
+    <!--EN: and was captivated by the sheer elegance of {OBSERVED_objective}.-->
+    <li>and was captivated by the sheer elegance of {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be absolutely stunning.-->
+    <li>and found {OBSERVED_objective} to be absolutely stunning.</li>
+    <!--EN: and felt a profound sense of aesthetic pleasure.-->
+    <li>and felt a profound sense of aesthetic pleasure.</li>
+    <!--EN: and was deeply moved by the sight of {OBSERVED_objective}.-->
+    <li>and was deeply moved by the sight of {OBSERVED_objective}.</li>
+    <!--EN: and found {OBSERVED_objective} to be a true masterpiece.-->
+    <li>and found {OBSERVED_objective} to be a true masterpiece.</li>
+    <!--EN: and felt an overwhelming sense of delight.-->
+    <li>and felt an overwhelming sense of delight.</li>
+    <!--EN: and was utterly charmed by {OBSERVED_possessive} presence.-->
+    <li>and was utterly charmed by {OBSERVED_possessive} presence.</li>
+    <!--EN: and found {OBSERVED_objective} to be breathtaking.-->
+    <li>and found {OBSERVED_objective} to be breathtaking.</li>
+    <!--EN: and felt a blissful contentment.-->
+    <li>and felt a blissful contentment.</li>
+  </Observer_reacts_to_see_pawn_Positive.texts>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: iSaw_using_sauna_naked_Unisex_(Negative)-->
+  <iSaw_using_sauna_naked_Unisex_Negative.label>iSaw_using_sauna_naked_Unisex_(Negative)</iSaw_using_sauna_naked_Unisex_Negative.label>
+  <iSaw_using_sauna_naked_Unisex_Negative.opinionTexts>
+    <!--EN: I saw {OBSERVED_nameShort} naked in the sauna, and it felt intrusive to witness such a private moment.-->
+    <li>I saw {OBSERVED_nameShort} naked in the sauna, and it felt intrusive to witness such a private moment.</li>
+    <!--EN: Meeting {OBSERVED_nameShort} unclothed in the sauna was uncomfortable; I didn’t know how to not look at that hanging things.-->
+    <li>Meeting {OBSERVED_nameShort} unclothed in the sauna was uncomfortable; I didn’t know how to not look at that hanging things.</li>
+    <!--EN: Seeing {OBSERVED_nameShort} naked in the sauna left me feeling uneasy; it was too intimate for a public space.-->
+    <li>Seeing {OBSERVED_nameShort} naked in the sauna left me feeling uneasy; it was too intimate for a public space.</li>
+  </iSaw_using_sauna_naked_Unisex_Negative.opinionTexts>
+  <!--EN: iSaw_using_sauna_naked_Unisex_(Neutral)-->
+  <iSaw_using_sauna_naked_Unisex_Neutral.label>iSaw_using_sauna_naked_Unisex_(Neutral)</iSaw_using_sauna_naked_Unisex_Neutral.label>
+  <iSaw_using_sauna_naked_Unisex_Neutral.opinionTexts>
+    <!--EN: I saw {OBSERVED_nameShort} using the sauna naked; it was unexpected, but I didn’t looked at {PAWN_possessive} private parts too much.-->
+    <li>I saw {OBSERVED_nameShort} using the sauna naked; it was unexpected, but I didn’t looked at {PAWN_possessive} private parts too much.</li>
+    <!--EN: Meeting {OBSERVED_nameShort} in the sauna, I noticed {PAWN_possessive} nakedness, yet it felt like just another moment.-->
+    <li>Meeting {OBSERVED_nameShort} in the sauna, I noticed {PAWN_possessive} nakedness, yet it felt like just another moment.</li>
+    <!--EN: Seeing {OBSERVED_nameShort} in the sauna left me curious, but I remained indifferent.-->
+    <li>Seeing {OBSERVED_nameShort} in the sauna left me curious, but I remained indifferent.</li>
+  </iSaw_using_sauna_naked_Unisex_Neutral.opinionTexts>
+  <!--EN: iSaw_using_sauna_naked_Unisex_(Positive)-->
+  <iSaw_using_sauna_naked_Unisex_Positive.label>iSaw_using_sauna_naked_Unisex_(Positive)</iSaw_using_sauna_naked_Unisex_Positive.label>
+  <iSaw_using_sauna_naked_Unisex_Positive.opinionTexts>
+    <!--EN: I saw {OBSERVED_nameShort} naked in the sauna, not trying to cover, let me to see all interesting spots.-->
+    <li>I saw {OBSERVED_nameShort} naked in the sauna, not trying to cover, let me to see all interesting spots.</li>
+    <!--EN: The way {OBSERVED_nameShort} relaxed in the heat made {PAWN_possessive} body glow; I glazed every inch of {PAWN_possessive} sacred parts.-->
+    <li>The way {OBSERVED_nameShort} relaxed in the heat made {PAWN_possessive} body glow; I glazed every inch of {PAWN_possessive} sacred parts.</li>
+    <!--EN: Seeing {OBSERVED_nameShort} in the sauna was a captivating experience; it felt like a shared secret in the heat.-->
+    <li>Seeing {OBSERVED_nameShort} in the sauna was a captivating experience; it felt like a shared secret in the heat.</li>
+    <!--EN: I saw {OBSERVED_nameShort} naked in the sauna, and the steam swirling around {PAWN_possessive} body created a sensuous atmosphere of lust and sweaty curves.-->
+    <li>I saw {OBSERVED_nameShort} naked in the sauna, and the steam swirling around {PAWN_possessive} body created a sensuous atmosphere of lust and sweaty curves.</li>
+    <!--EN: Seeing {OBSERVED_nameShort} fully exposed in the sauna made my heart race; {PAWN_subjective} embraced the heat with such confidence, it was utterly alluring.-->
+    <li>Seeing {OBSERVED_nameShort} fully exposed in the sauna made my heart race; {PAWN_subjective} embraced the heat with such confidence, it was utterly alluring.</li>
+    <!--EN: The sight of {OBSERVED_nameShort} in the sauna, with {PAWN_possessive} skin glistening, was mesmerizing; it ignited a fire of desire to be taken by force.-->
+    <li>The sight of {OBSERVED_nameShort} in the sauna, with {PAWN_possessive} skin glistening, was mesmerizing; it ignited a fire of desire to be taken by force.</li>
+  </iSaw_using_sauna_naked_Unisex_Positive.opinionTexts>
+</LanguageData>

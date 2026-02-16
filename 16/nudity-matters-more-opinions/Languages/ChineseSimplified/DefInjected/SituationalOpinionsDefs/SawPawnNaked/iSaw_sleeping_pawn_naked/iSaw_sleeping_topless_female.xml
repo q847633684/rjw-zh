@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: iSaw_Asleep_Topless_female_(Negative)-->
+  <iSaw_Asleep_Topless_female_Negative.label>iSaw_Asleep_Topless_female_(Negative)</iSaw_Asleep_Topless_female_Negative.label>
+  <iSaw_Asleep_Topless_female_Negative.opinionTexts>
+    <!--EN: I saw {OBSERVED_nameShort} sleeping topless and I felt it was inappropriate. She should cover up.-->
+    <li>I saw {OBSERVED_nameShort} sleeping topless and I felt it was inappropriate. She should cover up.</li>
+    <!--EN: The sight of {OBSERVED_nameShortPossessive} bare breasts was unsettling. It's just not proper.-->
+    <li>The sight of {OBSERVED_nameShortPossessive} bare breasts was unsettling. It&amp;apos;s just not proper.</li>
+    <!--EN: I was annoyed to see {OBSERVED_nameShort} sleeping with her chest exposed for everyone to see.-->
+    <li>I was annoyed to see {OBSERVED_nameShort} sleeping with her chest exposed for everyone to see.</li>
+    <!--EN: It was an unwelcome sight. {OBSERVED_nameShortPossessive} lack of modesty was irritating.-->
+    <li>It was an unwelcome sight. {OBSERVED_nameShortPossessive} lack of modesty was irritating.</li>
+    <!--EN: I averted my eyes in distaste. Her breasts were just... out. It was crude.-->
+    <li>I averted my eyes in distaste. Her breasts were just... out. It was crude.</li>
+    <!--EN: Honestly, it's just sloppy. To sleep topless where anyone can walk in is just inconsiderate.-->
+    <li>Honestly, it&amp;apos;s just sloppy. To sleep topless where anyone can walk in is just inconsiderate.</li>
+    <!--EN: I felt uncomfortable seeing {OBSERVED_nameShortPossessive} bare chest. It was a violation of decorum.-->
+    <li>I felt uncomfortable seeing {OBSERVED_nameShortPossessive} bare chest. It was a violation of decorum.</li>
+    <!--EN: The sight was not pleasant. Her slack, bare breasts were an unappealing image.-->
+    <li>The sight was not pleasant. Her slack, bare breasts were an unappealing image.</li>
+    <!--EN: Why can't she wear a shirt? The sight of her exposed chest was just plain indecent.-->
+    <li>Why can&amp;apos;t she wear a shirt? The sight of her exposed chest was just plain indecent.</li>
+    <!--EN: I was appalled by the lack of shame. It's just not right to expose oneself like that.-->
+    <li>I was appalled by the lack of shame. It&amp;apos;s just not right to expose oneself like that.</li>
+    <!--EN: The casual nudity was off-putting. I have no desire to see my colonists' bare chests.-->
+    <li>The casual nudity was off-putting. I have no desire to see my colonists&amp;apos; bare chests.</li>
+    <!--EN: I felt a flicker of disgust. The sight of her bare flesh was just... too much.-->
+    <li>I felt a flicker of disgust. The sight of her bare flesh was just... too much.</li>
+    <!--EN: It was a graceless display. {OBSERVED_nameShort} should have more respect for herself and others.-->
+    <li>It was a graceless display. {OBSERVED_nameShort} should have more respect for herself and others.</li>
+    <!--EN: The image of her bare breasts is now stuck in my head, much to my annoyance.-->
+    <li>The image of her bare breasts is now stuck in my head, much to my annoyance.</li>
+    <!--EN: I found the sight of her toplessness to be a sign of poor character.-->
+    <li>I found the sight of her toplessness to be a sign of poor character.</li>
+    <!--EN: It was an unprofessional and distracting sight. She should maintain some level of propriety.-->
+    <li>It was an unprofessional and distracting sight. She should maintain some level of propriety.</li>
+    <!--EN: I was immediately put off by the sight. It was a vulgar display that soured my mood.-->
+    <li>I was immediately put off by the sight. It was a vulgar display that soured my mood.</li>
+    <!--EN: That's just not something I needed to see. Her exposed chest made me feel awkward and irritated.-->
+    <li>That&amp;apos;s just not something I needed to see. Her exposed chest made me feel awkward and irritated.</li>
+    <!--EN: I wish she would cover herself. It's a matter of basic decency.-->
+    <li>I wish she would cover herself. It&amp;apos;s a matter of basic decency.</li>
+    <!--EN: The sight was just pathetic. A woman of {OBSERVED_ageBiologicalYears} should know better than to sleep half-naked.-->
+    <li>The sight was just pathetic. A woman of {OBSERVED_ageBiologicalYears} should know better than to sleep half-naked.</li>
+  </iSaw_Asleep_Topless_female_Negative.opinionTexts>
+  <!--EN: iSaw_Asleep_Topless_female_(Neutral)-->
+  <iSaw_Asleep_Topless_female_Neutral.label>iSaw_Asleep_Topless_female_(Neutral)</iSaw_Asleep_Topless_female_Neutral.label>
+  <iSaw_Asleep_Topless_female_Neutral.opinionTexts>
+    <!--EN: I noticed {OBSERVED_nameShort} was sleeping topless. I registered the sight of {OBSERVED_possessive} breasts and moved on.-->
+    <li>I noticed {OBSERVED_nameShort} was sleeping topless. I registered the sight of {OBSERVED_possessive} breasts and moved on.</li>
+    <!--EN: {OBSERVED_nameShort} was not wearing a shirt. Her chest was bare. It was a simple fact.-->
+    <li>{OBSERVED_nameShort} was not wearing a shirt. Her chest was bare. It was a simple fact.</li>
+    <!--EN: My gaze passed over {OBSERVED_nameShort} and I noted {OBSERVED_pronoun} was topless. I didn't think much of it.-->
+    <li>My gaze passed over {OBSERVED_nameShort} and I noted {OBSERVED_pronoun} was topless. I didn&amp;apos;t think much of it.</li>
+    <!--EN: I saw {OBSERVED_nameShortPossessive} breasts while {OBSERVED_pronoun} was sleeping. It was a neutral observation.-->
+    <li>I saw {OBSERVED_nameShortPossessive} breasts while {OBSERVED_pronoun} was sleeping. It was a neutral observation.</li>
+    <!--EN: The subject, {OBSERVED_nameShort}, was observed sleeping without upper body clothing. Breasts were visible.-->
+    <li>The subject, {OBSERVED_nameShort}, was observed sleeping without upper body clothing. Breasts were visible.</li>
+    <!--EN: It appears {OBSERVED_nameShort} finds it comfortable to sleep topless. I have no particular opinion on this.-->
+    <li>It appears {OBSERVED_nameShort} finds it comfortable to sleep topless. I have no particular opinion on this.</li>
+    <!--EN: I am now aware of what {OBSERVED_nameShortPossessive} chest looks like. The information has been filed.-->
+    <li>I am now aware of what {OBSERVED_nameShortPossessive} chest looks like. The information has been filed.</li>
+    <!--EN: A quick glance confirmed {OBSERVED_nameShort} was bare-chested. My mind processed the information and then returned to other tasks.-->
+    <li>A quick glance confirmed {OBSERVED_nameShort} was bare-chested. My mind processed the information and then returned to other tasks.</li>
+    <!--EN: I saw {OBSERVED_nameShortPossessive} bare chest. It was neither interesting nor uninteresting.-->
+    <li>I saw {OBSERVED_nameShortPossessive} bare chest. It was neither interesting nor uninteresting.</li>
+    <!--EN: I registered that {OBSERVED_nameShortPossessive} upper body was unclothed. It was a detail of the current situation.-->
+    <li>I registered that {OBSERVED_nameShortPossessive} upper body was unclothed. It was a detail of the current situation.</li>
+    <!--EN: My observation: {OBSERVED_nameShort} is asleep and topless. This fact has been noted.-->
+    <li>My observation: {OBSERVED_nameShort} is asleep and topless. This fact has been noted.</li>
+    <!--EN: I happened to see {OBSERVED_nameShortPossessive} exposed chest. It was an unremarkable event.-->
+    <li>I happened to see {OBSERVED_nameShortPossessive} exposed chest. It was an unremarkable event.</li>
+    <!--EN: The state of {OBSERVED_nameShortPossessive} dress was noted as 'topless'. I continued with my duties.-->
+    <li>The state of {OBSERVED_nameShortPossessive} dress was noted as &amp;apos;topless&amp;apos;. I continued with my duties.</li>
+    <!--EN: I saw a pair of breasts belonging to {OBSERVED_nameShort}. They were just... breasts.-->
+    <li>I saw a pair of breasts belonging to {OBSERVED_nameShort}. They were just... breasts.</li>
+    <!--EN: The visual information of {OBSERVED_nameShortPossessive} bare chest was received and processed without any emotional response.-->
+    <li>The visual information of {OBSERVED_nameShortPossessive} bare chest was received and processed without any emotional response.</li>
+    <!--EN: So, {OBSERVED_nameShort} sleeps topless. That's a thing I know now.-->
+    <li>So, {OBSERVED_nameShort} sleeps topless. That&amp;apos;s a thing I know now.</li>
+    <!--EN: My eyes briefly registered {OBSERVED_nameShortPossessive} bare breasts before I looked away. It was of no consequence.-->
+    <li>My eyes briefly registered {OBSERVED_nameShortPossessive} bare breasts before I looked away. It was of no consequence.</li>
+    <!--EN: I am aware that {OBSERVED_nameShort} is currently topless. This does not require any action on my part.-->
+    <li>I am aware that {OBSERVED_nameShort} is currently topless. This does not require any action on my part.</li>
+    <!--EN: I took note of the fact that {OBSERVED_nameShortPossessive} chest was uncovered.-->
+    <li>I took note of the fact that {OBSERVED_nameShortPossessive} chest was uncovered.</li>
+    <!--EN: I saw {OBSERVED_nameShort} sleeping without a top. That is all.-->
+    <li>I saw {OBSERVED_nameShort} sleeping without a top. That is all.</li>
+  </iSaw_Asleep_Topless_female_Neutral.opinionTexts>
+  <!--EN: iSaw_Asleep_Topless_female_(Positive)-->
+  <iSaw_Asleep_Topless_female_Positive.label>iSaw_Asleep_Topless_female_(Positive)</iSaw_Asleep_Topless_female_Positive.label>
+  <iSaw_Asleep_Topless_female_Positive.opinionTexts>
+    <!--EN: I saw {OBSERVED_nameShort} sleeping topless, and the sight of {OBSERVED_possessive} bare breasts was a wonderful surprise.-->
+    <li>I saw {OBSERVED_nameShort} sleeping topless, and the sight of {OBSERVED_possessive} bare breasts was a wonderful surprise.</li>
+    <!--EN: My eyes were drawn to {OBSERVED_nameShortPossessive} chest as {OBSERVED_pronoun} slept. Her breasts were beautifully shaped, rising and falling with each breath.-->
+    <li>My eyes were drawn to {OBSERVED_nameShortPossessive} chest as {OBSERVED_pronoun} slept. Her breasts were beautifully shaped, rising and falling with each breath.</li>
+    <!--EN: A lovely sight to behold. {OBSERVED_nameShortPossessive} breasts, freed from any confinement, looked soft and inviting.-->
+    <li>A lovely sight to behold. {OBSERVED_nameShortPossessive} breasts, freed from any confinement, looked soft and inviting.</li>
+    <!--EN: I caught a glimpse of {OBSERVED_nameShort} sleeping without a top. The gentle curve of {OBSERVED_possessive} breasts was a perfect image of feminine grace.-->
+    <li>I caught a glimpse of {OBSERVED_nameShort} sleeping without a top. The gentle curve of {OBSERVED_possessive} breasts was a perfect image of feminine grace.</li>
+    <!--EN: My heart beat a little faster seeing {OBSERVED_nameShortPossessive} bare chest. Her nipples were like delicate buds waiting to bloom.-->
+    <li>My heart beat a little faster seeing {OBSERVED_nameShortPossessive} bare chest. Her nipples were like delicate buds waiting to bloom.</li>
+    <!--EN: It was a privilege to see {OBSERVED_nameShort} so relaxed and uncovered. Her breasts were magnificent.-->
+    <li>It was a privilege to see {OBSERVED_nameShort} so relaxed and uncovered. Her breasts were magnificent.</li>
+    <!--EN: The view of {OBSERVED_nameShortPossessive} topless form was captivating. I found myself admiring the swell of her bosom.-->
+    <li>The view of {OBSERVED_nameShortPossessive} topless form was captivating. I found myself admiring the swell of her bosom.</li>
+    <!--EN: A simple, beautiful moment. {OBSERVED_nameShort}, asleep and bare-chested, was a picture of peaceful allure.-->
+    <li>A simple, beautiful moment. {OBSERVED_nameShort}, asleep and bare-chested, was a picture of peaceful allure.</li>
+    <!--EN: I felt a warm flush seeing {OBSERVED_nameShortPossessive} exposed breasts. They looked so soft and touchable.-->
+    <li>I felt a warm flush seeing {OBSERVED_nameShortPossessive} exposed breasts. They looked so soft and touchable.</li>
+    <!--EN: What a delightful discovery. {OBSERVED_nameShortPossessive} sleeping form was made all the more lovely by {OBSERVED_possessive} bare chest.-->
+    <li>What a delightful discovery. {OBSERVED_nameShortPossessive} sleeping form was made all the more lovely by {OBSERVED_possessive} bare chest.</li>
+    <!--EN: Her breasts were perfectly framed by the soft light. It was an intimate and beautiful sight.-->
+    <li>Her breasts were perfectly framed by the soft light. It was an intimate and beautiful sight.</li>
+    <!--EN: I couldn't help but smile. The innocent vulnerability of {OBSERVED_nameShortPossessive} exposed chest was endearing.-->
+    <li>I couldn&amp;apos;t help but smile. The innocent vulnerability of {OBSERVED_nameShortPossessive} exposed chest was endearing.</li>
+    <!--EN: The sight of {OBSERVED_nameShortPossessive} bare breasts was a highlight of my day. They were simply perfect.-->
+    <li>The sight of {OBSERVED_nameShortPossessive} bare breasts was a highlight of my day. They were simply perfect.</li>
+    <!--EN: I was mesmerized by the gentle motion of {OBSERVED_nameShortPossessive} breathing, watching her bare breasts rise and fall.-->
+    <li>I was mesmerized by the gentle motion of {OBSERVED_nameShortPossessive} breathing, watching her bare breasts rise and fall.</li>
+    <!--EN: A vision of serenity and sensuality. {OBSERVED_nameShortPossessive} topless slumber was a gift to the eyes.-->
+    <li>A vision of serenity and sensuality. {OBSERVED_nameShortPossessive} topless slumber was a gift to the eyes.</li>
+    <!--EN: I felt a thrill seeing {OBSERVED_nameShortPossessive} chest exposed. The dark circles of her areolas were tantalizing.-->
+    <li>I felt a thrill seeing {OBSERVED_nameShortPossessive} chest exposed. The dark circles of her areolas were tantalizing.</li>
+    <!--EN: Her bare skin glowed in the dim light. The shape and weight of her breasts were a testament to her beauty.-->
+    <li>Her bare skin glowed in the dim light. The shape and weight of her breasts were a testament to her beauty.</li>
+    <!--EN: I lingered for a moment, enjoying the view of {OBSERVED_nameShortPossessive} uncovered chest. It was a sight I won't soon forget.-->
+    <li>I lingered for a moment, enjoying the view of {OBSERVED_nameShortPossessive} uncovered chest. It was a sight I won&amp;apos;t soon forget.</li>
+    <!--EN: The casual freedom of her toplessness was incredibly attractive. Her breasts were a beautiful landscape.-->
+    <li>The casual freedom of her toplessness was incredibly attractive. Her breasts were a beautiful landscape.</li>
+    <!--EN: Seeing {OBSERVED_nameShort} like that sparked my imagination. Her bare breasts were an invitation to dream.-->
+    <li>Seeing {OBSERVED_nameShort} like that sparked my imagination. Her bare breasts were an invitation to dream.</li>
+  </iSaw_Asleep_Topless_female_Positive.opinionTexts>
+</LanguageData>
