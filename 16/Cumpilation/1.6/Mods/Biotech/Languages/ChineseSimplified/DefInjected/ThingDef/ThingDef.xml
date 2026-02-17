@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: slugspunk-->
+  <Cumpilation_SlugFilth.label>slugspunk</Cumpilation_SlugFilth.label>
+  <!--EN: A dangerous and creative way to deal with Wastepacks - distilled into a concentrated serum, it changes the users cum temporary into a toxic slug. Consumption will also lead to minor toxic buildup, which might get worse if the users body cannot have its fluids changed.-->
+  <Cumpilation_Sluggerdrop.description>A dangerous and creative way to deal with Wastepacks - distilled into a concentrated serum, it changes the users cum temporary into a toxic slug. Consumption will also lead to minor toxic buildup, which might get worse if the users body cannot have its fluids changed.</Cumpilation_Sluggerdrop.description>
+  <!--EN: Inject {0}-->
+  <Cumpilation_Sluggerdrop.ingestible.ingestCommandString>Inject {0}</Cumpilation_Sluggerdrop.ingestible.ingestCommandString>
+  <!--EN: Injecting {0}.-->
+  <Cumpilation_Sluggerdrop.ingestible.ingestReportString>Injecting {0}.</Cumpilation_Sluggerdrop.ingestible.ingestReportString>
+  <!--EN: slugger drops-->
+  <Cumpilation_Sluggerdrop.label>slugger drops</Cumpilation_Sluggerdrop.label>
+  <!--EN: A dangerous and creative way to deal with Wastepacks - distilled into a concentrated serum, it permanently changes the users cum into a toxic slug. Consumption will also lead to toxic buildup, which gets drastically worse if the users body cannot have its fluids changed.-->
+  <Cumpilation_Slugmorpher.description>A dangerous and creative way to deal with Wastepacks - distilled into a concentrated serum, it permanently changes the users cum into a toxic slug. Consumption will also lead to toxic buildup, which gets drastically worse if the users body cannot have its fluids changed.</Cumpilation_Slugmorpher.description>
+  <!--EN: Inject {0}-->
+  <Cumpilation_Slugmorpher.ingestible.ingestCommandString>Inject {0}</Cumpilation_Slugmorpher.ingestible.ingestCommandString>
+  <!--EN: Injecting {0}.-->
+  <Cumpilation_Slugmorpher.ingestible.ingestReportString>Injecting {0}.</Cumpilation_Slugmorpher.ingestible.ingestReportString>
+  <!--EN: slug morpher-->
+  <Cumpilation_Slugmorpher.label>slug morpher</Cumpilation_Slugmorpher.label>
+</LanguageData>

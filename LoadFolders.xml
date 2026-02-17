@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <loadFolders>
 	<v1.6>
-		<!-- RJW 本体 1.6 版 完成-->
+		<!-- 01RJW 本体 1.6 版 完成-->
 		<li IfModActive="rim.job.world">16/RJW</li>
-		<!-- RJW 妓院床 完成-->
+		<!-- 02RJW 妓院床 完成-->
 		<li IfModActive="ed86.rjw.whorebeds">16/rjw-whorebeds</li>
-		<!-- 浪漫关系调整 完成-->
+		<!-- 03浪漫关系调整 完成-->
 		<li IfModActive="nugerumon.romancetweaksmoreoptions">16/romance-tweaks-more-options</li>
 		<!-- RJW 精液汇编 完成-->
 		<li IfModActive="vegapnk.cumpilation">16/Cumpilation</li>

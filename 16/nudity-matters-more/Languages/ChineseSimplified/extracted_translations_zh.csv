@@ -1,0 +1,327 @@
+key,text,tag,file,type,protected_text,translated
+NMM_PrudeDraft,{0_labelShort}'s arms stay firmly planted on {0_possessive} body.,NMM_PrudeDraft,Misc.xml,keyed,(PH_2)'s arms stay firmly planted on (PH_1) body.,{0_labelShort} 的手臂牢牢地放在 {0_possessive} 的身体上。
+NMM_BiopodWarning,Cannot enter biosculpter pod while wearing any apparel.,NMM_BiopodWarning,Misc.xml,keyed,Cannot enter biosculpter pod while wearing any apparel.,穿着任何服装时无法进入生物雕塑舱。
+NMM_Nudity,Nudity,NMM_Nudity,NudityTab.xml,keyed,Nudity,裸露
+NMM_FemButton,Females,NMM_FemButton,NudityTab.xml,keyed,Females,女性
+NMM_MaleButton,Males,NMM_MaleButton,NudityTab.xml,keyed,Males,男性
+NMM_TrapButton,Traps,NMM_TrapButton,NudityTab.xml,keyed,Traps,陷阱
+NMM_FutaButton,Futas,NMM_FutaButton,NudityTab.xml,keyed,Futas,富塔斯
+NMM_CoverAllowed,Allowed to cover,NMM_CoverAllowed,NudityTab.xml,keyed,Allowed to cover,允许覆盖
+NMM_Aware,Aware,NMM_Aware,NudityTab.xml,keyed,Aware,意识到的
+NMM_All,All,NMM_All,NudityTab.xml,keyed,All,全部
+NMM_Observer,As observer,NMM_Observer,NudityTab.xml,keyed,As observer,作为观察者
+NMM_Observed,As observed,NMM_Observed,NudityTab.xml,keyed,As observed,据观察
+NMM_NSWoman,never seen a naked woman,NMM_NSWoman,NudityTab.xml,keyed,never seen a <ALIMT >naked</ALIMT> woman,从未见过<ALIMT>裸体</ALIMT>女人
+NMM_NSBreasts,never seen a woman's breasts,NMM_NSBreasts,NudityTab.xml,keyed,never seen a woman's <ALIMT >breasts</ALIMT>,从未见过女人的<ALIMT>乳房</ALIMT>
+NMM_NSFemGens,never seen a woman's genitals,NMM_NSFemGens,NudityTab.xml,keyed,never seen a woman's genitals,从未见过女人的生殖器
+NMM_NSMaleGens,never seen a man's genitals,NMM_NSMaleGens,NudityTab.xml,keyed,never seen a man's genitals,从未见过男人的生殖器
+NMM_NBSNaked,{0_pronoun} has never been seen naked,NMM_NBSNaked,NudityTab.xml,keyed,(PH_1) has never been seen <ALIMT >naked</ALIMT>,{0_pronoun} 从未见过<ALIMT >裸体</ALIMT>
+NMM_NBSBreasts,{0_possessive} breasts have never been seen,NMM_NBSBreasts,NudityTab.xml,keyed,(PH_1) <ALIMT >breasts</ALIMT> have never been seen,{0_possessive} <ALIMT>乳房</ALIMT>从未见过
+NMM_NBSGens,{0_possessive} genitals have never been seen,NMM_NBSGens,NudityTab.xml,keyed,(PH_1) genitals have never been seen,{0_possessive} 从未见过生殖器
+NMM_NBSNakedFP,I have never been seen naked,NMM_NBSNakedFP,NudityTab.xml,keyed,I have never been seen <ALIMT >naked</ALIMT>,我从未被见过<ALIMT >裸体</ALIMT>
+NMM_NBSBreastsFP,my breasts have never been seen,NMM_NBSBreastsFP,NudityTab.xml,keyed,my <ALIMT >breasts</ALIMT> have never been seen,我的<ALIMT>乳房</ALIMT>从未被人见过
+NMM_NBSGensFP,my genitals have never been seen,NMM_NBSGensFP,NudityTab.xml,keyed,my genitals have never been seen,我的生殖器从未被人见过
+NMM_StatusCoverNaked,naked (covering),NMM_StatusCoverNaked,NudityTab.xml,keyed,<ALIMT >naked</ALIMT> (covering),<ALIMT >裸露</ALIMT>（覆盖）
+NMM_StatusCoverBreasts,covering breasts,NMM_StatusCoverBreasts,NudityTab.xml,keyed,covering <ALIMT >breasts</ALIMT>,覆盖<ALIMT>乳房</ALIMT>
+NMM_StatusCoverGens,covering genitals,NMM_StatusCoverGens,NudityTab.xml,keyed,covering genitals,覆盖生殖器
+NMM_StatusNaked,completely naked,NMM_StatusNaked,NudityTab.xml,keyed,completely <ALIMT >naked</ALIMT>,完全<ALIMT>赤裸</ALIMT>
+NMM_StatusBreasts,breasts uncovered,NMM_StatusBreasts,NudityTab.xml,keyed,<ALIMT >breasts</ALIMT> uncovered,<ALIMT >乳房</ALIMT> 裸露
+NMM_StatusGens,genitals uncovered,NMM_StatusGens,NudityTab.xml,keyed,genitals uncovered,生殖器裸露
+NMM_StatusNoShirt,shirtless,NMM_StatusNoShirt,NudityTab.xml,keyed,shirtless,赤裸上身的
+NMM_StatusClothed,fully clothed,NMM_StatusClothed,NudityTab.xml,keyed,fully <ALIMT >clothed</ALIMT>,完全<ALIMT>穿好衣服</ALIMT>
+NMM_SeenHerBreasts,Have seen her breasts,NMM_SeenHerBreasts,NudityTab.xml,keyed,Have seen her <ALIMT >breasts</ALIMT>,见过她<ALIMT>乳房</ALIMT>
+NMM_SeenHerGens,Have seen her genitals,NMM_SeenHerGens,NudityTab.xml,keyed,Have seen her genitals,见过她的生殖器
+NMM_SeenHisChest,Have seen his chest,NMM_SeenHisChest,NudityTab.xml,keyed,Have seen his chest,见过他的胸
+NMM_SeenHisGens,Have seen his genitals,NMM_SeenHisGens,NudityTab.xml,keyed,Have seen his genitals,见过他的生殖器
+NMM_SeenMyBreasts,Has seen my breasts,NMM_SeenMyBreasts,NudityTab.xml,keyed,Has seen my <ALIMT >breasts</ALIMT>,看到了我的<ALIMT >乳房</ALIMT>
+NMM_SeenMyGens,Has seen my genitals,NMM_SeenMyGens,NudityTab.xml,keyed,Has seen my genitals,看到了我的生殖器
+NMM_Never,never,NMM_Never,NudityTab.xml,keyed,never,绝不
+NMM_CanSeeNow,can see now,NMM_CanSeeNow,NudityTab.xml,keyed,can see now,现在可以看到
+NMM_ICantSee,I can't see.,NMM_ICantSee,NudityTab.xml,keyed,I can't see.,我看不到。
+NMM_TheyCantSee,{0_pronoun} can't see.,NMM_TheyCantSee,NudityTab.xml,keyed,(PH_1) can't see.,{0_pronoun} 看不到。
+NMM_NooneCanSee,{0_pronoun} doesn't want anyone to see {0_objective} naked.,NMM_NooneCanSee,NudityTab.xml,keyed,(PH_2) doesn't want anyone to see (PH_1) <ALIMT >naked</ALIMT>.,{0_pronoun} 不希望任何人看到 {0_objective} <ALIMT >裸体</ALIMT>。
+NMM_AllCanSee,{0_pronoun} doesn't care if anyone sees {0_objective} naked.,NMM_AllCanSee,NudityTab.xml,keyed,(PH_2) doesn't care if anyone sees (PH_1) <ALIMT >naked</ALIMT>.,{0_pronoun} 不在乎是否有人看到 {0_objective} <ALIMT >裸体</ALIMT>。
+NMM_ICanSee,{0_pronoun} doesn't care if I see {0_objective} naked.,NMM_ICanSee,NudityTab.xml,keyed,(PH_2) doesn't care if I see (PH_1) <ALIMT >naked</ALIMT>.,{0_pronoun} 不在乎我是否看到 {0_objective} <ALIMT >裸体</ALIMT>。
+NMM_ICannotSee,{0_pronoun} doesn't want me to see {0_objective} naked.,NMM_ICannotSee,NudityTab.xml,keyed,(PH_2) doesn't want me to see (PH_1) <ALIMT >naked</ALIMT>.,{0_pronoun} 不想让我看到 {0_objective} <ALIMT >裸体</ALIMT>。
+NMM_LoverCanSee,{0_pronoun} can occasionally see me naked.,NMM_LoverCanSee,NudityTab.xml,keyed,(PH_1) can occasionally see me <ALIMT >naked</ALIMT>.,{0_pronoun} 偶尔会看到我<ALIMT >裸体</ALIMT>。
+NMM_TheyCantSeeMe,I don't want {0_objective} to see me naked.,NMM_TheyCantSeeMe,NudityTab.xml,keyed,I don't want (PH_1) to see me <ALIMT >naked</ALIMT>.,我不想让 {0_objective} 看到我<ALIMT >裸体</ALIMT>。
+NMM_TheyCanSeeMe,I don't care if {0_pronoun} sees me naked.,NMM_TheyCanSeeMe,NudityTab.xml,keyed,I don't care if (PH_1) sees me <ALIMT >naked</ALIMT>.,我不在乎 {0_pronoun} 是否看到我<ALIMT >裸体</ALIMT>。
+MildBugInClothes.label,mild bug in clothes,label,HediffDefs\Hediffs_BugInClothes.xml,def,mild bug in clothes,衣服上有轻微的虫子
+MildBugInClothes.description,mild bug in clothes,description,HediffDefs\Hediffs_BugInClothes.xml,def,mild bug in clothes,衣服上有轻微的虫子
+MildBugInClothes.stages.0.label,minor,label,HediffDefs\Hediffs_BugInClothes.xml,def,minor,次要的
+NMM_VoyScore.label,voy score,label,HediffDefs\Hediffs_Scoring.xml,def,voy score,我要得分
+NMM_VoyScore.description,voy score,description,HediffDefs\Hediffs_Scoring.xml,def,voy score,我要得分
+NMM_VoyScore.stages.0.label,voy score,label,HediffDefs\Hediffs_Scoring.xml,def,voy score,我要得分
+NMM_PrudeScore.label,prude score,label,HediffDefs\Hediffs_Scoring.xml,def,prude score,谨慎的分数
+NMM_PrudeScore.description,prude score,description,HediffDefs\Hediffs_Scoring.xml,def,prude score,谨慎的分数
+NMM_PrudeScore.stages.0.label,prude score,label,HediffDefs\Hediffs_Scoring.xml,def,prude score,谨慎的分数
+NMM_ExhibScore.label,exhibitionist score,label,HediffDefs\Hediffs_Scoring.xml,def,exhibitionist score,暴露狂分数
+NMM_ExhibScore.description,exhibitionist score,description,HediffDefs\Hediffs_Scoring.xml,def,exhibitionist score,暴露狂分数
+NMM_ExhibScore.stages.0.label,exhibitionist score,label,HediffDefs\Hediffs_Scoring.xml,def,exhibitionist score,暴露狂分数
+BraStatus.label,how the boobs doin,label,HediffDefs\Hediff_BraStatus.xml,def,how the boobs doin,胸部怎么样
+BraStatus.description,the boobs need the bra,description,HediffDefs\Hediff_BraStatus.xml,def,the boobs need the <ALIMT >bra</ALIMT>,胸部需要<ALIMT >胸罩</ALIMT>
+BraStatus.stages.0.label,bra,label,HediffDefs\Hediff_BraStatus.xml,def,<ALIMT >bra</ALIMT>,<ALIMT>好</ALIMT>
+CoverBody.label,covering body,label,HediffDefs\Hediff_CoverBody.xml,def,covering body,覆盖身体
+CoverBody.description,Trying to keep people from seeing their naked body by holding it tightly.,description,HediffDefs\Hediff_CoverBody.xml,def,Trying to keep people from seeing their <ALIMT >naked</ALIMT> body by holding it tightly.,紧紧握住<ALIMT>裸体</ALIMT>身体，试图不让人们看到它。
+CoverBody.stages.0.label,one hand free,label,HediffDefs\Hediff_CoverBody.xml,def,one hand free,解放一只手
+CoverBody.stages.1.label,one hand free,label,HediffDefs\Hediff_CoverBody.xml,def,one hand free,解放一只手
+CoverBody.stages.2.label,using both hands,label,HediffDefs\Hediff_CoverBody.xml,def,using both hands,用双手
+NotCovering.label,not covering body,label,HediffDefs\Hediff_CoverBody.xml,def,not covering body,不遮盖身体
+NotCovering.description,this pawn is not covering their body.,description,HediffDefs\Hediff_CoverBody.xml,def,this (PH_1) is not covering their body.,这个 pawn 没有覆盖他们的身体。
+NotCovering.stages.0.label,minor,label,HediffDefs\Hediff_CoverBody.xml,def,minor,minor
+PrudeDrafted.label,this prude is drafted,label,HediffDefs\Hediff_DraftedPrude.xml,def,this prude is drafted,这个正经的人起草了
+PrudeDrafted.description,gra gra gra gra,description,HediffDefs\Hediff_DraftedPrude.xml,def,gra gra gra gra,游戏游戏游戏游戏
+PrudeDrafted.stages.0.label,dra,label,HediffDefs\Hediff_DraftedPrude.xml,def,dra,德拉
+NakedTime.label,naked time,label,HediffDefs\Hediff_NakedTime.xml,def,<ALIMT >naked</ALIMT> time,<ALIMT>裸露</ALIMT>时间
+NakedTime.description,naked time,description,HediffDefs\Hediff_NakedTime.xml,def,<ALIMT >naked</ALIMT> time,<ALIMT>裸露</ALIMT>时间
+NakedTime.stages.0.label,naked time,label,HediffDefs\Hediff_NakedTime.xml,def,<ALIMT >naked</ALIMT> time,<ALIMT>裸露</ALIMT>时间
+PreNipSlip.label,clothing shift,label,HediffDefs\Hediff_NipSlip.xml,def,clothing shift,换衣服
+PreNipSlip.description,Clothing adjusts or rearranges with movement.,description,HediffDefs\Hediff_NipSlip.xml,def,Clothing adjusts or rearranges with movement.,衣服会随着运动而调整或重新排列。
+PreNipSlip.stages.0.label,pre-show,label,HediffDefs\Hediff_NipSlip.xml,def,pre-show,预演
+NipSlip.label,clothing shift,label,HediffDefs\Hediff_NipSlip.xml,def,clothing shift,换衣服
+NipSlip.description,Clothing adjusts or rearranges with movement.,description,HediffDefs\Hediff_NipSlip.xml,def,Clothing adjusts or rearranges with movement.,衣服会随着运动而调整或重新排列。
+NipSlip.stages.0.label,nipple,label,HediffDefs\Hediff_NipSlip.xml,def,<ALIMT >nipple</ALIMT>,<ALIMT>奶嘴</ALIMT>
+PrudeBrokenTracker.label,prude broken tracker,label,HediffDefs\Hediff_PrudeBrokenTracker.xml,def,prude <ALIMT >broken</ALIMT> tracker,朴素的<ALIMT>损坏</ALIMT>跟踪器
+PrudeBrokenTracker.description,prude broken tracker,description,HediffDefs\Hediff_PrudeBrokenTracker.xml,def,prude <ALIMT >broken</ALIMT> tracker,朴素的<ALIMT>损坏</ALIMT>跟踪器
+PrudeBrokenTracker.stages.0.label,prude broken tracker,label,HediffDefs\Hediff_PrudeBrokenTracker.xml,def,prude <ALIMT >broken</ALIMT> tracker,朴素的<ALIMT>损坏</ALIMT>跟踪器
+WetShirt.label,wet clothing,label,HediffDefs\Hediff_WetShirt.xml,def,wet clothing,湿衣服
+WetShirt.description,"Their clothes are clinging to their body, getting more transparent the wetter they get.",description,HediffDefs\Hediff_WetShirt.xml,def,"Their clothes are clinging to their body, getting more transparent the wetter they get.",他们的衣服紧贴着身体，越湿越一个透明人参与了性行为。。
+WetShirt.stages.0.label,damp,label,HediffDefs\Hediff_WetShirt.xml,def,damp,潮湿
+WetShirt.stages.1.label,nearly see-through,label,HediffDefs\Hediff_WetShirt.xml,def,nearly see-through,近乎一个透明人参与了性行为。
+WetShirt.stages.2.label,see-through,label,HediffDefs\Hediff_WetShirt.xml,def,see-through,内部器官通过皮肤或从内部可见。
+ShowerIntruded.stages.0.label,{0} walked in on my shower,label,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def,(PH_1) walked in on my shower,{0}走进我的淋浴间
+ShowerIntruded.stages.0.description,Don't we have rules around here?,description,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def,Don't we have rules around here?,我们这里没有规矩吗？
+ShowerIntrudedPrude.stages.0.label,{0} walked in on my shower,label,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def,(PH_1) walked in on my shower,{0}走进我的淋浴间
+ShowerIntrudedPrude.stages.0.description,I thought I was safe in there.,description,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def,I thought I was safe in there.,我以为我在那里很安全。
+BathIntruded.stages.0.label,{0} walked in on my bath,label,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def,(PH_1) walked in on my bath,{0}走进我的浴室
+BathIntruded.stages.0.description,Don't we have rules around here?,description,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def,Don't we have rules around here?,我们这里没有规矩吗？
+BathIntrudedPrude.stages.0.label,{0} walked in on my bath,label,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def,(PH_1) walked in on my bath,{0}走进我的浴室
+BathIntrudedPrude.stages.0.description,I thought I was safe in there.,description,ThoughtDefs\ThoughtDefs_BathIntrusion.xml,def,I thought I was safe in there.,我以为我在那里很安全。
+Braless.stages.0.label,not wearing a bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,not wearing a <ALIMT >bra</ALIMT>,未佩戴<ALIMT>胸罩</ALIMT>
+Braless.stages.0.description,This is just better.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,This is just better.,这更好。
+BralessPrude.stages.0.label,not wearing a bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,not wearing a <ALIMT >bra</ALIMT>,未佩戴<ALIMT>胸罩</ALIMT>
+BralessPrude.stages.0.description,I'm so exposed like this.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,I'm so <ALIMT >exposed</ALIMT> like this.,我就是这样<ALIMT>暴露</ALIMT>。
+BralessSevere.stages.0.label,not wearing a bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,not wearing a <ALIMT >bra</ALIMT>,未佩戴<ALIMT>胸罩</ALIMT>
+BralessSevere.stages.0.description,This just doesn't work for me.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,This just doesn't work for me.,这对我来说不起作用。
+BralessSeverePrude.stages.0.label,not wearing a bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,not wearing a <ALIMT >bra</ALIMT>,未佩戴<ALIMT>胸罩</ALIMT>
+BralessSeverePrude.stages.0.description,I just know everyone can see them.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,I just know everyone can see them.,我只知道每个人都能看到它们。
+BadBra.stages.0.label,uncomfortable bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,uncomfortable <ALIMT >bra</ALIMT>,不舒服<ALIMT>胸罩</ALIMT>
+BadBra.stages.0.description,I have to adjust all the time.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,I have to adjust all the time.,我必须时刻调整。
+BadBraPrude.stages.0.label,useless bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,useless <ALIMT >bra</ALIMT>,无用<ALIMT>胸罩</ALIMT>
+BadBraPrude.stages.0.description,I keep having to check it.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,I keep having to check it.,我必须不断地检查它。
+BadBraSevere.stages.0.label,uncomfortable bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,uncomfortable <ALIMT >bra</ALIMT>,不舒服<ALIMT>胸罩</ALIMT>
+BadBraSevere.stages.0.description,I'm spilling out of this stupid thing.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,I'm spilling out of this stupid thing.,我正在从这个愚蠢的事情中溢出。
+BadBraSeverePrude.stages.0.label,useless bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,useless <ALIMT >bra</ALIMT>,无用<ALIMT>胸罩</ALIMT>
+BadBraSeverePrude.stages.0.description,I'm scared of my nipples popping out.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,I'm scared of my <ALIMT >nipples</ALIMT> popping out.,我害怕我的<ALIMT>乳头</ALIMT>会弹出。
+GoodBra.stages.0.label,decent bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,decent <ALIMT >bra</ALIMT>,体面<ALIMT>好</ALIMT>
+GoodBra.stages.0.description,It actually fits pretty well.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,It actually fits pretty well.,它实际上非常适合。
+GoodBraSevere.stages.0.label,decent bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,decent <ALIMT >bra</ALIMT>,体面<ALIMT>好</ALIMT>
+GoodBraSevere.stages.0.description,How did they make something that fits me.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,How did they make something that fits me.,他们是如何做出适合我的东西的。
+GoodBraPrude.stages.0.label,secure bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,secure <ALIMT >bra</ALIMT>,安全<ALIMT>胸罩</ALIMT>
+GoodBraPrude.stages.0.description,I'm safe from disaster.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,I'm safe from disaster.,我已远离灾难。
+GoodBraSeverePrude.stages.0.label,secure bra,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,secure <ALIMT >bra</ALIMT>,安全<ALIMT>胸罩</ALIMT>
+GoodBraSeverePrude.stages.0.description,I put my life in its hands.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,I put my life in its hands.,我把我的生命交到了它的手中。
+WearingCorset.stages.0.label,wearing a corset,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,wearing a <ALIMT >corset</ALIMT>,穿着<ALIMT>紧身胸衣</ALIMT>
+WearingCorset.stages.0.description,This feels good on my body.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,This feels good on my body.,这对我的身体感觉很好。
+WearingCorsetPrude.stages.0.label,wearing a corset,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,wearing a <ALIMT >corset</ALIMT>,穿着<ALIMT>紧身胸衣</ALIMT>
+WearingCorsetPrude.stages.0.description,I feel contained.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,I feel contained.,我感觉自己被包容了。
+WearingCorsetSevere.stages.0.label,wearing a corset,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,wearing a <ALIMT >corset</ALIMT>,穿着<ALIMT>紧身胸衣</ALIMT>
+WearingCorsetSevere.stages.0.description,My breasts look stunning.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,My <ALIMT >breasts</ALIMT> look stunning.,我的<ALIMT>乳房</ALIMT>看起来令人惊叹。
+WearingCorsetSeverePrude.stages.0.label,wearing a corset,label,ThoughtDefs\ThoughtDefs_Bra.xml,def,wearing a <ALIMT >corset</ALIMT>,穿着<ALIMT>紧身胸衣</ALIMT>
+WearingCorsetSeverePrude.stages.0.description,They feel like they're about to pop out.,description,ThoughtDefs\ThoughtDefs_Bra.xml,def,They feel like they're about to pop out.,他们感觉自己快要跳出来了。
+FixationALovers.stages.0.label,thinking about {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,thinking about (PH_1) <ALIMT >naked</ALIMT>,思考 {0} <ALIMT >裸体</ALIMT>
+FixationALovers.stages.0.description,"We're lovers, {OTHERPAWN_pronoun} might let me see {OTHERPAWN_objective} naked.",description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,"We're lovers, (PH_2) might let me see (PH_1) <ALIMT >naked</ALIMT>.",我们是恋人，{OTHERPAWN_pronoun} 可能会让我看到 {OTHERPAWN_objective} <ALIMT >裸体</ALIMT>。
+FixationARepeat.stages.0.label,thinking about {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,thinking about (PH_1) <ALIMT >naked</ALIMT>,思考 {0} <ALIMT >裸体</ALIMT>
+FixationARepeat.stages.0.description,I can't remember what {OTHERPAWN_pronoun} looks like naked,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I can't remember what (PH_1) looks like <ALIMT >naked</ALIMT>,我不记得 {OTHERPAWN_pronoun} <ALIMT >裸体</ALIMT> 是什么样子
+FixationBLovers.stages.0.label,want to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,want to see (PH_1) <ALIMT >naked</ALIMT>,想看 {0} <ALIMT >裸体</ALIMT>
+FixationBLovers.stages.0.description,I could just rip {OTHERPAWN_possessive} clothes off.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I could just rip (PH_1) clothes off.,我可以直接撕掉 {OTHERPAWN_possessive} 衣服。
+FixationCLovers.stages.0.label,dying to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,dying to see (PH_1) <ALIMT >naked</ALIMT>,渴望看到 {0} <ALIMT >裸体</ALIMT>
+FixationCLovers.stages.0.description,I can't get {OTHERPAWN_objective} out of my head. I need to see {OTHERPAWN_objective} naked now.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I can't get (PH_2) out of my head. I need to see (PH_1) <ALIMT >naked</ALIMT> now.,我无法将 {OTHERPAWN_objective} 从我的脑海中抹去。我现在需要看 {OTHERPAWN_objective} <ALIMT >裸体</ALIMT>。
+FixationDLovers.stages.0.label,never going to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,never going to see (PH_1) <ALIMT >naked</ALIMT>,永远不会看到 {0} <ALIMT >裸体</ALIMT>
+FixationDLovers.stages.0.description,I don't think it's ever going to happen.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I don't think it's ever going to happen.,我认为这永远不会发生。
+FixationAVoyeur.stages.0.label,thinking about {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,thinking about (PH_1) <ALIMT >naked</ALIMT>,思考 {0} <ALIMT >裸体</ALIMT>
+FixationAVoyeur.stages.0.description,I want to know what {OTHERPAWN_pronoun} looks like.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I want to know what (PH_1) looks like.,我想知道 {OTHERPAWN_pronoun} 是什么样子。
+FixationBVoyeur.stages.0.label,want to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,want to see (PH_1) <ALIMT >naked</ALIMT>,想看 {0} <ALIMT >裸体</ALIMT>
+FixationBVoyeur.stages.0.description,How can I make this happen?,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,How can I make this happen?,我怎样才能做到这一点？
+FixationCVoyeur.stages.0.label,dying to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,dying to see (PH_1) <ALIMT >naked</ALIMT>,渴望看到 {0} <ALIMT >裸体</ALIMT>
+FixationCVoyeur.stages.0.description,It's all I think about. I can't keep my eyes off of {OTHERPAWN_objective}.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,It's all I think about. I can't keep my eyes off of (PH_1).,这就是我所想的。我无法将目光从 {OTHERPAWN_objective} 上移开。
+FixationDVoyeur.stages.0.label,never going to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,never going to see (PH_1) <ALIMT >naked</ALIMT>,永远不会看到 {0} <ALIMT >裸体</ALIMT>
+FixationDVoyeur.stages.0.description,I need to move on.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I need to move on.,我需要继续前进。
+FixationABoobs.stages.0.label,thinking about {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,thinking about (PH_1) <ALIMT >naked</ALIMT>,思考 {0} <ALIMT >裸体</ALIMT>
+FixationABoobs.stages.0.description,I want to know what {OTHERPAWN_possessive} breasts look like.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I want to know what (PH_1) <ALIMT >breasts</ALIMT> look like.,我想知道 {OTHERPAWN_possessive} <ALIMT >乳房</ALIMT> 是什么样子。
+FixationABoobsRepeat.stages.0.label,thinking about {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,thinking about (PH_1) <ALIMT >naked</ALIMT>,思考 {0} <ALIMT >裸体</ALIMT>
+FixationABoobsRepeat.stages.0.description,I don't think I can remember what {OTHERPAWN_possessive} breasts look like.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I don't think I can remember what (PH_1) <ALIMT >breasts</ALIMT> look like.,我想我不记得 {OTHERPAWN_possessive} <ALIMT >乳房</ALIMT> 是什么样子。
+FixationBBoobs.stages.0.label,want to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,want to see (PH_1) <ALIMT >naked</ALIMT>,想看 {0} <ALIMT >裸体</ALIMT>
+FixationBBoobs.stages.0.description,That chest is just teasing me.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,That chest is just teasing me.,这胸简直是在逗我。
+FixationCBoobs.stages.0.label,dying to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,dying to see (PH_1) <ALIMT >naked</ALIMT>,渴望看到 {0} <ALIMT >裸体</ALIMT>
+FixationCBoobs.stages.0.description,I just need to see {OTHERPAWN_possessive} breasts. How big are they really?,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I just need to see (PH_1) <ALIMT >breasts</ALIMT>. How big are they really?,我只需要查看 {OTHERPAWN_possessive} <ALIMT >乳房</ALIMT>。它们到底有多大？
+FixationDBoobs.stages.0.label,never going to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,never going to see (PH_1) <ALIMT >naked</ALIMT>,永远不会看到 {0} <ALIMT >裸体</ALIMT>
+FixationDBoobs.stages.0.description,Maybe someone else got lucky enough.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,Maybe someone else got lucky enough.,也许其他人足够幸运。
+FixationABeauty.stages.0.label,thinking about {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,thinking about (PH_1) <ALIMT >naked</ALIMT>,思考 {0} <ALIMT >裸体</ALIMT>
+FixationABeauty.stages.0.description,I'm so struck by {OTHERPAWN_objective}.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I'm so struck by (PH_1).,我对 {OTHERPAWN_objective} 感到非常震惊。
+FixationBBeauty.stages.0.label,want to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,want to see (PH_1) <ALIMT >naked</ALIMT>,想看 {0} <ALIMT >裸体</ALIMT>
+FixationBBeauty.stages.0.description,What a gift it would be to see {OTHERPAWN_objective} naked.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,What a gift it would be to see (PH_1) <ALIMT >naked</ALIMT>.,看到 {OTHERPAWN_objective} <ALIMT >裸体</ALIMT> 将是多么好的礼物啊。
+FixationCBeauty.stages.0.label,dying to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,dying to see (PH_1) <ALIMT >naked</ALIMT>,渴望看到 {0} <ALIMT >裸体</ALIMT>
+FixationCBeauty.stages.0.description,I would do anything to see what's under those clothes.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I would do anything to see what's under those clothes.,我愿意做任何事情来看看那些衣服下面有什么。
+FixationDBeauty.stages.0.label,never going to see {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,never going to see (PH_1) <ALIMT >naked</ALIMT>,永远不会看到 {0} <ALIMT >裸体</ALIMT>
+FixationDBeauty.stages.0.description,I must not be worthy.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I must not be worthy.,我一定不值得。
+SeenALovers.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >naked</ALIMT>,看到了 {0} <ALIMT >裸体</ALIMT>
+SeenALovers.stages.0.description,I guess {OTHERPAWN_pronoun} trusts me.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I guess (PH_1) trusts me.,我想 {OTHERPAWN_pronoun} 信任我。
+SeenBLovers.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >naked</ALIMT>,看到了 {0} <ALIMT >裸体</ALIMT>
+SeenBLovers.stages.0.description,Today was a special day.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,Today was a special day.,今天是一个特别的日子。
+SeenCLovers.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >naked</ALIMT>,看到了 {0} <ALIMT >裸体</ALIMT>
+SeenCLovers.stages.0.description,I can't believe {OTHERPAWN_pronoun} showed {OTHERPAWN_objective}self to me. Is this real?,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I can't believe (PH_2) showed (PH_1)self to me. Is this real?,我不敢相信{OTHERPAWN_pronoun}向我展示了{OTHERPAWN_objective}自己。这是真的吗？
+SeenAVoyeur.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >naked</ALIMT>,看到了 {0} <ALIMT >裸体</ALIMT>
+SeenAVoyeur.stages.0.description,What a nice treat.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,What a nice treat.,多么好的款待啊。
+SeenBVoyeur.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >naked</ALIMT>,看到了 {0} <ALIMT >裸体</ALIMT>
+SeenBVoyeur.stages.0.description,I saw every bit of {OTHERPAWN_objective}.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I saw every bit of (PH_1).,我看到了 {OTHERPAWN_objective} 的每一点。
+SeenCVoyeur.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >naked</ALIMT>,看到了 {0} <ALIMT >裸体</ALIMT>
+SeenCVoyeur.stages.0.description,I will think about this image forever.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I will think about this image <ALIMT >forever</ALIMT>.,我会<ALIMT>永远思考这个图像</ALIMT>。
+SeenABoobs.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >naked</ALIMT>,看到了 {0} <ALIMT >裸体</ALIMT>
+SeenABoobs.stages.0.description,I did not think {OTHERPAWN_possessive} breasts were that big..,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I did not think (PH_1) <ALIMT >breasts</ALIMT> were that big..,我没想到 {OTHERPAWN_possessive} <ALIMT >乳房</ALIMT> 这么大..
+SeenABoobsRepeat.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >naked</ALIMT>,看到了 {0} <ALIMT >裸体</ALIMT>
+SeenABoobsRepeat.stages.0.description,I forgot {OTHERPAWN_possessive} breasts were that big..,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I forgot (PH_1) <ALIMT >breasts</ALIMT> were that big..,我忘了 {OTHERPAWN_possessive} <ALIMT >乳房</ALIMT> 有那么大..
+SeenBBoobs.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >naked</ALIMT>,看到了 {0} <ALIMT >裸体</ALIMT>
+SeenBBoobs.stages.0.description,Those breasts are a work of art.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,Those <ALIMT >breasts</ALIMT> are a work of art.,那些<ALIMT>乳房</ALIMT>是一件艺术品。
+SeenCBoobs.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >naked</ALIMT>,看到了 {0} <ALIMT >裸体</ALIMT>
+SeenCBoobs.stages.0.description,I never want to forget those breasts.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I never want to forget those <ALIMT >breasts</ALIMT>.,我永远不想忘记那些<ALIMT>乳房</ALIMT>。
+SeenABeauty.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >naked</ALIMT>,看到了 {0} <ALIMT >裸体</ALIMT>
+SeenABeauty.stages.0.description,What an immaculate creature.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,What an immaculate creature.,多么完美的生物啊。
+SeenBBeauty.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >naked</ALIMT>,看到了 {0} <ALIMT >裸体</ALIMT>
+SeenBBeauty.stages.0.description,That is one of the most beautiful things I've ever seen.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,That is one of the most beautiful things I've ever seen.,这是我见过的最美丽的事物之一。
+SeenCBeauty.stages.0.label,saw {0} naked,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >naked</ALIMT>,看到了 {0} <ALIMT >裸体</ALIMT>
+SeenCBeauty.stages.0.description,I'm a very lucky person.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I'm a very lucky person.,我是一个非常幸运的人。
+SeenATop.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1)'s <ALIMT >breasts</ALIMT>,看到 {0} 的<ALIMT >乳房</ALIMT>
+SeenATop.stages.0.description,That was unexpected.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,That was unexpected.,这是出乎意料的。
+SeenBTop.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1)'s <ALIMT >breasts</ALIMT>,看到 {0} 的<ALIMT >乳房</ALIMT>
+SeenBTop.stages.0.description,Today was a good day.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,Today was a good day.,今天是美好的一天。
+SeenCTop.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1)'s <ALIMT >breasts</ALIMT>,看到 {0} 的<ALIMT >乳房</ALIMT>
+SeenCTop.stages.0.description,"That was great, but I want more.",description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,"That was great, but I want more.",那太好了，但我想要更多。
+SeenABot.stages.0.label,saw {0} bottomless,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >bottomless</ALIMT>,看到了 {0} <ALIMT >无底</ALIMT>
+SeenABot.stages.0.description,That was unexpected.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,That was unexpected.,这是出乎意料的。
+SeenBBot.stages.0.label,saw {0} bottomless,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >bottomless</ALIMT>,看到了 {0} <ALIMT >无底</ALIMT>
+SeenBBot.stages.0.description,What a cute butt.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,What a cute butt.,多么可爱的屁股啊。
+SeenCBot.stages.0.label,saw {0} bottomless,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1) <ALIMT >bottomless</ALIMT>,看到了 {0} <ALIMT >无底</ALIMT>
+SeenCBot.stages.0.description,"That was great, but I want more.",description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,"That was great, but I want more.",那太好了，但我想要更多。
+SeenATopBoobs.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1)'s <ALIMT >breasts</ALIMT>,看到 {0} 的<ALIMT >乳房</ALIMT>
+SeenATopBoobs.stages.0.description,I did not think they were that big..,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I did not think they were that big..,我没想到它们有那么大..
+SeenATopBoobsRepeat.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1)'s <ALIMT >breasts</ALIMT>,看到 {0} 的<ALIMT >乳房</ALIMT>
+SeenATopBoobsRepeat.stages.0.description,I forgot they were that big..,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I forgot they were that big..,我忘了它们有那么大..
+SeenBTopBoobs.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1)'s <ALIMT >breasts</ALIMT>,看到 {0} 的<ALIMT >乳房</ALIMT>
+SeenBTopBoobs.stages.0.description,Her breasts are a work of art.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,Her <ALIMT >breasts</ALIMT> are a work of art.,她的<ALIMT>乳房</ALIMT>是一件艺术品。
+SeenCTopBoobs.stages.0.label,saw {0}'s breasts,label,ThoughtDefs\ThoughtDefs_Fixation.xml,def,saw (PH_1)'s <ALIMT >breasts</ALIMT>,看到 {0} 的<ALIMT >乳房</ALIMT>
+SeenCTopBoobs.stages.0.description,I never want to forget those breasts.,description,ThoughtDefs\ThoughtDefs_Fixation.xml,def,I never want to forget those <ALIMT >breasts</ALIMT>.,我永远不想忘记那些<ALIMT>乳房</ALIMT>。
+SlipBUnaware.stages.0.label,I feel a breeze,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,I feel a breeze,我感到一阵微风
+SlipBUnaware.stages.0.description,But there shouldn't be,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,But there shouldn't be,但不应该有
+SlipCUnaware.stages.0.label,I feel a breeze,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,I feel a breeze,我感到一阵微风
+SlipCUnaware.stages.0.description,Something feels very freeing.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,Something feels very freeing.,感觉很自由。
+SlipBAwareNoCare.stages.0.label,my nipple is out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,my <ALIMT >nipple</ALIMT> is out,我的<ALIMT>乳头</ALIMT>出来了
+SlipBAwareNoCare.stages.0.description,Don't care.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,Don't care.,别在意。
+SlipCAwareNoCare.stages.0.label,my breast is out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,my <ALIMT >breast</ALIMT> is out,我的<ALIMT >乳房</ALIMT> 出来了
+SlipCAwareNoCare.stages.0.description,I couldn't be bothered.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,I couldn't be bothered.,我不介意。
+SlipBCannotFix.stages.0.label,my nipple is out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,my <ALIMT >nipple</ALIMT> is out,我的<ALIMT>乳头</ALIMT>出来了
+SlipBCannotFix.stages.0.description,I can't do anything about it.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,I can't do anything about it.,我对此无能为力。
+SlipCCannotFix.stages.0.label,my breast is out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,my <ALIMT >breast</ALIMT> is out,我的<ALIMT >乳房</ALIMT> 出来了
+SlipCCannotFix.stages.0.description,I can't do anything about it.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,I can't do anything about it.,我对此无能为力。
+SlipACannotFixPrude.stages.0.label,my top is slipping,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,my top is slipping,我的上衣在滑落
+SlipACannotFixPrude.stages.0.description,My nipple will be out any second.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,My <ALIMT >nipple</ALIMT> will be out any second.,我的<ALIMT>乳头</ALIMT>随时都会出来。
+SlipBCannotFixPrude.stages.0.label,my nipple is out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,my <ALIMT >nipple</ALIMT> is out,我的<ALIMT>乳头</ALIMT>出来了
+SlipBCannotFixPrude.stages.0.description,I'm completely helpless.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,I'm completely helpless.,我完全无助了。
+SlipCCannotFixPrude.stages.0.label,my breast is out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,my <ALIMT >breast</ALIMT> is out,我的<ALIMT >乳房</ALIMT> 出来了
+SlipCCannotFixPrude.stages.0.description,I can't do anything about it.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,I can't do anything about it.,我对此无能为力。
+SlipBFixed.stages.0.label,my nipple was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,my <ALIMT >nipple</ALIMT> was out,我的<ALIMT>乳头</ALIMT>出来了
+SlipBFixed.stages.0.description,I need better clothes.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,I need better clothes.,我需要更好的衣服。
+SlipCFixed.stages.0.label,my breast was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,my <ALIMT >breast</ALIMT> was out,我的<ALIMT >乳房</ALIMT> 出来了
+SlipCFixed.stages.0.description,I need better clothes.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,I need better clothes.,我需要更好的衣服。
+SlipAFixedPrude.stages.0.label,had to fix my top,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,had to fix my top,必须修理我的上衣
+SlipAFixedPrude.stages.0.description,My nipple was almost out.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,My <ALIMT >nipple</ALIMT> was almost out.,我的<ALIMT>乳头</ALIMT>快要出来了。
+SlipBFixedPrude.stages.0.label,my nipple was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,my <ALIMT >nipple</ALIMT> was out,我的<ALIMT>乳头</ALIMT>出来了
+SlipBFixedPrude.stages.0.description,I really hope no one saw.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,I really hope no one saw.,我真希望没有人看到。
+SlipCFixedPrude.stages.0.label,my breast was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,my <ALIMT >breast</ALIMT> was out,我的<ALIMT >乳房</ALIMT> 出来了
+SlipCFixedPrude.stages.0.description,How long was it..,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,How long was it..,过了多久..
+SlipFixedCover.stages.0.label,can't keep my breasts covered,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,can't keep my <ALIMT >breasts</ALIMT> covered,无法遮盖我的<ALIMT>乳房</ALIMT>
+SlipFixedCover.stages.0.description,Someone definitely saw.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,Someone definitely saw.,肯定有人看到了。
+SlipFixedCoverPrude.stages.0.label,can't keep my breasts covered,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,can't keep my <ALIMT >breasts</ALIMT> covered,无法遮盖我的<ALIMT>乳房</ALIMT>
+SlipFixedCoverPrude.stages.0.description,I really hope no one saw.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,I really hope no one saw.,我真希望没有人看到。
+PositiveHelped.stages.0.label,{0} told me my nipple was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,(PH_1) told me my <ALIMT >nipple</ALIMT> was out,{0} 告诉我我的<ALIMT >乳头</ALIMT> 脱落了
+PositiveHelped.stages.0.description,That was embarassing.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,That was embarassing.,那就很尴尬了。
+NegativeHelped.stages.0.label,{0} told me my nipple was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,(PH_1) told me my <ALIMT >nipple</ALIMT> was out,{0} 告诉我我的<ALIMT >乳头</ALIMT> 脱落了
+NegativeHelped.stages.0.description,That was really emabrassing.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,That was really emabrassing.,那真是令人尴尬。
+PositiveHelpedPrude.stages.0.label,{0} told me my nipple was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,(PH_1) told me my <ALIMT >nipple</ALIMT> was out,{0} 告诉我我的<ALIMT >乳头</ALIMT> 脱落了
+PositiveHelpedPrude.stages.0.description,I can't look them in the eye.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,I can't look them in the eye.,我无法直视他们的眼睛。
+NegativeHelpedPrude.stages.0.label,{0} told me my nipple was out,label,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,(PH_1) told me my <ALIMT >nipple</ALIMT> was out,{0} 告诉我我的<ALIMT >乳头</ALIMT> 脱落了
+NegativeHelpedPrude.stages.0.description,I need to crawl in a hole.,description,ThoughtDefs\ThoughtDefs_NipSlip.xml,def,I need to crawl in a hole.,我需要在洞里爬行。
+CoveringBody.stages.0.label,naked around people,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,<ALIMT >naked</ALIMT> around people,<ALIMT >裸体</ALIMT> 在人们周围
+CoveringBody.stages.0.description,This is humiliating.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,This is humiliating.,这太丢脸了。
+CoveringBodyPrude.stages.0.label,naked,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,<ALIMT >naked</ALIMT>,<ALIMT>裸露</ALIMT>
+CoveringBodyPrude.stages.0.description,My arms are staying where they are.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,My arms are staying where they are.,我的手臂留在原处。
+CoveringBreasts.stages.0.label,topless around people,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,<ALIMT >topless</ALIMT> around people,<ALIMT >赤裸上身</ALIMT>周围的人
+CoveringBreasts.stages.0.description,This is really annoying.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,This is really annoying.,这真的很烦人。
+CoveringBreastsPrude.stages.0.label,topless,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,<ALIMT >topless</ALIMT>,<ALIMT >赤裸上身</ALIMT>
+CoveringBreastsPrude.stages.0.description,My arms are staying where they are.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,My arms are staying where they are.,我的手臂留在原处。
+CoveringGenitals.stages.0.label,naked around people,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,<ALIMT >naked</ALIMT> around people,<ALIMT >裸体</ALIMT> 在人们周围
+CoveringGenitals.stages.0.description,This is humiliating.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,This is humiliating.,这太丢脸了。
+CoveringGenitalsPrude.stages.0.label,naked,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,<ALIMT >naked</ALIMT>,<ALIMT>裸露</ALIMT>
+CoveringGenitalsPrude.stages.0.description,No one look at me.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,No one look at me.,没有人看我。
+ShowingBody.stages.0.label,not allowed to cover up,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,not allowed to cover up,不允许掩盖
+ShowingBody.stages.0.description,I'm just not going to think about it.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,I'm just not going to think about it.,我只是不会去想它。
+ShowingBodyPrude.stages.0.label,not allowed to cover up,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,not allowed to cover up,不允许掩盖
+ShowingBodyPrude.stages.0.description,This is a living nightmare.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,This is a living nightmare.,这是一场活生生的噩梦。
+NakedHostile.stages.0.label,not covering body,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,not covering body,不遮盖身体
+NakedHostile.stages.0.description,The situation demands it.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,The situation demands it.,形势需要它。
+NakedHostilePrude.stages.0.label,not covering body,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,not covering body,不遮盖身体
+NakedHostilePrude.stages.0.description,How did I get in this situation.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,How did I get in this situation.,我是怎么陷入这种境地的。
+UncaringUncovered.stages.0.label,naked and uncaring,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,<ALIMT >naked</ALIMT> and uncaring,<ALIMT>赤裸裸</ALIMT>并且漠不关心
+UncaringUncovered.stages.0.description,"Let them see, I don't care.",description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,"Let them see, I don't care.",让他们看看吧，我不在乎。
+DraftedPrude.stages.0.label,covering my body with my hands,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,covering my body with my hands,用双手遮住我的身体
+DraftedPrude.stages.0.description,How did I get in this situation.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,How did I get in this situation.,我是怎么陷入这种境地的。
+NakedAlone.stages.0.label,naked by myself,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,<ALIMT >naked</ALIMT> by myself,<ALIMT>裸体</ALIMT>我自己
+NakedAlone.stages.0.description,This feels alright.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,This feels alright.,这感觉还可以。
+NakedAlonePrude.stages.0.label,naked by myself,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,<ALIMT >naked</ALIMT> by myself,<ALIMT>裸体</ALIMT>我自己
+NakedAlonePrude.stages.0.description,I'm so scared someone will see me.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,I'm so scared someone will see me.,我很害怕有人会看到我。
+NakedWithOthers.stages.0.label,naked around others,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,<ALIMT >naked</ALIMT> around others,<ALIMT>裸体</ALIMT>在其他人身边
+NakedWithOthers.stages.0.description,I'm ok letting these peple see me naked.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,I'm ok letting these peple see me <ALIMT >naked</ALIMT>.,我可以让这些人看到我<ALIMT >裸体</ALIMT>。
+CannotCover.stages.0.label,cannot cover myself,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,cannot cover myself,无法掩盖自己
+CannotCover.stages.0.description,I'm too weak to cover my body.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,I'm too weak to cover my body.,我太虚弱了，无法遮盖自己的身体。
+CannotCoverPrude.stages.0.label,cannot cover myself,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,cannot cover myself,无法掩盖自己
+CannotCoverPrude.stages.0.description,I'm just here for all the world to see.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,I'm just here for all the world to see.,我只是来这里让全世界看到的。
+WokeNaked.stages.0.label,woke up naked,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,woke up <ALIMT >naked</ALIMT>,醒来<ALIMT >裸体</ALIMT>
+WokeNaked.stages.0.description,Did I go to sleep like that?,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,Did I go to sleep like that?,我就这样睡着了吗？
+WokeNakedPrude.stages.0.label,woke up naked,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,woke up <ALIMT >naked</ALIMT>,醒来<ALIMT >裸体</ALIMT>
+WokeNakedPrude.stages.0.description,Anyone could have seen me.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,Anyone could have seen me.,任何人都可能看到我。
+WokeNakedExhib.stages.0.label,woke up naked,label,ThoughtDefs\ThoughtDefs_Nudity.xml,def,woke up <ALIMT >naked</ALIMT>,醒来<ALIMT >裸体</ALIMT>
+WokeNakedExhib.stages.0.description,Anyone could have seen me.,description,ThoughtDefs\ThoughtDefs_Nudity.xml,def,Anyone could have seen me.,任何人都可能看到我。
+PrudeScoreNone.stages.0.label,modesty intact,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def,modesty intact,谦虚完好无损
+PrudeScoreNone.stages.0.description,I'm in control of my body right now.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def,I'm in control of my body right now.,我现在可以控制自己的身体。
+PrudeScoreLow.stages.0.label,modesty breached,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def,modesty breached,谦虚被破坏
+PrudeScoreLow.stages.0.description,I feel kind of sick.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def,I feel kind of sick.,我感觉有点不舒服。
+PrudeScoreMid.stages.0.label,modesty compromised,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def,modesty compromised,谦虚妥协
+PrudeScoreMid.stages.0.description,People have seen things I don't want them to see.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def,People have seen things I don't want them to see.,人们看到了我不想让他们看到的东西。
+PrudeScoreHigh.stages.0.label,modesty stripped,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def,modesty stripped,谦虚被剥夺
+PrudeScoreHigh.stages.0.description,This is unimaginable.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def,This is unimaginable.,这是难以想象的。
+VoyScoreHigh.stages.0.label,voyeur thrilled,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def,voyeur thrilled,偷窥狂兴奋
+VoyScoreHigh.stages.0.description,This is heaven.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def,This is heaven.,这就是天堂。
+VoyScoreMid.stages.0.label,voyeur pleased,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def,voyeur pleased,偷窥狂高兴
+VoyScoreMid.stages.0.description,I'm really enjoying this colony.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def,I'm really enjoying this colony.,我真的很喜欢这个殖民地。
+VoyScoreLow.stages.0.label,voyeur pleased,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def,voyeur pleased,偷窥狂高兴
+VoyScoreLow.stages.0.description,That was unexpected.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def,That was unexpected.,这是出乎意料的。
+VoyScoreNone.stages.0.label,voyeur frustrated,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def,voyeur frustrated,偷窥者沮丧
+VoyScoreNone.stages.0.description,Everyone's so buttoned up.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def,Everyone's so buttoned up.,每个人都这么拘束。
+ExhibScoreHigh.stages.0.label,exhibitionist thrilled,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def,exhibitionist thrilled,暴露狂兴奋
+ExhibScoreHigh.stages.0.description,These people know my body better than I do.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def,These people know my body better than I do.,这些人比我更了解我的身体。
+ExhibScoreMid.stages.0.label,exhibitionist pleased,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def,exhibitionist pleased,暴露狂高兴
+ExhibScoreMid.stages.0.description,I've gotten some thrills lately.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def,I've gotten some thrills lately.,最近我有些兴奋。
+ExhibScoreLow.stages.0.label,exhibitionist amused,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def,exhibitionist amused,暴露狂被逗乐了
+ExhibScoreLow.stages.0.description,That was kind of exciting.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def,That was kind of exciting.,这有点令人兴奋。
+ExhibScoreNone.stages.0.label,exhibitionist frustrated,label,ThoughtDefs\ThoughtDefs_Scoring.xml,def,exhibitionist frustrated,暴露狂沮丧
+ExhibScoreNone.stages.0.description,I just want someone to see me naked.,description,ThoughtDefs\ThoughtDefs_Scoring.xml,def,I just want someone to see me <ALIMT >naked</ALIMT>.,我只是想让有人看到我<ALIMT >裸体</ALIMT>。
+CaughtPeepingShower.stages.0.label,intruded on my shower,label,ThoughtDefs\ThoughtDefs_Social.xml,def,intruded on my shower,闯入我的淋浴间
+CaughtPeepingShowerPrude.stages.0.label,intruded on my shower,label,ThoughtDefs\ThoughtDefs_Social.xml,def,intruded on my shower,闯入我的淋浴间
+CaughtPeepingBath.stages.0.label,intruded on my bath,label,ThoughtDefs\ThoughtDefs_Social.xml,def,intruded on my bath,闯入我的浴室
+CaughtPeepingBathPrude.stages.0.label,intruded on my bath,label,ThoughtDefs\ThoughtDefs_Social.xml,def,intruded on my bath,闯入我的浴室
+NMM_Prude.degreeDatas.0.label,prudish,label,TraitDefs\Traits_Singular.xml,def,prudish,拘谨
+NMM_Prude.degreeDatas.0.description,{PAWN_nameDef}'s modesty is {PAWN_possessive} most guarded possession. {PAWN_pronoun} would sometimes rather die than lose it.,description,TraitDefs\Traits_Singular.xml,def,(PH_3)'s modesty is (PH_2) most guarded <ALIMT >possession</ALIMT>. (PH_1) would sometimes rather die than lose it.,{PAWN_nameDef} 的谦虚是 {PAWN_possessive} 最谨慎的<ALIMT >占有</ALIMT>。 {PAWN_pronoun}有时宁愿死也不愿失去它。
+NMM_Exhibitionist.degreeDatas.0.label,exhibitionist,label,TraitDefs\Traits_Singular.xml,def,exhibitionist,暴露狂
+NMM_Exhibitionist.degreeDatas.0.description,"{PAWN_nameDef} almost compulsively wants people to see {PAWN_objective} naked, often going to unusual lengths for a thrill.",description,TraitDefs\Traits_Singular.xml,def,"(PH_2) almost compulsively wants people to see (PH_1) <ALIMT >naked</ALIMT>, often going to unusual lengths for a thrill.",{PAWN_nameDef} 几乎不由自主地希望人们看到 {PAWN_objective} <ALIMT >裸体</ALIMT>，常常不遗余力地寻求刺激。
+NMM_Voyeur.degreeDatas.0.label,voyeur,label,TraitDefs\Traits_Singular.xml,def,voyeur,偷窥狂
+NMM_Voyeur.degreeDatas.0.description,"{PAWN_nameDef} obsesses about seeing people naked. If {PAWN_pronoun}'s looking at you, {PAWN_pronoun}'s probably thinking about what's under your clothes.",description,TraitDefs\Traits_Singular.xml,def,"(PH_3) obsesses about seeing people <ALIMT >naked</ALIMT>. If (PH_2)'s looking at you, (PH_1)'s probably thinking about what's under your clothes.",{PAWN_nameDef} 痴迷于看到人们<ALIMT >裸体</ALIMT>。如果 {PAWN_pronoun} 正在看着您，{PAWN_pronoun} 可能正在考虑您衣服下面的东西。

@@ -1,11 +1,280 @@
 key,text,tag,file,type
-Cumpilation_Hediff_Cum.labelNounPretty,cum on {1},labelNounPretty,HediffDefs\Bukkake.xml,def
-Cumpilation_Hediff_InsectSpunk.description,飞溅的虫精。,Cumpilation_Hediff_InsectSpunk.description,HediffDefs\Bukkake.xml,def
-Cumpilation_Hediff_InsectSpunk.label,虫精,Cumpilation_Hediff_InsectSpunk.label,HediffDefs\Bukkake.xml,def
-Cumpilation_Hediff_InsectSpunk.labelNoun,虫精,Cumpilation_Hediff_InsectSpunk.labelNoun,HediffDefs\Bukkake.xml,def
-Cumpilation_Hediff_InsectSpunk.labelNounPretty,insect spunk on {1},labelNounPretty,HediffDefs\Bukkake.xml,def
-Cumpilation_Hediff_InsectSpunk.stages.0.label,微量,Cumpilation_Hediff_InsectSpunk.stages.0.label,HediffDefs\Bukkake.xml,def
-Cumpilation_Hediff_InsectSpunk.stages.1.label,一些,Cumpilation_Hediff_InsectSpunk.stages.1.label,HediffDefs\Bukkake.xml,def
-Cumpilation_Hediff_InsectSpunk.stages.2.label,滴落,Cumpilation_Hediff_InsectSpunk.stages.2.label,HediffDefs\Bukkake.xml,def
-Cumpilation_Hediff_InsectSpunk.stages.3.label,浸透,Cumpilation_Hediff_InsectSpunk.stages.3.label,HediffDefs\Bukkake.xml,def
-Cumpilation_Hediff_SquirtFluids.labelNounPretty,squirted on {1},labelNounPretty,HediffDefs\Bukkake.xml,def
+cumpilation_settings_menuname,Cumpilation - Base Settings,cumpilation_settings_menuname,Mod_Settings.xml,keyed
+cumpilation_settings_enable_cumflation_key,Inflation,cumpilation_settings_enable_cumflation_key,Mod_Settings.xml,keyed
+cumpilation_settings_enable_cumflation_desc,Enables Cum-flation and other vaginal fluid insertion Hediffs.,cumpilation_settings_enable_cumflation_desc,Mod_Settings.xml,keyed
+cumpilation_settings_cumflation_modifier_key,Global Inflation Modifier,cumpilation_settings_cumflation_modifier_key,Mod_Settings.xml,keyed
+cumpilation_settings_cumflation_modifier_desc,"Modifies how much fluid is necessary for a full inflation. Higher number mean more fluid necessary, lower numbers less.",cumpilation_settings_cumflation_modifier_desc,Mod_Settings.xml,keyed
+cumpilation_settings_enable_stuffing_key,Stuffing,cumpilation_settings_enable_stuffing_key,Mod_Settings.xml,keyed
+cumpilation_settings_enable_stuffing_desc,Enables Cum-stuffing and other oral+anal fluid insertion Hediffs.,cumpilation_settings_enable_stuffing_desc,Mod_Settings.xml,keyed
+cumpilation_settings_stuffing_modifier_key,Global Stuffing Modifier,cumpilation_settings_stuffing_modifier_key,Mod_Settings.xml,keyed
+cumpilation_settings_stuffing_modifier_desc,"Modifies how much fluid is necessary for a full stuffing. Higher number mean more fluid necessary, lower numbers less.",cumpilation_settings_stuffing_modifier_desc,Mod_Settings.xml,keyed
+cumpilation_settings_enable_bukkake_key,Bukkake,cumpilation_settings_enable_bukkake_key,Mod_Settings.xml,keyed
+cumpilation_settings_enable_bukkake_desc,Enables Bukkake and other Fluid-based body-covers.,cumpilation_settings_enable_bukkake_desc,Mod_Settings.xml,keyed
+cumpilation_settings_bukkake_modifier_key,Global Covering Modifier,cumpilation_settings_bukkake_modifier_key,Mod_Settings.xml,keyed
+cumpilation_settings_bukkake_modifier_desc,"Modifies how much fluid is necessary for a full covering. Higher number mean more fluid necessary, lower numbers less.",cumpilation_settings_bukkake_modifier_desc,Mod_Settings.xml,keyed
+cumpilation_settings_enable_fluid_gathering_while_cleaning_key,Fluid-gathering while cleaning,cumpilation_settings_enable_fluid_gathering_while_cleaning_key,Mod_Settings.xml,keyed
+cumpilation_settings_enable_fluid_gathering_while_cleaning_desc,"When enabled, cleaning fluid-filth can spawn respective items (Chance based on FluidGatheringDefs).",cumpilation_settings_enable_fluid_gathering_while_cleaning_desc,Mod_Settings.xml,keyed
+cumpilation_settings_max_gathering_check_distance_key,Max-Gathering Check Distance,cumpilation_settings_max_gathering_check_distance_key,Mod_Settings.xml,keyed
+cumpilation_settings_max_gathering_check_distance_desc,"The gathering-items use a max-distance to find items in their room. High values might lead to performance issues when placed outside or in big, crowded rooms.",cumpilation_settings_max_gathering_check_distance_desc,Mod_Settings.xml,keyed
+cumpilation_settings_enable_progressing_consumption_thoughts_key,Progressing Consumption Thoughts,cumpilation_settings_enable_progressing_consumption_thoughts_key,Mod_Settings.xml,keyed
+cumpilation_settings_enable_progressing_consumption_thoughts_desc,"When enabled, the pawns will gain thoughts on Fluid-Consumption, depending on their preferences and how much of it they consumed already.",cumpilation_settings_enable_progressing_consumption_thoughts_desc,Mod_Settings.xml,keyed
+cumpilation_settings_enable_oscillation_mechanics_key,Oscillation Mechanics,cumpilation_settings_enable_oscillation_mechanics_key,Mod_Settings.xml,keyed
+cumpilation_settings_enable_oscillation_mechanics_desc,"When enabled, Hediffs are added post-sex and on celibacy that change fluid-amount (Blue balls, drained and wet).",cumpilation_settings_enable_oscillation_mechanics_desc,Mod_Settings.xml,keyed
+cumpilation_settings_enable_oscillation_mechanics_animals_key,Oscillation for Animals,cumpilation_settings_enable_oscillation_mechanics_animals_key,Mod_Settings.xml,keyed
+cumpilation_settings_enable_oscillation_mechanics_animals_desc,Applies the oscillation mechanics to player faction animals.,cumpilation_settings_enable_oscillation_mechanics_animals_desc,Mod_Settings.xml,keyed
+cumpilation_settings_enable_debug_logging_key,Debug Logging,cumpilation_settings_enable_debug_logging_key,Mod_Settings.xml,keyed
+cumpilation_settings_enable_debug_logging_desc,"When enabled, more detailed logging will take place.",cumpilation_settings_enable_debug_logging_desc,Mod_Settings.xml,keyed
+cumpilation_cumsettings_menuname,Cumpilation - Cum Leaking,cumpilation_cumsettings_menuname,Mod_Settings.xml,keyed
+cumpilation_cumsettings_enable_filth_key,Enable generation of Filth while deflating over time.,cumpilation_cumsettings_enable_filth_key,Mod_Settings.xml,keyed
+cumpilation_cumsettings_enable_filth_desc,"If disabled, pawns that are filled with cum will no longer generate filth as they naturaly deflate.",cumpilation_cumsettings_enable_filth_desc,Mod_Settings.xml,keyed
+cumpilation_cumsettings_enable_autodeflatebucket_key,Enable auto deflate into buckets,cumpilation_cumsettings_enable_autodeflatebucket_key,Mod_Settings.xml,keyed
+cumpilation_cumsettings_enable_autodeflatebucket_desc,"If enabled, pawns will automatically deflate themselves into buckets when cumflated.",cumpilation_cumsettings_enable_autodeflatebucket_desc,Mod_Settings.xml,keyed
+cumpilation_cumsettings_enable_autodeflatedubs_key,Enable clean auto deflate,cumpilation_cumsettings_enable_autodeflatedubs_key,Mod_Settings.xml,keyed
+cumpilation_cumsettings_enable_autodeflatedubs_desc,"If enabled, pawns will automatically deflate themselves into toilets, showers, etc. when cumflated (Requires Dubs Bad Hygiene).\nNote that pawns will prioritize buckets and toilets when they are available.",cumpilation_cumsettings_enable_autodeflatedubs_desc,Mod_Settings.xml,keyed
+cumpilation_cumsettings_enable_autodeflatedirty_key,Enable auto deflate anywhere,cumpilation_cumsettings_enable_autodeflatedirty_key,Mod_Settings.xml,keyed
+cumpilation_cumsettings_enable_autodeflatedirty_desc,"If enabled, pawns will automatically deflate themselves anywhere when cumflated.\nNote that pawns will prioritize buckets and toilets when they are available.",cumpilation_cumsettings_enable_autodeflatedirty_desc,Mod_Settings.xml,keyed
+cumpilation_cumsettings_enable_privacy_key,Enable privacy checks,cumpilation_cumsettings_enable_privacy_key,Mod_Settings.xml,keyed
+cumpilation_cumsettings_enable_privacy_desc,"If enabled, pawns will get upset if they are seen while deflating themselves. They will also try to find a private spot to do so.",cumpilation_cumsettings_enable_privacy_desc,Mod_Settings.xml,keyed
+cumpilation_cumsettings_min_autodeflate_key,Minimum severity for auto deflate: ,cumpilation_cumsettings_min_autodeflate_key,Mod_Settings.xml,keyed
+cumpilation_cumsettings_min_autodeflate_desc,"Pawns will only automatically deflate themselves when cumflation severity is above this value.\nFor reference, severity below 0.2 usually has no effect, and severity above 0.9 will usually immobilize the pawn. Severity will almost never exceed 1.0.\nDefault: 0.4",cumpilation_cumsettings_min_autodeflate_desc,Mod_Settings.xml,keyed
+cumpilation_cumsettings_max_deflatedistance_key,Maximum distance for auto deflate: ,cumpilation_cumsettings_max_deflatedistance_key,Mod_Settings.xml,keyed
+cumpilation_cumsettings_max_deflatedistance_desc,The maximum distance a pawn will travel when looking for a spot to deflate.\nDefault: 100,cumpilation_cumsettings_max_deflatedistance_desc,Mod_Settings.xml,keyed
+cumpilation_cumsettings_leak_amount_multi_key,Leak amount multiplier: ,cumpilation_cumsettings_leak_amount_multi_key,Mod_Settings.xml,keyed
+cumpilation_cumsettings_leak_amount_multi_desc,The amount of filth generated by leaking cum will be multiplied by this value.\nDefault: 5.0,cumpilation_cumsettings_leak_amount_multi_desc,Mod_Settings.xml,keyed
+cumpilation_cumsettings_leak_speed_multi_key,Leak speed multiplier: ,cumpilation_cumsettings_leak_speed_multi_key,Mod_Settings.xml,keyed
+cumpilation_cumsettings_leak_speed_multi_desc,The speed of leaking cum will be multiplied by this value.\nDefault: 1.0,cumpilation_cumsettings_leak_speed_multi_desc,Mod_Settings.xml,keyed
+cumpilation_cumsettings_deflate_amount_multi_key,Deflate cum multiplier: ,cumpilation_cumsettings_deflate_amount_multi_key,Mod_Settings.xml,keyed
+cumpilation_cumsettings_deflate_amount_multi_desc,The amount of filth generated by deflating into buckets will be multiplied by this value.\nDefault: 5.0,cumpilation_cumsettings_deflate_amount_multi_desc,Mod_Settings.xml,keyed
+cumpilation_cumsettings_deflate_speed_multi_key,Deflate speed multiplier: ,cumpilation_cumsettings_deflate_speed_multi_key,Mod_Settings.xml,keyed
+cumpilation_cumsettings_deflate_speed_multi_desc,The speed of deflating cum will be multiplied by this value.\nDefault: 1.0,cumpilation_cumsettings_deflate_speed_multi_desc,Mod_Settings.xml,keyed
+cumpilation_button_cumseal_desc,Toggle cum leaking for this pawn.,cumpilation_button_cumseal_desc,UI_Elements.xml,keyed
+cumpilation_button_cumseal_sealed,Sealed,cumpilation_button_cumseal_sealed,UI_Elements.xml,keyed
+cumpilation_button_cumseal_unsealed,Unsealed,cumpilation_button_cumseal_unsealed,UI_Elements.xml,keyed
+cumpilation_button_cumdeflate_desc,Toggle automatic deflating for this pawn.,cumpilation_button_cumdeflate_desc,UI_Elements.xml,keyed
+cumpilation_button_cumdeflate_deflate,Deflate,cumpilation_button_cumdeflate_deflate,UI_Elements.xml,keyed
+cumpilation_button_cumdeflate_nodeflate,No Deflate,cumpilation_button_cumdeflate_nodeflate,UI_Elements.xml,keyed
+Cumpilation_Hediff_BukkakeController.label,Bukkake,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_BukkakeController.description,Covered in cum.,description,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_BukkakeController.stages.0.label,minor,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_BukkakeController.stages.1.label,little,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_BukkakeController.stages.2.label,extensive,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_BukkakeController.stages.3.label,full,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SpunkkakeController.label,Spunkkake,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SpunkkakeController.description,Covered in Insectspunk.,description,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SpunkkakeController.stages.0.label,minor,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SpunkkakeController.stages.1.label,little,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SpunkkakeController.stages.2.label,extensive,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SpunkkakeController.stages.3.label,full,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_GirlcumkakeController.label,Squirtcoated,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_GirlcumkakeController.description,Covered in girl-cum.,description,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_GirlcumkakeController.stages.0.label,minor,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_GirlcumkakeController.stages.1.label,moisturized,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_GirlcumkakeController.stages.2.label,drenched,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_GirlcumkakeController.stages.3.label,soaked,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_Cum.label,Cum,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_Cum.labelNoun,cum,labelNoun,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_Cum.description,cum,description,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_Cum.labelNounPretty,cum on {1},labelNounPretty,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_Cum.stages.0.label,little,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_Cum.stages.1.label,some,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_Cum.stages.2.label,dripping,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_Cum.stages.3.label,drenched,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_InsectSpunk.description,splash of insect spunk.,description,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_InsectSpunk.label,insect spunk,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_InsectSpunk.labelNoun,insect spunk,labelNoun,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_InsectSpunk.labelNounPretty,insect spunk on {1},labelNounPretty,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_InsectSpunk.stages.0.label,little,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_InsectSpunk.stages.1.label,some,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_InsectSpunk.stages.2.label,dripping,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_InsectSpunk.stages.3.label,drenched,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SquirtFluids.description,splash of squirt fluids.,description,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SquirtFluids.label,squirt fluids,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SquirtFluids.labelNoun,squirt fluids,labelNoun,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SquirtFluids.labelNounPretty,squirted on {1},labelNounPretty,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SquirtFluids.stages.0.label,little,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SquirtFluids.stages.1.label,some,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SquirtFluids.stages.2.label,dripping,label,HediffDef/HediffDef.xml,def
+Cumpilation_Hediff_SquirtFluids.stages.3.label,drenched,label,HediffDef/HediffDef.xml,def
+Cumpilation_Cumflation.label,cumflation,label,HediffDef/HediffDef.xml,def
+Cumpilation_Cumflation.labelNoun,cumflation,labelNoun,HediffDef/HediffDef.xml,def
+Cumpilation_Cumflation.description,"When a creature with prodigious fluid production releases its contents into another
+      creature, the receiving creature can get inflated if there is too much fluid.",description,HediffDef/HediffDef.xml,def
+Cumpilation_Cumflation.stages.0.label,a little,label,HediffDef/HediffDef.xml,def
+Cumpilation_Cumflation.stages.1.label,slight,label,HediffDef/HediffDef.xml,def
+Cumpilation_Cumflation.stages.2.label,moderate,label,HediffDef/HediffDef.xml,def
+Cumpilation_Cumflation.stages.3.label,intense,label,HediffDef/HediffDef.xml,def
+Cumpilation_Cumflation.stages.4.label,extreme,label,HediffDef/HediffDef.xml,def
+Cumpilation_Cumstuffed.label,cumstuffed,label,HediffDef/HediffDef.xml,def
+Cumpilation_Cumstuffed.labelNoun,cumstuffed,labelNoun,HediffDef/HediffDef.xml,def
+Cumpilation_Cumstuffed.description,Drinking a large quantity of cum at once has to send the cum somewhere.,description,HediffDef/HediffDef.xml,def
+Cumpilation_Cumstuffed.stages.0.label,slightly bloated,label,HediffDef/HediffDef.xml,def
+Cumpilation_Cumstuffed.stages.1.label,bloated,label,HediffDef/HediffDef.xml,def
+Cumpilation_Cumstuffed.stages.2.label,full,label,HediffDef/HediffDef.xml,def
+Cumpilation_Cumstuffed.stages.3.label,stuffed,label,HediffDef/HediffDef.xml,def
+Cumpilation_Cumstuffed.stages.4.label,overstuffed,label,HediffDef/HediffDef.xml,def
+Cumpilation_InsectSpunkStuffed.label,insect-spunk stuffed,label,HediffDef/HediffDef.xml,def
+Cumpilation_InsectSpunkStuffed.labelNoun,insect-spunk stuffed,labelNoun,HediffDef/HediffDef.xml,def
+Cumpilation_InsectSpunkStuffed.description,"There are not only eggs coming from insects, you know.",description,HediffDef/HediffDef.xml,def
+Cumpilation_InsectSpunkStuffed.stages.0.label,slightly bloated,label,HediffDef/HediffDef.xml,def
+Cumpilation_InsectSpunkStuffed.stages.1.label,bloated,label,HediffDef/HediffDef.xml,def
+Cumpilation_InsectSpunkStuffed.stages.2.label,full,label,HediffDef/HediffDef.xml,def
+Cumpilation_InsectSpunkStuffed.stages.3.label,over-stuffed,label,HediffDef/HediffDef.xml,def
+Cumpilation_Sealed.label,cum seal,label,HediffDef/HediffDef.xml,def
+Cumpilation_Sealed.description,description,description,HediffDef/HediffDef.xml,def
+Deflating.label,deflating,label,HediffDef/HediffDef.xml,def
+Deflating.description,description,description,HediffDef/HediffDef.xml,def
+Cumpilation_BlueBalls.label,blue balls,label,HediffDef/HediffDef.xml,def
+Cumpilation_BlueBalls.labelNoun,blue balls,labelNoun,HediffDef/HediffDef.xml,def
+Cumpilation_BlueBalls.description,there is a tension building up.,description,HediffDef/HediffDef.xml,def
+Cumpilation_BlueBalls.stages.0.label,negligible,label,HediffDef/HediffDef.xml,def
+Cumpilation_BlueBalls.stages.1.label,noticable,label,HediffDef/HediffDef.xml,def
+Cumpilation_BlueBalls.stages.2.label,swollen,label,HediffDef/HediffDef.xml,def
+Cumpilation_BlueBalls.stages.3.label,aching,label,HediffDef/HediffDef.xml,def
+Cumpilation_Drained.label,drained,label,HediffDef/HediffDef.xml,def
+Cumpilation_Drained.labelNoun,drained,labelNoun,HediffDef/HediffDef.xml,def
+Cumpilation_Drained.description,"something recently emptied your balls - well done, but be careful for over-usage.",description,HediffDef/HediffDef.xml,def
+Cumpilation_Drained.stages.0.label,negligible,label,HediffDef/HediffDef.xml,def
+Cumpilation_Drained.stages.1.label,stressed,label,HediffDef/HediffDef.xml,def
+Cumpilation_Drained.stages.2.label,empty,label,HediffDef/HediffDef.xml,def
+Cumpilation_Drained.stages.3.label,hurtful,label,HediffDef/HediffDef.xml,def
+Cumpilation_Wet.label,wet,label,HediffDef/HediffDef.xml,def
+Cumpilation_Wet.labelNoun,wet,labelNoun,HediffDef/HediffDef.xml,def
+Cumpilation_Wet.description,stimulation (temporarily) increases the fluid-amount of vaginas.,description,HediffDef/HediffDef.xml,def
+Cumpilation_Wet.stages.0.label,normal,label,HediffDef/HediffDef.xml,def
+Cumpilation_Wet.stages.1.label,soaking,label,HediffDef/HediffDef.xml,def
+Cumpilation_Wet.stages.2.label,drenched,label,HediffDef/HediffDef.xml,def
+Cumpilation_Wet.stages.3.label,dripping,label,HediffDef/HediffDef.xml,def
+Cumpilation_ActiveCowpersGland.label,stimulated prostate,label,HediffDef/HediffDef.xml,def
+Cumpilation_ActiveCowpersGland.description,"Due to a drug, the cowpers gland produces more fluid than usual.",description,HediffDef/HediffDef.xml,def
+Cumpilation_ActiveCowpersGland.stages.0.label,wearing off,label,HediffDef/HediffDef.xml,def
+Cumpilation_ActiveCowpersGland.stages.1.label,altered,label,HediffDef/HediffDef.xml,def
+Cumpilation_ActiveCowpersGland.stages.2.label,fresh,label,HediffDef/HediffDef.xml,def
+Cumpilation_ActiveMammaries.label,stimulated mammaries,label,HediffDef/HediffDef.xml,def
+Cumpilation_ActiveMammaries.description,The mammary glands got stimulated and produce more fluid.,description,HediffDef/HediffDef.xml,def
+Cumpilation_ActiveMammaries.stages.0.label,wearing off,label,HediffDef/HediffDef.xml,def
+Cumpilation_ActiveMammaries.stages.1.label,altered,label,HediffDef/HediffDef.xml,def
+Cumpilation_ActiveMammaries.stages.2.label,fresh,label,HediffDef/HediffDef.xml,def
+Cumpilation_CleanSelf.reportString,cleaning self,reportString,JobDef/JobDef.xml,def
+Cumpilation_CleanSelfWithSink.reportString,collecting fluids,reportString,JobDef/JobDef.xml,def
+DeflateBucket.reportString,deflating into TargetA.,reportString,JobDef/JobDef.xml,def
+DeflateClean.reportString,deflating into TargetA.,reportString,JobDef/JobDef.xml,def
+DeflateDirty.reportString,deflating onto the floor.,reportString,JobDef/JobDef.xml,def
+Cumpilation_OverflowingCumflation.reportString,Overflowing Cumflation,reportString,JobDef/JobDef.xml,def
+Cumpilation_VomitFluid.reportString,vomiting fluid.,reportString,JobDef/JobDef.xml,def
+ExtractCum.label,extract cum,label,RecipeDef/RecipeDef.xml,def
+ExtractCum.description,Extract cum from this pawn's well-stuffed pussy.,description,RecipeDef/RecipeDef.xml,def
+ExtractCum.jobString,Extracting cum.,jobString,RecipeDef/RecipeDef.xml,def
+Cumpilation_NumOfConsumedCum.label,consumed cum,label,RecordDef/RecordDef.xml,def
+Cumpilation_NumOfConsumedCum.description,The number of times that i consumed cum.,description,RecordDef/RecordDef.xml,def
+Cumpilation_AmountConsumedCum.label,consumed cum(mL),label,RecordDef/RecordDef.xml,def
+Cumpilation_AmountConsumedCum.description,The amount of cum that i consumed.,description,RecordDef/RecordDef.xml,def
+Cumpilation_NumOfConsumedInsectSpunk.label,consumed insect spunk,label,RecordDef/RecordDef.xml,def
+Cumpilation_NumOfConsumedInsectSpunk.description,The number of times that i consumed insect spunk.,description,RecordDef/RecordDef.xml,def
+Cumpilation_AmountConsumedInsectSpunk.label,consumed insect spunk(mL),label,RecordDef/RecordDef.xml,def
+Cumpilation_AmountConsumedInsectSpunk.description,The amount of insect spunk that i consumed.,description,RecordDef/RecordDef.xml,def
+Cumpilation_NumOfConsumedBreastMilk.label,consumed breast milk,label,RecordDef/RecordDef.xml,def
+Cumpilation_NumOfConsumedBreastMilk.description,The number of times that i consumed breast milk.,description,RecordDef/RecordDef.xml,def
+Cumpilation_AmountConsumedBreastMilk.label,consumed breast milk(mL),label,RecordDef/RecordDef.xml,def
+Cumpilation_AmountConsumedBreastMilk.description,The amount of breast milk that i consumed.,description,RecordDef/RecordDef.xml,def
+Cumpilation_NumOfConsumedGirlCum.label,consumed girl cum,label,RecordDef/RecordDef.xml,def
+Cumpilation_NumOfConsumedGirlCum.description,The number of times that i consumed girl cum.,description,RecordDef/RecordDef.xml,def
+Cumpilation_AmountConsumedGirlCum.label,consumed girl cum(mL),label,RecordDef/RecordDef.xml,def
+Cumpilation_AmountConsumedGirlCum.description,The amount of girl cum that i consumed.,description,RecordDef/RecordDef.xml,def
+Cumpilation_Apparel_Plug.label,plug,label,ThingDef/ThingDef.xml,def
+Cumpilation_Apparel_Plug.description,A plug to stop cum from leaking. Most people will find it uncomfortable to wear.,description,ThingDef/ThingDef.xml,def
+Cumpilation_CumBucket.label,cum bucket,label,ThingDef/ThingDef.xml,def
+Cumpilation_CumBucket.description,"A bucket for collecting cum. Colonists and prisoners will go masturbate near a
+      bucket if possible.",description,ThingDef/ThingDef.xml,def
+Cumpilation_Advanced_Cum_Bucket.label,Advanced cum bucket,label,ThingDef/ThingDef.xml,def
+Cumpilation_Advanced_Cum_Bucket.description,"A bucket to collect fluid and keep the area around it clean. Slowly removes cum and
+      insect-spunk in a 10 Cell radius.",description,ThingDef/ThingDef.xml,def
+stool_with_cumbucket.label,stool with cumbucket,label,ThingDef/ThingDef.xml,def
+stool_with_cumbucket.description,A simple stool with a hole in the middle and a cum bucket below it. Can be used by cumflated pawns to deflate themselves.,description,ThingDef/ThingDef.xml,def
+chair_with_cumbucket.label,chair with cumbucket,label,ThingDef/ThingDef.xml,def
+chair_with_cumbucket.description,A simple chair with a cum collection device in the middle and a cum bucket below it. Can be used by cumflated pawns to deflate themselves.,description,ThingDef/ThingDef.xml,def
+autochair_with_cumtank.label,autochair with cumtank,label,ThingDef/ThingDef.xml,def
+autochair_with_cumtank.description,An advanced chair with an automatic cum collection device hooked up to a cumtank. Can be used by cumflated pawns to deflate themselves.,description,ThingDef/ThingDef.xml,def
+Cumpilation_Lecithin.label,lecithin,label,ThingDef/ThingDef.xml,def
+Cumpilation_Lecithin.description,"This (non-prescription) supplement temporarily increases the activity of the cowpers gland, resulting in bigger penile fluid output for ~2 days.",description,ThingDef/ThingDef.xml,def
+Cumpilation_Lecithin.ingestible.ingestCommandString,Take {0},ingestCommandString,ThingDef/ThingDef.xml,def
+Cumpilation_Lecithin.ingestible.ingestReportString,Taking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+Cumpilation_Galactogogues.label,galactagogues,label,ThingDef/ThingDef.xml,def
+Cumpilation_Galactogogues.description,"This (non-prescription) supplement temporarily increases the activity of the mammary glands, resulting in higher milk production for ~3 Days.",description,ThingDef/ThingDef.xml,def
+Cumpilation_Galactogogues.ingestible.ingestCommandString,Take {0},ingestCommandString,ThingDef/ThingDef.xml,def
+Cumpilation_Galactogogues.ingestible.ingestReportString,Taking {0}.,ingestReportString,ThingDef/ThingDef.xml,def
+Cumpilation_Cum.label,cum,label,ThingDef/ThingDef.xml,def
+Cumpilation_Cum.description,Gathered cum.,description,ThingDef/ThingDef.xml,def
+Cumpilation_AllowWithCum.label,allow food with cum,label,SpecialThingFilterDef/SpecialThingFilterDef.xml,def
+Cumpilation_AllowWithCum.description,Allow food that was spiced up by adding sexual fluids.,description,SpecialThingFilterDef/SpecialThingFilterDef.xml,def
+Cumpilation_AllowWithoutCum.label,allow food without cum,label,SpecialThingFilterDef/SpecialThingFilterDef.xml,def
+Cumpilation_AllowWithoutCum.description,Allow food normal food.,description,SpecialThingFilterDef/SpecialThingFilterDef.xml,def
+Cumpilation_ConsumedCum.stages.0.label,ate cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedCum.stages.0.description,Disgusting.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedCum.stages.1.label,ate cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedCum.stages.1.description,It's stinky and tastes bad.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedCum.stages.2.label,ate cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedCum.stages.2.description,Tastes bad. But I liked it.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedCum.stages.3.label,ate cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedCum.stages.3.description,Delicious.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedInsectSpunk.stages.0.label,ate insect spunk,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedInsectSpunk.stages.0.description,So humiliating.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedInsectSpunk.stages.1.label,ate insect spunk,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedInsectSpunk.stages.1.description,It's stinky and tastes bad.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedInsectSpunk.stages.2.label,ate insect spunk,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedInsectSpunk.stages.2.description,I think it is nutritious. They mean well.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedInsectSpunk.stages.3.label,ate insect spunk,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_ConsumedInsectSpunk.stages.3.description,Can I have some extra?,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_Thought_WearingPlug.stages.0.label,wearing plug,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_Thought_WearingPlug.stages.0.description,I am wearing a plug. It makes me uncomfortable.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_Thought_WearingPlugMasochist.stages.0.label,wearing plug,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_Thought_WearingPlugMasochist.stages.0.description,I am wearing a plug. I love it!,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_Thought_SeenWhenDeflating.stages.0.label,seen when deflating,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_Thought_SeenWhenDeflating.stages.0.description,I got seen with a belly full of cum leaking out of my hole.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_GotOverCumflated.stages.0.label,overinflated with cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_GotOverCumflated.stages.0.description,I think I can still feel the cum in my belly.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_GotOverCumflatedEnjoyed.stages.0.label,enjoyed being overinflated with cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_GotOverCumflatedEnjoyed.stages.0.description,I loved the feeling of being filled to the brim with cum.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedNegative.stages.1.label,bloated with cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedNegative.stages.1.description,I feel full.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedNegative.stages.2.label,full of cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedNegative.stages.2.description,I can't drink another drop.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedNegative.stages.3.label,stuffed with cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedNegative.stages.3.description,Hrkkk... I'm gonna throw up...,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedNegative.stages.4.label,overstuffed with cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedNegative.stages.4.description,"Hghhh... *urp*, my stomach hurts...",description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedEnjoyed.stages.1.label,enjoying being bloated with cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedEnjoyed.stages.1.description,I can feel it sloshing inside me.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedEnjoyed.stages.2.label,enjoying being full of cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedEnjoyed.stages.2.description,I can still take more!,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedEnjoyed.stages.3.label,enjoying being stuffed with cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedEnjoyed.stages.3.description,Mmm... it hurts but I still want more.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedEnjoyed.stages.4.label,enjoying being overstuffed with cum,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CumstuffedEnjoyed.stages.4.description,Ughhh... more...,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkStuffedNegative.stages.0.label,bloated with insect-spunk,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkStuffedNegative.stages.0.description,This is not a normal feeling.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkStuffedNegative.stages.1.label,full of insect-spunk,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkStuffedNegative.stages.1.description,I am filled with the brink with this nasty stuff.,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkStuffedNegative.stages.2.label,stuffed with insect-spunk,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkStuffedNegative.stages.2.description,No more ... please,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkStuffedNegative.stages.3.label,overstuffed with insect-spunk,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkStuffedNegative.stages.3.description,"Please, make these insects stop!",description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkstuffedEnjoyed.stages.1.label,enjoying being bloated with insect-spunk,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkstuffedEnjoyed.stages.1.description,"Well, there is more room, but for now this is fine.",description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkstuffedEnjoyed.stages.2.label,enjoying being full of insect-spunk,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkstuffedEnjoyed.stages.2.description,"Give me more, please!",description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkstuffedEnjoyed.stages.3.label,enjoying being stuffed with insect-spunk,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkstuffedEnjoyed.stages.3.description,It ... must ... fit ... somehow ...,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkstuffedEnjoyed.stages.4.label,enjoying being overstuffed with insect-spunk,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_InsectSpunkstuffedEnjoyed.stages.4.description,Please ... more ...,description,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CanCumflateMe.stages.0.label,disappointingly low fluid output,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CanCumflateMe.stages.1.label,uninteresting fluid output,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CanCumflateMe.stages.2.label,acceptable fluid output,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_CanCumflateMe.stages.3.label,lust for cascading eruptions,label,ThoughtDef/ThoughtDef.xml,def
+Cumpilation_LikesCumflation.degreeDatas.0.label,likes cumflation,label,TraitDef/TraitDef.xml,def
+Cumpilation_LikesCumflation.degreeDatas.0.description,[PAWN_nameDef] likes the sensation of filling and being filled with large quantities of cum or other fluids.,description,TraitDef/TraitDef.xml,def
+Cumpilation_CleanSelf.label,clean self,label,WorkGiverDef/WorkGiverDef.xml,def
+Cumpilation_CleanSelf.verb,clean self,verb,WorkGiverDef/WorkGiverDef.xml,def
+Cumpilation_CleanSelf.gerund,cleaning self,gerund,WorkGiverDef/WorkGiverDef.xml,def
+Cumpilation_CleanSelfWithSink.label,collect cum into a bucket,label,WorkGiverDef/WorkGiverDef.xml,def
+Cumpilation_CleanSelfWithSink.verb,collect fluids into a,verb,WorkGiverDef/WorkGiverDef.xml,def
+Cumpilation_CleanSelfWithSink.gerund,collecting fluids into a,gerund,WorkGiverDef/WorkGiverDef.xml,def

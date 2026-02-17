@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: A light and resilient but not durable material, samenstein has its use by being
+            a very obtainable material. Made of processed semen, it can eventually be made by anyone
+            capable of ejaculating.-->
+  <Cumpilation_Samenstein.description>A light and resilient but not durable material, samenstein has its use by being
+            a very obtainable material. Made of processed semen, it can eventually be made by anyone
+            capable of ejaculating.</Cumpilation_Samenstein.description>
+  <!--EN: samenstein-->
+  <Cumpilation_Samenstein.label>samenstein</Cumpilation_Samenstein.label>
+  <!--EN: samensteiny-->
+  <Cumpilation_Samenstein.stuffProps.stuffAdjective>samensteiny</Cumpilation_Samenstein.stuffProps.stuffAdjective>
+  <!--EN: Fabric microscopically spun from microfibers made from semen. It is very tough,
+            good at insulating, but highly flammable.-->
+  <Cumpilation_Spermatuch.description>Fabric microscopically spun from microfibers made from semen. It is very tough,
+            good at insulating, but highly flammable.</Cumpilation_Spermatuch.description>
+  <!--EN: spermatuch-->
+  <Cumpilation_Spermatuch.label>spermatuch</Cumpilation_Spermatuch.label>
+</LanguageData>

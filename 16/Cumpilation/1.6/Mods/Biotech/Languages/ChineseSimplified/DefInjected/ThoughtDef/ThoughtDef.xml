@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: i am worried about my health-->
+  <Cumpilation_ConsumedSlug.stages.0.description>i am worried about my health</Cumpilation_ConsumedSlug.stages.0.description>
+  <!--EN: ate slug-->
+  <Cumpilation_ConsumedSlug.stages.0.label>ate slug</Cumpilation_ConsumedSlug.stages.0.label>
+  <!--EN: i hope it gives them relief to dump it in me-->
+  <Cumpilation_ConsumedSlug.stages.1.description>i hope it gives them relief to dump it in me</Cumpilation_ConsumedSlug.stages.1.description>
+  <!--EN: ate slug-->
+  <Cumpilation_ConsumedSlug.stages.1.label>ate slug</Cumpilation_ConsumedSlug.stages.1.label>
+  <!--EN: it really gives me a kick-->
+  <Cumpilation_ConsumedSlug.stages.2.description>it really gives me a kick</Cumpilation_ConsumedSlug.stages.2.description>
+  <!--EN: ate slug-->
+  <Cumpilation_ConsumedSlug.stages.2.label>ate slug</Cumpilation_ConsumedSlug.stages.2.label>
+  <!--EN: Damage, Incorporated-->
+  <Cumpilation_SlugstuffedEnjoyed.stages.1.description>Damage, Incorporated</Cumpilation_SlugstuffedEnjoyed.stages.1.description>
+  <!--EN: latent slug-bomb-->
+  <Cumpilation_SlugstuffedEnjoyed.stages.1.label>latent slug-bomb</Cumpilation_SlugstuffedEnjoyed.stages.1.label>
+  <!--EN: TNT - I'm dynamite!-->
+  <Cumpilation_SlugstuffedEnjoyed.stages.2.description>TNT - I&amp;apos;m dynamite!</Cumpilation_SlugstuffedEnjoyed.stages.2.description>
+  <!--EN: armed slug-bomb-->
+  <Cumpilation_SlugstuffedEnjoyed.stages.2.label>armed slug-bomb</Cumpilation_SlugstuffedEnjoyed.stages.2.label>
+  <!--EN: Do it baby, do it baby-->
+  <Cumpilation_SlugstuffedEnjoyed.stages.3.description>Do it baby, do it baby</Cumpilation_SlugstuffedEnjoyed.stages.3.description>
+  <!--EN: military-grade slug-bomb-->
+  <Cumpilation_SlugstuffedEnjoyed.stages.3.label>military-grade slug-bomb</Cumpilation_SlugstuffedEnjoyed.stages.3.label>
+  <!--EN: I'm a fire starter, twisted fire starter-->
+  <Cumpilation_SlugstuffedEnjoyed.stages.4.description>I&amp;apos;m a fire starter, twisted fire starter</Cumpilation_SlugstuffedEnjoyed.stages.4.description>
+  <!--EN: nuclear slug-bomb-->
+  <Cumpilation_SlugstuffedEnjoyed.stages.4.label>nuclear slug-bomb</Cumpilation_SlugstuffedEnjoyed.stages.4.label>
+  <!--EN: I hope it's not too unhealthy.-->
+  <Cumpilation_SlugstuffedNegative.stages.0.description>I hope it&amp;apos;s not too unhealthy.</Cumpilation_SlugstuffedNegative.stages.0.description>
+  <!--EN: bloated with slug-->
+  <Cumpilation_SlugstuffedNegative.stages.0.label>bloated with slug</Cumpilation_SlugstuffedNegative.stages.0.label>
+  <!--EN: I should not get any more of this.-->
+  <Cumpilation_SlugstuffedNegative.stages.1.description>I should not get any more of this.</Cumpilation_SlugstuffedNegative.stages.1.description>
+  <!--EN: full of slug-->
+  <Cumpilation_SlugstuffedNegative.stages.1.label>full of slug</Cumpilation_SlugstuffedNegative.stages.1.label>
+  <!--EN: Can I get it out, in any way??-->
+  <Cumpilation_SlugstuffedNegative.stages.2.description>Can I get it out, in any way??</Cumpilation_SlugstuffedNegative.stages.2.description>
+  <!--EN: stuffed with slug-->
+  <Cumpilation_SlugstuffedNegative.stages.2.label>stuffed with slug</Cumpilation_SlugstuffedNegative.stages.2.label>
+  <!--EN: Please, get it out, just get it out! Put something else in if necessary!-->
+  <Cumpilation_SlugstuffedNegative.stages.3.description>Please, get it out, just get it out! Put something else in if necessary!</Cumpilation_SlugstuffedNegative.stages.3.description>
+  <!--EN: overstuffed with slug-->
+  <Cumpilation_SlugstuffedNegative.stages.3.label>overstuffed with slug</Cumpilation_SlugstuffedNegative.stages.3.label>
+</LanguageData>

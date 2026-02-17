@@ -1,0 +1,17 @@
+key,text,tag,file,type
+Make_Samenstein.label,make samenstein,label,RecipeDef/RecipeDef.xml,def
+Make_Samenstein.description,Make samenstein with some semen.,description,RecipeDef/RecipeDef.xml,def
+Make_Samenstein.jobString,Making samenstein.,jobString,RecipeDef/RecipeDef.xml,def
+Make_Spermatuch.label,make spermatuch,label,RecipeDef/RecipeDef.xml,def
+Make_Spermatuch.description,Make spermatuch with some semen.,description,RecipeDef/RecipeDef.xml,def
+Make_Spermatuch.jobString,Making spermatuch.,jobString,RecipeDef/RecipeDef.xml,def
+Cumpilation_BodilyFluid.label,bodily fluid,label,ThingCategoryDef/ThingCategoryDef.xml,def
+Cumpilation_BodilyFluid.description,Items that are considered bodily fluids.,description,ThingCategoryDef/ThingCategoryDef.xml,def
+Cumpilation_Samenstein.label,samenstein,label,ThingDef/ThingDef.xml,def
+Cumpilation_Samenstein.description,"A light and resilient but not durable material, samenstein has its use by being
+            a very obtainable material. Made of processed semen, it can eventually be made by anyone
+            capable of ejaculating.",description,ThingDef/ThingDef.xml,def
+Cumpilation_Samenstein.stuffProps.stuffAdjective,samensteiny,stuffAdjective,ThingDef/ThingDef.xml,def
+Cumpilation_Spermatuch.label,spermatuch,label,ThingDef/ThingDef.xml,def
+Cumpilation_Spermatuch.description,"Fabric microscopically spun from microfibers made from semen. It is very tough,
+            good at insulating, but highly flammable.",description,ThingDef/ThingDef.xml,def
