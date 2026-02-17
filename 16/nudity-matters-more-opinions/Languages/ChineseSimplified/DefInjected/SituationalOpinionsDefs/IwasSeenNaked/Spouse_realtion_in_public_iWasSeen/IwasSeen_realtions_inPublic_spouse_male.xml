@@ -4,9 +4,9 @@
   <IwasSeen_realtions_inPublic_Spouse_male_Negative.label>IwasSeen_realtions_inPublic_Spouse_male_(Negative)</IwasSeen_realtions_inPublic_Spouse_male_Negative.label>
   <IwasSeen_realtions_inPublic_Spouse_male_Negative.opinionTexts>
     <!--EN: {OBSERVER_nameShort} saw me. I wish {OBSERVER_pronoun} hadn't. It was embarrassing.-->
-    <li>{OBSERVER_nameShort} saw me. I wish {OBSERVER_pronoun} hadn&amp;apos;t. It was embarrassing.</li>
+    <li>{OBSERVER_nameShort} saw me. I wish {OBSERVER_pronoun} hadn&apos;t. It was embarrassing.</li>
     <!--EN: I felt exposed when {OBSERVER_nameShort} saw me. {OBSERVER_pronoun} shouldn't have been looking.-->
-    <li>I felt exposed when {OBSERVER_nameShort} saw me. {OBSERVER_pronoun} shouldn&amp;apos;t have been looking.</li>
+    <li>I felt exposed when {OBSERVER_nameShort} saw me. {OBSERVER_pronoun} shouldn&apos;t have been looking.</li>
     <!--EN: {OBSERVER_nameShortPossessive} gaze made me uncomfortable. I wanted to disappear.-->
     <li>{OBSERVER_nameShortPossessive} gaze made me uncomfortable. I wanted to disappear.</li>
     <!--EN: Being seen by {OBSERVER_nameShort} like that was mortifying. I felt utterly humiliated.-->
@@ -24,11 +24,11 @@
     <!--EN: I felt a coldness when {OBSERVER_nameShort} looked at me. It was an unwelcome intrusion.-->
     <li>I felt a coldness when {OBSERVER_nameShort} looked at me. It was an unwelcome intrusion.</li>
     <!--EN: {OBSERVER_nameShort} saw me, and I felt a deep discomfort. {OBSERVER_pronoun} shouldn't have been there.-->
-    <li>{OBSERVER_nameShort} saw me, and I felt a deep discomfort. {OBSERVER_pronoun} shouldn&amp;apos;t have been there.</li>
+    <li>{OBSERVER_nameShort} saw me, and I felt a deep discomfort. {OBSERVER_pronoun} shouldn&apos;t have been there.</li>
     <!--EN: It was a terrible moment with {OBSERVER_nameShort}. I felt so ashamed and exposed.-->
     <li>It was a terrible moment with {OBSERVER_nameShort}. I felt so ashamed and exposed.</li>
     <!--EN: I'm upset {OBSERVER_nameShort} saw me. {OBSERVER_pronoun} made me feel so small.-->
-    <li>I&amp;apos;m upset {OBSERVER_nameShort} saw me. {OBSERVER_pronoun} made me feel so small.</li>
+    <li>I&apos;m upset {OBSERVER_nameShort} saw me. {OBSERVER_pronoun} made me feel so small.</li>
     <!--EN: {OBSERVER_nameShortPossessive} eyes met mine, and I felt a flush of anger. {OBSERVER_pronoun} crossed a line.-->
     <li>{OBSERVER_nameShortPossessive} eyes met mine, and I felt a flush of anger. {OBSERVER_pronoun} crossed a line.</li>
     <!--EN: A dreadful encounter with {OBSERVER_nameShort}. I wish it never happened.-->
@@ -42,7 +42,7 @@
     <!--EN: I regret that {OBSERVER_nameShort} saw me. {OBSERVER_pronoun} made me feel so embarrassed.-->
     <li>I regret that {OBSERVER_nameShort} saw me. {OBSERVER_pronoun} made me feel so embarrassed.</li>
     <!--EN: {OBSERVER_nameShortPossessive} gaze was unwelcome. I felt cheapened by {OBSERVER_pronoun}'s presence.-->
-    <li>{OBSERVER_nameShortPossessive} gaze was unwelcome. I felt cheapened by {OBSERVER_pronoun}&amp;apos;s presence.</li>
+    <li>{OBSERVER_nameShortPossessive} gaze was unwelcome. I felt cheapened by {OBSERVER_pronoun}&apos;s presence.</li>
   </IwasSeen_realtions_inPublic_Spouse_male_Negative.opinionTexts>
   <!--EN: IwasSeen_realtions_inPublic_Spouse_male_(Neutral)-->
   <IwasSeen_realtions_inPublic_Spouse_male_Neutral.label>IwasSeen_realtions_inPublic_Spouse_male_(Neutral)</IwasSeen_realtions_inPublic_Spouse_male_Neutral.label>
@@ -54,31 +54,31 @@
     <!--EN: {OBSERVER_nameShortPossessive} eyes lingered for a second. Nothing to comment on.-->
     <li>{OBSERVER_nameShortPossessive} eyes lingered for a second. Nothing to comment on.</li>
     <!--EN: I was seen by {OBSERVER_nameShort}. It didn't really affect me one way or another.-->
-    <li>I was seen by {OBSERVER_nameShort}. It didn&amp;apos;t really affect me one way or another.</li>
+    <li>I was seen by {OBSERVER_nameShort}. It didn&apos;t really affect me one way or another.</li>
     <!--EN: {OBSERVER_nameShort} saw me. I'm not sure how I feel about it.-->
-    <li>{OBSERVER_nameShort} saw me. I&amp;apos;m not sure how I feel about it.</li>
+    <li>{OBSERVER_nameShort} saw me. I&apos;m not sure how I feel about it.</li>
     <!--EN: {OBSERVER_nameShort} looked my way. It was neither good nor bad.-->
     <li>{OBSERVER_nameShort} looked my way. It was neither good nor bad.</li>
     <!--EN: {OBSERVER_nameShort} saw me. I suppose it was inevitable.-->
     <li>{OBSERVER_nameShort} saw me. I suppose it was inevitable.</li>
     <!--EN: {OBSERVER_nameShortPossessive} gaze was brief. I didn't give it much thought.-->
-    <li>{OBSERVER_nameShortPossessive} gaze was brief. I didn&amp;apos;t give it much thought.</li>
+    <li>{OBSERVER_nameShortPossessive} gaze was brief. I didn&apos;t give it much thought.</li>
     <!--EN: I was seen by {OBSERVER_nameShort}. It just… was.-->
     <li>I was seen by {OBSERVER_nameShort}. It just… was.</li>
     <!--EN: {OBSERVER_nameShort} saw me. What's done is done.-->
-    <li>{OBSERVER_nameShort} saw me. What&amp;apos;s done is done.</li>
+    <li>{OBSERVER_nameShort} saw me. What&apos;s done is done.</li>
     <!--EN: {OBSERVER_nameShort} saw me. It's not a big deal, we're married after all.-->
-    <li>{OBSERVER_nameShort} saw me. It&amp;apos;s not a big deal, we&amp;apos;re married after all.</li>
+    <li>{OBSERVER_nameShort} saw me. It&apos;s not a big deal, we&apos;re married after all.</li>
     <!--EN: {OBSERVER_nameShortPossessive} glance. I barely registered it.-->
     <li>{OBSERVER_nameShortPossessive} glance. I barely registered it.</li>
     <!--EN: I was seen by {OBSERVER_nameShort}. Just a normal occurrence.-->
     <li>I was seen by {OBSERVER_nameShort}. Just a normal occurrence.</li>
     <!--EN: {OBSERVER_nameShort} saw me. It didn't change anything.-->
-    <li>{OBSERVER_nameShort} saw me. It didn&amp;apos;t change anything.</li>
+    <li>{OBSERVER_nameShort} saw me. It didn&apos;t change anything.</li>
     <!--EN: {OBSERVER_nameShort} noticed me. I'm indifferent to it.-->
-    <li>{OBSERVER_nameShort} noticed me. I&amp;apos;m indifferent to it.</li>
+    <li>{OBSERVER_nameShort} noticed me. I&apos;m indifferent to it.</li>
     <!--EN: {OBSERVER_nameShortPossessive} eyes. I didn't feel strongly about it.-->
-    <li>{OBSERVER_nameShortPossessive} eyes. I didn&amp;apos;t feel strongly about it.</li>
+    <li>{OBSERVER_nameShortPossessive} eyes. I didn&apos;t feel strongly about it.</li>
     <!--EN: I was seen by {OBSERVER_nameShort}. It was just a moment.-->
     <li>I was seen by {OBSERVER_nameShort}. It was just a moment.</li>
     <!--EN: {OBSERVER_nameShort} saw me. No particular reaction.-->
@@ -92,11 +92,11 @@
   <IwasSeen_realtions_inPublic_Spouse_male_Positive.label>IwasSeen_realtions_inPublic_Spouse_male_(Positive)</IwasSeen_realtions_inPublic_Spouse_male_Positive.label>
   <IwasSeen_realtions_inPublic_Spouse_male_Positive.opinionTexts>
     <!--EN: {OBSERVER_nameShort} saw me, and I felt a warm blush. It's nice to know {OBSERVER_pronoun} appreciates me.-->
-    <li>{OBSERVER_nameShort} saw me, and I felt a warm blush. It&amp;apos;s nice to know {OBSERVER_pronoun} appreciates me.</li>
+    <li>{OBSERVER_nameShort} saw me, and I felt a warm blush. It&apos;s nice to know {OBSERVER_pronoun} appreciates me.</li>
     <!--EN: Being seen by {OBSERVER_nameShort} brought a smile to my face. {OBSERVER_pronoun} always makes me feel beautiful.-->
     <li>Being seen by {OBSERVER_nameShort} brought a smile to my face. {OBSERVER_pronoun} always makes me feel beautiful.</li>
     <!--EN: {OBSERVER_nameShortPossessive} gaze was comforting. I'm glad {OBSERVER_pronoun} was there to see me like that.-->
-    <li>{OBSERVER_nameShortPossessive} gaze was comforting. I&amp;apos;m glad {OBSERVER_pronoun} was there to see me like that.</li>
+    <li>{OBSERVER_nameShortPossessive} gaze was comforting. I&apos;m glad {OBSERVER_pronoun} was there to see me like that.</li>
     <!--EN: A pleasant surprise to have {OBSERVER_nameShort} witness my vulnerability. It felt intimate and special.-->
     <li>A pleasant surprise to have {OBSERVER_nameShort} witness my vulnerability. It felt intimate and special.</li>
     <!--EN: {OBSERVER_nameShort} saw me, and I felt a rush of affection. {OBSERVER_pronoun} makes me feel so loved.-->
@@ -116,7 +116,7 @@
     <!--EN: It was a lovely moment with {OBSERVER_nameShort}. {OBSERVER_pronoun} makes me feel so comfortable.-->
     <li>It was a lovely moment with {OBSERVER_nameShort}. {OBSERVER_pronoun} makes me feel so comfortable.</li>
     <!--EN: I'm glad {OBSERVER_nameShort} was the one who saw me. {OBSERVER_pronoun} makes everything better.-->
-    <li>I&amp;apos;m glad {OBSERVER_nameShort} was the one who saw me. {OBSERVER_pronoun} makes everything better.</li>
+    <li>I&apos;m glad {OBSERVER_nameShort} was the one who saw me. {OBSERVER_pronoun} makes everything better.</li>
     <!--EN: {OBSERVER_nameShortPossessive} eyes met mine, and I felt a wave of warmth. {OBSERVER_pronoun} is wonderful.-->
     <li>{OBSERVER_nameShortPossessive} eyes met mine, and I felt a wave of warmth. {OBSERVER_pronoun} is wonderful.</li>
     <!--EN: A delightful encounter with {OBSERVER_nameShort}. {OBSERVER_pronoun} always brings happiness.-->
@@ -128,7 +128,7 @@
     <!--EN: It was a tender moment with {OBSERVER_nameShort}. {OBSERVER_pronoun} makes me feel so cared for.-->
     <li>It was a tender moment with {OBSERVER_nameShort}. {OBSERVER_pronoun} makes me feel so cared for.</li>
     <!--EN: I'm happy {OBSERVER_nameShort} saw me. {OBSERVER_pronoun} always knows how to make me smile.-->
-    <li>I&amp;apos;m happy {OBSERVER_nameShort} saw me. {OBSERVER_pronoun} always knows how to make me smile.</li>
+    <li>I&apos;m happy {OBSERVER_nameShort} saw me. {OBSERVER_pronoun} always knows how to make me smile.</li>
     <!--EN: {OBSERVER_nameShortPossessive} gaze was filled with adoration. I felt truly blessed to have {OBSERVER_pronoun} see me.-->
     <li>{OBSERVER_nameShortPossessive} gaze was filled with adoration. I felt truly blessed to have {OBSERVER_pronoun} see me.</li>
   </IwasSeen_realtions_inPublic_Spouse_male_Positive.opinionTexts>
@@ -136,7 +136,7 @@
   <IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_Negative.label>IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_(Negative)</IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_Negative.label>
   <IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_Negative.opinionTexts>
     <!--EN: {OBSERVER_nameShort} saw us. I wish {OBSERVER_pronoun} hadn't. It was incredibly awkward and ruined the mood.-->
-    <li>{OBSERVER_nameShort} saw us. I wish {OBSERVER_pronoun} hadn&amp;apos;t. It was incredibly awkward and ruined the mood.</li>
+    <li>{OBSERVER_nameShort} saw us. I wish {OBSERVER_pronoun} hadn&apos;t. It was incredibly awkward and ruined the mood.</li>
     <!--EN: I felt violated when {OBSERVER_nameShort} saw us. {OBSERVER_pronoun} had no right to intrude.-->
     <li>I felt violated when {OBSERVER_nameShort} saw us. {OBSERVER_pronoun} had no right to intrude.</li>
     <!--EN: {OBSERVER_nameShortPossessive} gaze made me feel disgusting. I wanted to stop immediately.-->
@@ -160,7 +160,7 @@
     <!--EN: It was a horrifying moment with {OBSERVER_nameShort}. I felt so violated and disgusted.-->
     <li>It was a horrifying moment with {OBSERVER_nameShort}. I felt so violated and disgusted.</li>
     <!--EN: I'm furious {OBSERVER_nameShort} saw us. {OBSERVER_pronoun} made me feel like property.-->
-    <li>I&amp;apos;m furious {OBSERVER_nameShort} saw us. {OBSERVER_pronoun} made me feel like property.</li>
+    <li>I&apos;m furious {OBSERVER_nameShort} saw us. {OBSERVER_pronoun} made me feel like property.</li>
     <!--EN: {OBSERVER_nameShortPossessive} eyes met mine, and I felt a flush of intense rage. {OBSERVER_pronoun} betrayed me.-->
     <li>{OBSERVER_nameShortPossessive} eyes met mine, and I felt a flush of intense rage. {OBSERVER_pronoun} betrayed me.</li>
     <!--EN: A truly repulsive encounter with {OBSERVER_nameShort}. I wish it never happened.-->
@@ -174,7 +174,7 @@
     <!--EN: I regret that {OBSERVER_nameShort} saw us. {OBSERVER_pronoun} made me feel so cheap.-->
     <li>I regret that {OBSERVER_nameShort} saw us. {OBSERVER_pronoun} made me feel so cheap.</li>
     <!--EN: {OBSERVER_nameShortPossessive} gaze was an invasion. I felt utterly disgusted by {OBSERVER_pronoun}'s presence.-->
-    <li>{OBSERVER_nameShortPossessive} gaze was an invasion. I felt utterly disgusted by {OBSERVER_pronoun}&amp;apos;s presence.</li>
+    <li>{OBSERVER_nameShortPossessive} gaze was an invasion. I felt utterly disgusted by {OBSERVER_pronoun}&apos;s presence.</li>
   </IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_Negative.opinionTexts>
   <!--EN: IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_(Neutral)-->
   <IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_Neutral.label>IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_(Neutral)</IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_Neutral.label>
@@ -184,33 +184,33 @@
     <!--EN: {OBSERVER_nameShort} noticed us. Just another part of the day, I guess.-->
     <li>{OBSERVER_nameShort} noticed us. Just another part of the day, I guess.</li>
     <!--EN: {OBSERVER_nameShortPossessive} eyes lingered for a second. It didn't really change anything.-->
-    <li>{OBSERVER_nameShortPossessive} eyes lingered for a second. It didn&amp;apos;t really change anything.</li>
+    <li>{OBSERVER_nameShortPossessive} eyes lingered for a second. It didn&apos;t really change anything.</li>
     <!--EN: We were seen by {OBSERVER_nameShort}. It didn't really affect the experience.-->
-    <li>We were seen by {OBSERVER_nameShort}. It didn&amp;apos;t really affect the experience.</li>
+    <li>We were seen by {OBSERVER_nameShort}. It didn&apos;t really affect the experience.</li>
     <!--EN: {OBSERVER_nameShort} saw us. I'm not sure how I feel about it, but it's fine.-->
-    <li>{OBSERVER_nameShort} saw us. I&amp;apos;m not sure how I feel about it, but it&amp;apos;s fine.</li>
+    <li>{OBSERVER_nameShort} saw us. I&apos;m not sure how I feel about it, but it&apos;s fine.</li>
     <!--EN: {OBSERVER_nameShort} looked our way. It was neither good nor bad, just a fact.-->
     <li>{OBSERVER_nameShort} looked our way. It was neither good nor bad, just a fact.</li>
     <!--EN: {OBSERVER_nameShort} saw us. I suppose it was bound to happen eventually.-->
     <li>{OBSERVER_nameShort} saw us. I suppose it was bound to happen eventually.</li>
     <!--EN: {OBSERVER_nameShortPossessive} gaze was brief. I didn't give it much thought during the act.-->
-    <li>{OBSERVER_nameShortPossessive} gaze was brief. I didn&amp;apos;t give it much thought during the act.</li>
+    <li>{OBSERVER_nameShortPossessive} gaze was brief. I didn&apos;t give it much thought during the act.</li>
     <!--EN: We were seen by {OBSERVER_nameShort}. It just… was, and then it wasn't.-->
-    <li>We were seen by {OBSERVER_nameShort}. It just… was, and then it wasn&amp;apos;t.</li>
+    <li>We were seen by {OBSERVER_nameShort}. It just… was, and then it wasn&apos;t.</li>
     <!--EN: {OBSERVER_nameShort} saw us. What's done is done, no big deal.-->
-    <li>{OBSERVER_nameShort} saw us. What&amp;apos;s done is done, no big deal.</li>
+    <li>{OBSERVER_nameShort} saw us. What&apos;s done is done, no big deal.</li>
     <!--EN: {OBSERVER_nameShort} saw us. It's not a huge deal, we're married after all.-->
-    <li>{OBSERVER_nameShort} saw us. It&amp;apos;s not a huge deal, we&amp;apos;re married after all.</li>
+    <li>{OBSERVER_nameShort} saw us. It&apos;s not a huge deal, we&apos;re married after all.</li>
     <!--EN: {OBSERVER_nameShortPossessive} glance. I barely registered it in the heat of the moment.-->
     <li>{OBSERVER_nameShortPossessive} glance. I barely registered it in the heat of the moment.</li>
     <!--EN: We were seen by {OBSERVER_nameShort}. Just a normal occurrence, I suppose.-->
     <li>We were seen by {OBSERVER_nameShort}. Just a normal occurrence, I suppose.</li>
     <!--EN: {OBSERVER_nameShort} saw us. It didn't change the interaction.-->
-    <li>{OBSERVER_nameShort} saw us. It didn&amp;apos;t change the interaction.</li>
+    <li>{OBSERVER_nameShort} saw us. It didn&apos;t change the interaction.</li>
     <!--EN: {OBSERVER_nameShort} noticed us. I'm indifferent to {OBSERVER_pronoun}'s presence.-->
-    <li>{OBSERVER_nameShort} noticed us. I&amp;apos;m indifferent to {OBSERVER_pronoun}&amp;apos;s presence.</li>
+    <li>{OBSERVER_nameShort} noticed us. I&apos;m indifferent to {OBSERVER_pronoun}&apos;s presence.</li>
     <!--EN: {OBSERVER_nameShortPossessive} eyes. I didn't feel strongly about being seen.-->
-    <li>{OBSERVER_nameShortPossessive} eyes. I didn&amp;apos;t feel strongly about being seen.</li>
+    <li>{OBSERVER_nameShortPossessive} eyes. I didn&apos;t feel strongly about being seen.</li>
     <!--EN: We were seen by {OBSERVER_nameShort}. It was just a moment, nothing more.-->
     <li>We were seen by {OBSERVER_nameShort}. It was just a moment, nothing more.</li>
     <!--EN: {OBSERVER_nameShort} saw us. No particular reaction from my end.-->
@@ -218,7 +218,7 @@
     <!--EN: {OBSERVER_nameShort} looked at us. It was expected, given the circumstances.-->
     <li>{OBSERVER_nameShort} looked at us. It was expected, given the circumstances.</li>
     <!--EN: {OBSERVER_nameShortPossessive} presence was noted. It didn't bother me.-->
-    <li>{OBSERVER_nameShortPossessive} presence was noted. It didn&amp;apos;t bother me.</li>
+    <li>{OBSERVER_nameShortPossessive} presence was noted. It didn&apos;t bother me.</li>
   </IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_Neutral.opinionTexts>
   <!--EN: IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_(Positive)-->
   <IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_Positive.label>IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_(Positive)</IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_Positive.label>
@@ -248,7 +248,7 @@
     <!--EN: It was a liberating moment with {OBSERVER_nameShort}. {OBSERVER_pronoun} makes me feel so free.-->
     <li>It was a liberating moment with {OBSERVER_nameShort}. {OBSERVER_pronoun} makes me feel so free.</li>
     <!--EN: I'm glad {OBSERVER_nameShort} was the one who saw us. {OBSERVER_pronoun} made it even better.-->
-    <li>I&amp;apos;m glad {OBSERVER_nameShort} was the one who saw us. {OBSERVER_pronoun} made it even better.</li>
+    <li>I&apos;m glad {OBSERVER_nameShort} was the one who saw us. {OBSERVER_pronoun} made it even better.</li>
     <!--EN: {OBSERVER_nameShortPossessive} eyes met mine, and I felt a wave of intense pleasure. {OBSERVER_pronoun} is amazing.-->
     <li>{OBSERVER_nameShortPossessive} eyes met mine, and I felt a wave of intense pleasure. {OBSERVER_pronoun} is amazing.</li>
     <!--EN: A delightfully scandalous encounter with {OBSERVER_nameShort}. {OBSERVER_pronoun} always adds excitement.-->
@@ -260,7 +260,7 @@
     <!--EN: It was an exhilarating moment with {OBSERVER_nameShort}. {OBSERVER_pronoun} makes me feel so alive.-->
     <li>It was an exhilarating moment with {OBSERVER_nameShort}. {OBSERVER_pronoun} makes me feel so alive.</li>
     <!--EN: I'm happy {OBSERVER_nameShort} saw us. {OBSERVER_pronoun} always knows how to make things interesting.-->
-    <li>I&amp;apos;m happy {OBSERVER_nameShort} saw us. {OBSERVER_pronoun} always knows how to make things interesting.</li>
+    <li>I&apos;m happy {OBSERVER_nameShort} saw us. {OBSERVER_pronoun} always knows how to make things interesting.</li>
     <!--EN: {OBSERVER_nameShortPossessive} gaze was filled with desire. I felt truly blessed to have {OBSERVER_pronoun} share this.-->
     <li>{OBSERVER_nameShortPossessive} gaze was filled with desire. I felt truly blessed to have {OBSERVER_pronoun} share this.</li>
   </IwasSeen_realtions_inPublic_Spouse_male_havingSexWithSomeone_Positive.opinionTexts>

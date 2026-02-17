@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: [PAWN_nameDef] loves sex and always wants more. Can regain psyfocus only through sex.-->
-  <Nymphomaniac.degreeDatas.0.description>[PAWN_nameDef]总是喜欢做爱而且不易满足。</Nymphomaniac.degreeDatas.0.description>
-  <!--EN: hypersexual-->
-  <Nymphomaniac.degreeDatas.0.label>性爱成瘾</Nymphomaniac.degreeDatas.0.label>
-</LanguageData>

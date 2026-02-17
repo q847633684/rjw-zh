@@ -372,7 +372,7 @@
     <!--EN: My {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} were a tender sight, promising warmth, and {OBSERVER_nameShortPossessive} gaze confirmed it.-->
     <li>My {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} were a tender sight, promising warmth, and {OBSERVER_nameShortPossessive} gaze confirmed it.</li>
     <!--EN: I noticed {OBSERVER_nameShort} couldn't help but admire the exquisite shape of my {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.-->
-    <li>I noticed {OBSERVER_nameShort} couldn&amp;apos;t help but admire the exquisite shape of my {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.</li>
+    <li>I noticed {OBSERVER_nameShort} couldn&apos;t help but admire the exquisite shape of my {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.</li>
     <!--EN: The subtle swell of my {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} was incredibly alluring to {OBSERVER_nameShort}, and I felt a surge of confidence.-->
     <li>The subtle swell of my {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} was incredibly alluring to {OBSERVER_nameShort}, and I felt a surge of confidence.</li>
     <!--EN: {OBSERVER_nameShortPossessive} eyes made my {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} feel like such a sweet, tempting sight.-->
@@ -768,7 +768,7 @@
     <!--EN: My {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} was a tender sight, promising warmth, and {OBSERVER_nameShortPossessive} gaze confirmed it.-->
     <li>My {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} was a tender sight, promising warmth, and {OBSERVER_nameShortPossessive} gaze confirmed it.</li>
     <!--EN: I noticed {OBSERVER_nameShort} couldn't help but admire the exquisite shape of my {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.-->
-    <li>I noticed {OBSERVER_nameShort} couldn&amp;apos;t help but admire the exquisite shape of my {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.</li>
+    <li>I noticed {OBSERVER_nameShort} couldn&apos;t help but admire the exquisite shape of my {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.</li>
     <!--EN: The subtle swell of my {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} was incredibly alluring to {OBSERVER_objective}, and I felt a surge of confidence.-->
     <li>The subtle swell of my {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} was incredibly alluring to {OBSERVER_objective}, and I felt a surge of confidence.</li>
     <!--EN: {OBSERVER_nameShortPossessive} eyes made my {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} feel like such a sweet, tempting sight.-->
@@ -1560,7 +1560,7 @@
     <!--EN: {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} were a tender sight, promising warmth.-->
     <li>{OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} were a tender sight, promising warmth.</li>
     <!--EN: I couldn't help but admire the exquisite shape of {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.-->
-    <li>I couldn&amp;apos;t help but admire the exquisite shape of {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.</li>
+    <li>I couldn&apos;t help but admire the exquisite shape of {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.</li>
     <!--EN: The subtle swell of {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} was incredibly alluring.-->
     <li>The subtle swell of {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} was incredibly alluring.</li>
     <!--EN: Such a sweet, tempting sight, {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.-->
@@ -1956,7 +1956,7 @@
     <!--EN: {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} was a tender sight, promising warmth.-->
     <li>{OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} was a tender sight, promising warmth.</li>
     <!--EN: I couldn't help but admire the exquisite shape of {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.-->
-    <li>I couldn&amp;apos;t help but admire the exquisite shape of {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.</li>
+    <li>I couldn&apos;t help but admire the exquisite shape of {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.</li>
     <!--EN: The subtle swell of {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} was incredibly alluring.-->
     <li>The subtle swell of {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel} was incredibly alluring.</li>
     <!--EN: Such a sweet, tempting sight, {OBSERVED_possessive} {OBSERVED_sizeLabel} {OBSERVED_partSpecificLabel}.-->

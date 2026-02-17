@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Makes the child belong to the colony.-->
-  <claimChild.description>使孩子归属殖民地。</claimChild.description>
-  <!--EN: Adopting.-->
-  <claimChild.jobString>收养孩子。</claimChild.jobString>
-  <!--EN: Claim child-->
-  <claimChild.label>收养孩子</claimChild.label>
-</LanguageData>

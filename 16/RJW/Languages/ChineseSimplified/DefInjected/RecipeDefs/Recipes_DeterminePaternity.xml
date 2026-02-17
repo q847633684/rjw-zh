@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Try to figure out who is the father.-->
-  <DeterminePaternity.description>检查殖民者是否怀孕并试图找出父亲是谁。</DeterminePaternity.description>
-  <!--EN: Check Paternity.-->
-  <DeterminePaternity.jobString>亲子鉴定。</DeterminePaternity.jobString>
-  <!--EN: check Paternity-->
-  <DeterminePaternity.label>亲子鉴定</DeterminePaternity.label>
-</LanguageData>

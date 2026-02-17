@@ -26,13 +26,13 @@
     <!--EN: Finding {OBSERVED_nameShort} unconscious was bad enough, but seeing {OBSERVED_possessive} exposed body was an unnecessary, foul detail.-->
     <li>Finding {OBSERVED_nameShort} unconscious was bad enough, but seeing {OBSERVED_possessive} exposed body was an unnecessary, foul detail.</li>
     <!--EN: I couldn't help but feel contempt for {OBSERVED_nameShort}. Couldn't even manage to stay conscious and clothed.-->
-    <li>I couldn&amp;apos;t help but feel contempt for {OBSERVED_nameShort}. Couldn&amp;apos;t even manage to stay conscious and clothed.</li>
+    <li>I couldn&apos;t help but feel contempt for {OBSERVED_nameShort}. Couldn&apos;t even manage to stay conscious and clothed.</li>
     <!--EN: The image of {OBSERVED_nameShortPossessive} bare, still body as {OBSERVED_pronoun} lay there unconscious is not a memory I want to keep.-->
     <li>The image of {OBSERVED_nameShortPossessive} bare, still body as {OBSERVED_pronoun} lay there unconscious is not a memory I want to keep.</li>
     <!--EN: It was an ugly scene. {OBSERVED_nameShort} was down, and the sight of {OBSERVED_possessive} pale, exposed body was unsettling.-->
     <li>It was an ugly scene. {OBSERVED_nameShort} was down, and the sight of {OBSERVED_possessive} pale, exposed body was unsettling.</li>
     <!--EN: I wish I hadn't seen {OBSERVED_nameShort} like that. The image of {OBSERVED_possessive} unconscious, naked body is just bleak.-->
-    <li>I wish I hadn&amp;apos;t seen {OBSERVED_nameShort} like that. The image of {OBSERVED_possessive} unconscious, naked body is just bleak.</li>
+    <li>I wish I hadn&apos;t seen {OBSERVED_nameShort} like that. The image of {OBSERVED_possessive} unconscious, naked body is just bleak.</li>
     <!--EN: What a complete lack of decorum. All of {OBSERVED_nameShortPossessive} body was visible.-->
     <li>What a complete lack of decorum. All of {OBSERVED_nameShortPossessive} body was visible.</li>
     <!--EN: The sight of {OBSERVED_nameShortPossessive} limp, unconscious, naked body was deeply off-putting.-->
@@ -98,7 +98,7 @@
     <!--EN: There {OBSERVED_pronoun} was, a vision of raw, unguarded life. The sight of {OBSERVED_nameShortPossessive} naked body was breathtaking in its honesty.-->
     <li>There {OBSERVED_pronoun} was, a vision of raw, unguarded life. The sight of {OBSERVED_nameShortPossessive} naked body was breathtaking in its honesty.</li>
     <!--EN: My heart ached seeing {OBSERVED_nameShort} so exposed, yet I couldn't deny the beauty of {OBSERVED_possessive} form. {OBSERVED_possessive} entire body was a perfect, tragic composition.-->
-    <li>My heart ached seeing {OBSERVED_nameShort} so exposed, yet I couldn&amp;apos;t deny the beauty of {OBSERVED_possessive} form. {OBSERVED_possessive} entire body was a perfect, tragic composition.</li>
+    <li>My heart ached seeing {OBSERVED_nameShort} so exposed, yet I couldn&apos;t deny the beauty of {OBSERVED_possessive} form. {OBSERVED_possessive} entire body was a perfect, tragic composition.</li>
     <!--EN: {OBSERVED_nameShort} was like a figure from a classical painting. The sight of {OBSERVED_possessive} entire naked body, so still, stirred a deep sense of awe in me.-->
     <li>{OBSERVED_nameShort} was like a figure from a classical painting. The sight of {OBSERVED_possessive} entire naked body, so still, stirred a deep sense of awe in me.</li>
     <!--EN: I felt a powerful mix of concern and admiration. {OBSERVED_nameShortPossessive} naked form was a masterpiece of biology, impressive even in this state.-->
@@ -106,7 +106,7 @@
     <!--EN: The sight of {OBSERVED_nameShortPossessive} unconscious, naked body was incredibly intimate. I felt like I was seeing the pure essence of a person.-->
     <li>The sight of {OBSERVED_nameShortPossessive} unconscious, naked body was incredibly intimate. I felt like I was seeing the pure essence of a person.</li>
     <!--EN: I couldn't help but admire the sheer natural beauty of {OBSERVED_nameShortPossessive} body as {OBSERVED_pronoun} lay there, every part of {OBSERVED_objective} on display.-->
-    <li>I couldn&amp;apos;t help but admire the sheer natural beauty of {OBSERVED_nameShortPossessive} body as {OBSERVED_pronoun} lay there, every part of {OBSERVED_objective} on display.</li>
+    <li>I couldn&apos;t help but admire the sheer natural beauty of {OBSERVED_nameShortPossessive} body as {OBSERVED_pronoun} lay there, every part of {OBSERVED_objective} on display.</li>
     <!--EN: Seeing {OBSERVED_nameShort} completely nude and unconscious was a powerful, unforgettable image of fragile life.-->
     <li>Seeing {OBSERVED_nameShort} completely nude and unconscious was a powerful, unforgettable image of fragile life.</li>
     <!--EN: A wave of profound respect washed over me. The honest, bare skin of {OBSERVED_nameShortPossessive} naked body was an enchanting sight.-->
@@ -130,6 +130,6 @@
     <!--EN: It was a vulnerable and sacred moment, seeing all of {OBSERVED_nameShort} so openly displayed while {OBSERVED_pronoun} was helpless. It was strangely enchanting.-->
     <li>It was a vulnerable and sacred moment, seeing all of {OBSERVED_nameShort} so openly displayed while {OBSERVED_pronoun} was helpless. It was strangely enchanting.</li>
     <!--EN: I found {OBSERVED_nameShort}, and the sight of {OBSERVED_possessive} completely naked body was a poignant and beautiful image of life's fragility.-->
-    <li>I found {OBSERVED_nameShort}, and the sight of {OBSERVED_possessive} completely naked body was a poignant and beautiful image of life&amp;apos;s fragility.</li>
+    <li>I found {OBSERVED_nameShort}, and the sight of {OBSERVED_possessive} completely naked body was a poignant and beautiful image of life&apos;s fragility.</li>
   </iSaw_Unconscious_naked_Unisex_Positive.opinionTexts>
 </LanguageData>

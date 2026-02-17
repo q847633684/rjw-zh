@@ -22,11 +22,11 @@
     <!--EN: {OBSERVED_nameShort} was naked, and I felt a surge of resentment. {OBSERVED_pronoun} was acting recklessly, and it made me feel deeply uneasy.-->
     <li>{OBSERVED_nameShort} was naked, and I felt a surge of resentment. {OBSERVED_pronoun} was acting recklessly, and it made me feel deeply uneasy.</li>
     <!--EN: The indecency of {OBSERVED_nameShort}'s public nudity was appalling. I felt a strong urge to look away, but couldn't. It was a terrible sight.-->
-    <li>The indecency of {OBSERVED_nameShort}&amp;apos;s public nudity was appalling. I felt a strong urge to look away, but couldn&amp;apos;t. It was a terrible sight.</li>
+    <li>The indecency of {OBSERVED_nameShort}&apos;s public nudity was appalling. I felt a strong urge to look away, but couldn&apos;t. It was a terrible sight.</li>
     <!--EN: I was horrified to see {OBSERVED_nameShort} in such a state. {OBSERVED_pronoun} looked utterly ridiculous and completely out of line.-->
     <li>I was horrified to see {OBSERVED_nameShort} in such a state. {OBSERVED_pronoun} looked utterly ridiculous and completely out of line.</li>
     <!--EN: The public display of {OBSERVED_nameShort}'s nakedness was deeply offensive. I felt a sense of betrayal and disgust. It was just wrong.-->
-    <li>The public display of {OBSERVED_nameShort}&amp;apos;s nakedness was deeply offensive. I felt a sense of betrayal and disgust. It was just wrong.</li>
+    <li>The public display of {OBSERVED_nameShort}&apos;s nakedness was deeply offensive. I felt a sense of betrayal and disgust. It was just wrong.</li>
     <!--EN: My {OBSERVED_relationLabel} was naked, and I felt a burning humiliation. {OBSERVED_pronoun} was making a spectacle, and I was caught in it.-->
     <li>My {OBSERVED_relationLabel} was naked, and I felt a burning humiliation. {OBSERVED_pronoun} was making a spectacle, and I was caught in it.</li>
     <!--EN: I felt sick to my stomach seeing {OBSERVED_nameShort} so exposed. It was a truly awful moment that I wish I could unsee.-->
@@ -36,9 +36,9 @@
     <!--EN: The sight of {OBSERVED_nameShort} naked in public was a personal affront. It was disrespectful and made me feel deeply uncomfortable.-->
     <li>The sight of {OBSERVED_nameShort} naked in public was a personal affront. It was disrespectful and made me feel deeply uncomfortable.</li>
     <!--EN: I was appalled by {OBSERVED_nameShort}'s lack of modesty. {OBSERVED_pronoun} looked utterly shameless, and it made me feel embarrassed for {OBSERVED_objective}.-->
-    <li>I was appalled by {OBSERVED_nameShort}&amp;apos;s lack of modesty. {OBSERVED_pronoun} looked utterly shameless, and it made me feel embarrassed for {OBSERVED_objective}.</li>
+    <li>I was appalled by {OBSERVED_nameShort}&apos;s lack of modesty. {OBSERVED_pronoun} looked utterly shameless, and it made me feel embarrassed for {OBSERVED_objective}.</li>
     <!--EN: Seeing my {OBSERVED_relationLabel} naked in public was a truly upsetting experience. It was a breach of decorum that I couldn't ignore.-->
-    <li>Seeing my {OBSERVED_relationLabel} naked in public was a truly upsetting experience. It was a breach of decorum that I couldn&amp;apos;t ignore.</li>
+    <li>Seeing my {OBSERVED_relationLabel} naked in public was a truly upsetting experience. It was a breach of decorum that I couldn&apos;t ignore.</li>
     <!--EN: {OBSERVED_nameShort} was naked, and I felt a wave of profound disappointment. {OBSERVED_pronoun} was behaving in a way that I found utterly unacceptable.-->
     <li>{OBSERVED_nameShort} was naked, and I felt a wave of profound disappointment. {OBSERVED_pronoun} was behaving in a way that I found utterly unacceptable.</li>
     <!--EN: The public nudity of {OBSERVED_nameShort} was a source of great distress. I felt a deep sense of unease and wished {OBSERVED_pronoun} would cover up.-->
@@ -48,45 +48,45 @@
   <iSaw_realtions_inPublic_Spouse_Female_Neutral.label>iSaw_realtions_inPublic_Spouse_Female_(Neutral)</iSaw_realtions_inPublic_Spouse_Female_Neutral.label>
   <iSaw_realtions_inPublic_Spouse_Female_Neutral.opinionTexts>
     <!--EN: {OBSERVED_nameShort} was just there, naked. It's not really a big deal, just {OBSERVED_pronoun} doing {OBSERVED_possessive} thing. Nothing to get excited about.-->
-    <li>{OBSERVED_nameShort} was just there, naked. It&amp;apos;s not really a big deal, just {OBSERVED_pronoun} doing {OBSERVED_possessive} thing. Nothing to get excited about.</li>
+    <li>{OBSERVED_nameShort} was just there, naked. It&apos;s not really a big deal, just {OBSERVED_pronoun} doing {OBSERVED_possessive} thing. Nothing to get excited about.</li>
     <!--EN: I saw {OBSERVED_nameShort} without clothes. It happens. {OBSERVED_pronoun} didn't seem bothered, so why should I be? Just another day.-->
-    <li>I saw {OBSERVED_nameShort} without clothes. It happens. {OBSERVED_pronoun} didn&amp;apos;t seem bothered, so why should I be? Just another day.</li>
+    <li>I saw {OBSERVED_nameShort} without clothes. It happens. {OBSERVED_pronoun} didn&apos;t seem bothered, so why should I be? Just another day.</li>
     <!--EN: {OBSERVED_nameShort} was naked. I've seen it before. {OBSERVED_pronoun} wasn't drawing attention, just moving about. No strong feelings either way.-->
-    <li>{OBSERVED_nameShort} was naked. I&amp;apos;ve seen it before. {OBSERVED_pronoun} wasn&amp;apos;t drawing attention, just moving about. No strong feelings either way.</li>
+    <li>{OBSERVED_nameShort} was naked. I&apos;ve seen it before. {OBSERVED_pronoun} wasn&apos;t drawing attention, just moving about. No strong feelings either way.</li>
     <!--EN: My {OBSERVED_relationLabel} was unclothed. It's a common occurrence around here. {OBSERVED_pronoun} seemed comfortable, and that's all that matters.-->
-    <li>My {OBSERVED_relationLabel} was unclothed. It&amp;apos;s a common occurrence around here. {OBSERVED_pronoun} seemed comfortable, and that&amp;apos;s all that matters.</li>
+    <li>My {OBSERVED_relationLabel} was unclothed. It&apos;s a common occurrence around here. {OBSERVED_pronoun} seemed comfortable, and that&apos;s all that matters.</li>
     <!--EN: {OBSERVED_nameShort} was naked, yes. I suppose it's fine. {OBSERVED_pronoun} wasn't causing a scene or anything. Just existing.-->
-    <li>{OBSERVED_nameShort} was naked, yes. I suppose it&amp;apos;s fine. {OBSERVED_pronoun} wasn&amp;apos;t causing a scene or anything. Just existing.</li>
+    <li>{OBSERVED_nameShort} was naked, yes. I suppose it&apos;s fine. {OBSERVED_pronoun} wasn&apos;t causing a scene or anything. Just existing.</li>
     <!--EN: I noticed {OBSERVED_nameShort} was naked. My reaction was mostly indifference. {OBSERVED_pronoun} looked like {OBSERVED_pronoun} always does, just less fabric.-->
     <li>I noticed {OBSERVED_nameShort} was naked. My reaction was mostly indifference. {OBSERVED_pronoun} looked like {OBSERVED_pronoun} always does, just less fabric.</li>
     <!--EN: {OBSERVED_nameShort} was naked, and I saw {OBSERVED_objective}. It's not shocking. {OBSERVED_pronoun} carried {OBSERVED_objective}self normally. Nothing special.-->
-    <li>{OBSERVED_nameShort} was naked, and I saw {OBSERVED_objective}. It&amp;apos;s not shocking. {OBSERVED_pronoun} carried {OBSERVED_objective}self normally. Nothing special.</li>
+    <li>{OBSERVED_nameShort} was naked, and I saw {OBSERVED_objective}. It&apos;s not shocking. {OBSERVED_pronoun} carried {OBSERVED_objective}self normally. Nothing special.</li>
     <!--EN: Just {OBSERVED_nameShort}, naked. I'm used to it. {OBSERVED_pronoun} was going about {OBSERVED_possessive} business. No impact on my mood.-->
-    <li>Just {OBSERVED_nameShort}, naked. I&amp;apos;m used to it. {OBSERVED_pronoun} was going about {OBSERVED_possessive} business. No impact on my mood.</li>
+    <li>Just {OBSERVED_nameShort}, naked. I&apos;m used to it. {OBSERVED_pronoun} was going about {OBSERVED_possessive} business. No impact on my mood.</li>
     <!--EN: {OBSERVED_nameShort} was naked. Okay. {OBSERVED_pronoun} didn't seem to care, so I won't either. It's just skin.-->
-    <li>{OBSERVED_nameShort} was naked. Okay. {OBSERVED_pronoun} didn&amp;apos;t seem to care, so I won&amp;apos;t either. It&amp;apos;s just skin.</li>
+    <li>{OBSERVED_nameShort} was naked. Okay. {OBSERVED_pronoun} didn&apos;t seem to care, so I won&apos;t either. It&apos;s just skin.</li>
     <!--EN: I observed {OBSERVED_nameShort} in a state of undress. It was neither good nor bad. {OBSERVED_pronoun} was simply present.-->
     <li>I observed {OBSERVED_nameShort} in a state of undress. It was neither good nor bad. {OBSERVED_pronoun} was simply present.</li>
     <!--EN: {OBSERVED_nameShort} was naked. I registered the fact. {OBSERVED_pronoun} wasn't behaving unusually. My thoughts remained unaffected.-->
-    <li>{OBSERVED_nameShort} was naked. I registered the fact. {OBSERVED_pronoun} wasn&amp;apos;t behaving unusually. My thoughts remained unaffected.</li>
+    <li>{OBSERVED_nameShort} was naked. I registered the fact. {OBSERVED_pronoun} wasn&apos;t behaving unusually. My thoughts remained unaffected.</li>
     <!--EN: It was {OBSERVED_nameShort}, naked. A common sight. {OBSERVED_pronoun} seemed to be in {OBSERVED_possessive} usual state. No strong feelings.-->
     <li>It was {OBSERVED_nameShort}, naked. A common sight. {OBSERVED_pronoun} seemed to be in {OBSERVED_possessive} usual state. No strong feelings.</li>
     <!--EN: {OBSERVED_nameShort} was unclothed. I saw {OBSERVED_objective}. It's not something I dwell on. {OBSERVED_pronoun} just passed by.-->
-    <li>{OBSERVED_nameShort} was unclothed. I saw {OBSERVED_objective}. It&amp;apos;s not something I dwell on. {OBSERVED_pronoun} just passed by.</li>
+    <li>{OBSERVED_nameShort} was unclothed. I saw {OBSERVED_objective}. It&apos;s not something I dwell on. {OBSERVED_pronoun} just passed by.</li>
     <!--EN: My {OBSERVED_relationLabel} was naked. It's not remarkable. {OBSERVED_pronoun} looked the same as always, just without clothes.-->
-    <li>My {OBSERVED_relationLabel} was naked. It&amp;apos;s not remarkable. {OBSERVED_pronoun} looked the same as always, just without clothes.</li>
+    <li>My {OBSERVED_relationLabel} was naked. It&apos;s not remarkable. {OBSERVED_pronoun} looked the same as always, just without clothes.</li>
     <!--EN: I saw {OBSERVED_nameShort} naked. It's not a positive or negative experience. {OBSERVED_pronoun} was simply there, unadorned.-->
-    <li>I saw {OBSERVED_nameShort} naked. It&amp;apos;s not a positive or negative experience. {OBSERVED_pronoun} was simply there, unadorned.</li>
+    <li>I saw {OBSERVED_nameShort} naked. It&apos;s not a positive or negative experience. {OBSERVED_pronoun} was simply there, unadorned.</li>
     <!--EN: {OBSERVED_nameShort} was naked. I acknowledge it. {OBSERVED_pronoun} went about {OBSERVED_possessive} day. No particular reaction from me.-->
     <li>{OBSERVED_nameShort} was naked. I acknowledge it. {OBSERVED_pronoun} went about {OBSERVED_possessive} day. No particular reaction from me.</li>
     <!--EN: Just {OBSERVED_nameShort} in the raw. It's not something that excites or bothers me. {OBSERVED_pronoun} seemed natural.-->
-    <li>Just {OBSERVED_nameShort} in the raw. It&amp;apos;s not something that excites or bothers me. {OBSERVED_pronoun} seemed natural.</li>
+    <li>Just {OBSERVED_nameShort} in the raw. It&apos;s not something that excites or bothers me. {OBSERVED_pronoun} seemed natural.</li>
     <!--EN: I noticed {OBSERVED_nameShort} was naked. It's not an event. {OBSERVED_pronoun} was simply being {OBSERVED_objective}self. My mood is unchanged.-->
-    <li>I noticed {OBSERVED_nameShort} was naked. It&amp;apos;s not an event. {OBSERVED_pronoun} was simply being {OBSERVED_objective}self. My mood is unchanged.</li>
+    <li>I noticed {OBSERVED_nameShort} was naked. It&apos;s not an event. {OBSERVED_pronoun} was simply being {OBSERVED_objective}self. My mood is unchanged.</li>
     <!--EN: {OBSERVED_nameShort} was naked. I've seen worse. {OBSERVED_pronoun} wasn't causing any trouble. It's just how some people are.-->
-    <li>{OBSERVED_nameShort} was naked. I&amp;apos;ve seen worse. {OBSERVED_pronoun} wasn&amp;apos;t causing any trouble. It&amp;apos;s just how some people are.</li>
+    <li>{OBSERVED_nameShort} was naked. I&apos;ve seen worse. {OBSERVED_pronoun} wasn&apos;t causing any trouble. It&apos;s just how some people are.</li>
     <!--EN: My {OBSERVED_relationLabel} was naked. It's not a big deal. {OBSERVED_pronoun} seemed fine with it, so I am too.-->
-    <li>My {OBSERVED_relationLabel} was naked. It&amp;apos;s not a big deal. {OBSERVED_pronoun} seemed fine with it, so I am too.</li>
+    <li>My {OBSERVED_relationLabel} was naked. It&apos;s not a big deal. {OBSERVED_pronoun} seemed fine with it, so I am too.</li>
   </iSaw_realtions_inPublic_Spouse_Female_Neutral.opinionTexts>
   <!--EN: iSaw_realtions_inPublic_Spouse_Female_(Positive)-->
   <iSaw_realtions_inPublic_Spouse_Female_Positive.label>iSaw_realtions_inPublic_Spouse_Female_(Positive)</iSaw_realtions_inPublic_Spouse_Female_Positive.label>
@@ -98,7 +98,7 @@
     <!--EN: Seeing {OBSERVED_nameShort} so free and open was incredibly alluring. {OBSERVED_pronoun} seemed to glow, completely at ease with {OBSERVED_possessive} body.-->
     <li>Seeing {OBSERVED_nameShort} so free and open was incredibly alluring. {OBSERVED_pronoun} seemed to glow, completely at ease with {OBSERVED_possessive} body.</li>
     <!--EN: My {OBSERVED_relationLabel} was a vision of natural beauty, completely unadorned. {OBSERVED_pronoun} carried {OBSERVED_objective}self with such elegance, I couldn't look away.-->
-    <li>My {OBSERVED_relationLabel} was a vision of natural beauty, completely unadorned. {OBSERVED_pronoun} carried {OBSERVED_objective}self with such elegance, I couldn&amp;apos;t look away.</li>
+    <li>My {OBSERVED_relationLabel} was a vision of natural beauty, completely unadorned. {OBSERVED_pronoun} carried {OBSERVED_objective}self with such elegance, I couldn&apos;t look away.</li>
     <!--EN: {OBSERVED_nameShort} looked so comfortable in {OBSERVED_possessive} own skin, a truly inspiring sight. {OBSERVED_pronoun} was radiant, making me feel closer to {OBSERVED_objective}.-->
     <li>{OBSERVED_nameShort} looked so comfortable in {OBSERVED_possessive} own skin, a truly inspiring sight. {OBSERVED_pronoun} was radiant, making me feel closer to {OBSERVED_objective}.</li>
     <!--EN: The sight of {OBSERVED_nameShort} embracing {OBSERVED_possessive} natural state filled me with warmth. {OBSERVED_pronoun} looked utterly perfect, a true masterpiece.-->
@@ -144,9 +144,9 @@
     <!--EN: I felt a cold, sharp pain seeing {OBSERVED_nameShort} naked and engaged with another. {OBSERVED_pronoun} was destroying everything we had.-->
     <li>I felt a cold, sharp pain seeing {OBSERVED_nameShort} naked and engaged with another. {OBSERVED_pronoun} was destroying everything we had.</li>
     <!--EN: The indecency of {OBSERVED_nameShort}'s public act, naked with another, was repulsive. I felt a deep sense of shame and anger.-->
-    <li>The indecency of {OBSERVED_nameShort}&amp;apos;s public act, naked with another, was repulsive. I felt a deep sense of shame and anger.</li>
+    <li>The indecency of {OBSERVED_nameShort}&apos;s public act, naked with another, was repulsive. I felt a deep sense of shame and anger.</li>
     <!--EN: {OBSERVED_nameShort} was naked, having sex with someone else, and I felt utterly worthless. {OBSERVED_pronoun} clearly didn't care about my feelings.-->
-    <li>{OBSERVED_nameShort} was naked, having sex with someone else, and I felt utterly worthless. {OBSERVED_pronoun} clearly didn&amp;apos;t care about my feelings.</li>
+    <li>{OBSERVED_nameShort} was naked, having sex with someone else, and I felt utterly worthless. {OBSERVED_pronoun} clearly didn&apos;t care about my feelings.</li>
     <!--EN: My {OBSERVED_relationLabel} was exposed, giving {OBSERVED_possessive}self to another. It was a cruel, public display that broke my spirit.-->
     <li>My {OBSERVED_relationLabel} was exposed, giving {OBSERVED_possessive}self to another. It was a cruel, public display that broke my spirit.</li>
     <!--EN: I was horrified to see {OBSERVED_nameShort} naked, with another, in such a brazen act. It was a complete disregard for our bond.-->
@@ -158,7 +158,7 @@
     <!--EN: {OBSERVED_nameShort} was naked, having sex with someone else, and I felt a profound sense of loss. Everything felt hollow.-->
     <li>{OBSERVED_nameShort} was naked, having sex with someone else, and I felt a profound sense of loss. Everything felt hollow.</li>
     <!--EN: The public display of {OBSERVED_nameShort}'s infidelity, naked and unashamed, was a gut-wrenching blow. I felt utterly humiliated.-->
-    <li>The public display of {OBSERVED_nameShort}&amp;apos;s infidelity, naked and unashamed, was a gut-wrenching blow. I felt utterly humiliated.</li>
+    <li>The public display of {OBSERVED_nameShort}&apos;s infidelity, naked and unashamed, was a gut-wrenching blow. I felt utterly humiliated.</li>
     <!--EN: My {OBSERVED_relationLabel} was naked, with another. It was a brutal reminder of what I thought we had, now shattered.-->
     <li>My {OBSERVED_relationLabel} was naked, with another. It was a brutal reminder of what I thought we had, now shattered.</li>
     <!--EN: I felt a burning resentment seeing {OBSERVED_nameShort} naked, with someone else. {OBSERVED_pronoun} was so careless with my heart.-->
@@ -168,11 +168,11 @@
     <!--EN: {OBSERVED_nameShort} was naked, with another. It was a scene of utter devastation. My trust was irrevocably broken.-->
     <li>{OBSERVED_nameShort} was naked, with another. It was a scene of utter devastation. My trust was irrevocably broken.</li>
     <!--EN: I was disgusted by {OBSERVED_nameShort}'s actions, naked and intimate with someone else. {OBSERVED_pronoun} showed no respect.-->
-    <li>I was disgusted by {OBSERVED_nameShort}&amp;apos;s actions, naked and intimate with someone else. {OBSERVED_pronoun} showed no respect.</li>
+    <li>I was disgusted by {OBSERVED_nameShort}&apos;s actions, naked and intimate with someone else. {OBSERVED_pronoun} showed no respect.</li>
     <!--EN: My {OBSERVED_relationLabel} was naked, having sex with another, and I felt a profound sense of abandonment. It was unbearable.-->
     <li>My {OBSERVED_relationLabel} was naked, having sex with another, and I felt a profound sense of abandonment. It was unbearable.</li>
     <!--EN: The public spectacle of {OBSERVED_nameShort}'s betrayal, naked with another, was a nightmare come true. I felt utterly sick.-->
-    <li>The public spectacle of {OBSERVED_nameShort}&amp;apos;s betrayal, naked with another, was a nightmare come true. I felt utterly sick.</li>
+    <li>The public spectacle of {OBSERVED_nameShort}&apos;s betrayal, naked with another, was a nightmare come true. I felt utterly sick.</li>
     <!--EN: {OBSERVED_nameShort} was naked, having sex with someone else. It was a terrible, painful memory that will haunt me.-->
     <li>{OBSERVED_nameShort} was naked, having sex with someone else. It was a terrible, painful memory that will haunt me.</li>
   </iSaw_realtions_inPublic_Spouse_Female_havingSexWithSomeone_Negative.opinionTexts>
@@ -180,45 +180,45 @@
   <iSaw_realtions_inPublic_Spouse_Female_havingSexWithSomeone_Neutral.label>iSaw_realtions_inPublic_Spouse_Female_havingSexWithSomeone_(Neutral)</iSaw_realtions_inPublic_Spouse_Female_havingSexWithSomeone_Neutral.label>
   <iSaw_realtions_inPublic_Spouse_Female_havingSexWithSomeone_Neutral.opinionTexts>
     <!--EN: {OBSERVED_nameShort} was having sex, naked. It's not my business, really. {OBSERVED_pronoun} seemed to be enjoying {OBSERVED_objective}self.-->
-    <li>{OBSERVED_nameShort} was having sex, naked. It&amp;apos;s not my business, really. {OBSERVED_pronoun} seemed to be enjoying {OBSERVED_objective}self.</li>
+    <li>{OBSERVED_nameShort} was having sex, naked. It&apos;s not my business, really. {OBSERVED_pronoun} seemed to be enjoying {OBSERVED_objective}self.</li>
     <!--EN: I saw {OBSERVED_nameShort} engaged in an intimate act. {OBSERVED_pronoun} was naked. It's just a thing that happened, nothing more.-->
-    <li>I saw {OBSERVED_nameShort} engaged in an intimate act. {OBSERVED_pronoun} was naked. It&amp;apos;s just a thing that happened, nothing more.</li>
+    <li>I saw {OBSERVED_nameShort} engaged in an intimate act. {OBSERVED_pronoun} was naked. It&apos;s just a thing that happened, nothing more.</li>
     <!--EN: My {OBSERVED_relationLabel} was having sex. I observed it. No strong feelings, just an observation. {OBSERVED_pronoun} was certainly occupied.-->
     <li>My {OBSERVED_relationLabel} was having sex. I observed it. No strong feelings, just an observation. {OBSERVED_pronoun} was certainly occupied.</li>
     <!--EN: {OBSERVED_nameShort} was naked and having sex. It's not something I'd seek out, but it's not surprising. Just another day on the rim.-->
-    <li>{OBSERVED_nameShort} was naked and having sex. It&amp;apos;s not something I&amp;apos;d seek out, but it&amp;apos;s not surprising. Just another day on the rim.</li>
+    <li>{OBSERVED_nameShort} was naked and having sex. It&apos;s not something I&apos;d seek out, but it&apos;s not surprising. Just another day on the rim.</li>
     <!--EN: I noticed {OBSERVED_nameShort} in a compromising position. {OBSERVED_pronoun} was naked. I'm indifferent to the situation, it doesn't concern me.-->
-    <li>I noticed {OBSERVED_nameShort} in a compromising position. {OBSERVED_pronoun} was naked. I&amp;apos;m indifferent to the situation, it doesn&amp;apos;t concern me.</li>
+    <li>I noticed {OBSERVED_nameShort} in a compromising position. {OBSERVED_pronoun} was naked. I&apos;m indifferent to the situation, it doesn&apos;t concern me.</li>
     <!--EN: {OBSERVED_nameShort} was having sex, unclothed. It's a fact. {OBSERVED_pronoun} seemed focused on the activity. No particular reaction from me.-->
-    <li>{OBSERVED_nameShort} was having sex, unclothed. It&amp;apos;s a fact. {OBSERVED_pronoun} seemed focused on the activity. No particular reaction from me.</li>
+    <li>{OBSERVED_nameShort} was having sex, unclothed. It&apos;s a fact. {OBSERVED_pronoun} seemed focused on the activity. No particular reaction from me.</li>
     <!--EN: The sight of {OBSERVED_nameShort} having sex, naked, was just... there. It didn't evoke any emotion. {OBSERVED_pronoun} was simply doing it.-->
-    <li>The sight of {OBSERVED_nameShort} having sex, naked, was just... there. It didn&amp;apos;t evoke any emotion. {OBSERVED_pronoun} was simply doing it.</li>
+    <li>The sight of {OBSERVED_nameShort} having sex, naked, was just... there. It didn&apos;t evoke any emotion. {OBSERVED_pronoun} was simply doing it.</li>
     <!--EN: My {OBSERVED_relationLabel} was engaged in sexual activity, naked. I registered the event. It doesn't affect my opinion of {OBSERVED_objective}.-->
-    <li>My {OBSERVED_relationLabel} was engaged in sexual activity, naked. I registered the event. It doesn&amp;apos;t affect my opinion of {OBSERVED_objective}.</li>
+    <li>My {OBSERVED_relationLabel} was engaged in sexual activity, naked. I registered the event. It doesn&apos;t affect my opinion of {OBSERVED_objective}.</li>
     <!--EN: {OBSERVED_nameShort} was naked and having sex. I've seen worse. {OBSERVED_pronoun} was clearly busy. I just moved on.-->
-    <li>{OBSERVED_nameShort} was naked and having sex. I&amp;apos;ve seen worse. {OBSERVED_pronoun} was clearly busy. I just moved on.</li>
+    <li>{OBSERVED_nameShort} was naked and having sex. I&apos;ve seen worse. {OBSERVED_pronoun} was clearly busy. I just moved on.</li>
     <!--EN: I saw {OBSERVED_nameShort} in a moment of intimacy. {OBSERVED_pronoun} was naked. It's not something I feel strongly about, good or bad.-->
-    <li>I saw {OBSERVED_nameShort} in a moment of intimacy. {OBSERVED_pronoun} was naked. It&amp;apos;s not something I feel strongly about, good or bad.</li>
+    <li>I saw {OBSERVED_nameShort} in a moment of intimacy. {OBSERVED_pronoun} was naked. It&apos;s not something I feel strongly about, good or bad.</li>
     <!--EN: {OBSERVED_nameShort} was having sex, naked. It's a biological function. {OBSERVED_pronoun} seemed to be performing it adequately.-->
-    <li>{OBSERVED_nameShort} was having sex, naked. It&amp;apos;s a biological function. {OBSERVED_pronoun} seemed to be performing it adequately.</li>
+    <li>{OBSERVED_nameShort} was having sex, naked. It&apos;s a biological function. {OBSERVED_pronoun} seemed to be performing it adequately.</li>
     <!--EN: My {OBSERVED_relationLabel} was naked and having sex. It's not my place to judge. {OBSERVED_pronoun} was doing what {OBSERVED_pronoun} wanted.-->
-    <li>My {OBSERVED_relationLabel} was naked and having sex. It&amp;apos;s not my place to judge. {OBSERVED_pronoun} was doing what {OBSERVED_pronoun} wanted.</li>
+    <li>My {OBSERVED_relationLabel} was naked and having sex. It&apos;s not my place to judge. {OBSERVED_pronoun} was doing what {OBSERVED_pronoun} wanted.</li>
     <!--EN: I observed {OBSERVED_nameShort} having sex, naked. It was a thing that happened. My thoughts are neutral on the matter.-->
     <li>I observed {OBSERVED_nameShort} having sex, naked. It was a thing that happened. My thoughts are neutral on the matter.</li>
     <!--EN: {OBSERVED_nameShort} was naked, having sex. It's just another part of life on this planet. {OBSERVED_pronoun} seemed content.-->
-    <li>{OBSERVED_nameShort} was naked, having sex. It&amp;apos;s just another part of life on this planet. {OBSERVED_pronoun} seemed content.</li>
+    <li>{OBSERVED_nameShort} was naked, having sex. It&apos;s just another part of life on this planet. {OBSERVED_pronoun} seemed content.</li>
     <!--EN: The sight of {OBSERVED_nameShort} having sex, unclothed, was unremarkable. {OBSERVED_pronoun} was simply engaging in an activity.-->
     <li>The sight of {OBSERVED_nameShort} having sex, unclothed, was unremarkable. {OBSERVED_pronoun} was simply engaging in an activity.</li>
     <!--EN: {OBSERVED_nameShort} was naked and having sex. It's not something I'd discuss, but it's not offensive either. Just a private moment.-->
-    <li>{OBSERVED_nameShort} was naked and having sex. It&amp;apos;s not something I&amp;apos;d discuss, but it&amp;apos;s not offensive either. Just a private moment.</li>
+    <li>{OBSERVED_nameShort} was naked and having sex. It&apos;s not something I&apos;d discuss, but it&apos;s not offensive either. Just a private moment.</li>
     <!--EN: My {OBSERVED_relationLabel} was having sex, naked. I have no strong opinion on it. {OBSERVED_pronoun} was just being {OBSERVED_objective}self.-->
     <li>My {OBSERVED_relationLabel} was having sex, naked. I have no strong opinion on it. {OBSERVED_pronoun} was just being {OBSERVED_objective}self.</li>
     <!--EN: I saw {OBSERVED_nameShort} in a state of naked intimacy. It didn't impact me one way or another. {OBSERVED_pronoun} was focused.-->
-    <li>I saw {OBSERVED_nameShort} in a state of naked intimacy. It didn&amp;apos;t impact me one way or another. {OBSERVED_pronoun} was focused.</li>
+    <li>I saw {OBSERVED_nameShort} in a state of naked intimacy. It didn&apos;t impact me one way or another. {OBSERVED_pronoun} was focused.</li>
     <!--EN: {OBSERVED_nameShort} was naked and having sex. It's a natural act. {OBSERVED_pronoun} was simply expressing {OBSERVED_possessive} needs.-->
-    <li>{OBSERVED_nameShort} was naked and having sex. It&amp;apos;s a natural act. {OBSERVED_pronoun} was simply expressing {OBSERVED_possessive} needs.</li>
+    <li>{OBSERVED_nameShort} was naked and having sex. It&apos;s a natural act. {OBSERVED_pronoun} was simply expressing {OBSERVED_possessive} needs.</li>
     <!--EN: I witnessed {OBSERVED_nameShort} having sex, naked. It's not something I'll remember, nor something I'll forget. Just a moment.-->
-    <li>I witnessed {OBSERVED_nameShort} having sex, naked. It&amp;apos;s not something I&amp;apos;ll remember, nor something I&amp;apos;ll forget. Just a moment.</li>
+    <li>I witnessed {OBSERVED_nameShort} having sex, naked. It&apos;s not something I&apos;ll remember, nor something I&apos;ll forget. Just a moment.</li>
   </iSaw_realtions_inPublic_Spouse_Female_havingSexWithSomeone_Neutral.opinionTexts>
   <!--EN: iSaw_realtions_inPublic_Spouse_Female_havingSexWithSomeone_(Positive)-->
   <iSaw_realtions_inPublic_Spouse_Female_havingSexWithSomeone_Positive.label>iSaw_realtions_inPublic_Spouse_Female_havingSexWithSomeone_(Positive)</iSaw_realtions_inPublic_Spouse_Female_havingSexWithSomeone_Positive.label>
@@ -238,7 +238,7 @@
     <!--EN: The sight of {OBSERVED_nameShort} in such a state of abandon was incredibly arousing. {OBSERVED_pronoun} was completely absorbed, a truly captivating spectacle.-->
     <li>The sight of {OBSERVED_nameShort} in such a state of abandon was incredibly arousing. {OBSERVED_pronoun} was completely absorbed, a truly captivating spectacle.</li>
     <!--EN: I was fascinated by {OBSERVED_nameShort}'s uninhibited passion. {OBSERVED_pronoun} looked utterly blissful, and it filled me with a strange sense of contentment.-->
-    <li>I was fascinated by {OBSERVED_nameShort}&amp;apos;s uninhibited passion. {OBSERVED_pronoun} looked utterly blissful, and it filled me with a strange sense of contentment.</li>
+    <li>I was fascinated by {OBSERVED_nameShort}&apos;s uninhibited passion. {OBSERVED_pronoun} looked utterly blissful, and it filled me with a strange sense of contentment.</li>
     <!--EN: {OBSERVED_nameShort} was a vision of raw desire, completely lost in the moment. {OBSERVED_pronoun} radiated an intense energy that was truly compelling.-->
     <li>{OBSERVED_nameShort} was a vision of raw desire, completely lost in the moment. {OBSERVED_pronoun} radiated an intense energy that was truly compelling.</li>
     <!--EN: My {OBSERVED_relationLabel} was so unreservedly happy and fulfilled. Seeing {OBSERVED_objective} like that brought a unique kind of satisfaction to me.-->

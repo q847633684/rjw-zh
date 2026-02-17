@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Gender-->
-  <RJW_Gender.headerTip>性别</RJW_Gender.headerTip>
-  <!--EN: Prisoners-->
-  <RJW_IsPrisoner.headerTip>囚犯？</RJW_IsPrisoner.headerTip>
-  <!--EN: Slaves-->
-  <RJW_IsSlave.headerTip>奴隶？</RJW_IsSlave.headerTip>
-</LanguageData>
