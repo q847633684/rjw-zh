@@ -1,909 +1,909 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: observed AreolaSlip (dynamic)-->
-  <NMM_DynamicBubble_AreolaSlip_Observed.label>observed AreolaSlip (dynamic)</NMM_DynamicBubble_AreolaSlip_Observed.label>
+  <NMM_DynamicBubble_AreolaSlip_Observed.label>观察到乳晕 (动态)</NMM_DynamicBubble_AreolaSlip_Observed.label>
   <NMM_DynamicBubble_AreolaSlip_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_AreolaSlip_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_AreolaSlip_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was with areola visible.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was with areola visible.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]能看见乳晕。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was with areola uncovered.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was with areola uncovered.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]露出乳晕的时候。</li>
   </NMM_DynamicBubble_AreolaSlip_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing AreolaSlip (dynamic)-->
-  <NMM_DynamicBubble_AreolaSlip_Observer.label>observing AreolaSlip (dynamic)</NMM_DynamicBubble_AreolaSlip_Observer.label>
+  <NMM_DynamicBubble_AreolaSlip_Observer.label>观察乳晕 (动态)</NMM_DynamicBubble_AreolaSlip_Observer.label>
   <NMM_DynamicBubble_AreolaSlip_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_AreolaSlip_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_AreolaSlip_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] with areola sliped.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] with areola sliped.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]乳晕滑了。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] with areola visible.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] with areola visible.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]可以看到乳晕。</li>
   </NMM_DynamicBubble_AreolaSlip_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Bath (dynamic)-->
-  <NMM_DynamicBubble_Bath_Observed.label>observed Bath (dynamic)</NMM_DynamicBubble_Bath_Observed.label>
+  <NMM_DynamicBubble_Bath_Observed.label>洗澡 (动态)</NMM_DynamicBubble_Bath_Observed.label>
   <NMM_DynamicBubble_Bath_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Bath_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Bath_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was bathing.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was bathing.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]正在洗澡。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was bathing.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was bathing.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]洗澡时。</li>
   </NMM_DynamicBubble_Bath_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Bath (dynamic)-->
-  <NMM_DynamicBubble_Bath_Observer.label>observing Bath (dynamic)</NMM_DynamicBubble_Bath_Observer.label>
+  <NMM_DynamicBubble_Bath_Observer.label>观察浴 (动态)</NMM_DynamicBubble_Bath_Observer.label>
   <NMM_DynamicBubble_Bath_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Bath_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Bath_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was bathing.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was bathing.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]正在洗澡。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] bathing.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] bathing.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]洗澡。</li>
   </NMM_DynamicBubble_Bath_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Biopod (dynamic)-->
-  <NMM_DynamicBubble_Biopod_Observed.label>observed Biopod (dynamic)</NMM_DynamicBubble_Biopod_Observed.label>
+  <NMM_DynamicBubble_Biopod_Observed.label>观察到生物体 (动态)</NMM_DynamicBubble_Biopod_Observed.label>
   <NMM_DynamicBubble_Biopod_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Biopod_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Biopod_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was naked in biopod capsule.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was naked in biopod capsule.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾经裸体在生物体胶囊中。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was naked in biopod capsule.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was naked in biopod capsule.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]虽然是裸体在生物体胶囊中。</li>
   </NMM_DynamicBubble_Biopod_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Biopod (dynamic)-->
-  <NMM_DynamicBubble_Biopod_Observer.label>observing Biopod (dynamic)</NMM_DynamicBubble_Biopod_Observer.label>
+  <NMM_DynamicBubble_Biopod_Observer.label>观察生物体 (动态)</NMM_DynamicBubble_Biopod_Observer.label>
   <NMM_DynamicBubble_Biopod_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Biopod_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Biopod_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] naked in biopod capsule.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] naked in biopod capsule.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]裸体在生物体胶囊中。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] naked in biopod capsule.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] naked in biopod capsule.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]裸体在生物体胶囊中。</li>
   </NMM_DynamicBubble_Biopod_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Bottomless (dynamic)-->
-  <NMM_DynamicBubble_Bottomless_Observed.label>observed Bottomless (dynamic)</NMM_DynamicBubble_Bottomless_Observed.label>
+  <NMM_DynamicBubble_Bottomless_Observed.label>观察到下着较少(动态)</NMM_DynamicBubble_Bottomless_Observed.label>
   <NMM_DynamicBubble_Bottomless_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Bottomless_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Bottomless_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was bottomless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was bottomless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾经下着较少没有。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while bottomless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while bottomless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]期间下着较少没有。</li>
   </NMM_DynamicBubble_Bottomless_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Bottomless (dynamic)-->
-  <NMM_DynamicBubble_Bottomless_Observer.label>observing Bottomless (dynamic)</NMM_DynamicBubble_Bottomless_Observer.label>
+  <NMM_DynamicBubble_Bottomless_Observer.label>观察下着较少(动态)</NMM_DynamicBubble_Bottomless_Observer.label>
   <NMM_DynamicBubble_Bottomless_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Bottomless_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Bottomless_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] bottomless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] bottomless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]下着较少没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] bottomlessness state.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] bottomlessness state.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]无底状态。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] heard [RECIPIENT_nameDef] comment on being seen bottomless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] heard [RECIPIENT_nameDef] comment on being seen bottomless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]听过[RECIPIENT_nameDef]对看见的评价下着较少没有。</li>
   </NMM_DynamicBubble_Bottomless_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed BreastSlip (dynamic)-->
-  <NMM_DynamicBubble_BreastSlip_Observed.label>observed BreastSlip (dynamic)</NMM_DynamicBubble_BreastSlip_Observed.label>
+  <NMM_DynamicBubble_BreastSlip_Observed.label>看见胸差 (动态)</NMM_DynamicBubble_BreastSlip_Observed.label>
   <NMM_DynamicBubble_BreastSlip_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_BreastSlip_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_BreastSlip_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was with breast out.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was with breast out.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾与乳房出去。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was with breast uncovered.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was with breast uncovered.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]陪在身边乳房暴露在外。</li>
   </NMM_DynamicBubble_BreastSlip_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing BreastSlip (dynamic)-->
-  <NMM_DynamicBubble_BreastSlip_Observer.label>observing BreastSlip (dynamic)</NMM_DynamicBubble_BreastSlip_Observer.label>
+  <NMM_DynamicBubble_BreastSlip_Observer.label>观察胸壁滑 (动态)</NMM_DynamicBubble_BreastSlip_Observer.label>
   <NMM_DynamicBubble_BreastSlip_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_BreastSlip_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_BreastSlip_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] with breast out.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] with breast out.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]伴乳房出去。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] with breast sliped.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] with breast sliped.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]伴乳房下滑。</li>
   </NMM_DynamicBubble_BreastSlip_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Breastfeed (dynamic)-->
-  <NMM_DynamicBubble_Breastfeed_Observed.label>observed Breastfeed (dynamic)</NMM_DynamicBubble_Breastfeed_Observed.label>
+  <NMM_DynamicBubble_Breastfeed_Observed.label>观察到乳房喷出液体（通常是乳汁）。是挤奶的前置标签。喂养 (动态)</NMM_DynamicBubble_Breastfeed_Observed.label>
   <NMM_DynamicBubble_Breastfeed_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Breastfeed_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Breastfeed_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was breastfeeding.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was breastfeeding.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾经哺乳没有。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was breastfeeding.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was breastfeeding.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]虽然是哺乳没有。</li>
   </NMM_DynamicBubble_Breastfeed_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Breastfeed (dynamic)-->
-  <NMM_DynamicBubble_Breastfeed_Observer.label>observing Breastfeed (dynamic)</NMM_DynamicBubble_Breastfeed_Observer.label>
+  <NMM_DynamicBubble_Breastfeed_Observer.label>乳房喷出液体（通常是乳汁）。是挤奶的前置标签。喂养观察 (动态)</NMM_DynamicBubble_Breastfeed_Observer.label>
   <NMM_DynamicBubble_Breastfeed_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Breastfeed_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Breastfeed_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] breastfeeding.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] breastfeeding.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]哺乳没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] breasts.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] breasts.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]乳房没有。</li>
   </NMM_DynamicBubble_Breastfeed_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Changing (dynamic)-->
-  <NMM_DynamicBubble_Changing_Observed.label>observed Changing (dynamic)</NMM_DynamicBubble_Changing_Observed.label>
+  <NMM_DynamicBubble_Changing_Observed.label>观察到变化 (动态)</NMM_DynamicBubble_Changing_Observed.label>
   <NMM_DynamicBubble_Changing_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Changing_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Changing_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was changing clothes.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was changing clothes.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]正在换衣服。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was changing clothes.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was changing clothes.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]换衣服时。</li>
   </NMM_DynamicBubble_Changing_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Changing (dynamic)-->
-  <NMM_DynamicBubble_Changing_Observer.label>observing Changing (dynamic)</NMM_DynamicBubble_Changing_Observer.label>
+  <NMM_DynamicBubble_Changing_Observer.label>观察变化 (动态)</NMM_DynamicBubble_Changing_Observer.label>
   <NMM_DynamicBubble_Changing_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Changing_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Changing_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] changing clothes.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] changing clothes.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]正在换衣服。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] naked changing clothes.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] naked changing clothes.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]裸体正在换衣服。</li>
   </NMM_DynamicBubble_Changing_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed covering (dynamic)-->
-  <NMM_DynamicBubble_Covering_Observed.label>observed covering (dynamic)</NMM_DynamicBubble_Covering_Observed.label>
+  <NMM_DynamicBubble_Covering_Observed.label>看见掩体 (动态)</NMM_DynamicBubble_Covering_Observed.label>
   <NMM_DynamicBubble_Covering_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Covering_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Covering_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was covering.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was covering.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]正在掩体。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while covering.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while covering.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]掩体时。</li>
   </NMM_DynamicBubble_Covering_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing covering (dynamic)-->
-  <NMM_DynamicBubble_Covering_Observer.label>observing covering (dynamic)</NMM_DynamicBubble_Covering_Observer.label>
+  <NMM_DynamicBubble_Covering_Observer.label>观察覆盖物 (动态)</NMM_DynamicBubble_Covering_Observer.label>
   <NMM_DynamicBubble_Covering_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Covering_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Covering_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] covering.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] covering.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]掩体。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] attempts to cover.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] attempts to cover.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]试图遮蔽。</li>
   </NMM_DynamicBubble_Covering_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed HotTub (dynamic)-->
-  <NMM_DynamicBubble_HotTub_Observed.label>observed HotTub (dynamic)</NMM_DynamicBubble_HotTub_Observed.label>
+  <NMM_DynamicBubble_HotTub_Observed.label>看见热水浴缸 (动态)</NMM_DynamicBubble_HotTub_Observed.label>
   <NMM_DynamicBubble_HotTub_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_HotTub_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_HotTub_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was using Hot Tub.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was using Hot Tub.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]正在使用性感的浴缸。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was uisng Hot Tub.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was uisng Hot Tub.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]在受伤期间性感的浴缸。</li>
   </NMM_DynamicBubble_HotTub_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing HotTub (dynamic)-->
-  <NMM_DynamicBubble_HotTub_Observer.label>observing HotTub (dynamic)</NMM_DynamicBubble_HotTub_Observer.label>
+  <NMM_DynamicBubble_HotTub_Observer.label>观察热水浴缸 (动态)</NMM_DynamicBubble_HotTub_Observer.label>
   <NMM_DynamicBubble_HotTub_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_HotTub_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_HotTub_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was using hot tub.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was using hot tub.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]正在使用性感的浴缸。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] using hot tub.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] using hot tub.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]使用性感的浴缸。</li>
   </NMM_DynamicBubble_HotTub_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed HumanArtBottom (dynamic)-->
-  <NMM_DynamicBubble_HumanArtBottom_Observed.label>observed HumanArtBottom (dynamic)</NMM_DynamicBubble_HumanArtBottom_Observed.label>
+  <NMM_DynamicBubble_HumanArtBottom_Observed.label>观察到人类形态 (动态)</NMM_DynamicBubble_HumanArtBottom_Observed.label>
   <NMM_DynamicBubble_HumanArtBottom_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_HumanArtBottom_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_HumanArtBottom_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was bottomless preforming human art job.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was bottomless preforming human art job.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾经下着较少完成人体艺术任务。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was bottomless preforming human art job.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was bottomless preforming human art job.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]虽然是下着较少完成人体艺术任务。</li>
   </NMM_DynamicBubble_HumanArtBottom_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing HumanArtBottom (dynamic)-->
-  <NMM_DynamicBubble_HumanArtBottom_Observer.label>observing HumanArtBottom (dynamic)</NMM_DynamicBubble_HumanArtBottom_Observer.label>
+  <NMM_DynamicBubble_HumanArtBottom_Observer.label>观察人类艺术模型 (动态)</NMM_DynamicBubble_HumanArtBottom_Observer.label>
   <NMM_DynamicBubble_HumanArtBottom_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_HumanArtBottom_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_HumanArtBottom_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was bottlomless preforming human art job.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was bottlomless preforming human art job.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]是无底之物的人类艺术任务。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] bottomless preforming human art job.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] bottomless preforming human art job.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]下着较少完成人体艺术任务。</li>
   </NMM_DynamicBubble_HumanArtBottom_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed HumanArtFull (dynamic)-->
-  <NMM_DynamicBubble_HumanArtFull_Observed.label>observed HumanArtFull (dynamic)</NMM_DynamicBubble_HumanArtFull_Observed.label>
+  <NMM_DynamicBubble_HumanArtFull_Observed.label>观察到人类 (动态的)</NMM_DynamicBubble_HumanArtFull_Observed.label>
   <NMM_DynamicBubble_HumanArtFull_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_HumanArtFull_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_HumanArtFull_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was naked preforming human art job.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was naked preforming human art job.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾经裸体完成人体艺术任务。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was naked preforming human art job.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was naked preforming human art job.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]虽然是裸体完成人体艺术任务。</li>
   </NMM_DynamicBubble_HumanArtFull_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing HumanArtFull (dynamic)-->
-  <NMM_DynamicBubble_HumanArtFull_Observer.label>observing HumanArtFull (dynamic)</NMM_DynamicBubble_HumanArtFull_Observer.label>
+  <NMM_DynamicBubble_HumanArtFull_Observer.label>观察人类 (动态)</NMM_DynamicBubble_HumanArtFull_Observer.label>
   <NMM_DynamicBubble_HumanArtFull_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_HumanArtFull_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_HumanArtFull_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was naked preforming human art job.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was naked preforming human art job.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]曾经裸体完成人体艺术任务。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] naked preforming human art job.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] naked preforming human art job.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]裸体完成人体艺术任务。</li>
   </NMM_DynamicBubble_HumanArtFull_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed HumanArtTop (dynamic)-->
-  <NMM_DynamicBubble_HumanArtTop_Observed.label>observed HumanArtTop (dynamic)</NMM_DynamicBubble_HumanArtTop_Observed.label>
+  <NMM_DynamicBubble_HumanArtTop_Observed.label>观察到人动物间性交。 (动态)</NMM_DynamicBubble_HumanArtTop_Observed.label>
   <NMM_DynamicBubble_HumanArtTop_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_HumanArtTop_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_HumanArtTop_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was topless preforming human art job.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was topless preforming human art job.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾经上着较少完成人体艺术任务。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was topless preforming human art job.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was topless preforming human art job.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]虽然是上着较少完成人体艺术任务。</li>
   </NMM_DynamicBubble_HumanArtTop_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing HumanArtTop (dynamic)-->
-  <NMM_DynamicBubble_HumanArtTop_Observer.label>observing HumanArtTop (dynamic)</NMM_DynamicBubble_HumanArtTop_Observer.label>
+  <NMM_DynamicBubble_HumanArtTop_Observer.label>观察人类兽 (动态)</NMM_DynamicBubble_HumanArtTop_Observer.label>
   <NMM_DynamicBubble_HumanArtTop_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_HumanArtTop_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_HumanArtTop_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was topless preforming human art job.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was topless preforming human art job.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]曾经上着较少完成人体艺术任务。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] topless preforming human art job.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] topless preforming human art job.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]上着较少完成人体艺术任务。</li>
   </NMM_DynamicBubble_HumanArtTop_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Masturbation (dynamic)-->
-  <NMM_DynamicBubble_Masturbation_Observed.label>observed Masturbation (dynamic)</NMM_DynamicBubble_Masturbation_Observed.label>
+  <NMM_DynamicBubble_Masturbation_Observed.label>观察到自慰(动态)</NMM_DynamicBubble_Masturbation_Observed.label>
   <NMM_DynamicBubble_Masturbation_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Masturbation_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Masturbation_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was masturbating.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was masturbating.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]正在自慰。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while masturbating.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while masturbating.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]自慰时。</li>
   </NMM_DynamicBubble_Masturbation_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Masturbation (dynamic)-->
-  <NMM_DynamicBubble_Masturbation_Observer.label>observing Masturbation (dynamic)</NMM_DynamicBubble_Masturbation_Observer.label>
+  <NMM_DynamicBubble_Masturbation_Observer.label>观察自慰(动态)</NMM_DynamicBubble_Masturbation_Observer.label>
   <NMM_DynamicBubble_Masturbation_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Masturbation_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Masturbation_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] masturbating.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] masturbating.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]正在自慰。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] in the middle masturbation.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] in the middle masturbation.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]在中间自慰没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] heard [RECIPIENT_nameDef] comment on being seen masturbating.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] heard [RECIPIENT_nameDef] comment on being seen masturbating.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]听过[RECIPIENT_nameDef]评论被看见在自慰。</li>
   </NMM_DynamicBubble_Masturbation_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed MedicalBottomSelf (dynamic)-->
-  <NMM_DynamicBubble_MedicalBottomSelf_Observed.label>observed MedicalBottomSelf (dynamic)</NMM_DynamicBubble_MedicalBottomSelf_Observed.label>
+  <NMM_DynamicBubble_MedicalBottomSelf_Observed.label>观察到自己 (动态)</NMM_DynamicBubble_MedicalBottomSelf_Observed.label>
   <NMM_DynamicBubble_MedicalBottomSelf_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_MedicalBottomSelf_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_MedicalBottomSelf_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was tended self bottomless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was tended self bottomless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]已自我治疗下着较少没有。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was tended self bottomless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was tended self bottomless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]当被照料时下着较少没有。</li>
   </NMM_DynamicBubble_MedicalBottomSelf_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing MedicalBottomSelf (dynamic)-->
-  <NMM_DynamicBubble_MedicalBottomSelf_Observer.label>observing MedicalBottomSelf (dynamic)</NMM_DynamicBubble_MedicalBottomSelf_Observer.label>
+  <NMM_DynamicBubble_MedicalBottomSelf_Observer.label>观察医术底 self (动态)</NMM_DynamicBubble_MedicalBottomSelf_Observer.label>
   <NMM_DynamicBubble_MedicalBottomSelf_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_MedicalBottomSelf_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_MedicalBottomSelf_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was tended self bottomless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was tended self bottomless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]已自我治疗下着较少没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] tended self bottomless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] tended self bottomless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]照顾自己下着较少没有。</li>
   </NMM_DynamicBubble_MedicalBottomSelf_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed MedicalBottom (dynamic)-->
-  <NMM_DynamicBubble_MedicalBottom_Observed.label>observed MedicalBottom (dynamic)</NMM_DynamicBubble_MedicalBottom_Observed.label>
+  <NMM_DynamicBubble_MedicalBottom_Observed.label>已观察到医药底 (动态)</NMM_DynamicBubble_MedicalBottom_Observed.label>
   <NMM_DynamicBubble_MedicalBottom_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_MedicalBottom_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_MedicalBottom_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was tended bottomless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was tended bottomless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]已治疗下着较少没有。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was tended bottomless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was tended bottomless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]当被照料时下着较少没有。</li>
   </NMM_DynamicBubble_MedicalBottom_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing MedicalBottom (dynamic)-->
-  <NMM_DynamicBubble_MedicalBottom_Observer.label>observing MedicalBottom (dynamic)</NMM_DynamicBubble_MedicalBottom_Observer.label>
+  <NMM_DynamicBubble_MedicalBottom_Observer.label>观察医药底 (动态)</NMM_DynamicBubble_MedicalBottom_Observer.label>
   <NMM_DynamicBubble_MedicalBottom_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_MedicalBottom_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_MedicalBottom_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was tended bottomless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was tended bottomless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]已治疗下着较少没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] tended bottomless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] tended bottomless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]已简单处理下着较少没有。</li>
   </NMM_DynamicBubble_MedicalBottom_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed MedicalFullSelf (dynamic)-->
-  <NMM_DynamicBubble_MedicalFullSelf_Observed.label>observed MedicalFullSelf (dynamic)</NMM_DynamicBubble_MedicalFullSelf_Observed.label>
+  <NMM_DynamicBubble_MedicalFullSelf_Observed.label>观察到自己 (充满活力)</NMM_DynamicBubble_MedicalFullSelf_Observed.label>
   <NMM_DynamicBubble_MedicalFullSelf_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_MedicalFullSelf_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_MedicalFullSelf_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was tended self naked.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was tended self naked.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]已自我治疗裸体没有。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was tended self naked.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was tended self naked.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]当被照料时裸体没有。</li>
   </NMM_DynamicBubble_MedicalFullSelf_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing MedicalFullSelf (dynamic)-->
-  <NMM_DynamicBubble_MedicalFullSelf_Observer.label>observing MedicalFullSelf (dynamic)</NMM_DynamicBubble_MedicalFullSelf_Observer.label>
+  <NMM_DynamicBubble_MedicalFullSelf_Observer.label>正在观察 medicalfull sessive (动态)</NMM_DynamicBubble_MedicalFullSelf_Observer.label>
   <NMM_DynamicBubble_MedicalFullSelf_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_MedicalFullSelf_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_MedicalFullSelf_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was tended self naked.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was tended self naked.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]已自我治疗裸体没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] tended self naked.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] tended self naked.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]照顾自己裸体没有。</li>
   </NMM_DynamicBubble_MedicalFullSelf_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed MedicalFull (dynamic)-->
-  <NMM_DynamicBubble_MedicalFull_Observed.label>observed MedicalFull (dynamic)</NMM_DynamicBubble_MedicalFull_Observed.label>
+  <NMM_DynamicBubble_MedicalFull_Observed.label>观察到医药完全 (动态的)</NMM_DynamicBubble_MedicalFull_Observed.label>
   <NMM_DynamicBubble_MedicalFull_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_MedicalFull_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_MedicalFull_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was tended naked.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was tended naked.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]已治疗裸体没有。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was tended naked.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was tended naked.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]当被照料时裸体没有。</li>
   </NMM_DynamicBubble_MedicalFull_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing MedicalFull (dynamic)-->
-  <NMM_DynamicBubble_MedicalFull_Observer.label>observing MedicalFull (dynamic)</NMM_DynamicBubble_MedicalFull_Observer.label>
+  <NMM_DynamicBubble_MedicalFull_Observer.label>观察医药完全 (动态)</NMM_DynamicBubble_MedicalFull_Observer.label>
   <NMM_DynamicBubble_MedicalFull_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_MedicalFull_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_MedicalFull_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was tended naked.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was tended naked.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]已治疗裸体没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] tended naked.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] tended naked.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]已简单处理裸体没有。</li>
   </NMM_DynamicBubble_MedicalFull_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed MedicalTopSelf (dynamic)-->
-  <NMM_DynamicBubble_MedicalTopSelf_Observed.label>observed MedicalTopSelf (dynamic)</NMM_DynamicBubble_MedicalTopSelf_Observed.label>
+  <NMM_DynamicBubble_MedicalTopSelf_Observed.label>观察到自己 (动态)</NMM_DynamicBubble_MedicalTopSelf_Observed.label>
   <NMM_DynamicBubble_MedicalTopSelf_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_MedicalTopSelf_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_MedicalTopSelf_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was tended self topless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was tended self topless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]已自我治疗上着较少没有。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was tended self topless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was tended self topless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]当被照料时上着较少没有。</li>
   </NMM_DynamicBubble_MedicalTopSelf_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing MedicalTopSelf (dynamic)-->
-  <NMM_DynamicBubble_MedicalTopSelf_Observer.label>observing MedicalTopSelf (dynamic)</NMM_DynamicBubble_MedicalTopSelf_Observer.label>
+  <NMM_DynamicBubble_MedicalTopSelf_Observer.label>观察自身 (动态)</NMM_DynamicBubble_MedicalTopSelf_Observer.label>
   <NMM_DynamicBubble_MedicalTopSelf_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_MedicalTopSelf_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_MedicalTopSelf_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was tended self topless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was tended self topless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]已自我治疗上着较少没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] tended self topless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] tended self topless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]照顾自己上着较少没有。</li>
   </NMM_DynamicBubble_MedicalTopSelf_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed MedicalTop (dynamic)-->
-  <NMM_DynamicBubble_MedicalTop_Observed.label>observed MedicalTop (dynamic)</NMM_DynamicBubble_MedicalTop_Observed.label>
+  <NMM_DynamicBubble_MedicalTop_Observed.label>已观察到 MedicalTop (动态)</NMM_DynamicBubble_MedicalTop_Observed.label>
   <NMM_DynamicBubble_MedicalTop_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_MedicalTop_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_MedicalTop_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was tended topless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was tended topless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]已治疗上着较少没有。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was tended topless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was tended topless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]当被照料时上着较少没有。</li>
   </NMM_DynamicBubble_MedicalTop_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing MedicalTop (dynamic)-->
-  <NMM_DynamicBubble_MedicalTop_Observer.label>observing MedicalTop (dynamic)</NMM_DynamicBubble_MedicalTop_Observer.label>
+  <NMM_DynamicBubble_MedicalTop_Observer.label>观察 MedicalTop (动态)</NMM_DynamicBubble_MedicalTop_Observer.label>
   <NMM_DynamicBubble_MedicalTop_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_MedicalTop_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_MedicalTop_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was tended topless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was tended topless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]已治疗上着较少没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] tended topless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] tended topless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]已简单处理上着较少没有。</li>
   </NMM_DynamicBubble_MedicalTop_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Milk (dynamic)-->
-  <NMM_DynamicBubble_Milk_Observed.label>observed Milk (dynamic)</NMM_DynamicBubble_Milk_Observed.label>
+  <NMM_DynamicBubble_Milk_Observed.label>观察到产物 (动态)</NMM_DynamicBubble_Milk_Observed.label>
   <NMM_DynamicBubble_Milk_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Milk_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Milk_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was milked by someone.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was milked by someone.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]被某人产出。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was milked by someone.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was milked by someone.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]被人收取时。</li>
   </NMM_DynamicBubble_Milk_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Milk (dynamic)-->
-  <NMM_DynamicBubble_Milk_Observer.label>observing Milk (dynamic)</NMM_DynamicBubble_Milk_Observer.label>
+  <NMM_DynamicBubble_Milk_Observer.label>观察产物 (动态)</NMM_DynamicBubble_Milk_Observer.label>
   <NMM_DynamicBubble_Milk_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Milk_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Milk_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was milked by someone.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was milked by someone.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]被某人产出。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] breasts, milked by someone.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] breasts, milked by someone.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]乳房,由某人收取。</li>
   </NMM_DynamicBubble_Milk_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed naked (dynamic)-->
-  <NMM_DynamicBubble_Naked_Observed.label>observed naked (dynamic)</NMM_DynamicBubble_Naked_Observed.label>
+  <NMM_DynamicBubble_Naked_Observed.label>观察到裸体(动态)</NMM_DynamicBubble_Naked_Observed.label>
   <NMM_DynamicBubble_Naked_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Naked_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Naked_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was naked.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was naked.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾经裸体没有。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while naked.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while naked.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]期间裸体没有。</li>
   </NMM_DynamicBubble_Naked_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing naked (dynamic)-->
-  <NMM_DynamicBubble_Naked_Observer.label>observing naked (dynamic)</NMM_DynamicBubble_Naked_Observer.label>
+  <NMM_DynamicBubble_Naked_Observer.label>观察裸体(动态)</NMM_DynamicBubble_Naked_Observer.label>
   <NMM_DynamicBubble_Naked_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Naked_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Naked_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] naked.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] naked.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]裸体没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] nudity.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] nudity.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]裸露。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] heard [RECIPIENT_nameDef] comment on being seen nude.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] heard [RECIPIENT_nameDef] comment on being seen nude.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]听过[RECIPIENT_nameDef]对看见的评价裸体没有。</li>
   </NMM_DynamicBubble_Naked_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed NipSlip (dynamic)-->
-  <NMM_DynamicBubble_NipSlip_Observed.label>observed NipSlip (dynamic)</NMM_DynamicBubble_NipSlip_Observed.label>
+  <NMM_DynamicBubble_NipSlip_Observed.label>观察到钳子打滑 (动态)</NMM_DynamicBubble_NipSlip_Observed.label>
   <NMM_DynamicBubble_NipSlip_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_NipSlip_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_NipSlip_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was with nipple out.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was with nipple out.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾与乳头出去。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was with nipple uncovered.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was with nipple uncovered.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]陪在身边乳头暴露在外。</li>
   </NMM_DynamicBubble_NipSlip_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing NipSlip (dynamic)-->
-  <NMM_DynamicBubble_NipSlip_Observer.label>observing NipSlip (dynamic)</NMM_DynamicBubble_NipSlip_Observer.label>
+  <NMM_DynamicBubble_NipSlip_Observer.label>观察蹒跚怪 (动态)</NMM_DynamicBubble_NipSlip_Observer.label>
   <NMM_DynamicBubble_NipSlip_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_NipSlip_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_NipSlip_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] with nipple out.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] with nipple out.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]伴乳头出去。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] with nipple uncovered.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] with nipple uncovered.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]伴乳头暴露在外。</li>
   </NMM_DynamicBubble_NipSlip_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Rape (dynamic)-->
-  <NMM_DynamicBubble_Rape_Observed.label>observed Rape (dynamic)</NMM_DynamicBubble_Rape_Observed.label>
+  <NMM_DynamicBubble_Rape_Observed.label>观察到强迫或非自愿性行为。(动态)</NMM_DynamicBubble_Rape_Observed.label>
   <NMM_DynamicBubble_Rape_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Rape_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Rape_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was raping someone.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was raping someone.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾经强迫或非自愿性行为。有人。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was raping someone.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was raping someone.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]虽然是强迫或非自愿性行为。有人。</li>
   </NMM_DynamicBubble_Rape_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Rape (dynamic)-->
-  <NMM_DynamicBubble_Rape_Observer.label>observing Rape (dynamic)</NMM_DynamicBubble_Rape_Observer.label>
+  <NMM_DynamicBubble_Rape_Observer.label>观察强迫或非自愿性行为。(动态)</NMM_DynamicBubble_Rape_Observer.label>
   <NMM_DynamicBubble_Rape_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Rape_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Rape_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] raping someone.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] raping someone.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]强迫或非自愿性行为。有人。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] in the middle of rape.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] in the middle of rape.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]在强迫或非自愿性行为。没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] heard [RECIPIENT_nameDef] comment on being seen raping someone.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] heard [RECIPIENT_nameDef] comment on being seen raping someone.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]听过[RECIPIENT_nameDef]对看见的评价强迫或非自愿性行为。有人。</li>
   </NMM_DynamicBubble_Rape_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Raped (dynamic)-->
-  <NMM_DynamicBubble_Raped_Observed.label>observed Raped (dynamic)</NMM_DynamicBubble_Raped_Observed.label>
+  <NMM_DynamicBubble_Raped_Observed.label>观察到被强迫或非自愿性行为。(动态)</NMM_DynamicBubble_Raped_Observed.label>
   <NMM_DynamicBubble_Raped_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Raped_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Raped_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was raped.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was raped.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾经被强迫或非自愿性行为。没有。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was raped.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was raped.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]虽然是被强迫或非自愿性行为。没有。</li>
   </NMM_DynamicBubble_Raped_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Raped (dynamic)-->
-  <NMM_DynamicBubble_Raped_Observer.label>observing Raped (dynamic)</NMM_DynamicBubble_Raped_Observer.label>
+  <NMM_DynamicBubble_Raped_Observer.label>观察被强迫或非自愿性行为。(动态)</NMM_DynamicBubble_Raped_Observer.label>
   <NMM_DynamicBubble_Raped_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Raped_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Raped_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was raped by someone.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was raped by someone.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]曾经被强迫或非自愿性行为。被某人杀害。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] in the middle of being raped.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] in the middle of being raped.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]正在成为被强迫或非自愿性行为。没有。</li>
   </NMM_DynamicBubble_Raped_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Sauna (dynamic)-->
-  <NMM_DynamicBubble_Sauna_Observed.label>observed Sauna (dynamic)</NMM_DynamicBubble_Sauna_Observed.label>
+  <NMM_DynamicBubble_Sauna_Observed.label>桑拿 (动态)</NMM_DynamicBubble_Sauna_Observed.label>
   <NMM_DynamicBubble_Sauna_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Sauna_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Sauna_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was using sauna.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was using sauna.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]正在使用桑拿。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was using sauna.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was using sauna.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]使用桑拿浴室时。</li>
   </NMM_DynamicBubble_Sauna_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Sauna (dynamic)-->
-  <NMM_DynamicBubble_Sauna_Observer.label>observing Sauna (dynamic)</NMM_DynamicBubble_Sauna_Observer.label>
+  <NMM_DynamicBubble_Sauna_Observer.label>观察桑拿 (动态)</NMM_DynamicBubble_Sauna_Observer.label>
   <NMM_DynamicBubble_Sauna_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Sauna_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Sauna_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was using sauna.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was using sauna.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]正在使用桑拿。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] using sauna.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] using sauna.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]使用桑拿。</li>
   </NMM_DynamicBubble_Sauna_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed SelfMilk (dynamic)-->
-  <NMM_DynamicBubble_SelfMilk_Observed.label>observed SelfMilk (dynamic)</NMM_DynamicBubble_SelfMilk_Observed.label>
+  <NMM_DynamicBubble_SelfMilk_Observed.label>观察到自己的乳汁 (动态)</NMM_DynamicBubble_SelfMilk_Observed.label>
   <NMM_DynamicBubble_SelfMilk_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_SelfMilk_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_SelfMilk_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was milking self.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was milking self.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾经挤奶自己。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was selfmilking.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was selfmilking.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]在自己收取产物时。</li>
   </NMM_DynamicBubble_SelfMilk_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing SelfMilk (dynamic)-->
-  <NMM_DynamicBubble_SelfMilk_Observer.label>observing SelfMilk (dynamic)</NMM_DynamicBubble_SelfMilk_Observer.label>
+  <NMM_DynamicBubble_SelfMilk_Observer.label>观察乳房喷出液体（通常是乳汁）。是挤奶的前置标签。 (动态)</NMM_DynamicBubble_SelfMilk_Observer.label>
   <NMM_DynamicBubble_SelfMilk_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_SelfMilk_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_SelfMilk_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] milking self.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] milking self.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]挤奶自己。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] milked self.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] milked self.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]收取产量。</li>
   </NMM_DynamicBubble_SelfMilk_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Sex (dynamic)-->
-  <NMM_DynamicBubble_Sex_Observed.label>observed Sex (dynamic)</NMM_DynamicBubble_Sex_Observed.label>
+  <NMM_DynamicBubble_Sex_Observed.label>观察到性交(动态)</NMM_DynamicBubble_Sex_Observed.label>
   <NMM_DynamicBubble_Sex_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Sex_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Sex_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] had sex.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] had sex.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾拥有性交没有。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while participating in sex.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while participating in sex.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]同时参与性交没有。</li>
   </NMM_DynamicBubble_Sex_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Sex (dynamic)-->
-  <NMM_DynamicBubble_Sex_Observer.label>observing Sex (dynamic)</NMM_DynamicBubble_Sex_Observer.label>
+  <NMM_DynamicBubble_Sex_Observer.label>观察性交(动态)</NMM_DynamicBubble_Sex_Observer.label>
   <NMM_DynamicBubble_Sex_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Sex_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Sex_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] having sex.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] having sex.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]有性交没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] in the middle of having sex.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] in the middle of having sex.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]正在进行中。性交没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] heard [RECIPIENT_nameDef] comment on being seen doing sex.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] heard [RECIPIENT_nameDef] comment on being seen doing sex.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]听过[RECIPIENT_nameDef]评论被看见在做什么性交没有。</li>
   </NMM_DynamicBubble_Sex_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Shower (dynamic)-->
-  <NMM_DynamicBubble_Shower_Observed.label>observed Shower (dynamic)</NMM_DynamicBubble_Shower_Observed.label>
+  <NMM_DynamicBubble_Shower_Observed.label>淋浴 (动态)</NMM_DynamicBubble_Shower_Observed.label>
   <NMM_DynamicBubble_Shower_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Shower_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Shower_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was showering.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was showering.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]正在洗澡。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was showering.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was showering.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]在淋浴时。</li>
   </NMM_DynamicBubble_Shower_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Shower (dynamic)-->
-  <NMM_DynamicBubble_Shower_Observer.label>observing Shower (dynamic)</NMM_DynamicBubble_Shower_Observer.label>
+  <NMM_DynamicBubble_Shower_Observer.label>观察淋浴 (动态)</NMM_DynamicBubble_Shower_Observer.label>
   <NMM_DynamicBubble_Shower_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Shower_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Shower_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was showering.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was showering.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]正在洗澡。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] showering.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] showering.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]正在洗澡。</li>
   </NMM_DynamicBubble_Shower_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Surgery (dynamic)-->
-  <NMM_DynamicBubble_Surgery_Observed.label>observed Surgery (dynamic)</NMM_DynamicBubble_Surgery_Observed.label>
+  <NMM_DynamicBubble_Surgery_Observed.label>观察到的手术 (动态)</NMM_DynamicBubble_Surgery_Observed.label>
   <NMM_DynamicBubble_Surgery_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Surgery_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Surgery_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was naked on surgeon table.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was naked on surgeon table.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾经裸体在外科医生手术台上。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was naked on surgeon table.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was naked on surgeon table.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]虽然是裸体在外科医生手术台上。</li>
   </NMM_DynamicBubble_Surgery_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Surgery (dynamic)-->
-  <NMM_DynamicBubble_Surgery_Observer.label>observing Surgery (dynamic)</NMM_DynamicBubble_Surgery_Observer.label>
+  <NMM_DynamicBubble_Surgery_Observer.label>观察手术 (动态)</NMM_DynamicBubble_Surgery_Observer.label>
   <NMM_DynamicBubble_Surgery_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Surgery_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Surgery_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was naked on surgeon table.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was naked on surgeon table.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]曾经裸体在外科医生手术台上。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] naked on surgeon table.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] naked on surgeon table.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]裸体在外科医生手术台上。</li>
   </NMM_DynamicBubble_Surgery_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Swimming (dynamic)-->
-  <NMM_DynamicBubble_Swimming_Observed.label>observed Swimming (dynamic)</NMM_DynamicBubble_Swimming_Observed.label>
+  <NMM_DynamicBubble_Swimming_Observed.label>游泳 (动态)</NMM_DynamicBubble_Swimming_Observed.label>
   <NMM_DynamicBubble_Swimming_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Swimming_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Swimming_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was swimming.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was swimming.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]正在游泳。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was swimming.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was swimming.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]游泳时。</li>
   </NMM_DynamicBubble_Swimming_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Swimming (dynamic)-->
-  <NMM_DynamicBubble_Swimming_Observer.label>observing Swimming (dynamic)</NMM_DynamicBubble_Swimming_Observer.label>
+  <NMM_DynamicBubble_Swimming_Observer.label>游泳观察 (动态)</NMM_DynamicBubble_Swimming_Observer.label>
   <NMM_DynamicBubble_Swimming_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Swimming_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Swimming_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was swimming.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] was swimming.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]正在游泳。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] swimming.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] swimming.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]正在游泳。</li>
   </NMM_DynamicBubble_Swimming_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed Topless (dynamic)-->
-  <NMM_DynamicBubble_Topless_Observed.label>observed Topless (dynamic)</NMM_DynamicBubble_Topless_Observed.label>
+  <NMM_DynamicBubble_Topless_Observed.label>观察到上着较少(动态)</NMM_DynamicBubble_Topless_Observed.label>
   <NMM_DynamicBubble_Topless_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Topless_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Topless_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was topless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was topless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]曾经上着较少没有。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while topless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while topless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]期间上着较少没有。</li>
   </NMM_DynamicBubble_Topless_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing Topless (dynamic)-->
-  <NMM_DynamicBubble_Topless_Observer.label>observing Topless (dynamic)</NMM_DynamicBubble_Topless_Observer.label>
+  <NMM_DynamicBubble_Topless_Observer.label>观察上着较少(动态)</NMM_DynamicBubble_Topless_Observer.label>
   <NMM_DynamicBubble_Topless_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_Topless_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_Topless_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] topless.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] topless.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]上着较少没有。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] topless state.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] topless state.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]上着较少状态。</li>
   </NMM_DynamicBubble_Topless_Observer.logRulesRecipient.rulesStrings>
   <!--EN: observed WetShirt (dynamic)-->
-  <NMM_DynamicBubble_WetShirt_Observed.label>observed WetShirt (dynamic)</NMM_DynamicBubble_WetShirt_Observed.label>
+  <NMM_DynamicBubble_WetShirt_Observed.label>观察到潜水衣 (动态)</NMM_DynamicBubble_WetShirt_Observed.label>
   <NMM_DynamicBubble_WetShirt_Observed.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_WetShirt_Observed.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_WetShirt_Observed.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was in wet seetrough top.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was [seen_by] [RECIPIENT_nameDef], while [INITIATOR_pronoun] was in wet seetrough top.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]曾经[seen_by][RECIPIENT_nameDef],虽然[INITIATOR_pronoun]处于潮湿的 sessive 顶部。</li>
     <!--EN: seen_by->observed by-->
-    <li>seen_by-&gt;observed by</li>
+    <li>seen_by-&gt;观察到</li>
     <!--EN: seen_by->seen by-->
-    <li>seen_by-&gt;seen by</li>
+    <li>seen_by-&gt;看见</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was with wet shirt.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] was noticed by [RECIPIENT_nameDef] while was with wet shirt.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]被注意到[RECIPIENT_nameDef]穿着湿衬衫的时候。</li>
   </NMM_DynamicBubble_WetShirt_Observed.logRulesRecipient.rulesStrings>
   <!--EN: observing WetShirt (dynamic)-->
-  <NMM_DynamicBubble_WetShirt_Observer.label>observing WetShirt (dynamic)</NMM_DynamicBubble_WetShirt_Observer.label>
+  <NMM_DynamicBubble_WetShirt_Observer.label>观察潜水衣 (动态)</NMM_DynamicBubble_WetShirt_Observer.label>
   <NMM_DynamicBubble_WetShirt_Observer.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[NMM_DYNAMIC_OPINION_TEXT]-->
     <li>r_logentry-&gt;[NMM_DYNAMIC_OPINION_TEXT]</li>
   </NMM_DynamicBubble_WetShirt_Observer.logRulesInitiator.rulesStrings>
   <NMM_DynamicBubble_WetShirt_Observer.logRulesRecipient.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] saw [RECIPIENT_nameDef] in wet seetrough top.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] saw [RECIPIENT_nameDef] in wet seetrough top.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]锯子[RECIPIENT_nameDef]在潮湿的水槽顶部。</li>
     <!--EN: r_logentry->[INITIATOR_nameDef] observed [RECIPIENT_nameDef] breasts in wet shirt.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef] observed [RECIPIENT_nameDef] breasts in wet shirt.</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]观察到[RECIPIENT_nameDef]乳房穿着湿衬衫。</li>
   </NMM_DynamicBubble_WetShirt_Observer.logRulesRecipient.rulesStrings>
 </LanguageData>

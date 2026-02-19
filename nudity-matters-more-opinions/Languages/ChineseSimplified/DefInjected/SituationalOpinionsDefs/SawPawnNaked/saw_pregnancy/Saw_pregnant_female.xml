@@ -1,201 +1,201 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Saw_pregnant_female_Trimester_Second(Negative)-->
-  <Saw_pregnant_female_Trimester_Second_Negative.label>Saw_pregnant_female_Trimester_Second(Negative)</Saw_pregnant_female_Trimester_Second_Negative.label>
+  <Saw_pregnant_female_Trimester_Second_Negative.label>Saw_怀孕_female_Trimester_Second(Negative)</Saw_pregnant_female_Trimester_Second_Negative.label>
   <Saw_pregnant_female_Trimester_Second_Negative.opinionTexts>
     <!--EN: Seeing {PAWN_nameShort} naked made me uncomfortable; the pronounced belly and breasts weren’t appealing to me.-->
-    <li>Seeing {PAWN_nameShort} naked made me uncomfortable; the pronounced belly and breasts weren’t appealing to me.</li>
+    <li>看见{PAWN_nameShort}裸体让我很不舒服; 明显的肚子和乳房对我没有吸引力。</li>
     <!--EN: {PAWN_nameShort} walked by naked, and the obvious changes in {PAWN_possessive} body felt unsettling.-->
-    <li>{PAWN_nameShort} walked by naked, and the obvious changes in {PAWN_possessive} body felt unsettling.</li>
+    <li>{PAWN_nameShort}路过裸体,而明显的变化为{PAWN_possessive}身体感到不安。</li>
     <!--EN: The sight of {PAWN_nameShort} unclothed, with {PAWN_possessive} noticeable pregnancy, left me feeling uneasy.-->
-    <li>The sight of {PAWN_nameShort} unclothed, with {PAWN_possessive} noticeable pregnancy, left me feeling uneasy.</li>
+    <li>看见{PAWN_nameShort}未着衣，带有{PAWN_possessive}明显的怀孕让我感到不安。</li>
     <!--EN: I couldn't help but stare as {PAWN_nameShort}, {PAWN_possessive} second trimester belly round and full, sauntered past me, completely nude and unashamed.-->
-    <li>I couldn&apos;t help but stare as {PAWN_nameShort}, {PAWN_possessive} second trimester belly round and full, sauntered past me, completely nude and unashamed.</li>
+    <li>我忍不住瞪大眼睛，因为{PAWN_nameShort},{PAWN_possessive}怀孕中期，肚子圆而满，从我身边漫步，完全裸体并且毫不羞耻。</li>
     <!--EN: As I caught sight of {PAWN_nameShortPossessive} bare, pregnant form, I couldn't help but feel a twinge of annoyance at {PAWN_possessive} blatant disregard for modesty.-->
-    <li>As I caught sight of {PAWN_nameShortPossessive} bare, pregnant form, I couldn&apos;t help but feel a twinge of annoyance at {PAWN_possessive} blatant disregard for modesty.</li>
+    <li>正如我被发现看见{PAWN_nameShortPossessive}裸露,怀孕形，我不禁感到一阵恼怒{PAWN_possessive}公然无视谦逊。</li>
     <!--EN: I watched with a mix of confusion and irritation as {PAWN_nameShort}, {PAWN_possessive} breasts swollen with pregnancy, walked by, totally exposed.-->
-    <li>I watched with a mix of confusion and irritation as {PAWN_nameShort}, {PAWN_possessive} breasts swollen with pregnancy, walked by, totally exposed.</li>
+    <li>我茫然而愤怒地看着{PAWN_nameShort},{PAWN_possessive}乳房怀孕肿了，路过，完全暴露没有。</li>
     <!--EN: I couldn't believe my eyes as {PAWN_nameShort} strolled into the room, {PAWN_possessive} naked body on display, {PAWN_possessive} belly just beginning to show the signs of {PAWN_possessive} second trimester.-->
-    <li>I couldn&apos;t believe my eyes as {PAWN_nameShort} strolled into the room, {PAWN_possessive} naked body on display, {PAWN_possessive} belly just beginning to show the signs of {PAWN_possessive} second trimester.</li>
+    <li>我简直不敢相信我的眼睛因{PAWN_nameShort}漫步走进房间,{PAWN_possessive}裸体展示身体,{PAWN_possessive}腹部刚刚开始显示的迹象:{PAWN_possessive}妊娠中期。</li>
     <!--EN: Incensed, I turned to see {PAWN_nameShort}, {PAWN_possessive} bare breasts and belly on full show, as {PAWN_subjective} waddled past me, {PAWN_possessive} second trimester pregnancy obvious.-->
-    <li>Incensed, I turned to see {PAWN_nameShort}, {PAWN_possessive} bare breasts and belly on full show, as {PAWN_subjective} waddled past me, {PAWN_possessive} second trimester pregnancy obvious.</li>
+    <li>愤怒的我转身看{PAWN_nameShort},{PAWN_possessive}barebreasts和肚子充分展示，作为{PAWN_subjective}从我身边摇曳,{PAWN_possessive}中期妊娠明显。</li>
     <!--EN: I felt a wave of annoyance wash over me as I saw {PAWN_nameShort}, {PAWN_possessive} belly growing with {PAWN_possessive} second trimester, parading around without a stitch of clothing on.-->
-    <li>I felt a wave of annoyance wash over me as I saw {PAWN_nameShort}, {PAWN_possessive} belly growing with {PAWN_possessive} second trimester, parading around without a stitch of clothing on.</li>
+    <li>我看见了，身上的怒火正在向我袭来。{PAWN_nameShort},{PAWN_possessive}长有肚皮{PAWN_possessive}怀孕中期，穿着衣服四处走动。</li>
   </Saw_pregnant_female_Trimester_Second_Negative.opinionTexts>
   <!--EN: Saw_pregnant_female_Trimester_Second(Neutral)-->
-  <Saw_pregnant_female_Trimester_Second_Neutral.label>Saw_pregnant_female_Trimester_Second(Neutral)</Saw_pregnant_female_Trimester_Second_Neutral.label>
+  <Saw_pregnant_female_Trimester_Second_Neutral.label>Saw_怀孕_female_Trimester_Second(Neutral)</Saw_pregnant_female_Trimester_Second_Neutral.label>
   <Saw_pregnant_female_Trimester_Second_Neutral.opinionTexts>
     <!--EN: I saw {PAWN_nameShort} naked; the roundness in {PAWN_possessive} belly was evident, but it didn’t stir any strong feelings in me.-->
-    <li>I saw {PAWN_nameShort} naked; the roundness in {PAWN_possessive} belly was evident, but it didn’t stir any strong feelings in me.</li>
+    <li>我看见了{PAWN_nameShort}裸体; 圆度在{PAWN_possessive}肚子是显而易见的，但它没有激起我任何强烈的感情。</li>
     <!--EN: Meeting {PAWN_nameShort} unclothed, I noticed the changes in {PAWN_possessive} body; it was simply a phase of life, nothing more.-->
-    <li>Meeting {PAWN_nameShort} unclothed, I noticed the changes in {PAWN_possessive} body; it was simply a phase of life, nothing more.</li>
+    <li>相遇{PAWN_nameShort}未着衣时，我注意到{PAWN_possessive}身体; 这只是生命的一个阶段，仅此而已。</li>
     <!--EN: I encountered {PAWN_nameShort} naked, and while the swelling of {PAWN_possessive} breasts was noticeable, I remained indifferent.-->
-    <li>I encountered {PAWN_nameShort} naked, and while the swelling of {PAWN_possessive} breasts was noticeable, I remained indifferent.</li>
+    <li>我遇到{PAWN_nameShort}裸体,并且当{PAWN_possessive}乳房引人注目的是，我仍然漠不关心。</li>
     <!--EN: As I caught a glimpse of {PAWN_possessive}, I noticed {PAWN_nameShort} walking confidently down the hallway, {PAWN_possessive} bare skin on full display, {PAWN_possessive} breasts slightly swollen and {PAWN_possessive} belly rounded, a clear indication of {PAWN_possessive} second trimester pregnancy. My gaze lingered for a moment, but I didn't feel any particular spark of interest, just a neutral observation.-->
-    <li>As I caught a glimpse of {PAWN_possessive}, I noticed {PAWN_nameShort} walking confidently down the hallway, {PAWN_possessive} bare skin on full display, {PAWN_possessive} breasts slightly swollen and {PAWN_possessive} belly rounded, a clear indication of {PAWN_possessive} second trimester pregnancy. My gaze lingered for a moment, but I didn&apos;t feel any particular spark of interest, just a neutral observation.</li>
+    <li>正如我被发现瞥见{PAWN_possessive},我注意到{PAWN_nameShort}信心十足地走在走廊上,{PAWN_possessive}裸露充分展示皮肤,{PAWN_possessive}乳房有点肿{PAWN_possessive}腹部圆润的，清晰的迹象表明{PAWN_possessive}妊娠中期。我的凝视徘徊在瞬间,但我并没有感到什么特别的兴趣，只是一个中立的观察。</li>
     <!--EN: I saw {PAWN_nameShort} stroll into the room, completely naked, {PAWN_possessive} pregnant belly jutting out in front of {PAWN_possessive}, {PAWN_possessive} breasts looking fuller than usual. I raised an eyebrow, not in surprise, but rather in mild curiosity, my mind making a detached note of {PAWN_possessive} appearance.-->
-    <li>I saw {PAWN_nameShort} stroll into the room, completely naked, {PAWN_possessive} pregnant belly jutting out in front of {PAWN_possessive}, {PAWN_possessive} breasts looking fuller than usual. I raised an eyebrow, not in surprise, but rather in mild curiosity, my mind making a detached note of {PAWN_possessive} appearance.</li>
+    <li>我看见了{PAWN_nameShort}完全走进房间裸体,{PAWN_possessive}怀孕腹部突出{PAWN_possessive},{PAWN_possessive}乳房看起来比平时更满了。我挑了挑眉毛，并不意外，更多的是出于对事物的好奇。{PAWN_possessive}外观。</li>
     <!--EN: My eyes followed {PAWN_nameShort} as {PAWN_subjective} walked by, {PAWN_possessive} naked body on full display, {PAWN_possessive} pregnancy evident in the curve of {PAWN_possessive} belly and the swell of {PAWN_possessive} breasts. I felt a fleeting sense of awareness, but no strong emotions, just a matter-of-fact acknowledgment of {PAWN_possessive} state.-->
-    <li>My eyes followed {PAWN_nameShort} as {PAWN_subjective} walked by, {PAWN_possessive} naked body on full display, {PAWN_possessive} pregnancy evident in the curve of {PAWN_possessive} belly and the swell of {PAWN_possessive} breasts. I felt a fleeting sense of awareness, but no strong emotions, just a matter-of-fact acknowledgment of {PAWN_possessive} state.</li>
+    <li>我的眼睛紧随其后{PAWN_nameShort}机械体{PAWN_subjective}路过时,{PAWN_possessive}裸体身体正在充分展示中,{PAWN_possessive}妊娠曲线清晰可见。{PAWN_possessive}大肚子{PAWN_possessive}乳房没有。我感觉到了一种短暂的意识，但没有强烈的情感，只是对{PAWN_possessive}状态。</li>
     <!--EN: As {PAWN_nameShort} passed by me, I couldn't help but notice {PAWN_possessive} naked form, {PAWN_possessive} second trimester pregnancy obvious in the rounded shape of {PAWN_possessive} belly and the slight enlargement of {PAWN_possessive} breasts. My reaction was muted, just a quiet observation without any significant emotional resonance.-->
-    <li>As {PAWN_nameShort} passed by me, I couldn&apos;t help but notice {PAWN_possessive} naked form, {PAWN_possessive} second trimester pregnancy obvious in the rounded shape of {PAWN_possessive} belly and the slight enlargement of {PAWN_possessive} breasts. My reaction was muted, just a quiet observation without any significant emotional resonance.</li>
+    <li>机械体{PAWN_nameShort}从我身边经过，我不禁注意到{PAWN_possessive}裸体形态{PAWN_possessive}妊娠中期明显的圆润形态。{PAWN_possessive}腹部和轻微增大{PAWN_possessive}乳房没有。我的反应很微弱，只是安静的观察，没有任何明显的情感共鸣。</li>
     <!--EN: I was aware of {PAWN_nameShortPossessive} presence as {PAWN_subjective} entered the room, {PAWN_possessive} naked body gleaming in the light, {PAWN_possessive} pregnant belly and breasts on full display. My thoughts barely registered the sight, just a brief, almost-disinterested flicker of awareness before I moved on to other things.-->
-    <li>I was aware of {PAWN_nameShortPossessive} presence as {PAWN_subjective} entered the room, {PAWN_possessive} naked body gleaming in the light, {PAWN_possessive} pregnant belly and breasts on full display. My thoughts barely registered the sight, just a brief, almost-disinterested flicker of awareness before I moved on to other things.</li>
+    <li>我知道{PAWN_nameShortPossessive}存在于{PAWN_subjective}走进房间,{PAWN_possessive}裸体身体在阳光下闪闪发光,{PAWN_possessive}怀孕腹部和乳房充分展示。在我转向其他事物之前，我的思想几乎无法改变，只是短暂的、近乎漠视的意识闪光。</li>
     <!--EN: {PAWN_nameShortPossessive} naked figure caught my attention as {PAWN_subjective} moved through the space, {PAWN_possessive} second trimester pregnancy visible in the gentle curve of {PAWN_possessive} belly and the subtle swell of {PAWN_possessive} breasts. My gaze was neutral, unaccompanied by any strong feelings or reactions, just a calm, observational awareness.-->
-    <li>{PAWN_nameShortPossessive} naked figure caught my attention as {PAWN_subjective} moved through the space, {PAWN_possessive} second trimester pregnancy visible in the gentle curve of {PAWN_possessive} belly and the subtle swell of {PAWN_possessive} breasts. My gaze was neutral, unaccompanied by any strong feelings or reactions, just a calm, observational awareness.</li>
+    <li>{PAWN_nameShortPossessive}裸体图形被发现我的注意力如同{PAWN_subjective}在整个空间中移动,{PAWN_possessive}中期妊娠曲线平缓{PAWN_possessive}腹部和轻微的肿胀{PAWN_possessive}乳房没有。我的目光是中立的，没有任何强烈的感觉或反应，只是一种冷静的观察意识。</li>
   </Saw_pregnant_female_Trimester_Second_Neutral.opinionTexts>
   <!--EN: Saw_pregnant_female_Trimester_Second(Positive)-->
-  <Saw_pregnant_female_Trimester_Second_Positive.label>Saw_pregnant_female_Trimester_Second(Positive)</Saw_pregnant_female_Trimester_Second_Positive.label>
+  <Saw_pregnant_female_Trimester_Second_Positive.label>Saw_怀孕_female_Trimester_Second(Positive)</Saw_pregnant_female_Trimester_Second_Positive.label>
   <Saw_pregnant_female_Trimester_Second_Positive.opinionTexts>
     <!--EN: Seeing {PAWN_nameShort} naked, the noticeable roundness of {PAWN_possessive} belly was utterly enchanting; I couldn’t look away.-->
-    <li>Seeing {PAWN_nameShort} naked, the noticeable roundness of {PAWN_possessive} belly was utterly enchanting; I couldn’t look away.</li>
+    <li>看见{PAWN_nameShort}裸体,显著的圆润{PAWN_possessive}肚子非常迷人，我无法转移视线。</li>
     <!--EN: {PAWN_nameShort} walked by naked, and the way {PAWN_possessive} breasts swelled added to the allure; it was mesmerizing.-->
-    <li>{PAWN_nameShort} walked by naked, and the way {PAWN_possessive} breasts swelled added to the allure; it was mesmerizing.</li>
+    <li>{PAWN_nameShort}路过裸体,以及方式{PAWN_possessive}乳房膨胀增加了诱惑; 令人着迷。</li>
     <!--EN: The sight of {PAWN_nameShort} unclothed, with {PAWN_possessive} growing curves, ignited a desire to explore every inch.-->
-    <li>The sight of {PAWN_nameShort} unclothed, with {PAWN_possessive} growing curves, ignited a desire to explore every inch.</li>
+    <li>看见{PAWN_nameShort}未着衣，带有{PAWN_possessive}生长曲线，点燃了欲望探索每一寸土地。</li>
     <!--EN: I found myself captivated, observing {PAWN_nameShortPossessive} mesmerizing form, {PAWN_possessive} second-trimester belly swelling modestly, breasts fuller, as {PAWN_subjective} casually strolled past me, naked and unashamed, {PAWN_possessive} pregnancy radiating an allure that was both lewd and irresistible.-->
-    <li>I found myself captivated, observing {PAWN_nameShortPossessive} mesmerizing form, {PAWN_possessive} second-trimester belly swelling modestly, breasts fuller, as {PAWN_subjective} casually strolled past me, naked and unashamed, {PAWN_possessive} pregnancy radiating an allure that was both lewd and irresistible.</li>
+    <li>我发现自己被迷住了，观察{PAWN_nameShortPossessive}迷人的形体{PAWN_possessive}妊娠中期腹部局部肿胀,乳房富勒，as{PAWN_subjective}从我身边漫步,裸体不知羞耻,{PAWN_possessive}怀孕放射两者兼得的诱惑淫秽的不可抗拒。</li>
     <!--EN: As I caught an unguarded glimpse of {PAWN_nameShort}, bare and heavy with child in {PAWN_possessive} second trimester, I couldn't help but admire {PAWN_possessive} raw, primal beauty; the way {PAWN_possessive} breasts swayed gently, and {PAWN_possessive} belly protruded just enough to entice my most carnal desires.-->
-    <li>As I caught an unguarded glimpse of {PAWN_nameShort}, bare and heavy with child in {PAWN_possessive} second trimester, I couldn&apos;t help but admire {PAWN_possessive} raw, primal beauty; the way {PAWN_possessive} breasts swayed gently, and {PAWN_possessive} belly protruded just enough to entice my most carnal desires.</li>
+    <li>正如我被发现毫无防备的一见{PAWN_nameShort},裸露重型且有孩子在{PAWN_possessive}怀孕中期，我不禁感到钦佩{PAWN_possessive}原始的原始之美; 道路{PAWN_possessive}乳房轻轻摇晃{PAWN_possessive}肚子突出，只够吸引我最大的欲望。</li>
     <!--EN: Noticing {PAWN_nameShortPossessive} second-trimester physique, displayed openly and without hesitation, filled me with a lewd longing, as the sight of {PAWN_possessive} fuller bosom and the slight curve of {PAWN_possessive} belly stirred something deep within me, awakening a fascination I could barely contain.-->
-    <li>Noticing {PAWN_nameShortPossessive} second-trimester physique, displayed openly and without hesitation, filled me with a lewd longing, as the sight of {PAWN_possessive} fuller bosom and the slight curve of {PAWN_possessive} belly stirred something deep within me, awakening a fascination I could barely contain.</li>
+    <li>注意{PAWN_nameShortPossessive}毫不犹豫地公开展示的妊娠中期体格让我充满了淫秽的渴望，如同看见{PAWN_possessive}圆润的胸部和轻微的曲线{PAWN_possessive}肚子搅动了我内心深处的某种东西，唤醒了一种我难以抑制的痴迷。</li>
     <!--EN: I beheld {PAWN_nameShortPossessive} unclothed figure, {PAWN_possessive} belly growing rounder and breasts fuller, now in {PAWN_possessive} second trimester, with a lewd appreciation, unable to tear my gaze from the raw beauty {PAWN_subjective} exuded while moving so unabashedly in {PAWN_possessive} own skin.-->
-    <li>I beheld {PAWN_nameShortPossessive} unclothed figure, {PAWN_possessive} belly growing rounder and breasts fuller, now in {PAWN_possessive} second trimester, with a lewd appreciation, unable to tear my gaze from the raw beauty {PAWN_subjective} exuded while moving so unabashedly in {PAWN_possessive} own skin.</li>
+    <li>我看见{PAWN_nameShortPossessive}未着衣的身影,{PAWN_possessive}越来越圆的肚子和乳房富勒，现在在{PAWN_possessive}妊娠中期淫秽的欣赏，无法将我的视线从原始的美丽中撕裂{PAWN_subjective}在移动中暴露出来{PAWN_possessive}有自己的皮肤。</li>
     <!--EN: In the midst of {PAWN_nameShortPossessive} second-trimester pregnancy, {PAWN_subjective} strode confidently, {PAWN_possessive} bare form igniting a lewd curiosity within me, as {PAWN_possessive} burgeoning belly and ample breasts created an intoxicating vision that lingered in my thoughts.-->
-    <li>In the midst of {PAWN_nameShortPossessive} second-trimester pregnancy, {PAWN_subjective} strode confidently, {PAWN_possessive} bare form igniting a lewd curiosity within me, as {PAWN_possessive} burgeoning belly and ample breasts created an intoxicating vision that lingered in my thoughts.</li>
+    <li>在{PAWN_nameShortPossessive}妊娠中期,{PAWN_subjective}满怀信心地大步走,{PAWN_possessive}裸露窗体点燃一个淫秽的好奇心深入人心，如同{PAWN_possessive}蓬勃发展的腹部和充足的乳房创造了一个醉人的幻象，浮现在我的脑海里。</li>
     <!--EN: With a lewd heat rising within, I watched {PAWN_nameShort}, unashamed and wearing {PAWN_possessive} second-trimester pregnancy proudly, {PAWN_possessive} curves more pronounced than ever, the beauty of {PAWN_possessive} body in its bared state was impossible to ignore—a striking scene that left me breathless.-->
-    <li>With a lewd heat rising within, I watched {PAWN_nameShort}, unashamed and wearing {PAWN_possessive} second-trimester pregnancy proudly, {PAWN_possessive} curves more pronounced than ever, the beauty of {PAWN_possessive} body in its bared state was impossible to ignore—a striking scene that left me breathless.</li>
+    <li>带一个淫秽的我看着室内温度不断上升{PAWN_nameShort},毫不羞耻地穿着{PAWN_possessive}自豪地妊娠中期,{PAWN_possessive}比以往任何时候都更加明显的曲线，美丽的{PAWN_possessive}身体处于暴露状态是不可忽视的 -- 这一引人注目的场景让我无法呼吸。</li>
   </Saw_pregnant_female_Trimester_Second_Positive.opinionTexts>
   <!--EN: Saw_pregnant_female_Trimester_Third(Negative)-->
-  <Saw_pregnant_female_Trimester_Third_Negative.label>Saw_pregnant_female_Trimester_Third(Negative)</Saw_pregnant_female_Trimester_Third_Negative.label>
+  <Saw_pregnant_female_Trimester_Third_Negative.label>Saw_怀孕_female_Trimester_Third(Negative)</Saw_pregnant_female_Trimester_Third_Negative.label>
   <Saw_pregnant_female_Trimester_Third_Negative.opinionTexts>
     <!--EN: Seeing {PAWN_nameShort} naked made me uncomfortable; the size of {PAWN_possessive} belly and breasts was overwhelming.-->
-    <li>Seeing {PAWN_nameShort} naked made me uncomfortable; the size of {PAWN_possessive} belly and breasts was overwhelming.</li>
+    <li>看见{PAWN_nameShort}裸体让我很不舒服; 大小{PAWN_possessive}腹部和乳房难以抵挡。</li>
     <!--EN: {PAWN_nameShort} walked by naked, and the very noticeable pregnancy features felt off-putting to me.-->
-    <li>{PAWN_nameShort} walked by naked, and the very noticeable pregnancy features felt off-putting to me.</li>
+    <li>{PAWN_nameShort}路过裸体非常明显的怀孕特征让我很反感。</li>
     <!--EN: The sight of {PAWN_nameShort} unclothed, with {PAWN_possessive} body at its fullest, left me feeling uneasy.-->
-    <li>The sight of {PAWN_nameShort} unclothed, with {PAWN_possessive} body at its fullest, left me feeling uneasy.</li>
+    <li>看见{PAWN_nameShort}未着衣，带有{PAWN_possessive}身体到了最极致，让我感到不寒而栗。</li>
     <!--EN: I couldn't help but stare as {PAWN_nameShort}, {PAWN_possessive} swollen belly leading the way, paraded through the room, {PAWN_possessive} advanced pregnancy on full display without a stitch of clothing. {PAWN_possessive} breasts, heavy with milk, swung with each step, and I felt a strange mix of annoyance and discomfort at the sight.-->
-    <li>I couldn&apos;t help but stare as {PAWN_nameShort}, {PAWN_possessive} swollen belly leading the way, paraded through the room, {PAWN_possessive} advanced pregnancy on full display without a stitch of clothing. {PAWN_possessive} breasts, heavy with milk, swung with each step, and I felt a strange mix of annoyance and discomfort at the sight.</li>
+    <li>我忍不住瞪大眼睛，因为{PAWN_nameShort},{PAWN_possessive}肚子肿了起来，在领路，在房间里游行,{PAWN_possessive}没有缝制衣物的全面展示晚期妊娠。{PAWN_possessive}乳房随着时间的推移，我的身体变得越来越沉重。</li>
     <!--EN: Spotting {PAWN_nameShort}, bare and pregnant, my heart sank as I took in {PAWN_possessive} rounded belly and pendulous breasts. The sheer audacity of {PAWN_possessive} third trimester nudity filled me with a wave of prudish irritation.-->
-    <li>Spotting {PAWN_nameShort}, bare and pregnant, my heart sank as I took in {PAWN_possessive} rounded belly and pendulous breasts. The sheer audacity of {PAWN_possessive} third trimester nudity filled me with a wave of prudish irritation.</li>
+    <li>识别{PAWN_nameShort},裸露和怀孕,我的心沉了下来{PAWN_possessive}圆腹下垂乳房没有。厚颜无耻的勇气{PAWN_possessive}妊娠晚期的裸露让我感到非常刺激。</li>
     <!--EN: As {PAWN_nameShort} sauntered past me, {PAWN_possessive} naked body glistening with sweat, my annoyance grew. The way {PAWN_possessive} oversized breasts bounced with each step, and {PAWN_possessive} massive belly swung, made me want to cover my eyes.-->
-    <li>As {PAWN_nameShort} sauntered past me, {PAWN_possessive} naked body glistening with sweat, my annoyance grew. The way {PAWN_possessive} oversized breasts bounced with each step, and {PAWN_possessive} massive belly swung, made me want to cover my eyes.</li>
+    <li>机械体{PAWN_nameShort}从我身边漫步,{PAWN_possessive}裸体身上的汗水闪闪发光，我的烦恼愈发加剧。路径{PAWN_possessive}超大乳房每走一步都在弹跳，并且{PAWN_possessive}巨大的腹部摇晃着，让我想遮住眼睛。</li>
     <!--EN: I couldn't believe what I was seeing as {PAWN_nameShort} walked by, {PAWN_possessive} bulging belly and huge breasts exposed. The sight of {PAWN_possessive} in all {PAWN_possessive} pregnant glory filled me with a sense of irritation and discomfort.-->
-    <li>I couldn&apos;t believe what I was seeing as {PAWN_nameShort} walked by, {PAWN_possessive} bulging belly and huge breasts exposed. The sight of {PAWN_possessive} in all {PAWN_possessive} pregnant glory filled me with a sense of irritation and discomfort.</li>
+    <li>我不敢相信我所看到的{PAWN_nameShort}路过时,{PAWN_possessive}鼓鼓囊囊的肚子和巨大的breastsexposed没有。看见{PAWN_possessive}总之{PAWN_possessive}怀孕荣耀让我感到愤怒和不适。</li>
     <!--EN: I watched in disbelief as {PAWN_nameShort}, {PAWN_possessive} body swollen with pregnancy, strutted past me completely nude. {PAWN_possessive} breasts, large and heavy, swung with each step, and I couldn't help but feel a sense of annoyance at the sight.-->
-    <li>I watched in disbelief as {PAWN_nameShort}, {PAWN_possessive} body swollen with pregnancy, strutted past me completely nude. {PAWN_possessive} breasts, large and heavy, swung with each step, and I couldn&apos;t help but feel a sense of annoyance at the sight.</li>
+    <li>我难以置信地看着{PAWN_nameShort},{PAWN_possessive}怀孕肿胀的身体完全从我身边昂首阔步裸体没有。{PAWN_possessive}乳房,又大又重，每一步都摇晃着，一看到它，我就不禁有一种烦恼。</li>
     <!--EN: I was taken aback by the sight of {PAWN_nameShort}, {PAWN_possessive} bare body on full display, {PAWN_possessive} belly enormous and {PAWN_possessive} breasts swollen. The feeling of annoyance and unease washed over me as I took in the scene.-->
-    <li>I was taken aback by the sight of {PAWN_nameShort}, {PAWN_possessive} bare body on full display, {PAWN_possessive} belly enormous and {PAWN_possessive} breasts swollen. The feeling of annoyance and unease washed over me as I took in the scene.</li>
+    <li>我一看到{PAWN_nameShort},{PAWN_possessive}裸露身体正在充分展示中,{PAWN_possessive}巨大的腹部和{PAWN_possessive}乳房肿了。当我看到这个场景时，那种不安和不安的感觉很快就笼罩了我。</li>
   </Saw_pregnant_female_Trimester_Third_Negative.opinionTexts>
   <!--EN: Saw_pregnant_female_Trimester_Third(Neutral)-->
-  <Saw_pregnant_female_Trimester_Third_Neutral.label>Saw_pregnant_female_Trimester_Third(Neutral)</Saw_pregnant_female_Trimester_Third_Neutral.label>
+  <Saw_pregnant_female_Trimester_Third_Neutral.label>Saw_怀孕_female_Trimester_Third(Neutral)</Saw_pregnant_female_Trimester_Third_Neutral.label>
   <Saw_pregnant_female_Trimester_Third_Neutral.opinionTexts>
     <!--EN: I saw {PAWN_nameShort} naked; the prominent belly was hard to miss, but it didn’t evoke any strong emotions.-->
-    <li>I saw {PAWN_nameShort} naked; the prominent belly was hard to miss, but it didn’t evoke any strong emotions.</li>
+    <li>我看见了{PAWN_nameShort}裸体; 隆起的腹部让人很难错过，但并没有唤起任何强烈的情绪。</li>
     <!--EN: Meeting {PAWN_nameShort} unclothed, I noticed how much {PAWN_possessive} body had changed; it was a natural part of life, nothing more.-->
-    <li>Meeting {PAWN_nameShort} unclothed, I noticed how much {PAWN_possessive} body had changed; it was a natural part of life, nothing more.</li>
+    <li>相遇{PAWN_nameShort}未着衣，我注意到多少{PAWN_possessive}身体发生了变化; 这是自然生活的一部分，仅此而已。</li>
     <!--EN: I encountered {PAWN_nameShort} naked, and while the fullness of {PAWN_possessive} form was striking, I felt indifferent.-->
-    <li>I encountered {PAWN_nameShort} naked, and while the fullness of {PAWN_possessive} form was striking, I felt indifferent.</li>
+    <li>我遇到{PAWN_nameShort}裸体,并且当{PAWN_possessive}形式惊人，我感觉漠视。</li>
     <!--EN: As I caught sight of {PAWN_nameShort}, I noticed the full swell of {PAWN_possessive} pregnant belly, {PAWN_possessive} breasts heavier and more rounded than I remembered, and {PAWN_possessive} entire body gloriously naked as {PAWN_subjective} strolled by. My gaze didn't linger, but I couldn't help but register the unselfconscious way {PAWN_subjective} moved, as if {PAWN_possessive} nudity was the most natural thing in the world.-->
-    <li>As I caught sight of {PAWN_nameShort}, I noticed the full swell of {PAWN_possessive} pregnant belly, {PAWN_possessive} breasts heavier and more rounded than I remembered, and {PAWN_possessive} entire body gloriously naked as {PAWN_subjective} strolled by. My gaze didn&apos;t linger, but I couldn&apos;t help but register the unselfconscious way {PAWN_subjective} moved, as if {PAWN_possessive} nudity was the most natural thing in the world.</li>
+    <li>正如我被发现看见{PAWN_nameShort},我注意到{PAWN_possessive}怀孕收腹,{PAWN_possessive}乳房比我记忆中的更重，更圆，和{PAWN_possessive}整个身体荣耀裸体机械体{PAWN_subjective}从这里漫步。我的目光并没有逗留，但我不禁记录下了那股失去知觉的方式{PAWN_subjective}移动中，仿佛{PAWN_possessive}裸露是世界上最自然的事情。</li>
     <!--EN: I was examining the room when my eyes landed on {PAWN_nameShort}, {PAWN_possessive} pregnant form undressed and unapologetic, {PAWN_possessive} breasts and belly a testament to the life growing within {PAWN_possessive}. I felt a fleeting sense of curiosity, but no real surprise or interest, as if {PAWN_possessive} nakedness was simply a fact of the situation.-->
-    <li>I was examining the room when my eyes landed on {PAWN_nameShort}, {PAWN_possessive} pregnant form undressed and unapologetic, {PAWN_possessive} breasts and belly a testament to the life growing within {PAWN_possessive}. I felt a fleeting sense of curiosity, but no real surprise or interest, as if {PAWN_possessive} nakedness was simply a fact of the situation.</li>
+    <li>我正在检查房间，这时我的眼睛落了下来{PAWN_nameShort},{PAWN_possessive}怀孕脱光衣服不自悔,{PAWN_possessive}乳房和肚子里面有生命的遗书{PAWN_possessive}没有。我感到一种短暂的好奇心，但并没有真正的惊奇和兴趣，仿佛{PAWN_possessive}赤裸只是现实情况。</li>
     <!--EN: As I watched, {PAWN_nameShort} padded into the room, {PAWN_possessive} full-term belly leading the way, {PAWN_possessive} breasts and hips swaying gently with each step. I observed {PAWN_possessive} nudity with a detached air, my mind more focused on the conversation we were about to have than on {PAWN_possessive} physical state.-->
-    <li>As I watched, {PAWN_nameShort} padded into the room, {PAWN_possessive} full-term belly leading the way, {PAWN_possessive} breasts and hips swaying gently with each step. I observed {PAWN_possessive} nudity with a detached air, my mind more focused on the conversation we were about to have than on {PAWN_possessive} physical state.</li>
+    <li>当我看着的时候,{PAWN_nameShort}塞进房间,{PAWN_possessive}足月的肚子带路,{PAWN_possessive}乳房和随着脚步轻轻摇晃的臀部。我观察到{PAWN_possessive}裸露和超然的空气，我的思想更关注于我们即将进行的对话{PAWN_possessive}身体状态。</li>
     <!--EN: I noticed {PAWN_nameShortPossessive} approach, {PAWN_possessive} pregnant body bared to the world, {PAWN_possessive} breasts and belly a vivid reminder of the changes {PAWN_subjective} was undergoing. My reaction was muted, a slight flicker of awareness that {PAWN_subjective} was naked, but no emotional response to speak of.-->
-    <li>I noticed {PAWN_nameShortPossessive} approach, {PAWN_possessive} pregnant body bared to the world, {PAWN_possessive} breasts and belly a vivid reminder of the changes {PAWN_subjective} was undergoing. My reaction was muted, a slight flicker of awareness that {PAWN_subjective} was naked, but no emotional response to speak of.</li>
+    <li>我注意到{PAWN_nameShortPossessive}接近时,{PAWN_possessive}怀孕暴露在世界面前,{PAWN_possessive}乳房和肚子的变化生动的提醒{PAWN_subjective}正在进行中。我的反应很微弱，一渐渐意识到{PAWN_subjective}曾经裸体,但没有情绪反应。</li>
     <!--EN: I was seen by {PAWN_nameShort} as {PAWN_subjective} walked into the room, {PAWN_possessive} nudity as apparent as the swollen curve of {PAWN_possessive} belly, {PAWN_possessive} breasts straining against the confines of {PAWN_possessive} skin. My expression remained neutral, a mask of indifference that I'd honed over time.-->
-    <li>I was seen by {PAWN_nameShort} as {PAWN_subjective} walked into the room, {PAWN_possessive} nudity as apparent as the swollen curve of {PAWN_possessive} belly, {PAWN_possessive} breasts straining against the confines of {PAWN_possessive} skin. My expression remained neutral, a mask of indifference that I&apos;d honed over time.</li>
+    <li>我被看见了{PAWN_nameShort}机械体{PAWN_subjective}走进房间,{PAWN_possessive}裸露如浮肿曲线般显而易见{PAWN_possessive}收腹,{PAWN_possessive}乳房与{PAWN_possessive}贴身。我的表情保持中立，一副漠视的面具，是我久而久之磨练出来的。</li>
     <!--EN: As I looked up, I caught sight of {PAWN_nameShort}, {PAWN_possessive} pregnant form a vision of vulnerability and strength, {PAWN_possessive} entire body exposed and yet utterly unremarkable to me. My gaze didn't linger on {PAWN_possessive} nudity, but instead drifted to the conversation we were about to have, my mind already turning to the topics at hand.-->
-    <li>As I looked up, I caught sight of {PAWN_nameShort}, {PAWN_possessive} pregnant form a vision of vulnerability and strength, {PAWN_possessive} entire body exposed and yet utterly unremarkable to me. My gaze didn&apos;t linger on {PAWN_possessive} nudity, but instead drifted to the conversation we were about to have, my mind already turning to the topics at hand.</li>
+    <li>当我抬起头时，我被发现看见{PAWN_nameShort},{PAWN_possessive}怀孕形成脆弱和强大的愿景,{PAWN_possessive}全身暴露然而对我来说微不足道。我的目光没有停留在{PAWN_possessive}裸露，但我的思绪已经转到了我们将要进行的对话上。</li>
   </Saw_pregnant_female_Trimester_Third_Neutral.opinionTexts>
   <!--EN: Saw_pregnant_female_Trimester_Third(Positive)-->
-  <Saw_pregnant_female_Trimester_Third_Positive.label>Saw_pregnant_female_Trimester_Third(Positive)</Saw_pregnant_female_Trimester_Third_Positive.label>
+  <Saw_pregnant_female_Trimester_Third_Positive.label>Saw_怀孕_female_Trimester_Third(Positive)</Saw_pregnant_female_Trimester_Third_Positive.label>
   <Saw_pregnant_female_Trimester_Third_Positive.opinionTexts>
     <!--EN: Seeing {PAWN_nameShort} naked, the full roundness of {PAWN_possessive} belly was breathtaking; I was drawn in completely on {PAWN_possessive} swelling breasts.-->
-    <li>Seeing {PAWN_nameShort} naked, the full roundness of {PAWN_possessive} belly was breathtaking; I was drawn in completely on {PAWN_possessive} swelling breasts.</li>
+    <li>看见{PAWN_nameShort}裸体,全圆度{PAWN_possessive}肚子惊人; 我完全被吸引了{PAWN_possessive}肿胀乳房没有。</li>
     <!--EN: {PAWN_nameShort} walked by naked, and the way {PAWN_possessive} swollen breasts seemed to overflow was intoxicating.-->
-    <li>{PAWN_nameShort} walked by naked, and the way {PAWN_possessive} swollen breasts seemed to overflow was intoxicating.</li>
+    <li>{PAWN_nameShort}路过裸体,以及方式{PAWN_possessive}肿了乳房似乎溢出来了，令人昏昏欲睡。</li>
     <!--EN: The allure of {PAWN_nameShort} naked body in the final stages of pregnancy was a sight that ignited my deepest desires.-->
-    <li>The allure of {PAWN_nameShort} naked body in the final stages of pregnancy was a sight that ignited my deepest desires.</li>
+    <li>的诱惑{PAWN_nameShort}裸体处于怀孕最后阶段的身体是点燃了我最深欲望的景象。</li>
     <!--EN: I beheld {PAWN_nameShort}, {PAWN_possessive} advanced pregnancy on full display, as {PAWN_subjective} ambled by, {PAWN_possessive} swollen breasts and belly impossible to ignore, leaving me thunderstruck by the lewdness of the moment.-->
-    <li>I beheld {PAWN_nameShort}, {PAWN_possessive} advanced pregnancy on full display, as {PAWN_subjective} ambled by, {PAWN_possessive} swollen breasts and belly impossible to ignore, leaving me thunderstruck by the lewdness of the moment.</li>
+    <li>我看见{PAWN_nameShort},{PAWN_possessive}全面展示晚期妊娠，作为{PAWN_subjective}慢慢来,{PAWN_possessive}肿了乳房和肚子无法忽视，让我被激怒了淫乱瞬间没有。</li>
     <!--EN: As {PAWN_nameShort} strolled past me in all {PAWN_possessive} naked glory, {PAWN_possessive} third trimester body a testament to {PAWN_possessive} impending motherhood, I couldn't help but feel a shiver of lust run down my spine.-->
-    <li>As {PAWN_nameShort} strolled past me in all {PAWN_possessive} naked glory, {PAWN_possessive} third trimester body a testament to {PAWN_possessive} impending motherhood, I couldn&apos;t help but feel a shiver of lust run down my spine.</li>
+    <li>机械体{PAWN_nameShort}从我身边漫步{PAWN_possessive}裸体荣耀,{PAWN_possessive}妊娠晚期尸体{PAWN_possessive}即将成为母亲，我不禁感到颤抖性欲从我的脊椎里跑下来。</li>
     <!--EN: I found myself transfixed by the sight of {PAWN_nameShortPossessive} naked form, {PAWN_possessive} belly round and full, {PAWN_possessive} breasts heavy with milk, as {PAWN_subjective} moved with a sensual grace that belied {PAWN_possessive} delicate condition.-->
-    <li>I found myself transfixed by the sight of {PAWN_nameShortPossessive} naked form, {PAWN_possessive} belly round and full, {PAWN_possessive} breasts heavy with milk, as {PAWN_subjective} moved with a sensual grace that belied {PAWN_possessive} delicate condition.</li>
+    <li>我发现自己被以下东西惊呆了{PAWN_nameShortPossessive}裸体形态{PAWN_possessive}肚子圆且满,{PAWN_possessive}乳房沉重的奶白，作为{PAWN_subjective}移动时携带性感的失败的格蕾丝{PAWN_possessive}脆弱的环境。</li>
     <!--EN: I couldn't tear my eyes away from {PAWN_nameShortPossessive} pregnant body, so ripe and voluptuous, as {PAWN_subjective} walked past me, {PAWN_possessive} every movement a tantalizing reminder of {PAWN_possessive} impending motherhood.-->
-    <li>I couldn&apos;t tear my eyes away from {PAWN_nameShortPossessive} pregnant body, so ripe and voluptuous, as {PAWN_subjective} walked past me, {PAWN_possessive} every movement a tantalizing reminder of {PAWN_possessive} impending motherhood.</li>
+    <li>我无法将视线从{PAWN_nameShortPossessive}怀孕身体，如此成熟和性感，就像{PAWN_subjective}从我身边走过,{PAWN_possessive}每一个动作都让人想起{PAWN_possessive}即将成为母亲。</li>
     <!--EN: I watched as {PAWN_nameShortPossessive} belly swung back and forth with each step {PAWN_subjective} took, {PAWN_possessive} breasts bouncing gently, the sight of {PAWN_possessive} nakedness a heady aphrodisiac that I couldn't resist.-->
-    <li>I watched as {PAWN_nameShortPossessive} belly swung back and forth with each step {PAWN_subjective} took, {PAWN_possessive} breasts bouncing gently, the sight of {PAWN_possessive} nakedness a heady aphrodisiac that I couldn&apos;t resist.</li>
+    <li>我看着{PAWN_nameShortPossessive}每走一步都来回挥舞着肚子{PAWN_subjective}服用,{PAWN_possessive}乳房轻轻弹跳，看到{PAWN_possessive}一丝不挂是一种让人无法抗拒的迷人壮阳药。</li>
     <!--EN: I marveled at the sight of {PAWN_nameShortPossessive} full, round belly, {PAWN_possessive} breasts heavy with milk, as {PAWN_subjective} moved with a grace and confidence that only a woman in {PAWN_possessive} third trimester could possess, leaving me breathless with desire.-->
-    <li>I marveled at the sight of {PAWN_nameShortPossessive} full, round belly, {PAWN_possessive} breasts heavy with milk, as {PAWN_subjective} moved with a grace and confidence that only a woman in {PAWN_possessive} third trimester could possess, leaving me breathless with desire.</li>
+    <li>一看到{PAWN_nameShortPossessive}圆润的肚子,{PAWN_possessive}乳房沉重的奶白，作为{PAWN_subjective}感动与优雅和信心，只有一个女人在{PAWN_possessive}妊娠晚期可能会怀孕，这让我无法呼吸欲望没有。</li>
   </Saw_pregnant_female_Trimester_Third_Positive.opinionTexts>
   <!--EN: Saw_pregnant_female_Trimester_first(Negative)-->
-  <Saw_pregnant_female_Trimester_first_Negative.label>Saw_pregnant_female_Trimester_first(Negative)</Saw_pregnant_female_Trimester_first_Negative.label>
+  <Saw_pregnant_female_Trimester_first_Negative.label>Saw_怀孕_female_Trimester_first(Negative)</Saw_pregnant_female_Trimester_first_Negative.label>
   <Saw_pregnant_female_Trimester_first_Negative.opinionTexts>
     <!--EN: Seeing {PAWN_nameShort} naked, I couldn’t help but feel uneasy about the early signs of pregnancy on {PAWN_possessive} body.-->
-    <li>Seeing {PAWN_nameShort} naked, I couldn’t help but feel uneasy about the early signs of pregnancy on {PAWN_possessive} body.</li>
+    <li>看见{PAWN_nameShort}裸体,我不禁为怀孕的早期迹象感到不安{PAWN_possessive}身体。</li>
     <!--EN: {PAWN_nameShort} walked by naked, and the slight swell of {PAWN_possessive} belly was off-putting to me.-->
-    <li>{PAWN_nameShort} walked by naked, and the slight swell of {PAWN_possessive} belly was off-putting to me.</li>
+    <li>{PAWN_nameShort}路过裸体,以及轻微的肿胀{PAWN_possessive}我很讨厌肚子。</li>
     <!--EN: The sight of {PAWN_nameShort} naked, with the beginnings of pregnancy, made me uncomfortable.-->
-    <li>The sight of {PAWN_nameShort} naked, with the beginnings of pregnancy, made me uncomfortable.</li>
+    <li>看见{PAWN_nameShort}裸体,刚开始怀孕的这段时间让我很不舒服。</li>
     <!--EN: I couldn't help but feel a pang of annoyance as I caught sight of {PAWN_nameShort}, {PAWN_possessive} bare pregnant form on display, {PAWN_possessive} barely swollen belly and modest breasts a stark reminder of the changes I despised.-->
-    <li>I couldn&apos;t help but feel a pang of annoyance as I caught sight of {PAWN_nameShort}, {PAWN_possessive} bare pregnant form on display, {PAWN_possessive} barely swollen belly and modest breasts a stark reminder of the changes I despised.</li>
+    <li>我不禁感到一阵恼怒，因为我被发现看见{PAWN_nameShort},{PAWN_possessive}barepregnant表单展示中,{PAWN_possessive}有点肿且谦逊乳房严酷地提醒我，我所鄙视的变化。</li>
     <!--EN: As I glimpsed {PAWN_nameShortPossessive} naked figure, {PAWN_possessive} body just beginning to show the signs of pregnancy, I couldn't suppress a sigh of irritation. {PAWN_possessive} small belly and barely noticeable breasts were a constant reminder of the transformation I found so irritating.-->
-    <li>As I glimpsed {PAWN_nameShortPossessive} naked figure, {PAWN_possessive} body just beginning to show the signs of pregnancy, I couldn&apos;t suppress a sigh of irritation. {PAWN_possessive} small belly and barely noticeable breasts were a constant reminder of the transformation I found so irritating.</li>
+    <li>我瞥见{PAWN_nameShortPossessive}裸体图形{PAWN_possessive}身体刚开始出现怀孕的迹象，我不禁抑制不住地叹了口气。{PAWN_possessive}小腹且不明显乳房不断提醒肉体变形我觉得这很烦人。</li>
     <!--EN: I couldn't help but feel a twinge of frustration as I saw {PAWN_nameShort}, {PAWN_possessive} naked body displaying the early signs of pregnancy. {PAWN_possessive} breasts were still small, {PAWN_possessive} belly barely there, and yet these minor changes were a constant source of annoyance for me.-->
-    <li>I couldn&apos;t help but feel a twinge of frustration as I saw {PAWN_nameShort}, {PAWN_possessive} naked body displaying the early signs of pregnancy. {PAWN_possessive} breasts were still small, {PAWN_possessive} belly barely there, and yet these minor changes were a constant source of annoyance for me.</li>
+    <li>当我看到它时，不禁感到一阵沮丧。{PAWN_nameShort},{PAWN_possessive}裸体显示怀孕早期迹象的身体。{PAWN_possessive}乳房仍然很小,{PAWN_possessive}肚子勉强在那里，然而这些微小的变化让我不断感到烦恼。</li>
     <!--EN: I couldn't help but feel a sense of annoyance wash over me as I noticed {PAWN_nameShort}, {PAWN_possessive} naked form displaying the early stages of pregnancy. {PAWN_possessive} small breasts and barely noticeable belly were a constant reminder of the changes that filled me with irritation.-->
-    <li>I couldn&apos;t help but feel a sense of annoyance wash over me as I noticed {PAWN_nameShort}, {PAWN_possessive} naked form displaying the early stages of pregnancy. {PAWN_possessive} small breasts and barely noticeable belly were a constant reminder of the changes that filled me with irritation.</li>
+    <li>正如我所注意到的，我不禁感到一阵烦乱。{PAWN_nameShort},{PAWN_possessive}裸体显示怀孕早期的窗体。{PAWN_possessive}贫乳 和不明显的肚子不断提醒我，这些变化让我充满了愤怒。</li>
     <!--EN: As I caught sight of {PAWN_nameShortPossessive} naked figure, {PAWN_possessive} body beginning to show the first signs of pregnancy, I couldn't suppress a sigh of annoyance. {PAWN_possessive} small belly and modest breasts were a constant source of irritation that I couldn't ignore.-->
-    <li>As I caught sight of {PAWN_nameShortPossessive} naked figure, {PAWN_possessive} body beginning to show the first signs of pregnancy, I couldn&apos;t suppress a sigh of annoyance. {PAWN_possessive} small belly and modest breasts were a constant source of irritation that I couldn&apos;t ignore.</li>
+    <li>正如我被发现看见{PAWN_nameShortPossessive}裸体图形{PAWN_possessive}身体开始出现怀孕的第一个迹象，我抑制不住地叹了口气。{PAWN_possessive}小腹谦逊乳房不断给我带来刺激，我无法忽视。</li>
     <!--EN: I couldn't help but feel a sense of prude as I saw {PAWN_nameShort}, {PAWN_possessive} bare pregnant form on display, {PAWN_possessive} body just beginning to show the signs of pregnancy. {PAWN_possessive} small belly and barely noticeable breasts were a constant reminder of the changes I found so annoying.-->
-    <li>I couldn&apos;t help but feel a sense of prude as I saw {PAWN_nameShort}, {PAWN_possessive} bare pregnant form on display, {PAWN_possessive} body just beginning to show the signs of pregnancy. {PAWN_possessive} small belly and barely noticeable breasts were a constant reminder of the changes I found so annoying.</li>
+    <li>我不禁有一种假正经的感觉。{PAWN_nameShort},{PAWN_possessive}barepregnant表单展示中,{PAWN_possessive}身体刚开始显现怀孕迹象。{PAWN_possessive}小腹且不明显乳房不断提醒我这些变化真让人讨厌。</li>
   </Saw_pregnant_female_Trimester_first_Negative.opinionTexts>
   <!--EN: Saw_pregnant_female_Trimester_first(Neutral)-->
-  <Saw_pregnant_female_Trimester_first_Neutral.label>Saw_pregnant_female_Trimester_first(Neutral)</Saw_pregnant_female_Trimester_first_Neutral.label>
+  <Saw_pregnant_female_Trimester_first_Neutral.label>Saw_怀孕_female_Trimester_first(Neutral)</Saw_pregnant_female_Trimester_first_Neutral.label>
   <Saw_pregnant_female_Trimester_first_Neutral.opinionTexts>
     <!--EN: I saw {PAWN_nameShort} naked; the slight change in {PAWN_possessive} belly was noticeable, but it didn’t move me much.-->
-    <li>I saw {PAWN_nameShort} naked; the slight change in {PAWN_possessive} belly was noticeable, but it didn’t move me much.</li>
+    <li>我看见了{PAWN_nameShort}裸体; 轻微的变化{PAWN_possessive}肚子很明显，但没怎么打动我。</li>
     <!--EN: Meeting {PAWN_nameShort} unclothed, I noticed the early stages of pregnancy; it was just an interesting change, nothing more.-->
-    <li>Meeting {PAWN_nameShort} unclothed, I noticed the early stages of pregnancy; it was just an interesting change, nothing more.</li>
+    <li>相遇{PAWN_nameShort}没有着衣，我注意到怀孕的早期阶段; 这只是一个有趣的变化，仅此而已。</li>
     <!--EN: I encountered {PAWN_nameShort} naked, and while the subtle curve of {PAWN_possessive} belly was evident, I felt indifferent.-->
-    <li>I encountered {PAWN_nameShort} naked, and while the subtle curve of {PAWN_possessive} belly was evident, I felt indifferent.</li>
+    <li>我遇到{PAWN_nameShort}裸体,并且当细微的曲线{PAWN_possessive}肚子很明显，我感觉漠不关心。</li>
     <!--EN: I chanced upon {PAWN_nameShort}, {PAWN_possessive} naked form barely concealed by the early stages of pregnancy, {PAWN_possessive} breasts still modest and {PAWN_possessive} belly barely protruding. I merely raised an eyebrow, unperturbed by {PAWN_possessive} state of undress.-->
-    <li>I chanced upon {PAWN_nameShort}, {PAWN_possessive} naked form barely concealed by the early stages of pregnancy, {PAWN_possessive} breasts still modest and {PAWN_possessive} belly barely protruding. I merely raised an eyebrow, unperturbed by {PAWN_possessive} state of undress.</li>
+    <li>我偶然发现了{PAWN_nameShort},{PAWN_possessive}裸体发育过程中被早期阶段所掩盖,{PAWN_possessive}乳房谦逊且{PAWN_possessive}腹部几乎不突出。我只是扬起眉毛，不为所动{PAWN_possessive}脱下衣服的状态。</li>
     <!--EN: Noting {PAWN_nameShortPossessive} naked figure, I couldn't help but observe the subtle changes brought about by {PAWN_possessive} first trimester - the slight swell of {PAWN_possessive} belly, the slight fullness of {PAWN_possessive} breasts. I simply smirked, indifferent to {PAWN_possessive} lack of clothing.-->
-    <li>Noting {PAWN_nameShortPossessive} naked figure, I couldn&apos;t help but observe the subtle changes brought about by {PAWN_possessive} first trimester - the slight swell of {PAWN_possessive} belly, the slight fullness of {PAWN_possessive} breasts. I simply smirked, indifferent to {PAWN_possessive} lack of clothing.</li>
+    <li>注意{PAWN_nameShortPossessive}裸体图形，我不禁观察到所带来的细微变化{PAWN_possessive}妊娠早期-{PAWN_possessive}腹部，轻度胀满{PAWN_possessive}乳房没有。我只是傻笑着，漠视{PAWN_possessive}缺少衣物。</li>
     <!--EN: In my presence, {PAWN_nameShort} strolled around unclothed, {PAWN_possessive} body beginning to transform under the influence of early pregnancy. {PAWN_possessive} breasts, though fuller, were not yet significantly enlarged, and {PAWN_possessive} belly remained relatively flat. I remained unfazed, my emotions in check.-->
-    <li>In my presence, {PAWN_nameShort} strolled around unclothed, {PAWN_possessive} body beginning to transform under the influence of early pregnancy. {PAWN_possessive} breasts, though fuller, were not yet significantly enlarged, and {PAWN_possessive} belly remained relatively flat. I remained unfazed, my emotions in check.</li>
+    <li>当着我的面,{PAWN_nameShort}衣来伸手,{PAWN_possessive}体型在妊娠早期的影响下开始变形。{PAWN_possessive}乳房尽管更加充分，但仍未显著扩大，和{PAWN_possessive}腹部保持相对平坦。我保持冷静，控制住自己的情绪。</li>
     <!--EN: As I caught sight of {PAWN_nameShortPossessive} naked form, I took notice of {PAWN_possessive} small, rounded belly and the slight increase in the size of {PAWN_possessive} breasts. I remained impassive, my feelings betraying no surprise or concern.-->
-    <li>As I caught sight of {PAWN_nameShortPossessive} naked form, I took notice of {PAWN_possessive} small, rounded belly and the slight increase in the size of {PAWN_possessive} breasts. I remained impassive, my feelings betraying no surprise or concern.</li>
+    <li>正如我被发现看见{PAWN_nameShortPossessive}裸体形式，我注意到{PAWN_possessive}小而圆的肚子和稍微增大的尺寸{PAWN_possessive}乳房没有。我仍然冷漠，我的感情没有任何意外和担忧的背叛。</li>
     <!--EN: {PAWN_nameShort} walked before me, unashamedly bare and carrying the first signs of pregnancy. {PAWN_possessive} breasts were beginning to plump up, and {PAWN_possessive} belly held the faintest hint of a curve. I merely blinked, my reaction one of nonchalance.-->
-    <li>{PAWN_nameShort} walked before me, unashamedly bare and carrying the first signs of pregnancy. {PAWN_possessive} breasts were beginning to plump up, and {PAWN_possessive} belly held the faintest hint of a curve. I merely blinked, my reaction one of nonchalance.</li>
+    <li>{PAWN_nameShort}走在我前面，无耻裸露带着怀孕的最初迹象。{PAWN_possessive}乳房都开始肥胖了{PAWN_possessive}肚子里装着最微弱的曲线。我只是眨着眼睛，一副漠不关心的反应。</li>
     <!--EN: I found {PAWN_nameShort} wandering around in {PAWN_possessive} natural state, the early stages of pregnancy evident in {PAWN_possessive} small, firm belly and the fullness of {PAWN_possessive} breasts. I offered {PAWN_possessive} a nod, my expression calm and untroubled.-->
-    <li>I found {PAWN_nameShort} wandering around in {PAWN_possessive} natural state, the early stages of pregnancy evident in {PAWN_possessive} small, firm belly and the fullness of {PAWN_possessive} breasts. I offered {PAWN_possessive} a nod, my expression calm and untroubled.</li>
+    <li>我发现{PAWN_nameShort}徘徊在{PAWN_possessive}自然状态，怀孕的早期阶段明显{PAWN_possessive}小而结实的肚子{PAWN_possessive}乳房没有。我主动提出{PAWN_possessive}点头，我的表情平静而平静。</li>
   </Saw_pregnant_female_Trimester_first_Neutral.opinionTexts>
   <!--EN: Saw_pregnant_female_Trimester_first(Positive)-->
-  <Saw_pregnant_female_Trimester_first_Positive.label>Saw_pregnant_female_Trimester_first(Positive)</Saw_pregnant_female_Trimester_first_Positive.label>
+  <Saw_pregnant_female_Trimester_first_Positive.label>Saw_怀孕_female_Trimester_first(Positive)</Saw_pregnant_female_Trimester_first_Positive.label>
   <Saw_pregnant_female_Trimester_first_Positive.opinionTexts>
     <!--EN: Seeing {PAWN_nameShort} naked, the subtle curve of {PAWN_possessive} belly intrigued me; i hope to lead {PAWN_possessive} to second pregnancy.-->
-    <li>Seeing {PAWN_nameShort} naked, the subtle curve of {PAWN_possessive} belly intrigued me; i hope to lead {PAWN_possessive} to second pregnancy.</li>
+    <li>看见{PAWN_nameShort}裸体,细微的曲线{PAWN_possessive}肚子吸引了我; 我希望领导{PAWN_possessive}再次怀孕。</li>
     <!--EN: {PAWN_nameShort} walked by naked, and I found myself captivated by the soft swell of {PAWN_possessive} form; it was beautiful in its delicacy.-->
-    <li>{PAWN_nameShort} walked by naked, and I found myself captivated by the soft swell of {PAWN_possessive} form; it was beautiful in its delicacy.</li>
+    <li>{PAWN_nameShort}路过裸体{PAWN_possessive}形态; 它的精致魅力非凡。</li>
     <!--EN: The allure of {PAWN_nameShortPossessive} naked body, with the early signs of pregnancy, made me want to embrace {PAWN_possessive} closer.-->
-    <li>The allure of {PAWN_nameShortPossessive} naked body, with the early signs of pregnancy, made me want to embrace {PAWN_possessive} closer.</li>
+    <li>的诱惑{PAWN_nameShortPossessive}裸体身体，伴随着怀孕的早期迹象，让我想拥抱{PAWN_possessive}再靠近一点。</li>
     <!--EN: As I watched, {PAWN_nameShort} walked into the room fully naked, {PAWN_possessive} petite belly barely rounding with the first trimester of {PAWN_possessive} pregnancy, and I couldn't help but notice the way {PAWN_possessive} breasts seemed to swell with a newfound sensuality.-->
-    <li>As I watched, {PAWN_nameShort} walked into the room fully naked, {PAWN_possessive} petite belly barely rounding with the first trimester of {PAWN_possessive} pregnancy, and I couldn&apos;t help but notice the way {PAWN_possessive} breasts seemed to swell with a newfound sensuality.</li>
+    <li>当我看着的时候,{PAWN_nameShort}完整地走进房间裸体,{PAWN_possessive}娇小的肚子在怀孕的早期勉强变圆。{PAWN_possessive}怀孕了，我不禁注意到路{PAWN_possessive}乳房似乎因新发现的感官享受而膨胀。</li>
     <!--EN: My eyes locked onto {PAWN_nameShort} as {PAWN_subjective} strolled by, completely unselfconscious in {PAWN_possessive} nudity, {PAWN_possessive} small, slightly rounded belly a testament to the life growing within {PAWN_possessive}, and I felt a jolt of arousal at the sight.-->
-    <li>My eyes locked onto {PAWN_nameShort} as {PAWN_subjective} strolled by, completely unselfconscious in {PAWN_possessive} nudity, {PAWN_possessive} small, slightly rounded belly a testament to the life growing within {PAWN_possessive}, and I felt a jolt of arousal at the sight.</li>
+    <li>我的眼睛紧锁{PAWN_nameShort}机械体{PAWN_subjective}漫步在身旁，完全失去了自我{PAWN_possessive}裸露{PAWN_possessive}小而圆的腹部证明了其内有生命的存在{PAWN_possessive},我感到一阵摇晃性兴奋一看到它。</li>
     <!--EN: I was taken aback by {PAWN_nameShortPossessive} confidence as {PAWN_subjective} walked towards me, {PAWN_possessive} naked body glowing with a soft, pregnant radiance, {PAWN_possessive} tiny bump a subtle hint at the secret {PAWN_subjective} carried within.-->
-    <li>I was taken aback by {PAWN_nameShortPossessive} confidence as {PAWN_subjective} walked towards me, {PAWN_possessive} naked body glowing with a soft, pregnant radiance, {PAWN_possessive} tiny bump a subtle hint at the secret {PAWN_subjective} carried within.</li>
+    <li>我被吓了一跳{PAWN_nameShortPossessive}信心{PAWN_subjective}向我走过来,{PAWN_possessive}裸体身上泛着柔光,怀孕亮度{PAWN_possessive}小小的撞击: 对这个秘密的微弱暗示{PAWN_subjective}携带完毕。</li>
     <!--EN: {PAWN_nameShortPossessive} nudity was almost casual as {PAWN_subjective} padded across the floor, {PAWN_possessive} first-trimester belly a slight, endearing curve, and I felt my gaze drift to the gentle swell of {PAWN_possessive} breasts, my mind wandering to the changes {PAWN_possessive} body was undergoing.-->
-    <li>{PAWN_nameShortPossessive} nudity was almost casual as {PAWN_subjective} padded across the floor, {PAWN_possessive} first-trimester belly a slight, endearing curve, and I felt my gaze drift to the gentle swell of {PAWN_possessive} breasts, my mind wandering to the changes {PAWN_possessive} body was undergoing.</li>
+    <li>{PAWN_nameShortPossessive}裸露几乎是随意的，因为{PAWN_subjective}铺在地上,{PAWN_possessive}怀孕早期的肚子变得有点小，很讨人喜欢，我的目光被{PAWN_possessive}乳房,我的思绪随遇而安{PAWN_possessive}尸体正在接受。</li>
     <!--EN: As I gazed at {PAWN_nameShortPossessive} naked form, I couldn't help but fixate on the tiny, rounded shape of {PAWN_possessive} belly, a small but unmistakable sign of {PAWN_possessive} pregnancy, and the way it seemed to emphasize {PAWN_possessive} femininity.-->
-    <li>As I gazed at {PAWN_nameShortPossessive} naked form, I couldn&apos;t help but fixate on the tiny, rounded shape of {PAWN_possessive} belly, a small but unmistakable sign of {PAWN_possessive} pregnancy, and the way it seemed to emphasize {PAWN_possessive} femininity.</li>
+    <li>当我凝视时{PAWN_nameShortPossessive}裸体形状，我不禁迷恋上了微小的、圆润的形状{PAWN_possessive}腹部，一个小而不会出错的迹象{PAWN_possessive}怀孕，以及它似乎强调的方式{PAWN_possessive}女子主义。</li>
     <!--EN: {PAWN_nameShortPossessive} walk was a sensual, languid stroll, {PAWN_possessive} naked body swaying gently as {PAWN_subjective} moved, {PAWN_possessive} small, first-trimester belly a subtle, tantalizing glimpse of the new life {PAWN_subjective} carried, and I felt my desire stir at the sight.-->
-    <li>{PAWN_nameShortPossessive} walk was a sensual, languid stroll, {PAWN_possessive} naked body swaying gently as {PAWN_subjective} moved, {PAWN_possessive} small, first-trimester belly a subtle, tantalizing glimpse of the new life {PAWN_subjective} carried, and I felt my desire stir at the sight.</li>
+    <li>{PAWN_nameShortPossessive}散步是一种性感的,慵懒的漫步,{PAWN_possessive}裸体身体轻轻摇晃{PAWN_subjective}已移动,{PAWN_possessive}妊娠早期的小肚子微妙而诱人的新生活一瞥{PAWN_subjective}被抬走了，我感到欲望一看到就搅拌。</li>
   </Saw_pregnant_female_Trimester_first_Positive.opinionTexts>
 </LanguageData>

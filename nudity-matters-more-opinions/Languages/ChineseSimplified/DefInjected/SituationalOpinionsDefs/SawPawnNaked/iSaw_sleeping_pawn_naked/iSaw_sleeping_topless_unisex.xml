@@ -1,135 +1,135 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: iSaw_Asleep_Topless_Unisex_(Negative)-->
-  <iSaw_Asleep_Topless_Unisex_Negative.label>iSaw_Asleep_Topless_Unisex_(Negative)</iSaw_Asleep_Topless_Unisex_Negative.label>
+  <iSaw_Asleep_Topless_Unisex_Negative.label>iSaw_Asleep_上着较少_Unisex_(Negative)</iSaw_Asleep_Topless_Unisex_Negative.label>
   <iSaw_Asleep_Topless_Unisex_Negative.opinionTexts>
     <!--EN: Does {OBSERVED_pronoun} have to sleep like that? Put a shirt on, for goodness sake.-->
-    <li>Does {OBSERVED_pronoun} have to sleep like that? Put a shirt on, for goodness sake.</li>
+    <li>完成{OBSERVED_pronoun}要这样睡觉吗？看在上帝的份上，穿上衬衫吧。</li>
     <!--EN: The sight of {OBSERVED_nameShortPossessive} bare chest was rather unpleasant.-->
-    <li>The sight of {OBSERVED_nameShortPossessive} bare chest was rather unpleasant.</li>
+    <li>看见{OBSERVED_nameShortPossessive}裸露胸部相当不愉快。</li>
     <!--EN: I was irritated by the lack of decorum. Sleeping topless is just sloppy.-->
-    <li>I was irritated by the lack of decorum. Sleeping topless is just sloppy.</li>
+    <li>我对缺乏礼仪感到恼火。睡眠上着较少就是太马虎了。</li>
     <!--EN: It was an unwelcome sight. I have no desire to see {OBSERVED_nameShortPossessive} bare torso.-->
-    <li>It was an unwelcome sight. I have no desire to see {OBSERVED_nameShortPossessive} bare torso.</li>
+    <li>这是一个不受欢迎的景象。我没有欲望看见{OBSERVED_nameShortPossessive}裸露躯干。</li>
     <!--EN: I found the sight of {OBSERVED_nameShortPossessive} bare chest to be off-putting.-->
-    <li>I found the sight of {OBSERVED_nameShortPossessive} bare chest to be off-putting.</li>
+    <li>我看到了{OBSERVED_nameShortPossessive}裸露令人厌恶的胸部。</li>
     <!--EN: It's a matter of basic decency. They should cover up.-->
-    <li>It&apos;s a matter of basic decency. They should cover up.</li>
+    <li>这是基本的体面问题。他们应该掩体。</li>
     <!--EN: The sight was crude and made me uncomfortable.-->
-    <li>The sight was crude and made me uncomfortable.</li>
+    <li>这种景象很粗糙，让我很不舒服。</li>
     <!--EN: I felt my lip curl in distaste. It was not a pleasant image.-->
-    <li>I felt my lip curl in distaste. It was not a pleasant image.</li>
+    <li>我感到自己的嘴唇开始卷曲，很不舒服。这不是一个令人愉快的形象。</li>
     <!--EN: Why would someone sleep so exposed? It's just improper.-->
-    <li>Why would someone sleep so exposed? It&apos;s just improper.</li>
+    <li>为什么会有人睡得这么香暴露什么？不合适。</li>
     <!--EN: I was annoyed by the casual display of flesh. It's just inconsiderate.-->
-    <li>I was annoyed by the casual display of flesh. It&apos;s just inconsiderate.</li>
+    <li>我对肉体的随意炫耀感到恼火。简直是为他人着想。</li>
     <!--EN: The sight of {OBSERVED_nameShortPossessive} bare chest was an unwelcome distraction.-->
-    <li>The sight of {OBSERVED_nameShortPossessive} bare chest was an unwelcome distraction.</li>
+    <li>看见{OBSERVED_nameShortPossessive}裸露胸口让人心烦意乱，不受欢迎。</li>
     <!--EN: I wish I hadn't seen that. It was a rather gross sight.-->
-    <li>I wish I hadn&apos;t seen that. It was a rather gross sight.</li>
+    <li>我希望我没有看到。这是一个相当恶心的景象。</li>
     <!--EN: That's just not right. It's a breach of communal living standards.-->
-    <li>That&apos;s just not right. It&apos;s a breach of communal living standards.</li>
+    <li>对不对。这违反了公共生活水平。</li>
     <!--EN: I was unimpressed by the lack of modesty. It shows poor character.-->
-    <li>I was unimpressed by the lack of modesty. It shows poor character.</li>
+    <li>我对不谦逊的态度不感兴趣。它显示了糟糕的性格。</li>
     <!--EN: The sight filled me with a sense of unease. It was just... wrong.-->
-    <li>The sight filled me with a sense of unease. It was just... wrong.</li>
+    <li>眼前的事物让我感到十分不安。只是…弄错了。</li>
     <!--EN: I averted my eyes, but the unpleasant image lingered.-->
-    <li>I averted my eyes, but the unpleasant image lingered.</li>
+    <li>我转移了视线，但那不愉快的景象仍然挥之不去。</li>
     <!--EN: It was a slovenly and graceless way to sleep. I was not impressed.-->
-    <li>It was a slovenly and graceless way to sleep. I was not impressed.</li>
+    <li>这是一种不优雅的睡眠方式。我没有被打动。</li>
     <!--EN: The sight soured my mood. It was an unnecessary and unpleasant discovery.-->
-    <li>The sight soured my mood. It was an unnecessary and unpleasant discovery.</li>
+    <li>眼前的景象恶化了我的心情。这是一个不必要和不愉快的发现。</li>
     <!--EN: I felt my personal space was violated by the sight of {OBSERVED_possessive} bare chest.-->
-    <li>I felt my personal space was violated by the sight of {OBSERVED_possessive} bare chest.</li>
+    <li>我觉得我的私人空间被这样的景象侵犯了{OBSERVED_possessive}裸露胸口。</li>
     <!--EN: It was a pathetic display. A person of {OBSERVED_ageBiologicalYears} should know better.-->
-    <li>It was a pathetic display. A person of {OBSERVED_ageBiologicalYears} should know better.</li>
+    <li>这是一个可悲的表现。以下人员{OBSERVED_ageBiologicalYears}应该更清楚。</li>
   </iSaw_Asleep_Topless_Unisex_Negative.opinionTexts>
   <!--EN: iSaw_Asleep_Topless_Unisex_(Neutral)-->
-  <iSaw_Asleep_Topless_Unisex_Neutral.label>iSaw_Asleep_Topless_Unisex_(Neutral)</iSaw_Asleep_Topless_Unisex_Neutral.label>
+  <iSaw_Asleep_Topless_Unisex_Neutral.label>iSaw_Asleep_上着较少_Unisex_(Neutral)</iSaw_Asleep_Topless_Unisex_Neutral.label>
   <iSaw_Asleep_Topless_Unisex_Neutral.opinionTexts>
     <!--EN: I noted that {OBSERVED_nameShort} was sleeping without a shirt.-->
-    <li>I noted that {OBSERVED_nameShort} was sleeping without a shirt.</li>
+    <li>我注意到{OBSERVED_nameShort}没穿衬衫睡觉。</li>
     <!--EN: {OBSERVED_nameShortPossessive} chest was bare. I made a mental note of it.-->
-    <li>{OBSERVED_nameShortPossessive} chest was bare. I made a mental note of it.</li>
+    <li>{OBSERVED_nameShortPossessive}胸部为裸露没有。我记下了。</li>
     <!--EN: I observed {OBSERVED_nameShort} sleeping in a topless state.-->
-    <li>I observed {OBSERVED_nameShort} sleeping in a topless state.</li>
+    <li>我观察到{OBSERVED_nameShort}睡在一个上着较少状态。</li>
     <!--EN: My eyes passed over {OBSERVED_nameShortPossessive} bare torso. I had no reaction.-->
-    <li>My eyes passed over {OBSERVED_nameShortPossessive} bare torso. I had no reaction.</li>
+    <li>我的眼睛过去{OBSERVED_nameShortPossessive}裸露躯干。我没有任何反应。</li>
     <!--EN: The subject was not wearing upper body garments. This fact was recorded.-->
-    <li>The subject was not wearing upper body garments. This fact was recorded.</li>
+    <li>实验对象没有穿上半身衣物。这个事实被记录了下来。</li>
     <!--EN: {OBSERVED_nameShort} was bare-chested. It was a simple observation.-->
-    <li>{OBSERVED_nameShort} was bare-chested. It was a simple observation.</li>
+    <li>{OBSERVED_nameShort}曾经裸露-胸部发达。这是一个简单的观察。</li>
     <!--EN: I am aware that {OBSERVED_nameShortPossessive} chest is currently uncovered.-->
-    <li>I am aware that {OBSERVED_nameShortPossessive} chest is currently uncovered.</li>
+    <li>我知道{OBSERVED_nameShortPossessive}胸部目前已暴露。</li>
     <!--EN: I saw {OBSERVED_nameShortPossessive} chest. It was a part of {OBSERVED_possessive} body.-->
-    <li>I saw {OBSERVED_nameShortPossessive} chest. It was a part of {OBSERVED_possessive} body.</li>
+    <li>我看见了{OBSERVED_nameShortPossessive}胸口。它是{OBSERVED_possessive}身体。</li>
     <!--EN: The visual data of a topless, sleeping {OBSERVED_nameShort} was processed.-->
-    <li>The visual data of a topless, sleeping {OBSERVED_nameShort} was processed.</li>
+    <li>的视觉数据上着较少,睡眠中{OBSERVED_nameShort}已处理完毕。</li>
     <!--EN: It seems {OBSERVED_nameShort} sleeps without a top. That is a choice {OBSERVED_pronoun} has made.-->
-    <li>It seems {OBSERVED_nameShort} sleeps without a top. That is a choice {OBSERVED_pronoun} has made.</li>
+    <li>似乎{OBSERVED_nameShort}不穿上衣睡觉。那是一个选择{OBSERVED_pronoun}已制成。</li>
     <!--EN: I registered the sight of {OBSERVED_nameShortPossessive} bare chest and continued my tasks.-->
-    <li>I registered the sight of {OBSERVED_nameShortPossessive} bare chest and continued my tasks.</li>
+    <li>我注册了{OBSERVED_nameShortPossessive}裸露胸部和继续我的任务。</li>
     <!--EN: A glance confirmed {OBSERVED_nameShort} was topless. Nothing more to report.-->
-    <li>A glance confirmed {OBSERVED_nameShort} was topless. Nothing more to report.</li>
+    <li>确认{OBSERVED_nameShort}曾经上着较少没有。没有更多的报告。</li>
     <!--EN: I took note of {OBSERVED_nameShortPossessive} state of undress. It was unremarkable.-->
-    <li>I took note of {OBSERVED_nameShortPossessive} state of undress. It was unremarkable.</li>
+    <li>我注意到{OBSERVED_nameShortPossessive}脱下衣服的状态。平淡无奇。</li>
     <!--EN: My path led me past a sleeping, topless {OBSERVED_nameShort}. I continued on.-->
-    <li>My path led me past a sleeping, topless {OBSERVED_nameShort}. I continued on.</li>
+    <li>我的路带领我度过了沉睡,上着较少{OBSERVED_nameShort}没有。我继续说。</li>
     <!--EN: I have seen {OBSERVED_nameShortPossessive} chest. This knowledge is now stored.-->
-    <li>I have seen {OBSERVED_nameShortPossessive} chest. This knowledge is now stored.</li>
+    <li>我见过{OBSERVED_nameShortPossessive}胸口。此知识已存储。</li>
     <!--EN: The lack of a shirt on {OBSERVED_nameShort} was noted.-->
-    <li>The lack of a shirt on {OBSERVED_nameShort} was noted.</li>
+    <li>缺少一件衬衫{OBSERVED_nameShort}被注意到。</li>
     <!--EN: It is a fact that {OBSERVED_nameShort} is currently topless.-->
-    <li>It is a fact that {OBSERVED_nameShort} is currently topless.</li>
+    <li>这是一个事实{OBSERVED_nameShort}目前上着较少没有。</li>
     <!--EN: I witnessed {OBSERVED_nameShort} sleeping without a top. It was a neutral event.-->
-    <li>I witnessed {OBSERVED_nameShort} sleeping without a top. It was a neutral event.</li>
+    <li>我目睹{OBSERVED_nameShort}不穿上衣睡觉。这是一个中立的事件。</li>
     <!--EN: My attention was briefly on {OBSERVED_nameShortPossessive} bare chest before I moved on.-->
-    <li>My attention was briefly on {OBSERVED_nameShortPossessive} bare chest before I moved on.</li>
+    <li>我的注意力短暂地集中在{OBSERVED_nameShortPossessive}裸露在我继续前进之前的胸部。</li>
     <!--EN: The observation of {OBSERVED_nameShortPossessive} toplessness has been logged.-->
-    <li>The observation of {OBSERVED_nameShortPossessive} toplessness has been logged.</li>
+    <li>观察{OBSERVED_nameShortPossessive}已记录无提示状态。</li>
   </iSaw_Asleep_Topless_Unisex_Neutral.opinionTexts>
   <!--EN: iSaw_Asleep_Topless_Unisex_(Positive)-->
-  <iSaw_Asleep_Topless_Unisex_Positive.label>iSaw_Asleep_Topless_Unisex_(Positive)</iSaw_Asleep_Topless_Unisex_Positive.label>
+  <iSaw_Asleep_Topless_Unisex_Positive.label>iSaw_Asleep_上着较少_Unisex_(Positive)</iSaw_Asleep_Topless_Unisex_Positive.label>
   <iSaw_Asleep_Topless_Unisex_Positive.opinionTexts>
     <!--EN: I saw {OBSERVED_nameShort} sleeping without a top, and the view of {OBSERVED_possessive} bare chest was quite pleasing.-->
-    <li>I saw {OBSERVED_nameShort} sleeping without a top, and the view of {OBSERVED_possessive} bare chest was quite pleasing.</li>
+    <li>我看见了{OBSERVED_nameShort}睡觉没有上衣，和{OBSERVED_possessive}裸露胸口挺顺手的。</li>
     <!--EN: The sight of {OBSERVED_nameShortPossessive} bare chest was one of quiet strength and beauty.-->
-    <li>The sight of {OBSERVED_nameShortPossessive} bare chest was one of quiet strength and beauty.</li>
+    <li>看见{OBSERVED_nameShortPossessive}裸露胸部是一个安静的力量和美丽。</li>
     <!--EN: It was nice to see {OBSERVED_nameShort} so at ease, {OBSERVED_possessive} chest rising and falling peacefully.-->
-    <li>It was nice to see {OBSERVED_nameShort} so at ease, {OBSERVED_possessive} chest rising and falling peacefully.</li>
+    <li>很高兴看到{OBSERVED_nameShort}所以稍稍放松点,{OBSERVED_possessive}胸部上升和下降。</li>
     <!--EN: I admired the lines of {OBSERVED_nameShortPossessive} torso as {OBSERVED_pronoun} slept. A fine form indeed.-->
-    <li>I admired the lines of {OBSERVED_nameShortPossessive} torso as {OBSERVED_pronoun} slept. A fine form indeed.</li>
+    <li>我钦佩{OBSERVED_nameShortPossessive}躯干{OBSERVED_pronoun}睡了。确实很精致。</li>
     <!--EN: There was an appealing vulnerability to seeing {OBSERVED_nameShortPossessive} bare chest.-->
-    <li>There was an appealing vulnerability to seeing {OBSERVED_nameShortPossessive} bare chest.</li>
+    <li>看见{OBSERVED_nameShortPossessive}裸露胸口。</li>
     <!--EN: I caught a glimpse of {OBSERVED_nameShortPossessive} uncovered chest, and I must admit, it was a good sight.-->
-    <li>I caught a glimpse of {OBSERVED_nameShortPossessive} uncovered chest, and I must admit, it was a good sight.</li>
+    <li>我被发现瞥见{OBSERVED_nameShortPossessive}暴露胸部，我必须承认，这是一个很好的景象。</li>
     <!--EN: The freedom of {OBSERVED_nameShortPossessive} topless slumber was attractive.-->
-    <li>The freedom of {OBSERVED_nameShortPossessive} topless slumber was attractive.</li>
+    <li>的自由{OBSERVED_nameShortPossessive}上着较少睡眠很有魅力。</li>
     <!--EN: I found myself appreciating the view of {OBSERVED_nameShortPossessive} bare torso.-->
-    <li>I found myself appreciating the view of {OBSERVED_nameShortPossessive} bare torso.</li>
+    <li>我发现自己正在欣赏{OBSERVED_nameShortPossessive}裸露躯干。</li>
     <!--EN: A simple, yet powerful sight. {OBSERVED_nameShortPossessive} bare chest was a testament to natural beauty.-->
-    <li>A simple, yet powerful sight. {OBSERVED_nameShortPossessive} bare chest was a testament to natural beauty.</li>
+    <li>一个简单但强大的景象。{OBSERVED_nameShortPossessive}裸露胸口是自然美的见证。</li>
     <!--EN: My gaze lingered on {OBSERVED_nameShortPossessive} chest. It was a well-defined and pleasant landscape.-->
-    <li>My gaze lingered on {OBSERVED_nameShortPossessive} chest. It was a well-defined and pleasant landscape.</li>
+    <li>我的目光在{OBSERVED_nameShortPossessive}胸口。这是一片界限清晰、令人愉悦的风景。</li>
     <!--EN: The sight brought a small smile to my face. It was a peaceful and attractive scene.-->
-    <li>The sight brought a small smile to my face. It was a peaceful and attractive scene.</li>
+    <li>眼前的景象给我的脸带来了一丝微笑。这是一个宁静而迷人的场景。</li>
     <!--EN: I felt a sense of warmth seeing {OBSERVED_nameShort} so comfortable and uncovered.-->
-    <li>I felt a sense of warmth seeing {OBSERVED_nameShort} so comfortable and uncovered.</li>
+    <li>看到这里，我感到一种温暖{OBSERVED_nameShort}如此舒适和裸露。</li>
     <!--EN: The bare skin of {OBSERVED_nameShortPossessive} chest looked smooth and inviting.-->
-    <li>The bare skin of {OBSERVED_nameShortPossessive} chest looked smooth and inviting.</li>
+    <li>该裸露毛皮{OBSERVED_nameShortPossessive}胸部看起来光滑而诱人。</li>
     <!--EN: It was a captivating sight, the gentle rhythm of {OBSERVED_possessive} breathing visible on {OBSERVED_possessive} bare chest.-->
-    <li>It was a captivating sight, the gentle rhythm of {OBSERVED_possessive} breathing visible on {OBSERVED_possessive} bare chest.</li>
+    <li>迷人的景象温柔的节奏{OBSERVED_possessive}呼吸打开{OBSERVED_possessive}裸露胸口。</li>
     <!--EN: I was pleasantly surprised by the view of {OBSERVED_nameShortPossessive} topless form.-->
-    <li>I was pleasantly surprised by the view of {OBSERVED_nameShortPossessive} topless form.</li>
+    <li>我看到{OBSERVED_nameShortPossessive}上着较少形态。</li>
     <!--EN: The sight was one of raw, simple beauty. I appreciated the moment.-->
-    <li>The sight was one of raw, simple beauty. I appreciated the moment.</li>
+    <li>这种景象非常原始，非常美丽。感谢瞬间没有。</li>
     <!--EN: I couldn't help but admire {OBSERVED_nameShortPossessive} physique, highlighted by {OBSERVED_possessive} lack of a shirt.-->
-    <li>I couldn&apos;t help but admire {OBSERVED_nameShortPossessive} physique, highlighted by {OBSERVED_possessive} lack of a shirt.</li>
+    <li>我不禁感到钦佩{OBSERVED_nameShortPossessive}体格，高亮{OBSERVED_possessive}缺少衬衫。</li>
     <!--EN: It was a moment of unguarded charm. {OBSERVED_nameShortPossessive} bare chest was endearing.-->
-    <li>It was a moment of unguarded charm. {OBSERVED_nameShortPossessive} bare chest was endearing.</li>
+    <li>它是一个瞬间散发着未防备的魅力。{OBSERVED_nameShortPossessive}裸露胸部很可爱。</li>
     <!--EN: The view was excellent. I wouldn't mind seeing that again.-->
-    <li>The view was excellent. I wouldn&apos;t mind seeing that again.</li>
+    <li>景观非常好。我不介意再看一遍。</li>
     <!--EN: There's a certain honesty in sleeping bare-chested, and on {OBSERVED_nameShort}, it looked good.-->
-    <li>There&apos;s a certain honesty in sleeping bare-chested, and on {OBSERVED_nameShort}, it looked good.</li>
+    <li>睡觉有一定的诚实裸露-胸部发达，及以上{OBSERVED_nameShort},看起来不错。</li>
   </iSaw_Asleep_Topless_Unisex_Positive.opinionTexts>
 </LanguageData>

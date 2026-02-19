@@ -1,1145 +1,1145 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Flat/Nipples Breasts (Neutral)-->
-  <Opinion_Breasts_Neutral_Nipples.label>Flat/Nipples Breasts (Neutral)</Opinion_Breasts_Neutral_Nipples.label>
+  <Opinion_Breasts_Neutral_Nipples.label>扁平/乳头 乳房（中性）</Opinion_Breasts_Neutral_Nipples.label>
   <Opinion_Breasts_Neutral_Nipples.opinionTexts>
     <!--EN: I saw {PAWN_nameShortPossessive} nipples, they’re just there, subtle and unreadable.-->
-    <li>I saw {PAWN_nameShortPossessive} nipples, they’re just there, subtle and unreadable.</li>
+    <li>我看到了 {PAWN_nameShortPossessive} 乳头，它们就在那里，微妙且难以辨认。</li>
     <!--EN: I noticed {PAWN_nameShortPossessive} nipples, small and unassuming.-->
-    <li>I noticed {PAWN_nameShortPossessive} nipples, small and unassuming.</li>
+    <li>我注意到{PAWN_nameShortPossessive} 乳头，小而低调。</li>
     <!--EN: I saw {PAWN_nameShortPossessive} nipples, barely visible under the surface.-->
-    <li>I saw {PAWN_nameShortPossessive} nipples, barely visible under the surface.</li>
+    <li>我看到{PAWN_nameShortPossessive} 乳头，在表面下几乎看不见。</li>
     <!--EN: I glanced at {PAWN_nameShortPossessive} nipples, a fleeting moment of awareness.-->
-    <li>I glanced at {PAWN_nameShortPossessive} nipples, a fleeting moment of awareness.</li>
+    <li>我瞥了一眼{PAWN_nameShortPossessive}乳头，短暂的瞬间意识。</li>
     <!--EN: As I examined {PAWN_nameShortPossessive} nipple, I noticed its delicate shape and tiny size, resembling a small bead.-->
-    <li>As I examined {PAWN_nameShortPossessive} nipple, I noticed its delicate shape and tiny size, resembling a small bead.</li>
+    <li>当我检查{PAWN_nameShortPossessive}乳头时，我注意到它的形状精致且尺寸微小，就像一颗小珠子。</li>
     <!--EN: Upon closer inspection, I saw {PAWN_nameShortPossessive} nipple's subtle texture, with tiny bumps and ridges that added to its intricate detail.-->
-    <li>Upon closer inspection, I saw {PAWN_nameShortPossessive} nipple&apos;s subtle texture, with tiny bumps and ridges that added to its intricate detail.</li>
+    <li>经过仔细观察，我看到了 {PAWN_nameShortPossessive} 乳头 的微妙纹理，带有微小的凸起和脊，增加了其复杂的细节。</li>
     <!--EN: Glancing at {PAWN_nameShortPossessive} nipple, I observed its minimal projection, blending seamlessly into the surrounding skin.-->
-    <li>Glancing at {PAWN_nameShortPossessive} nipple, I observed its minimal projection, blending seamlessly into the surrounding skin.</li>
+    <li>看了一眼 {PAWN_nameShortPossessive} 乳头，我观察到它的最小投影，无缝地融入周围的皮肤。</li>
     <!--EN: Upon closer inspection, I observed {PAWN_nameShortPossessive} nipples' intricate details, with a texture that differed from the surrounding skin.-->
-    <li>Upon closer inspection, I observed {PAWN_nameShortPossessive} nipples&apos; intricate details, with a texture that differed from the surrounding skin.</li>
+    <li>经过仔细观察，我观察到了{PAWN_nameShortPossessive}乳头'复杂的细节，其纹理与周围的皮肤不同。</li>
     <!--EN: I gazed at {PAWN_nameShortPossessive} nipples, noting {PAWN_possessive} small, pert shape. They were slightly raised, with a delicate, pinkish color.-->
-    <li>I gazed at {PAWN_nameShortPossessive} nipples, noting {PAWN_possessive} small, pert shape. They were slightly raised, with a delicate, pinkish color.</li>
+    <li>我凝视着 {PAWN_nameShortPossessive} 乳头，注意到 {PAWN_possessive} 小而漂亮的形状。它们微微凸起，呈精致的粉红色。</li>
     <!--EN: I examined {PAWN_nameShortPossessive} nipples more closely, observing the tiny, concentric circles that formed the areola. The texture was smooth, with a subtle sheen.-->
-    <li>I examined {PAWN_nameShortPossessive} nipples more closely, observing the tiny, concentric circles that formed the areola. The texture was smooth, with a subtle sheen.</li>
+    <li>我更仔细地检查了 {PAWN_nameShortPossessive} 乳头，观察形成乳晕的微小同心圆。质地光滑，带有微妙的光泽。</li>
     <!--EN: I glanced at {PAWN_nameShortPossessive} nipples, noticing how they seemed to blend seamlessly into the surrounding skin, almost as if they were a subtle indentation.-->
-    <li>I glanced at {PAWN_nameShortPossessive} nipples, noticing how they seemed to blend seamlessly into the surrounding skin, almost as if they were a subtle indentation.</li>
+    <li>我看了一眼 {PAWN_nameShortPossessive} 乳头，注意到它们似乎与周围的皮肤无缝地融为一体，几乎就像是一个微妙的凹痕。</li>
     <!--EN: {PAWN_nameShortPossessive} nipples look normal, nothing to add.-->
-    <li>{PAWN_nameShortPossessive} nipples look normal, nothing to add.</li>
+    <li>{PAWN_nameShortPossessive} 乳头看起来很正常，没有什么可补充的。</li>
     <!--EN: I noticed {PAWN_nameShortPossessive} uncovered nipples, they were just there, two dots on {PAWN_possessive} flat chest.-->
-    <li>I noticed {PAWN_nameShortPossessive} uncovered nipples, they were just there, two dots on {PAWN_possessive} flat chest.</li>
+    <li>我注意到{PAWN_nameShortPossessive}没有覆盖乳头，它们就在那里，{PAWN_possessive}平坦的胸部上有两个点。</li>
     <!--EN: {PAWN_nameShort} has simple flat breasts with two nipples, nothing special, and I am not attracted to them.-->
-    <li>{PAWN_nameShort} has simple flat breasts with two nipples, nothing special, and I am not attracted to them.</li>
+    <li>{PAWN_nameShort}有简单的扁平乳房和两个乳头，没什么特别的，我对它们不感兴趣。</li>
     <!--EN: I noticed {PAWN_nameShortPossessive} bare chest. Plain, flat as a board. Nothing special.-->
-    <li>I noticed {PAWN_nameShortPossessive} bare chest. Plain, flat as a board. Nothing special.</li>
+    <li>我注意到{PAWN_nameShortPossessive}裸胸部。平淡如木板。没什么特别的。</li>
     <!--EN: I see {PAWN_nameShortPossessive} flat chest and it doesn't bother me at all.-->
-    <li>I see {PAWN_nameShortPossessive} flat chest and it doesn&apos;t bother me at all.</li>
+    <li>我看到 {PAWN_nameShortPossessive} 平胸，但我一点也不介意。</li>
     <!--EN: {PAWN_nameShortPossessive} flat chest came into my field of vision, nothing to look at.-->
-    <li>{PAWN_nameShortPossessive} flat chest came into my field of vision, nothing to look at.</li>
+    <li>{PAWN_nameShortPossessive}平胸进入我的视野，没什么可看的。</li>
     <!--EN: I noticed {PAWN_nameShortPossessive} flat chest, but I don't care, it's just another breast.-->
-    <li>I noticed {PAWN_nameShortPossessive} flat chest, but I don&apos;t care, it&apos;s just another breast.</li>
+    <li>我注意到{PAWN_nameShortPossessive}平胸，但我不在乎，这只是另一个乳房。</li>
     <!--EN: I saw {PAWN_nameShortPossessive} delicate flat chest, two nipples rising above the plain, and as quickly lost from sight as my attention.-->
-    <li>I saw {PAWN_nameShortPossessive} delicate flat chest, two nipples rising above the plain, and as quickly lost from sight as my attention.</li>
+    <li>我看到{PAWN_nameShortPossessive}精致平坦的胸部，两个乳头升起在平原之上，很快就从我的视线中消失了。</li>
     <!--EN: {PAWN_nameShortPossessive} breasts don't evoke any emotions in me, just a plane with two nipples, I don't care.-->
-    <li>{PAWN_nameShortPossessive} breasts don&apos;t evoke any emotions in me, just a plane with two nipples, I don&apos;t care.</li>
+    <li>{PAWN_nameShortPossessive} 乳房不会唤起我任何情绪，只是一架有两个乳头的飞机，我不在乎。</li>
     <!--EN: Her chest is flat, with visible nipples. It's simply a chest.-->
-    <li>Her chest is flat, with visible nipples. It&apos;s simply a chest.</li>
+    <li>她的胸部平坦，可见乳头。简直就是一个胸。</li>
     <!--EN: Just a flat chest. Nothing particularly interesting or uninteresting.-->
-    <li>Just a flat chest. Nothing particularly interesting or uninteresting.</li>
+    <li>就是平胸而已。没有什么特别有趣或无趣的事情。</li>
     <!--EN: I observed {PAWN_nameShortPossessive} flat chest. The nipples were present.-->
-    <li>I observed {PAWN_nameShortPossessive} flat chest. The nipples were present.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 胸部平坦。 乳头 存在。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is rather devoid of curves. The nipples are there.-->
-    <li>{PAWN_nameShortPossessive} chest is rather devoid of curves. The nipples are there.</li>
+    <li>{PAWN_nameShortPossessive} 胸部相当缺乏曲线。 乳头在那里。</li>
     <!--EN: A flat expanse, with the usual two points. Nothing to hold my attention.-->
-    <li>A flat expanse, with the usual two points. Nothing to hold my attention.</li>
+    <li>一片平坦的区域，有通常的两个点。没有什么可以吸引我的注意力。</li>
     <!--EN: The chest is flat, as one might expect. Nipples are visible.-->
-    <li>The chest is flat, as one might expect. Nipples are visible.</li>
+    <li>正如人们所预料的那样，胸部平坦。 乳头可见。</li>
     <!--EN: It's a flat chest. Functionally present, I suppose.-->
-    <li>It&apos;s a flat chest. Functionally present, I suppose.</li>
+    <li>这是平胸。我想，功能上是存在的。</li>
     <!--EN: I barely registered {PAWN_nameShortPossessive} flat chest. Just nipples.-->
-    <li>I barely registered {PAWN_nameShortPossessive} flat chest. Just nipples.</li>
+    <li>我几乎没有注意到 {PAWN_nameShortPossessive} 平胸。只是乳头。</li>
     <!--EN: Plain chest, no discernible features beyond the nipples.-->
-    <li>Plain chest, no discernible features beyond the nipples.</li>
+    <li>胸部平坦，乳头之外没有明显特征。</li>
     <!--EN: Her chest offers little to comment on, just a flat surface with nipples.-->
-    <li>Her chest offers little to comment on, just a flat surface with nipples.</li>
+    <li>她的胸部没什么可评论的，只是一个带有乳头的平坦表面。</li>
     <!--EN: Flat and unremarkable. Nothing to stir any particular feeling.-->
-    <li>Flat and unremarkable. Nothing to stir any particular feeling.</li>
+    <li>平坦且不起眼。没有什么能激起任何特别的感觉。</li>
     <!--EN: The nipples are clear against the flat chest. A simple observation.-->
-    <li>The nipples are clear against the flat chest. A simple observation.</li>
+    <li>乳头在平坦的胸部的映衬下清晰可见。一个简单的观察。</li>
     <!--EN: I noticed the two small points on {PAWN_nameShortPossessive} flat chest.-->
-    <li>I noticed the two small points on {PAWN_nameShortPossessive} flat chest.</li>
+    <li>我注意到{PAWN_nameShortPossessive}平胸上有两个小点。</li>
     <!--EN: Her chest is flat, and her nipples are small. That's all.-->
-    <li>Her chest is flat, and her nipples are small. That&apos;s all.</li>
+    <li>她的胸部平坦，她的乳头很小。就这样。</li>
     <!--EN: A flat chest with nipples. Standard, unexciting.-->
-    <li>A flat chest with nipples. Standard, unexciting.</li>
+    <li>胸部扁平，有乳头。标准，平庸。</li>
   </Opinion_Breasts_Neutral_Nipples.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral)_Elderly_Female_opinion-->
-  <Opinion_Breasts_Neutral_Nipples_Elderly_Female_opinion.label>Flat/Nipples Breasts (Neutral)_Elderly_Female_opinion</Opinion_Breasts_Neutral_Nipples_Elderly_Female_opinion.label>
+  <Opinion_Breasts_Neutral_Nipples_Elderly_Female_opinion.label>扁平/乳头乳房（中性）_老年人_女性_意见</Opinion_Breasts_Neutral_Nipples_Elderly_Female_opinion.label>
   <Opinion_Breasts_Neutral_Nipples_Elderly_Female_opinion.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} chest is quite flat. Not uncommon for some.-->
-    <li>{PAWN_nameShortPossessive} chest is quite flat. Not uncommon for some.</li>
+    <li>{PAWN_nameShortPossessive}胸部很平坦。对于某些人来说并不罕见。</li>
     <!--EN: A flat chest. Reminds me of some youngsters, still developing.-->
-    <li>A flat chest. Reminds me of some youngsters, still developing.</li>
+    <li>胸部平坦。让我想起一些仍在成长的年轻人。</li>
     <!--EN: Just a chest, and flat at that. Each to their own, I suppose.-->
-    <li>Just a chest, and flat at that. Each to their own, I suppose.</li>
+    <li>只是一个胸部，而且平坦。我想，每个人都有自己的。</li>
     <!--EN: I noticed the flatness of {PAWN_nameShortPossessive} chest, and the nipples. Perfectly normal.-->
-    <li>I noticed the flatness of {PAWN_nameShortPossessive} chest, and the nipples. Perfectly normal.</li>
+    <li>我注意到 {PAWN_nameShortPossessive} 胸部和 乳头 平坦。完全正常。</li>
     <!--EN: Hardly a figure to cause a fuss. It's a flat chest.-->
-    <li>Hardly a figure to cause a fuss. It&apos;s a flat chest.</li>
+    <li>几乎没有一个数字会引起大惊小怪。这是平胸。</li>
     <!--EN: The chest is as one might see on any young one. Simple.-->
-    <li>The chest is as one might see on any young one. Simple.</li>
+    <li>胸部就像人们在任何年轻人身上看到的那样。简单的。</li>
     <!--EN: A rather plain chest. No particular impression given, just her.-->
-    <li>A rather plain chest. No particular impression given, just her.</li>
+    <li>相当朴素的胸部。没有给人什么特别的印象，只有她。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is quite flat. Some prefer that, I imagine.-->
-    <li>{PAWN_nameShortPossessive} chest is quite flat. Some prefer that, I imagine.</li>
+    <li>{PAWN_nameShortPossessive}胸部很平坦。我想有些人更喜欢这样。</li>
     <!--EN: Just a basic chest. Nothing surprising there, nothing to compare.-->
-    <li>Just a basic chest. Nothing surprising there, nothing to compare.</li>
+    <li>只是一个基本的胸部。没有什么令人惊讶的，没有什么可比较的。</li>
     <!--EN: It's a flat chest with nipples. One sees many such variations.-->
-    <li>It&apos;s a flat chest with nipples. One sees many such variations.</li>
+    <li>是平胸，有乳头。人们可以看到许多这样的变化。</li>
     <!--EN: There's nothing remarkable about {PAWN_nameShortPossessive} flat chest, just natural.-->
-    <li>There&apos;s nothing remarkable about {PAWN_nameShortPossessive} flat chest, just natural.</li>
+    <li>{PAWN_nameShortPossessive} 平胸没什么特别的，很自然。</li>
     <!--EN: The chest is flat, as some youthful figures are.-->
-    <li>The chest is flat, as some youthful figures are.</li>
+    <li>胸部平坦，就像一些年轻的身材一样。</li>
     <!--EN: I observed {PAWN_nameShortPossessive} chest. It is flat.-->
-    <li>I observed {PAWN_nameShortPossessive} chest. It is flat.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 胸部。它是平坦的。</li>
     <!--EN: A common sight, a flat chest. No strong feelings either way, merely an observation.-->
-    <li>A common sight, a flat chest. No strong feelings either way, merely an observation.</li>
+    <li>常见的现象就是平胸。无论哪种方式都没有强烈的感觉，只是一种观察。</li>
     <!--EN: Her chest is flat. A simple observation.-->
-    <li>Her chest is flat. A simple observation.</li>
+    <li>她的胸部平坦。一个简单的观察。</li>
     <!--EN: Just a flat chest. Nothing to provoke a second glance, just a quick look.-->
-    <li>Just a flat chest. Nothing to provoke a second glance, just a quick look.</li>
+    <li>就是平胸而已。没有什么可以引起第二眼，只是快速浏览一下。</li>
     <!--EN: It's a chest. Nothing particularly attractive or repulsive about its flatness, just... there.-->
-    <li>It&apos;s a chest. Nothing particularly attractive or repulsive about its flatness, just... there.</li>
+    <li>这是一个胸部。它的平坦度并没有什么特别吸引人或令人厌恶的地方，只是……就在那里。</li>
     <!--EN: The flatness of {PAWN_nameShortPossessive} chest is apparent. Some women are built that way.-->
-    <li>The flatness of {PAWN_nameShortPossessive} chest is apparent. Some women are built that way.</li>
+    <li>{PAWN_nameShortPossessive}胸部的平坦度很明显。有些女人就是这样。</li>
     <!--EN: I don't have much to say about {PAWN_nameShortPossessive} flat chest. It simply is.-->
-    <li>I don&apos;t have much to say about {PAWN_nameShortPossessive} flat chest. It simply is.</li>
+    <li>关于{PAWN_nameShortPossessive}平胸我没什么可说的。确实如此。</li>
     <!--EN: The chest is flat, the nipples small. A fact of nature, nothing more.-->
-    <li>The chest is flat, the nipples small. A fact of nature, nothing more.</li>
+    <li>胸部平坦，乳头较小。这是自然现象，仅此而已。</li>
     <!--EN: Unremarkable chest. Just a flat surface, as nature intended for some.-->
-    <li>Unremarkable chest. Just a flat surface, as nature intended for some.</li>
+    <li>胸部平平无奇。只是一个平坦的表面，正如大自然对某些人的期望。</li>
     <!--EN: A flat chest. Seen it before, countless times.-->
-    <li>A flat chest. Seen it before, countless times.</li>
+    <li>胸部平坦。以前看过，无数次了。</li>
     <!--EN: The chest is flat, with the usual protrusions. Entirely ordinary.-->
-    <li>The chest is flat, with the usual protrusions. Entirely ordinary.</li>
+    <li>胸部平坦，具有常见的突起。完全是普通的。</li>
     <!--EN: A common chest. Nothing stands out, nothing to linger on.-->
-    <li>A common chest. Nothing stands out, nothing to linger on.</li>
+    <li>一个普通的胸部。没有什么突出的，没有什么可以流连忘返的。</li>
     <!--EN: I took note of {PAWN_nameShortPossessive} flat chest.-->
-    <li>I took note of {PAWN_nameShortPossessive} flat chest.</li>
+    <li>我注意到 {PAWN_nameShortPossessive} 平胸。</li>
     <!--EN: It's a flat chest with nipples. Very neutral, very common.-->
-    <li>It&apos;s a flat chest with nipples. Very neutral, very common.</li>
+    <li>是平胸，有乳头。非常中性，非常常见。</li>
     <!--EN: Nothing to admire, nothing to criticize. Just a flat chest, as it can be.-->
-    <li>Nothing to admire, nothing to criticize. Just a flat chest, as it can be.</li>
+    <li>没有什么值得赞美的，也没有什么可以批评的。只是平胸而已。</li>
     <!--EN: Her chest is flat and unadorned. Some are simply built thus.-->
-    <li>Her chest is flat and unadorned. Some are simply built thus.</li>
+    <li>她的胸部平坦且朴素。有些就是简单地这样建造的。</li>
     <!--EN: A rather plain chest, flat and uninteresting. A simple fact.-->
-    <li>A rather plain chest, flat and uninteresting. A simple fact.</li>
+    <li>相当朴素的胸部，扁平且无趣。一个简单的事实。</li>
     <!--EN: The chest is flat. It simply exists, like any other part of the body.-->
-    <li>The chest is flat. It simply exists, like any other part of the body.</li>
+    <li>胸部平坦。它只是存在，就像身体的任何其他部分一样。</li>
   </Opinion_Breasts_Neutral_Nipples_Elderly_Female_opinion.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral)_Elderly_Female_voyer_opinion-->
-  <Opinion_Breasts_Neutral_Nipples_Elderly_Female_voyer_opinion.label>Flat/Nipples Breasts (Neutral)_Elderly_Female_voyer_opinion</Opinion_Breasts_Neutral_Nipples_Elderly_Female_voyer_opinion.label>
+  <Opinion_Breasts_Neutral_Nipples_Elderly_Female_voyer_opinion.label>扁平/乳头 乳房（中性）_Elderly_Female_voyer_opinion</Opinion_Breasts_Neutral_Nipples_Elderly_Female_voyer_opinion.label>
   <Opinion_Breasts_Neutral_Nipples_Elderly_Female_voyer_opinion.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} flat chest with just nipples... not much to stimulate an old voyeur, but it is exposed.-->
-    <li>{PAWN_nameShortPossessive} flat chest with just nipples... not much to stimulate an old voyeur, but it is exposed.</li>
+    <li>{PAWN_nameShortPossessive}平胸只有乳头...对老偷窥者来说没有太大刺激，但它是暴露。</li>
     <!--EN: I observed the nipples on {PAWN_nameShortPossessive} flat chest. Hardly provocative, but it is nude.-->
-    <li>I observed the nipples on {PAWN_nameShortPossessive} flat chest. Hardly provocative, but it is nude.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 平胸上的 乳头。几乎不挑衅，但它是裸体。</li>
     <!--EN: A flat chest, barely any curve. It's bare, but uninspiring for a voyeur like me, my own body feels nothing.-->
-    <li>A flat chest, barely any curve. It&apos;s bare, but uninspiring for a voyeur like me, my own body feels nothing.</li>
+    <li>胸部平坦，几乎没有任何曲线。这是裸露，但对于像我这样的偷窥狂来说，这并不鼓舞人心，我自己的身体没有任何感觉。</li>
     <!--EN: The lack of pronounced breasts on {PAWN_nameShort} is... noticeable. My attention quickly wanders to something more interesting.-->
-    <li>The lack of pronounced breasts on {PAWN_nameShort} is... noticeable. My attention quickly wanders to something more interesting.</li>
+    <li>{PAWN_nameShort} 上缺乏明显的 乳房 是......值得注意的。我的注意力很快就转移到更有趣的事情上。</li>
     <!--EN: Not much to feast my eyes on here, just a flat expanse with nipples. My desires remain dormant.-->
-    <li>Not much to feast my eyes on here, just a flat expanse with nipples. My desires remain dormant.</li>
+    <li>这里没什么能让我大饱眼福的，只是一片平坦的区域，有乳头。我的欲望仍然处于休眠状态。</li>
     <!--EN: It's a flat chest. My urges remain undisturbed, my own core feels no heat.-->
-    <li>It&apos;s a flat chest. My urges remain undisturbed, my own core feels no heat.</li>
+    <li>这是平胸。我的冲动仍然不受干扰，我自己的核心感觉不到热量。</li>
     <!--EN: The nipples are certainly there. A minimal visual, perhaps, for my voyeuristic eye.-->
-    <li>The nipples are certainly there. A minimal visual, perhaps, for my voyeuristic eye.</li>
+    <li>乳头肯定在那里。对于我偷窥狂的眼睛来说，这也许是一个最小的视觉效果。</li>
     <!--EN: I glanced at the flat chest. A fleeting observation for a voyeur, nothing to cling to.-->
-    <li>I glanced at the flat chest. A fleeting observation for a voyeur, nothing to cling to.</li>
+    <li>我看了一眼平坦的胸部。对于偷窥者来说，这是转瞬即逝的观察，没有什么可以坚持的。</li>
     <!--EN: Her chest is flat. Not much to exploit for my pleasure, no comparison to my own vibrant past.-->
-    <li>Her chest is flat. Not much to exploit for my pleasure, no comparison to my own vibrant past.</li>
+    <li>她的胸部平坦。没有太多可供我娱乐的东西，无法与我自己充满活力的过去相比。</li>
     <!--EN: Just nipples on a flat surface. Doesn't quite scratch the itch of my voyeuristic inclinations.-->
-    <li>Just nipples on a flat surface. Doesn&apos;t quite scratch the itch of my voyeuristic inclinations.</li>
+    <li>只是乳头在平坦的表面上。并不能完全消除我的窥淫癖。</li>
     <!--EN: A bare chest, flat. It's a view, but a rather plain one for my tastes, offering no thrill.-->
-    <li>A bare chest, flat. It&apos;s a view, but a rather plain one for my tastes, offering no thrill.</li>
+    <li>胸部裸露，平坦。这是一种风景，但对我来说相当平淡，没有带来任何刺激。</li>
     <!--EN: The flat chest offers little in the way of visual excitement for my particular inclinations.-->
-    <li>The flat chest offers little in the way of visual excitement for my particular inclinations.</li>
+    <li>对于我的特殊喜好来说，平坦的胸部几乎没有提供视觉刺激。</li>
     <!--EN: Not particularly engaging for my voyeuristic tendencies. Just flat, and my own body feels nothing.-->
-    <li>Not particularly engaging for my voyeuristic tendencies. Just flat, and my own body feels nothing.</li>
+    <li>对于我的偷窥倾向来说并不是特别有吸引力。只是平坦，我自己的身体没有任何感觉。</li>
     <!--EN: I noticed the flatness, and the nipples. My excitement is... non-existent.-->
-    <li>I noticed the flatness, and the nipples. My excitement is... non-existent.</li>
+    <li>我注意到平坦度和乳头。我的兴奋是……不存在的。</li>
     <!--EN: It's exposed, but there's not much to discern on {PAWN_nameShortPossessive} flat chest that stimulates me.-->
-    <li>It&apos;s exposed, but there&apos;s not much to discern on {PAWN_nameShortPossessive} flat chest that stimulates me.</li>
+    <li>这是暴露，但{PAWN_nameShortPossessive}平坦的胸部没有太多可以刺激我的地方。</li>
     <!--EN: A flat canvas, with simple nipples. Doesn't quite fulfill the voyeuristic fantasy for a woman like me.-->
-    <li>A flat canvas, with simple nipples. Doesn&apos;t quite fulfill the voyeuristic fantasy for a woman like me.</li>
+    <li>平坦的画布，带有简单的乳头。并不能完全满足像我这样的女人的偷窥幻想。</li>
     <!--EN: My gaze sweeps over {PAWN_nameShortPossessive} flat chest. Nothing memorable, nothing to ignite my own senses.-->
-    <li>My gaze sweeps over {PAWN_nameShortPossessive} flat chest. Nothing memorable, nothing to ignite my own senses.</li>
+    <li>我的目光扫过{PAWN_nameShortPossessive}平胸。没有什么值得纪念的，没有什么可以点燃我自己的感官。</li>
     <!--EN: The flat chest fails to excite. Just a bare surface, and my own desires remain calm.-->
-    <li>The flat chest fails to excite. Just a bare surface, and my own desires remain calm.</li>
+    <li>平胸无法让人兴奋。只是裸露表面，而我自己的欲望依然平静。</li>
     <!--EN: I observe the nipples on {PAWN_nameShortPossessive} flat chest. They are merely there, offering no spark.-->
-    <li>I observe the nipples on {PAWN_nameShortPossessive} flat chest. They are merely there, offering no spark.</li>
+    <li>我观察 {PAWN_nameShortPossessive} 平胸上的 乳头。它们只是在那里，不提供任何火花。</li>
     <!--EN: Her chest is flat, leaving little to my imagination, and less to my arousal.-->
-    <li>Her chest is flat, leaving little to my imagination, and less to my arousal.</li>
+    <li>她的胸部平坦，几乎没有给我留下想象空间，也没有给我唤醒。</li>
     <!--EN: For a voyeur, this flat chest is rather uneventful, offering no thrill.-->
-    <li>For a voyeur, this flat chest is rather uneventful, offering no thrill.</li>
+    <li>对于偷窥者来说，这个平坦的胸部相当平淡，没有任何刺激感。</li>
     <!--EN: The nipples are clear, but the lack of form is... underwhelming for observation, especially for one like me.-->
-    <li>The nipples are clear, but the lack of form is... underwhelming for observation, especially for one like me.</li>
+    <li>乳头很清晰，但缺乏形状......观察起来很平庸，尤其是对于像我这样的人来说。</li>
     <!--EN: I acknowledge the nudity of {PAWN_nameShortPossessive} flat chest, but it does not enthrall, nor does it stir my own body.-->
-    <li>I acknowledge the nudity of {PAWN_nameShortPossessive} flat chest, but it does not enthrall, nor does it stir my own body.</li>
+    <li>我承认{PAWN_nameShortPossessive}平胸的裸体，但它并不着迷，也没有搅动我自己的身体。</li>
     <!--EN: A flat chest. My voyeuristic eye finds little depth, nothing to delve into.-->
-    <li>A flat chest. My voyeuristic eye finds little depth, nothing to delve into.</li>
+    <li>胸部平坦。我的窥视眼找不到深度，没有什么可深入的。</li>
     <!--EN: The chest is flat, with minimal detail. My focus drifts to more interesting sights.-->
-    <li>The chest is flat, with minimal detail. My focus drifts to more interesting sights.</li>
+    <li>胸部平坦，细节极少。我的注意力转向更有趣的景点。</li>
     <!--EN: It's a flat chest, devoid of curves to truly savor, offering no pleasure to my gaze.-->
-    <li>It&apos;s a flat chest, devoid of curves to truly savor, offering no pleasure to my gaze.</li>
+    <li>这是一个平坦的胸部，没有真正品味的曲线，给我的目光带来了任何乐趣。</li>
     <!--EN: My voyeuristic desires are not particularly stirred by this flat chest. My body feels nothing.-->
-    <li>My voyeuristic desires are not particularly stirred by this flat chest. My body feels nothing.</li>
+    <li>我的偷窥欲望并没有被这个平坦的胸部特别激起。我的身体没有任何感觉。</li>
     <!--EN: The bare nipples on a flat chest. It's simply a factual observation for a voyeur.-->
-    <li>The bare nipples on a flat chest. It&apos;s simply a factual observation for a voyeur.</li>
+    <li>平胸上的裸露乳头。这只是一个偷窥者的事实观察。</li>
     <!--EN: I merely note the flatness of {PAWN_nameShortPossessive} chest. No lingering interest, no internal response.-->
-    <li>I merely note the flatness of {PAWN_nameShortPossessive} chest. No lingering interest, no internal response.</li>
+    <li>我只是注意到 {PAWN_nameShortPossessive} 胸部的平坦度。没有挥之不去的兴趣，没有内部反应。</li>
     <!--EN: A flat chest, with nipples. No grand spectacle for my voyeuristic gaze, no satisfaction.-->
-    <li>A flat chest, with nipples. No grand spectacle for my voyeuristic gaze, no satisfaction.</li>
+    <li>胸部平坦，有乳头。我的窥视目光没有什么壮观的景象，也没有满足感。</li>
   </Opinion_Breasts_Neutral_Nipples_Elderly_Female_voyer_opinion.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral)_Elderly_Male_opinion-->
-  <Opinion_Breasts_Neutral_Nipples_Elderly_Male_opinion.label>Flat/Nipples Breasts (Neutral)_Elderly_Male_opinion</Opinion_Breasts_Neutral_Nipples_Elderly_Male_opinion.label>
+  <Opinion_Breasts_Neutral_Nipples_Elderly_Male_opinion.label>扁平/乳头乳房（中性）_老年人_男性_意见</Opinion_Breasts_Neutral_Nipples_Elderly_Male_opinion.label>
   <Opinion_Breasts_Neutral_Nipples_Elderly_Male_opinion.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} chest is rather flat. Not much to consider.-->
-    <li>{PAWN_nameShortPossessive} chest is rather flat. Not much to consider.</li>
+    <li>{PAWN_nameShortPossessive} chest is rather flat.没什么需要考虑的。</li>
     <!--EN: A flat chest. Reminds me of some of the younger recruits, I suppose.-->
-    <li>A flat chest. Reminds me of some of the younger recruits, I suppose.</li>
+    <li>胸部平坦。我想这让我想起了一些年轻的新兵。</li>
     <!--EN: Just a chest, and flat at that. Nothing of interest.-->
-    <li>Just a chest, and flat at that. Nothing of interest.</li>
+    <li>只是一个胸部，而且平坦。没什么兴趣。</li>
     <!--EN: I noticed the flatness of {PAWN_nameShortPossessive} chest, and the nipples. That's all.-->
-    <li>I noticed the flatness of {PAWN_nameShortPossessive} chest, and the nipples. That&apos;s all.</li>
+    <li>我注意到 {PAWN_nameShortPossessive} 胸部和 乳头 平坦。就这样。</li>
     <!--EN: Hardly a figure to capture attention. It's a flat chest.-->
-    <li>Hardly a figure to capture attention. It&apos;s a flat chest.</li>
+    <li>很难说是一个能引起人们注意的人物。这是平胸。</li>
     <!--EN: The chest is as one might see on any young one. Flat.-->
-    <li>The chest is as one might see on any young one. Flat.</li>
+    <li>胸部就像人们在任何年轻人身上看到的那样。平坦的。</li>
     <!--EN: A rather plain chest. No particular impression given.-->
-    <li>A rather plain chest. No particular impression given.</li>
+    <li>相当朴素的胸部。没有给人特别的印象。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is quite flat. Not something I'd dwell on.-->
-    <li>{PAWN_nameShortPossessive} chest is quite flat. Not something I&apos;d dwell on.</li>
+    <li>{PAWN_nameShortPossessive}胸部很平坦。这不是我会细想的事情。</li>
     <!--EN: Just a basic chest. Nothing surprising there.-->
-    <li>Just a basic chest. Nothing surprising there.</li>
+    <li>只是一个基本的胸部。那里没什么奇怪的。</li>
     <!--EN: It's a flat chest with nipples. One sees many such.-->
-    <li>It&apos;s a flat chest with nipples. One sees many such.</li>
+    <li>是平胸，有乳头。这样的人见得多了。</li>
     <!--EN: There's nothing remarkable about {PAWN_nameShortPossessive} flat chest.-->
-    <li>There&apos;s nothing remarkable about {PAWN_nameShortPossessive} flat chest.</li>
+    <li>{PAWN_nameShortPossessive} 平胸并没有什么值得注意的地方。</li>
     <!--EN: The chest is flat, as it sometimes is in youth.-->
-    <li>The chest is flat, as it sometimes is in youth.</li>
+    <li>胸部平坦，就像年轻时有时那样。</li>
     <!--EN: I observed {PAWN_nameShortPossessive} chest. It is flat.-->
-    <li>I observed {PAWN_nameShortPossessive} chest. It is flat.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 胸部。它是平坦的。</li>
     <!--EN: A common sight, a flat chest. No strong feelings either way.-->
-    <li>A common sight, a flat chest. No strong feelings either way.</li>
+    <li>常见的现象就是平胸。无论哪种方式都没有强烈的感觉。</li>
     <!--EN: Her chest is flat. A simple observation.-->
-    <li>Her chest is flat. A simple observation.</li>
+    <li>她的胸部平坦。一个简单的观察。</li>
     <!--EN: Just a flat chest. Nothing to provoke a second glance.-->
-    <li>Just a flat chest. Nothing to provoke a second glance.</li>
+    <li>就是平胸而已。没有什么可以引起第二眼。</li>
     <!--EN: It's a chest. Nothing particularly attractive or repulsive about its flatness.-->
-    <li>It&apos;s a chest. Nothing particularly attractive or repulsive about its flatness.</li>
+    <li>这是一个胸部。它的平坦度没有什么特别吸引人或令人反感的地方。</li>
     <!--EN: The flatness of {PAWN_nameShortPossessive} chest is apparent.-->
-    <li>The flatness of {PAWN_nameShortPossessive} chest is apparent.</li>
+    <li>{PAWN_nameShortPossessive}胸部的平坦度很明显。</li>
     <!--EN: I don't have much to say about {PAWN_nameShortPossessive} flat chest.-->
-    <li>I don&apos;t have much to say about {PAWN_nameShortPossessive} flat chest.</li>
+    <li>关于{PAWN_nameShortPossessive}平胸我没什么可说的。</li>
     <!--EN: The chest is flat, the nipples small. A fact, nothing more.-->
-    <li>The chest is flat, the nipples small. A fact, nothing more.</li>
+    <li>胸部平坦，乳头较小。事实，仅此而已。</li>
     <!--EN: Unremarkable chest. Just a flat surface.-->
-    <li>Unremarkable chest. Just a flat surface.</li>
+    <li>胸部平平无奇。只是一个平坦的表面。</li>
     <!--EN: A flat chest. Seen it before.-->
-    <li>A flat chest. Seen it before.</li>
+    <li>胸部平坦。以前见过。</li>
     <!--EN: The chest is flat, with the usual protrusions.-->
-    <li>The chest is flat, with the usual protrusions.</li>
+    <li>胸部平坦，具有常见的突起。</li>
     <!--EN: A common chest. Nothing stands out.-->
-    <li>A common chest. Nothing stands out.</li>
+    <li>一个普通的胸部。没有什么突出的。</li>
     <!--EN: I took note of {PAWN_nameShortPossessive} flat chest.-->
-    <li>I took note of {PAWN_nameShortPossessive} flat chest.</li>
+    <li>我注意到 {PAWN_nameShortPossessive} 平胸。</li>
     <!--EN: It's a flat chest with nipples. Very neutral.-->
-    <li>It&apos;s a flat chest with nipples. Very neutral.</li>
+    <li>是平胸，有乳头。非常中立。</li>
     <!--EN: Nothing to admire, nothing to criticize. Just a flat chest.-->
-    <li>Nothing to admire, nothing to criticize. Just a flat chest.</li>
+    <li>没有什么值得赞美的，也没有什么可以批评的。就是平胸而已。</li>
     <!--EN: Her chest is flat and unadorned.-->
-    <li>Her chest is flat and unadorned.</li>
+    <li>她的胸部平坦且朴素。</li>
     <!--EN: A rather plain chest, flat and uninteresting.-->
-    <li>A rather plain chest, flat and uninteresting.</li>
+    <li>相当朴素的胸部，扁平且无趣。</li>
     <!--EN: The chest is flat. It simply exists.-->
-    <li>The chest is flat. It simply exists.</li>
+    <li>胸部平坦。它只是存在。</li>
   </Opinion_Breasts_Neutral_Nipples_Elderly_Male_opinion.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral)_Elderly_Male_voyer_opinion-->
-  <Opinion_Breasts_Neutral_Nipples_Elderly_Male_voyer_opinion.label>Flat/Nipples Breasts (Neutral)_Elderly_Male_voyer_opinion</Opinion_Breasts_Neutral_Nipples_Elderly_Male_voyer_opinion.label>
+  <Opinion_Breasts_Neutral_Nipples_Elderly_Male_voyer_opinion.label>扁平/乳头 乳房（中性）_Elderly_Male_voyer_opinion</Opinion_Breasts_Neutral_Nipples_Elderly_Male_voyer_opinion.label>
   <Opinion_Breasts_Neutral_Nipples_Elderly_Male_voyer_opinion.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} flat chest with just nipples... not much to hold a voyeur's interest, but still bare.-->
-    <li>{PAWN_nameShortPossessive} flat chest with just nipples... not much to hold a voyeur&apos;s interest, but still bare.</li>
+    <li>{PAWN_nameShortPossessive}平胸，只有乳头...不足以引起偷窥者的兴趣，但仍然裸露。</li>
     <!--EN: I observed the nipples on {PAWN_nameShortPossessive} flat chest. Hardly titillating, but it is nude.-->
-    <li>I observed the nipples on {PAWN_nameShortPossessive} flat chest. Hardly titillating, but it is nude.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 平胸上的 乳头。很难令人兴奋，但它是裸体。</li>
     <!--EN: A flat chest, barely any curve. It's nude, but uninspiring for a voyeur like me.-->
-    <li>A flat chest, barely any curve. It&apos;s nude, but uninspiring for a voyeur like me.</li>
+    <li>胸部平坦，几乎没有任何曲线。这是裸体，但对于像我这样的偷窥者来说没什么启发。</li>
     <!--EN: The lack of pronounced breasts on {PAWN_nameShort} is... noticeable. My attention wanders.-->
-    <li>The lack of pronounced breasts on {PAWN_nameShort} is... noticeable. My attention wanders.</li>
+    <li>{PAWN_nameShort} 上缺乏明显的 乳房 是......值得注意的。我的注意力分散了。</li>
     <!--EN: Not much to feast my eyes on here, just a flat expanse with nipples.-->
-    <li>Not much to feast my eyes on here, just a flat expanse with nipples.</li>
+    <li>这里没什么能让我大饱眼福的，只是一片平坦的区域，有乳头。</li>
     <!--EN: It's a flat chest. My urges remain undisturbed.-->
-    <li>It&apos;s a flat chest. My urges remain undisturbed.</li>
+    <li>这是平胸。我的冲动仍然不受干扰。</li>
     <!--EN: The nipples are certainly there. A minimal visual, perhaps.-->
-    <li>The nipples are certainly there. A minimal visual, perhaps.</li>
+    <li>乳头肯定在那里。也许是一个最小的视觉效果。</li>
     <!--EN: I glanced at the flat chest. A fleeting observation for a voyeur.-->
-    <li>I glanced at the flat chest. A fleeting observation for a voyeur.</li>
+    <li>我看了一眼平坦的胸部。偷窥者的短暂观察。</li>
     <!--EN: Her chest is flat. Not much to exploit for my pleasure.-->
-    <li>Her chest is flat. Not much to exploit for my pleasure.</li>
+    <li>她的胸部平坦。没有太多可以为我的乐趣所利用的东西。</li>
     <!--EN: Just nipples on a flat surface. Doesn't quite scratch the itch.-->
-    <li>Just nipples on a flat surface. Doesn&apos;t quite scratch the itch.</li>
+    <li>只是乳头在平坦的表面上。不太能止痒。</li>
     <!--EN: A bare chest, flat. It's a view, but a rather plain one for my tastes.-->
-    <li>A bare chest, flat. It&apos;s a view, but a rather plain one for my tastes.</li>
+    <li>A 裸露 chest, flat.这是一种观点，但对我来说是一种相当普通的观点。</li>
     <!--EN: The flat chest offers little in the way of visual excitement.-->
-    <li>The flat chest offers little in the way of visual excitement.</li>
+    <li>平坦的胸部几乎没有带来视觉刺激。</li>
     <!--EN: Not particularly engaging for my voyeuristic tendencies. Just flat.-->
-    <li>Not particularly engaging for my voyeuristic tendencies. Just flat.</li>
+    <li>对于我的偷窥倾向来说并不是特别有吸引力。只是平坦。</li>
     <!--EN: I noticed the flatness, and the nipples. My excitement is... muted.-->
-    <li>I noticed the flatness, and the nipples. My excitement is... muted.</li>
+    <li>我注意到平坦度和乳头。我的兴奋……平息了。</li>
     <!--EN: It's exposed, but there's not much to discern on {PAWN_nameShortPossessive} flat chest.-->
-    <li>It&apos;s exposed, but there&apos;s not much to discern on {PAWN_nameShortPossessive} flat chest.</li>
+    <li>这是暴露，但{PAWN_nameShortPossessive}平胸没有太多可辨别的地方。</li>
     <!--EN: A flat canvas, with simple nipples. Doesn't quite fulfill the voyeuristic fantasy.-->
-    <li>A flat canvas, with simple nipples. Doesn&apos;t quite fulfill the voyeuristic fantasy.</li>
+    <li>平坦的画布，带有简单的乳头。并不能完全满足偷窥狂的幻想。</li>
     <!--EN: My gaze sweeps over {PAWN_nameShortPossessive} flat chest. Nothing memorable.-->
-    <li>My gaze sweeps over {PAWN_nameShortPossessive} flat chest. Nothing memorable.</li>
+    <li>我的目光扫过{PAWN_nameShortPossessive}平胸。没什么值得纪念的。</li>
     <!--EN: The flat chest fails to excite. Just a bare surface.-->
-    <li>The flat chest fails to excite. Just a bare surface.</li>
+    <li>平胸无法让人兴奋。只是一个裸表面。</li>
     <!--EN: I observe the nipples on {PAWN_nameShortPossessive} flat chest. They are merely there.-->
-    <li>I observe the nipples on {PAWN_nameShortPossessive} flat chest. They are merely there.</li>
+    <li>我观察 {PAWN_nameShortPossessive} 平胸上的 乳头。他们只是在那里。</li>
     <!--EN: Her chest is flat, leaving little to my imagination.-->
-    <li>Her chest is flat, leaving little to my imagination.</li>
+    <li>她的胸部平坦，几乎没有给我留下想象的空间。</li>
     <!--EN: For a voyeur, this flat chest is rather uneventful.-->
-    <li>For a voyeur, this flat chest is rather uneventful.</li>
+    <li>对于一个偷窥狂来说，这个平胸是相当平淡的。</li>
     <!--EN: The nipples are clear, but the lack of form is... underwhelming for observation.-->
-    <li>The nipples are clear, but the lack of form is... underwhelming for observation.</li>
+    <li>乳头很清晰，但缺乏形状……观察起来很平淡。</li>
     <!--EN: I acknowledge the nudity of {PAWN_nameShortPossessive} flat chest, but it does not enthrall.-->
-    <li>I acknowledge the nudity of {PAWN_nameShortPossessive} flat chest, but it does not enthrall.</li>
+    <li>我承认 {PAWN_nameShortPossessive} 平胸的裸体，但它并不令人着迷。</li>
     <!--EN: A flat chest. My voyeuristic eye finds little depth.-->
-    <li>A flat chest. My voyeuristic eye finds little depth.</li>
+    <li>胸部平坦。我的窥视眼几乎找不到深度。</li>
     <!--EN: The chest is flat, with minimal detail. My focus drifts.-->
-    <li>The chest is flat, with minimal detail. My focus drifts.</li>
+    <li>胸部平坦，细节极少。我的注意力转移了。</li>
     <!--EN: It's a flat chest, devoid of curves to truly savor.-->
-    <li>It&apos;s a flat chest, devoid of curves to truly savor.</li>
+    <li>这是一个平坦的胸部，没有真正品味的曲线。</li>
     <!--EN: My voyeuristic desires are not particularly stirred by this flat chest.-->
-    <li>My voyeuristic desires are not particularly stirred by this flat chest.</li>
+    <li>我的偷窥欲望并没有被这个平坦的胸部特别激起。</li>
     <!--EN: The bare nipples on a flat chest. It's simply a factual observation.-->
-    <li>The bare nipples on a flat chest. It&apos;s simply a factual observation.</li>
+    <li>平胸上的裸露乳头。 It's simply a factual observation.</li>
     <!--EN: I merely note the flatness of {PAWN_nameShortPossessive} chest. No lingering interest.-->
-    <li>I merely note the flatness of {PAWN_nameShortPossessive} chest. No lingering interest.</li>
+    <li>我只是注意到 {PAWN_nameShortPossessive} 胸部的平坦度。没有挥之不去的兴趣。</li>
     <!--EN: A flat chest, with nipples. No grand spectacle for my voyeuristic gaze.-->
-    <li>A flat chest, with nipples. No grand spectacle for my voyeuristic gaze.</li>
+    <li>胸部平坦，有乳头。对于我偷窥狂的目光来说，没有什么壮观的景象。</li>
   </Opinion_Breasts_Neutral_Nipples_Elderly_Male_voyer_opinion.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral)_MaleOpinion-->
-  <Opinion_Breasts_Neutral_Nipples_MaleOpinion.label>Flat/Nipples Breasts (Neutral)_MaleOpinion</Opinion_Breasts_Neutral_Nipples_MaleOpinion.label>
+  <Opinion_Breasts_Neutral_Nipples_MaleOpinion.label>扁平/乳头乳房（中性）_MaleOpinion</Opinion_Breasts_Neutral_Nipples_MaleOpinion.label>
   <Opinion_Breasts_Neutral_Nipples_MaleOpinion.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} chest is flat. Not really my type, doesn't do anything for me.-->
-    <li>{PAWN_nameShortPossessive} chest is flat. Not really my type, doesn&apos;t do anything for me.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦。不是我真正喜欢的类型，对我没有任何帮助。</li>
     <!--EN: Flat chest, nipples visible. Nothing exciting, my body feels no reaction.-->
-    <li>Flat chest, nipples visible. Nothing exciting, my body feels no reaction.</li>
+    <li>胸部平坦，乳头可见。没有什么令人兴奋的事情，我的身体没有任何反应。</li>
     <!--EN: Her chest is flat, and honestly, I barely noticed. No rise in my blood.-->
-    <li>Her chest is flat, and honestly, I barely noticed. No rise in my blood.</li>
+    <li>她的胸部平坦，说实话，我几乎没有注意到。我的血没有上升。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is as flat as a board. My interest is nonexistent.-->
-    <li>{PAWN_nameShortPossessive} chest is as flat as a board. My interest is nonexistent.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦如木板。我的兴趣是不存在的。</li>
     <!--EN: Just a flat chest. My cock remains soft.-->
-    <li>Just a flat chest. My cock remains soft.</li>
+    <li>就是平胸而已。我的鸡巴仍然柔软。</li>
     <!--EN: The nipples are there, but the overall flatness leaves me uninspired.-->
-    <li>The nipples are there, but the overall flatness leaves me uninspired.</li>
+    <li>乳头在那里，但整体平坦让我没有灵感。</li>
     <!--EN: I see a flat chest. No reaction from me.-->
-    <li>I see a flat chest. No reaction from me.</li>
+    <li>我看到的是平胸。我没有任何反应。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is rather… unstimulating.-->
-    <li>{PAWN_nameShortPossessive} chest is rather… unstimulating.</li>
+    <li>{PAWN_nameShortPossessive}胸部相当……不刺激。</li>
     <!--EN: It's flat. Nothing about it makes me feel anything.-->
-    <li>It&apos;s flat. Nothing about it makes me feel anything.</li>
+    <li>它是平的。没有什么能让我有任何感觉。</li>
     <!--EN: A flat chest with nipples. It's just... there.-->
-    <li>A flat chest with nipples. It&apos;s just... there.</li>
+    <li>胸部扁平，有乳头。它就在……那里。</li>
     <!--EN: Her chest is flat, which means no curves to admire.-->
-    <li>Her chest is flat, which means no curves to admire.</li>
+    <li>她的胸部平坦，这意味着没有令人欣赏的曲线。</li>
     <!--EN: Not much to grab onto there, just a flat surface.-->
-    <li>Not much to grab onto there, just a flat surface.</li>
+    <li>那里没什么可抓住的，只是一个平坦的表面。</li>
     <!--EN: {PAWN_nameShortPossessive} flat chest doesn't spark any desire in me.-->
-    <li>{PAWN_nameShortPossessive} flat chest doesn&apos;t spark any desire in me.</li>
+    <li>{PAWN_nameShortPossessive}平胸不会激发我的任何欲望。</li>
     <!--EN: The nipples are tiny. The chest is flat. No impact.-->
-    <li>The nipples are tiny. The chest is flat. No impact.</li>
+    <li>乳头很小。胸部平坦。没有影响。</li>
     <!--EN: I noticed the flatness. No particular impression.-->
-    <li>I noticed the flatness. No particular impression.</li>
+    <li>我注意到了平坦度。没有特别的印象。</li>
     <!--EN: It's a chest, it's flat. My primal urges remain asleep.-->
-    <li>It&apos;s a chest, it&apos;s flat. My primal urges remain asleep.</li>
+    <li>这是一个胸部，它是平的。我的原始冲动仍在沉睡。</li>
     <!--EN: A very unremarkable chest. Doesn't stir my masculinity.-->
-    <li>A very unremarkable chest. Doesn&apos;t stir my masculinity.</li>
+    <li>一个非常不起眼的胸部。不会激发我的男子气概。</li>
     <!--EN: The flatness of {PAWN_nameShortPossessive} chest leaves me cold.-->
-    <li>The flatness of {PAWN_nameShortPossessive} chest leaves me cold.</li>
+    <li>{PAWN_nameShortPossessive}胸部的平坦让我感到寒冷。</li>
     <!--EN: I'm not interested in flat chests. Next.-->
-    <li>I&apos;m not interested in flat chests. Next.</li>
+    <li>我对平胸不感兴趣。下一个。</li>
     <!--EN: Flat as a pancake. My attention moves elsewhere.-->
-    <li>Flat as a pancake. My attention moves elsewhere.</li>
+    <li>扁平如煎饼。我的注意力转移到别处了。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is flat and unstimulating.-->
-    <li>{PAWN_nameShortPossessive} chest is flat and unstimulating.</li>
+    <li>{PAWN_nameShortPossessive} 胸部平坦且无刺激。</li>
     <!--EN: Nothing to see here, just a flat chest.-->
-    <li>Nothing to see here, just a flat chest.</li>
+    <li>这里没什么可看的，只是平坦的胸部。</li>
     <!--EN: The nipples are small, the chest is flat. Doesn't get my motor running.-->
-    <li>The nipples are small, the chest is flat. Doesn&apos;t get my motor running.</li>
+    <li>乳头很小，胸部平坦。我的电机无法运转。</li>
     <!--EN: Her chest is too flat for my preference.-->
-    <li>Her chest is too flat for my preference.</li>
+    <li>她的胸部太平了，不符合我的喜好。</li>
     <!--EN: I observed {PAWN_nameShortPossessive} flat chest. No arousal whatsoever.-->
-    <li>I observed {PAWN_nameShortPossessive} flat chest. No arousal whatsoever.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 胸部平坦。没有任何唤醒。</li>
     <!--EN: It's a flat chest with nipples. Not what I look for.-->
-    <li>It&apos;s a flat chest with nipples. Not what I look for.</li>
+    <li>是平胸，有乳头。不是我要找的。</li>
     <!--EN: I feel no attraction to {PAWN_nameShortPossessive} flat chest.-->
-    <li>I feel no attraction to {PAWN_nameShortPossessive} flat chest.</li>
+    <li>我觉得 {PAWN_nameShortPossessive} 平胸没有吸引力。</li>
     <!--EN: A very unexciting chest, given its flatness.-->
-    <li>A very unexciting chest, given its flatness.</li>
+    <li>鉴于其平坦度，这是一个非常平淡的胸部。</li>
     <!--EN: Flat and unappealing to my male gaze.-->
-    <li>Flat and unappealing to my male gaze.</li>
+    <li>在我的男性目光中平淡无奇。</li>
     <!--EN: Her chest is flat. It's just a surface.-->
-    <li>Her chest is flat. It&apos;s just a surface.</li>
+    <li>她的胸部平坦。这只是一个表面。</li>
   </Opinion_Breasts_Neutral_Nipples_MaleOpinion.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral)_SlimeBreasts-->
-  <Opinion_Breasts_Neutral_Nipples_SlimeBreasts.label>Flat/Nipples Breasts (Neutral)_SlimeBreasts</Opinion_Breasts_Neutral_Nipples_SlimeBreasts.label>
+  <Opinion_Breasts_Neutral_Nipples_SlimeBreasts.label>扁平/乳头 乳房（中性）_SlimeBreasts</Opinion_Breasts_Neutral_Nipples_SlimeBreasts.label>
   <Opinion_Breasts_Neutral_Nipples_SlimeBreasts.opinionTexts>
     <!--EN: {PAWN_possessive} slime breasts are flat, with subtle nipple prominence. Neither striking nor offensive, simply present.-->
-    <li>{PAWN_possessive} slime breasts are flat, with subtle nipple prominence. Neither striking nor offensive, simply present.</li>
+    <li>{PAWN_possessive} 粘液 乳房 平坦，具有微妙的 乳头 突出。既不引人注目也不具有攻击性，只是呈现。</li>
     <!--EN: Their sleek, unpronounced contour offers nothing remarkable, a utilitarian flatness serving its purpose without further thought.-->
-    <li>Their sleek, unpronounced contour offers nothing remarkable, a utilitarian flatness serving its purpose without further thought.</li>
+    <li>它们光滑、不明显的轮廓没有提供任何引人注目的东西，一种功利主义的平坦性无需进一步思考就能达到其目的。</li>
     <!--EN: These breasts are unburdened by volume, offering little for contemplation, merely existing as part of {PAWN_possessive} anatomy.-->
-    <li>These breasts are unburdened by volume, offering little for contemplation, merely existing as part of {PAWN_possessive} anatomy.</li>
+    <li>这些 乳房 没有体积的负担，几乎没有提供思考的空间，仅仅作为 {PAWN_possessive} 解剖结构的一部分而存在。</li>
     <!--EN: The chest surface exhibits expected smooth, yielding slime texture; nipples are simply there, drawing no undue attention.-->
-    <li>The chest surface exhibits expected smooth, yielding slime texture; nipples are simply there, drawing no undue attention.</li>
+    <li>胸部表面呈现出预期的光滑，产生粘液纹理； 乳头就在那里，不会引起过多的注意。</li>
     <!--EN: They possess a basic, functional shape, fitting observed forms without sparking particular reaction or significant interest.-->
-    <li>They possess a basic, functional shape, fitting observed forms without sparking particular reaction or significant interest.</li>
+    <li>它们具有基本的、功能性的形状，适合观察到的形式，不会引起特别的反应或显着的兴趣。</li>
     <!--EN: These flat slime breasts are present on {PAWN_nameShort}, their form within statistical average for similar genetic markers.-->
-    <li>These flat slime breasts are present on {PAWN_nameShort}, their form within statistical average for similar genetic markers.</li>
+    <li>这些扁平的 粘液 乳房 出现在 {PAWN_nameShort} 上，其形状处于相似遗传标记的统计平均值内。</li>
     <!--EN: One observes them as part of overall physiology, noting their lack of pronounced features, neither positive nor negative.-->
-    <li>One observes them as part of overall physiology, noting their lack of pronounced features, neither positive nor negative.</li>
+    <li>人们将它们作为整体生理学的一部分来观察，注意到它们缺乏明显的特征，无论是积极的还是消极的。</li>
     <!--EN: The visual impression is mild uniformity, {PAWN_nameShortPossessive} chest presenting a consistent, unremarkable example of slime mammary structures.-->
-    <li>The visual impression is mild uniformity, {PAWN_nameShortPossessive} chest presenting a consistent, unremarkable example of slime mammary structures.</li>
+    <li>视觉印象是轻微的均匀性，{PAWN_nameShortPossessive}胸部呈现出一致的、不起眼的粘液乳房结构示例。</li>
     <!--EN: Their existence is noted; anatomy functions as intended, providing no strong opinion, merely neutral observation.-->
-    <li>Their existence is noted; anatomy functions as intended, providing no strong opinion, merely neutral observation.</li>
+    <li>它们的存在已被注意到；解剖学按预期发挥作用，不提供强烈的意见，仅提供中立的观察。</li>
     <!--EN: These breasts are simply a given, a standard anatomical feature neither offending nor exciting, occupying expected space.-->
-    <li>These breasts are simply a given, a standard anatomical feature neither offending nor exciting, occupying expected space.</li>
+    <li>这些乳房只是一个给定的、标准的解剖学特征，既不冒犯也不令人兴奋，占据了预期的空间。</li>
     <!--EN: They neither draw nor repel the eye; they simply are, an unadorned aspect of {PAWN_possessive} physical composition.-->
-    <li>They neither draw nor repel the eye; they simply are, an unadorned aspect of {PAWN_possessive} physical composition.</li>
+    <li>它们既不吸引也不排斥眼睛；它们只是 {PAWN_possessive} 物理构成的朴素的一面。</li>
     <!--EN: Texture consistent with slime, shape as described: flat, with nipples. No particular aesthetic resonance.-->
-    <li>Texture consistent with slime, shape as described: flat, with nipples. No particular aesthetic resonance.</li>
+    <li>质地与粘液一致，形状如描述：扁平，有乳头。没有特别的审美共鸣。</li>
     <!--EN: From an observational standpoint, {PAWN_nameShortPossessive} breasts fulfill their role without exhibiting compelling characteristics.-->
-    <li>From an observational standpoint, {PAWN_nameShortPossessive} breasts fulfill their role without exhibiting compelling characteristics.</li>
+    <li>从观察的角度来看，{PAWN_nameShortPossessive} 乳房 履行了自己的职责，但没有表现出引人注目的特征。</li>
     <!--EN: They represent a common variation within slime breast anatomies, meriting no special commendation or critique.-->
-    <li>They represent a common variation within slime breast anatomies, meriting no special commendation or critique.</li>
+    <li>它们代表了 粘液 乳房 解剖结构中的常见变异，不值得特别赞扬或批评。</li>
     <!--EN: Their presence adds little to {PAWN_nameShort}'s overall impression, merely constituting another element of {PAWN_possessive} form.-->
-    <li>Their presence adds little to {PAWN_nameShort}&apos;s overall impression, merely constituting another element of {PAWN_possessive} form.</li>
+    <li>它们的存在几乎没有增加 {PAWN_nameShort} 的整体印象，仅构成 {PAWN_possessive} 形式的另一个元素。</li>
     <!--EN: Light reflects off them as expected for slime surface, neither dull nor bright, merely typical.-->
-    <li>Light reflects off them as expected for slime surface, neither dull nor bright, merely typical.</li>
+    <li>正如粘液表面所预期的那样，光线从它们身上反射出来，既不暗淡也不明亮，只是典型的。</li>
     <!--EN: As a component of {PAWN_possessive} body, they are present and unremarkable, neither impeding nor enhancing function or aesthetic.-->
-    <li>As a component of {PAWN_possessive} body, they are present and unremarkable, neither impeding nor enhancing function or aesthetic.</li>
+    <li>作为{PAWN_possessive}身体的组成部分，它们存在且不引人注目，既不妨碍也不增强功能或美观。</li>
     <!--EN: One might describe them as adequately proportioned, yet lacking distinguishing features that would provoke a more defined opinion.-->
-    <li>One might describe them as adequately proportioned, yet lacking distinguishing features that would provoke a more defined opinion.</li>
+    <li>人们可能会将它们描述为比例适当，但缺乏能够引发更明确意见的显着特征。</li>
     <!--EN: Tactile properties are likely anticipated from slime tissue, with no exceptional qualities beyond that.-->
-    <li>Tactile properties are likely anticipated from slime tissue, with no exceptional qualities beyond that.</li>
+    <li>粘液组织可能具有触觉特性，除此之外没有其他特殊品质。</li>
     <!--EN: They merely contribute to the general outline of {PAWN_possessive} upper torso, a neutral detail.-->
-    <li>They merely contribute to the general outline of {PAWN_possessive} upper torso, a neutral detail.</li>
+    <li>它们仅对 {PAWN_possessive} 上躯干的总体轮廓做出贡献，这是一个中性细节。</li>
   </Opinion_Breasts_Neutral_Nipples_SlimeBreasts.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral) trait Kind-->
-  <Opinion_Breasts_Neutral_Nipples_trait_Kind.label>Flat/Nipples Breasts (Neutral) trait Kind</Opinion_Breasts_Neutral_Nipples_trait_Kind.label>
+  <Opinion_Breasts_Neutral_Nipples_trait_Kind.label>扁平/乳头 乳房（中性）特征种类</Opinion_Breasts_Neutral_Nipples_trait_Kind.label>
   <Opinion_Breasts_Neutral_Nipples_trait_Kind.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} chest is flat. A simple and natural form.-->
-    <li>{PAWN_nameShortPossessive} chest is flat. A simple and natural form.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦。一种简单而自然的形式。</li>
     <!--EN: A rather gentle chest, with small nipples. Perfectly fine.-->
-    <li>A rather gentle chest, with small nipples. Perfectly fine.</li>
+    <li>胸部相当温柔，有小乳头。完全没问题。</li>
     <!--EN: There's a quiet presence to {PAWN_nameShortPossessive} flat chest.-->
-    <li>There&apos;s a quiet presence to {PAWN_nameShortPossessive} flat chest.</li>
+    <li>{PAWN_nameShortPossessive} 平胸给人一种安静的感觉。</li>
     <!--EN: I observe {PAWN_nameShortPossessive} flat chest. It is a natural part of {PAWN_possessive} body.-->
-    <li>I observe {PAWN_nameShortPossessive} flat chest. It is a natural part of {PAWN_possessive} body.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 胸部平坦。它是 {PAWN_possessive} 身体的自然组成部分。</li>
     <!--EN: The nipples are there, a subtle detail on a flat chest.-->
-    <li>The nipples are there, a subtle detail on a flat chest.</li>
+    <li>乳头在那里，平坦的胸部上的一个微妙的细节。</li>
     <!--EN: Her chest is flat, a perfectly valid shape.-->
-    <li>Her chest is flat, a perfectly valid shape.</li>
+    <li>她的胸部平坦，形状完美。</li>
     <!--EN: A simple, unadorned chest. Nothing wrong with that.-->
-    <li>A simple, unadorned chest. Nothing wrong with that.</li>
+    <li>一个简单、朴素的胸部。这没什么问题。</li>
     <!--EN: {PAWN_nameShortPossessive} flat chest is as it should be.-->
-    <li>{PAWN_nameShortPossessive} flat chest is as it should be.</li>
+    <li>{PAWN_nameShortPossessive}平胸是理所应当的。</li>
     <!--EN: I find no fault in {PAWN_nameShortPossessive} flat chest. It is a part of {PAWN_objective}.-->
-    <li>I find no fault in {PAWN_nameShortPossessive} flat chest. It is a part of {PAWN_objective}.</li>
+    <li>我认为{PAWN_nameShortPossessive}平胸没有任何问题。它是 {PAWN_objective} 的一部分。</li>
     <!--EN: A very natural chest, flat and unassuming.-->
-    <li>A very natural chest, flat and unassuming.</li>
+    <li>非常自然的胸部，平坦而不张扬。</li>
     <!--EN: The nipples are small, a common feature on a flat chest.-->
-    <li>The nipples are small, a common feature on a flat chest.</li>
+    <li>乳头很小，这是平胸的常见特征。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is flat. It is what it is.-->
-    <li>{PAWN_nameShortPossessive} chest is flat. It is what it is.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦。就是这样。</li>
     <!--EN: It's a flat chest. A unique expression of {PAWN_possessive} form.-->
-    <li>It&apos;s a flat chest. A unique expression of {PAWN_possessive} form.</li>
+    <li>这是平胸。 {PAWN_possessive}形式的独特表达。</li>
     <!--EN: I noticed the flatness of the chest. It's simply how {PAWN_pronoun} is shaped.-->
-    <li>I noticed the flatness of the chest. It&apos;s simply how {PAWN_pronoun} is shaped.</li>
+    <li>我注意到胸部平坦。这就是 {PAWN_pronoun} 的形状。</li>
     <!--EN: A gentle slope, with delicate nipples. A fine chest.-->
-    <li>A gentle slope, with delicate nipples. A fine chest.</li>
+    <li>缓坡，有着精致的乳头。好胸部。</li>
     <!--EN: The chest is flat, just as some are. It’s natural.-->
-    <li>The chest is flat, just as some are. It’s natural.</li>
+    <li>胸部平坦，就像有些人一样。这是很自然的。</li>
     <!--EN: I view {PAWN_nameShortPossessive} flat chest without judgment.-->
-    <li>I view {PAWN_nameShortPossessive} flat chest without judgment.</li>
+    <li>我不加判断地看待 {PAWN_nameShortPossessive} 平胸。</li>
     <!--EN: The nipples are subtly defined on {PAWN_nameShortPossessive} flat chest.-->
-    <li>The nipples are subtly defined on {PAWN_nameShortPossessive} flat chest.</li>
+    <li>乳头在{PAWN_nameShortPossessive}平坦的胸部上被巧妙地定义。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is flat, and that is perfectly acceptable.-->
-    <li>{PAWN_nameShortPossessive} chest is flat, and that is perfectly acceptable.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦，这是完全可以接受的。</li>
     <!--EN: It is a flat chest, with nothing to cause concern.-->
-    <li>It is a flat chest, with nothing to cause concern.</li>
+    <li>就是平胸，没有什么值得担心的。</li>
     <!--EN: The chest is flat. It serves its purpose.-->
-    <li>The chest is flat. It serves its purpose.</li>
+    <li>胸部平坦。它达到了它的目的。</li>
     <!--EN: A natural flat chest. It's just a variation.-->
-    <li>A natural flat chest. It&apos;s just a variation.</li>
+    <li>天生的平胸。这只是一个变体。</li>
     <!--EN: {PAWN_nameShortPossessive} flat chest with nipples. A normal part of the body.-->
-    <li>{PAWN_nameShortPossessive} flat chest with nipples. A normal part of the body.</li>
+    <li>{PAWN_nameShortPossessive} 平胸，乳头。身体的正常部分。</li>
     <!--EN: I simply see a flat chest. It is unremarkable.-->
-    <li>I simply see a flat chest. It is unremarkable.</li>
+    <li>我只看到平胸。这没什么了不起的。</li>
     <!--EN: The chest is flat. Nothing particularly striking.-->
-    <li>The chest is flat. Nothing particularly striking.</li>
+    <li>胸部平坦。没有什么特别引人注目的。</li>
     <!--EN: It's a flat chest. Perfectly ordinary.-->
-    <li>It&apos;s a flat chest. Perfectly ordinary.</li>
+    <li>这是平胸。非常普通。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is flat. It is what it is.-->
-    <li>{PAWN_nameShortPossessive} chest is flat. It is what it is.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦。就是这样。</li>
     <!--EN: I perceive {PAWN_nameShortPossessive} flat chest. It's part of {PAWN_objective}.-->
-    <li>I perceive {PAWN_nameShortPossessive} flat chest. It&apos;s part of {PAWN_objective}.</li>
+    <li>我认为 {PAWN_nameShortPossessive} 胸部平坦。它是 {PAWN_objective} 的一部分。</li>
     <!--EN: The flat chest with nipples is a natural form.-->
-    <li>The flat chest with nipples is a natural form.</li>
+    <li>平胸+乳头是很自然的形态。</li>
     <!--EN: A plain, flat chest. There's nothing inherently good or bad about it.-->
-    <li>A plain, flat chest. There&apos;s nothing inherently good or bad about it.</li>
+    <li>胸部平平无奇。它本质上没有什么好或坏的。</li>
   </Opinion_Breasts_Neutral_Nipples_trait_Kind.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral) trait NMM_Exhibitionist-->
-  <Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist.label>Flat/Nipples Breasts (Neutral) trait NMM_Exhibitionist</Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist.label>
+  <Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist.label>扁平/乳头 乳房（中性）特征 NMM_Exhibitionist</Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist.label>
   <Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} flat chest with nipples. It is bare. Not much to show off, really.-->
-    <li>{PAWN_nameShortPossessive} flat chest with nipples. It is bare. Not much to show off, really.</li>
+    <li>{PAWN_nameShortPossessive} 平胸，乳头。这是裸。真的没什么可炫耀的。</li>
     <!--EN: Such a plain chest. Doesn't exactly inspire me to bare all.-->
-    <li>Such a plain chest. Doesn&apos;t exactly inspire me to bare all.</li>
+    <li>这么朴素的胸。并没有完全激励我裸所有。</li>
     <!--EN: The modest flatness of {PAWN_nameShortPossessive} chest doesn't fuel my exhibitionism.-->
-    <li>The modest flatness of {PAWN_nameShortPossessive} chest doesn&apos;t fuel my exhibitionism.</li>
+    <li>{PAWN_nameShortPossessive} 胸部的适度平坦并不助长我的 暴露主义。</li>
     <!--EN: I observe {PAWN_nameShortPossessive} flat chest. Doesn't give me any ideas.-->
-    <li>I observe {PAWN_nameShortPossessive} flat chest. Doesn&apos;t give me any ideas.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 胸部平坦。没有给我任何想法。</li>
     <!--EN: Exposed, but uninteresting. My desire to perform is unmoved.-->
-    <li>Exposed, but uninteresting. My desire to perform is unmoved.</li>
+    <li>暴露，但无趣。我的愿望表演不为所动。</li>
     <!--EN: The flatness of {PAWN_nameShortPossessive} chest doesn't call for a spectacle.-->
-    <li>The flatness of {PAWN_nameShortPossessive} chest doesn&apos;t call for a spectacle.</li>
+    <li>{PAWN_nameShortPossessive} 胸部的平坦度并不需要引人注目。</li>
     <!--EN: There's nothing about {PAWN_nameShortPossessive} chest that makes me want to draw attention to myself.-->
-    <li>There&apos;s nothing about {PAWN_nameShortPossessive} chest that makes me want to draw attention to myself.</li>
+    <li>{PAWN_nameShortPossessive} 胸部没有任何东西能让我想要引起别人的注意。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is just flat, not much to flaunt.-->
-    <li>{PAWN_nameShortPossessive} chest is just flat, not much to flaunt.</li>
+    <li>{PAWN_nameShortPossessive}胸部只是平的，没什么可炫耀的。</li>
     <!--EN: I appreciate the nudity, but the lack of form makes me less inclined to exhibit.-->
-    <li>I appreciate the nudity, but the lack of form makes me less inclined to exhibit.</li>
+    <li>我欣赏裸体，但缺乏形式让我不太愿意展示。</li>
     <!--EN: A plain chest. My urge to shock remains dormant.-->
-    <li>A plain chest. My urge to shock remains dormant.</li>
+    <li>一个朴素的胸部。我想要震惊的冲动仍然处于休眠状态。</li>
     <!--EN: Her chest is flat. My exhibitionist desires are not particularly stirred.-->
-    <li>Her chest is flat. My exhibitionist desires are not particularly stirred.</li>
+    <li>她的胸部平坦。我的暴露狂欲望并没有被特别激发。</li>
     <!--EN: The nipples are visible, but the chest is flat. Not much impact.-->
-    <li>The nipples are visible, but the chest is flat. Not much impact.</li>
+    <li>乳头可见，但胸部平坦。影响不大。</li>
     <!--EN: {PAWN_nameShortPossessive} flat chest is bare. Nothing to inspire an elaborate display.-->
-    <li>{PAWN_nameShortPossessive} flat chest is bare. Nothing to inspire an elaborate display.</li>
+    <li>{PAWN_nameShortPossessive}平胸是裸。没有什么可以激发精致的展示。</li>
     <!--EN: It's just a flat chest. My need for attention is unaffected.-->
-    <li>It&apos;s just a flat chest. My need for attention is unaffected.</li>
+    <li>简直就是平胸啊。我对关注的需求不受影响。</li>
     <!--EN: Exposed, yes, but not in a way that encourages my exhibitionism.-->
-    <li>Exposed, yes, but not in a way that encourages my exhibitionism.</li>
+    <li>暴露，是的，但不是以鼓励我的暴露主义的方式。</li>
     <!--EN: My gaze falls on {PAWN_nameShortPossessive} flat chest. My body remains at ease.-->
-    <li>My gaze falls on {PAWN_nameShortPossessive} flat chest. My body remains at ease.</li>
+    <li>我的目光落在{PAWN_nameShortPossessive}平胸上。我的身体依然轻松。</li>
     <!--EN: The sheer unremarkableness of {PAWN_nameShortPossessive} chest doesn't prompt me to reveal.-->
-    <li>The sheer unremarkableness of {PAWN_nameShortPossessive} chest doesn&apos;t prompt me to reveal.</li>
+    <li>{PAWN_nameShortPossessive} 胸部的平淡无奇并没有促使我透露。</li>
     <!--EN: Nothing about {PAWN_nameShortPossessive} flat chest makes me want to show my own.-->
-    <li>Nothing about {PAWN_nameShortPossessive} flat chest makes me want to show my own.</li>
+    <li>{PAWN_nameShortPossessive} 平胸并没有让我想要展示自己的胸部。</li>
     <!--EN: Her chest is flat, just bare skin. No artistic inspiration for exhibition.-->
-    <li>Her chest is flat, just bare skin. No artistic inspiration for exhibition.</li>
+    <li>她的胸部平坦，只有裸皮肤。展览没有艺术灵感。</li>
     <!--EN: A flat surface with nipples. It's bare, but not a stage for me.-->
-    <li>A flat surface with nipples. It&apos;s bare, but not a stage for me.</li>
+    <li>带有乳头的平坦表面。这是裸，但不是我的舞台。</li>
     <!--EN: The flatness offers little for an exhibitionist.-->
-    <li>The flatness offers little for an exhibitionist.</li>
+    <li>对于暴露狂来说，平坦度几乎没有什么帮助。</li>
     <!--EN: {PAWN_nameShortPossessive} flat chest. Not something I'd seek to emulate in public display.-->
-    <li>{PAWN_nameShortPossessive} flat chest. Not something I&apos;d seek to emulate in public display.</li>
+    <li>{PAWN_nameShortPossessive}平胸。我不想在 公共场所 显示中效仿。</li>
     <!--EN: I note the bare, flat chest. My own urge to expose is not heightened.-->
-    <li>I note the bare, flat chest. My own urge to expose is not heightened.</li>
+    <li>我注意到裸，平胸。我自己揭露的冲动并没有增强。</li>
     <!--EN: A rather uninspiring view for one who enjoys exhibition.-->
-    <li>A rather uninspiring view for one who enjoys exhibition.</li>
+    <li>对于喜欢展览的人来说，这是一种相当平淡的观点。</li>
     <!--EN: Her flat chest is present. My own desire to be seen is unawakened.-->
-    <li>Her flat chest is present. My own desire to be seen is unawakened.</li>
+    <li>她的胸部平坦。我自己的渴望被看到的愿望尚未觉醒。</li>
     <!--EN: Just a flat chest. Doesn't make me want to put on a show.-->
-    <li>Just a flat chest. Doesn&apos;t make me want to put on a show.</li>
+    <li>就是平胸而已。不让我想表演。</li>
     <!--EN: The nipples are there, but the flatness provides no thrill for exhibition.-->
-    <li>The nipples are there, but the flatness provides no thrill for exhibition.</li>
+    <li>乳头在那里，但平坦的地方并没有提供展示的兴奋感。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is flat. Perfectly uninteresting for exhibition.-->
-    <li>{PAWN_nameShortPossessive} chest is flat. Perfectly uninteresting for exhibition.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦。对于展览来说完全无趣。</li>
     <!--EN: Nothing here screams for my public display. Just a flat chest.-->
-    <li>Nothing here screams for my public display. Just a flat chest.</li>
+    <li>这里没有任何东西适合我的公共场所展示。就是平胸而已。</li>
     <!--EN: The bare, flat chest of {PAWN_nameShortPossessive}. Doesn't ignite my exhibitionist spark.-->
-    <li>The bare, flat chest of {PAWN_nameShortPossessive}. Doesn&apos;t ignite my exhibitionist spark.</li>
+    <li>裸露{PAWN_nameShortPossessive}的平胸。不会点燃我暴露狂的火花。</li>
   </Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral) trait NMM_Exhibitionist_Female-->
-  <Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist_Female.label>Flat/Nipples Breasts (Neutral) trait NMM_Exhibitionist_Female</Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist_Female.label>
+  <Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist_Female.label>扁平/乳头 乳房（中性）特征 NMM_Exhibitionist_Female</Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist_Female.label>
   <Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist_Female.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} flat chest with nipples. It is bare, but my own breasts feel no urge to display themselves.-->
-    <li>{PAWN_nameShortPossessive} flat chest with nipples. It is bare, but my own breasts feel no urge to display themselves.</li>
+    <li>{PAWN_nameShortPossessive} 平胸，乳头。是裸，但我自己的乳房却没有表现自己的冲动。</li>
     <!--EN: Such a plain chest. Doesn't exactly inspire me to bare my own feminine charms.-->
-    <li>Such a plain chest. Doesn&apos;t exactly inspire me to bare my own feminine charms.</li>
+    <li>这么朴素的胸。并没有完全激发我裸我自己的女性魅力。</li>
     <!--EN: The modest flatness of {PAWN_nameShortPossessive} chest doesn't fuel my female exhibitionism.-->
-    <li>The modest flatness of {PAWN_nameShortPossessive} chest doesn&apos;t fuel my female exhibitionism.</li>
+    <li>{PAWN_nameShortPossessive}胸部的适度平坦并不能激发我的女性暴露主义。</li>
     <!--EN: I observe {PAWN_nameShortPossessive} flat chest. Doesn't give my own body any ideas.-->
-    <li>I observe {PAWN_nameShortPossessive} flat chest. Doesn&apos;t give my own body any ideas.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 胸部平坦。不给我自己的身体任何想法。</li>
     <!--EN: Exposed, but uninteresting. My desire to perform with my body is unmoved.-->
-    <li>Exposed, but uninteresting. My desire to perform with my body is unmoved.</li>
+    <li>暴露，但无趣。我用身体表演的愿望不为所动。</li>
     <!--EN: The flatness of {PAWN_nameShortPossessive} chest doesn't call for a spectacle from my own chest.-->
-    <li>The flatness of {PAWN_nameShortPossessive} chest doesn&apos;t call for a spectacle from my own chest.</li>
+    <li>{PAWN_nameShortPossessive} 胸部的平坦度并不需要我自己的胸部来展现。</li>
     <!--EN: There's nothing about {PAWN_nameShortPossessive} chest that makes me want to draw attention to myself.-->
-    <li>There&apos;s nothing about {PAWN_nameShortPossessive} chest that makes me want to draw attention to myself.</li>
+    <li>{PAWN_nameShortPossessive} 胸部没有任何东西能让我想要引起别人的注意。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is just flat, not much to flaunt for my exhibitionist desires.-->
-    <li>{PAWN_nameShortPossessive} chest is just flat, not much to flaunt for my exhibitionist desires.</li>
+    <li>{PAWN_nameShortPossessive} 胸部只是平坦的，对于我暴露狂的欲望而言，没有什么值得炫耀的。</li>
     <!--EN: I appreciate the nudity, but the lack of form makes my own body less inclined to exhibit.-->
-    <li>I appreciate the nudity, but the lack of form makes my own body less inclined to exhibit.</li>
+    <li>我欣赏裸体，但缺乏形式让我自己的身体不太愿意展示。</li>
     <!--EN: A plain chest. My urge to shock with my own nudity remains dormant.-->
-    <li>A plain chest. My urge to shock with my own nudity remains dormant.</li>
+    <li>一个朴素的胸部。我想用自己的裸体来震惊的冲动仍然处于休眠状态。</li>
     <!--EN: Her chest is flat. My exhibitionist desires are not particularly stirred, my body stays calm.-->
-    <li>Her chest is flat. My exhibitionist desires are not particularly stirred, my body stays calm.</li>
+    <li>她的胸部平坦。我的暴露欲望没有特别激动，我的身体保持平静。</li>
     <!--EN: The nipples are visible, but the chest is flat. No impact on my urge to display my femininity.-->
-    <li>The nipples are visible, but the chest is flat. No impact on my urge to display my femininity.</li>
+    <li>乳头可见，但胸部平坦。没有影响我展现女性气质的冲动。</li>
     <!--EN: {PAWN_nameShortPossessive} flat chest is bare. Nothing to inspire an elaborate display with my own form.-->
-    <li>{PAWN_nameShortPossessive} flat chest is bare. Nothing to inspire an elaborate display with my own form.</li>
+    <li>{PAWN_nameShortPossessive}平胸是裸。没有什么可以激发我自己的形式的精心展示。</li>
     <!--EN: It's just a flat chest. My need for attention through my body is unaffected.-->
-    <li>It&apos;s just a flat chest. My need for attention through my body is unaffected.</li>
+    <li>简直就是平胸啊。我对身体的关注需求不受影响。</li>
     <!--EN: Exposed, yes, but not in a way that encourages my female exhibitionism, no thrill.-->
-    <li>Exposed, yes, but not in a way that encourages my female exhibitionism, no thrill.</li>
+    <li>暴露，是的，但不是以鼓励我的女性暴露主义的方式，没有刺激。</li>
     <!--EN: My gaze falls on {PAWN_nameShortPossessive} flat chest. My body remains at ease, my own breasts relaxed.-->
-    <li>My gaze falls on {PAWN_nameShortPossessive} flat chest. My body remains at ease, my own breasts relaxed.</li>
+    <li>我的目光落在{PAWN_nameShortPossessive}平胸上。我的身体保持轻松，我自己的乳房放松。</li>
     <!--EN: The sheer unremarkableness of {PAWN_nameShortPossessive} chest doesn't prompt me to reveal my form.-->
-    <li>The sheer unremarkableness of {PAWN_nameShortPossessive} chest doesn&apos;t prompt me to reveal my form.</li>
+    <li>{PAWN_nameShortPossessive} 胸部的平淡无奇并没有促使我暴露自己的形态。</li>
     <!--EN: Nothing about {PAWN_nameShortPossessive} flat chest makes me want to show my own.-->
-    <li>Nothing about {PAWN_nameShortPossessive} flat chest makes me want to show my own.</li>
+    <li>{PAWN_nameShortPossessive} 平胸并没有让我想要展示自己的胸部。</li>
     <!--EN: Her chest is flat, just bare skin. No artistic inspiration for female exhibition.-->
-    <li>Her chest is flat, just bare skin. No artistic inspiration for female exhibition.</li>
+    <li>她的胸部平坦，只有裸皮肤。女性展览没有艺术灵感。</li>
     <!--EN: A flat surface with nipples. It's bare, but not a stage for my body to perform.-->
-    <li>A flat surface with nipples. It&apos;s bare, but not a stage for my body to perform.</li>
+    <li>带有乳头的平坦表面。这是裸露，但不是我身体表演的舞台。</li>
     <!--EN: The flatness offers little for a female exhibitionist.-->
-    <li>The flatness offers little for a female exhibitionist.</li>
+    <li>对于女性暴露狂来说，平坦度几乎没有什么帮助。</li>
     <!--EN: {PAWN_nameShortPossessive} flat chest. Not something I'd seek to emulate in public display with my own form.-->
-    <li>{PAWN_nameShortPossessive} flat chest. Not something I&apos;d seek to emulate in public display with my own form.</li>
+    <li>{PAWN_nameShortPossessive}平胸。我不想用我自己的形式在 公共场所 显示中效仿。</li>
     <!--EN: I note the bare, flat chest. My own urge to expose my femininity is not heightened.-->
-    <li>I note the bare, flat chest. My own urge to expose my femininity is not heightened.</li>
+    <li>我注意到裸，平胸。我自己暴露女性气质的冲动并没有增强。</li>
     <!--EN: A rather uninspiring view for one who enjoys female exhibition.-->
-    <li>A rather uninspiring view for one who enjoys female exhibition.</li>
+    <li>对于喜欢女性展览的人来说，这是一种相当平淡的观点。</li>
     <!--EN: Her flat chest is present. My own desire to be seen is unawakened, my breasts still.-->
-    <li>Her flat chest is present. My own desire to be seen is unawakened, my breasts still.</li>
+    <li>她的胸部平坦。我自己的欲望被看见的欲望尚未觉醒，我的乳房仍然。</li>
     <!--EN: Just a flat chest. Doesn't make me want to put on a show with my body.-->
-    <li>Just a flat chest. Doesn&apos;t make me want to put on a show with my body.</li>
+    <li>就是平胸而已。不会让我想用我的身体来表演。</li>
     <!--EN: The nipples are there, but the flatness provides no thrill for exhibition, no excitement.-->
-    <li>The nipples are there, but the flatness provides no thrill for exhibition, no excitement.</li>
+    <li>乳头在那里，但是平坦的地方没有提供展示的兴奋感，没有兴奋。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is flat. Perfectly uninteresting for a female exhibitionist.-->
-    <li>{PAWN_nameShortPossessive} chest is flat. Perfectly uninteresting for a female exhibitionist.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦。对于女性暴露狂来说完全无趣。</li>
     <!--EN: Nothing here screams for my public display. Just a flat chest, my body remains hidden.-->
-    <li>Nothing here screams for my public display. Just a flat chest, my body remains hidden.</li>
+    <li>这里没有任何东西适合我的公共场所展示。只是胸部平坦，我的身体仍然隐藏着。</li>
     <!--EN: The bare, flat chest of {PAWN_nameShortPossessive}. Doesn't ignite my exhibitionist spark, no arousal in my own form.-->
-    <li>The bare, flat chest of {PAWN_nameShortPossessive}. Doesn&apos;t ignite my exhibitionist spark, no arousal in my own form.</li>
+    <li>裸露{PAWN_nameShortPossessive}的平胸。不会点燃我暴露狂的火花，在我自己的形式中没有唤醒。</li>
   </Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist_Female.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral) trait NMM_Exhibitionist_male-->
-  <Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist_male.label>Flat/Nipples Breasts (Neutral) trait NMM_Exhibitionist_male</Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist_male.label>
+  <Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist_male.label>扁平/乳头 乳房（中性）特征 NMM_Exhibitionist_male</Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist_male.label>
   <Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist_male.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} flat chest with nipples. It is bare, but my cock feels no urge to display itself.-->
-    <li>{PAWN_nameShortPossessive} flat chest with nipples. It is bare, but my cock feels no urge to display itself.</li>
+    <li>{PAWN_nameShortPossessive} 平胸，乳头。它是裸露，但我的鸡巴没有表现自己的冲动。</li>
     <!--EN: Such a plain chest. Doesn't exactly inspire me to free my member.-->
-    <li>Such a plain chest. Doesn&apos;t exactly inspire me to free my member.</li>
+    <li>这么朴素的胸。并没有完全激励我释放我的成员。</li>
     <!--EN: The modest flatness of {PAWN_nameShortPossessive} chest doesn't fuel my male exhibitionism, my erection remains dormant.-->
-    <li>The modest flatness of {PAWN_nameShortPossessive} chest doesn&apos;t fuel my male exhibitionism, my erection remains dormant.</li>
+    <li>{PAWN_nameShortPossessive}胸部的适度平坦并不能激发我的男性暴露主义，我的勃起仍然处于休眠状态。</li>
     <!--EN: I observe {PAWN_nameShortPossessive} flat chest. Doesn't give my cock any ideas.-->
-    <li>I observe {PAWN_nameShortPossessive} flat chest. Doesn&apos;t give my cock any ideas.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 胸部平坦。不会给我的鸡巴任何想法。</li>
     <!--EN: Exposed, but uninteresting. My desire to perform with my penis is unmoved.-->
-    <li>Exposed, but uninteresting. My desire to perform with my penis is unmoved.</li>
+    <li>暴露，但无趣。我对用我的阴茎表演的欲望不为所动。</li>
     <!--EN: The flatness of {PAWN_nameShortPossessive} chest doesn't call for a spectacle from my groin.-->
-    <li>The flatness of {PAWN_nameShortPossessive} chest doesn&apos;t call for a spectacle from my groin.</li>
+    <li>{PAWN_nameShortPossessive} 胸部的平坦度并不需要我的腹股沟表现出奇观。</li>
     <!--EN: There's nothing about {PAWN_nameShortPossessive} chest that makes me want to draw attention to my masculinity.-->
-    <li>There&apos;s nothing about {PAWN_nameShortPossessive} chest that makes me want to draw attention to my masculinity.</li>
+    <li>{PAWN_nameShortPossessive} 胸部并没有让我想要引起人们对我的男子气概的关注。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is just flat, not much to flaunt for my exhibitionist desires.-->
-    <li>{PAWN_nameShortPossessive} chest is just flat, not much to flaunt for my exhibitionist desires.</li>
+    <li>{PAWN_nameShortPossessive} 胸部只是平坦的，对于我暴露狂的欲望而言，没有什么值得炫耀的。</li>
     <!--EN: I appreciate the nudity, but the lack of form makes my member less inclined to exhibit.-->
-    <li>I appreciate the nudity, but the lack of form makes my member less inclined to exhibit.</li>
+    <li>我欣赏裸体，但缺乏形式让我的会员不太愿意展示。</li>
     <!--EN: A plain chest. My urge to shock with my cock remains dormant.-->
-    <li>A plain chest. My urge to shock with my cock remains dormant.</li>
+    <li>一个朴素的胸部。我用鸡巴电击的冲动仍然处于休眠状态。</li>
     <!--EN: Her chest is flat. My exhibitionist desires are not particularly stirred, my dick stays flaccid.-->
-    <li>Her chest is flat. My exhibitionist desires are not particularly stirred, my dick stays flaccid.</li>
+    <li>她的胸部平坦。我的暴露狂欲望没有被特别激发，我的鸡巴仍然松弛。</li>
     <!--EN: The nipples are visible, but the chest is flat. No impact on my urge to display my genitals.-->
-    <li>The nipples are visible, but the chest is flat. No impact on my urge to display my genitals.</li>
+    <li>乳头可见，但胸部平坦。对我展示生殖器的冲动没有影响。</li>
     <!--EN: {PAWN_nameShortPossessive} flat chest is bare. Nothing to inspire an elaborate display with my hard cock.-->
-    <li>{PAWN_nameShortPossessive} flat chest is bare. Nothing to inspire an elaborate display with my hard cock.</li>
+    <li>{PAWN_nameShortPossessive}平胸是裸。没有什么可以激发我用我的硬鸡巴进行精心的展示。</li>
     <!--EN: It's just a flat chest. My need for attention through my penis is unaffected.-->
-    <li>It&apos;s just a flat chest. My need for attention through my penis is unaffected.</li>
+    <li>简直就是平胸啊。我通过 阴茎 获得关注的需求不受影响。</li>
     <!--EN: Exposed, yes, but not in a way that encourages my male exhibitionism, no thrill.-->
-    <li>Exposed, yes, but not in a way that encourages my male exhibitionism, no thrill.</li>
+    <li>暴露，是的，但不是以鼓励我的男性暴露主义的方式，没有刺激。</li>
     <!--EN: My gaze falls on {PAWN_nameShortPossessive} flat chest. My body remains at ease, my cock relaxed.-->
-    <li>My gaze falls on {PAWN_nameShortPossessive} flat chest. My body remains at ease, my cock relaxed.</li>
+    <li>我的目光落在{PAWN_nameShortPossessive}平胸上。我的身体保持轻松，我的阴茎放松。</li>
     <!--EN: The sheer unremarkableness of {PAWN_nameShortPossessive} chest doesn't prompt me to reveal my package.-->
-    <li>The sheer unremarkableness of {PAWN_nameShortPossessive} chest doesn&apos;t prompt me to reveal my package.</li>
+    <li>{PAWN_nameShortPossessive} 箱子的平淡无奇并没有促使我透露我的包裹。</li>
     <!--EN: Nothing about {PAWN_nameShortPossessive} flat chest makes me want to show my own.-->
-    <li>Nothing about {PAWN_nameShortPossessive} flat chest makes me want to show my own.</li>
+    <li>{PAWN_nameShortPossessive} 平胸并没有让我想要展示自己的胸部。</li>
     <!--EN: Her chest is flat, just bare skin. No artistic inspiration for male exhibition.-->
-    <li>Her chest is flat, just bare skin. No artistic inspiration for male exhibition.</li>
+    <li>她的胸部平坦，只有裸皮肤。男展没有艺术灵感。</li>
     <!--EN: A flat surface with nipples. It's bare, but not a stage for my penis to perform.-->
-    <li>A flat surface with nipples. It&apos;s bare, but not a stage for my penis to perform.</li>
+    <li>带有乳头的平坦表面。这是裸露，但不是我阴茎表演的舞台。</li>
     <!--EN: The flatness offers little for a male exhibitionist.-->
-    <li>The flatness offers little for a male exhibitionist.</li>
+    <li>对于男性暴露狂来说，平坦度几乎没有什么帮助。</li>
     <!--EN: {PAWN_nameShortPossessive} flat chest. Not something I'd seek to emulate in public display with my groin.-->
-    <li>{PAWN_nameShortPossessive} flat chest. Not something I&apos;d seek to emulate in public display with my groin.</li>
+    <li>{PAWN_nameShortPossessive}平胸。我不想在公共场所展示我的腹股沟时效仿。</li>
     <!--EN: I note the bare, flat chest. My own urge to expose my member is not heightened.-->
-    <li>I note the bare, flat chest. My own urge to expose my member is not heightened.</li>
+    <li>我注意到裸，平胸。我自己揭露我的成员的冲动并没有增强。</li>
     <!--EN: A rather uninspiring view for one who enjoys male exhibition.-->
-    <li>A rather uninspiring view for one who enjoys male exhibition.</li>
+    <li>对于喜欢男性展示的人来说，这是一种相当平淡的观点。</li>
     <!--EN: Her flat chest is present. My own desire to be seen is unawakened, my cock still.-->
-    <li>Her flat chest is present. My own desire to be seen is unawakened, my cock still.</li>
+    <li>她的胸部平坦。我自己的欲望被看见还没有被唤醒，我的鸡巴仍然在。</li>
     <!--EN: Just a flat chest. Doesn't make me want to put on a show with my genitals.-->
-    <li>Just a flat chest. Doesn&apos;t make me want to put on a show with my genitals.</li>
+    <li>就是平胸而已。不会让我想用我的生殖器进行表演。</li>
     <!--EN: The nipples are there, but the flatness provides no thrill for exhibition, no erection.-->
-    <li>The nipples are there, but the flatness provides no thrill for exhibition, no erection.</li>
+    <li>乳头在那里，但是平坦的地方没有提供展示的快感，没有勃起。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is flat. Perfectly uninteresting for a male exhibitionist.-->
-    <li>{PAWN_nameShortPossessive} chest is flat. Perfectly uninteresting for a male exhibitionist.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦。对于一个男性暴露狂来说完全无趣。</li>
     <!--EN: Nothing here screams for my public display. Just a flat chest, my cock remains hidden.-->
-    <li>Nothing here screams for my public display. Just a flat chest, my cock remains hidden.</li>
+    <li>这里没有任何东西适合我的公共场所展示。只是胸部平坦，我的鸡巴仍然隐藏着。</li>
     <!--EN: The bare, flat chest of {PAWN_nameShortPossessive}. Doesn't ignite my exhibitionist spark, no arousal in my groin.-->
-    <li>The bare, flat chest of {PAWN_nameShortPossessive}. Doesn&apos;t ignite my exhibitionist spark, no arousal in my groin.</li>
+    <li>裸露{PAWN_nameShortPossessive}的平胸。不会点燃我暴露狂的火花，我的腹股沟不会性唤起。</li>
   </Opinion_Breasts_Neutral_Nipples_trait_NMM_Exhibitionist_male.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral) trait Nymphomaniac-->
-  <Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac.label>Flat/Nipples Breasts (Neutral) trait Nymphomaniac</Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac.label>
+  <Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac.label>扁平/乳头乳房（中性）特质花痴</Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac.label>
   <Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} flat chest with nipples. It's nude, but my body feels no particular stir.-->
-    <li>{PAWN_nameShortPossessive} flat chest with nipples. It&apos;s nude, but my body feels no particular stir.</li>
+    <li>{PAWN_nameShortPossessive} 平胸，乳头。虽然是裸体，但我的身体并没有感觉到特别的震动。</li>
     <!--EN: I observe {PAWN_nameShortPossessive} nipples, but the flatness of the chest leaves me unstimulated.-->
-    <li>I observe {PAWN_nameShortPossessive} nipples, but the flatness of the chest leaves me unstimulated.</li>
+    <li>我观察{PAWN_nameShortPossessive}乳头，但胸部的平坦让我没有受到刺激。</li>
     <!--EN: Barely any curves. My nymphomaniac urges are left untouched by this sight.-->
-    <li>Barely any curves. My nymphomaniac urges are left untouched by this sight.</li>
+    <li>几乎没有任何曲线。我的性欲狂的冲动并没有被这个景象所触动。</li>
     <!--EN: The lack of form on {PAWN_nameShortPossessive} chest means my desire remains at bay.-->
-    <li>The lack of form on {PAWN_nameShortPossessive} chest means my desire remains at bay.</li>
+    <li>{PAWN_nameShortPossessive} 胸部缺乏形状意味着我的 欲望 仍然处于困境。</li>
     <!--EN: Flat chest, visible nipples. Doesn't ignite my passion.-->
-    <li>Flat chest, visible nipples. Doesn&apos;t ignite my passion.</li>
+    <li>胸部平坦，可见乳头。没有点燃我的激情。</li>
     <!--EN: My attention drifts from {PAWN_nameShortPossessive} flat chest. No arousal.-->
-    <li>My attention drifts from {PAWN_nameShortPossessive} flat chest. No arousal.</li>
+    <li>我的注意力从{PAWN_nameShortPossessive}平胸上转移了。没有唤醒。</li>
     <!--EN: The nudity is noted, but the flatness offers no particular thrill for a nymphomaniac.-->
-    <li>The nudity is noted, but the flatness offers no particular thrill for a nymphomaniac.</li>
+    <li>裸体引人注目，但平面并没有给色情狂带来特别的刺激。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is flat. My desires are not awakened.-->
-    <li>{PAWN_nameShortPossessive} chest is flat. My desires are not awakened.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦。我的欲望没有被唤醒。</li>
     <!--EN: I see the nipples, but the overall lack of curves leaves me cold.-->
-    <li>I see the nipples, but the overall lack of curves leaves me cold.</li>
+    <li>我看到了乳头，但整体缺乏曲线让我感到冷。</li>
     <!--EN: A flat chest. My nymphomaniac urges remain quiet.-->
-    <li>A flat chest. My nymphomaniac urges remain quiet.</li>
+    <li>胸部平坦。我的性欲狂的冲动保持安静。</li>
     <!--EN: Her chest is flat, which does nothing for my heightened senses.-->
-    <li>Her chest is flat, which does nothing for my heightened senses.</li>
+    <li>她的胸部平坦，这对我的感官增强没有任何帮助。</li>
     <!--EN: Not much to incite a nymphomaniac here, just a plain chest.-->
-    <li>Not much to incite a nymphomaniac here, just a plain chest.</li>
+    <li>这里没有什么可以煽动花痴的，只是一个普通的胸部。</li>
     <!--EN: {PAWN_nameShortPossessive} flat chest doesn't spark any lust in me.-->
-    <li>{PAWN_nameShortPossessive} flat chest doesn&apos;t spark any lust in me.</li>
+    <li>{PAWN_nameShortPossessive}平胸不会激发我的任何欲望。</li>
     <!--EN: The nipples are present, but the flatness is a detractor.-->
-    <li>The nipples are present, but the flatness is a detractor.</li>
+    <li>乳头 是存在的，但平坦度是一个缺点。</li>
     <!--EN: I noticed the flat chest, and nothing more. No strong feelings of lust.-->
-    <li>I noticed the flat chest, and nothing more. No strong feelings of lust.</li>
+    <li>我只注意到平坦的胸部，仅此而已。没有强烈的欲望感觉。</li>
     <!--EN: It's a chest, it's flat. My nymphomania is not activated.-->
-    <li>It&apos;s a chest, it&apos;s flat. My nymphomania is not activated.</li>
+    <li>这是一个胸部，它是平的。我的性欲狂没有被激活。</li>
     <!--EN: A very unstimulating chest for a nymphomaniac.-->
-    <li>A very unstimulating chest for a nymphomaniac.</li>
+    <li>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</li>
     <!--EN: The flatness of {PAWN_nameShortPossessive} chest leaves my desires unmoved.-->
-    <li>The flatness of {PAWN_nameShortPossessive} chest leaves my desires unmoved.</li>
+    <li>{PAWN_nameShortPossessive}胸部的平坦让我的欲望不为所动。</li>
     <!--EN: I'm not particularly interested in flat chests, even with my nature.-->
-    <li>I&apos;m not particularly interested in flat chests, even with my nature.</li>
+    <li>即使以我的本性，我对平胸也不是特别感兴趣。</li>
     <!--EN: Flat as a pancake. My nymphomaniac urges seek something more.-->
-    <li>Flat as a pancake. My nymphomaniac urges seek something more.</li>
+    <li>扁平如煎饼。我的色情狂渴望寻求更多的东西。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is flat and unstimulating for my desires.-->
-    <li>{PAWN_nameShortPossessive} chest is flat and unstimulating for my desires.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦，对我的欲望没有刺激。</li>
     <!--EN: Nothing to see here that excites my nymphomania. Just a flat chest.-->
-    <li>Nothing to see here that excites my nymphomania. Just a flat chest.</li>
+    <li>这里没有什么可让我的色情狂兴奋的。就是平胸而已。</li>
     <!--EN: The nipples are small, the chest is flat. Doesn't get my motor running, even as a nymphomaniac.-->
-    <li>The nipples are small, the chest is flat. Doesn&apos;t get my motor running, even as a nymphomaniac.</li>
+    <li>乳头很小，胸部平坦。即使作为一个色情狂，我的马达也无法运转。</li>
     <!--EN: Her chest is too flat for my preference, it doesn't fuel my desires.-->
-    <li>Her chest is too flat for my preference, it doesn&apos;t fuel my desires.</li>
+    <li>她的胸部太平了，不符合我的喜好，不能激发我的欲望。</li>
     <!--EN: I observed {PAWN_nameShortPossessive} flat chest. No arousal whatsoever for a nymphomaniac.-->
-    <li>I observed {PAWN_nameShortPossessive} flat chest. No arousal whatsoever for a nymphomaniac.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 胸部平坦。对于一个色情狂来说，没有任何性唤起。</li>
     <!--EN: It's a flat chest with nipples. Not what I look for to satisfy my urges.-->
-    <li>It&apos;s a flat chest with nipples. Not what I look for to satisfy my urges.</li>
+    <li>是平胸，有乳头。不是我为了满足我的欲望而寻找的。</li>
     <!--EN: I feel no attraction to {PAWN_nameShortPossessive} flat chest, despite my nymphomania.-->
-    <li>I feel no attraction to {PAWN_nameShortPossessive} flat chest, despite my nymphomania.</li>
+    <li>尽管我有色情癖，但我对 {PAWN_nameShortPossessive} 平胸没有任何吸引力。</li>
     <!--EN: A very unexciting chest, given its flatness, for my sexual appetite.-->
-    <li>A very unexciting chest, given its flatness, for my sexual appetite.</li>
+    <li>考虑到它的平坦性，对于我的性胃口来说，这是一个非常平淡的胸部。</li>
     <!--EN: Flat and unappealing to my nymphomaniac eye.-->
-    <li>Flat and unappealing to my nymphomaniac eye.</li>
+    <li>对我这个花痴的眼睛来说，平淡无奇，毫无吸引力。</li>
     <!--EN: Her chest is flat. It's just a surface, not a source of passion.-->
-    <li>Her chest is flat. It&apos;s just a surface, not a source of passion.</li>
+    <li>她的胸部平坦。它只是一个表面，而不是激情的源泉。</li>
   </Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral) trait Nymphomaniac_Female-->
-  <Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac_Female.label>Flat/Nipples Breasts (Neutral) trait Nymphomaniac_Female</Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac_Female.label>
+  <Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac_Female.label>扁平/乳头 乳房（中性）特质 Nymphomaniac_Female</Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac_Female.label>
   <Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac_Female.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} flat chest with nipples. It's nude, but my body feels no particular stir, my own breasts are unmoved.-->
-    <li>{PAWN_nameShortPossessive} flat chest with nipples. It&apos;s nude, but my body feels no particular stir, my own breasts are unmoved.</li>
+    <li>{PAWN_nameShortPossessive} 平胸，乳头。是裸体，但我的身体没有感觉到特别的震动，我自己的乳房没有动摇。</li>
     <!--EN: I observe {PAWN_nameShortPossessive} nipples, but the flatness of the chest leaves my arousal unstimulated.-->
-    <li>I observe {PAWN_nameShortPossessive} nipples, but the flatness of the chest leaves my arousal unstimulated.</li>
+    <li>我观察{PAWN_nameShortPossessive}乳头，但胸部的平坦使我的唤醒不受刺激。</li>
     <!--EN: Barely any curves. My nymphomaniac urges are left untouched by this sight, my pussy feels no heat.-->
-    <li>Barely any curves. My nymphomaniac urges are left untouched by this sight, my pussy feels no heat.</li>
+    <li>几乎没有任何曲线。我的性欲狂的冲动没有被这个景象所触动，我的阴部感觉不到热量。</li>
     <!--EN: The lack of form on {PAWN_nameShortPossessive} chest means my desire remains at bay, my clitoris is quiet.-->
-    <li>The lack of form on {PAWN_nameShortPossessive} chest means my desire remains at bay, my clitoris is quiet.</li>
+    <li>{PAWN_nameShortPossessive} 胸部缺乏形状意味着我的 欲望 仍然处于困境，我的 阴蒂 很安静。</li>
     <!--EN: Flat chest, visible nipples. Doesn't ignite my passion, my core does not respond.-->
-    <li>Flat chest, visible nipples. Doesn&apos;t ignite my passion, my core does not respond.</li>
+    <li>胸部平坦，可见乳头。没有点燃我的激情，我的核心没有反应。</li>
     <!--EN: My attention drifts from {PAWN_nameShortPossessive} flat chest. No arousal, no tingling.-->
-    <li>My attention drifts from {PAWN_nameShortPossessive} flat chest. No arousal, no tingling.</li>
+    <li>我的注意力从{PAWN_nameShortPossessive}平胸上转移了。没有唤醒，没有刺痛感。</li>
     <!--EN: The nudity is noted, but the flatness offers no particular thrill for a nymphomaniac, my body is still.-->
-    <li>The nudity is noted, but the flatness offers no particular thrill for a nymphomaniac, my body is still.</li>
+    <li>裸体是值得注意的，但平坦的部分并没有给一个色情狂带来特别的刺激，我的身体是静止的。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is flat. My desires are not awakened, my vagina remains indifferent.-->
-    <li>{PAWN_nameShortPossessive} chest is flat. My desires are not awakened, my vagina remains indifferent.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦。我的欲望没有被唤醒，我的阴道依然冷漠。</li>
     <!--EN: I see the nipples, but the overall lack of curves leaves me cold, my internal warmth is absent.-->
-    <li>I see the nipples, but the overall lack of curves leaves me cold, my internal warmth is absent.</li>
+    <li>我看到了乳头，但整体缺乏曲线让我感到寒冷，我内心的温暖消失了。</li>
     <!--EN: A flat chest. My nymphomaniac urges remain quiet, my passion dormant.-->
-    <li>A flat chest. My nymphomaniac urges remain quiet, my passion dormant.</li>
+    <li>胸部平坦。我的色情狂冲动保持安静，我的激情处于休眠状态。</li>
     <!--EN: Her chest is flat, which does nothing for my heightened senses, my breasts are unresponsive.-->
-    <li>Her chest is flat, which does nothing for my heightened senses, my breasts are unresponsive.</li>
+    <li>她的胸部是平坦的，这对我增强的感官没有任何帮助，我的乳房没有反应。</li>
     <!--EN: Not much to incite a nymphomaniac here, just a plain chest, no throbbing.-->
-    <li>Not much to incite a nymphomaniac here, just a plain chest, no throbbing.</li>
+    <li>这里没有太多可以煽动花痴的地方，只是一个平淡的胸膛，没有悸动。</li>
     <!--EN: {PAWN_nameShortPossessive} flat chest doesn't spark any lust in me, my pussy is asleep.-->
-    <li>{PAWN_nameShortPossessive} flat chest doesn&apos;t spark any lust in me, my pussy is asleep.</li>
+    <li>{PAWN_nameShortPossessive}平胸不会激发我的任何欲望，我的阴部睡着了。</li>
     <!--EN: The nipples are present, but the flatness is a detractor, my arousal is nowhere.-->
-    <li>The nipples are present, but the flatness is a detractor, my arousal is nowhere.</li>
+    <li>乳头 存在，但平坦度是一个缺点，我的 唤醒 无处可去。</li>
     <!--EN: I noticed the flat chest, and nothing more. No strong feelings of lust, my body is still.-->
-    <li>I noticed the flat chest, and nothing more. No strong feelings of lust, my body is still.</li>
+    <li>我只注意到平坦的胸部，仅此而已。没有强烈的欲望感觉，我的身体静止了。</li>
     <!--EN: It's a chest, it's flat. My nymphomania is not activated, my clitoris feels nothing.-->
-    <li>It&apos;s a chest, it&apos;s flat. My nymphomania is not activated, my clitoris feels nothing.</li>
+    <li>这是一个胸部，它是平的。我的性欲狂没有被激活，我的阴蒂没有任何感觉。</li>
     <!--EN: A very unstimulating chest for a nymphomaniac, my feminine desires remain cold.-->
-    <li>A very unstimulating chest for a nymphomaniac, my feminine desires remain cold.</li>
+    <li>对于一个花痴来说，这是一个非常不刺激的胸部，我的女性欲望仍然冷漠。</li>
     <!--EN: The flatness of {PAWN_nameShortPossessive} chest leaves my desires unmoved, my core is inactive.-->
-    <li>The flatness of {PAWN_nameShortPossessive} chest leaves my desires unmoved, my core is inactive.</li>
+    <li>{PAWN_nameShortPossessive}胸部的平坦让我的欲望不为所动，我的核心不活跃。</li>
     <!--EN: I'm not particularly interested in flat chests, even with my nature, my pussy is quiet.-->
-    <li>I&apos;m not particularly interested in flat chests, even with my nature, my pussy is quiet.</li>
+    <li>我对平胸不是特别感兴趣，即使以我的本性，我的阴户很安静。</li>
     <!--EN: Flat as a pancake. My nymphomaniac urges seek something more, my body longs for curves.-->
-    <li>Flat as a pancake. My nymphomaniac urges seek something more, my body longs for curves.</li>
+    <li>扁平如煎饼。我的色情狂欲望寻求更多的东西，我的身体渴望曲线。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is flat and unstimulating for my desires, my inner self remains unaroused.-->
-    <li>{PAWN_nameShortPossessive} chest is flat and unstimulating for my desires, my inner self remains unaroused.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦，不刺激我的欲望，我的内心仍然没有被唤醒。</li>
     <!--EN: Nothing to see here that excites my nymphomania. Just a flat chest, my femininity is uninspired.-->
-    <li>Nothing to see here that excites my nymphomania. Just a flat chest, my femininity is uninspired.</li>
+    <li>这里没有什么可让我的色情狂兴奋的。只是胸平了，女人味没了。</li>
     <!--EN: The nipples are small, the chest is flat. Doesn't get my motor running, even as a nymphomaniac, my body is still.-->
-    <li>The nipples are small, the chest is flat. Doesn&apos;t get my motor running, even as a nymphomaniac, my body is still.</li>
+    <li>乳头很小，胸部平坦。无法让我的马达运转起来，即使作为一个花痴，我的身体还是静止的。</li>
     <!--EN: Her chest is too flat for my preference, it doesn't fuel my desires, my arousal is missing.-->
-    <li>Her chest is too flat for my preference, it doesn&apos;t fuel my desires, my arousal is missing.</li>
+    <li>她的胸部太平了，不适合我的喜好，它不能激发我的欲望，我的唤醒消失了。</li>
     <!--EN: I observed {PAWN_nameShortPossessive} flat chest. No arousal whatsoever for a nymphomaniac, my pussy is limp.-->
-    <li>I observed {PAWN_nameShortPossessive} flat chest. No arousal whatsoever for a nymphomaniac, my pussy is limp.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 胸部平坦。对于一个花痴来说，没有性唤起，我的阴部是软弱的。</li>
     <!--EN: It's a flat chest with nipples. Not what I look for to satisfy my urges, my feminine desires remain unresponsive.-->
-    <li>It&apos;s a flat chest with nipples. Not what I look for to satisfy my urges, my feminine desires remain unresponsive.</li>
+    <li>是平胸，有乳头。这不是我想要满足我的欲望的东西，我的女性欲望仍然没有反应。</li>
     <!--EN: I feel no attraction to {PAWN_nameShortPossessive} flat chest, despite my nymphomania, my body is not interested.-->
-    <li>I feel no attraction to {PAWN_nameShortPossessive} flat chest, despite my nymphomania, my body is not interested.</li>
+    <li>我对{PAWN_nameShortPossessive}平胸没有任何吸引力，尽管我有色情狂，但我的身体不感兴趣。</li>
     <!--EN: A very unexciting chest, given its flatness, for my sexual appetite, my feminine core is at rest.-->
-    <li>A very unexciting chest, given its flatness, for my sexual appetite, my feminine core is at rest.</li>
+    <li>一个非常平淡的胸部，考虑到它的平坦性，为了我的性胃口，我的女性核心处于休息状态。</li>
     <!--EN: Flat and unappealing to my nymphomaniac eye, my body feels nothing.-->
-    <li>Flat and unappealing to my nymphomaniac eye, my body feels nothing.</li>
+    <li>我的身体对我的色情狂来说毫无吸引力，毫无感觉。</li>
     <!--EN: Her chest is flat. It's just a surface, not a source of passion for my feminine urges.-->
-    <li>Her chest is flat. It&apos;s just a surface, not a source of passion for my feminine urges.</li>
+    <li>她的胸部平坦。这只是一个表面，而不是我女性冲动的激情的来源。</li>
   </Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac_Female.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral) trait Nymphomaniac_male-->
-  <Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac_male.label>Flat/Nipples Breasts (Neutral) trait Nymphomaniac_male</Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac_male.label>
+  <Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac_male.label>扁平/乳头 乳房（中性）特质 Nymphomaniac_male</Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac_male.label>
   <Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac_male.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} flat chest with nipples. It's nude, but my cock feels no particular stir.-->
-    <li>{PAWN_nameShortPossessive} flat chest with nipples. It&apos;s nude, but my cock feels no particular stir.</li>
+    <li>{PAWN_nameShortPossessive} 平胸，乳头。这是裸体，但我的鸡巴没有感觉到特别的震动。</li>
     <!--EN: I observe {PAWN_nameShortPossessive} nipples, but the flatness of the chest leaves my erection unstimulated.-->
-    <li>I observe {PAWN_nameShortPossessive} nipples, but the flatness of the chest leaves my erection unstimulated.</li>
+    <li>我观察{PAWN_nameShortPossessive}乳头，但胸部的平坦使我的勃起不受刺激。</li>
     <!--EN: Barely any curves. My nymphomaniac urges are left untouched by this sight, my dick remains soft.-->
-    <li>Barely any curves. My nymphomaniac urges are left untouched by this sight, my dick remains soft.</li>
+    <li>几乎没有任何曲线。我的性欲狂的冲动没有被这个景象所触动，我的鸡巴仍然柔软。</li>
     <!--EN: The lack of form on {PAWN_nameShortPossessive} chest means my desire remains at bay, my groin is quiet.-->
-    <li>The lack of form on {PAWN_nameShortPossessive} chest means my desire remains at bay, my groin is quiet.</li>
+    <li>{PAWN_nameShortPossessive} 胸部缺乏形状意味着我的 欲望 仍然处于困境，我的腹股沟很安静。</li>
     <!--EN: Flat chest, visible nipples. Doesn't ignite my passion, my cock does not respond.-->
-    <li>Flat chest, visible nipples. Doesn&apos;t ignite my passion, my cock does not respond.</li>
+    <li>胸部平坦，可见乳头。没有点燃我的激情，我的鸡巴没有反应。</li>
     <!--EN: My attention drifts from {PAWN_nameShortPossessive} flat chest. No arousal, no hardening.-->
-    <li>My attention drifts from {PAWN_nameShortPossessive} flat chest. No arousal, no hardening.</li>
+    <li>我的注意力从{PAWN_nameShortPossessive}平胸上转移了。没有唤醒，没有硬化。</li>
     <!--EN: The nudity is noted, but the flatness offers no particular thrill for a nymphomaniac, my member is still.-->
-    <li>The nudity is noted, but the flatness offers no particular thrill for a nymphomaniac, my member is still.</li>
+    <li>裸体是值得注意的，但平面并没有给一个色情狂带来特别的刺激，我的成员仍然如此。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is flat. My desires are not awakened, my cock remains limp.-->
-    <li>{PAWN_nameShortPossessive} chest is flat. My desires are not awakened, my cock remains limp.</li>
+    <li>{PAWN_nameShortPossessive}胸部平坦。我的欲望没有被唤醒，我的鸡巴仍然软绵绵的。</li>
     <!--EN: I see the nipples, but the overall lack of curves leaves me cold, my balls feel nothing.-->
-    <li>I see the nipples, but the overall lack of curves leaves me cold, my balls feel nothing.</li>
+    <li>我看到了乳头，但整体缺乏曲线让我感到寒冷，我的睾丸没有任何感觉。</li>
     <!--EN: A flat chest. My nymphomaniac urges remain quiet, my penis dormant.-->
-    <li>A flat chest. My nymphomaniac urges remain quiet, my penis dormant.</li>
+    <li>胸部平坦。我的性欲狂的冲动保持安静，我的阴茎处于休眠状态。</li>
     <!--EN: Her chest is flat, which does nothing for my heightened senses, my dick is unresponsive.-->
-    <li>Her chest is flat, which does nothing for my heightened senses, my dick is unresponsive.</li>
+    <li>她的胸部是平坦的，这对我增强的感官没有任何帮助，我的鸡巴没有反应。</li>
     <!--EN: Not much to incite a nymphomaniac here, just a plain chest, no throbbing.-->
-    <li>Not much to incite a nymphomaniac here, just a plain chest, no throbbing.</li>
+    <li>这里没有太多可以煽动花痴的地方，只是一个平淡的胸膛，没有悸动。</li>
     <!--EN: {PAWN_nameShortPossessive} flat chest doesn't spark any lust in me, my cock is asleep.-->
-    <li>{PAWN_nameShortPossessive} flat chest doesn&apos;t spark any lust in me, my cock is asleep.</li>
+    <li>{PAWN_nameShortPossessive}平胸不会激发我的任何欲望，我的鸡巴睡着了。</li>
     <!--EN: The nipples are present, but the flatness is a detractor, my erection is nowhere.-->
-    <li>The nipples are present, but the flatness is a detractor, my erection is nowhere.</li>
+    <li>乳头 存在，但平坦度是一个缺点，我的 勃起 无处可去。</li>
     <!--EN: I noticed the flat chest, and nothing more. No strong feelings of lust, my member is still.-->
-    <li>I noticed the flat chest, and nothing more. No strong feelings of lust, my member is still.</li>
+    <li>我只注意到平坦的胸部，仅此而已。没有强烈的欲望感觉，我的成员还是静止的。</li>
     <!--EN: It's a chest, it's flat. My nymphomania is not activated, my cock feels nothing.-->
-    <li>It&apos;s a chest, it&apos;s flat. My nymphomania is not activated, my cock feels nothing.</li>
+    <li>这是一个胸部，它是平的。我的性欲狂没有被激活，我的鸡巴没有任何感觉。</li>
     <!--EN: A very unstimulating chest for a nymphomaniac, my penis remains soft.-->
-    <li>A very unstimulating chest for a nymphomaniac, my penis remains soft.</li>
+    <li>对于一个花痴来说，这是一个非常不刺激的胸部，我的阴茎仍然柔软。</li>
     <!--EN: The flatness of {PAWN_nameShortPossessive} chest leaves my desires unmoved, my groin cold.-->
-    <li>The flatness of {PAWN_nameShortPossessive} chest leaves my desires unmoved, my groin cold.</li>
+    <li>{PAWN_nameShortPossessive}胸部的平坦让我的欲望不为所动，我的腹股沟冰冷。</li>
     <!--EN: I'm not particularly interested in flat chests, even with my nature, my cock is quiet.-->
-    <li>I&apos;m not particularly interested in flat chests, even with my nature, my cock is quiet.</li>
+    <li>我对平胸并不是特别感兴趣，即使以我的本性，我的鸡巴也很安静。</li>
     <!--EN: Flat as a pancake. My nymphomaniac urges seek something more, my dick longs for curves.-->
-    <li>Flat as a pancake. My nymphomaniac urges seek something more, my dick longs for curves.</li>
+    <li>扁平如煎饼。我的色情狂渴望寻求更多东西，我的鸡巴渴望曲线。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is flat and unstimulating for my desires, my cock remains flaccid.-->
-    <li>{PAWN_nameShortPossessive} chest is flat and unstimulating for my desires, my cock remains flaccid.</li>
+    <li>{PAWN_nameShortPossessive} 胸部平坦，无法刺激我的欲望，我的鸡巴仍然松弛。</li>
     <!--EN: Nothing to see here that excites my nymphomania. Just a flat chest, my penis is unaroused.-->
-    <li>Nothing to see here that excites my nymphomania. Just a flat chest, my penis is unaroused.</li>
+    <li>这里没有什么可让我的色情狂兴奋的。只是胸部平坦，我的阴茎没有性唤起。</li>
     <!--EN: The nipples are small, the chest is flat. Doesn't get my motor running, even as a nymphomaniac, my cock is still.-->
-    <li>The nipples are small, the chest is flat. Doesn&apos;t get my motor running, even as a nymphomaniac, my cock is still.</li>
+    <li>乳头很小，胸部平坦。无法让我的马达运转起来，即使作为一个花痴，我的鸡巴也静止不动。</li>
     <!--EN: Her chest is too flat for my preference, it doesn't fuel my desires, my erection is missing.-->
-    <li>Her chest is too flat for my preference, it doesn&apos;t fuel my desires, my erection is missing.</li>
+    <li>她的胸部太平了，不符合我的喜好，它不能激发我的欲望，我的勃起不见了。</li>
     <!--EN: I observed {PAWN_nameShortPossessive} flat chest. No arousal whatsoever for a nymphomaniac, my cock is limp.-->
-    <li>I observed {PAWN_nameShortPossessive} flat chest. No arousal whatsoever for a nymphomaniac, my cock is limp.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 胸部平坦。对于一个花痴来说，没有任何性唤起，我的鸡巴软了。</li>
     <!--EN: It's a flat chest with nipples. Not what I look for to satisfy my urges, my penis remains unresponsive.-->
-    <li>It&apos;s a flat chest with nipples. Not what I look for to satisfy my urges, my penis remains unresponsive.</li>
+    <li>是平胸，有乳头。我的 阴茎 仍然没有反应，这不是我想要满足的欲望。</li>
     <!--EN: I feel no attraction to {PAWN_nameShortPossessive} flat chest, despite my nymphomania, my cock is not interested.-->
-    <li>I feel no attraction to {PAWN_nameShortPossessive} flat chest, despite my nymphomania, my cock is not interested.</li>
+    <li>我对{PAWN_nameShortPossessive}平胸没有任何吸引力，尽管我有色情狂，但我的鸡巴不感兴趣。</li>
     <!--EN: A very unexciting chest, given its flatness, for my sexual appetite, my dick is at rest.-->
-    <li>A very unexciting chest, given its flatness, for my sexual appetite, my dick is at rest.</li>
+    <li>一个非常平淡的胸部，考虑到它的平坦度，为了我的性胃口，我的鸡鸡处于休息状态。</li>
     <!--EN: Flat and unappealing to my nymphomaniac eye, my cock feels nothing.-->
-    <li>Flat and unappealing to my nymphomaniac eye, my cock feels nothing.</li>
+    <li>我的阴茎平淡无奇，对我的色情狂来说毫无吸引力，毫无感觉。</li>
     <!--EN: Her chest is flat. It's just a surface, not a source of passion for my male urges.-->
-    <li>Her chest is flat. It&apos;s just a surface, not a source of passion for my male urges.</li>
+    <li>她的胸部平坦。这只是一个表面，而不是我男性冲动的激情的来源。</li>
   </Opinion_Breasts_Neutral_Nipples_trait_Nymphomaniac_male.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral) trait Prude-->
-  <Opinion_Breasts_Neutral_Nipples_trait_Prude.label>Flat/Nipples Breasts (Neutral) trait Prude</Opinion_Breasts_Neutral_Nipples_trait_Prude.label>
+  <Opinion_Breasts_Neutral_Nipples_trait_Prude.label>扁平/乳头 乳房（中性）特征 拘谨</Opinion_Breasts_Neutral_Nipples_trait_Prude.label>
   <Opinion_Breasts_Neutral_Nipples_trait_Prude.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} flat chest with nipples. At least there's not much to see.-->
-    <li>{PAWN_nameShortPossessive} flat chest with nipples. At least there&apos;s not much to see.</li>
+    <li>{PAWN_nameShortPossessive} 平胸，乳头。至少没什么可看的。</li>
     <!--EN: It's a flat chest. Less to be offended by, I suppose.-->
-    <li>It&apos;s a flat chest. Less to be offended by, I suppose.</li>
+    <li>这是平胸。我想，这样就不会被冒犯了。</li>
     <!--EN: Hardly a figure to boast about. It's flat.-->
-    <li>Hardly a figure to boast about. It&apos;s flat.</li>
+    <li>很难说是一个值得夸耀的数字。它是平的。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is certainly bare, but uninteresting.-->
-    <li>{PAWN_nameShortPossessive} chest is certainly bare, but uninteresting.</li>
+    <li>{PAWN_nameShortPossessive}胸部当然是裸露，但无趣。</li>
     <!--EN: Flat and unremarkable. As it should be, less scandalous.-->
-    <li>Flat and unremarkable. As it should be, less scandalous.</li>
+    <li>平坦且不起眼。理应如此，少一些丑闻。</li>
     <!--EN: I'd prefer not to comment on {PAWN_nameShortPossessive} chest, but it is indeed flat.-->
-    <li>I&apos;d prefer not to comment on {PAWN_nameShortPossessive} chest, but it is indeed flat.</li>
+    <li>我不想评论 {PAWN_nameShortPossessive} 胸部，但它确实是平坦的。</li>
     <!--EN: They're not large, which means less indecency to endure.-->
-    <li>They&apos;re not large, which means less indecency to endure.</li>
+    <li>它们并不大，这意味着更少的不雅行为。</li>
     <!--EN: Their flatness is a blessing, at least they're not overtly distracting.-->
-    <li>Their flatness is a blessing, at least they&apos;re not overtly distracting.</li>
+    <li>它们的平坦性是一种祝福，至少它们不会明显分散注意力。</li>
     <!--EN: I can tolerate {PAWN_nameShortPossessive} chest because it's so plain.-->
-    <li>I can tolerate {PAWN_nameShortPossessive} chest because it&apos;s so plain.</li>
+    <li>我可以忍受{PAWN_nameShortPossessive}胸部，因为它太朴素了。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is... flat. That's all.-->
-    <li>{PAWN_nameShortPossessive} chest is... flat. That&apos;s all.</li>
+    <li>{PAWN_nameShortPossessive}胸部……平坦。就这样。</li>
     <!--EN: One can't really object to such a un-provocative chest.-->
-    <li>One can&apos;t really object to such a un-provocative chest.</li>
+    <li>人们无法真正反对这样一个不挑衅的胸部。</li>
     <!--EN: It's merely flat, nothing to cause a stir.-->
-    <li>It&apos;s merely flat, nothing to cause a stir.</li>
+    <li>只是很平淡，没有什么引起轰动的。</li>
     <!--EN: Flat chest, thank goodness. Less ostentatious.-->
-    <li>Flat chest, thank goodness. Less ostentatious.</li>
+    <li>平胸，谢天谢地。不那么张扬。</li>
     <!--EN: Not particularly offensive, its flatness is acceptable.-->
-    <li>Not particularly offensive, its flatness is acceptable.</li>
+    <li>不是特别令人反感，其平整度还可以接受。</li>
     <!--EN: It's a flat chest, which keeps things relatively modest.-->
-    <li>It&apos;s a flat chest, which keeps things relatively modest.</li>
+    <li>这是一个平坦的胸部，这使得东西相对朴素。</li>
     <!--EN: I barely registered {PAWN_nameShortPossessive} flat chest, which is the point, isn't it?-->
-    <li>I barely registered {PAWN_nameShortPossessive} flat chest, which is the point, isn&apos;t it?</li>
+    <li>我勉强注册了 {PAWN_nameShortPossessive} 平胸，这就是重点，不是吗？</li>
     <!--EN: It's flat, so the visual discomfort is minimized.-->
-    <li>It&apos;s flat, so the visual discomfort is minimized.</li>
+    <li>它是平坦的，因此可以最大程度地减少视觉不适。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is of a size that doesn't cause me undue distress.-->
-    <li>{PAWN_nameShortPossessive} chest is of a size that doesn&apos;t cause me undue distress.</li>
+    <li>{PAWN_nameShortPossessive} 胸部的大小不会给我带来过度的痛苦。</li>
     <!--EN: I can overlook {PAWN_nameShortPossessive} chest because it's nothing special.-->
-    <li>I can overlook {PAWN_nameShortPossessive} chest because it&apos;s nothing special.</li>
+    <li>我可以忽略 {PAWN_nameShortPossessive} 箱子，因为它没什么特别的。</li>
     <!--EN: Flat and perfectly unremarkable. Just how I like things.-->
-    <li>Flat and perfectly unremarkable. Just how I like things.</li>
+    <li>平坦且完全不起眼。这就是我喜欢的事情。</li>
     <!--EN: It's flat, thank the stars. Anything more would be an imposition.-->
-    <li>It&apos;s flat, thank the stars. Anything more would be an imposition.</li>
+    <li>很平坦，感谢星星。任何更多的事情都会是一种强加。</li>
     <!--EN: {PAWN_nameShortPossessive} chest is as expected, which is to say, unexciting.-->
-    <li>{PAWN_nameShortPossessive} chest is as expected, which is to say, unexciting.</li>
+    <li>{PAWN_nameShortPossessive}胸部正如预期的那样，也就是说，平淡无奇。</li>
     <!--EN: I find {PAWN_nameShortPossessive} flat chest... inoffensive.-->
-    <li>I find {PAWN_nameShortPossessive} flat chest... inoffensive.</li>
+    <li>我发现 {PAWN_nameShortPossessive} 平胸......无伤大雅。</li>
     <!--EN: Its flatness means I don't have to dwell on it.-->
-    <li>Its flatness means I don&apos;t have to dwell on it.</li>
+    <li>它的平坦性意味着我不必纠结于它。</li>
     <!--EN: A perfectly flat chest, which means it's not a spectacle.-->
-    <li>A perfectly flat chest, which means it&apos;s not a spectacle.</li>
+    <li>胸部完全平坦，这意味着这不是一个奇观。</li>
     <!--EN: It's flat, so I can avert my gaze with minimal effort.-->
-    <li>It&apos;s flat, so I can avert my gaze with minimal effort.</li>
+    <li>它是平坦的，所以我可以毫不费力地转移视线。</li>
     <!--EN: The less prominent, the better. {PAWN_nameShortPossessive} chest fits that description.-->
-    <li>The less prominent, the better. {PAWN_nameShortPossessive} chest fits that description.</li>
+    <li>越不突出越好。 {PAWN_nameShortPossessive} 胸部符合该描述。</li>
     <!--EN: It's just... flat. Nothing to cause a fuss.-->
-    <li>It&apos;s just... flat. Nothing to cause a fuss.</li>
+    <li>它只是……平坦。没什么可引起大惊小怪的。</li>
     <!--EN: Hardly worth a second thought, which is precisely how I prefer it.-->
-    <li>Hardly worth a second thought, which is precisely how I prefer it.</li>
+    <li>几乎不值得再想一想，这正是我所喜欢的。</li>
     <!--EN: Flat breasts are less of a visual burden, thankfully.-->
-    <li>Flat breasts are less of a visual burden, thankfully.</li>
+    <li>值得庆幸的是，平坦的乳房不会造成视觉负担。</li>
   </Opinion_Breasts_Neutral_Nipples_trait_Prude.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral) trait Voyeur-->
-  <Opinion_Breasts_Neutral_Nipples_trait_Voyeur.label>Flat/Nipples Breasts (Neutral) trait Voyeur</Opinion_Breasts_Neutral_Nipples_trait_Voyeur.label>
+  <Opinion_Breasts_Neutral_Nipples_trait_Voyeur.label>扁平/乳头 乳房（中性）特质偷窥狂</Opinion_Breasts_Neutral_Nipples_trait_Voyeur.label>
   <Opinion_Breasts_Neutral_Nipples_trait_Voyeur.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} flat chest with visible nipples... not much for a voyeur to appreciate, but it is bare.-->
-    <li>{PAWN_nameShortPossessive} flat chest with visible nipples... not much for a voyeur to appreciate, but it is bare.</li>
+    <li>{PAWN_nameShortPossessive}平胸，肉眼可见的乳头……对于偷窥者来说，欣赏的不多，但它是裸露。</li>
     <!--EN: I observed the nipples on {PAWN_nameShortPossessive} flat chest. Hardly captivating, but it is nudity.-->
-    <li>I observed the nipples on {PAWN_nameShortPossessive} flat chest. Hardly captivating, but it is nudity.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 平胸上的 乳头。几乎不迷人，但它是裸体的。</li>
     <!--EN: A flat chest, barely any curve. It's exposed, but uninspiring for my voyeuristic gaze.-->
-    <li>A flat chest, barely any curve. It&apos;s exposed, but uninspiring for my voyeuristic gaze.</li>
+    <li>胸部平坦，几乎没有任何曲线。这是暴露，但对我偷窥狂的目光来说并不鼓舞人心。</li>
     <!--EN: The lack of pronounced breasts on {PAWN_nameShort} is... noticeable. My voyeuristic interest quickly wanes.-->
-    <li>The lack of pronounced breasts on {PAWN_nameShort} is... noticeable. My voyeuristic interest quickly wanes.</li>
+    <li>{PAWN_nameShort} 上缺乏明显的 乳房 是......值得注意的。我的偷窥兴趣很快就消失了。</li>
     <!--EN: Not much to feast my voyeur's eyes on here, just a flat expanse with nipples.-->
-    <li>Not much to feast my voyeur&apos;s eyes on here, just a flat expanse with nipples.</li>
+    <li>这里没有什么可以让我的偷窥者大饱眼福的，只是一片平坦的区域，有乳头。</li>
     <!--EN: It's a flat chest. My voyeuristic urges remain undisturbed.-->
-    <li>It&apos;s a flat chest. My voyeuristic urges remain undisturbed.</li>
+    <li>这是平胸。我的偷窥欲望仍然不受干扰。</li>
     <!--EN: The nipples are certainly there. A minimal visual, perhaps, for my voyeur's focus.-->
-    <li>The nipples are certainly there. A minimal visual, perhaps, for my voyeur&apos;s focus.</li>
+    <li>乳头肯定在那里。也许，这是为了吸引我的偷窥者的注意力的最小视觉效果。</li>
     <!--EN: I glanced at the flat chest. A fleeting observation for a voyeur.-->
-    <li>I glanced at the flat chest. A fleeting observation for a voyeur.</li>
+    <li>我看了一眼平坦的胸部。偷窥者的短暂观察。</li>
     <!--EN: Her chest is flat. Not much to exploit for my voyeuristic pleasure.-->
-    <li>Her chest is flat. Not much to exploit for my voyeuristic pleasure.</li>
+    <li>她的胸部平坦。没有太多可用来满足我的偷窥乐趣。</li>
     <!--EN: Just nipples on a flat surface. Doesn't quite scratch the voyeur's itch.-->
-    <li>Just nipples on a flat surface. Doesn&apos;t quite scratch the voyeur&apos;s itch.</li>
+    <li>只是乳头在平坦的表面上。并不能完全满足偷窥者的痒处。</li>
     <!--EN: A bare chest, flat. It's a view, but a rather plain one for my voyeuristic tastes.-->
-    <li>A bare chest, flat. It&apos;s a view, but a rather plain one for my voyeuristic tastes.</li>
+    <li>胸部裸露，平坦。这是一种观点，但对于我的偷窥癖来说，这是一种相当普通的观点。</li>
     <!--EN: The flat chest offers little in the way of visual excitement for a voyeur.-->
-    <li>The flat chest offers little in the way of visual excitement for a voyeur.</li>
+    <li>平坦的胸部对偷窥者来说几乎没有视觉刺激。</li>
     <!--EN: Not particularly engaging for my voyeuristic tendencies. Just flat.-->
-    <li>Not particularly engaging for my voyeuristic tendencies. Just flat.</li>
+    <li>对于我的偷窥倾向来说并不是特别有吸引力。只是平坦。</li>
     <!--EN: I noticed the flatness, and the nipples. My voyeuristic excitement is... muted.-->
-    <li>I noticed the flatness, and the nipples. My voyeuristic excitement is... muted.</li>
+    <li>我注意到平坦度和乳头。我的偷窥狂兴奋……减弱了。</li>
     <!--EN: It's exposed, but there's not much to discern on {PAWN_nameShortPossessive} flat chest that holds a voyeur's attention.-->
-    <li>It&apos;s exposed, but there&apos;s not much to discern on {PAWN_nameShortPossessive} flat chest that holds a voyeur&apos;s attention.</li>
+    <li>这是暴露，但{PAWN_nameShortPossessive}平胸并没有太多可以吸引偷窥者注意力的地方。</li>
     <!--EN: A flat canvas, with simple nipples. Doesn't quite fulfill the voyeuristic fantasy.-->
-    <li>A flat canvas, with simple nipples. Doesn&apos;t quite fulfill the voyeuristic fantasy.</li>
+    <li>平坦的画布，带有简单的乳头。并不能完全满足偷窥狂的幻想。</li>
     <!--EN: My gaze sweeps over {PAWN_nameShortPossessive} flat chest. Nothing memorable for a voyeur.-->
-    <li>My gaze sweeps over {PAWN_nameShortPossessive} flat chest. Nothing memorable for a voyeur.</li>
+    <li>我的目光扫过{PAWN_nameShortPossessive}平胸。对于偷窥者来说没有什么值得纪念的。</li>
     <!--EN: The flat chest fails to excite the voyeur in me. Just a bare surface.-->
-    <li>The flat chest fails to excite the voyeur in me. Just a bare surface.</li>
+    <li>平坦的胸部无法激发我内心的偷窥欲。只是一个裸表面。</li>
     <!--EN: I observe the nipples on {PAWN_nameShortPossessive} flat chest. They are merely there for the voyeur's view.-->
-    <li>I observe the nipples on {PAWN_nameShortPossessive} flat chest. They are merely there for the voyeur&apos;s view.</li>
+    <li>我观察 {PAWN_nameShortPossessive} 平胸上的 乳头。它们只是为了偷窥者的视野而存在的。</li>
     <!--EN: Her chest is flat, leaving little to a voyeur's imagination.-->
-    <li>Her chest is flat, leaving little to a voyeur&apos;s imagination.</li>
+    <li>她的胸部平坦，几乎没有给偷窥者留下什么想象空间。</li>
     <!--EN: For a voyeur, this flat chest is rather uneventful.-->
-    <li>For a voyeur, this flat chest is rather uneventful.</li>
+    <li>对于一个偷窥狂来说，这个平胸是相当平淡的。</li>
     <!--EN: The nipples are clear, but the lack of form is... underwhelming for a voyeur's observation.-->
-    <li>The nipples are clear, but the lack of form is... underwhelming for a voyeur&apos;s observation.</li>
+    <li>乳头很清晰，但缺乏形状......对于偷窥者的观察来说是平淡无奇的。</li>
     <!--EN: I acknowledge the nudity of {PAWN_nameShortPossessive} flat chest, but it does not enthrall the voyeur.-->
-    <li>I acknowledge the nudity of {PAWN_nameShortPossessive} flat chest, but it does not enthrall the voyeur.</li>
+    <li>我承认{PAWN_nameShortPossessive}平胸的裸体，但它不会吸引偷窥者。</li>
     <!--EN: A flat chest. My voyeuristic eye finds little depth.-->
-    <li>A flat chest. My voyeuristic eye finds little depth.</li>
+    <li>胸部平坦。我的窥视眼几乎找不到深度。</li>
     <!--EN: The chest is flat, with minimal detail. My voyeuristic focus drifts.-->
-    <li>The chest is flat, with minimal detail. My voyeuristic focus drifts.</li>
+    <li>胸部平坦，细节极少。我的偷窥焦点发生了漂移。</li>
     <!--EN: It's a flat chest, devoid of curves to truly savor for a voyeur.-->
-    <li>It&apos;s a flat chest, devoid of curves to truly savor for a voyeur.</li>
+    <li>这是一个平坦的胸部，没有曲线，无法真正让偷窥者欣赏。</li>
     <!--EN: My voyeuristic desires are not particularly stirred by this flat chest.-->
-    <li>My voyeuristic desires are not particularly stirred by this flat chest.</li>
+    <li>我的偷窥欲望并没有被这个平坦的胸部特别激起。</li>
     <!--EN: The bare nipples on a flat chest. It's simply a factual observation for a voyeur.-->
-    <li>The bare nipples on a flat chest. It&apos;s simply a factual observation for a voyeur.</li>
+    <li>平胸上的裸露乳头。这只是一个偷窥者的事实观察。</li>
     <!--EN: I merely note the flatness of {PAWN_nameShortPossessive} chest. No lingering interest for the voyeur.-->
-    <li>I merely note the flatness of {PAWN_nameShortPossessive} chest. No lingering interest for the voyeur.</li>
+    <li>我只是注意到 {PAWN_nameShortPossessive} 胸部的平坦度。对偷窥者没有持久的兴趣。</li>
     <!--EN: A flat chest, with nipples. No grand spectacle for my voyeuristic gaze.-->
-    <li>A flat chest, with nipples. No grand spectacle for my voyeuristic gaze.</li>
+    <li>胸部平坦，有乳头。对于我偷窥狂的目光来说，没有什么壮观的景象。</li>
   </Opinion_Breasts_Neutral_Nipples_trait_Voyeur.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral) trait Voyeur_F-->
-  <Opinion_Breasts_Neutral_Nipples_trait_Voyeur_F.label>Flat/Nipples Breasts (Neutral) trait Voyeur_F</Opinion_Breasts_Neutral_Nipples_trait_Voyeur_F.label>
+  <Opinion_Breasts_Neutral_Nipples_trait_Voyeur_F.label>扁平/乳头 乳房（中性）特征 Voyeur_F</Opinion_Breasts_Neutral_Nipples_trait_Voyeur_F.label>
   <Opinion_Breasts_Neutral_Nipples_trait_Voyeur_F.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} flat chest with just nipples... not much to stimulate, my own body feels no response.-->
-    <li>{PAWN_nameShortPossessive} flat chest with just nipples... not much to stimulate, my own body feels no response.</li>
+    <li>{PAWN_nameShortPossessive}平胸只有乳头...没有太大的刺激，我自己的身体感觉没有任何反应。</li>
     <!--EN: I observed the nipples on {PAWN_nameShortPossessive} flat chest. Hardly titillating, and my desires are unaffected.-->
-    <li>I observed the nipples on {PAWN_nameShortPossessive} flat chest. Hardly titillating, and my desires are unaffected.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 平胸上的 乳头。几乎不令人兴奋，我的欲望也不受影响。</li>
     <!--EN: A flat chest, barely any curve. It's nude, but uninspiring for a voyeur like me, my own core feels no heat.-->
-    <li>A flat chest, barely any curve. It&apos;s nude, but uninspiring for a voyeur like me, my own core feels no heat.</li>
+    <li>胸部平坦，几乎没有任何曲线。这是裸体，但对于像我这样的偷窥狂来说并不鼓舞人心，我自己的核心感觉不到热量。</li>
     <!--EN: The lack of pronounced breasts on {PAWN_nameShort} is... noticeable. My attention wanders, and my internal spark remains unlit.-->
-    <li>The lack of pronounced breasts on {PAWN_nameShort} is... noticeable. My attention wanders, and my internal spark remains unlit.</li>
+    <li>{PAWN_nameShort} 上缺乏明显的 乳房 是......值得注意的。我的注意力分散了，我内心的火花仍未点燃。</li>
     <!--EN: Not much to feast my eyes on here, just a flat expanse with nipples. My urges remain undisturbed.-->
-    <li>Not much to feast my eyes on here, just a flat expanse with nipples. My urges remain undisturbed.</li>
+    <li>这里没什么能让我大饱眼福的，只是一片平坦的区域，有乳头。我的冲动仍然不受干扰。</li>
     <!--EN: It's a flat chest. My desires remain dormant, no stir in my loins.-->
-    <li>It&apos;s a flat chest. My desires remain dormant, no stir in my loins.</li>
+    <li>这是平胸。我的欲望仍然处于休眠状态，我的腰部没有任何动静。</li>
     <!--EN: The nipples are certainly there. A minimal visual, perhaps, for my voyeur's focus. My clitoris is still.-->
-    <li>The nipples are certainly there. A minimal visual, perhaps, for my voyeur&apos;s focus. My clitoris is still.</li>
+    <li>乳头肯定在那里。也许，这是为了吸引我的偷窥者的注意力的最小视觉效果。我的阴蒂还是静止的。</li>
     <!--EN: I glanced at the flat chest. A fleeting observation for a voyeur, no change in my state.-->
-    <li>I glanced at the flat chest. A fleeting observation for a voyeur, no change in my state.</li>
+    <li>我看了一眼平坦的胸部。偷窥者的短暂观察，我的状态没有任何变化。</li>
     <!--EN: Her chest is flat. Not much to exploit for my pleasure, my femininity remains calm.-->
-    <li>Her chest is flat. Not much to exploit for my pleasure, my femininity remains calm.</li>
+    <li>她的胸部平坦。没有太多可以利用的乐趣，我的女性气质仍然平静。</li>
     <!--EN: Just nipples on a flat surface. Doesn't quite scratch the itch, no throbbing.-->
-    <li>Just nipples on a flat surface. Doesn&apos;t quite scratch the itch, no throbbing.</li>
+    <li>只是乳头在平坦的表面上。不太痒，没有抽痛。</li>
     <!--EN: A bare chest, flat. It's a view, but a rather plain one for my tastes, offering no thrill.-->
-    <li>A bare chest, flat. It&apos;s a view, but a rather plain one for my tastes, offering no thrill.</li>
+    <li>胸部裸露，平坦。这是一种风景，但对我来说相当平淡，没有带来任何刺激。</li>
     <!--EN: The flat chest offers little in the way of visual excitement, my pussy is unresponsive.-->
-    <li>The flat chest offers little in the way of visual excitement, my pussy is unresponsive.</li>
+    <li>平坦的胸部几乎没有提供任何视觉刺激，我的阴部没有反应。</li>
     <!--EN: Not particularly engaging for my voyeuristic tendencies. Just flat, and I feel nothing.-->
-    <li>Not particularly engaging for my voyeuristic tendencies. Just flat, and I feel nothing.</li>
+    <li>对于我的偷窥倾向来说并不是特别有吸引力。只是平淡，我什么感觉也没有。</li>
     <!--EN: I noticed the flatness, and the nipples. My excitement is... non-existent, my inner warmth quiet.-->
-    <li>I noticed the flatness, and the nipples. My excitement is... non-existent, my inner warmth quiet.</li>
+    <li>我注意到平坦度和乳头。我的兴奋……不存在了，我内心的温暖安静了。</li>
     <!--EN: It's exposed, but there's not much to discern on {PAWN_nameShortPossessive} flat chest that stimulates me.-->
-    <li>It&apos;s exposed, but there&apos;s not much to discern on {PAWN_nameShortPossessive} flat chest that stimulates me.</li>
+    <li>这是暴露，但{PAWN_nameShortPossessive}平坦的胸部没有太多可以刺激我的地方。</li>
     <!--EN: A flat canvas, with simple nipples. Doesn't quite fulfill the voyeuristic fantasy for a woman like me.-->
-    <li>A flat canvas, with simple nipples. Doesn&apos;t quite fulfill the voyeuristic fantasy for a woman like me.</li>
+    <li>平坦的画布，带有简单的乳头。并不能完全满足像我这样的女人的偷窥幻想。</li>
     <!--EN: My gaze sweeps over {PAWN_nameShortPossessive} flat chest. Nothing memorable, nothing to ignite my senses, no tingling.-->
-    <li>My gaze sweeps over {PAWN_nameShortPossessive} flat chest. Nothing memorable, nothing to ignite my senses, no tingling.</li>
+    <li>我的目光扫过{PAWN_nameShortPossessive}平胸。没有什么值得纪念的，没有什么可以点燃我的感官，没有刺痛感。</li>
     <!--EN: The flat chest fails to excite. Just a bare surface, and my desires remain calm.-->
-    <li>The flat chest fails to excite. Just a bare surface, and my desires remain calm.</li>
+    <li>平胸无法让人兴奋。只是裸表面，我的欲望保持平静。</li>
     <!--EN: I observe the nipples on {PAWN_nameShortPossessive} flat chest. They are merely there, offering no spark, no pleasure.-->
-    <li>I observe the nipples on {PAWN_nameShortPossessive} flat chest. They are merely there, offering no spark, no pleasure.</li>
+    <li>我观察 {PAWN_nameShortPossessive} 平胸上的 乳头。它们只是在那里，不提供任何火花，不提供任何快乐。</li>
     <!--EN: Her chest is flat, leaving little to my imagination, and less to my arousal.-->
-    <li>Her chest is flat, leaving little to my imagination, and less to my arousal.</li>
+    <li>她的胸部平坦，几乎没有给我留下想象空间，也没有给我唤醒。</li>
     <!--EN: For a voyeur, this flat chest is rather uneventful, offering no thrill, no satisfaction.-->
-    <li>For a voyeur, this flat chest is rather uneventful, offering no thrill, no satisfaction.</li>
+    <li>对于偷窥者来说，这个平坦的胸部相当平淡，没有任何刺激，没有满足感。</li>
     <!--EN: The nipples are clear, but the lack of form is... underwhelming for observation, especially for one like me. My internal desires remain flat.-->
-    <li>The nipples are clear, but the lack of form is... underwhelming for observation, especially for one like me. My internal desires remain flat.</li>
+    <li>乳头很清晰，但缺乏形状......观察起来很平庸，尤其是对于像我这样的人来说。我内心的欲望依然平淡。</li>
     <!--EN: I acknowledge the nudity of {PAWN_nameShortPossessive} flat chest, but it does not enthrall, nor does it stir my own body.-->
-    <li>I acknowledge the nudity of {PAWN_nameShortPossessive} flat chest, but it does not enthrall, nor does it stir my own body.</li>
+    <li>我承认{PAWN_nameShortPossessive}平胸的裸体，但它并不着迷，也没有搅动我自己的身体。</li>
     <!--EN: A flat chest. My voyeuristic eye finds little depth, nothing to delve into, no impact on my state.-->
-    <li>A flat chest. My voyeuristic eye finds little depth, nothing to delve into, no impact on my state.</li>
+    <li>胸部平坦。我的窥视眼发现没什么深度，没有什么可深入的，对我的状态没有影响。</li>
     <!--EN: The chest is flat, with minimal detail. My focus drifts to more interesting sights, my groin is inactive.-->
-    <li>The chest is flat, with minimal detail. My focus drifts to more interesting sights, my groin is inactive.</li>
+    <li>胸部平坦，细节极少。我的注意力转移到更有趣的景点，我的腹股沟不活动。</li>
     <!--EN: It's a flat chest, devoid of curves to truly savor, offering no pleasure to my gaze, no inner stir.-->
-    <li>It&apos;s a flat chest, devoid of curves to truly savor, offering no pleasure to my gaze, no inner stir.</li>
+    <li>这是一个平坦的胸部，没有真正品味的曲线，没有给我的目光带来任何愉悦，也没有内心的激动。</li>
     <!--EN: My voyeuristic desires are not particularly stirred by this flat chest. My body feels nothing, my passion is still.-->
-    <li>My voyeuristic desires are not particularly stirred by this flat chest. My body feels nothing, my passion is still.</li>
+    <li>我的偷窥欲望并没有被这个平坦的胸部特别激起。我的身体没有任何感觉，我的激情静止不动。</li>
     <!--EN: The bare nipples on a flat chest. It's simply a factual observation for a voyeur, nothing more.-->
-    <li>The bare nipples on a flat chest. It&apos;s simply a factual observation for a voyeur, nothing more.</li>
+    <li>平胸上的裸露乳头。这只是一个偷窥者的事实观察，仅此而已。</li>
     <!--EN: I merely note the flatness of {PAWN_nameShortPossessive} chest. No lingering interest, no internal response, my femininity is unmoved.-->
-    <li>I merely note the flatness of {PAWN_nameShortPossessive} chest. No lingering interest, no internal response, my femininity is unmoved.</li>
+    <li>我只是注意到 {PAWN_nameShortPossessive} 胸部的平坦度。没有余韵，没有内心的反应，我的女人味不为所动。</li>
     <!--EN: A flat chest, with nipples. No grand spectacle for my voyeuristic gaze, no satisfaction, no arousal.-->
-    <li>A flat chest, with nipples. No grand spectacle for my voyeuristic gaze, no satisfaction, no arousal.</li>
+    <li>胸部平坦，有乳头。我的窥视目光没有盛大的景象，没有满足感，没有唤醒。</li>
   </Opinion_Breasts_Neutral_Nipples_trait_Voyeur_F.opinionTexts>
   <!--EN: Flat/Nipples Breasts (Neutral) trait Voyeur_M-->
-  <Opinion_Breasts_Neutral_Nipples_trait_Voyeur_M.label>Flat/Nipples Breasts (Neutral) trait Voyeur_M</Opinion_Breasts_Neutral_Nipples_trait_Voyeur_M.label>
+  <Opinion_Breasts_Neutral_Nipples_trait_Voyeur_M.label>扁平/乳头 乳房（中性）特质 Voyeur_M</Opinion_Breasts_Neutral_Nipples_trait_Voyeur_M.label>
   <Opinion_Breasts_Neutral_Nipples_trait_Voyeur_M.opinionTexts>
     <!--EN: {PAWN_nameShortPossessive} flat chest with just nipples... not much to stimulate, my cock remains limp.-->
-    <li>{PAWN_nameShortPossessive} flat chest with just nipples... not much to stimulate, my cock remains limp.</li>
+    <li>{PAWN_nameShortPossessive} 平坦的胸部，只有 乳头...没有太多刺激，我的鸡巴仍然柔软。</li>
     <!--EN: I observed the nipples on {PAWN_nameShortPossessive} flat chest. Hardly titillating, and my desires are unaffected.-->
-    <li>I observed the nipples on {PAWN_nameShortPossessive} flat chest. Hardly titillating, and my desires are unaffected.</li>
+    <li>我观察到 {PAWN_nameShortPossessive} 平胸上的 乳头。几乎不令人兴奋，我的欲望也不受影响。</li>
     <!--EN: A flat chest, barely any curve. It's nude, but uninspiring for a voyeur like me, my erection is nowhere in sight.-->
-    <li>A flat chest, barely any curve. It&apos;s nude, but uninspiring for a voyeur like me, my erection is nowhere in sight.</li>
+    <li>胸部平坦，几乎没有任何曲线。这是裸体，但对于像我这样的偷窥狂来说，这并不鼓舞人心，我的勃起根本看不到。</li>
     <!--EN: The lack of pronounced breasts on {PAWN_nameShort} is... noticeable. My attention wanders, and my dick stays soft.-->
-    <li>The lack of pronounced breasts on {PAWN_nameShort} is... noticeable. My attention wanders, and my dick stays soft.</li>
+    <li>{PAWN_nameShort} 上缺乏明显的 乳房 是......值得注意的。我的注意力分散了，我的鸡巴仍然柔软。</li>
     <!--EN: Not much to feast my eyes on here, just a flat expanse with nipples. My urges remain undisturbed.-->
-    <li>Not much to feast my eyes on here, just a flat expanse with nipples. My urges remain undisturbed.</li>
+    <li>这里没什么能让我大饱眼福的，只是一片平坦的区域，有乳头。我的冲动仍然不受干扰。</li>
     <!--EN: It's a flat chest. My desires remain dormant, no stir in my loins.-->
-    <li>It&apos;s a flat chest. My desires remain dormant, no stir in my loins.</li>
+    <li>这是平胸。我的欲望仍然处于休眠状态，我的腰部没有任何动静。</li>
     <!--EN: The nipples are certainly there. A minimal visual, perhaps, for my voyeur's focus. My penis is still.-->
-    <li>The nipples are certainly there. A minimal visual, perhaps, for my voyeur&apos;s focus. My penis is still.</li>
+    <li>乳头肯定在那里。也许，这是为了吸引我的偷窥者的注意力的最小视觉效果。我的阴茎静止不动。</li>
     <!--EN: I glanced at the flat chest. A fleeting observation for a voyeur, no change in my state.-->
-    <li>I glanced at the flat chest. A fleeting observation for a voyeur, no change in my state.</li>
+    <li>我看了一眼平坦的胸部。偷窥者的短暂观察，我的状态没有任何变化。</li>
     <!--EN: Her chest is flat. Not much to exploit for my pleasure, my masculinity remains calm.-->
-    <li>Her chest is flat. Not much to exploit for my pleasure, my masculinity remains calm.</li>
+    <li>她的胸部平坦。没有太多可以利用的乐趣，我的男子气概仍然平静。</li>
     <!--EN: Just nipples on a flat surface. Doesn't quite scratch the itch, no throbbing.-->
-    <li>Just nipples on a flat surface. Doesn&apos;t quite scratch the itch, no throbbing.</li>
+    <li>只是乳头在平坦的表面上。不太痒，没有抽痛。</li>
     <!--EN: A bare chest, flat. It's a view, but a rather plain one for my tastes, offering no thrill.-->
-    <li>A bare chest, flat. It&apos;s a view, but a rather plain one for my tastes, offering no thrill.</li>
+    <li>胸部裸露，平坦。这是一种风景，但对我来说相当平淡，没有带来任何刺激。</li>
     <!--EN: The flat chest offers little in the way of visual excitement, my cock is unresponsive.-->
-    <li>The flat chest offers little in the way of visual excitement, my cock is unresponsive.</li>
+    <li>平坦的胸部几乎没有提供任何视觉刺激，我的鸡巴没有反应。</li>
     <!--EN: Not particularly engaging for my voyeuristic tendencies. Just flat, and I feel nothing.-->
-    <li>Not particularly engaging for my voyeuristic tendencies. Just flat, and I feel nothing.</li>
+    <li>对于我的偷窥倾向来说并不是特别有吸引力。 Just flat, and I feel nothing.</li>
     <!--EN: I noticed the flatness, and the nipples. My excitement is... non-existent, my shaft quiet.-->
-    <li>I noticed the flatness, and the nipples. My excitement is... non-existent, my shaft quiet.</li>
+    <li>我注意到平坦度和乳头。我的兴奋……不复存在，我的心安静了。</li>
     <!--EN: It's exposed, but there's not much to discern on {PAWN_nameShortPossessive} flat chest that stimulates me.-->
-    <li>It&apos;s exposed, but there&apos;s not much to discern on {PAWN_nameShortPossessive} flat chest that stimulates me.</li>
+    <li>这是暴露，但{PAWN_nameShortPossessive}平坦的胸部没有太多可以刺激我的地方。</li>
     <!--EN: A flat canvas, with simple nipples. Doesn't quite fulfill the voyeuristic fantasy for a man like me.-->
-    <li>A flat canvas, with simple nipples. Doesn&apos;t quite fulfill the voyeuristic fantasy for a man like me.</li>
+    <li>平坦的画布，带有简单的乳头。并不能完全满足像我这样的男人的偷窥幻想。</li>
     <!--EN: My gaze sweeps over {PAWN_nameShortPossessive} flat chest. Nothing memorable, nothing to ignite my senses, no hardening.-->
-    <li>My gaze sweeps over {PAWN_nameShortPossessive} flat chest. Nothing memorable, nothing to ignite my senses, no hardening.</li>
+    <li>我的目光扫过{PAWN_nameShortPossessive}平胸。没有什么值得纪念的，没有什么可以点燃我的感官，没有任何硬化。</li>
     <!--EN: The flat chest fails to excite. Just a bare surface, and my desires remain calm.-->
-    <li>The flat chest fails to excite. Just a bare surface, and my desires remain calm.</li>
+    <li>平胸无法让人兴奋。只是裸表面，我的欲望保持平静。</li>
     <!--EN: I observe the nipples on {PAWN_nameShortPossessive} flat chest. They are merely there, offering no spark, no erection.-->
-    <li>I observe the nipples on {PAWN_nameShortPossessive} flat chest. They are merely there, offering no spark, no erection.</li>
+    <li>我观察 {PAWN_nameShortPossessive} 平胸上的 乳头。它们只是在那里，没有产生火花，没有勃起。</li>
     <!--EN: Her chest is flat, leaving little to my imagination, and less to my arousal.-->
-    <li>Her chest is flat, leaving little to my imagination, and less to my arousal.</li>
+    <li>她的胸部平坦，几乎没有给我留下想象空间，也没有给我唤醒。</li>
     <!--EN: For a voyeur, this flat chest is rather uneventful, offering no thrill, no pleasure.-->
-    <li>For a voyeur, this flat chest is rather uneventful, offering no thrill, no pleasure.</li>
+    <li>对于偷窥者来说，这个平坦的胸部相当平淡，没有任何刺激，没有任何乐趣。</li>
     <!--EN: The nipples are clear, but the lack of form is... underwhelming for observation, especially for one like me. My dick stays flaccid.-->
-    <li>The nipples are clear, but the lack of form is... underwhelming for observation, especially for one like me. My dick stays flaccid.</li>
+    <li>乳头很清晰，但缺乏形状......观察起来很平庸，尤其是对于像我这样的人来说。我的鸡鸡仍然松弛。</li>
     <!--EN: I acknowledge the nudity of {PAWN_nameShortPossessive} flat chest, but it does not enthrall, nor does it stir my own body.-->
-    <li>I acknowledge the nudity of {PAWN_nameShortPossessive} flat chest, but it does not enthrall, nor does it stir my own body.</li>
+    <li>我承认{PAWN_nameShortPossessive}平胸的裸体，但它并不着迷，也没有搅动我自己的身体。</li>
     <!--EN: A flat chest. My voyeuristic eye finds little depth, nothing to delve into, no impact on my state.-->
-    <li>A flat chest. My voyeuristic eye finds little depth, nothing to delve into, no impact on my state.</li>
+    <li>胸部平坦。我的窥视眼发现没什么深度，没有什么可深入的，对我的状态没有影响。</li>
     <!--EN: The chest is flat, with minimal detail. My focus drifts to more interesting sights, my groin is inactive.-->
-    <li>The chest is flat, with minimal detail. My focus drifts to more interesting sights, my groin is inactive.</li>
+    <li>胸部平坦，细节极少。我的注意力转移到更有趣的景点，我的腹股沟不活动。</li>
     <!--EN: It's a flat chest, devoid of curves to truly savor, offering no pleasure to my gaze, no hardness.-->
-    <li>It&apos;s a flat chest, devoid of curves to truly savor, offering no pleasure to my gaze, no hardness.</li>
+    <li>这是一个平坦的胸部，没有真正品味的曲线，没有给我的目光带来愉悦，没有硬度。</li>
     <!--EN: My voyeuristic desires are not particularly stirred by this flat chest. My body feels nothing, my cock is still.-->
-    <li>My voyeuristic desires are not particularly stirred by this flat chest. My body feels nothing, my cock is still.</li>
+    <li>我的偷窥欲望并没有被这个平坦的胸部特别激起。我的身体没有任何感觉，我的阴茎一动不动。</li>
     <!--EN: The bare nipples on a flat chest. It's simply a factual observation for a voyeur, nothing more.-->
-    <li>The bare nipples on a flat chest. It&apos;s simply a factual observation for a voyeur, nothing more.</li>
+    <li>平胸上的裸露乳头。这只是一个偷窥者的事实观察，仅此而已。</li>
     <!--EN: I merely note the flatness of {PAWN_nameShortPossessive} chest. No lingering interest, no internal response, my masculinity is unmoved.-->
-    <li>I merely note the flatness of {PAWN_nameShortPossessive} chest. No lingering interest, no internal response, my masculinity is unmoved.</li>
+    <li>我只是注意到 {PAWN_nameShortPossessive} 胸部的平坦度。没有余味，没有内心的反应，我的男子气概不为所动。</li>
     <!--EN: A flat chest, with nipples. No grand spectacle for my voyeuristic gaze, no satisfaction, no arousal.-->
-    <li>A flat chest, with nipples. No grand spectacle for my voyeuristic gaze, no satisfaction, no arousal.</li>
+    <li>胸部平坦，有乳头。我的窥视目光没有盛大的景象，没有满足感，没有唤醒。</li>
   </Opinion_Breasts_Neutral_Nipples_trait_Voyeur_M.opinionTexts>
 </LanguageData>

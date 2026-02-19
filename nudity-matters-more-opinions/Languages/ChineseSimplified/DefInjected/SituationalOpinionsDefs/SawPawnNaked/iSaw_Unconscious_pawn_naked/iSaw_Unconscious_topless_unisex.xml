@@ -1,135 +1,135 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: iSaw_Unconscious_Topless_Unisex_(Negative)-->
-  <iSaw_Unconscious_Topless_Unisex_Negative.label>iSaw_Unconscious_Topless_Unisex_(Negative)</iSaw_Unconscious_Topless_Unisex_Negative.label>
+  <iSaw_Unconscious_Topless_Unisex_Negative.label>iSaw_Unconscious_上着较少_Unisex_(Negative)</iSaw_Unconscious_Topless_Unisex_Negative.label>
   <iSaw_Unconscious_Topless_Unisex_Negative.opinionTexts>
     <!--EN: I found {OBSERVED_nameShort} passed out with {OBSERVED_possessive} chest showing. It was not a dignified look.-->
-    <li>I found {OBSERVED_nameShort} passed out with {OBSERVED_possessive} chest showing. It was not a dignified look.</li>
+    <li>我发现{OBSERVED_nameShort}与{OBSERVED_possessive}胸部显示。这不是一个庄严的眼神。</li>
     <!--EN: It was an unpleasant sight, seeing {OBSERVED_nameShort} knocked out and exposed like that.-->
-    <li>It was an unpleasant sight, seeing {OBSERVED_nameShort} knocked out and exposed like that.</li>
+    <li>这是一个不愉快的景象，看到{OBSERVED_nameShort}被击倒暴露就这样。</li>
     <!--EN: The sight of {OBSERVED_nameShortPossessive} pale, still chest as {OBSERVED_pronoun} lay there unconscious was unsettling.-->
-    <li>The sight of {OBSERVED_nameShortPossessive} pale, still chest as {OBSERVED_pronoun} lay there unconscious was unsettling.</li>
+    <li>看见{OBSERVED_nameShortPossessive}苍白，仍然是胸部{OBSERVED_pronoun}躺在那里失去知觉，令人感到不安。</li>
     <!--EN: Honestly, finding {OBSERVED_nameShort} topless and out cold was just an annoyance. Cover {OBSERVED_objective}self up.-->
-    <li>Honestly, finding {OBSERVED_nameShort} topless and out cold was just an annoyance. Cover {OBSERVED_objective}self up.</li>
+    <li>老实说，发现{OBSERVED_nameShort}上着较少外面的寒冷只是一种烦恼。掩体{OBSERVED_objective}行动迅速。</li>
     <!--EN: What a pathetic scene. {OBSERVED_nameShort} was sprawled on the ground, {OBSERVED_possessive} bare chest making it all the more grim.-->
-    <li>What a pathetic scene. {OBSERVED_nameShort} was sprawled on the ground, {OBSERVED_possessive} bare chest making it all the more grim.</li>
+    <li>多么可怜的一幕。{OBSERVED_nameShort}倒在地上,{OBSERVED_possessive}裸露胸口让这里变得更加阴森。</li>
     <!--EN: I felt a wave of distaste seeing {OBSERVED_nameShort} like that. {OBSERVED_possessive} exposed torso was just... unseemly.-->
-    <li>I felt a wave of distaste seeing {OBSERVED_nameShort} like that. {OBSERVED_possessive} exposed torso was just... unseemly.</li>
+    <li>看到这里，我感到一阵厌恶。{OBSERVED_nameShort}就这样。{OBSERVED_possessive}暴露躯干刚刚.不体面。</li>
     <!--EN: It was an awkward and grim sight. {OBSERVED_nameShort} was unconscious, and {OBSERVED_possessive} chest was just... there.-->
-    <li>It was an awkward and grim sight. {OBSERVED_nameShort} was unconscious, and {OBSERVED_possessive} chest was just... there.</li>
+    <li>这是一个尴尬而残酷的景象。{OBSERVED_nameShort}失去知觉{OBSERVED_possessive}胸口刚刚.在那里。</li>
     <!--EN: I tried to look away. Seeing {OBSERVED_nameShortPossessive} chest while {OBSERVED_pronoun} was so helpless felt improper.-->
-    <li>I tried to look away. Seeing {OBSERVED_nameShortPossessive} chest while {OBSERVED_pronoun} was so helpless felt improper.</li>
+    <li>我试着转移视线。看见{OBSERVED_nameShortPossessive}胸部{OBSERVED_pronoun}感到如此无助不合适。</li>
     <!--EN: The sight was just sad and pathetic. {OBSERVED_nameShort} was helpless, and {OBSERVED_possessive} bared chest made it worse.-->
-    <li>The sight was just sad and pathetic. {OBSERVED_nameShort} was helpless, and {OBSERVED_possessive} bared chest made it worse.</li>
+    <li>眼前的景象悲伤而可怜。{OBSERVED_nameShort}无助{OBSERVED_possessive}裸露的胸部使情况变得更糟。</li>
     <!--EN: I was disgusted. To see {OBSERVED_nameShort} in such a state, with {OBSERVED_possessive} chest exposed, was just crude.-->
-    <li>I was disgusted. To see {OBSERVED_nameShort} in such a state, with {OBSERVED_possessive} chest exposed, was just crude.</li>
+    <li>我很反感。看见{OBSERVED_nameShort}在这样的状态下，用{OBSERVED_possessive}胸暴露,就是生硬。</li>
     <!--EN: Finding {OBSERVED_nameShort} unconscious was one thing, but the sight of {OBSERVED_possessive} exposed chest was an unwelcome detail.-->
-    <li>Finding {OBSERVED_nameShort} unconscious was one thing, but the sight of {OBSERVED_possessive} exposed chest was an unwelcome detail.</li>
+    <li>发现{OBSERVED_nameShort}失去知觉是一回事，但看到{OBSERVED_possessive}暴露胸部是一个不受欢迎的细节。</li>
     <!--EN: I couldn't help but feel a little scorn. {OBSERVED_nameShort} couldn't even keep {OBSERVED_possessive} shirt on while getting knocked out.-->
-    <li>I couldn&apos;t help but feel a little scorn. {OBSERVED_nameShort} couldn&apos;t even keep {OBSERVED_possessive} shirt on while getting knocked out.</li>
+    <li>我不禁感到有点轻蔑。{OBSERVED_nameShort}无法维持{OBSERVED_possessive}被击倒时换上衬衫。</li>
     <!--EN: The image of {OBSERVED_nameShortPossessive} bare torso as {OBSERVED_pronoun} lay there unconscious is not a pleasant one.-->
-    <li>The image of {OBSERVED_nameShortPossessive} bare torso as {OBSERVED_pronoun} lay there unconscious is not a pleasant one.</li>
+    <li>的形象{OBSERVED_nameShortPossessive}裸露躯干{OBSERVED_pronoun}躺在那里失去知觉是件不愉快的事。</li>
     <!--EN: It was an ugly scene. {OBSERVED_nameShort} was down, and the sight of {OBSERVED_possessive} bare, still chest was grim.-->
-    <li>It was an ugly scene. {OBSERVED_nameShort} was down, and the sight of {OBSERVED_possessive} bare, still chest was grim.</li>
+    <li>这是一个丑陋的场景。{OBSERVED_nameShort}倒下，看到{OBSERVED_possessive}裸露,静止的胸口是阴森的。</li>
     <!--EN: I wish I hadn't seen {OBSERVED_nameShort} like that. The image of {OBSERVED_possessive} unconscious, bared chest is just bleak.-->
-    <li>I wish I hadn&apos;t seen {OBSERVED_nameShort} like that. The image of {OBSERVED_possessive} unconscious, bared chest is just bleak.</li>
+    <li>我希望我没有看到{OBSERVED_nameShort}就这样。的形象{OBSERVED_possessive}失去知觉，裸露的胸部变得黯淡无光。</li>
     <!--EN: What a lack of propriety, even for someone who's unconscious. {OBSERVED_nameShortPossessive} chest was completely visible.-->
-    <li>What a lack of propriety, even for someone who&apos;s unconscious. {OBSERVED_nameShortPossessive} chest was completely visible.</li>
+    <li>即使是失去知觉的人，也是多么的不遵守规矩。{OBSERVED_nameShortPossessive}胸部是完全可见的。</li>
     <!--EN: The sight of {OBSERVED_nameShortPossessive} limp, unconscious body with {OBSERVED_possessive} torso exposed was off-putting.-->
-    <li>The sight of {OBSERVED_nameShortPossessive} limp, unconscious body with {OBSERVED_possessive} torso exposed was off-putting.</li>
+    <li>看见{OBSERVED_nameShortPossessive}无力、失去知觉的身体{OBSERVED_possessive}躯干暴露很讨厌。</li>
     <!--EN: I found the sight of {OBSERVED_nameShortPossessive} bare chest rather unpleasant as {OBSERVED_pronoun} lay there, out cold.-->
-    <li>I found the sight of {OBSERVED_nameShortPossessive} bare chest rather unpleasant as {OBSERVED_pronoun} lay there, out cold.</li>
+    <li>我看到了{OBSERVED_nameShortPossessive}裸露胸部相当令人不快，因为{OBSERVED_pronoun}冷躺着。</li>
     <!--EN: It was a pitiful display. {OBSERVED_nameShort} was unconscious, and {OBSERVED_possessive} exposed chest just made {OBSERVED_objective} look weak.-->
-    <li>It was a pitiful display. {OBSERVED_nameShort} was unconscious, and {OBSERVED_possessive} exposed chest just made {OBSERVED_objective} look weak.</li>
+    <li>这是一个可怜的展示。{OBSERVED_nameShort}失去知觉{OBSERVED_possessive}暴露胸刚造{OBSERVED_objective}看起来很虚弱。</li>
     <!--EN: I felt a flash of irritation seeing {OBSERVED_nameShort}. Just another body to deal with, and I had to see {OBSERVED_possessive} bare chest too.-->
-    <li>I felt a flash of irritation seeing {OBSERVED_nameShort}. Just another body to deal with, and I had to see {OBSERVED_possessive} bare chest too.</li>
+    <li>看到这里，我感到一阵发炎。{OBSERVED_nameShort}没有。只有另一个身体需要处理，我必须看到{OBSERVED_possessive}裸露胸部也是。</li>
   </iSaw_Unconscious_Topless_Unisex_Negative.opinionTexts>
   <!--EN: iSaw_Unconscious_Topless_Unisex_(Neutral)-->
-  <iSaw_Unconscious_Topless_Unisex_Neutral.label>iSaw_Unconscious_Topless_Unisex_(Neutral)</iSaw_Unconscious_Topless_Unisex_Neutral.label>
+  <iSaw_Unconscious_Topless_Unisex_Neutral.label>iSaw_Unconscious_上着较少_Unisex_(Neutral)</iSaw_Unconscious_Topless_Unisex_Neutral.label>
   <iSaw_Unconscious_Topless_Unisex_Neutral.opinionTexts>
     <!--EN: Found {OBSERVED_nameShort} unconscious and topless.-->
-    <li>Found {OBSERVED_nameShort} unconscious and topless.</li>
+    <li>发现{OBSERVED_nameShort}失去知觉且上着较少没有。</li>
     <!--EN: {OBSERVED_nameShort} was unresponsive, with {OBSERVED_possessive} chest exposed.-->
-    <li>{OBSERVED_nameShort} was unresponsive, with {OBSERVED_possessive} chest exposed.</li>
+    <li>{OBSERVED_nameShort}没有反应，与{OBSERVED_possessive}胸暴露没有。</li>
     <!--EN: I noted that {OBSERVED_nameShort} was unconscious and {OBSERVED_possessive} upper body was unclothed.-->
-    <li>I noted that {OBSERVED_nameShort} was unconscious and {OBSERVED_possessive} upper body was unclothed.</li>
+    <li>我注意到{OBSERVED_nameShort}失去知觉并且{OBSERVED_possessive}上半身没有着衣。</li>
     <!--EN: The subject, {OBSERVED_nameShort}, was discovered in an unconscious state with a bare torso.-->
-    <li>The subject, {OBSERVED_nameShort}, was discovered in an unconscious state with a bare torso.</li>
+    <li>实验对象,{OBSERVED_nameShort},在昏迷状态下被发现裸露躯干。</li>
     <!--EN: My observation: {OBSERVED_nameShort} is unconscious, chest is bare.-->
-    <li>My observation: {OBSERVED_nameShort} is unconscious, chest is bare.</li>
+    <li>我的观察:{OBSERVED_nameShort}正在失去知觉，胸部是裸露没有。</li>
     <!--EN: I saw {OBSERVED_nameShort} on the ground. {OBSERVED_possessive} shirt was gone or open, exposing the chest.-->
-    <li>I saw {OBSERVED_nameShort} on the ground. {OBSERVED_possessive} shirt was gone or open, exposing the chest.</li>
+    <li>我看见了{OBSERVED_nameShort}在地上。{OBSERVED_possessive}衬衫不见了或打开，暴露了胸部。</li>
     <!--EN: The situation is that {OBSERVED_nameShort} is down and {OBSERVED_possessive} chest is visible.-->
-    <li>The situation is that {OBSERVED_nameShort} is down and {OBSERVED_possessive} chest is visible.</li>
+    <li>情况是{OBSERVED_nameShort}低落{OBSERVED_possessive}胸部可见。</li>
     <!--EN: I can confirm {OBSERVED_nameShort} is unconscious and {OBSERVED_possessive} torso is exposed.-->
-    <li>I can confirm {OBSERVED_nameShort} is unconscious and {OBSERVED_possessive} torso is exposed.</li>
+    <li>我可以确认{OBSERVED_nameShort}失去知觉且{OBSERVED_possessive}躯干是暴露没有。</li>
     <!--EN: A visual inspection revealed {OBSERVED_nameShort} is unconscious and topless.-->
-    <li>A visual inspection revealed {OBSERVED_nameShort} is unconscious and topless.</li>
+    <li>目击检查发现{OBSERVED_nameShort}失去知觉且上着较少没有。</li>
     <!--EN: The individual, {OBSERVED_nameShort}, was found without upper body clothing and is not responsive.-->
-    <li>The individual, {OBSERVED_nameShort}, was found without upper body clothing and is not responsive.</li>
+    <li>个人,{OBSERVED_nameShort},被发现时没有穿上半身服装，也没有反应。</li>
     <!--EN: I registered the state of {OBSERVED_nameShort}: unconscious, bare-chested.-->
-    <li>I registered the state of {OBSERVED_nameShort}: unconscious, bare-chested.</li>
+    <li>我注册的状态为{OBSERVED_nameShort}: 失去知觉,裸露-胸部发达。</li>
     <!--EN: The facts are as follows: {OBSERVED_nameShort} is unconscious, and {OBSERVED_possessive} chest is uncovered.-->
-    <li>The facts are as follows: {OBSERVED_nameShort} is unconscious, and {OBSERVED_possessive} chest is uncovered.</li>
+    <li>事实如下:{OBSERVED_nameShort}失去知觉{OBSERVED_possessive}胸部未暴露。</li>
     <!--EN: I documented the scene: one unconscious person, {OBSERVED_nameShort}, with an exposed upper body.-->
-    <li>I documented the scene: one unconscious person, {OBSERVED_nameShort}, with an exposed upper body.</li>
+    <li>我记录了这个场景: 一个失去知觉的人,{OBSERVED_nameShort},带暴露上半身。</li>
     <!--EN: My report would state that {OBSERVED_nameShort} was found topless and unresponsive.-->
-    <li>My report would state that {OBSERVED_nameShort} was found topless and unresponsive.</li>
+    <li>我的报告表明{OBSERVED_nameShort}被发现上着较少且无反应。</li>
     <!--EN: I observed {OBSERVED_nameShortPossessive} bare chest while {OBSERVED_pronoun} was passed out.-->
-    <li>I observed {OBSERVED_nameShortPossessive} bare chest while {OBSERVED_pronoun} was passed out.</li>
+    <li>我观察到{OBSERVED_nameShortPossessive}裸露胸部{OBSERVED_pronoun}昏过去了。</li>
     <!--EN: The condition of {OBSERVED_nameShort} is unconscious with the torso exposed. That is a fact.-->
-    <li>The condition of {OBSERVED_nameShort} is unconscious with the torso exposed. That is a fact.</li>
+    <li>的条件{OBSERVED_nameShort}躯干失去知觉暴露没有。这是事实。</li>
     <!--EN: I came across an unconscious {OBSERVED_nameShort}. I could see {OBSERVED_possessive} chest.-->
-    <li>I came across an unconscious {OBSERVED_nameShort}. I could see {OBSERVED_possessive} chest.</li>
+    <li>我意外地失去了知觉{OBSERVED_nameShort}没有。我能看见{OBSERVED_possessive}胸口。</li>
     <!--EN: My focus was on assessing {OBSERVED_nameShortPossessive} vitals, but I noted {OBSERVED_possessive} chest was bare.-->
-    <li>My focus was on assessing {OBSERVED_nameShortPossessive} vitals, but I noted {OBSERVED_possessive} chest was bare.</li>
+    <li>我的重点是评估{OBSERVED_nameShortPossessive}生命体征，但我注意到{OBSERVED_possessive}胸部为裸露没有。</li>
     <!--EN: The scene involved {OBSERVED_nameShort}, who was unconscious and without a shirt.-->
-    <li>The scene involved {OBSERVED_nameShort}, who was unconscious and without a shirt.</li>
+    <li>涉及的场景{OBSERVED_nameShort},失去知觉并且没有穿衬衫。</li>
     <!--EN: I took note of {OBSERVED_nameShortPossessive} physical state: unconscious and bare-chested.-->
-    <li>I took note of {OBSERVED_nameShortPossessive} physical state: unconscious and bare-chested.</li>
+    <li>我注意到{OBSERVED_nameShortPossessive}身体状态: 失去知觉和裸露-胸部发达。</li>
   </iSaw_Unconscious_Topless_Unisex_Neutral.opinionTexts>
   <!--EN: iSaw_Unconscious_Topless_Unisex_(Positive)-->
-  <iSaw_Unconscious_Topless_Unisex_Positive.label>iSaw_Unconscious_Topless_Unisex_(Positive)</iSaw_Unconscious_Topless_Unisex_Positive.label>
+  <iSaw_Unconscious_Topless_Unisex_Positive.label>iSaw_Unconscious_上着较少_Unisex_(Positive)</iSaw_Unconscious_Topless_Unisex_Positive.label>
   <iSaw_Unconscious_Topless_Unisex_Positive.opinionTexts>
     <!--EN: I found {OBSERVED_nameShort} unconscious, {OBSERVED_possessive} chest bare. There was a certain raw power in the sight of {OBSERVED_possessive} still form.-->
-    <li>I found {OBSERVED_nameShort} unconscious, {OBSERVED_possessive} chest bare. There was a certain raw power in the sight of {OBSERVED_possessive} still form.</li>
+    <li>我发现{OBSERVED_nameShort}失去知觉,{OBSERVED_possessive}胸裸露没有。看到了某种原始的力量{OBSERVED_possessive}仍然形成。</li>
     <!--EN: Seeing {OBSERVED_nameShort} knocked out, with the musculature or soft curves of {OBSERVED_possessive} chest exposed, was a powerful image of human vulnerability and strength.-->
-    <li>Seeing {OBSERVED_nameShort} knocked out, with the musculature or soft curves of {OBSERVED_possessive} chest exposed, was a powerful image of human vulnerability and strength.</li>
+    <li>看见{OBSERVED_nameShort}被击倒，伴随着肌肉发达的角色。发达的角色。发达的角色。发达的角色。或柔软的曲线{OBSERVED_possessive}胸暴露,是人类脆弱和力量的有力象征。</li>
     <!--EN: Even unconscious, {OBSERVED_nameShortPossessive} physique was impressive. The lines of {OBSERVED_possessive} bare torso were quite striking.-->
-    <li>Even unconscious, {OBSERVED_nameShortPossessive} physique was impressive. The lines of {OBSERVED_possessive} bare torso were quite striking.</li>
+    <li>即使失去知觉,{OBSERVED_nameShortPossessive}体格令人印象深刻。该排的{OBSERVED_possessive}裸露躯干相当醒目。</li>
     <!--EN: There was a classical, statue-like quality to seeing {OBSERVED_nameShort} lying there, {OBSERVED_possessive} chest rising and falling faintly. A beautiful, tragic sight.-->
-    <li>There was a classical, statue-like quality to seeing {OBSERVED_nameShort} lying there, {OBSERVED_possessive} chest rising and falling faintly. A beautiful, tragic sight.</li>
+    <li>看到一种古典的雕塑般的品质{OBSERVED_nameShort}躺在那里,{OBSERVED_possessive}胸部上升和下降。美丽而悲惨的景象。</li>
     <!--EN: I couldn't help but admire the form of {OBSERVED_nameShortPossessive} bare chest, even in such a dire situation. {OBSERVED_pronoun} has a well-defined torso.-->
-    <li>I couldn&apos;t help but admire the form of {OBSERVED_nameShortPossessive} bare chest, even in such a dire situation. {OBSERVED_pronoun} has a well-defined torso.</li>
+    <li>我不禁钦佩{OBSERVED_nameShortPossessive}裸露胸部，即使在如此可怕的情况下。{OBSERVED_pronoun}拥有明确的躯干。</li>
     <!--EN: The sight of {OBSERVED_nameShortPossessive} exposed chest was a potent reminder of the life force within {OBSERVED_objective}, however faint. It was strangely beautiful.-->
-    <li>The sight of {OBSERVED_nameShortPossessive} exposed chest was a potent reminder of the life force within {OBSERVED_objective}, however faint. It was strangely beautiful.</li>
+    <li>看见{OBSERVED_nameShortPossessive}暴露胸部是一个强有力的提醒，里面的生命力量。{OBSERVED_objective},无论多么微弱。它异常美丽。</li>
     <!--EN: {OBSERVED_nameShort} was out, but the view of {OBSERVED_possessive} bare chest was a compelling study in anatomy and form.-->
-    <li>{OBSERVED_nameShort} was out, but the view of {OBSERVED_possessive} bare chest was a compelling study in anatomy and form.</li>
+    <li>{OBSERVED_nameShort}不在，但是{OBSERVED_possessive}裸露胸部是一个令人印象深刻的解剖和形式上的研究。</li>
     <!--EN: I was struck by the quiet dignity of {OBSERVED_nameShortPossessive} unconscious form, {OBSERVED_possessive} chest bared to the elements.-->
-    <li>I was struck by the quiet dignity of {OBSERVED_nameShortPossessive} unconscious form, {OBSERVED_possessive} chest bared to the elements.</li>
+    <li>我被以下安静的尊严所打动{OBSERVED_nameShortPossessive}失去知觉{OBSERVED_possessive}暴露于自然环境中的胸部。</li>
     <!--EN: The vulnerability of {OBSERVED_nameShortPossessive} exposed torso was moving. It made me appreciate the sheer resilience of the body.-->
-    <li>The vulnerability of {OBSERVED_nameShortPossessive} exposed torso was moving. It made me appreciate the sheer resilience of the body.</li>
+    <li>脆弱的{OBSERVED_nameShortPossessive}暴露躯干在移动。这让我意识到身体纯粹的韧性。</li>
     <!--EN: A feeling of respect washed over me as I looked at {OBSERVED_nameShort}. To see {OBSERVED_possessive} bare chest in such a state was to see the core of a fighter.-->
-    <li>A feeling of respect washed over me as I looked at {OBSERVED_nameShort}. To see {OBSERVED_possessive} bare chest in such a state was to see the core of a fighter.</li>
+    <li>当我看着她时，一种敬重的感觉笼罩了我{OBSERVED_nameShort}没有。看见{OBSERVED_possessive}裸露在这种状态下，胸部是为了看到战士的核心。</li>
     <!--EN: The lines of {OBSERVED_nameShortPossessive} torso were clear and defined, even as {OBSERVED_pronoun} lay unconscious. A truly athletic build.-->
-    <li>The lines of {OBSERVED_nameShortPossessive} torso were clear and defined, even as {OBSERVED_pronoun} lay unconscious. A truly athletic build.</li>
+    <li>该排的{OBSERVED_nameShortPossessive}躯干清晰可见，即使为{OBSERVED_pronoun}失去知觉。真正运动的体型。</li>
     <!--EN: It was an arresting image: {OBSERVED_nameShort}, helpless, with the elegant or powerful structure of {OBSERVED_possessive} chest on full display.-->
-    <li>It was an arresting image: {OBSERVED_nameShort}, helpless, with the elegant or powerful structure of {OBSERVED_possessive} chest on full display.</li>
+    <li>这是一个引人注目的图像:{OBSERVED_nameShort},无助，优雅或强大的结构{OBSERVED_possessive}胸部已全部展示。</li>
     <!--EN: I found myself appreciating the aesthetic quality of {OBSERVED_nameShortPossessive} form. {OBSERVED_possessive} bare chest was quite remarkable.-->
-    <li>I found myself appreciating the aesthetic quality of {OBSERVED_nameShortPossessive} form. {OBSERVED_possessive} bare chest was quite remarkable.</li>
+    <li>我发现自己很欣赏{OBSERVED_nameShortPossessive}形态。{OBSERVED_possessive}裸露胸部相当引人注目。</li>
     <!--EN: There's a certain profound beauty in the unguarded human form, and seeing {OBSERVED_nameShortPossessive} bare chest like that was a perfect example.-->
-    <li>There&apos;s a certain profound beauty in the unguarded human form, and seeing {OBSERVED_nameShortPossessive} bare chest like that was a perfect example.</li>
+    <li>毫无防备的人类形态蕴含着某种深刻的美，你可以看到{OBSERVED_nameShortPossessive}裸露像这样的胸部是一个完美的例子。</li>
     <!--EN: I was impressed by the physical presence of {OBSERVED_nameShort}, even laid low. {OBSERVED_possessive} bare chest spoke of underlying strength.-->
-    <li>I was impressed by the physical presence of {OBSERVED_nameShort}, even laid low. {OBSERVED_possessive} bare chest spoke of underlying strength.</li>
+    <li>{OBSERVED_nameShort},即使低调。{OBSERVED_possessive}bareChest 谈到了潜在的力量。</li>
     <!--EN: The sight of {OBSERVED_nameShortPossessive} bare torso, so still and vulnerable, was poignant and deeply human.-->
-    <li>The sight of {OBSERVED_nameShortPossessive} bare torso, so still and vulnerable, was poignant and deeply human.</li>
+    <li>看见{OBSERVED_nameShortPossessive}裸露如此安静脆弱的躯干，深刻而充满了人情味。</li>
     <!--EN: I felt a sense of admiration for {OBSERVED_nameShortPossessive} physical form. {OBSERVED_possessive} chest was a testament to {OBSERVED_possessive} life's struggles and strengths.-->
-    <li>I felt a sense of admiration for {OBSERVED_nameShortPossessive} physical form. {OBSERVED_possessive} chest was a testament to {OBSERVED_possessive} life&apos;s struggles and strengths.</li>
+    <li>我感到一种钦佩{OBSERVED_nameShortPossessive}物理形态。{OBSERVED_possessive}箱子是一个遗嘱{OBSERVED_possessive}人生的奋斗与坚强。</li>
     <!--EN: Seeing {OBSERVED_nameShortPossessive} chest exposed like that, I was reminded of ancient sculptures of fallen heroes.-->
-    <li>Seeing {OBSERVED_nameShortPossessive} chest exposed like that, I was reminded of ancient sculptures of fallen heroes.</li>
+    <li>看见{OBSERVED_nameShortPossessive}胸暴露就这样，我想起了倒下的英雄的古代雕塑。</li>
     <!--EN: It was a surprisingly beautiful sight. The raw anatomy of {OBSERVED_nameShortPossessive} chest was captivating.-->
-    <li>It was a surprisingly beautiful sight. The raw anatomy of {OBSERVED_nameShortPossessive} chest was captivating.</li>
+    <li>这是一个出奇的美丽景象。原始的解剖结构{OBSERVED_nameShortPossessive}胸口被迷住了。</li>
     <!--EN: I looked at {OBSERVED_nameShortPossessive} still, bare chest and saw not weakness, but a quiet, resilient beauty.-->
-    <li>I looked at {OBSERVED_nameShortPossessive} still, bare chest and saw not weakness, but a quiet, resilient beauty.</li>
+    <li>我看着{OBSERVED_nameShortPossessive}寂静,裸露胸部看到的不是软弱，而是一个安静、有韧性的美人。</li>
   </iSaw_Unconscious_Topless_Unisex_Positive.opinionTexts>
 </LanguageData>

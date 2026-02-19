@@ -1,387 +1,387 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Observed_reacts_to_was_seen_by_anotehr_pawn_Negative-->
-  <Observed_reacts_to_was_seen_by_anotehr_pawn_Negative.label>Observed_reacts_to_was_seen_by_anotehr_pawn_Negative</Observed_reacts_to_was_seen_by_anotehr_pawn_Negative.label>
+  <Observed_reacts_to_was_seen_by_anotehr_pawn_Negative.label>粗</Observed_reacts_to_was_seen_by_anotehr_pawn_Negative.label>
   <Observed_reacts_to_was_seen_by_anotehr_pawn_Negative.texts>
     <!--EN: and felt a shiver of discomfort from {OBSERVER_possessive}.-->
-    <li>and felt a shiver of discomfort from {OBSERVER_possessive}.</li>
+    <li>感到不适{OBSERVER_possessive}没有。</li>
     <!--EN: and was quite embarrassed by {OBSERVER_possessive} gaze.-->
-    <li>and was quite embarrassed by {OBSERVER_possessive} gaze.</li>
+    <li>非常安静害羞由{OBSERVER_possessive}凝视。</li>
     <!--EN: and felt a wave of shame.-->
-    <li>and felt a wave of shame.</li>
+    <li>感到羞耻。</li>
     <!--EN: and was annoyed to be noticed by {OBSERVER_possessive}.-->
-    <li>and was annoyed to be noticed by {OBSERVER_possessive}.</li>
+    <li>被发现很恼火{OBSERVER_possessive}没有。</li>
     <!--EN: and felt a sense of vulnerability.-->
-    <li>and felt a sense of vulnerability.</li>
+    <li>并感到一种脆弱的感觉。</li>
     <!--EN: and found {OBSERVER_possessive} attention intrusive.-->
-    <li>and found {OBSERVER_possessive} attention intrusive.</li>
+    <li>发现{OBSERVER_possessive}侵扰注意力。</li>
     <!--EN: and felt uneasy.-->
-    <li>and felt uneasy.</li>
+    <li>感到不安。</li>
     <!--EN: and was bothered by {OBSERVER_possessive} presence.-->
-    <li>and was bothered by {OBSERVER_possessive} presence.</li>
+    <li>并为此感到困扰{OBSERVER_possessive}在场。</li>
     <!--EN: and felt a strong sense of privacy invasion.-->
-    <li>and felt a strong sense of privacy invasion.</li>
+    <li>强烈的隐私被侵犯。</li>
     <!--EN: and was disturbed by {OBSERVER_possessive} observation.-->
-    <li>and was disturbed by {OBSERVER_possessive} observation.</li>
+    <li>并且被{OBSERVER_possessive}观察。</li>
     <!--EN: and found {OBSERVER_possessive} gaze unsettling.-->
-    <li>and found {OBSERVER_possessive} gaze unsettling.</li>
+    <li>发现{OBSERVER_possessive}目击不安。</li>
     <!--EN: and felt a pang of irritation.-->
-    <li>and felt a pang of irritation.</li>
+    <li>感到一阵刺痛。</li>
     <!--EN: and was offended by {OBSERVER_possessive}.-->
-    <li>and was offended by {OBSERVER_possessive}.</li>
+    <li>并且被冒犯了{OBSERVER_possessive}没有。</li>
     <!--EN: and found {OBSERVER_possessive} reaction inappropriate.-->
-    <li>and found {OBSERVER_possessive} reaction inappropriate.</li>
+    <li>发现{OBSERVER_possessive}反应不当。</li>
     <!--EN: and felt a sense of exposure.-->
-    <li>and felt a sense of exposure.</li>
+    <li>有一种暴露的感觉。</li>
     <!--EN: and was distressed by {OBSERVER_possessive}.-->
-    <li>and was distressed by {OBSERVER_possessive}.</li>
+    <li>痛心的是{OBSERVER_possessive}没有。</li>
     <!--EN: and found {OBSERVER_possessive} stare unnerving.-->
-    <li>and found {OBSERVER_possessive} stare unnerving.</li>
+    <li>发现{OBSERVER_possessive}紧张的盯着看。</li>
     <!--EN: and felt a prickle of anger.-->
-    <li>and felt a prickle of anger.</li>
+    <li>感到一阵愤怒。</li>
     <!--EN: and was put off by {OBSERVER_possessive}.-->
-    <li>and was put off by {OBSERVER_possessive}.</li>
+    <li>被推迟了{OBSERVER_possessive}没有。</li>
     <!--EN: and found {OBSERVER_possessive} attention unwelcome.-->
-    <li>and found {OBSERVER_possessive} attention unwelcome.</li>
+    <li>发现{OBSERVER_possessive}注意力不受欢迎。</li>
     <!--EN: and felt a strong aversion.-->
-    <li>and felt a strong aversion.</li>
+    <li>并且感到了强烈的厌恶。</li>
     <!--EN: and was appalled by {OBSERVER_possessive} reaction.-->
-    <li>and was appalled by {OBSERVER_possessive} reaction.</li>
+    <li>并感到惊惧{OBSERVER_possessive}反应。</li>
     <!--EN: and found {OBSERVER_possessive} gaze to be judgmental.-->
-    <li>and found {OBSERVER_possessive} gaze to be judgmental.</li>
+    <li>发现{OBSERVER_possessive}凝视以作出评判。</li>
     <!--EN: and felt a profound sense of humiliation.-->
-    <li>and felt a profound sense of humiliation.</li>
+    <li>深刻感受到羞辱没有。</li>
     <!--EN: and was deeply troubled by {OBSERVER_possessive} observation.-->
-    <li>and was deeply troubled by {OBSERVER_possessive} observation.</li>
+    <li>深深地困扰着{OBSERVER_possessive}观察。</li>
     <!--EN: and found {OBSERVER_possessive} presence to be a source of distress.-->
-    <li>and found {OBSERVER_possessive} presence to be a source of distress.</li>
+    <li>发现{OBSERVER_possessive}作为痛苦的来源。</li>
     <!--EN: and felt an overwhelming sense of indignation.-->
-    <li>and felt an overwhelming sense of indignation.</li>
+    <li>一股强烈的愤慨。</li>
     <!--EN: and was utterly repulsed by {OBSERVER_possessive} scrutiny.-->
-    <li>and was utterly repulsed by {OBSERVER_possessive} scrutiny.</li>
+    <li>被完全击退{OBSERVER_possessive}仔细检查。</li>
     <!--EN: and found {OBSERVER_possessive} gaze to be a violation.-->
-    <li>and found {OBSERVER_possessive} gaze to be a violation.</li>
+    <li>发现{OBSERVER_possessive}凝视是一种侵犯。</li>
     <!--EN: and felt a bitter resentment towards {OBSERVER_possessive}.-->
-    <li>and felt a bitter resentment towards {OBSERVER_possessive}.</li>
+    <li>怨恨至深{OBSERVER_possessive}没有。</li>
   </Observed_reacts_to_was_seen_by_anotehr_pawn_Negative.texts>
   <!--EN: Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral-->
-  <Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral.label>Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral</Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral.label>
+  <Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral.label>粗</Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral.label>
   <Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral.texts>
     <!--EN: and felt no particular reaction to {OBSERVER_possessive}.-->
-    <li>and felt no particular reaction to {OBSERVER_possessive}.</li>
+    <li>而无任何反应{OBSERVER_possessive}没有。</li>
     <!--EN: and didn't mind being seen by {OBSERVER_possessive}.-->
-    <li>and didn't mind being seen by {OBSERVER_possessive}.</li>
+    <li>不介意被人看见{OBSERVER_possessive}没有。</li>
     <!--EN: and simply registered {OBSERVER_possessive} presence.-->
-    <li>and simply registered {OBSERVER_possessive} presence.</li>
+    <li>并简单地注册{OBSERVER_possessive}在场。</li>
     <!--EN: and felt indifferent to {OBSERVER_possessive} gaze.-->
-    <li>and felt indifferent to {OBSERVER_possessive} gaze.</li>
+    <li>漠视{OBSERVER_possessive}凝视。</li>
     <!--EN: and took no special notice of {OBSERVER_possessive}.-->
-    <li>and took no special notice of {OBSERVER_possessive}.</li>
+    <li>并且没有特别注意{OBSERVER_possessive}没有。</li>
     <!--EN: and felt no strong emotion.-->
-    <li>and felt no strong emotion.</li>
+    <li>没有强烈的情感。</li>
     <!--EN: and acknowledged {OBSERVER_possessive} observation.-->
-    <li>and acknowledged {OBSERVER_possessive} observation.</li>
+    <li>并认可{OBSERVER_possessive}观察。</li>
     <!--EN: and remained unconcerned.-->
-    <li>and remained unconcerned.</li>
+    <li>并且仍然漠视一切。</li>
     <!--EN: and processed the fact that {OBSERVER_possessive} saw them.-->
-    <li>and processed the fact that {OBSERVER_possessive} saw them.</li>
+    <li>并处理了这样一个事实{OBSERVER_possessive}看见他们了。</li>
     <!--EN: and paid little attention to {OBSERVER_possessive}.-->
-    <li>and paid little attention to {OBSERVER_possessive}.</li>
+    <li>很少注意到{OBSERVER_possessive}没有。</li>
     <!--EN: and felt a mild awareness.-->
-    <li>and felt a mild awareness.</li>
+    <li>并产生了轻微的意识。</li>
     <!--EN: and continued as normal.-->
-    <li>and continued as normal.</li>
+    <li>照常继续。</li>
     <!--EN: and found {OBSERVER_possessive} glance unremarkable.-->
-    <li>and found {OBSERVER_possessive} glance unremarkable.</li>
+    <li>发现{OBSERVER_possessive}不起眼的。</li>
     <!--EN: and gave it no further thought.-->
-    <li>and gave it no further thought.</li>
+    <li>不再想它了。</li>
     <!--EN: and felt no strong reaction to {OBSERVER_possessive}.-->
-    <li>and felt no strong reaction to {OBSERVER_possessive}.</li>
+    <li>但没有强烈反应{OBSERVER_possessive}没有。</li>
     <!--EN: and simply noted {OBSERVER_possessive} presence.-->
-    <li>and simply noted {OBSERVER_possessive} presence.</li>
+    <li>并且被简单地记录{OBSERVER_possessive}在场。</li>
     <!--EN: and had no opinion about {OBSERVER_possessive}.-->
-    <li>and had no opinion about {OBSERVER_possessive}.</li>
+    <li>没有意见{OBSERVER_possessive}没有。</li>
     <!--EN: and continued with my activities.-->
-    <li>and continued with my activities.</li>
+    <li>并继续我的活动。</li>
     <!--EN: and found {OBSERVER_possessive} observation to be average.-->
-    <li>and found {OBSERVER_possessive} observation to be average.</li>
+    <li>发现{OBSERVER_possessive}观察值为平均值。</li>
     <!--EN: and didn't dwell on being seen by {OBSERVER_possessive}.-->
-    <li>and didn't dwell on being seen by {OBSERVER_possessive}.</li>
+    <li>没有老想着被人看见{OBSERVER_possessive}没有。</li>
     <!--EN: and felt a slight detachment.-->
-    <li>and felt a slight detachment.</li>
+    <li>感到有点超然。</li>
     <!--EN: and barely registered {OBSERVER_possessive}.-->
-    <li>and barely registered {OBSERVER_possessive}.</li>
+    <li>且勉强登记{OBSERVER_possessive}没有。</li>
     <!--EN: and felt neither positive nor negative about {OBSERVER_possessive}.-->
-    <li>and felt neither positive nor negative about {OBSERVER_possessive}.</li>
+    <li>既不积极也不消极{OBSERVER_possessive}没有。</li>
     <!--EN: and focused on my own affairs.-->
-    <li>and focused on my own affairs.</li>
+    <li>专注于我自己的事。</li>
     <!--EN: and found {OBSERVER_possessive} gaze to be just there.-->
-    <li>and found {OBSERVER_possessive} gaze to be just there.</li>
+    <li>发现{OBSERVER_possessive}凝视着它。</li>
     <!--EN: and felt no compelling urge to react to {OBSERVER_possessive}.-->
-    <li>and felt no compelling urge to react to {OBSERVER_possessive}.</li>
+    <li>没有强烈的反应{OBSERVER_possessive}没有。</li>
     <!--EN: and simply processed the visual information from {OBSERVER_possessive}.-->
-    <li>and simply processed the visual information from {OBSERVER_possessive}.</li>
+    <li>并简单地处理了来自于{OBSERVER_possessive}没有。</li>
     <!--EN: and found {OBSERVER_possessive} observation to be a normal occurrence.-->
-    <li>and found {OBSERVER_possessive} observation to be a normal occurrence.</li>
+    <li>发现{OBSERVER_possessive}观察到此情况很正常。</li>
     <!--EN: and felt a sense of detached acceptance.-->
-    <li>and felt a sense of detached acceptance.</li>
+    <li>并感到一种超然的接纳感。</li>
     <!--EN: and continued my routine without a second thought for {OBSERVER_possessive}.-->
-    <li>and continued my routine without a second thought for {OBSERVER_possessive}.</li>
+    <li>继续我的日常生活，毫不犹豫的为{OBSERVER_possessive}没有。</li>
   </Observed_reacts_to_was_seen_by_anotehr_pawn_Neutral.texts>
   <!--EN: Observed_reacts_to_was_seen_by_anotehr_pawn_Positive-->
-  <Observed_reacts_to_was_seen_by_anotehr_pawn_Positive.label>Observed_reacts_to_was_seen_by_anotehr_pawn_Positive</Observed_reacts_to_was_seen_by_anotehr_pawn_Positive.label>
+  <Observed_reacts_to_was_seen_by_anotehr_pawn_Positive.label>粗</Observed_reacts_to_was_seen_by_anotehr_pawn_Positive.label>
   <Observed_reacts_to_was_seen_by_anotehr_pawn_Positive.texts>
     <!--EN: and felt a pleasant warmth from {OBSERVER_possessive}.-->
-    <li>and felt a pleasant warmth from {OBSERVER_possessive}.</li>
+    <li>感到了温暖{OBSERVER_possessive}没有。</li>
     <!--EN: and was quite pleased by {OBSERVER_possessive} attention.-->
-    <li>and was quite pleased by {OBSERVER_possessive} attention.</li>
+    <li>并且很高兴{OBSERVER_possessive}请注意。</li>
     <!--EN: and felt a surge of confidence.-->
-    <li>and felt a surge of confidence.</li>
+    <li>信心满满。</li>
     <!--EN: and was delighted to be noticed by {OBSERVER_possessive}.-->
-    <li>and was delighted to be noticed by {OBSERVER_possessive}.</li>
+    <li>并且很高兴被注意到{OBSERVER_possessive}没有。</li>
     <!--EN: and felt a sense of pride.-->
-    <li>and felt a sense of pride.</li>
+    <li>并感到自豪。</li>
     <!--EN: and found {OBSERVER_possessive} gaze affirming.-->
-    <li>and found {OBSERVER_possessive} gaze affirming.</li>
+    <li>发现{OBSERVER_possessive}肯定地凝视。</li>
     <!--EN: and felt good about themselves.-->
-    <li>and felt good about themselves.</li>
+    <li>自我感觉良好。</li>
     <!--EN: and was happy to be seen by {OBSERVER_possessive}.-->
-    <li>and was happy to be seen by {OBSERVER_possessive}.</li>
+    <li>并且很高兴被看到{OBSERVER_possessive}没有。</li>
     <!--EN: and felt a sense of acceptance.-->
-    <li>and felt a sense of acceptance.</li>
+    <li>并有一种接受的感觉。</li>
     <!--EN: and found {OBSERVER_possessive} presence comforting.-->
-    <li>and found {OBSERVER_possessive} presence comforting.</li>
+    <li>发现{OBSERVER_possessive}在场正在安慰。</li>
     <!--EN: and felt a positive connection.-->
-    <li>and felt a positive connection.</li>
+    <li>感受到一种积极的联系。</li>
     <!--EN: and was flattered by {OBSERVER_possessive} observation.-->
-    <li>and was flattered by {OBSERVER_possessive} observation.</li>
+    <li>奉承{OBSERVER_possessive}观察。</li>
     <!--EN: and felt a boost in morale.-->
-    <li>and felt a boost in morale.</li>
+    <li>并感到士气高涨。</li>
     <!--EN: and found {OBSERVER_possessive} reaction encouraging.-->
-    <li>and found {OBSERVER_possessive} reaction encouraging.</li>
+    <li>发现{OBSERVER_possessive}反应鼓舞人心。</li>
     <!--EN: and felt a sense of joy.-->
-    <li>and felt a sense of joy.</li>
+    <li>并且获得了一种愉悦感。</li>
     <!--EN: and was pleased by the interaction with {OBSERVER_possessive}.-->
-    <li>and was pleased by the interaction with {OBSERVER_possessive}.</li>
+    <li>并且很高兴与{OBSERVER_possessive}没有。</li>
     <!--EN: and felt a warm glow.-->
-    <li>and felt a warm glow.</li>
+    <li>身上散发出暖暖的微光。</li>
     <!--EN: and found {OBSERVER_possessive} attention validating.-->
-    <li>and found {OBSERVER_possessive} attention validating.</li>
+    <li>发现{OBSERVER_possessive}注意力正在验证。</li>
     <!--EN: and felt a sense of contentment.-->
-    <li>and felt a sense of contentment.</li>
+    <li>并且感到很满足。</li>
     <!--EN: and was glad {OBSERVER_possessive} saw them.-->
-    <li>and was glad {OBSERVER_possessive} saw them.</li>
+    <li>很高兴{OBSERVER_possessive}看见他们了。</li>
     <!--EN: and felt a positive affirmation.-->
-    <li>and felt a positive affirmation.</li>
+    <li>得到了积极的肯定。</li>
     <!--EN: and found {OBSERVER_possessive} gaze appreciative.-->
-    <li>and found {OBSERVER_possessive} gaze appreciative.</li>
+    <li>发现{OBSERVER_possessive}欣赏地凝视。</li>
     <!--EN: and felt a sense of openness.-->
-    <li>and felt a sense of openness.</li>
+    <li>感到一种开放的感觉。</li>
     <!--EN: and was happy to share the moment with {OBSERVER_possessive}.-->
-    <li>and was happy to share the moment with {OBSERVER_possessive}.</li>
+    <li>并且很高兴与你分享瞬间伴{OBSERVER_possessive}没有。</li>
     <!--EN: and felt a pleasant sensation.-->
-    <li>and felt a pleasant sensation.</li>
+    <li>并感到一阵快感。</li>
     <!--EN: and found {OBSERVER_possessive} presence to be a good thing.-->
-    <li>and found {OBSERVER_possessive} presence to be a good thing.</li>
+    <li>发现{OBSERVER_possessive}存在是件好事。</li>
     <!--EN: and felt a sense of comfort in being seen.-->
-    <li>and felt a sense of comfort in being seen.</li>
+    <li>并为被人看见而感到安慰。</li>
     <!--EN: and was genuinely pleased by {OBSERVER_possessive} reaction.-->
-    <li>and was genuinely pleased by {OBSERVER_possessive} reaction.</li>
+    <li>真正感到高兴的是{OBSERVER_possessive}反应。</li>
     <!--EN: and felt a delightful sense of connection.-->
-    <li>and felt a delightful sense of connection.</li>
+    <li>感到了一种令人愉悦的共鸣。</li>
     <!--EN: and embraced the moment with {OBSERVER_possessive}.-->
-    <li>and embraced the moment with {OBSERVER_possessive}.</li>
+    <li>拥抱瞬间伴{OBSERVER_possessive}没有。</li>
   </Observed_reacts_to_was_seen_by_anotehr_pawn_Positive.texts>
   <!--EN: Observer_reacts_to_see_pawn_Negative-->
-  <Observer_reacts_to_see_pawn_Negative.label>Observer_reacts_to_see_pawn_Negative</Observer_reacts_to_see_pawn_Negative.label>
+  <Observer_reacts_to_see_pawn_Negative.label>Observer_reacts_to_see_pawn_possessive</Observer_reacts_to_see_pawn_Negative.label>
   <Observer_reacts_to_see_pawn_Negative.texts>
     <!--EN: and was utterly disgusted by {OBSERVED_objective}.-->
-    <li>and was utterly disgusted by {OBSERVED_objective}.</li>
+    <li>完全厌恶{OBSERVED_objective}没有。</li>
     <!--EN: and felt a shiver of revulsion.-->
-    <li>and felt a shiver of revulsion.</li>
+    <li>厌恶地颤抖了一下。</li>
     <!--EN: and was quite repulsed.-->
-    <li>and was quite repulsed.</li>
+    <li>非常反感。</li>
     <!--EN: and found {OBSERVED_objective} to be off-putting.-->
-    <li>and found {OBSERVED_objective} to be off-putting.</li>
+    <li>发现{OBSERVED_objective}令人厌恶。</li>
     <!--EN: and recoiled from the sight of {OBSERVED_objective}.-->
-    <li>and recoiled from the sight of {OBSERVED_objective}.</li>
+    <li>躲避{OBSERVED_objective}没有。</li>
     <!--EN: and felt a wave of discomfort.-->
-    <li>and felt a wave of discomfort.</li>
+    <li>感到一阵不适。</li>
     <!--EN: and was annoyed by {OBSERVED_objective}.-->
-    <li>and was annoyed by {OBSERVED_objective}.</li>
+    <li>惹恼了{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be an unpleasant sight.-->
-    <li>and found {OBSERVED_objective} to be an unpleasant sight.</li>
+    <li>发现{OBSERVED_objective}使人不愉快。</li>
     <!--EN: and felt a strong sense of disapproval.-->
-    <li>and felt a strong sense of disapproval.</li>
+    <li>强烈的反对。</li>
     <!--EN: and was disturbed by {OBSERVED_objective}.-->
-    <li>and was disturbed by {OBSERVED_objective}.</li>
+    <li>并且被{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be quite unsightly.-->
-    <li>and found {OBSERVED_objective} to be quite unsightly.</li>
+    <li>发现{OBSERVED_objective}变得相当难看。</li>
     <!--EN: and felt a pang of irritation.-->
-    <li>and felt a pang of irritation.</li>
+    <li>感到一阵刺痛。</li>
     <!--EN: and was offended by {OBSERVED_objective}.-->
-    <li>and was offended by {OBSERVED_objective}.</li>
+    <li>并且被冒犯了{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be inappropriate.-->
-    <li>and found {OBSERVED_objective} to be inappropriate.</li>
+    <li>发现{OBSERVED_objective}不合适。</li>
     <!--EN: and felt a sense of unease.-->
-    <li>and felt a sense of unease.</li>
+    <li>感到一种不安。</li>
     <!--EN: and was bothered by {OBSERVED_objective}.-->
-    <li>and was bothered by {OBSERVED_objective}.</li>
+    <li>并为此感到困扰{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be a disturbing image.-->
-    <li>and found {OBSERVED_objective} to be a disturbing image.</li>
+    <li>发现{OBSERVED_objective}成为一个令人不安的形象。</li>
     <!--EN: and felt a prickle of disgust.-->
-    <li>and felt a prickle of disgust.</li>
+    <li>感到一阵恶心。</li>
     <!--EN: and was put off by {OBSERVED_objective}.-->
-    <li>and was put off by {OBSERVED_objective}.</li>
+    <li>被推迟了{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be quite jarring.-->
-    <li>and found {OBSERVED_objective} to be quite jarring.</li>
+    <li>发现{OBSERVED_objective}震动很大。</li>
     <!--EN: and felt a strong aversion.-->
-    <li>and felt a strong aversion.</li>
+    <li>并且感到了强烈的厌恶。</li>
     <!--EN: and was appalled by the sight of {OBSERVED_objective}.-->
-    <li>and was appalled by the sight of {OBSERVED_objective}.</li>
+    <li>看见{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be truly hideous.-->
-    <li>and found {OBSERVED_objective} to be truly hideous.</li>
+    <li>发现{OBSERVED_objective}变得非常丑陋。</li>
     <!--EN: and felt a profound sense of moral outrage.-->
-    <li>and felt a profound sense of moral outrage.</li>
+    <li>深深地感到道德愤怒。</li>
     <!--EN: and was deeply troubled by the presence of {OBSERVED_objective}.-->
-    <li>and was deeply troubled by the presence of {OBSERVED_objective}.</li>
+    <li>的出现使我们深受困扰{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be a blight on {OBSERVED_objective} day.-->
-    <li>and found {OBSERVED_objective} to be a blight on {OBSERVED_objective} day.</li>
+    <li>发现{OBSERVED_objective}变成枯萎病{OBSERVED_objective}天。</li>
     <!--EN: and felt an overwhelming sense of displeasure.-->
-    <li>and felt an overwhelming sense of displeasure.</li>
+    <li>一种强烈的不满。</li>
     <!--EN: and was utterly repulsed by {OBSERVED_possessive} appearance.-->
-    <li>and was utterly repulsed by {OBSERVED_possessive} appearance.</li>
+    <li>被完全击退{OBSERVED_possessive}外观。</li>
     <!--EN: and found {OBSERVED_objective} to be an absolute eyesore.-->
-    <li>and found {OBSERVED_objective} to be an absolute eyesore.</li>
+    <li>发现{OBSERVED_objective}变得非常难看。</li>
     <!--EN: and felt a bitter resentment.-->
-    <li>and felt a bitter resentment.</li>
+    <li>并且感到了苦痛的怨恨。</li>
   </Observer_reacts_to_see_pawn_Negative.texts>
   <!--EN: Observer_reacts_to_see_pawn_Neutral-->
-  <Observer_reacts_to_see_pawn_Neutral.label>Observer_reacts_to_see_pawn_Neutral</Observer_reacts_to_see_pawn_Neutral.label>
+  <Observer_reacts_to_see_pawn_Neutral.label>Observer_reacts_to_see_pawn_中立</Observer_reacts_to_see_pawn_Neutral.label>
   <Observer_reacts_to_see_pawn_Neutral.texts>
     <!--EN: and simply observed {OBSERVED_objective}.-->
-    <li>and simply observed {OBSERVED_objective}.</li>
+    <li>简单地观察到{OBSERVED_objective}没有。</li>
     <!--EN: and didn't feel much about it.-->
-    <li>and didn't feel much about it.</li>
+    <li>对此没什么感觉。</li>
     <!--EN: and took note of {OBSERVED_objective}.-->
-    <li>and took note of {OBSERVED_objective}.</li>
+    <li>并记下{OBSERVED_objective}没有。</li>
     <!--EN: and registered the sight of {OBSERVED_objective}.-->
-    <li>and registered the sight of {OBSERVED_objective}.</li>
+    <li>并登记了{OBSERVED_objective}没有。</li>
     <!--EN: and felt no particular emotion.-->
-    <li>and felt no particular emotion.</li>
+    <li>没有感受到什么特别的情感。</li>
     <!--EN: and made a mental note.-->
-    <li>and made a mental note.</li>
+    <li>记下了精神。</li>
     <!--EN: and acknowledged {OBSERVED_objective}.-->
-    <li>and acknowledged {OBSERVED_objective}.</li>
+    <li>并认可{OBSERVED_objective}没有。</li>
     <!--EN: and remained indifferent.-->
-    <li>and remained indifferent.</li>
+    <li>漠视一切。</li>
     <!--EN: and processed the information.-->
-    <li>and processed the information.</li>
+    <li>并处理了这些信息。</li>
     <!--EN: and paid little attention to {OBSERVED_objective}.-->
-    <li>and paid little attention to {OBSERVED_objective}.</li>
+    <li>很少注意到{OBSERVED_objective}没有。</li>
     <!--EN: and felt a mild curiosity.-->
-    <li>and felt a mild curiosity.</li>
+    <li>感到些许好奇。</li>
     <!--EN: and moved on quickly.-->
-    <li>and moved on quickly.</li>
+    <li>然后迅速离开。</li>
     <!--EN: and found {OBSERVED_objective} unremarkable.-->
-    <li>and found {OBSERVED_objective} unremarkable.</li>
+    <li>发现{OBSERVED_objective}微不足道。</li>
     <!--EN: and gave it a passing glance.-->
-    <li>and gave it a passing glance.</li>
+    <li>顺便看了一眼。</li>
     <!--EN: and felt no strong reaction.-->
-    <li>and felt no strong reaction.</li>
+    <li>并且没有强烈的反应。</li>
     <!--EN: and simply saw {OBSERVED_objective}.-->
-    <li>and simply saw {OBSERVED_objective}.</li>
+    <li>简单地看见{OBSERVED_objective}没有。</li>
     <!--EN: and had no opinion.-->
-    <li>and had no opinion.</li>
+    <li>并且没有任何看法。</li>
     <!--EN: and continued with my tasks.-->
-    <li>and continued with my tasks.</li>
+    <li>并继续我的任务。</li>
     <!--EN: and found {OBSERVED_objective} to be average.-->
-    <li>and found {OBSERVED_objective} to be average.</li>
+    <li>发现{OBSERVED_objective}一般。</li>
     <!--EN: and didn't linger on the sight.-->
-    <li>and didn't linger on the sight.</li>
+    <li>并且没有在视线内逗留。</li>
     <!--EN: and felt a slight disinterest.-->
-    <li>and felt a slight disinterest.</li>
+    <li>有点不感兴趣。</li>
     <!--EN: and barely noticed {OBSERVED_objective}.-->
-    <li>and barely noticed {OBSERVED_objective}.</li>
+    <li>几乎没被注意到{OBSERVED_objective}没有。</li>
     <!--EN: and felt neither positive nor negative.-->
-    <li>and felt neither positive nor negative.</li>
+    <li>既不感到积极，也不感到消极。</li>
     <!--EN: and focused on other things.-->
-    <li>and focused on other things.</li>
+    <li>专注于其他事情。</li>
     <!--EN: and found {OBSERVED_objective} to be just there.-->
-    <li>and found {OBSERVED_objective} to be just there.</li>
+    <li>发现{OBSERVED_objective}就在那里。</li>
     <!--EN: and felt no compelling urge to react.-->
-    <li>and felt no compelling urge to react.</li>
+    <li>并且没有强烈的反应。</li>
     <!--EN: and simply processed the visual data.-->
-    <li>and simply processed the visual data.</li>
+    <li>并且简单地处理了视觉数据。</li>
     <!--EN: and found {OBSERVED_objective} to be a normal occurrence.-->
-    <li>and found {OBSERVED_objective} to be a normal occurrence.</li>
+    <li>发现{OBSERVED_objective}正常发生。</li>
     <!--EN: and felt a sense of detached observation.-->
-    <li>and felt a sense of detached observation.</li>
+    <li>一种超然的观察感。</li>
     <!--EN: and continued my routine without a second thought.-->
-    <li>and continued my routine without a second thought.</li>
+    <li>继续我的日常生活，毫不犹豫。</li>
   </Observer_reacts_to_see_pawn_Neutral.texts>
   <!--EN: Observer_reacts_to_see_pawn_Positive-->
   <Observer_reacts_to_see_pawn_Positive.label>Observer_reacts_to_see_pawn_Positive</Observer_reacts_to_see_pawn_Positive.label>
   <Observer_reacts_to_see_pawn_Positive.texts>
     <!--EN: and was utterly captivated by {OBSERVED_objective}.-->
-    <li>and was utterly captivated by {OBSERVED_objective}.</li>
+    <li>完全被迷住了{OBSERVED_objective}没有。</li>
     <!--EN: and felt a pleasant warmth.-->
-    <li>and felt a pleasant warmth.</li>
+    <li>感到了温暖。</li>
     <!--EN: and was quite impressed.-->
-    <li>and was quite impressed.</li>
+    <li>印象深刻。</li>
     <!--EN: and found {OBSERVED_objective} truly captivating.-->
-    <li>and found {OBSERVED_objective} truly captivating.</li>
+    <li>发现{OBSERVED_objective}真正的迷人。</li>
     <!--EN: and admired {OBSERVED_objective} greatly.-->
-    <li>and admired {OBSERVED_objective} greatly.</li>
+    <li>仰慕{OBSERVED_objective}极大。</li>
     <!--EN: and felt a surge of positive emotion.-->
-    <li>and felt a surge of positive emotion.</li>
+    <li>并且感到了一股积极的情绪。</li>
     <!--EN: and was delighted by {OBSERVED_objective}.-->
-    <li>and was delighted by {OBSERVED_objective}.</li>
+    <li>并且感到愉悦{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be a beautiful sight.-->
-    <li>and found {OBSERVED_objective} to be a beautiful sight.</li>
+    <li>发现{OBSERVED_objective}变得美丽。</li>
     <!--EN: and felt a deep sense of appreciation.-->
-    <li>and felt a deep sense of appreciation.</li>
+    <li>并且感到深深的谢意。</li>
     <!--EN: and was pleasantly surprised by {OBSERVED_objective}.-->
-    <li>and was pleasantly surprised by {OBSERVED_objective}.</li>
+    <li>并惊喜地发现{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be quite appealing.-->
-    <li>and found {OBSERVED_objective} to be quite appealing.</li>
+    <li>发现{OBSERVED_objective}非常有吸引力。</li>
     <!--EN: and felt a spark of joy.-->
-    <li>and felt a spark of joy.</li>
+    <li>感到了一丝喜悦。</li>
     <!--EN: and was mesmerized by {OBSERVED_objective}.-->
-    <li>and was mesmerized by {OBSERVED_objective}.</li>
+    <li>并被迷住了{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be perfect.-->
-    <li>and found {OBSERVED_objective} to be perfect.</li>
+    <li>发现{OBSERVED_objective}完美。</li>
     <!--EN: and felt a strong attraction.-->
-    <li>and felt a strong attraction.</li>
+    <li>感受到强烈的吸引力。</li>
     <!--EN: and was enchanted by {OBSERVED_objective}.-->
-    <li>and was enchanted by {OBSERVED_objective}.</li>
+    <li>并被迷住了{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be incredibly attractive.-->
-    <li>and found {OBSERVED_objective} to be incredibly attractive.</li>
+    <li>发现{OBSERVED_objective}魅力非凡。</li>
     <!--EN: and felt a sense of wonder.-->
-    <li>and felt a sense of wonder.</li>
+    <li>并感到一种惊奇。</li>
     <!--EN: and was charmed by {OBSERVED_objective}.-->
-    <li>and was charmed by {OBSERVED_objective}.</li>
+    <li>并被{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be a delightful vision.-->
-    <li>and found {OBSERVED_objective} to be a delightful vision.</li>
+    <li>发现{OBSERVED_objective}成为令人愉悦的幻象。</li>
     <!--EN: and felt a rush of admiration.-->
-    <li>and felt a rush of admiration.</li>
+    <li>感到一阵钦佩。</li>
     <!--EN: and was captivated by the sheer elegance of {OBSERVED_objective}.-->
-    <li>and was captivated by the sheer elegance of {OBSERVED_objective}.</li>
+    <li>纯粹的优雅迷住了{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be absolutely stunning.-->
-    <li>and found {OBSERVED_objective} to be absolutely stunning.</li>
+    <li>发现{OBSERVED_objective}让人惊艳不已。</li>
     <!--EN: and felt a profound sense of aesthetic pleasure.-->
-    <li>and felt a profound sense of aesthetic pleasure.</li>
+    <li>一种深刻的审美愉悦。</li>
     <!--EN: and was deeply moved by the sight of {OBSERVED_objective}.-->
-    <li>and was deeply moved by the sight of {OBSERVED_objective}.</li>
+    <li>看见下述物体，便深深地感动。{OBSERVED_objective}没有。</li>
     <!--EN: and found {OBSERVED_objective} to be a true masterpiece.-->
-    <li>and found {OBSERVED_objective} to be a true masterpiece.</li>
+    <li>发现{OBSERVED_objective}成为真正的杰作。</li>
     <!--EN: and felt an overwhelming sense of delight.-->
-    <li>and felt an overwhelming sense of delight.</li>
+    <li>并感到无比的喜悦。</li>
     <!--EN: and was utterly charmed by {OBSERVED_possessive} presence.-->
-    <li>and was utterly charmed by {OBSERVED_possessive} presence.</li>
+    <li>完全被迷住了{OBSERVED_possessive}在场。</li>
     <!--EN: and found {OBSERVED_objective} to be breathtaking.-->
-    <li>and found {OBSERVED_objective} to be breathtaking.</li>
+    <li>发现{OBSERVED_objective}惊人。</li>
     <!--EN: and felt a blissful contentment.-->
-    <li>and felt a blissful contentment.</li>
+    <li>感到幸福舒适。</li>
   </Observer_reacts_to_see_pawn_Positive.texts>
 </LanguageData>
