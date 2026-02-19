@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Observed_opinion_start-->
+  <Observed_opinion_start.label>Observed_opinion_start</Observed_opinion_start.label>
+  <Observed_opinion_start.texts>
+    <!--EN: I felt a gaze on me from-->
+    <li>I felt a gaze on me from</li>
+    <!--EN: I noticed eyes on me from-->
+    <li>I noticed eyes on me from</li>
+    <!--EN: My attention was drawn to the fact that i was observed by-->
+    <li>My attention was drawn to the fact that i was observed by</li>
+    <!--EN: I became aware that I was being watched by-->
+    <li>I became aware that I was being watched by</li>
+    <!--EN: I felt a pair of eyes on me, and it was-->
+    <li>I felt a pair of eyes on me, and it was</li>
+    <!--EN: It seemed to me that i was observed by-->
+    <li>It seemed to me that i was observed by</li>
+    <!--EN: I caught someone's eye on me, and it was-->
+    <li>I caught someone&apos;s eye on me, and it was</li>
+    <!--EN: I felt a stare settle on me, and it was-->
+    <li>I felt a stare settle on me, and it was</li>
+    <!--EN: I suddenly realized that i was wathed and it was-->
+    <li>I suddenly realized that i was wathed and it was</li>
+    <!--EN: I sensed that I was being observed by-->
+    <li>I sensed that I was being observed by</li>
+    <!--EN: I felt eyes on me, and it was-->
+    <li>I felt eyes on me, and it was</li>
+    <!--EN: I noticed that I was being scrutinized by-->
+    <li>I noticed that I was being scrutinized by</li>
+    <!--EN: My attention was drawn to someone looking at me, and it was-->
+    <li>My attention was drawn to someone looking at me, and it was</li>
+    <!--EN: I became aware of a gaze directed at me, and it was-->
+    <li>I became aware of a gaze directed at me, and it was</li>
+    <!--EN: I felt that I was being watched, and it was-->
+    <li>I felt that I was being watched, and it was</li>
+    <!--EN: It became clear to me that someone was looking at me, and it was-->
+    <li>It became clear to me that someone was looking at me, and it was</li>
+    <!--EN: I caught someone's gaze, and it was-->
+    <li>I caught someone&apos;s gaze, and it was</li>
+    <!--EN: I felt as if I was being examined by-->
+    <li>I felt as if I was being examined by</li>
+    <!--EN: I noticed someone staring at me, and it was-->
+    <li>I noticed someone staring at me, and it was</li>
+    <!--EN: I felt a presence watching me, and it was-->
+    <li>I felt a presence watching me, and it was</li>
+    <!--EN: I realized I was the focus of someone's attention, and it was-->
+    <li>I realized I was the focus of someone&apos;s attention, and it was</li>
+    <!--EN: I felt eyes on me, and it was-->
+    <li>I felt eyes on me, and it was</li>
+    <!--EN: My attention was drawn to someone gazing at me, and it was-->
+    <li>My attention was drawn to someone gazing at me, and it was</li>
+    <!--EN: I became aware that someone was looking at me, and it was-->
+    <li>I became aware that someone was looking at me, and it was</li>
+    <!--EN: I felt a direct stare, and it was-->
+    <li>I felt a direct stare, and it was</li>
+    <!--EN: It seemed as though someone was observing me, and it was-->
+    <li>It seemed as though someone was observing me, and it was</li>
+    <!--EN: I caught someone's eye, and it was-->
+    <li>I caught someone&apos;s eye, and it was</li>
+    <!--EN: I felt that I was being evaluated by-->
+    <li>I felt that I was being evaluated by</li>
+    <!--EN: I noticed someone looking intently at me, and it was-->
+    <li>I noticed someone looking intently at me, and it was</li>
+    <!--EN: I sensed someone's attention on me, and it was-->
+    <li>I sensed someone&apos;s attention on me, and it was</li>
+  </Observed_opinion_start.texts>
+  <!--EN: Observer_opinion_start-->
+  <Observer_opinion_start.label>Observer_opinion_start</Observer_opinion_start.label>
+  <Observer_opinion_start.texts>
+    <!--EN: I noticed how-->
+    <li>I noticed how</li>
+    <!--EN: My gaze fell upon-->
+    <li>My gaze fell upon</li>
+    <!--EN: I caught myself looking at-->
+    <li>I caught myself looking at</li>
+    <!--EN: As I glanced, I saw-->
+    <li>As I glanced, I saw</li>
+    <!--EN: My eyes swept over-->
+    <li>My eyes swept over</li>
+    <!--EN: I couldn't help but notice-->
+    <li>I couldn&apos;t help but notice</li>
+    <!--EN: Into my field of vision came-->
+    <li>Into my field of vision came</li>
+    <!--EN: I accidentally saw-->
+    <li>I accidentally saw</li>
+    <!--EN: My attention was drawn to-->
+    <li>My attention was drawn to</li>
+    <!--EN: I observed how-->
+    <li>I observed how</li>
+    <!--EN: I caught a glimpse of-->
+    <li>I caught a glimpse of</li>
+    <!--EN: I found myself scrutinizing-->
+    <li>I found myself scrutinizing</li>
+    <!--EN: My eyes were drawn to-->
+    <li>My eyes were drawn to</li>
+    <!--EN: When I looked, I noticed-->
+    <li>When I looked, I noticed</li>
+    <!--EN: I involuntarily glanced at-->
+    <li>I involuntarily glanced at</li>
+    <!--EN: I caught sight of-->
+    <li>I caught sight of</li>
+    <!--EN: My vision fixed on-->
+    <li>My vision fixed on</li>
+    <!--EN: I was simply watching-->
+    <li>I was simply watching</li>
+    <!--EN: My eyes rested on-->
+    <li>My eyes rested on</li>
+    <!--EN: I witnessed how-->
+    <li>I witnessed how</li>
+    <!--EN: I caught myself examining-->
+    <li>I caught myself examining</li>
+    <!--EN: I couldn't take my eyes off-->
+    <li>I couldn&apos;t take my eyes off</li>
+    <!--EN: My gaze lingered on-->
+    <li>My gaze lingered on</li>
+    <!--EN: I was simply observing-->
+    <li>I was simply observing</li>
+    <!--EN: I caught myself staring at-->
+    <li>I caught myself staring at</li>
+    <!--EN: I paid attention to-->
+    <li>I paid attention to</li>
+    <!--EN: My eyes followed-->
+    <li>My eyes followed</li>
+    <!--EN: I saw how-->
+    <li>I saw how</li>
+    <!--EN: I caught myself gazing at-->
+    <li>I caught myself gazing at</li>
+    <!--EN: My attention was fixated on-->
+    <li>My attention was fixated on</li>
+    <!--EN: I happened to notice-->
+    <li>I happened to notice</li>
+    <!--EN: I was passing by when-->
+    <li>I was passing by when</li>
+    <!--EN: I stumbled upon-->
+    <li>I stumbled upon</li>
+    <!--EN: My eyes just happened to land on-->
+    <li>My eyes just happened to land on</li>
+    <!--EN: I caught it out of the corner of my eye-->
+    <li>I caught it out of the corner of my eye</li>
+    <!--EN: As I walked past, I saw-->
+    <li>As I walked past, I saw</li>
+    <!--EN: It just so happened that I saw-->
+    <li>It just so happened that I saw</li>
+    <!--EN: My glance fell unintentionally on-->
+    <li>My glance fell unintentionally on</li>
+    <!--EN: I casually observed-->
+    <li>I casually observed</li>
+    <!--EN: I happened to catch sight of-->
+    <li>I happened to catch sight of</li>
+  </Observer_opinion_start.texts>
+</LanguageData>
