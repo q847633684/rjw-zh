@@ -9,8 +9,8 @@
 		<li IfModActive="nugerumon.romancetweaksmoreoptions">16/romance-tweaks-more-options</li>
 		<!-- RJW 精液汇编 完成-->
 		<li IfModActive="vegapnk.cumpilation">16/Cumpilation</li>
-		<li IfModActive="ludeon.rimworld.Biotech">16/Cumpilation/Mods/Biotech</li>
-    	<li IfModActive="ludeon.rimworld.Ideology">16/Cumpilation/Mods/Ideology</li>
+		<li IfModActive="Ludeon.rimworld.Biotech">16/Cumpilation/Mods/Biotech</li>
+    	<li IfModActive="Ludeon.rimworld.Ideology">16/Cumpilation/Mods/Ideology</li>
     	<li IfModNotActive="winderig.processor">16/Cumpilation/Mods/Not-Semen-Processor</li>
 		<!-- RJW 拉伸 完成-->
 		<li IfModActive="eltoro.stretching">16/rjw-elt-stretching</li>
@@ -41,6 +41,9 @@
 		<li IfModActive="rjw.dirtytalk">16/dirty-talk</li>
 		<!-- RJW 隐私 完成-->
 		<li IfModActive="abscon.privacy.please">16/privacy-please</li>
+		<!-- RJW 隐私 - 兼容的特征模组 完成-->
+		<li IfModActive="rjw.quirks">16/privacy-please/1.6/ModCompatibility/Quirks</li>
+		
 		<!-- RJW 妓院殖民地 完成-->
 		<li IfModActive="calamabanana.rjw.brothelcolony">16/rjw-brothelcolony</li>
     	<li IfModActive="Ludeon.RimWorld.Ideology">16/rjw-brothelcolony/Ideology/1.6</li>
@@ -49,10 +52,10 @@
 		<li IfModActive="rimworld.ekss.rjwex">16/rjw-ex</li>
 		<!-- RJW 基因 完成-->
 		<li IfModActive="vegapnk.rjw.genes">16/rjw-genes</li>
-		<li IfModActive="vegapnk.cumpilation">16/rjw-genes/Mods/Cumpilation</li>
-		<li IfModActive="vanillaracesexpanded.genie">16/rjw-genes/Mods/Genie</li>
-		<li IfModActive="vanillaracesexpanded.android">16/rjw-genes/Mods/Android</li>
-		<li IfModActive="ASMR.RJW.RaceSupport">16/rjw-genes/Mods/RaceSupport</li>
+		<li IfModActive="vegapnk.cumpilation">16/rjw-genes/1.6/Mods/Cumpilation</li>
+		<li IfModActive="vanillaracesexpanded.genie">16/rjw-genes/1.6/Mods/Genie</li>
+		<li IfModActive="vanillaracesexpanded.android">16/rjw-genes/1.6/Mods/Android</li>
+		<li IfModActive="ASMR.RJW.RaceSupport">16/rjw-genes/1.6/Mods/RaceSupport</li>
 		<!-- RJW 可挤奶殖民者 废除
 		<li IfModActive="rjw.milk.humanoid">16/rjw-milk-humanoid</li>-->
 		<!-- RJW 性体验 完成-->
@@ -63,6 +66,7 @@
 		<li IfModActive="rjw.sexperience.ideology">16/rjw-sexperience-ideology</li>
 		<!-- RJW 月经系统 完成-->
 		<li IfModActive="rjw.menstruation">16/rjw-menstruation</li>
+		<li IfModActive="rjw.quirks">16/rjw-menstruation/1.6/Quirks</li>
 		<!--无法进行翻译
 		<li IfModActive="eltoro.rjw.menstruation.fluids">16/rjw-menstruation-fluids</li>
 		-->
@@ -74,11 +78,11 @@
 		<li IfModActive="rim.job.world.onahole.ext">16/rimjobworld-onahole-extension</li>
 		<!-- RJWPE儿童	完成-->
 		<li IfModActive="rim.job.world.pe">16/RJWPE</li>
-		<li IfModActive="Ludeon.RimWorld.Ideology">16/RJWPE/Ideology</li>
-		<li IfModActive="Ludeon.RimWorld.Biotech">16/RJWPE/Biotech</li>
-		<li IfModActive="Vegapnk.rjw.genes">16/RJWPE/Genes</li>
-		<li IfModActive="calamabanana.rjw.brothelcolony">16/RJWPE/BrothelColony</li>
-		<li IfModActive="c0ffee.rimworld.animations">16/RJWPE/Voice Patch</li>
+		<li IfModActive="Ludeon.RimWorld.Ideology">16/RJWPE/1.6/Ideology</li>
+		<li IfModActive="Ludeon.RimWorld.Biotech">16/RJWPE/1.6/Biotech</li>
+		<li IfModActive="Vegapnk.rjw.genes">16/RJWPE/1.6/Genes</li>
+		<li IfModActive="calamabanana.rjw.brothelcolony">16/RJWPE/1.6/BrothelColony</li>
+		<li IfModActive="c0ffee.rimworld.animations">16/RJWPE/1.6/Voice Patch</li>
 		<!-- RJW 风味文字 完成-->
 		<li IfModActive="moth.rjw.flavor">16/rjw-flavor-text</li>
 		<!-- RJW 特征 完成-->
@@ -91,13 +95,14 @@
 		<li IfModActive="Ludeon.RimWorld.Biotech">16/rimvore-2/MajorModIntegrations/Biotech</li>
 		<li IfModActive="rim.job.world">16/rimvore-2/MajorModIntegrations/RimJobWorld/Common</li>
 		<li IfModActive="Dubwise.DubsBadHygiene">16/rimvore-2/MajorModIntegrations/Dubs_Bad_Hygiene/Common</li>
+
 		<!-- RimVore - 2 : Interactions-->
 		<li IfModActive="rutrix.rimvore2interactions">16/rimvore-2-interactions/Common</li><!--机器翻译，需要校验-->
 		<!-- RimVore - 2 : Overstuffed -->
 		<li IfModActive="mamahorseteeth.rimvore2extravores">16/rimvore-2-overstuffed/Common</li><!--机器翻译，需要校验-->
     	<li IfModActive="Ludeon.RimWorld.Biotech">16/rimvore-2-overstuffed/BiotechFiles</li>
 		<!--为各种添加种族和动物的模组提供 RJW 兼容性 完成-->
-		<li IfModActive="asmr.rjw.racesupport">16/rjw-race-support</li><!--机器翻译，需要校验-->
+		<li IfModActive="asmr.rjw.racesupport">16/rjw-race-support/1.6 Content</li><!--机器翻译，需要校验-->
 		<li IfModActive="FS.ReviaRace">16/rjw-race-support/Mods/Revia</li>
 		<li IfModActive="jackaufenhand.sergals">16/rjw-race-support/Mods/Sergal_bits</li>
 		<!--adk.sar.alien未找到任何可翻译内容-->

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: (Debug) Provide tick support for triggering onahole bed auto capture.-->
+  <AutoCapture.description>（调试）为触发onahole bed自动捕获提供tick支持。</AutoCapture.description>
+  <!--EN: Auto Capture-->
+  <AutoCapture.label>自动捕捉</AutoCapture.label>
+  <!--EN: A electrically powered piston inserted into the anus.-->
+  <OnaholeAnalSexMachine.description>在肛门抽插的炮机</OnaholeAnalSexMachine.description>
+  <!--EN: anal sex machine-->
+  <OnaholeAnalSexMachine.label>肛门炮机</OnaholeAnalSexMachine.label>
+  <!--EN: Under the influence of a powerful aphrodisiac, sexual desire is greatly heightened.-->
+  <OnaholeAphrodisiac.description>受到强效催情剂的影响，性欲大大增强。</OnaholeAphrodisiac.description>
+  <!--EN: aphrodisiac-->
+  <OnaholeAphrodisiac.label>催情剂</OnaholeAphrodisiac.label>
+  <!--EN: fading-->
+  <OnaholeAphrodisiac.stages.0.label>消退中</OnaholeAphrodisiac.stages.0.label>
+  <!--EN: minor-->
+  <OnaholeAphrodisiac.stages.1.label>轻微</OnaholeAphrodisiac.stages.1.label>
+  <!--EN: moderate-->
+  <OnaholeAphrodisiac.stages.2.label>中度</OnaholeAphrodisiac.stages.2.label>
+  <!--EN: intense-->
+  <OnaholeAphrodisiac.stages.3.label>强烈</OnaholeAphrodisiac.stages.3.label>
+  <!--EN: Automatically feeds the pawn-->
+  <OnaholeAutoFeeder.description>自动将收集的体液喂给肉便器的机器</OnaholeAutoFeeder.description>
+  <!--EN: auto feeder-->
+  <OnaholeAutoFeeder.label>喂食器</OnaholeAutoFeeder.label>
+  <!--EN: bondage-->
+  <OnaholeBond.description>全身被束缚，无法行动</OnaholeBond.description>
+  <!--EN: bondage-->
+  <OnaholeBond.label>束缚</OnaholeBond.label>
+  <!--EN: Electrodes to stimulate the breasts-->
+  <OnaholeBreastElectrodes.description>刺激乳房的电极</OnaholeBreastElectrodes.description>
+  <!--EN: breast electrodes-->
+  <OnaholeBreastElectrodes.label>乳房电极</OnaholeBreastElectrodes.label>
+  <!--EN: Defeated.-->
+  <OnaholeDefeated.description>被击败</OnaholeDefeated.description>
+  <!--EN: Defeated-->
+  <OnaholeDefeated.label>被击败</OnaholeDefeated.label>
+  <!--EN: Electrodes to stimulate genital area-->
+  <OnaholeGenitalElectrodes.description>刺激阴部的电极</OnaholeGenitalElectrodes.description>
+  <!--EN: genital electrodes-->
+  <OnaholeGenitalElectrodes.label>阴部电极</OnaholeGenitalElectrodes.label>
+  <!--EN: Automatically milks the pawn-->
+  <OnaholeMilkingMachine.description>自动榨乳的机器</OnaholeMilkingMachine.description>
+  <!--EN: milking machine-->
+  <OnaholeMilkingMachine.label>榨乳器</OnaholeMilkingMachine.label>
+  <!--EN: A electrically powered sex machine.-->
+  <OnaholeSexMachine.description>在阴茎上安装电动飞机杯，刺激射精</OnaholeSexMachine.description>
+  <!--EN: sex machine-->
+  <OnaholeSexMachine.label>榨精器</OnaholeSexMachine.label>
+  <!--EN: A electrically powered piston inserted into the vagina.-->
+  <OnaholeVaginalSexMachine.description>在阴道抽插的炮机</OnaholeVaginalSexMachine.description>
+  <!--EN: vaginal sex machine-->
+  <OnaholeVaginalSexMachine.label>炮机</OnaholeVaginalSexMachine.label>
+</LanguageData>

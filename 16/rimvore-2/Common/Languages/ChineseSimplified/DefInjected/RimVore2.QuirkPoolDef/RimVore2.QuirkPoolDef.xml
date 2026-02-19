@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks determine how frequently a pawn will autonomously try to to make a vore attempt. Pawns may do so as pred or as prey, but, at the time of writing, they will only make vore attempts when they are idle.-->
+  <AutoProposalFrequency.description>这些怪癖决定了pawn意志自主尝试制作一个吃人尝试中。Pawns 可以作为 pred 或猎物来做这件事，但是在撰写本文时，他们只会制作吃人在空闲时尝试。</AutoProposalFrequency.description>
+  <!--EN: Proposal frequency-->
+  <AutoProposalFrequency.label>求婚频率</AutoProposalFrequency.label>
+  <!--EN: If a proposal initiated by this pawn fails, these quirks control the chance of this pawn beating up and forcing the vore on their target.-->
+  <Brutality.description>若提案由此发起pawn失败，这些怪癖控制着几率pawn殴打和强迫吃人目标。</Brutality.description>
+  <!--EN: Brutality-->
+  <Brutality.label>暴行</Brutality.label>
+  <!--EN: These quirks severely disrupt game balance and are disabled by default, but they're presented here in case you want to play with them. If you only want to enable them for specific pawns and do not want them spawning naturally, you do not need to enable them here; just enable dev mode and enter the quirks menu(s) of the desired pawn(s).-->
+  <Cheats.description>这些怪癖会严重破坏游戏平衡，默认情况下会被禁用，但它们会出现在这里，以防你想与它们一起玩。如果你只想为特定的 pawns 启用它们，而不希望它们自然生成，你不需要在这里启用它们; 只需启用开发模式并进入怪癖menu(s)产生渴望的pawn(s)</Cheats.description>
+  <!--EN: Cheat quirks-->
+  <Cheats.label>欺骗怪癖</Cheats.label>
+  <!--EN: These quirks determine how much a pawn likes having animals as prey. At the extremes, a pawn will either reject all autonomous proposals to be fed an animal, or seek out animal prey to the exclusion of other kinds of prey. While insectoids normally count as animals, these quirks are written to exclude insectoids from the type preferences.-->
+  <DietaryPreference_Predator_Animals.description>这些怪癖决定了多少钱一个pawn喜欢捕食动物。在极端情况下，一个pawn会拒绝所有自律的方案来喂养动物，或者寻找动物猎物而放弃其他种类的猎物。虽然虫族通常被算作动物，但写这些怪癖是为了将虫族排除在类型偏好之外。</DietaryPreference_Predator_Animals.description>
+  <!--EN: Dietary preference (animals)-->
+  <DietaryPreference_Predator_Animals.label>饮食偏好 (动物)</DietaryPreference_Predator_Animals.label>
+  <!--EN: These quirks determine how much a pawn likes having humanoids as prey. At the extremes, a pawn will either reject all autonomous proposals by humanoid prey, or seek out humanoid prey to the exclusion of other kinds of prey. Non-cannibals with a preference for humanoid prey will only prefer endo humanoid prey; only cannibals can spawn with a fatal preference for humanoid prey. If you want everybody to be able to have total preference for humanoid prey, and don't want to remove the cannibal requirement for those traits in the XMLs, you can instead make the cannibal trait universal using the scenario editor.-->
+  <DietaryPreference_Predator_Humanoids.description>这些怪癖决定了多少钱一个pawn喜欢捕食人形。在极端情况下，一个pawn会拒绝所有由人形猎物发起的自治请求，或者寻找除其他类型的猎物之外的人形猎物。对人形猎物有偏好的非食人族只会更喜欢内的人形猎物; 只有食人族才能产生对人形猎物有致命偏好的猎物。如果你想让每个人都对人形猎物有完全的偏好，并且不想取消食人对 xml 中这些特性的需求, 你可以使用场景编辑器改为通用食人特性。</DietaryPreference_Predator_Humanoids.description>
+  <!--EN: Dietary preference (humanoids)-->
+  <DietaryPreference_Predator_Humanoids.label>饮食偏好 (人形)</DietaryPreference_Predator_Humanoids.label>
+  <!--EN: These quirks determine how much a pawn likes having insectoids as prey. At the extremes, a pawn will either reject all autonomous proposals to be fed an insectoid, or seek out insectoid prey to the exclusion of other kinds of prey.-->
+  <DietaryPreference_Predator_Insectoids.description>这些怪癖决定了多少钱一个pawn喜欢捕食虫族。在极端情况下，一个pawn会拒绝所有自律的给虫族喂食的提议，或者寻找虫族猎物而放弃其他种类的猎物。</DietaryPreference_Predator_Insectoids.description>
+  <!--EN: Dietary preference (insectoids)-->
+  <DietaryPreference_Predator_Insectoids.label>饮食偏好 (虫族)</DietaryPreference_Predator_Insectoids.label>
+  <!--EN: These quirks determine how much a pawn likes having mechanoids as prey. At the extremes, a pawn will either reject all autonomous proposals to be fed a mechanoid, or seek out mechanoid prey to the exclusion of other kinds of prey. Note that the consumption and digestion of mechanoids is restricted. For now, those with a preference for mechanoid prey are able to digest mechanoids, while those with any of these quirks, even the normal quirk, can store or pleasure themselves with a mechanoid. This is temporary.-->
+  <DietaryPreference_Predator_Mechanoids.description>这些怪癖决定了多少钱一个pawn喜欢捕食机械体。在极端情况下，一个pawn将拒绝所有自律的方案以喂养机械体，或者寻找机械体猎物以排斥其他类型的猎物。请注意，机械体的消耗和消化受到限制。目前，那些偏好机械体猎物的人能够消化机械体，而那些有这些怪癖的人，即使是普通的怪癖，也可以用机械体来储存或使自己快乐。这是暂时的。</DietaryPreference_Predator_Mechanoids.description>
+  <!--EN: Dietary preference (mechanoids)-->
+  <DietaryPreference_Predator_Mechanoids.label>饮食偏好 (机械体)</DietaryPreference_Predator_Mechanoids.label>
+  <!--EN: These quirks determine how much a pawn likes having animals as predators. At the extremes, a pawn will either reject all autonomous proposals to be fed to an animal, or seek out animal predators to the exclusion of other kinds of predator. While insectoids normally count as animals, these quirks are written to exclude insectoids from the type preferences.-->
+  <DietaryPreference_Prey_Animals.description>这些怪癖决定了多少钱一个pawn喜欢将动物作为肉食动物。在极端情况下，一个pawn将拒绝所有自律喂养动物的提议，或者寻找除其他类型的捕食者之外的动物捕食者。虽然虫族通常被算作动物，但写这些怪癖是为了将虫族排除在类型偏好之外。</DietaryPreference_Prey_Animals.description>
+  <!--EN: Foddering preference (animals)-->
+  <DietaryPreference_Prey_Animals.label>喂养偏好 (动物)</DietaryPreference_Prey_Animals.label>
+  <!--EN: These quirks determine how much a pawn likes having humanoids as predators. At the extremes, a pawn will either reject all autonomous proposals to be a humanoid's prey, or seek out humanoid predators to the exclusion of other kinds of predator. Because vanilla Rimworld does not indicate anything about how pawns feel about being cannibalized, these quirks are simpler than their predatory counterparts.-->
+  <DietaryPreference_Prey_Humanoids.description>这些怪癖决定了多少钱一个pawn喜欢将人形作为肉食动物。在极端情况下，一个pawn将拒绝所有自主提出的成为人形捕食者的提议，或者寻找除其他类型的捕食者之外的人形捕食者。因为香草边缘世界并没有表明任何关于 pawns 被食人的感受，所以这些怪癖比它们的掠夺性对手要简单。</DietaryPreference_Prey_Humanoids.description>
+  <!--EN: Foddering preference (humanoids)-->
+  <DietaryPreference_Prey_Humanoids.label>喂养偏好 (人形)</DietaryPreference_Prey_Humanoids.label>
+  <!--EN: These quirks determine how much a pawn likes having insectoids as predators. At the extremes, a pawn will either reject all autonomous proposals to be fed to an insectoid, or seek out insectoid predators to the exclusion of other kinds of predator.-->
+  <DietaryPreference_Prey_Insectoids.description>这些怪癖决定了多少钱一个pawn喜欢将虫族当作捕食者。在极端情况下，一个pawn将会拒绝所有自律的方案来喂养一个虫族，或者寻找一个虫族或者放弃其他类型的捕食者。</DietaryPreference_Prey_Insectoids.description>
+  <!--EN: Foddering preference (insectoids)-->
+  <DietaryPreference_Prey_Insectoids.label>喂养偏好 (虫族)</DietaryPreference_Prey_Insectoids.label>
+  <!--EN: These quirks determine how much a pawn likes having mechanoids as predators. At the extremes, a pawn will either reject all autonomous proposals to be fed to a mechanoid, or seek out mechanoid predators to the exclusion of other kinds of predator.-->
+  <DietaryPreference_Prey_Mechanoids.description>这些怪癖决定了多少钱一个pawn喜欢将机械体作为捕食者。在极端情况下，一个pawn将会拒绝所有用于喂养机械体的自治提议，或者寻找除其他类型的捕食者之外的机械体捕食者。</DietaryPreference_Prey_Mechanoids.description>
+  <!--EN: Foddering preference (mechanoids)-->
+  <DietaryPreference_Prey_Mechanoids.label>喂养偏好 (机械体)</DietaryPreference_Prey_Mechanoids.label>
+  <!--EN: These quirks determine how resistant pawns are to all forms of chemical digestion: nourishing digestion, conversion into another material, assimilation, and any others.-->
+  <DigestionResistance.description>这些怪癖决定了 pawns 对所有形式的化学消化的抗性: 营养消化，转化为另一种材料，同化，和任何其他。</DigestionResistance.description>
+  <!--EN: Digestion resistance-->
+  <DigestionResistance.label>消化抗性</DigestionResistance.label>
+  <!--EN: These quirks determine how powerful a pawn's various organs are for all forms of chemical digestion: true nourishing digestion, conversion into another material, assimilation, and any others.-->
+  <DigestionStrength.description>这些怪癖决定了pawn的各个器官都有各种形式的化学消化: 真正的营养消化，转化为另一种材料，同化，和任何其他。</DigestionStrength.description>
+  <!--EN: Digestion strength-->
+  <DigestionStrength.label>消化能力</DigestionStrength.label>
+  <!--EN: These quirks are required for a pawn to be able to use vore, each representing one goal. Modifying their commonality sets the global chances that any pawn will be capable of using any given vore path. Vore enablers can be aquired to add the quirk to an existing pawn, even if the quirk itself is set to ForcedOnly; do this if you want vore to be a power unlocked solely through acquisition of the required enabler surgeries.-->
+  <Enablers_Goals_Core.description>这些怪癖是必须的pawn能够使用吃人,每个代表一个目标。修改它们的共性可以设置任何pawn将能够使用任何给定吃人路径。吃人支持者可以被获得，以增加一个现有的怪癖pawn,即使 quirk 本身已设置为 ForcedOnly; 如果你想这样做吃人仅通过获取所需的赋能手术即可解锁。</Enablers_Goals_Core.description>
+  <!--EN: Goal enablers-->
+  <Enablers_Goals_Core.label>赋能者</Enablers_Goals_Core.label>
+  <!--EN: These quirks are required for a pawn to be able to use vore, each representing one type. Modifying their commonality sets the global chances that any pawn will be capable of using any given vore path. Vore enablers can be aquired to add the quirk to an existing pawn, even if the quirk itself is set to Invalid; do this if you want vore to be a power unlocked solely through acquisition of the required enabler surgeries.-->
+  <Enablers_Types_Core.description>这些怪癖是必须的pawn能够使用吃人,每种类型代表一种类型。修改它们的共性可以设置任何pawn将能够使用任何给定吃人路径。吃人支持者可以被获得，以增加一个现有的怪癖pawn,即使怪癖本身设置为无效; 如果你想这样做吃人仅通过获取所需的赋能手术即可解锁。</Enablers_Types_Core.description>
+  <!--EN: Type enablers-->
+  <Enablers_Types_Core.label>打字能力</Enablers_Types_Core.label>
+  <!--EN: These quirks determine the degree to which the pawn prefers to be a feeder for another pred. At the extremes, the pawn will always either refuse to or always be a feeder.-->
+  <FeederDisposition.description>这些怪癖决定了pawn更喜欢成为另一只 pred 的汲血者。在极端情况下,pawn将永远拒绝或永远是一个饲养员。</FeederDisposition.description>
+  <!--EN: Feeder disposition-->
+  <FeederDisposition.label>饲养员性情</FeederDisposition.label>
+  <!--EN: These quirks determine the receptiveness of a pawn to be the predator in proposed feeding vore.-->
+  <FeederDisposition_Predator.description>这些怪癖决定了pawn成为汲血的捕食者吃人</FeederDisposition_Predator.description>
+  <!--EN: Feeder disposition (Receiver)-->
+  <FeederDisposition_Predator.label>饲养员处置 (接收者)</FeederDisposition_Predator.label>
+  <!--EN: These quirks determine the receptiveness of a pawn to be the prey in proposed feeding vore.-->
+  <FeederDisposition_Prey.description>这些怪癖决定了pawn成为哺育动物的猎物吃人</FeederDisposition_Prey.description>
+  <!--EN: Feeder disposition (Fodder)-->
+  <FeederDisposition_Prey.label>饲养员处置 (饲料)</FeederDisposition_Prey.label>
+  <!--EN: Quirks that dictate what gender preferences a predator might have when choosing prey. Please note that these preferences are not influenced by a pawn's sexuality.-->
+  <GenderPreference_Predator.description>决定捕食者在选择猎物时可能有什么性别偏好的怪癖。请注意，这些偏好不会受到pawn其性别。</GenderPreference_Predator.description>
+  <!--EN: Predator gender preference-->
+  <GenderPreference_Predator.label>捕食者性别偏好</GenderPreference_Predator.label>
+  <!--EN: Quirks that dictate what gender preferences a prey might have when choosing a predator. Please note that these preferences are not influenced by a pawn's sexuality.-->
+  <GenderPreference_Prey.description>决定猎物在选择捕食者时可能有什么样的性别偏好的怪癖。请注意，这些偏好不会受到pawn其性别。</GenderPreference_Prey.description>
+  <!--EN: Prey gender preference-->
+  <GenderPreference_Prey.label>猎物的性别偏好</GenderPreference_Prey.label>
+  <!--EN: These quirks determine how much a pawn likes to stuff prey up their butt. At the extremes, the pawn will either never or always try to posternate prey.-->
+  <GoalPreference_Predator_Anal.description>这些怪癖决定了多少钱一个pawn喜欢往猎物屁股里塞东西。在极端情况下,pawn将永远不会或总是尝试公布猎物。</GoalPreference_Predator_Anal.description>
+  <!--EN: Predatory type preference (anal)-->
+  <GoalPreference_Predator_Anal.label>捕食动物的类型偏好 (肛门)</GoalPreference_Predator_Anal.label>
+  <!--EN: These quirks determine how much a pawn likes to sound prey down their cock. At the extremes, the pawn will either never or always try to unsow prey.-->
+  <GoalPreference_Predator_Cock.description>这些怪癖决定了多少钱一个pawn喜欢试探猎物的公鸡。在极端情况下,pawn将永远不会或总是试图解散猎物。</GoalPreference_Predator_Cock.description>
+  <!--EN: Predatory type preference (cock)-->
+  <GoalPreference_Predator_Cock.label>捕食动物类型偏好 (公鸡)</GoalPreference_Predator_Cock.label>
+  <!--EN: These quirks determine how much a pawn likes digesting prey or converting them into other materials. At the extremes, the pawn will either never or always try to digest prey.-->
+  <GoalPreference_Predator_Digest.description>这些怪癖决定了多少钱一个pawn喜欢消化猎物或将其转化为其他材料。在极端情况下,pawn将永远不会或总是尝试消化猎物。</GoalPreference_Predator_Digest.description>
+  <!--EN: Predatory goal preference (digestion)-->
+  <GoalPreference_Predator_Digest.label>掠夺性目标偏好 (消化)</GoalPreference_Predator_Digest.label>
+  <!--EN: These quirks determine how much a pawn likes healing prey.-->
+  <GoalPreference_Predator_Heal.description>这些怪癖决定了多少钱一个pawn喜欢治愈猎物。</GoalPreference_Predator_Heal.description>
+  <!--EN: Predatory goal preference (heal)-->
+  <GoalPreference_Predator_Heal.label>掠夺性目标偏好 (愈合)</GoalPreference_Predator_Heal.label>
+  <!--EN: These quirks determine how much a pawn likes temporarily storing live prey.-->
+  <GoalPreference_Predator_Hold.description>这些怪癖决定了多少钱一个pawn喜欢临时储存活着的猎物。</GoalPreference_Predator_Hold.description>
+  <!--EN: Predatory goal preference (Hold)-->
+  <GoalPreference_Predator_Hold.label>掠夺性目标偏好 (持有)</GoalPreference_Predator_Hold.label>
+  <!--EN: These quirks determine how much a pawn likes to stuff prey into their nipples. At the extremes, the pawn will either never or always try to unnurse prey.-->
+  <GoalPreference_Predator_Nipple.description>这些怪癖决定了多少钱一个pawn喜欢将猎物塞进乳头在极端情况下,pawn将永远不会或总是试图解散猎物。</GoalPreference_Predator_Nipple.description>
+  <!--EN: Predatory type preference (nipple)-->
+  <GoalPreference_Predator_Nipple.label>捕食动物的类型偏好 (乳头)</GoalPreference_Predator_Nipple.label>
+  <!--EN: These quirks determine how much a pawn likes to gulp prey down their throat. At the extremes, the pawn will either never or always try to swallow prey.-->
+  <GoalPreference_Predator_Oral.description>这些怪癖决定了多少钱一个pawn喜欢吞下猎物的喉咙。在极端情况下,pawn将永远不会尝试吞下猎物。</GoalPreference_Predator_Oral.description>
+  <!--EN: Predatory type preference (oral)-->
+  <GoalPreference_Predator_Oral.label>捕食动物的类型偏好 (用嘴)</GoalPreference_Predator_Oral.label>
+  <!--EN: These quirks determine how much a pawn likes consuming prey for mutual pleasure. At the extremes, the pawn will either never or always try to pleasure prey.-->
+  <GoalPreference_Predator_Pleasure.description>这些怪癖决定了多少钱一个pawn喜欢吸食对方的猎物。在极端情况下,pawn将永远不会或总是尝试捕食。</GoalPreference_Predator_Pleasure.description>
+  <!--EN: Predatory goal preference (pleasure)-->
+  <GoalPreference_Predator_Pleasure.label>掠夺性目标偏好 (快感)</GoalPreference_Predator_Pleasure.label>
+  <!--EN: These quirks determine how much a pawn likes indefinitely storing live prey. At the extremes, the pawn will either never or always try to store prey.-->
+  <GoalPreference_Predator_Store.description>这些怪癖决定了多少钱一个pawn喜欢无限期储存活猎物。在极端情况下,pawn将永远不会或总是尝试储存猎物。</GoalPreference_Predator_Store.description>
+  <!--EN: Predatory goal preference (storage)-->
+  <GoalPreference_Predator_Store.label>掠夺性目标偏好 (存储)</GoalPreference_Predator_Store.label>
+  <!--EN: These quirks determine how much a pawn likes to stuff prey up their muff. At the extremes, the pawn will either never or always try to unbirth prey.-->
+  <GoalPreference_Predator_Vaginal.description>这些怪癖决定了多少钱一个pawn喜欢往它们的口袋里塞东西。在极端情况下,pawn将永远不会或总是试图解除猎物。</GoalPreference_Predator_Vaginal.description>
+  <!--EN: Predatory type preference (vaginal)-->
+  <GoalPreference_Predator_Vaginal.label>捕食动物的类型偏好 (阴道)</GoalPreference_Predator_Vaginal.label>
+  <!--EN: These quirks determine how much a pawn likes to be stuffed up predators' butts. At the extremes, the pawn will either never or always try to get posternated.-->
+  <GoalPreference_Prey_Anal.description>这些怪癖决定了多少钱一个pawn喜欢被捕食者的屁股塞住。在极端情况下,pawn将永远不尝试或总是尝试装填。</GoalPreference_Prey_Anal.description>
+  <!--EN: Preyish type preference (anal)-->
+  <GoalPreference_Prey_Anal.label>猎物类型偏好 (肛门)</GoalPreference_Prey_Anal.label>
+  <!--EN: These quirks determine how much a pawn likes to be sounded down a predator's cock. At the extremes, the pawn will either never or always try to get unsown.-->
+  <GoalPreference_Prey_Cock.description>这些怪癖决定了多少钱一个pawn喜欢通过捕食者的鸡巴听起来。在极端情况下,pawn将永远不播种，或者总是试图不播种。</GoalPreference_Prey_Cock.description>
+  <!--EN: Preyish type preference (cock)-->
+  <GoalPreference_Prey_Cock.label>猎物类型偏好 (公鸡)</GoalPreference_Prey_Cock.label>
+  <!--EN: These quirks determine how much a pawn wants to be digested (or converted into some other material). At the extremes, the pawn will either never or always try to be digested. Be careful increasing the commonality of a digestion preference: willing pawns can easily be killed by predators with little notice.-->
+  <GoalPreference_Prey_Digest.description>这些怪癖决定了多少钱一个pawn希望被消化 (或转化为其他材料)。在极端情况下,pawn将永远不会或总是尝试被消化。提高消化偏好的共性要小心: 意志坚定的殖民者很容易被捕食者杀死，而很少有人注意到。</GoalPreference_Prey_Digest.description>
+  <!--EN: Preyish goal preference (digestion)-->
+  <GoalPreference_Prey_Digest.label>猎物目标偏好 (消化)</GoalPreference_Prey_Digest.label>
+  <!--EN: These quirks determine how much a pawn wants to be healed inside a predator. At the extremes, the pawn will either never or always try to be heal-vored.-->
+  <GoalPreference_Prey_Heal.description>这些怪癖决定了多少钱一个pawn想要在捕食者体内治愈。在极端情况下,pawn将永远不会或总是尝试被治愈。</GoalPreference_Prey_Heal.description>
+  <!--EN: Preyish goal preference (heal)-->
+  <GoalPreference_Prey_Heal.label>猎物目标偏好 (愈合)</GoalPreference_Prey_Heal.label>
+  <!--EN: These quirks determine how much a pawn wants to be temporarily stored inside a predator. At the extremes, the pawn will either never or always try to be temp-stored.-->
+  <GoalPreference_Prey_Hold.description>这些怪癖决定了多少钱一个pawn希望被暂时储存在一个捕食者体内。在极端情况下,pawn将永远不会或总是尝试温度存储。</GoalPreference_Prey_Hold.description>
+  <!--EN: Preyish goal preference (Hold)-->
+  <GoalPreference_Prey_Hold.label>猎物目标偏好 (保持)</GoalPreference_Prey_Hold.label>
+  <!--EN: These quirks determine how much a pawn likes to be stuffed into a predator's nipples. At the extremes, the pawn will either never or always try to get unnursed.-->
+  <GoalPreference_Prey_Nipple.description>这些怪癖决定了多少钱一个pawn喜欢被塞进捕食者的乳头在极端情况下,pawn不会忘记或总是试图忘记。</GoalPreference_Prey_Nipple.description>
+  <!--EN: Preyish type preference (nipple)-->
+  <GoalPreference_Prey_Nipple.label>猎物类型偏好 (乳头)</GoalPreference_Prey_Nipple.label>
+  <!--EN: These quirks determine how much a pawn likes to be gulped down a predator's mouth. At the extremes, the pawn will either never or always try to get swallowed.-->
+  <GoalPreference_Prey_Oral.description>这些怪癖决定了多少钱一个pawn喜欢被捕食者吞下。在极端情况下,pawn将永远不会被吞食。</GoalPreference_Prey_Oral.description>
+  <!--EN: Preyish type preference (oral)-->
+  <GoalPreference_Prey_Oral.label>猎物类型偏好 (用嘴)</GoalPreference_Prey_Oral.label>
+  <!--EN: These quirks determine how much a pawn wants to be used by a predator for pleasure. At the extremes, the pawn will either never or always try to be pleasured.-->
+  <GoalPreference_Prey_Pleasure.description>这些怪癖决定了多少钱一个pawn想被捕食者当作娱乐。在极端情况下,pawn永远不会或总是会试图变得快乐。</GoalPreference_Prey_Pleasure.description>
+  <!--EN: Preyish goal preference (pleasure)-->
+  <GoalPreference_Prey_Pleasure.label>猎物目标偏好 (愉悦感)</GoalPreference_Prey_Pleasure.label>
+  <!--EN: These quirks determine how much a pawn wants to be stored indefinitely inside a predator. At the extremes, the pawn will either never or always try to be stored. Be careful increasing the commonality of a storage preference: willing pawns can easily be lost indefinitely among however many predators you have who are capable of storage.-->
+  <GoalPreference_Prey_Store.description>这些怪癖决定了多少钱一个pawn希望被无限期储存在捕食者体内。在极端情况下,pawn将永远不会或总是尝试被存储。提高储存偏好的共同性要小心: 无论你有多少有能力储存的捕食者，意志坚定的小卒很容易无限期地消失。</GoalPreference_Prey_Store.description>
+  <!--EN: Preyish goal preference (storage)-->
+  <GoalPreference_Prey_Store.label>猎物目标偏好 (存储)</GoalPreference_Prey_Store.label>
+  <!--EN: These quirks determine how much a pawn likes to be stuffed up a predator's muff. At the extremes, the pawn will either never or always try to get unbirthed.-->
+  <GoalPreference_Prey_Vaginal.description>这些怪癖决定了多少钱一个pawn喜欢被捕食者塞住。在极端情况下,pawn将永远不会或总是尝试不出生。</GoalPreference_Prey_Vaginal.description>
+  <!--EN: Preyish type preference (vaginal)-->
+  <GoalPreference_Prey_Vaginal.label>猎物类型偏好 (阴道)</GoalPreference_Prey_Vaginal.label>
+  <!--EN: Pawns with this quirk can trick prey to accept a different goal for proposals and then switch the goal against the preys preference.-->
+  <GoalSwitching.description>有这种怪癖的 Pawns 可以诱使猎物接受不同的目标提议，然后转变违背猎物偏好的射门次数。</GoalSwitching.description>
+  <!--EN: Goal switching-->
+  <GoalSwitching.label>目标切换</GoalSwitching.label>
+  <!--EN: These quirks influence the pawns capability of moving the bar in their favor during a vore grapple. These apply to both attacking and defending.-->
+  <GrappleStrength.description>这些怪癖会影响 pawns 在以下环境中移动杆的能力:吃人格斗。这些适用于进攻和防守。</GrappleStrength.description>
+  <!--EN: Grapple strength-->
+  <GrappleStrength.label>格斗强度</GrappleStrength.label>
+  <!--EN: These quirks block any goals of vore that are either fatal or non-fatal. They require one of the normal extremes of digestion strength each. They may be replaced at a later date with more goal-specific blockers.-->
+  <Inabilities.description>这些怪癖阻碍了以下所有目标吃人致命的或者非致命的。它们各自需要正常的消化强度中的一个。他们可能会在以后被更多的目标特异性阻滞器取代。</Inabilities.description>
+  <!--EN: Inabilities-->
+  <Inabilities.label>能力不足</Inabilities.label>
+  <!--EN: These quirks determine how hot or cold their insides are for the prey.-->
+  <InternalTemperature.description>这些怪癖决定了如何性感的或者冷却它们的内部是给猎物的。</InternalTemperature.description>
+  <!--EN: Internal temperature-->
+  <InternalTemperature.label>内部温度</InternalTemperature.label>
+  <!--EN: These quirks determine how much damage implants and clothing worn by the prey receives when the prey who came with them is digested, converted into some other material, assimilated, or otherwise killed by an act of vore.-->
+  <ItemDamage.description>这些怪癖决定了当植入者被消化、转换成其他材料、被吸收或以其他方式杀死时，植入者和衣物会受到多大的伤害吃人</ItemDamage.description>
+  <!--EN: Item damage-->
+  <ItemDamage.label>物品伤害</ItemDamage.label>
+  <!--EN: These quirks determine the impact on a pawn's mobility when said pawn is full of prey. It serves as a soft limit on capacity, as an immobile pawn can still be hand-fed.-->
+  <Mobility.description>这些怪癖决定了对pawn时的机动性pawn到处都是猎物。它作为容量的软限制，作为一个不移动pawn仍然可以用手喂养。</Mobility.description>
+  <!--EN: Mobility-->
+  <Mobility.label>机动性</Mobility.label>
+  <!--EN: These quirks determine how efficient a predator's digestion and conversion are with prey, unconnected to any metabolism modifiers. The better the efficiency, the more vore product a predator produces.-->
+  <NutritionEfficiency.description>这些怪癖决定了捕食者对猎物的消化和转化有多有效，与任何代谢修改器无关。效率越高吃人捕食者产出的产物。</NutritionEfficiency.description>
+  <!--EN: Nutrition efficiency-->
+  <NutritionEfficiency.label>营养效率</NutritionEfficiency.label>
+  <!--EN: These quirks determine how convincing a pawn is at proposing a vore attempt.-->
+  <Persuasiveness.description>这些怪癖决定了说服pawn正在提议一个吃人尝试中。</Persuasiveness.description>
+  <!--EN: Persuasiveness-->
+  <Persuasiveness.label>信仰</Persuasiveness.label>
+  <!--EN: These quirks give pawns custom abilities that are triggered after vore.-->
+  <PostVoreAbilities.description>这些怪癖给予殖民者自定义的能力，这些能力是在吃人</PostVoreAbilities.description>
+  <!--EN: Post vore abilities-->
+  <PostVoreAbilities.label>后期吃人能力</PostVoreAbilities.label>
+  <!--EN: These quirks determine the degreee to which the pawn prefers to be a predator. At the extremes, the pawn will always either refuse to or always be a predator.-->
+  <PredatorDisposition.description>这些怪癖决定了pawn宁愿成为捕食者。在极端情况下,pawn将永远拒绝或成为捕食者。</PredatorDisposition.description>
+  <!--EN: Predator disposition-->
+  <PredatorDisposition.label>捕食者部署</PredatorDisposition.label>
+  <!--EN: These quirks determine the degreee to which the pawn prefers to be a prey. At the extremes, the pawn will always either refuse to or always be prey.-->
+  <PreyDisposition.description>这些怪癖决定了pawn宁愿成为猎物。在极端情况下,pawn将永远拒绝或成为猎物。</PreyDisposition.description>
+  <!--EN: Prey disposition-->
+  <PreyDisposition.label>猎物的性情</PreyDisposition.label>
+  <!--EN: These quirks determine how nutritious the pawn is to predators. The more nutritious, the more vore products will be produced.-->
+  <PreyNutrition.description>这些怪癖决定了它的营养价值pawn是写给捕食者的。营养越多吃人产品将被生产。</PreyNutrition.description>
+  <!--EN: Nutritiousness-->
+  <PreyNutrition.label>营养</PreyNutrition.label>
+  <!--EN: These quirks determine how much a pawn enjoys eating edible vore products, which are food items produced by digestion/conversion such as milk and cum.-->
+  <ProductPreference.description>这些怪癖决定了多少钱一个pawn喜欢食用吃人产物，它们是通过消化/转化获得的食物，如牛奶和精液</ProductPreference.description>
+  <!--EN: Vore product preference-->
+  <ProductPreference.label>吃人产品偏好</ProductPreference.label>
+  <!--EN: These quirks determine how many prey can fit in the pawn. The volume of a preything is its body size. A predator's capacity is a multiplier of its body size.-->
+  <StorageCapacity.description>这些怪癖决定了能容纳多少猎物pawn猎物的体积等于其身体尺寸。捕食者的容量是其体型的乘数。</StorageCapacity.description>
+  <!--EN: Storage capacity-->
+  <StorageCapacity.label>储存容量</StorageCapacity.label>
+  <!--EN: These quirks determine what the pawn either wants to do, or will try to do, when devouring clothed prey, depending on your stripping settings.-->
+  <StrippingPreference_Predator.description>这些怪癖决定了pawn当吞噬时，不是想做，就是想试着去做穿着衣服猎物，取决于你的剥光设置。</StrippingPreference_Predator.description>
+  <!--EN: Stripping preference as predator-->
+  <StrippingPreference_Predator.label>剥光偏好为捕食者</StrippingPreference_Predator.label>
+  <!--EN: These quirks determine what the pawn either wants to do, or will try to do, when agreeing to a vore attempt while clothed, depending on your stripping settings.-->
+  <StrippingPreference_Prey.description>这些怪癖决定了pawn当同意一个吃人尝试时穿着衣服,取决于你的剥光设置。</StrippingPreference_Prey.description>
+  <!--EN: Stripping preference as prey-->
+  <StrippingPreference_Prey.label>剥光偏好为猎物</StrippingPreference_Prey.label>
+  <!--EN: These quirks influence whether or not struggling is available for prey or predator.-->
+  <StruggleCapability.description>这些怪癖会影响猎物或捕食者是否可以在战斗中生存。</StruggleCapability.description>
+  <!--EN: Struggle Capability-->
+  <StruggleCapability.label>战斗能力</StruggleCapability.label>
+  <!--EN: These quirks determine the pawns preference for prey struggling inside of them-->
+  <StrugglePreference.description>这些怪癖决定了猎兽对猎物的偏好。</StrugglePreference.description>
+  <!--EN: Struggle Preference-->
+  <StrugglePreference.label>斗争偏好</StrugglePreference.label>
+  <!--EN: These quirks influence the struggling capability for the pawn when voring others.-->
+  <StruggleStrength_Predator.description>这些怪癖会影响人类的挣扎能力pawn收留他人时。</StruggleStrength_Predator.description>
+  <!--EN: Struggle strength (Predator)-->
+  <StruggleStrength_Predator.label>战斗强度 (捕食者)</StruggleStrength_Predator.label>
+  <!--EN: These quirks influence the struggling capability for the pawn when vored by others.-->
+  <StruggleStrength_Prey.description>这些怪癖会影响人类的挣扎能力pawn被人崇拜时。</StruggleStrength_Prey.description>
+  <!--EN: Struggle strength (Prey)-->
+  <StruggleStrength_Prey.label>挣扎强度 (猎物)</StruggleStrength_Prey.label>
+  <!--EN: These quirks determine how quickly a pawn begins vore (i.e., how quickly the prey is removed from the map and added to the pawn's hediffs). It does not currently impact how quickly the "passing" stages progress.-->
+  <SwallowSpeed.description>这些怪癖决定了pawn开始吃人(也就是说，猎物从地图上移除并添加到pawn&apos;S hediffs&apos;)。它目前不影响 “通过” 阶段的进度。</SwallowSpeed.description>
+  <!--EN: Swallow Speed-->
+  <SwallowSpeed.label>吞食速度</SwallowSpeed.label>
+  <!--EN: These quirks determine how much a pawn likes to swallow down prey and show them their whole digestive tract. At the extremes, the pawn will either never or always try to give prey a full tour.-->
+  <TypePreference_Predator_FullTour.description>这些怪癖决定了多少钱一个pawn喜欢吞下猎物，向他们展示整个消化系统。在极端情况下,pawn将永远不尝试或总是尝试给予猎物一个消化道游览</TypePreference_Predator_FullTour.description>
+  <!--EN: Predatory type preference (full tour)-->
+  <TypePreference_Predator_FullTour.label>捕食动物的类型偏好 (消化道游览)</TypePreference_Predator_FullTour.label>
+  <!--EN: These quirks determine how much a pawn likes take a tour through a predator's insides. At the extremes, the pawn will either never or always try to get sent through the whole digestive tract.-->
+  <TypePreference_Prey_FullTour.description>这些怪癖决定了多少钱一个pawn喜欢在捕食者的体内旅行。在极端情况下,pawn将永远不会或总是尝试通过整个消化道被派遣。</TypePreference_Prey_FullTour.description>
+  <!--EN: Preyish type preference (full tour)-->
+  <TypePreference_Prey_FullTour.label>猎物类型偏好 (消化道游览)</TypePreference_Prey_FullTour.label>
+</LanguageData>

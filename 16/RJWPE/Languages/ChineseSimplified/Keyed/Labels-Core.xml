@@ -118,11 +118,9 @@
   <global_reset>重置</global_reset>
   <!--EN: Back-->
   <import_back_button_title>返回</import_back_button_title>
-  <!--原中文: '请在此粘贴你的导出代码。', 原英文: 'Back' -> 新英文: 'Please paste your export code here.',更新于2026-02-16-->
-  <!--EN: Back-->
+  <!--EN: Please paste your export code here.-->
   <import_header>请在此处粘贴您的导出代码。</import_header>
-  <!--原中文: '导入', 原英文: 'Back' -> 新英文: 'Import',更新于2026-02-16-->
-  <!--EN: Back-->
+  <!--EN: Import-->
   <import_import_button_title>进口</import_import_button_title>
   <!--EN: The export code can not be applied on this page.-->
   <import_invalid_code>导出代码无法在此页面应用。</import_invalid_code>

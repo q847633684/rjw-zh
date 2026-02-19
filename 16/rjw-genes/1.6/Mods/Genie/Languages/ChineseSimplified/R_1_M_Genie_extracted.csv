@@ -1,0 +1,3 @@
+key,text,tag,file,type
+VRE_Curiosity_Sex.label,sex curiosity,label,GeneDef/GeneDef.xml,def
+VRE_Curiosity_Sex.description,"The carrier has a natural curiosity for sex which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in sex completely.",description,GeneDef/GeneDef.xml,def

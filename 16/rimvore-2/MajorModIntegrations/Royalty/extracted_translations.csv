@@ -1,3 +1,0 @@
-key,text,tag,file,type
-RV2_VoreSkip_Chaotic.label,Chaotic Vore Skip,label,AbilityDefs\VorePsycasts.xml,def
-RV2_VoreSkip_Chaotic.description,Teleport the target into another target (either can be self). Body part and vore goal are selected randomly.,description,AbilityDefs\VorePsycasts.xml,def

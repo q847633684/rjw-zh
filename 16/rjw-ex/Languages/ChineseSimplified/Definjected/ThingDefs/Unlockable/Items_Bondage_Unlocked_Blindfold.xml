@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--翻译内容: 'An unlocked blindfold which blocks the wearer's vision.',新增于2026-02-14-->
-  <!--EN: An unlocked blindfold which blocks the wearer's vision.-->
-  <UnlockedBlindfold.description>一款未上锁的眼罩，可以阻挡佩戴者的视线。</UnlockedBlindfold.description>
-  <!--翻译内容: 'unlocked blindfold',新增于2026-02-14-->
-  <!--EN: unlocked blindfold-->
-  <UnlockedBlindfold.label>未上锁眼罩</UnlockedBlindfold.label>
-</LanguageData>

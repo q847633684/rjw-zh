@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--原中文: '群交', 原英文: '无' -> 新英文: 'orgy',更新于2026-02-14-->
-  <!--EN: orgy-->
-  <Orgy.label>群交</Orgy.label>
-  <!--过时key，需删除-->
-  <Orgy.letterText>{ORGANIZER_labelShort} 正在举行一场群交聚会! 参加者都能在社交和性方面获取新的动力。</Orgy.letterText>
-</LanguageData>

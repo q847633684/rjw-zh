@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings>
+    <!--EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [SexTopic].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][SexTopic]了。</li>
+    <!--EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [SexTopic] with [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef]和[RECIPIENT_nameDef]讨论了[SexTopic]。</li>
+    <!--EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [SexTopic] to [RECIPIENT_nameDef].-->
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef]对[RECIPIENT_nameDef][commentedabout]了[SexTopic]。</li>
+    <!--EN: talkedabout(p=4)->chatted about-->
+    <li>talkedabout(p=4)-&gt;聊了聊</li>
+    <!--EN: talkedabout->shared a word about-->
+    <li>talkedabout-&gt;谈了谈</li>
+    <!--EN: talkedabout->spoke about-->
+    <li>talkedabout-&gt;说了</li>
+    <!--EN: talkedabout->gabbed about-->
+    <li>talkedabout-&gt;聊了</li>
+    <!--EN: talkedabout->talked about-->
+    <li>talkedabout-&gt;讨论了</li>
+    <!--EN: talkedabout->joked about-->
+    <li>talkedabout-&gt;开了个玩笑</li>
+    <!--EN: talkedabout->quipped about-->
+    <li>talkedabout-&gt;提到了</li>
+    <!--EN: commentedabout->said something about-->
+    <li>commentedabout-&gt;评论了</li>
+    <!--EN: commentedabout->said a word about-->
+    <li>commentedabout-&gt;说了些关于</li>
+    <!--EN: commentedabout->made a comment about-->
+    <li>commentedabout-&gt;发表了关于</li>
+    <!--EN: commentedabout->commented about-->
+    <li>commentedabout-&gt;说了</li>
+    <!--EN: commentedabout->told a joke about-->
+    <li>commentedabout-&gt;讲了个笑话关于</li>
+  </VSIE_Teaching_Sex.rulePack.rulesStrings>
+</LanguageData>

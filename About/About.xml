@@ -16,41 +16,104 @@
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<!-- RJW 核心模块 -->
+		<!-- 01RJW 本体 1.6 版 完成-->
 		<li>rim.job.world</li>
-		<!-- RJW 系统扩展 -->
-		<li>rjw.cum</li>
-		<li>rjw.std</li>
-		<li>rjw.fc</li>
+		<!-- 02RJW 妓院床 完成-->
+		<li>ed86.rjw.whorebeds</li>
+		<!-- 03浪漫关系调整 完成-->
+		<li>nugerumon.romancetweaksmoreoptions</li>
+		<!-- RJW 精液汇编 完成-->
+		<li>vegapnk.cumpilation</li>
+		<li>ludeon.rimworld.Biotech</li>
+    	<li>ludeon.rimworld.Ideology</li>
+    	<li>winderig.processor</li>
+		<!-- RJW 拉伸 完成-->
+		<li>eltoro.stretching</li>
+		<!-- 裸露更重要 完成-->
+		<li>dord.nuditymattersmore</li>
+		<!--  Dord 的 Nudity Matters More 的一个补丁模组 未完成-->
+		<li>shark510.nuditymattersmoreopinions</li><!--未完成-->
+		<!-- RJW FB（不确定含义） 完成-->
 		<li>rjw.fb</li>
-		<li>rjw.milk.humanoid</li>
-		<li>rjw.menstruation</li>
-		<!-- RJW 内容扩展 -->
-		<li>rjw.sexperience</li>
-		<li>rjw.sexperience.ideology</li>
-		<li>rjw.quirks</li>
-		<!-- RJW 相关MOD -->
-		<li>c0ffee.rjw.ideologyaddons</li>
-		<li>c0ffee.rjw.events</li>
+		<!-- RJW FC（流体动力学） 完成-->
+		<li>rjw.fc</li>
+		<!-- RJW 昆虫 完成-->
+		<li>ed86.rjwinsects</li>
+		<!-- RJW STD（性病）完成-->
+		<li>rjw.std</li>
+		<!-- RJW 世界动画 完成-->
 		<li>c0ffee.rimworld.animations</li>
+		<!-- RJW 怪癖 完成 不显示-->
+		<li>rjw.quirks</li><!--未完成-->
+		<!-- RJW 事件 完成-->
+		<li>c0ffee.rjw.events</li>
+		<!-- 尺码服装零 完成-->
+		<li>otyoty.sizedapparel</li>
+		<!--  Sized Apparel Zero mod 的一个补充 完成-->
+		<li>otyoty.sizedapparel.extended</li>
+		<li>tory187.rjwanimaddons.sextra2</li>
+		<!-- RJW 脏话 完成-->
+		<li>rjw.dirtytalk</li>
+		<!-- RJW 隐私 完成-->
+		<li>abscon.privacy.please</li>
+		<!-- RJW 妓院殖民地 完成-->
+		<li>calamabanana.rjw.brothelcolony</li>
+    	<li>Ludeon.RimWorld.Ideology</li>
+    	<li>Ludeon.RimWorld.Biotech</li>
+		<!-- RJW 扩展 完成-->
+		<li>rimworld.ekss.rjwex</li>
+		<!-- RJW 基因 完成-->
 		<li>vegapnk.rjw.genes</li>
 		<li>vegapnk.cumpilation</li>
-		<!-- RJW 扩展 -->
-		<li>rimworld.ekss.rjwex</li>
-		<li>ed86.rjw.whorebeds</li>
-		<li>ed86.rjwinsects</li>
-		<li>eltoro.stretching</li>
-		<li>Ed86.rjwia</li>
-		<!-- RJW 其他相关 -->
-		<li>cryptidfarmer.stripper</li>
+		<li>vanillaracesexpanded.genie</li>
+		<li>vanillaracesexpanded.android</li>
+		<li>ASMR.RJW.RaceSupport</li>
+		<!-- RJW 可挤奶殖民者 废除
+		<li IfModActive="rjw.milk.humanoid">16/rjw-milk-humanoid</li>-->
+		<!-- RJW 性体验 完成-->
+		<li>rjw.sexperience</li>
+			<!-- RJW 性体验 - 兼容的技能模组 完成-->
+		<li>vanillaexpanded.skills</li>
+		<!-- RJW 性体验识形态 完成-->
+		<li>rjw.sexperience.ideology</li>
+		<!-- RJW 月经系统 完成-->
+		<li>rjw.menstruation</li>
+		<!--无法进行翻译
+		<li IfModActive="eltoro.rjw.menstruation.fluids">16/rjw-menstruation-fluids</li>
+		-->
+		<!-- Sized Apparel 兼容的色情服装 完成-->
+		<li>hehehew.sizedapparelforslaves</li>
+		<!-- RJW uap 动画包 完成-->
+		<li>teacher.uap</li>
+		<!-- RJW 触手模组 完成-->
+		<li>rim.job.world.onahole.ext</li>
+		<!-- RJWPE儿童	完成-->
+		<li>rim.job.world.pe</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>Vegapnk.rjw.genes</li>
 		<li>calamabanana.rjw.brothelcolony</li>
-		<li>lustlicentia.rjwlabs</li>
-		<li>abscon.privacy.please</li>
-		<li>rjw.dirtytalk</li>
-		<!-- 其他兼容性mod -->
-		<li>nugerumon.romancetweaksmoreoptions</li>
-		<li>dord.nuditymattersmore</li>
-		<li>otyoty.sizedapparel</li>
+		<li>c0ffee.rimworld.animations</li>
+		<!-- RJW 风味文字 完成-->
+		<li>moth.rjw.flavor</li>
+		<!-- RJW 特征 完成-->
+		<li>archersaiter.rjw.traits</li>
+		<!-- RJW rimvore-2 完成-->
+		<li>nabber.rimvore2</li>
+		<li>rim.job.world</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>Dubwise.DubsBadHygiene</li>
+		<!-- RimVore - 2 : Interactions-->
+		<li>rutrix.rimvore2interactions</li><!--机器翻译，需要校验-->
+		<!-- RimVore - 2 : Overstuffed -->
+		<li>mamahorseteeth.rimvore2extravores</li><!--机器翻译，需要校验-->
+    	<li>Ludeon.RimWorld.Biotech</li>
+		<!--为各种添加种族和动物的模组提供 RJW 兼容性 完成-->
+		<li>asmr.rjw.racesupport</li><!--机器翻译，需要校验-->
+		<li>FS.ReviaRace</li>
+		<li>jackaufenhand.sergals</li>
 	</loadAfter>
 	<description>
 【简介】

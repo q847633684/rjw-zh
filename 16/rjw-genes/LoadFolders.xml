@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.6>
+    <li IfModActive="vegapnk.cumpilation">1.6/Mods/Cumpilation</li>
+    <li IfModActive="vanillaracesexpanded.genie">1.6/Mods/Genie</li>
+    <li IfModActive="vanillaracesexpanded.android">1.6/Mods/Android</li>
+    <li IfModActive="ASMR.RJW.RaceSupport">1.6/Mods/RaceSupport</li>
+  </v1.6>
+</loadFolders>

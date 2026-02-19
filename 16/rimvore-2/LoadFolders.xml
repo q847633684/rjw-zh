@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.6>
+    <li>Common</li>
+    <li IfModNotActive="rim.job.world">LightGenitals</li>
+    <li IfModNotActive="rim.job.world">LightGenitals/1.6</li>
+    <li IfModActive="Ludeon.RimWorld.Ideology">MajorModIntegrations/Ideology</li>
+    <li IfModActive="Ludeon.RimWorld.Royalty">MajorModIntegrations/Royalty</li>
+    <li IfModActive="Ludeon.RimWorld.Biotech">MajorModIntegrations/Biotech</li>
+    <li IfModActive="rim.job.world">MajorModIntegrations/RimJobWorld/Common</li>
+    <li IfModActive="Dubwise.DubsBadHygiene">MajorModIntegrations/Dubs Bad Hygiene/Common</li>
+  </v1.6>
+</loadFolders>

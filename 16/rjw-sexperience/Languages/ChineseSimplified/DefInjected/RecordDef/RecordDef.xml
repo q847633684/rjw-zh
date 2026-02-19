@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: The number of times of anal sex.-->
+  <AnalSexCount.description>肛交的次数。</AnalSexCount.description>
+  <!--EN: anal intercourses-->
+  <AnalSexCount.label>肛交</AnalSexCount.label>
+  <!--EN: The number of times of blowjob.-->
+  <BlowjobCount.description>口交的次数。</BlowjobCount.description>
+  <!--EN: blowjobs-->
+  <BlowjobCount.label>口交</BlowjobCount.label>
+  <!--EN: The number of times of cunnilingus.-->
+  <CunnilingusCount.description>舔阴的次数。</CunnilingusCount.description>
+  <!--EN: cunnilingus-->
+  <CunnilingusCount.label>舔阴</CunnilingusCount.label>
+  <!--EN: The number of times of fingering.-->
+  <FingeringCount.description>指交的次数。</FingeringCount.description>
+  <!--EN: fingerings-->
+  <FingeringCount.label>指交</FingeringCount.label>
+  <!--EN: The number of times of footjob.-->
+  <FootjobCount.description>足交的次数。</FootjobCount.description>
+  <!--EN: footjob-->
+  <FootjobCount.label>足交</FootjobCount.label>
+  <!--EN: The number of times of handjob/fingering.-->
+  <GenitalCaressCount.description>用手指刺激阴茎/阴道的次数。</GenitalCaressCount.description>
+  <!--EN: genital touched-->
+  <GenitalCaressCount.label>摸阴</GenitalCaressCount.label>
+  <!--EN: The number of times of handjob.-->
+  <HandjobCount.description>手交的次数。</HandjobCount.description>
+  <!--EN: handjobs-->
+  <HandjobCount.label>手交</HandjobCount.label>
+  <!--EN: How lustful i am.-->
+  <Lust.description>我多淫荡。</Lust.description>
+  <!--EN: lust-->
+  <Lust.label>色欲</Lust.label>
+  <!--EN: The number of times of something sexual.-->
+  <MiscSexualBehaviorCount.description>一些性交的次数。</MiscSexualBehaviorCount.description>
+  <!--EN: misc. intercourses-->
+  <MiscSexualBehaviorCount.label>杂项</MiscSexualBehaviorCount.label>
+  <!--EN: The number of times of received oral sex.-->
+  <OralSexCount.description>吞精的次数。</OralSexCount.description>
+  <!--EN: oral intercourses-->
+  <OralSexCount.label>吞精</OralSexCount.label>
+  <!--EN: The number of times of orgasm.-->
+  <OrgasmCount.description>高潮的次数。</OrgasmCount.description>
+  <!--EN: orgasms-->
+  <OrgasmCount.label>高潮</OrgasmCount.label>
+  <!--EN: The number of sex partners.-->
+  <SexPartnerCount.description>性伴侣的个数。</SexPartnerCount.description>
+  <!--EN: sex partners-->
+  <SexPartnerCount.label>性伴侣</SexPartnerCount.label>
+  <!--EN: The number of times of vaginal sex.-->
+  <VaginalSexCount.description>阴道性交的次数。</VaginalSexCount.description>
+  <!--EN: vaginal intercourses-->
+  <VaginalSexCount.label>阴道性交</VaginalSexCount.label>
+</LanguageData>

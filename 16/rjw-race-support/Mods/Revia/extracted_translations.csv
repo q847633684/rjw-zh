@@ -1,7 +1,0 @@
-key,text,tag,file,type
-ReviaRaceRaider_Herm.label,revia raider,label,Revia_PawnKind.xml,def
-ReviaRaceMarauder_Herm.label,revia marauder,label,Revia_PawnKind.xml,def
-ReviaRaceBerserker_Herm.label,revia berserker,label,Revia_PawnKind.xml,def
-ReviaRaceHighTemplar_Herm.label,Revia High Templar,label,Revia_PawnKind.xml,def
-ReviaRaceTemplar_Herm.label,Revia Templar,label,Revia_PawnKind.xml,def
-ReviaRaceInitiate_Herm.label,Revia Initiate,label,Revia_PawnKind.xml,def

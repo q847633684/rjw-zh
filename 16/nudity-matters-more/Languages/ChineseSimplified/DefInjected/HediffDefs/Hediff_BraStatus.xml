@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: the boobs need the bra-->
-  <BraStatus.description>这对奶子需要胸罩</BraStatus.description>
-  <!--EN: how the boobs doin-->
-  <BraStatus.label>奶子还好吗</BraStatus.label>
-  <!--EN: bra-->
-  <BraStatus.stages.0.label>胸罩</BraStatus.stages.0.label>
-</LanguageData>

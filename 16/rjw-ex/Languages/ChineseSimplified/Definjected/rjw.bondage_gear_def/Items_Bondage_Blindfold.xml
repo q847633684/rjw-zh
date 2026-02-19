@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--原中文: '眼罩', 原英文: '无' -> 新英文: 'blindfold',更新于2026-02-14-->
-  <!--EN: blindfold-->
-  <Blindfold.label>眼罩</Blindfold.label>
-  <!--原中文: '眼罩。挡住视线的拘束装置。', 原英文: '无' -> 新英文: 'An unlocked blindfold which blocks the wearer's vision.',更新于2026-02-14-->
-  <!--EN: An unlocked blindfold which blocks the wearer's vision.-->
-  <Blindfold.description>眼罩。挡住视线的拘束装置。</Blindfold.description>
-</LanguageData>

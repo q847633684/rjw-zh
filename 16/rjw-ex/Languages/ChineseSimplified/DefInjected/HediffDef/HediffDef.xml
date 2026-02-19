@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: An armbinder. A restraint device that binds the arms behind the body.-->
+  <Armbinder.description>拘束手套可以阻止穿着它的任何小人使用其武器。</Armbinder.description>
+  <!--EN: armbinder-->
+  <Armbinder.label>拘束手套</Armbinder.label>
+  <!--EN: an armbinder-->
+  <Armbinder.labelNoun>拘束手套</Armbinder.labelNoun>
+  <!--EN: A chastity belt. Restricts access to the vagina and anus from its lover, and its wearer.-->
+  <ChastityBelt.description>贞操带可以阻止性行为和手淫。</ChastityBelt.description>
+  <!--EN: chastity belt-->
+  <ChastityBelt.label>贞操带</ChastityBelt.label>
+  <!--EN: a chastity belt-->
+  <ChastityBelt.labelNoun>贞操带</ChastityBelt.labelNoun>
+  <!--EN: An open chastity belt. Restricts access to the vagina for both partners and the wearer.-->
+  <ChastityBeltOpen_Hediff.description>开放式贞操带。限制伴侣和佩戴者进入阴道。</ChastityBeltOpen_Hediff.description>
+  <!--EN: open chastity belt-->
+  <ChastityBeltOpen_Hediff.label>打开贞操带</ChastityBeltOpen_Hediff.label>
+  <!--EN: an open chastity belt-->
+  <ChastityBeltOpen_Hediff.labelNoun>开放式贞操带</ChastityBeltOpen_Hediff.labelNoun>
+  <!--EN: A chastity belt. Restricts access to the vagina and anus for both partners and the wearer.-->
+  <ChastityBelt_Hediff.description>贞操带。限制伴侣和佩戴者进入阴道和肛门。</ChastityBelt_Hediff.description>
+  <!--EN: chastity belt-->
+  <ChastityBelt_Hediff.label>贞操带</ChastityBelt_Hediff.label>
+  <!--EN: a chastity belt-->
+  <ChastityBelt_Hediff.labelNoun>贞操带</ChastityBelt_Hediff.labelNoun>
+  <!--EN: A chastity cage. Restricts access to the penis from its lover, and its wearer.-->
+  <ChastityCage.description>阴茎上的贞操笼，阻止勃起。</ChastityCage.description>
+  <!--EN: chastity cage-->
+  <ChastityCage.label>贞操笼</ChastityCage.label>
+  <!--EN: a chastity cage-->
+  <ChastityCage.labelNoun>贞操笼</ChastityCage.labelNoun>
+  <!--EN: A closed gag that prevents its wearer from speaking.-->
+  <ClosedGag.description>一种封闭式的口球，阻止佩戴者说话。</ClosedGag.description>
+  <!--EN: closed gag-->
+  <ClosedGag.label>口球</ClosedGag.label>
+  <!--EN: a closed gag-->
+  <ClosedGag.labelNoun>口球</ClosedGag.labelNoun>
+  <!--EN: An legbinder. A restraint device that binds the legs restricting movement.-->
+  <Legbinder.description>一个拘束靴，可以阻止穿着它的小人使用腿。</Legbinder.description>
+  <!--EN: legbinder-->
+  <Legbinder.label>拘束靴</Legbinder.label>
+  <!--EN: a legbinder-->
+  <Legbinder.labelNoun>拘束靴</Legbinder.labelNoun>
+  <!--EN: An open gag that only allows its wearer to mutter incomprehensibly.-->
+  <OpenGag.description>一种开口的口枷，只允许它的主人含糊不清地咕哝。</OpenGag.description>
+  <!--EN: open gag-->
+  <OpenGag.label>口枷</OpenGag.label>
+  <!--EN: an open gag-->
+  <OpenGag.labelNoun>口枷</OpenGag.labelNoun>
+  <!--EN: Plugged.-->
+  <Plugged.description>插入.</Plugged.description>
+  <!--EN: Plugged-->
+  <Plugged.label>插入</Plugged.label>
+  <!--EN: loosely-->
+  <Plugged.stages.0.label>非常松</Plugged.stages.0.label>
+  <!--EN: comfortable-->
+  <Plugged.stages.1.label>松</Plugged.stages.1.label>
+  <!--EN: tightly-->
+  <Plugged.stages.2.label>紧</Plugged.stages.2.label>
+  <!--EN: very tight-->
+  <Plugged.stages.3.label>非常紧</Plugged.stages.3.label>
+  <!--EN: cracking tight-->
+  <Plugged.stages.4.label>极其紧</Plugged.stages.4.label>
+  <!--EN: A blindfold. A restraint device that blocks the wearer's vision.-->
+  <RJW_Blindfold.description>眼罩。能挡住视线的拘束装置。</RJW_Blindfold.description>
+  <!--EN: blindfold-->
+  <RJW_Blindfold.label>眼罩</RJW_Blindfold.label>
+  <!--EN: a blindfold-->
+  <RJW_Blindfold.labelNoun>眼罩</RJW_Blindfold.labelNoun>
+  <!--EN: Keeps the arms and head of the wearer locked relative to their body in a raised-arm position.-->
+  <Yoke.description>将使用者的手臂和头部相对于身体固定并保持举臂状态。</Yoke.description>
+  <!--EN: yoke-->
+  <Yoke.label>枷锁</Yoke.label>
+  <!--EN: a yoke-->
+  <Yoke.labelNoun>枷锁</Yoke.labelNoun>
+</LanguageData>

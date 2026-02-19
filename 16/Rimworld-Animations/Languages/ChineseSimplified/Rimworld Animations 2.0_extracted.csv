@@ -1,0 +1,25 @@
+key,text,tag,file,type
+RimAnim_ModSettings,RJW Animation Settings,RimAnim_ModSettings,RJWAnimations-LanguageData.xml,keyed
+RimAnim_SoundOverride,Override RJW sounds,RimAnim_SoundOverride,RJWAnimations-LanguageData.xml,keyed
+RimAnim_GenitalRotation,Control Genital Rotation,RimAnim_GenitalRotation,RJWAnimations-LanguageData.xml,keyed
+RimAnim_OrgasmQuiver,Enable Orgasm Quiver,RimAnim_OrgasmQuiver,RJWAnimations-LanguageData.xml,keyed
+RimAnim_RapeShiver,Enable Rape Shiver,RimAnim_RapeShiver,RJWAnimations-LanguageData.xml,keyed
+RimAnim_HeartsDuringLovin,Show hearts during lovin',RimAnim_HeartsDuringLovin,RJWAnimations-LanguageData.xml,keyed
+RimAnim_PlayNonsexual,"Play animation for nonsexual acts (handholding, makeout)",RimAnim_PlayNonsexual,RJWAnimations-LanguageData.xml,keyed
+RimAnim_AnimManagerTab,Enable Animation Manager tab,RimAnim_AnimManagerTab,RJWAnimations-LanguageData.xml,keyed
+RimAnim_ShiverIntensity,Shiver/Quiver Intensity (default 2): ,RimAnim_ShiverIntensity,RJWAnimations-LanguageData.xml,keyed
+RimAnim_Voices,Play voices during animations,RimAnim_Voices,RJWAnimations-LanguageData.xml,keyed
+RimAnim_HumanlikeVoicesDefault,Play humanlike voices by default,RimAnim_HumanlikeVoicesDefault,RJWAnimations-LanguageData.xml,keyed
+RimAnim_DebugMode,Debug mode,RimAnim_DebugMode,RJWAnimations-LanguageData.xml,keyed
+RimAnim_FloatRangeRenderTree,Float range for Debug Render Tree offset menu: ,RimAnim_FloatRangeRenderTree,RJWAnimations-LanguageData.xml,keyed
+RimAnim_MaleAnalCanBeFucked,Play anal sex animations for male pawns,RimAnim_MaleAnalCanBeFucked,RJWAnimations-LanguageData.xml,keyed
+RimAnim_PlaySounds,Play sounds during animations,RimAnim_PlaySounds,RJWAnimations-LanguageData.xml,keyed
+RimAnim_VoicesVolume,Voices volume:,RimAnim_VoicesVolume,RJWAnimations-LanguageData.xml,keyed
+RimAnim_SoundsVolume,Sounds volume:,RimAnim_SoundsVolume,RJWAnimations-LanguageData.xml,keyed
+RimAnims_AnimManager,Animation Manager,RimAnims_AnimManager,RJWAnimations-LanguageData.xml,keyed
+RimAnims_Warning,"Warning--You generally don't want to change human offsets, only alien offsets or animals",RimAnims_Warning,RJWAnimations-LanguageData.xml,keyed
+RimAnims_CopyToClipboard,Copy Offset to Clipboard,RimAnims_CopyToClipboard,RJWAnimations-LanguageData.xml,keyed
+RimAnims_ShareSettings,"Paste offset values in OffsetDef, or share in Discord",RimAnims_ShareSettings,RJWAnimations-LanguageData.xml,keyed
+RimAnims_Reset,Reset,RimAnims_Reset,RJWAnimations-LanguageData.xml,keyed
+OffsetManager.label,Animation Manager,label,MainButtonDef/MainButtonDef.xml,def
+OffsetManager.description,Edit pawn offsets for animations.,description,MainButtonDef/MainButtonDef.xml,def

@@ -1,46 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!-- Issues -->
-  <!--原中文: '和动物做爱', 原英文: '无' -> 新英文: 'sex with animal',更新于2026-02-14-->
-  <!--EN: sex with animal-->
-  <RSI_SexWithAnimal.label>和动物做爱</RSI_SexWithAnimal.label>
-  <!--原中文: '和圣兽做爱', 原英文: '无' -> 新英文: 'sex with venerated animal',更新于2026-02-14-->
-  <!--EN: sex with venerated animal-->
-  <RSI_SexWithVeneratedAnimal.label>和圣兽做爱</RSI_SexWithVeneratedAnimal.label>
-  <!--原中文: '族内通婚', 原英文: '无' -> 新英文: 'Incestuous marriage',更新于2026-02-14-->
-  <!--EN: Incestuous marriage-->
-  <RSI_IncestuosMarriage.label>族内通婚</RSI_IncestuosMarriage.label>
-  <!--原中文: '被强奸', 原英文: '无' -> 新英文: 'raped',更新于2026-02-14-->
-  <!--EN: raped-->
-  <RSI_Raped.label>被强奸</RSI_Raped.label>
-  <!--原中文: '强奸了奴隶', 原英文: '无' -> 新英文: 'raped slave',更新于2026-02-14-->
-  <!--EN: raped slave-->
-  <RSI_RapedSlave.label>强奸了奴隶</RSI_RapedSlave.label>
-  <!--原中文: '强奸了囚犯', 原英文: '无' -> 新英文: 'raped prisoner',更新于2026-02-14-->
-  <!--EN: raped prisoner-->
-  <RSI_RapedPrisoner.label>强奸了囚犯</RSI_RapedPrisoner.label>
-  <!--原中文: '被强奸', 原英文: '无' -> 新英文: 'was raped',更新于2026-02-14-->
-  <!--EN: was raped-->
-  <RSI_WasRaped.label>被强奸</RSI_WasRaped.label>
-  <!--原中文: '奴隶被强奸', 原英文: '无' -> 新英文: 'was raped',更新于2026-02-14-->
-  <!--EN: was raped-->
-  <RSI_WasRapedSlave.label>奴隶被强奸</RSI_WasRapedSlave.label>
-  <!--原中文: '囚犯被强奸', 原英文: '无' -> 新英文: 'was raped',更新于2026-02-14-->
-  <!--EN: was raped-->
-  <RSI_WasRapedPrisoner.label>囚犯被强奸</RSI_WasRapedPrisoner.label>
-  <!--原中文: '阴道容纳性交', 原英文: '无' -> 新英文: 'vaginal sex',更新于2026-02-14-->
-  <!--EN: vaginal sex-->
-  <RSI_VaginalSex.label>阴道容纳性交</RSI_VaginalSex.label>
-  <!--原中文: '肛门容纳性交', 原英文: '无' -> 新英文: 'anal sex',更新于2026-02-14-->
   <!--EN: anal sex-->
-  <RSI_AnalSex.label>肛门容纳性交</RSI_AnalSex.label>
-  <!--原中文: '口腔容纳性交', 原英文: '无' -> 新英文: 'oral sex',更新于2026-02-14-->
-  <!--EN: oral sex-->
-  <RSI_OralSex.label>口腔容纳性交</RSI_OralSex.label>
-  <!--原中文: '做爱', 原英文: '无' -> 新英文: 'sex',更新于2026-02-14-->
+  <RSI_AnalSex.label>肛门性交</RSI_AnalSex.label>
+  <!--EN: Marriage between close relatives-->
+  <RSI_CloseRelativeMarriage.label>近亲之间的婚姻</RSI_CloseRelativeMarriage.label>
+  <!--EN: Sex between close relatives-->
+  <RSI_CloseRelativeSex.label>近亲之间的性行为</RSI_CloseRelativeSex.label>
+  <!--EN: Incestuous marriage-->
+  <RSI_IncestuosMarriage.label>乱伦婚姻</RSI_IncestuosMarriage.label>
+  <!--EN: Incestuous sex-->
+  <RSI_IncestuosSex.label>乱伦性行为</RSI_IncestuosSex.label>
+  <!--EN: masturbated-->
+  <RSI_Masturbated.label>自慰</RSI_Masturbated.label>
   <!--EN: sex-->
-  <RSI_MiscSex.label>做爱</RSI_MiscSex.label>
-  <!--原中文: '乱交', 原英文: '无' -> 新英文: 'promiscuous sex',更新于2026-02-14-->
+  <RSI_MiscSex.label>性交</RSI_MiscSex.label>
+  <!--EN: Non-Incestuous marriage-->
+  <RSI_NonIncestuosMarriage.label>非乱伦婚姻</RSI_NonIncestuosMarriage.label>
+  <!--EN: Non-incestuous sex-->
+  <RSI_NonIncestuosSex.label>非乱伦性行为</RSI_NonIncestuosSex.label>
+  <!--EN: oral sex-->
+  <RSI_OralSex.label>口腔性交</RSI_OralSex.label>
   <!--EN: promiscuous sex-->
   <RSI_PromiscuousSex.label>乱交</RSI_PromiscuousSex.label>
+  <!--EN: raped-->
+  <RSI_Raped.label>被强奸</RSI_Raped.label>
+  <!--EN: raped prisoner-->
+  <RSI_RapedPrisoner.label>被强奸的囚犯</RSI_RapedPrisoner.label>
+  <!--EN: raped slave-->
+  <RSI_RapedSlave.label>被强奸的奴隶</RSI_RapedSlave.label>
+  <!--EN: sex with animal-->
+  <RSI_SexWithAnimal.label>与动物发生性行为</RSI_SexWithAnimal.label>
+  <!--EN: Sex with bonded-->
+  <RSI_SexWithBondedAnimal.label>与牵绊动物发生性行为</RSI_SexWithBondedAnimal.label>
+  <!--EN: fucked corpse-->
+  <RSI_SexWithCorpse.label>奸尸</RSI_SexWithCorpse.label>
+  <!--EN: Sex with non Bonded-->
+  <RSI_SexWithNonBondAnimal.label>与非牵绊动物发生性行为</RSI_SexWithNonBondAnimal.label>
+  <!--EN: sex with non venerated animal-->
+  <RSI_SexWithNonVeneratedAnimal.label>与非圣兽发生性行为</RSI_SexWithNonVeneratedAnimal.label>
+  <!--EN: sex with venerated animal-->
+  <RSI_SexWithVeneratedAnimal.label>与圣兽发生性行为</RSI_SexWithVeneratedAnimal.label>
+  <!--EN: took virginity-->
+  <RSI_TookVirgin.label>夺取初夜</RSI_TookVirgin.label>
+  <!--EN: vaginal sex-->
+  <RSI_VaginalSex.label>阴道性交</RSI_VaginalSex.label>
+  <!--EN: virginity stolen-->
+  <RSI_VirginStolen.label>初夜被夺</RSI_VirginStolen.label>
+  <!--EN: virginity taken-->
+  <RSI_VirginTaken.label>失去初夜</RSI_VirginTaken.label>
+  <!--EN: virginity was taken by a stranger-->
+  <RSI_VirginTakenNotSpouse.label>初夜被陌生人夺走</RSI_VirginTakenNotSpouse.label>
+  <!--EN: was raped-->
+  <RSI_WasRaped.label>遭到强奸</RSI_WasRaped.label>
+  <!--EN: was raped-->
+  <RSI_WasRapedPrisoner.label>遭到强奸的囚犯</RSI_WasRapedPrisoner.label>
+  <!--EN: was raped-->
+  <RSI_WasRapedSlave.label>遭到强奸的奴隶</RSI_WasRapedSlave.label>
 </LanguageData>

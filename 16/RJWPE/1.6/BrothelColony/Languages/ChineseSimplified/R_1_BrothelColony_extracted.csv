@@ -1,0 +1,11 @@
+key,text,tag,file,type
+settings_tabs_brothel,Brothel Colony,settings_tabs_brothel,Labels-Brothel.xml,keyed
+brothel_header,Brothel,brothel_header,Labels-Brothel.xml,keyed
+brothel_minage_title,Minimum age,brothel_minage_title,Labels-Brothel.xml,keyed
+brothel_price_age_title,brothel price by age,brothel_price_age_title,Labels-Brothel.xml,keyed
+brothel_price_age_desc,Multiplier curve for the brothel price.,brothel_price_age_desc,Labels-Brothel.xml,keyed
+brothel_price_age_edit,Edit,brothel_price_age_edit,Labels-Brothel.xml,keyed
+brothel_price_age_editor_title,brothel price multiplier,brothel_price_age_editor_title,Labels-Brothel.xml,keyed
+brothel_price_age_editor_info,"-> This is a multiplier for the price, not the actual value.\n-> Values for anything below the minimum age are ignored.",brothel_price_age_editor_info,Labels-Brothel.xml,keyed
+brothel_price_age_editor_axis_x,Age,brothel_price_age_editor_axis_x,Labels-Brothel.xml,keyed
+brothel_price_age_editor_axis_y,Multiplier,brothel_price_age_editor_axis_y,Labels-Brothel.xml,keyed

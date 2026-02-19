@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Install an ovary agitator.-->
-  <InstallOvaryAgitator.description>植入卵巢激扰器。</InstallOvaryAgitator.description>
-  <!--EN: Installing ovary agitator.-->
-  <InstallOvaryAgitator.jobString>正在植入卵巢激扰器。</InstallOvaryAgitator.jobString>
-  <!--EN: install ovary agitator-->
-  <InstallOvaryAgitator.label>植入卵巢激扰器</InstallOvaryAgitator.label>
-</LanguageData>

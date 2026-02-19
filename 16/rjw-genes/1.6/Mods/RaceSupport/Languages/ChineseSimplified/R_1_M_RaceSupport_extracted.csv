@@ -1,0 +1,5 @@
+key,text,tag,file,type
+rjw_genes_Pig_genitalia.label,Pig genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_Pig_genitalia.description,Carriers of this gene develop pig genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_Orc_genitalia.label,Orc genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_Orc_genitalia.description,Carriers of this gene develop orc genitalia.,description,GeneDef/GeneDef.xml,def

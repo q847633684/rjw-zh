@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Remove prey from part.-->
-  <RV2_Surgery_RemovePrey.description>从部分移除猎物。</RV2_Surgery_RemovePrey.description>
-  <!--EN: Removing prey from part.-->
-  <RV2_Surgery_RemovePrey.jobString>正在将猎物从身体部位移除。</RV2_Surgery_RemovePrey.jobString>
-  <!--EN: Remove prey from body part-->
-  <RV2_Surgery_RemovePrey.label>将猎物从身体部位移除</RV2_Surgery_RemovePrey.label>
-</LanguageData>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--翻译内容: 'An unlocked legbinder that prevents any pawn it's attached to from using their legs.',新增于2026-02-14-->
-  <!--EN: An unlocked legbinder that prevents any pawn it's attached to from using their legs.-->
-  <UnlockedLegbinder.description>一种未上锁的腿部束缚器，可以阻止任何被束缚的奴隶使用双腿。</UnlockedLegbinder.description>
-  <!--翻译内容: 'unlocked legbinder',新增于2026-02-14-->
-  <!--EN: unlocked legbinder-->
-  <UnlockedLegbinder.label>未上锁腿部束缚器</UnlockedLegbinder.label>
-</LanguageData>

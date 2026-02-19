@@ -1,0 +1,166 @@
+key,text,tag,file,type
+RJW_Onahole,RJW Onahole,RJW_Onahole,Keyed.xml,keyed
+RJW_Onahole_Settings,Onahole,RJW_Onahole_Settings,Keyed.xml,keyed
+RJW_Onahole_Free,free,RJW_Onahole_Free,Keyed.xml,keyed
+RJW_Onahole_CustomTransforms,Custom Texture Transforms,RJW_Onahole_CustomTransforms,Keyed.xml,keyed
+RJW_Onahole_ForGuestUse_Desc,"Allow guests to use the onahole, if price is not 0 guests will pay for it",RJW_Onahole_ForGuestUse_Desc,Keyed.xml,keyed
+RJW_Onahole_ForAnimalUse_Desc,"Allow animals to use the onahole, this setting will override the RJW setting",RJW_Onahole_ForAnimalUse_Desc,Keyed.xml,keyed
+RJW_Onahole_ForInsectUse_Desc,"Allow insects to use the onahole, this setting will override the RJW setting",RJW_Onahole_ForInsectUse_Desc,Keyed.xml,keyed
+RJW_Onahole_ForMechanoidUse_Desc,"Allow mechanoids to use the onahole. If impregnated by colony mechanoid, the baby will be automatically hacked",RJW_Onahole_ForMechanoidUse_Desc,Keyed.xml,keyed
+RJW_Onahole_GenitalElectrodes_Desc,"Stick electrodes on the genital area\nOff: Appearance only\nStimulate: small amount of pleasure\nPain: large amount of pleasure, with intense pain that blocks sleep\nBurn: small amount of pleasure, with direct damage to the genitals that can cause miscarriage",RJW_Onahole_GenitalElectrodes_Desc,Keyed.xml,keyed
+RJW_Onahole_BreastElectrodes_Desc,"Stick electrodes on the breasts, accelerates lactation\nOff: appearance only\nStimulate: small boost\nPain: medium boost, with intense pain that blocks sleep\nBurn: large boost, with direct damage to the breasts",RJW_Onahole_BreastElectrodes_Desc,Keyed.xml,keyed
+RJW_Onahole_SexMachine_Desc,Mount a sex machine on the penis,RJW_Onahole_SexMachine_Desc,Keyed.xml,keyed
+RJW_Onahole_VaginalSexMachine_Desc,Mount a vaginal sex machine on the onahole,RJW_Onahole_VaginalSexMachine_Desc,Keyed.xml,keyed
+RJW_Onahole_AnalSexMachine_Desc,Mount an anal sex machine on the onahole,RJW_Onahole_AnalSexMachine_Desc,Keyed.xml,keyed
+RJW_Onahole_MilkingMachine_Desc,"Mount a milking machine to milk the onahole, higher speed settings will cause more pain to the breasts",RJW_Onahole_MilkingMachine_Desc,Keyed.xml,keyed
+RJW_Onahole_CumCollector,Cum collector,RJW_Onahole_CumCollector,Keyed.xml,keyed
+RJW_Onahole_CumCollector_Desc,Collect cum from the onahole,RJW_Onahole_CumCollector_Desc,Keyed.xml,keyed
+RJW_Onahole_AutoFeeder_Desc,Automatically feeds the onahole using designated food and fluid,RJW_Onahole_AutoFeeder_Desc,Keyed.xml,keyed
+RJW_Onahole_DrugInfuser,Drug infuser,RJW_Onahole_DrugInfuser,Keyed.xml,keyed
+RJW_Onahole_DrugInfuser_Desc,Automatically use stored drug to fill onahole's chemical need or maintain the drug effect,RJW_Onahole_DrugInfuser_Desc,Keyed.xml,keyed
+RJW_Onahole_AllowAutoRefill,Allow auto refill,RJW_Onahole_AllowAutoRefill,Keyed.xml,keyed
+RJW_Onahole_SetTargetLevel,Set refill target level,RJW_Onahole_SetTargetLevel,Keyed.xml,keyed
+RJW_Onahole_EditTransform,Edit transform,RJW_Onahole_EditTransform,Keyed.xml,keyed
+RJW_Onahole_EditTransform_Desc,"Edit the transform of certain textures, used for fixing misaligned textures",RJW_Onahole_EditTransform_Desc,Keyed.xml,keyed
+RJW_Onahole_DesignateColonyUsers,Designate colony users,RJW_Onahole_DesignateColonyUsers,Keyed.xml,keyed
+RJW_Onahole_DesignateColonyUsers_Desc,"Designate which colony users can use the onahole, if not specified, all users can",RJW_Onahole_DesignateColonyUsers_Desc,Keyed.xml,keyed
+RJW_Onahole_Unbind,Unbind ,RJW_Onahole_Unbind,Keyed.xml,keyed
+RJW_Onahole_Bind,Bind ,RJW_Onahole_Bind,Keyed.xml,keyed
+RJW_Onahole_HaulCoolDownTicks,Onahole building storage haul cool down ticks,RJW_Onahole_HaulCoolDownTicks,Keyed.xml,keyed
+RJW_Onahole_MaxFluidStorage,Max fluid storage(mL),RJW_Onahole_MaxFluidStorage,Keyed.xml,keyed
+RJW_Onahole_AppraiseMultiplier,Onahole appraise multiplier,RJW_Onahole_AppraiseMultiplier,Keyed.xml,keyed
+RJW_Onahole_AppraiseOffset,Onahole appraise offset,RJW_Onahole_AppraiseOffset,Keyed.xml,keyed
+RJW_Onahole_PriceAppraiseZero,Onahole price at zero appraise,RJW_Onahole_PriceAppraiseZero,Keyed.xml,keyed
+RJW_Onahole_PriceAppraiseOne,Onahole price at one appraise,RJW_Onahole_PriceAppraiseOne,Keyed.xml,keyed
+RJW_Onahole_Offset,Offset,RJW_Onahole_Offset,Keyed.xml,keyed
+RJW_Onahole_Scale,Scale,RJW_Onahole_Scale,Keyed.xml,keyed
+RJW_Onahole_Stimulate,Stimulate,RJW_Onahole_Stimulate,Keyed.xml,keyed
+RJW_Onahole_FluidStorage,Fluid storage,RJW_Onahole_FluidStorage,Keyed.xml,keyed
+RJW_Onahole_ChangeBindStyle,Change bondage style,RJW_Onahole_ChangeBindStyle,Keyed.xml,keyed
+RJW_Onahole_OnaholeBedStorage,Storage,RJW_Onahole_OnaholeBedStorage,Keyed.xml,keyed
+RJW_Onahole_StripOnBind,Strip onahole on bind,RJW_Onahole_StripOnBind,Keyed.xml,keyed
+RJW_Onahole_UseReduceResistance,Reduce onahole resistance upon use,RJW_Onahole_UseReduceResistance,Keyed.xml,keyed
+RJW_Onahole_OrgasmReduceWill,Orgasm reduce will,RJW_Onahole_OrgasmReduceWill,Keyed.xml,keyed
+RJW_Onahole_OrgasmReduceCertainty,Orgasm reduce certainty,RJW_Onahole_OrgasmReduceCertainty,Keyed.xml,keyed
+RJW_Onahole_MachineBlocksParts,Machine blocks body parts for sex,RJW_Onahole_MachineBlocksParts,Keyed.xml,keyed
+RJW_Onahole_ShowCrossSections,Show cross sections,RJW_Onahole_ShowCrossSections,Keyed.xml,keyed
+RJW_Onahole_ShowExtraGraphics,Show extra graphics,RJW_Onahole_ShowExtraGraphics,Keyed.xml,keyed
+RJW_Onahole_Show,Show,RJW_Onahole_Show,Keyed.xml,keyed
+RJW_Onahole_SetRestriction,Allow/Forbid use of onahole,RJW_Onahole_SetRestriction,Keyed.xml,keyed
+RJW_Onahole_Feed,Feed to onahole,RJW_Onahole_Feed,Keyed.xml,keyed
+RJW_Onahole_CantFeed,"No nutrition value, can't feed",RJW_Onahole_CantFeed,Keyed.xml,keyed
+RJW_Onahole_AutoConvert,Convert to item and store,RJW_Onahole_AutoConvert,Keyed.xml,keyed
+RJW_Onahole_Destroy,Destroy,RJW_Onahole_Destroy,Keyed.xml,keyed
+RJW_Onahole_NoConvertibleItem,No convertible item,RJW_Onahole_NoConvertibleItem,Keyed.xml,keyed
+RJW_Onahole_AutoCapture_Desc,Automatically capture enemies around and bind them,RJW_Onahole_AutoCapture_Desc,Keyed.xml,keyed
+RJW_Onahole_Factionless,Factionless,RJW_Onahole_Factionless,Keyed.xml,keyed
+RJW_Onahole_Insect,Insect,RJW_Onahole_Insect,Keyed.xml,keyed
+RJW_Onahole_QuitRaiding,"{0}'s {1} used the onahole {2}, is now too exhausted for raiding, and decided to leave",RJW_Onahole_QuitRaiding,Keyed.xml,keyed
+RJW_Onahole_Defeat,Defeat,RJW_Onahole_Defeat,Keyed.xml,keyed
+RJW_Onahole_DontDefeatMode,No Defeat Effect,RJW_Onahole_DontDefeatMode,Keyed.xml,keyed
+RJW_Onahole_DontDefeatMode_Desc,"If you do not want to see the NTR of the colonists, you can add only the installation of Onahole rooms in the settlement by activating this option.",RJW_Onahole_DontDefeatMode_Desc,Keyed.xml,keyed
+RJW_Onahole_CarryToBed,Carry to Bed,RJW_Onahole_CarryToBed,Keyed.xml,keyed
+RJW_Onahole_CarryToBed_Desc,"If there are not enough Onahole, the enemy carries colonists to the beds in the stronghold.",RJW_Onahole_CarryToBed_Desc,Keyed.xml,keyed
+RJW_Onahole_CarryToBedOnly,Only carry to bed,RJW_Onahole_CarryToBedOnly,Keyed.xml,keyed
+RJW_Onahole_CarryToBedOnly_Desc,"If for some reason you want to transport settlers only to beds, activate this option.",RJW_Onahole_CarryToBedOnly_Desc,Keyed.xml,keyed
+RJW_Onahole_InfinityDefeat,Infinity Defeat,RJW_Onahole_InfinityDefeat,Keyed.xml,keyed
+RJW_Onahole_InfinityDefeat_Desc,Remove the time limit for defeat direction.\n\n(Note:It will not stop until all the colonists are dead.),RJW_Onahole_InfinityDefeat_Desc,Keyed.xml,keyed
+RJW_Onahole_DefeatTick,Defeat Effect Time(Tick),RJW_Onahole_DefeatTick,Keyed.xml,keyed
+RJW_Onahole_DefeatTick_Desc,Sets the time limit for defeat effect.,RJW_Onahole_DefeatTick_Desc,Keyed.xml,keyed
+RJW_Onahole_BrothelColony,Brothel Colony,RJW_Onahole_BrothelColony,Keyed.xml,keyed
+RJW_Onahole_UseBrothelPrice,Use brothel price for onahole,RJW_Onahole_UseBrothelPrice,Keyed.xml,keyed
+RJW_Onahole_OverrideBedScore,Override bed score,RJW_Onahole_OverrideBedScore,Keyed.xml,keyed
+RJW_Onahole_BedScore,Bed score,RJW_Onahole_BedScore,Keyed.xml,keyed
+RJW_Onahole_PayGoodwill,Pay with goodwill,RJW_Onahole_PayGoodwill,Keyed.xml,keyed
+RJW_Onahole_FinalPrice,Final price,RJW_Onahole_FinalPrice,Keyed.xml,keyed
+RJW_Onahole_Shower,Shower,RJW_Onahole_Shower,Keyed.xml,keyed
+RJW_Onahole_Shower_Desc,Automatically give the onahole a shower when needed,RJW_Onahole_Shower_Desc,Keyed.xml,keyed
+RJW_Onahole_MorphToBuilding,Morph,RJW_Onahole_MorphToBuilding,Keyed.xml,keyed
+RJW_Onahole_MorphToBuilding_Desc,Transform into an enticing structure. Unsuspecting prey drawn to investigate will find themselves trapped and bound.,RJW_Onahole_MorphToBuilding_Desc,Keyed.xml,keyed
+RJW_Onahole_MorphedToBuildingDueToDamage_MSG,{0} instinctively shifted into a hardened shell to survive the assault,RJW_Onahole_MorphedToBuildingDueToDamage_MSG,Keyed.xml,keyed
+RJW_Onahole_ExitBuildingForm,End Morphing,RJW_Onahole_ExitBuildingForm,Keyed.xml,keyed
+RJW_Onahole_ExitBuildingForm_Desc,Revert to mobile form.,RJW_Onahole_ExitBuildingForm_Desc,Keyed.xml,keyed
+RJW_Onahole_ExitBuildingFormNeedsBodyFluid,The creature requires sustenance to mend its wounds and shed its protective form,RJW_Onahole_ExitBuildingFormNeedsBodyFluid,Keyed.xml,keyed
+RJW_Onahole_ExitBuildingFormDueToDamage_MSG,"{0}'s protective shell shattered under the assault, forcing a return to its natural state",RJW_Onahole_ExitBuildingFormDueToDamage_MSG,Keyed.xml,keyed
+RJW_Onahole_StrangeChest,Strange chest,RJW_Onahole_StrangeChest,Keyed.xml,keyed
+RJW_Onahole_StrangeChest_Desc,An oddly placed container that seems out of place. Something about it feels... wrong. Perhaps it's best left alone?,RJW_Onahole_StrangeChest_Desc,Keyed.xml,keyed
+RJW_Onahole_MimicTamed,Mimic Tamed,RJW_Onahole_MimicTamed,Keyed.xml,keyed
+RJW_Onahole_MimicTamed_Desc,"This mystic creature {0} sustains itself on body fluids. After a prolonged dormancy, it has awakened and formed a bond with {1} who gave it long-awaited body fluids.",RJW_Onahole_MimicTamed_Desc,Keyed.xml,keyed
+RJW_Onahole_CaptiveDissolving,{PAWN_labelShort} is being dissolved,RJW_Onahole_CaptiveDissolving,Keyed.xml,keyed
+RJW_Onahole_ToggleWeebForm,Toggle Form,RJW_Onahole_ToggleWeebForm,Keyed.xml,keyed
+RJW_Onahole_ToggleWeebForm_Desc,Toggle between different forms.,RJW_Onahole_ToggleWeebForm_Desc,Keyed.xml,keyed
+Onahole_Mimic.label,mimic,label,ThingDef/ThingDef.xml,def
+Onahole_Mimic.description,A mimic creature,description,ThingDef/ThingDef.xml,def
+Onahole_Mimic.tools.0.label,tentacle,label,ThingDef/ThingDef.xml,def
+Onahole_Mimic.label,mimic,label,PawnKindDef/PawnKindDef.xml,def
+Onahole_MimicBuilding.label,mimic,label,ThingDef/ThingDef.xml,def
+Onahole_MimicBuilding.description,mimic,description,ThingDef/ThingDef.xml,def
+Onahole_Mimic.label,mimic,label,BodyDef/BodyDef.xml,def
+Onahole_Mimic.corePart.parts.1.parts.1.customLabel,left eye,customLabel,BodyDef/BodyDef.xml,def
+Onahole_Mimic.corePart.parts.1.parts.2.customLabel,right eye,customLabel,BodyDef/BodyDef.xml,def
+Onahole_Mimic.corePart.parts.2.customLabel,tentacle 1,customLabel,BodyDef/BodyDef.xml,def
+Onahole_Mimic.corePart.parts.3.customLabel,tentacle 2,customLabel,BodyDef/BodyDef.xml,def
+Onahole_Mimic.corePart.parts.4.customLabel,tentacle 3,customLabel,BodyDef/BodyDef.xml,def
+Onahole_Mimic.corePart.parts.5.customLabel,tentacle 4,customLabel,BodyDef/BodyDef.xml,def
+Onahole_Tentacle.label,tentacle,label,BodyPartDef/BodyPartDef.xml,def
+Mimic_Shell.label,shell,label,BodyPartDef/BodyPartDef.xml,def
+Onahole_TentacleWhip.label,tentacle,label,DamageDef/DamageDef.xml,def
+Onahole_TentacleWhip.deathMessage,{0} has been whipped to death.,deathMessage,DamageDef/DamageDef.xml,def
+AutoCapture.label,Auto Capture,label,HediffDef/HediffDef.xml,def
+AutoCapture.description,(Debug) Provide tick support for triggering onahole bed auto capture.,description,HediffDef/HediffDef.xml,def
+OnaholeAphrodisiac.label,aphrodisiac,label,HediffDef/HediffDef.xml,def
+OnaholeAphrodisiac.description,"Under the influence of a powerful aphrodisiac, sexual desire is greatly heightened.",description,HediffDef/HediffDef.xml,def
+OnaholeAphrodisiac.stages.0.label,fading,label,HediffDef/HediffDef.xml,def
+OnaholeAphrodisiac.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+OnaholeAphrodisiac.stages.2.label,moderate,label,HediffDef/HediffDef.xml,def
+OnaholeAphrodisiac.stages.3.label,intense,label,HediffDef/HediffDef.xml,def
+OnaholeAutoFeeder.label,auto feeder,label,HediffDef/HediffDef.xml,def
+OnaholeAutoFeeder.description,Automatically feeds the pawn,description,HediffDef/HediffDef.xml,def
+OnaholeBond.label,bondage,label,HediffDef/HediffDef.xml,def
+OnaholeBond.description,bondage,description,HediffDef/HediffDef.xml,def
+OnaholeDefeated.label,Defeated,label,HediffDef/HediffDef.xml,def
+OnaholeDefeated.description,Defeated.,description,HediffDef/HediffDef.xml,def
+OnaholeGenitalElectrodes.label,genital electrodes,label,HediffDef/HediffDef.xml,def
+OnaholeGenitalElectrodes.description,Electrodes to stimulate genital area,description,HediffDef/HediffDef.xml,def
+OnaholeBreastElectrodes.label,breast electrodes,label,HediffDef/HediffDef.xml,def
+OnaholeBreastElectrodes.description,Electrodes to stimulate the breasts,description,HediffDef/HediffDef.xml,def
+OnaholeMilkingMachine.label,milking machine,label,HediffDef/HediffDef.xml,def
+OnaholeMilkingMachine.description,Automatically milks the pawn,description,HediffDef/HediffDef.xml,def
+OnaholeVaginalSexMachine.label,vaginal sex machine,label,HediffDef/HediffDef.xml,def
+OnaholeVaginalSexMachine.description,A electrically powered piston inserted into the vagina.,description,HediffDef/HediffDef.xml,def
+OnaholeAnalSexMachine.label,anal sex machine,label,HediffDef/HediffDef.xml,def
+OnaholeAnalSexMachine.description,A electrically powered piston inserted into the anus.,description,HediffDef/HediffDef.xml,def
+OnaholeSexMachine.label,sex machine,label,HediffDef/HediffDef.xml,def
+OnaholeSexMachine.description,A electrically powered sex machine.,description,HediffDef/HediffDef.xml,def
+BeOnahole.reportString,being onahole.,reportString,JobDef/JobDef.xml,def
+BindOnahole.reportString,binding TargetA.,reportString,JobDef/JobDef.xml,def
+MorphToBuilding.reportString,morphing into building,reportString,JobDef/JobDef.xml,def
+RefillDrugInfuser.reportString,refilling TargetA.,reportString,JobDef/JobDef.xml,def
+RefillFeederFood.reportString,refilling auto feeder of TargetA.,reportString,JobDef/JobDef.xml,def
+UnbindOnahole.reportString,release onahole,reportString,JobDef/JobDef.xml,def
+UseOnahole.reportString,Using Onahole TargetA,reportString,JobDef/JobDef.xml,def
+RefillFeederFood.label,Refill auto feeder,label,WorkGiverDef/WorkGiverDef.xml,def
+RefillFeederFood.verb,refill food for,verb,WorkGiverDef/WorkGiverDef.xml,def
+RefillFeederFood.gerund,refilling food for,gerund,WorkGiverDef/WorkGiverDef.xml,def
+RefillDrugInfuser.label,Refill drug infuser,label,WorkGiverDef/WorkGiverDef.xml,def
+RefillDrugInfuser.verb,refill drug for,verb,WorkGiverDef/WorkGiverDef.xml,def
+RefillDrugInfuser.gerund,refilling drug for,gerund,WorkGiverDef/WorkGiverDef.xml,def
+OnaholeTentacleTrap.label,Tentacle Trap,label,ThingDef/ThingDef.xml,def
+OnaholeTentacleTrap.description,"A trap that uses tentacles to capture and restrain targets. The bound pawn will
+            be dissolved in two days.",description,ThingDef/ThingDef.xml,def
+OnaholeGoddessStatue.label,Goddess Statue,label,ThingDef/ThingDef.xml,def
+OnaholeGoddessStatue.description,A statue of a goddess.,description,ThingDef/ThingDef.xml,def
+OnaholeIronMaiden.label,Iron Maiden,label,ThingDef/ThingDef.xml,def
+OnaholeIronMaiden.description,Bound prisoners chained to a metal frame.,description,ThingDef/ThingDef.xml,def
+OnaholeCross.label,Cross,label,ThingDef/ThingDef.xml,def
+OnaholeCross.description,Bound prisoners cross.,description,ThingDef/ThingDef.xml,def
+OnaholeHanger.label,Hanger,label,ThingDef/ThingDef.xml,def
+OnaholeHanger.description,Hang prisoner on a metal hanger.,description,ThingDef/ThingDef.xml,def
+OnaholeHorseMount.label,Horse Mount,label,ThingDef/ThingDef.xml,def
+OnaholeHorseMount.description,Bound prisoners with a chain hanging them on a horse mount.,description,ThingDef/ThingDef.xml,def
+OnaholeMetalFrame.label,Metal Frame,label,ThingDef/ThingDef.xml,def
+OnaholeMetalFrame.description,Bound prisoners chained to a metal frame.,description,ThingDef/ThingDef.xml,def
+OnaholePillory.label,Pillory,label,ThingDef/ThingDef.xml,def
+OnaholePillory.description,Bound prisoners Pillory.,description,ThingDef/ThingDef.xml,def
+OnaholePole.label,Pole,label,ThingDef/ThingDef.xml,def
+OnaholePole.description,Bound prisoners chained to a pole.,description,ThingDef/ThingDef.xml,def

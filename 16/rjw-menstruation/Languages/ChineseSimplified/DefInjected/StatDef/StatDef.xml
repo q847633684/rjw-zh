@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Maximum amount of fluid that this item can absorb.-->
+  <MaxAbsorbable.description>最大可吸收的液体量</MaxAbsorbable.description>
+  <!--EN: Absorbable-->
+  <MaxAbsorbable.label>可吸收量</MaxAbsorbable.label>
+</LanguageData>

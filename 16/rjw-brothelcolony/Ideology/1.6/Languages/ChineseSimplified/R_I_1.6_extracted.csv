@@ -1,0 +1,149 @@
+key,text,tag,file,type
+CB_Prostitution_Present_Abbility.label,present whores,label,AbilityDef/AbilityDef.xml,def
+CB_Prostitution_Present_Abbility.description,Line up your whores.,description,AbilityDef/AbilityDef.xml,def
+CB_Prostitution_FervorTracker.label,Fervor,label,AbilityDef/AbilityDef.xml,def
+CB_Prostitution_FervorTracker.description,Gain sacred fervor from performing holy duties to prostitute or repopulate.\n\nClick to convert to development points.,description,AbilityDef/AbilityDef.xml,def
+CB_BrothelColony.label,Brothel Colony,label,MemeDef/MemeDef.xml,def
+CB_BrothelColony.description,"The oldest trade in the verse. Perhaps even a sacred duty for some.\n\nInfo: Sacred and essential prostitution are an obligation. Use the Mandatory Prostitutes precept to select for whom.\n\nSacred prostitution unlocks a new payment type, sacred fervour, that can be spent on sacred abilities",description,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.0,memeAdjective->tempting,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.1,memeAdjective->whoring,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.2,memeAdjective->inviting,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.3,memeAdjective->beautiful,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.4,memeAdjective->lush,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.5,memeAdjective->alluring,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.6,memeAdjective->seductive,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.7,memeLeaderNoun->whore,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.8,memeLeaderNoun->prostitute,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.9,memeLeaderNoun->madam,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.10,memeLeaderNoun->temptress,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.11,memeLeaderNoun->harlot,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.12,memeLeaderNoun->seductress,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.13,memeConcept->whoring,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.14,memeConcept->prostitution,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.15,memeConcept->brothel,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.16,memeConcept->seduction,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.17,memeLeaderAdjective->tempting,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.18,memeLeaderAdjective->beautiful,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.19,memeLeaderAdjective->alluring,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.20,memeLeaderAdjective->lush,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.generalRules.rulesStrings.21,memeLeaderAdjective->seductive,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.descriptionMaker.rules.rulesStrings.0,creation(tag=meme_CB_BrothelColony)        ->[deity0_name] told us to share out bodies with others and to accept their gifts in return.,li,MemeDef/MemeDef.xml,def
+CB_BrothelColony.descriptionMaker.rules.rulesStrings.1,"episode(uses=1,tag=meme_CB_BrothelColony)  ->for many years, [founderName] served as a temple prostitute for [deity0_objective].",li,MemeDef/MemeDef.xml,def
+CB_Prositutes_Issue.label,Mandatory whores,label,IssueDef/IssueDef.xml,def
+CB_Prostitute_Colonist.label,Everyone,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Colonist.description,Everyone is required to be a prostitute,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Slave.label,Slaves and prisoners,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Slave.description,Slaves and prisoners are required to be prostitutes,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Prisoners.label,Prisoners,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Prisoners.description,Prisoners are required be prostitutes,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Colonist_Female.label,Females,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Colonist_Female.description,"Female colonists, slaves and prisoners are required to be prostitutes",description,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Slave_Female.label,Female slaves and prisoners,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Slave_Female.description,Female slaves and prisoners are required to be prostitutes,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Prisoners_Female.label,Female prisoners,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Prisoners_Female.description,Female prisoners are required to be prostitutes,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Colonist_Male.label,Males,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Colonist_Male.description,"Male colonists, slaves and prisoners are required to be prostitutes",description,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Slave_Male.label,Male slaves and prisoners,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Slave_Male.description,Male slaves and prisoners are required to be prostitutes,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Prisoners_Male.label,Male prisoners,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_Prisoners_Male.description,Male prisoners are required to be prostitutes,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_None.label,No one,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitute_None.description,No one is required to be a prostitute,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Issue.label,prostitution,label,IssueDef/IssueDef.xml,def
+CB_Whoring.label,worked in the brothel,label,HistoryEventDef/HistoryEventDef.xml,def
+CB_Whoring_Reluctant.label,worked reluctantly in the brothel,label,HistoryEventDef/HistoryEventDef.xml,def
+CB_Whoring_NoIdeo.label,worked in the brothel,label,HistoryEventDef/HistoryEventDef.xml,def
+CB_Soliciting_Success_NoIdeo.label,failed to solicite,label,HistoryEventDef/HistoryEventDef.xml,def
+CB_Soliciting_Success.label,had success soliciting,label,HistoryEventDef/HistoryEventDef.xml,def
+CB_Prostitution_Sacred.label,Sacred,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Sacred.description,Serving others with our bodies is a most sacred duty.,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Sacred.comps.0.description,Sacred duty,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Sacred.comps.1.description,Someone is a sacred prostitute,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Sacred.comps.4.description,Reluctant whore,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Essential.label,Essential,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Essential.description,Serving others with our bodies is a duty.,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Essential.comps.0.description,Dutiful whore,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Essential.comps.1.description,Someone is a prostitute,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Essential.comps.4.description,Reluctant whore,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Accepted.label,Accepted,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Accepted.description,Prostitution is a job like any other.,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Neutral.label,Neutral,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Neutral.description,"Prostitution is something that happens, but I would not want to do it.",description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Neutral.comps.0.description,Unwilling whore,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Horrendous.label,Horrendous,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Horrendous.description,Prostitution is horrendous.,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Horrendous.comps.0.description,Forced whore,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Horrendous.comps.1.description,Someone is a prostitute,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Present_Ritual.label,presenting,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Present_Ritual.description,Present your whores to visitors of your choice,description,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Present_Ritual_Behaviour.spectatorFilter.description,No spectators allowed.,description,RitualBehaviorDef/RitualBehaviorDef.xml,def
+CB_Prostitution_Present_Ritual_Behaviour.letterText,{SPEAKER_labelShort} is presenting your whores to visitors.,letterText,RitualBehaviorDef/RitualBehaviorDef.xml,def
+CB_Prostitution_Present_Ritual_Behaviour.roles.0.label,madam,label,RitualBehaviorDef/RitualBehaviorDef.xml,def
+CB_Prostitution_Present_Ritual_Behaviour.roles.1.label,prostitute,label,RitualBehaviorDef/RitualBehaviorDef.xml,def
+CB_Prostitution_Present_Ritual_Behaviour.roles.1.missingDesc,pawns capable of whoring,missingDesc,RitualBehaviorDef/RitualBehaviorDef.xml,def
+CB_Prostitution_Present_Ritual_Behaviour.roles.2.label,client,label,RitualBehaviorDef/RitualBehaviorDef.xml,def
+CB_Prostitution_Present_Ritual_Behaviour.roles.2.missingDesc,non-hostile visitors,missingDesc,RitualBehaviorDef/RitualBehaviorDef.xml,def
+CB_Prostitution_Present_Ritual_Behaviour.stages.0.postAction.text,"{0}: The speech is over, and the party is beginning.",text,RitualBehaviorDef/RitualBehaviorDef.xml,def
+CB_MadamSpeech.label,presenting prostitutes,label,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.0,r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].,li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [praised] [speechtopic].,li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.2,speechtopic->pleasure,li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.3,speechtopic->orgasms,li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.4,speechtopic->affordable prices,li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.5,speechtopic->[TalkTopicSex],li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.6,speechtopic->[TalkTopicSex],li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.7,speechtopic->lust,li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.8,speechtopic->skilled whores,li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.9,speechtopic->erotic fantasies,li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.10,speechtopic->the link between [talktopicsexfile] and [talktopicsexfile],li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.11,speechtopic->the connection between [talktopicsexfile] and [talktopicsexfile],li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.12,speechtopic->the relationship between [talktopicsexfile] and [talktopicsexfile],li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.13,speechtopic->the link between [talktopicheavyfile] and [talktopicsexfile],li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.14,speechtopic->the connection between [talktopicheavyfile] and [talktopicsexfile],li,InteractionDef/InteractionDef.xml,def
+CB_MadamSpeech.logRulesInitiator.rulesStrings.15,speechtopic->the relationship between [talktopicheavyfile] and [talktopicsexfile],li,InteractionDef/InteractionDef.xml,def
+CB_NoneOutcome.description,No other outcome.,description,RitualOutcomeEffectDef/RitualOutcomeEffectDef.xml,def
+CB_NoneOutcome.comps.0.label,participant count,label,RitualOutcomeEffectDef/RitualOutcomeEffectDef.xml,def
+CB_NoneOutcome.outcomeChances.0.label,None,label,RitualOutcomeEffectDef/RitualOutcomeEffectDef.xml,def
+CB_NoneOutcome.outcomeChances.0.description,Nothing,description,RitualOutcomeEffectDef/RitualOutcomeEffectDef.xml,def
+CB_Prostitution_Specialist.label,Prostitution specialist,label,PreceptDef/PreceptDef.xml,def
+CB_Prostitution_Specialist.description,"Specialised in managing your prostitutes, a madam or a pimp. They present your whores to visitors and increase the success chance when whoring at settlements. Able to convert earned fervour into ideology points.",description,PreceptDef/PreceptDef.xml,def
+CB_NamerRoleWhoring.rulePack.rulesStrings.0,r_roleName(p=4)->[nounInsert],li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleWhoring.rulePack.rulesStrings.1,r_roleName(p=2)->[memeAdjective] [nounInsert],li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleWhoring.rulePack.rulesStrings.2,r_roleName->[nounInsert] of [chosenTheme],li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleWhoring.rulePack.rulesStrings.3,r_roleName->[nounInsert] of [keyDeity],li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleWhoring.rulePack.rulesStrings.4,r_roleName->[nounInsert] of [memeConcept],li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleWhoring.rulePack.rulesStrings.5,r_roleName->[nounInsert] of [chosenIdeoName],li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleWhoring.rulePack.rulesStrings.6,r_roleName->[chosenAdjective] [nounInsert],li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleWhoring.rulePack.rulesStrings.7,r_roleName->[keyDeity]'s [nounInsert],li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.0,nounInsert->whore,li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.1,nounInsert->prostitute,li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.2,nounInsert->temptress,li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.3,nounInsert->madam,li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.4,nounInsert->harlot,li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings.5,nounInsert->seductress,li,RulePackDef/RulePackDef.xml,def
+CB_Prostitution_Sacred_After.stages.0.label,Sacred prostitute,label,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Sacred_After.stages.0.description,I performed my sacred duty towards visitors,description,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Essential_After.stages.0.label,Dutiful prostitute,label,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Essential_After.stages.0.description,I was allowed to offer myself to visitors,description,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Unwilling_After.stages.0.label,Unwilling whore,label,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Unwilling_After.stages.0.description,I was forced to sell myself to visitors,description,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Reluctant_After.stages.0.label,Reluctant prostitute,label,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Reluctant_After.stages.0.description,I whored myself out,description,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Horrendous_After.stages.0.label,Unwilling whore,label,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Horrendous_After.stages.0.description,I was forced to sell myself to visitors,description,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Sacred_NotTrying.stages.0.label,Failing my sacred duty,label,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Sacred_NotTrying.stages.0.description,Blasphemous! It's been so long since I tried offering myself to visitors!,description,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Essential_NotTrying.stages.0.label,Failing my duty,label,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Essential_NotTrying.stages.0.description,It's been so long since I tried offering myself to visitors!,description,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Sacred_Know.stages.0.label,is a sacred prostitute,label,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Essential_Know.stages.0.label,is a prostitute,label,ThoughtDef/ThoughtDef.xml,def
+CB_Prostitution_Horrendous_Know.stages.0.label,is a prostitute,label,ThoughtDef/ThoughtDef.xml,def
+CB_Whoring_Sacred_Required.stages.0.label,Sacred duties upheld,label,ThoughtDef/ThoughtDef.xml,def
+CB_Whoring_Sacred_Required.stages.0.description,Our sacred duty is sharing ourselves with visitors.,description,ThoughtDef/ThoughtDef.xml,def
+CB_Whoring_Sacred_Required.stages.1.label,Mandatory whores failing sacred duties,label,ThoughtDef/ThoughtDef.xml,def
+CB_Whoring_Sacred_Required.stages.1.description,Our mandatory whores haven't performed their sacred duty towards visitors for far too long.,description,ThoughtDef/ThoughtDef.xml,def
+CB_Whoring_Essential_Required.stages.0.label,Duties upheld,label,ThoughtDef/ThoughtDef.xml,def
+CB_Whoring_Essential_Required.stages.0.description,Our duty is sharing ourselves with visitors.,description,ThoughtDef/ThoughtDef.xml,def
+CB_Whoring_Essential_Required.stages.1.label,Mandatory whores failing duties,label,ThoughtDef/ThoughtDef.xml,def
+CB_Whoring_Essential_Required.stages.1.description,Our mandatory whores haven't performed our duty towards visitors for far too long.,description,ThoughtDef/ThoughtDef.xml,def

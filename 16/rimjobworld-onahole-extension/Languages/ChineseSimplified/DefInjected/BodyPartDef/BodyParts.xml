@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--原中文: '触手', 原英文: '无' -> 新英文: 'tentacle',更新于2026-02-14-->
-  <!--EN: tentacle-->
-  <Onahole_Tentacle.label>触手</Onahole_Tentacle.label>
-  <!--原中文: '外壳', 原英文: '无' -> 新英文: 'shell',更新于2026-02-14-->
-  <!--EN: shell-->
-  <Mimic_Shell.label>外壳</Mimic_Shell.label>
-</LanguageData>

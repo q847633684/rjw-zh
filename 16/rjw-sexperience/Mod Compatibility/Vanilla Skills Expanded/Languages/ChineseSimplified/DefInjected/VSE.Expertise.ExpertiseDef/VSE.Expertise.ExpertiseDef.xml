@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: An expert in sexual domination.-->
+  <Dominant.description>精通性支配的专家。</Dominant.description>
+  <!--EN: Dominating-->
+  <Dominant.label>支配中</Dominant.label>
+  <!--EN: A sex craved individual.-->
+  <Hypersexuality.description>一个渴望性爱的个体。</Hypersexuality.description>
+  <!--EN: Sexualizing-->
+  <Hypersexuality.label>性化中</Hypersexuality.label>
+  <!--EN: An experienced person in sex but decided they do not like it.-->
+  <Prude.description>一个有性经验但决定不喜欢性的人。</Prude.description>
+  <!--EN: Pruding-->
+  <Prude.label>保守中</Prude.label>
+  <!--EN: An experienced rapist.-->
+  <Rapist.description>一个经验丰富的强暴者。</Rapist.description>
+  <!--EN: Raping-->
+  <Rapist.label>强暴中</Rapist.label>
+  <!--EN: An expert in sex and sensuous activities.-->
+  <Sensualist.description>精通性爱与感官活动的专家。</Sensualist.description>
+  <!--EN: Sensualising-->
+  <Sensualist.label>感官享受中</Sensualist.label>
+  <!--EN: An expert in sexual submission.-->
+  <Submissive.description>精通性顺从的专家。</Submissive.description>
+  <!--EN: Submitting-->
+  <Submissive.label>顺从</Submissive.label>
+  <!--EN: An expertise in getting raped.-->
+  <Victim.description>擅长被强暴。</Victim.description>
+  <!--EN: Rapee-->
+  <Victim.label>被强暴者</Victim.label>
+</LanguageData>

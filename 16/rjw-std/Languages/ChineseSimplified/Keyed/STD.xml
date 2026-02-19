@@ -7,7 +7,7 @@
   <!--EN: {0} has suffered permanent damage to {1} {2} due to an advancement of {3} infection.-->
   <RJW_Syphilis_Damage_Message>{0}因{3}感染加剧，对{1}{2}造成了永久性损伤。</RJW_Syphilis_Damage_Message>
   <!--EN: Nymph spawn STD multiplier-->
-  <nymph_spawn_with_std_mul> nymph生成时携带性病倍率</nymph_spawn_with_std_mul>
+  <nymph_spawn_with_std_mul>nymph生成时携带性病倍率</nymph_spawn_with_std_mul>
   <!--EN: Multiplier to spawn nymphs with STDs (std base chance * this)-->
   <nymph_spawn_with_std_mul_desc>生成 nymph 时携带性病的倍率（性病基础概率 * 此值）</nymph_spawn_with_std_mul_desc>
   <!--EN: Immunodeficiency spread-->
@@ -23,7 +23,7 @@
   <!--EN: 1.0f - this * RoomStatDefOf.Cleanliness.
 RoomStatDefOf.Cleanliness >= 0-->
   <std_env_pitch_cleanliness_exaggeration_desc>1.0f - 此值 * RoomStatDefOf.Cleanliness。
-RoomStatDefOf.Cleanliness >= 0</std_env_pitch_cleanliness_exaggeration_desc>
+RoomStatDefOf.Cleanliness &gt;= 0</std_env_pitch_cleanliness_exaggeration_desc>
   <!--EN: Dirty rooms spread modifier-->
   <std_env_pitch_dirtiness_exaggeration>肮脏房间传播修正系数</std_env_pitch_dirtiness_exaggeration>
   <!--EN: 1.0f - this * RoomStatDefOf.Cleanliness.

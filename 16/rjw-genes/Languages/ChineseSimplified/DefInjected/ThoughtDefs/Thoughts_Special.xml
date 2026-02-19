@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: {0} has a special vibe, we should hang out more often.-->
-  <rjw_genes_pheromone_carrier_nearby.stages.0.description>{0}有一种特殊的氛围，我们应该经常出去玩。</rjw_genes_pheromone_carrier_nearby.stages.0.description>
-  <!--EN: pheromones-->
-  <rjw_genes_pheromone_carrier_nearby.stages.0.label>信息素</rjw_genes_pheromone_carrier_nearby.stages.0.label>
-</LanguageData>

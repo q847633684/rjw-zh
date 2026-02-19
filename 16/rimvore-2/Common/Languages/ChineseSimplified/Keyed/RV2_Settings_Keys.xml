@@ -151,7 +151,7 @@
   <RV2_Settings_Combat_GrappleStrengthMeleeSkillDivider_Tip>pawn除以这个值乘以他们的近战技能。
 
 示例:
-默认 5 分，Pawn 有近战技能 7，基础格斗强度是 10-> (7/5) * 10 = 14</RV2_Settings_Combat_GrappleStrengthMeleeSkillDivider_Tip>
+默认 5 分，Pawn 有近战技能 7，基础格斗强度是 10-&gt; (7/5) * 10 = 14</RV2_Settings_Combat_GrappleStrengthMeleeSkillDivider_Tip>
   <!--EN: Grapples will time-out after {0}-->
   <RV2_Settings_Combat_GrappleTimeoutExplanation>格斗将在之后超时{0}</RV2_Settings_Combat_GrappleTimeoutExplanation>
   <!--EN: Grapple timeout ticks-->
@@ -288,7 +288,7 @@
   <!--EN: Goal switching-->
   <RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching>目标切换</RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching>
   <!--EN: Note: Enabling this means that pawns that predators can switch the vore goal (pleasure -> digest) on their prey even if they are not designated as fatal prey!-->
-  <RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching_Tip>注意: 启用这意味着捕食者的 pawns 可以转变该吃人目标 (愉悦-> 消化) 猎物，即使他们没有被指定为致命的猎物!</RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching_Tip>
+  <RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching_Tip>注意: 启用这意味着捕食者的 pawns 可以转变该吃人目标 (愉悦-&gt; 消化) 猎物，即使他们没有被指定为致命的猎物!</RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching_Tip>
   <!--EN: Kidnapping raiders-->
   <RV2_Settings_Features_IgnoreDesignations_KidnappingRaiders>绑架袭击者</RV2_Settings_Features_IgnoreDesignations_KidnappingRaiders>
   <!--EN: Note: Vore-napping raiders will always use the Store goal-->

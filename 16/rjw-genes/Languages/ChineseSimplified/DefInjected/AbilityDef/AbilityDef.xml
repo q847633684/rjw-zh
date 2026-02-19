@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Eat the cock of another pawn, restoring fertilin based on the size of the cock.-->
+  <rjw_genes_ability_cockeater.description>食用（吞噬）另一个小人的生殖器，并根据其尺寸恢复致育素（Fertilin）。</rjw_genes_ability_cockeater.description>
+  <!--EN: eat cock-->
+  <rjw_genes_ability_cockeater.label>吃鸡巴</rjw_genes_ability_cockeater.label>
+  <!--EN: Weaves the victim into a (self-sustaining) cocoon. The victim cannot move, but can be bred.-->
+  <rjw_genes_ability_cocoonweaver.description>将受害者编织成一个（可自我维持的）茧。受害者无法移动，但可以被繁殖。</rjw_genes_ability_cocoonweaver.description>
+  <!--EN: cocoon-->
+  <rjw_genes_ability_cocoonweaver.label>茧</rjw_genes_ability_cocoonweaver.label>
+  <!--EN: Fly to a short location using your wings.-->
+  <rjw_genes_ability_flight.description>使用你的翅膀短距离飞行到指定位置。</rjw_genes_ability_flight.description>
+  <!--EN: fly-->
+  <rjw_genes_ability_flight.label>飞行</rjw_genes_ability_flight.label>
+  <!--EN: fly-->
+  <rjw_genes_ability_flight.verbProperties.label>飞行</rjw_genes_ability_flight.verbProperties.label>
+  <!--EN: Calls nearby animals to breed me.-->
+  <rjw_genes_ability_mating_call.description>呼唤附近的动物来与我交配。</rjw_genes_ability_mating_call.description>
+  <!--EN: Mating Call-->
+  <rjw_genes_ability_mating_call.label>交配呼唤</rjw_genes_ability_mating_call.label>
+  <!--EN: Enhance the strength and resilience of your naked body with fertilin.-->
+  <rjw_genes_ability_naked_prowess.description>使用致育素增强裸体的力量和韧性。</rjw_genes_ability_naked_prowess.description>
+  <!--EN: naked prowess-->
+  <rjw_genes_ability_naked_prowess.label>裸身威能</rjw_genes_ability_naked_prowess.label>
+  <!--EN: Paralyse someone briefly with a kiss.-->
+  <rjw_genes_ability_paralysingkiss.description>用一个吻短暂麻痹目标。</rjw_genes_ability_paralysingkiss.description>
+  <!--EN: paralysing kiss-->
+  <rjw_genes_ability_paralysingkiss.label>麻痹之吻</rjw_genes_ability_paralysingkiss.label>
+  <!--EN: Spit a condensed ball of animal pheromones to mark a target. Nearby Animals will try to breed the target. This means all animals - hostile, friendly and wild.-->
+  <rjw_genes_ability_pheromone_spit.description>吐出一个浓缩的动物信息素球来标记目标。附近的动物会试图与目标交配。这意味着所有动物——敌对的、友好的和野生的。</rjw_genes_ability_pheromone_spit.description>
+  <!--EN: pheromone spit-->
+  <rjw_genes_ability_pheromone_spit.label>信息素喷吐</rjw_genes_ability_pheromone_spit.label>
+  <!--EN: Rape another pawn, so you can heal them with your vagina's special healing power.-->
+  <rjw_genes_ability_pussyheal.description>强奸另一个角色，以便用你阴道的特殊治愈力量来治疗他们。</rjw_genes_ability_pussyheal.description>
+  <!--EN: sexheal-->
+  <rjw_genes_ability_pussyheal.label>性愈</rjw_genes_ability_pussyheal.label>
+  <!--EN: Seduce the target to approach the caster.-->
+  <rjw_genes_ability_seduce.description>诱惑目标，使其接近施法者。</rjw_genes_ability_seduce.description>
+  <!--EN: seduce-->
+  <rjw_genes_ability_seduce.label>诱惑</rjw_genes_ability_seduce.label>
+</LanguageData>

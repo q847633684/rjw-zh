@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Designators: {0}-->
-  <MainTabWindow_Designators>选择对象</MainTabWindow_Designators>
+  <MainTabWindow_Designators>选择对象{0}</MainTabWindow_Designators>
   <!--EN: Is pawn Breeder?-->
   <PawnColumnWorker_IsBreeder>这个人是配种对象吗？</PawnColumnWorker_IsBreeder>
   <!--EN: Is pawn Comfort Pawn?-->

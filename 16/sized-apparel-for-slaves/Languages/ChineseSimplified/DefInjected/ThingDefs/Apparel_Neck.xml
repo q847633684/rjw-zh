@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Put the collar on the target-->
-  <Slave_Collar.comps.0.useLabel>给目标戴上项圈</Slave_Collar.comps.0.useLabel>
-  <!--EN: A heavy metal ring locked on the neck with a long chain leash, reminding the wearer of their situation at all times.-->
-  <Slave_Collar.description>一个锁在脖子上的沉重金属环，带有长链牵绳，时刻提醒着佩戴者自己的处境。</Slave_Collar.description>
-  <!--EN: Slave collar-->
-  <Slave_Collar.label>奴隶项圈</Slave_Collar.label>
-</LanguageData>

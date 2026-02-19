@@ -1,0 +1,52 @@
+key,text,tag,file,type
+RV2_Settings_TabNames_RJW,RimJobWorld,RV2_Settings_TabNames_RJW,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_BaseSexEjectChance,Prey eject chance during sex,RV2_RJW_Settings_BaseSexEjectChance,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_BaseSexEjectChance_Tip,The base chance that a predator will release prey in an appropriate sexual part during sex. This chance can be modified by quirks!,RV2_RJW_Settings_BaseSexEjectChance_Tip,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_VaginalVoreAbortsPregnancies,Vaginal vore aborts pregnancies,RV2_RJW_Settings_VaginalVoreAbortsPregnancies,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_VaginalVoreAbortsPregnancies_Tip,"Turning this on will cause any vaginal vore to terminate pregnancies, no matter how far progressed they are. The abortion will happen once the prey enters the womb.",RV2_RJW_Settings_VaginalVoreAbortsPregnancies_Tip,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_PostSexProposalChance,After sex proposal chance,RV2_RJW_Settings_PostSexProposalChance,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_PostSexProposalChance_Tip,The chance that the sex initiator proposes vore to the sex recipient,RV2_RJW_Settings_PostSexProposalChance_Tip,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_PostSexProposalsAreForced,After sex proposals are forced?,RV2_RJW_Settings_PostSexProposalsAreForced,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_PostSexProposalsAreForced_Tip,Means the vore is done non-consensually and the acceptance chance is skipped,RV2_RJW_Settings_PostSexProposalsAreForced_Tip,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_PostRapeProposalChance,After rape proposal chance,RV2_RJW_Settings_PostRapeProposalChance,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_PostRapeProposalChance_Tip,The chance that the rape initiator proposes vore to the raped pawn,RV2_RJW_Settings_PostRapeProposalChance_Tip,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_PostRapeProposalsAreForced,After rape proposals are forced?,RV2_RJW_Settings_PostRapeProposalsAreForced,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_PostRapeProposalsAreForced_Tip,Means the vore is done non-consensually and the acceptance chance is skipped,RV2_RJW_Settings_PostRapeProposalsAreForced_Tip,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_EjectNotificationType,Sex eject notification,RV2_RJW_Settings_EjectNotificationType,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_TransferNotificationType,Sex transfer notification,RV2_RJW_Settings_TransferNotificationType,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_BestialityIsRape,Bestiality is rape,RV2_RJW_Settings_BestialityIsRape,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_BestialityIsRape_Tip,"Turning this on will make all sex with animals lead to forced after-sex proposals.\n\nRJW always flags bestiality as rape - which means post sex proposals would always be forced, RV-2 disables this logic by default.\n\nUsing this setting allows RV-2 to properly calculate proposal success chance based on the initiators animal handling skill instead of assuming forced proposals without partner consent.\n\nThis does not change how RJW treats rape or bestiality, merely how RV-2 evaluates if the proposal is forced or not!",RV2_RJW_Settings_BestialityIsRape_Tip,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_DisableVoreGrappleDuringSex,Disable vore grapple during sex,RV2_RJW_Settings_DisableVoreGrappleDuringSex,RV2_RJWKeys.xml,keyed
+RV2_RJW_Settings_DisableVoreGrappleDuringSex_Tip,"Mostly relates to rape beating, turning this on will prevent rapists from vore-grappling their rape target.",RV2_RJW_Settings_DisableVoreGrappleDuringSex_Tip,RV2_RJWKeys.xml,keyed
+RV2_RJW_PreySexEjectLabel,Prey ejected,RV2_RJW_PreySexEjectLabel,RV2_RJWKeys.xml,keyed
+RV2_RJW_PreySexEjectDescription,{GIVER} and {RECEIVER} had sex ({SEX}) while {GIVER} has prey {OLDVORETYPE} vored. {GIVER} ejected {PREY} due to orgasm.,RV2_RJW_PreySexEjectDescription,RV2_RJWKeys.xml,keyed
+RV2_RJW_PreySexTransferLabel,Prey transferred,RV2_RJW_PreySexTransferLabel,RV2_RJWKeys.xml,keyed
+RV2_RJW_PreySexTransferDescription,{GIVER} and {RECEIVER} had sex ({SEX}) while {GIVER} has prey {OLDVORETYPE} vored. {RECEIVER} is now {NEWVORETYPE} ({NEWVOREGOAL}) voring {PREY}.,RV2_RJW_PreySexTransferDescription,RV2_RJWKeys.xml,keyed
+RV2_RJW_PostSexProposalChance.label,Post sex proposal,label,RimVore2.QuirkPoolDef/RimVore2.QuirkPoolDef.xml,def
+RV2_RJW_PostSexProposalChance.description,These quirks determine how if or how often a pawn proposes vore after sexual interactions.,description,RimVore2.QuirkPoolDef/RimVore2.QuirkPoolDef.xml,def
+RV2_RJW_PostSexProposalChance_Always.label,Exclusive,label,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_PostSexProposalChance_Always.description,"[PAWN_label] just can't get off unless there's someone squirming away inside [PAWN_possessive], and will always propose vore after sex.",description,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_PostSexProposalChance_Often.label,Enthusiastic,label,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_PostSexProposalChance_Often.description,"[PAWN_label] enjoys the feeling of a post-coital internal massage, and is twice as likely to propose vore after sex.",description,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_PostSexProposalChance_Normal.label,Indifferent,label,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_PostSexProposalChance_Normal.description,"[PAWN_label] has no strong feelings about vore, and will propose it after sex as often as the next person.",description,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_PostSexProposalChance_Rare.label,Disinterested,label,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_PostSexProposalChance_Rare.description,"[PAWN_label] doesn't care much for involving vore in [PAWN_possessive] sex life, and is half as likely to propose it after sex.",description,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_PostSexProposalChance_Never.label,Revulsed,label,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_PostSexProposalChance_Never.description,[PAWN_label] cannot fathom the idea of being turned on by vore after sex. Keep it out of the bedroom.,description,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_SexVoreEjectChance.label,Sex eject chance,label,RimVore2.QuirkPoolDef/RimVore2.QuirkPoolDef.xml,def
+RV2_RJW_SexVoreEjectChance.description,These quirks determine how often the pawn ejects or transfers their prey during sexual interactions.,description,RimVore2.QuirkPoolDef/RimVore2.QuirkPoolDef.xml,def
+RV2_RJW_SexEjectChance_Always.label,Extra Loose,label,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_SexEjectChance_Always.description,"[PAWN_label] just can't keep prey inside $pAccself, any time [PAWN_pronoun] has sex and could eject [PAWN_possessive] prey, [PAWN_pronoun] will.",description,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_SexEjectChance_Often.label,Loose,label,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_SexEjectChance_Often.description,"[PAWN_label] has a loose grip on $pAcc prey, so [PAWN_pronoun] is 50% more likely to leave her ownership once [PAWN_pronoun] gets down and busy.",description,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_SexEjectChance_Normal.label,Normal,label,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_SexEjectChance_Normal.description,[PAWN_label] ejects prey as often as anyone else.,description,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_SexEjectChance_Rare.label,Rare,label,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_SexEjectChance_Rare.description,"[PAWN_label] knows how to keep [PAWN_possessive] prey inside, [PAWN_pronoun] is only half as likely to eject [PAWN_possessive] prey.",description,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_SexEjectChance_Never.label,Iron Hold,label,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_SexEjectChance_Never.description,"[PAWN_label] runs a tight ship and even tigher innards, [PAWN_pronoun] will never eject or transfer prey.",description,RimVore2.QuirkDef/RimVore2.QuirkDef.xml,def
+RV2_RJW_VoreTransfer_Receiver.label,Vore: Received prey during sex,label,RecordDef/RecordDef.xml,def
+RV2_RJW_VoreTransfer_Receiver.description,The number of times someone transferred a prey into me during sex.,description,RecordDef/RecordDef.xml,def
+RV2_RJW_VoreTransfer_Giver.label,Vore: Gave prey during sex,label,RecordDef/RecordDef.xml,def
+RV2_RJW_VoreTransfer_Giver.description,The number of times I transferred prey into someone during sex.,description,RecordDef/RecordDef.xml,def

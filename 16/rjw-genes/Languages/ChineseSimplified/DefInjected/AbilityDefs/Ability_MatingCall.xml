@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Calls nearby animals to breed me.-->
-  <rjw_genes_ability_mating_call.description>呼唤附近的动物来与我交配。</rjw_genes_ability_mating_call.description>
-  <!--EN: Mating Call-->
-  <rjw_genes_ability_mating_call.label>交配呼唤</rjw_genes_ability_mating_call.label>
-</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Boobitis is a highly contagious mechanite plague that causes permanent breast growth if left untreated. It was initialy created as a harmless glittertech "party drug" but has since mutated and spread to virtually every human colony.-->
+  <Boobitis.description>乳房机械液炎是一种高度传染性的机械液瘟疫，如果不加以治疗，会导致乳房永久性增长。它最初是作为一种无害的闪耀科技“派对药物”被创造出来的，但此后发生了变异，并传播到了几乎每一个人形殖民地。</Boobitis.description>
+  <!--EN: boobitis-->
+  <Boobitis.label>乳房机械液炎</Boobitis.label>
+  <!--EN: HIV consists of two parts: an acute and a chronic infection. Both parts follow the same course, reducing the infected pawn's blood filtration as their severity increases. The acute phase progresses rapidly but can be fought by the pawn's immune system, whereas the chronic phase progresses very slowly but can never be cured. Treatment can modestly slow the progress of the disease.-->
+  <HIV.description>HIV 由两部分组成：急性感染和慢性感染。两者遵循相同的病程，随着严重程度增加，降低受感染角色的血液过滤能力。急性期进展迅速，但可以被角色的免疫系统对抗，而慢性期进展非常缓慢，但永远无法治愈。治疗可以适度减缓疾病的进展。</HIV.description>
+  <!--EN: HIV-->
+  <HIV.label>HIV</HIV.label>
+  <!--EN: Herpes is an incurable but nonfatal disease. Affected pawns experience pain and itchiness in the affected body parts. Treatment is effective at reducing the intensity of the symptoms.-->
+  <Herpes.description>疱疹是一种无法治愈但不致命的疾病。受感染的角色在患处会感到疼痛和瘙痒。治疗可有效减轻症状的强度。</Herpes.description>
+  <!--EN: herpes-->
+  <Herpes.label>疱疹</Herpes.label>
+  <!--EN: Syphilis is a serious disease that affects the mind. If left untreated, it leads to corrupted thoughts, mood problems, potential permanent damage to the brain, liver, and kidneys, and, ultimately, death. The good news is that it is easily defeated by proper treatment.-->
+  <Syphilis.description>梅毒是一种影响精神的严重疾病。如果不加以治疗，会导致思想堕落、情绪问题，可能对大脑、肝脏和肾脏造成永久性损伤，并最终导致死亡。好消息是，通过适当的治疗很容易治愈。</Syphilis.description>
+  <!--EN: syphilis-->
+  <Syphilis.label>梅毒</Syphilis.label>
+  <!--EN: Genital warts are unsightly and cause an itching/burning sensation. They are easily treated and never fatal.-->
+  <Warts.description>生殖器疣有碍观瞻，并会引起瘙痒/灼烧感。它们易于治疗，且绝不致命。</Warts.description>
+  <!--EN: warts-->
+  <Warts.label>疣</Warts.label>
+</LanguageData>
