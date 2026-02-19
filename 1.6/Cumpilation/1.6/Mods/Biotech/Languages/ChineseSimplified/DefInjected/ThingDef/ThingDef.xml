@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: slugspunk-->
+  <Cumpilation_SlugFilth.label>鼻涕虫朋克</Cumpilation_SlugFilth.label>
+  <!--EN: A dangerous and creative way to deal with Wastepacks - distilled into a concentrated serum, it changes the users cum temporary into a toxic slug. Consumption will also lead to minor toxic buildup, which might get worse if the users body cannot have its fluids changed.-->
+  <Cumpilation_Sluggerdrop.description>处理废物包的一种危险且创造性的方法 - 蒸馏成浓缩血清，它将使用者精液暂时变成有毒的鼻涕虫。食用还会导致轻微的毒性累积，如果使用者的身体无法更换液体，情况可能会变得更糟。</Cumpilation_Sluggerdrop.description>
+  <!--EN: Inject {0}-->
+  <Cumpilation_Sluggerdrop.ingestible.ingestCommandString>注入 {0}</Cumpilation_Sluggerdrop.ingestible.ingestCommandString>
+  <!--EN: Injecting {0}.-->
+  <Cumpilation_Sluggerdrop.ingestible.ingestReportString>正在注入 {0}。</Cumpilation_Sluggerdrop.ingestible.ingestReportString>
+  <!--EN: slugger drops-->
+  <Cumpilation_Sluggerdrop.label>重击手掉落</Cumpilation_Sluggerdrop.label>
+  <!--EN: A dangerous and creative way to deal with Wastepacks - distilled into a concentrated serum, it permanently changes the users cum into a toxic slug. Consumption will also lead to toxic buildup, which gets drastically worse if the users body cannot have its fluids changed.-->
+  <Cumpilation_Slugmorpher.description>处理废物包的一种危险且创造性的方法 - 蒸馏成浓缩血清，它会永久地将使用者精液变成有毒的蛞蝓。食用还会导致有毒物质积累，如果使用者的身体不能更换液体，情况会变得更加严重。</Cumpilation_Slugmorpher.description>
+  <!--EN: Inject {0}-->
+  <Cumpilation_Slugmorpher.ingestible.ingestCommandString>注入 {0}</Cumpilation_Slugmorpher.ingestible.ingestCommandString>
+  <!--EN: Injecting {0}.-->
+  <Cumpilation_Slugmorpher.ingestible.ingestReportString>正在注入 {0}。</Cumpilation_Slugmorpher.ingestible.ingestReportString>
+  <!--EN: slug morpher-->
+  <Cumpilation_Slugmorpher.label>蛞蝓变形者</Cumpilation_Slugmorpher.label>
+</LanguageData>

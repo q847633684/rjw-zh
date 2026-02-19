@@ -1,0 +1,10 @@
+key,text,tag,file,type
+WhoreBeds.label,Whore beds,label,ConceptDefs\Concepts_WhoreBeds.xml,def
+ImprovedSleepingSpot.label,basic mat,label,ThingDefs\Items_WhoreBeds.xml,def
+ImprovedSleepingSpot.description,"A simple wooden mat for resting and emergencies. Not very comfortable, but quick and cheap to build.",description,ThingDefs\Items_WhoreBeds.xml,def
+RJW_Bed.label,posh bed,label,ThingDefs\Items_WhoreBeds.xml,def
+RJW_Bed.description,A comfy mattress and sheets on a frame for resting.,description,ThingDefs\Items_WhoreBeds.xml,def
+RJW_DoubleBed.label,posh double bed,label,ThingDefs\Items_WhoreBeds.xml,def
+RJW_DoubleBed.description,"A comfy double-wide bed for two, this model is sometimes used in brothels.",description,ThingDefs\Items_WhoreBeds.xml,def
+RJW_RoyalBed.label,luxurious double bed,label,ThingDefs\Items_WhoreBeds.xml,def
+RJW_RoyalBed.description,"An elegant gold-inlaid double bed, this model is sometimes used in high-end bordellos. Comfy and beautiful.",description,ThingDefs\Items_WhoreBeds.xml,def

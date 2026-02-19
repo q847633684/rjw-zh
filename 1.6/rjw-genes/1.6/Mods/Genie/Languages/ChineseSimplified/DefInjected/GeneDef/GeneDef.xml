@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: The carrier has a natural curiosity for sex which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in sex completely.-->
+  <VRE_Curiosity_Sex.description>携带者对性有天然的好奇心，每当学习性技巧时都能获得娱乐值。此外，这种好奇心能完全防止性技巧的衰减。</VRE_Curiosity_Sex.description>
+  <!--EN: sex curiosity-->
+  <VRE_Curiosity_Sex.label>性好奇</VRE_Curiosity_Sex.label>
+</LanguageData>

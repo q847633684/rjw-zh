@@ -1,0 +1,725 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <RV2_Goal_Convert.rulePack.rulesStrings>
+    <!--EN: RV2_addendum->to turn [PREY_definite] into [RV2_goalProduct]-->
+    <li>RV2_addendum-&gt;转向[PREY_definite]入[RV2_goalProduct]</li>
+    <!--EN: RV2_addendum->to convert into [RV2_goalProduct]-->
+    <li>RV2_addendum-&gt;将教化为[RV2_goalProduct]</li>
+    <!--EN: RV2_addendum->to become [RV2_goalProduct] inside [PREDATOR_pronoun]-->
+    <li>RV2_addendum-&gt;成为[RV2_goalProduct]内[PREDATOR_pronoun]</li>
+    <!--EN: RV2_goalFinish_verb->converting into [RV2_goalProduct]-->
+    <li>RV2_goalFinish_verb-&gt;教化为[RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_verb->breaking down into [RV2_goalProduct]-->
+    <li>RV2_goalFinish_verb-&gt;破体死亡[RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_noun->conversion into [RV2_goalProduct]-->
+    <li>RV2_goalFinish_noun-&gt;教化为[RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_noun->break down into [RV2_goalProduct]-->
+    <li>RV2_goalFinish_noun-&gt;分解为[RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] turning into [RV2_goalProduct] by [PREDATOR_definite]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]变成[RV2_goalProduct]由[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREDATOR_definite] turning [PREY_definite] into [PREDATOR_possessive] [RV2_goalProduct]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREDATOR_definite]转向[PREY_definite]入[PREDATOR_possessive][RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] becoming [RV2_goalProduct]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]成为[RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] as [PREDATOR_possessive] [RV2_goalProduct]-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]机械体[PREDATOR_possessive][RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_image->a collection of [RV2_goalProduct] made from [PREY_definite]-->
+    <li>RV2_goalFinish_image-&gt;一个[RV2_goalProduct]制作于[PREY_definite]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->Nothing identifiable remains of [PREY_definite].-->
+    <li>RV2_goalFinish_desc_sentence-&gt;没有可识别的残骸[PREY_definite]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->The resulting [RV2_goalProduct] tastes like [PREY_definite] looked.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;产生的[RV2_goalProduct]味道就像[PREY_definite]看了一下。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] had everyone taste [PREDATOR_possessive] [RV2_goalProduct] before telling them it was [PREY_definite].-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]每个人都尝过[PREDATOR_possessive][RV2_goalProduct]在告诉他们是之前[PREY_definite]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] snuck a taste of [PREDATOR_possessive] own [RV2_goalProduct] to see what [PREY_definite] tasted like.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]偷偷溜出味道[PREDATOR_possessive]拥有[RV2_goalProduct]看什么[PREY_definite]味道不错。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_definite] was better as [RV2_goalProduct] than walking around.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_definite]优于[RV2_goalProduct]也不愿四处走动。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_definite] really left a strange aftertaste in [PREDATOR_possessive] [RV2_goalProduct].-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_definite]真正留下异样的余味是在[PREDATOR_possessive][RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->The [RV2_goalProduct] may go to waste, but [PREDATOR_definite] had fun making it.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;该[RV2_goalProduct]可能会被浪费，但是[PREDATOR_definite]制作愉快。</li>
+  </RV2_Goal_Convert.rulePack.rulesStrings>
+  <RV2_Goal_ConvertLube.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_goalProduct->lube-->
+    <li>RV2_goalProduct-&gt;润滑油</li>
+    <!--EN: RV2_goalProduct->lubricant-->
+    <li>RV2_goalProduct-&gt;润滑剂</li>
+    <!--EN: RV2_goalProduct->squirt-->
+    <li>RV2_goalProduct-&gt;喷射兽</li>
+    <!--EN: RV2_adverb->lustily-->
+    <li>RV2_adverb-&gt;甜美</li>
+    <!--EN: RV2_adverb->lovingly-->
+    <li>RV2_adverb-&gt;亲切地</li>
+    <!--EN: RV2_adverb->hornily-->
+    <li>RV2_adverb-&gt;疯狂</li>
+    <!--EN: RV2_adjective->lusty-->
+    <li>RV2_adjective-&gt;天性豁达</li>
+    <!--EN: RV2_adjective->horny-->
+    <li>RV2_adjective-&gt;性欲旺盛的</li>
+    <!--EN: RV2_addendum->to churn [PREY_definite] in [PREDATOR_possessive] vagina-->
+    <li>RV2_addendum-&gt;倾泻[PREY_definite]于[PREDATOR_possessive]阴道</li>
+    <!--EN: RV2_goalFinish_verb->lubrifying-->
+    <li>RV2_goalFinish_verb-&gt;发狂</li>
+    <!--EN: RV2_goalFinish_noun->lubrify-->
+    <li>RV2_goalFinish_noun-&gt;日光</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] lubricating [PREDATOR_possessive] vagina-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]润滑[PREDATOR_possessive]阴道</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] lining the inside of [PREDATOR_possessive] vagina-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]内衬[PREDATOR_possessive]阴道</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] dripping out of [PREDATOR_possessive] vagina as [RV2_goalProduct]-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]从[PREDATOR_possessive]阴道机械体[RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] made a mess of [PREY_definite] on the ground.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]弄得一团糟[PREY_definite]在地上。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_possessive] [RV2_goalProduct] puddle was very noticeable.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_possessive][RV2_goalProduct]水洼非常引人注目。</li>
+  </RV2_Goal_ConvertLube.rulePack.rulesStrings>
+  <RV2_Goal_ConvertMilk.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_goalProduct->milk-->
+    <li>RV2_goalProduct-&gt;奶白</li>
+    <!--EN: RV2_goalProduct->breastmilk-->
+    <li>RV2_goalProduct-&gt;乳房喷出液体（通常是乳汁）。是挤奶的前置标签。喂养</li>
+    <!--EN: RV2_adverb->motherly-->
+    <li>RV2_adverb-&gt;慈母</li>
+    <!--EN: RV2_addendum->to churn [PREY_definite] in [PREDATOR_possessive] mammaries-->
+    <li>RV2_addendum-&gt;倾泻[PREY_definite]于[PREDATOR_possessive]哺乳动物</li>
+    <!--EN: RV2_goalFinish_verb->milkifying-->
+    <li>RV2_goalFinish_verb-&gt;迅速</li>
+    <!--EN: RV2_goalFinish_noun->milkify-->
+    <li>RV2_goalFinish_noun-&gt;轻机枪飞</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREDATOR_definite] engorging [PREDATOR_pronoun] breasts with [RV2_goalProduct]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREDATOR_definite]膨胀[PREDATOR_pronoun]乳房伴[RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] as a nice glass of [RV2_goalProduct] on the table-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]作为一个好地方玻璃来自[RV2_goalProduct]在桌子上</li>
+    <!--EN: RV2_goalFinish_image->someone drinking [PREDATOR_possessive] [RV2_goalProduct] from the glass-->
+    <li>RV2_goalFinish_image-&gt;有人在喝酒[PREDATOR_possessive][RV2_goalProduct]从玻璃</li>
+  </RV2_Goal_ConvertMilk.rulePack.rulesStrings>
+  <RV2_Goal_ConvertSperm.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_goalProduct->sperm-->
+    <li>RV2_goalProduct-&gt;精子</li>
+    <!--EN: RV2_goalProduct->cum-->
+    <li>RV2_goalProduct-&gt;精液</li>
+    <!--EN: RV2_goalProduct->baby batter-->
+    <li>RV2_goalProduct-&gt;婴儿击球手</li>
+    <!--EN: RV2_goalProduct->spooge-->
+    <li>RV2_goalProduct-&gt;诡异</li>
+    <!--EN: RV2_adverb->lustily-->
+    <li>RV2_adverb-&gt;甜美</li>
+    <!--EN: RV2_adverb->lovingly-->
+    <li>RV2_adverb-&gt;亲切地</li>
+    <!--EN: RV2_adverb->hornily-->
+    <li>RV2_adverb-&gt;疯狂</li>
+    <!--EN: RV2_adjective->horny-->
+    <li>RV2_adjective-&gt;性欲旺盛的</li>
+    <!--EN: RV2_addendum->to churn [PREY_definite] in [PREDATOR_possessive] balls-->
+    <li>RV2_addendum-&gt;倾泻[PREY_definite]于[PREDATOR_possessive]球</li>
+    <!--EN: RV2_addendum->to churn [PREY_definite] in [PREDATOR_possessive] sack-->
+    <li>RV2_addendum-&gt;倾泻[PREY_definite]于[PREDATOR_possessive]麻袋</li>
+    <!--EN: RV2_addendum->to prepare for [PREDATOR_possessive] next session-->
+    <li>RV2_addendum-&gt;准备工作[PREDATOR_possessive]下一届</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] as a condom of [RV2_goalProduct] on the ground-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]作为一个塑料套，旨在保护使用者和其伙伴免受不必要的性病以及怀孕。来自[RV2_goalProduct]在地面上</li>
+    <!--EN: RV2_goalFinish_image->someone eating [PREDATOR_possessive] [RV2_goalProduct] from the condom-->
+    <li>RV2_goalFinish_image-&gt;有人在吃[PREDATOR_possessive][RV2_goalProduct]从塑料套，旨在保护使用者和其伙伴免受不必要的性病以及怀孕。</li>
+  </RV2_Goal_ConvertSperm.rulePack.rulesStrings>
+  <RV2_Goal_Digest.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_digestion_product->an indiscernible glob-->
+    <li>RV2_digestion_product-&gt;难以辨别的 glob</li>
+    <!--EN: RV2_digestion_product->mush-->
+    <li>RV2_digestion_product-&gt;糊状物</li>
+    <!--EN: RV2_digestion_product->paste-->
+    <li>RV2_digestion_product-&gt;粘贴</li>
+    <!--EN: RV2_digestion_meal_adjective->disappointing-->
+    <li>RV2_digestion_meal_adjective-&gt;令人失望</li>
+    <!--EN: RV2_digestion_meal_adjective->boring-->
+    <li>RV2_digestion_meal_adjective-&gt;枯燥乏味的</li>
+    <!--EN: RV2_digestion_meal_adjective->simple-->
+    <li>RV2_digestion_meal_adjective-&gt;简单</li>
+    <!--EN: RV2_digestion_meal_adjective->fair-->
+    <li>RV2_digestion_meal_adjective-&gt;美丽的</li>
+    <!--EN: RV2_digestion_meal_adjective->nice-->
+    <li>RV2_digestion_meal_adjective-&gt;友好的</li>
+    <!--EN: RV2_digestion_meal_adjective->delicious-->
+    <li>RV2_digestion_meal_adjective-&gt;味道不错</li>
+    <!--EN: RV2_digestion_meal_adjective->exellent-->
+    <li>RV2_digestion_meal_adjective-&gt;超凡者</li>
+    <!--EN: RV2_digestion_meal_noun->snack-->
+    <li>RV2_digestion_meal_noun-&gt;小食</li>
+    <!--EN: RV2_digestion_meal_noun->meal-->
+    <li>RV2_digestion_meal_noun-&gt;烹饪食品</li>
+    <!--EN: RV2_digestion_meal_noun->feast-->
+    <li>RV2_digestion_meal_noun-&gt;盛宴</li>
+    <!--EN: RV2_digestion_meal->[RV2_digestion_meal_noun]-->
+    <li>RV2_digestion_meal-&gt;[RV2_digestion_meal_noun]</li>
+    <!--EN: RV2_digestion_meal->[RV2_digestion_meal_adjective] [RV2_digestion_meal_noun]-->
+    <li>RV2_digestion_meal-&gt;[RV2_digestion_meal_adjective] [RV2_digestion_meal_noun]</li>
+    <!--EN: RV2_adverb->hungrily-->
+    <li>RV2_adverb-&gt;饥渴</li>
+    <!--EN: RV2_adverb->gluttonously-->
+    <li>RV2_adverb-&gt;暴饮暴食</li>
+    <!--EN: RV2_adjective->hungry-->
+    <li>RV2_adjective-&gt;饥饿</li>
+    <!--EN: RV2_adjective->gluttonous-->
+    <li>RV2_adjective-&gt;暴食</li>
+    <!--EN: RV2_addendum->to satisfy [PREDATOR_possessive] hunger-->
+    <li>RV2_addendum-&gt;满足[PREDATOR_possessive]饥渴</li>
+    <!--EN: RV2_addendum->to feed [PREDATOR_objective]-->
+    <li>RV2_addendum-&gt;喂养[PREDATOR_objective]</li>
+    <!--EN: RV2_addendum->to sustain [PREDATOR_objective]-->
+    <li>RV2_addendum-&gt;维持[PREDATOR_objective]</li>
+    <!--EN: RV2_addendum->for the calories-->
+    <li>RV2_addendum-&gt;对于卡路里</li>
+    <!--EN: RV2_addendum->for sustenance-->
+    <li>RV2_addendum-&gt;作为食物</li>
+    <!--EN: RV2_goalFinish_verb->digesting-->
+    <li>RV2_goalFinish_verb-&gt;正在消化</li>
+    <!--EN: RV2_goalFinish_noun->digestion-->
+    <li>RV2_goalFinish_noun-&gt;被消化</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] turning into [RV2_digestion_product]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]变成[RV2_digestion_product]</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] turning into [RV2_digestion_product] inside of [PREDATOR_definite]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]变成[RV2_digestion_product]位于[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] being digested by [PREDATOR_definite]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]被消化[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] satiating [PREDATOR_possessive] hunger-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]满足[PREDATOR_possessive]饥渴</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_definite] has turned into [RV2_digestion_product].-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_definite]已变成[RV2_digestion_product]</li>
+    <!--EN: RV2_goalFinish_desc_sentence(p=5)->[PREY_definite] was a [RV2_digestion_meal] for [PREDATOR_definite].-->
+    <li>RV2_goalFinish_desc_sentence(p=5)-&gt;[PREY_definite]曾是一个[RV2_digestion_meal]与[PREDATOR_definite]</li>
+  </RV2_Goal_Digest.rulePack.rulesStrings>
+  <RV2_Goal_Endo.rulePack.rulesStrings>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] popping out of [PREDATOR_definite]-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]弹出[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_image->[PREDATOR_definite] pushing [PREY_definite] out-->
+    <li>RV2_goalFinish_image-&gt;[PREDATOR_definite]推挤[PREY_definite]Out</li>
+    <!--EN: RV2_goalFinish_image->[PREDATOR_definite] walking away from [PREY_definite]-->
+    <li>RV2_goalFinish_image-&gt;[PREDATOR_definite]离开[PREY_definite]</li>
+    <!--EN: RV2_goalFinish_image->[PREDATOR_definite] checking on [PREY_definite]-->
+    <li>RV2_goalFinish_image-&gt;[PREDATOR_definite]校对[PREY_definite]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_pronoun] had to get back to regular life.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_pronoun]必须回归正常生活。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_pronoun] was ready to get out of [PREDATOR_definite].-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_pronoun]准备离开[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_pronoun] could have stayed longer inside [PREDATOR_definite].-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_pronoun]本可以在里面呆更长时间[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->afterwards [PREDATOR_definite] looked like [PREDATOR_pronoun] wants to do that again.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;之后[PREDATOR_definite]看起来[PREDATOR_pronoun]想要再来一次。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->afterwards [PREY_definite] looked like [PREY_pronoun] wants to do that again.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;之后[PREY_definite]看起来[PREY_pronoun]想要再来一次。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->afterwards [PREY_definite] and [PREDATOR_definite] look at each other, agreeing to do that again.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;之后[PREY_definite]和[PREDATOR_definite]互相看着对方，同意再来一次。</li>
+  </RV2_Goal_Endo.rulePack.rulesStrings>
+  <RV2_Goal_Fatal.rulePack.rulesStrings>
+    <!--EN: RV2_fatal_reform_destination->at [PREY_possessive] birthplace-->
+    <li>RV2_fatal_reform_destination-&gt;在[PREY_possessive]出生地</li>
+    <!--EN: RV2_fatal_reform_destination->in [PREY_possessive] childhood home-->
+    <li>RV2_fatal_reform_destination-&gt;于[PREY_possessive]童年家园</li>
+    <!--EN: RV2_fatal_reform_destination->on a distant urbworld-->
+    <li>RV2_fatal_reform_destination-&gt;在遥远的都市世界</li>
+    <!--EN: RV2_fatal_reform_destination->in another settlement-->
+    <li>RV2_fatal_reform_destination-&gt;在另一个定居点</li>
+    <!--EN: RV2_fatal_reform_destination->where [PREY_pronoun] died-->
+    <li>RV2_fatal_reform_destination-&gt;地点[PREY_pronoun]死亡</li>
+    <!--EN: RV2_fatal_reform_destination->in [PREY_possessive] bed-->
+    <li>RV2_fatal_reform_destination-&gt;于[PREY_possessive]床上</li>
+    <!--EN: RV2_fatal_reform_destination->at the summit of a grand mountain-->
+    <li>RV2_fatal_reform_destination-&gt;在一座宏伟山脉的顶端</li>
+    <!--EN: RV2_fatal_reform_destination->on the banks of a grand river-->
+    <li>RV2_fatal_reform_destination-&gt;在宏伟河流的河岸上</li>
+    <!--EN: RV2_fatal_reform_destination->by the coast, overlooking a vast sea-->
+    <li>RV2_fatal_reform_destination-&gt;在海边，眺望广阔的大海</li>
+    <!--EN: RV2_adverb->fatally-->
+    <li>RV2_adverb-&gt;致命</li>
+    <!--EN: RV2_adjective->fatal-->
+    <li>RV2_adjective-&gt;致命</li>
+    <!--EN: RV2_addendum->to put [PAWN_definite] to death-->
+    <li>RV2_addendum-&gt;放置[PAWN_definite]至死</li>
+    <!--EN: RV2_goalFinish_tale->[PREY_definite] dying at the hand of [PREDATOR_definite]-->
+    <li>RV2_goalFinish_tale-&gt;[PREY_definite]死于[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_tale->[PREDATOR_definite] taking the life of [PREY_definite]-->
+    <li>RV2_goalFinish_tale-&gt;[PREDATOR_definite]夺去[PREY_definite]</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] looking down on [PREDATOR_definite]-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]仰视[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] looking down on [PREDATOR_definite] [RV2_adverb]-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]仰视[PREDATOR_definite][RV2_adverb]</li>
+    <!--EN: RV2_goalFinish_image->[PREDATOR_definite] looking at the remains of [PREY_definite]-->
+    <li>RV2_goalFinish_image-&gt;[PREDATOR_definite]望着[PREY_definite]</li>
+    <!--EN: RV2_goalFinish_image->[PREDATOR_definite] looking at the remains of [PREY_definite] [RV2_adverb]-->
+    <li>RV2_goalFinish_image-&gt;[PREDATOR_definite]望着[PREY_definite][RV2_adverb]</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] being reformed-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]正在改过自新</li>
+    <!--EN: RV2_goalFinish_image(p=5)->[PREY_definite] being reformed [RV2_fatal_reform_destination]-->
+    <li>RV2_goalFinish_image(p=5)-&gt;[PREY_definite]正在改过自新[RV2_fatal_reform_destination]</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] waking up in [PREY_possessive] bed, after dying in a vore nightmare-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]醒来于[PREY_possessive]死在床上后吃人噩梦</li>
+    <!--EN: RV2_goalFinish_desc_sight->[PREY_definite] sees the remains of others inside [PREDATOR_definite].-->
+    <li>RV2_goalFinish_desc_sight-&gt;[PREY_definite]看见里面有其他人的残骸[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_possessive] last moments were [RV2_adjective].-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_possessive]最后时刻是[RV2_adjective]</li>
+  </RV2_Goal_Fatal.rulePack.rulesStrings>
+  <RV2_Goal_Heal.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_adverb->carefully-->
+    <li>RV2_adverb-&gt;谨慎</li>
+    <!--EN: RV2_adverb->clinically-->
+    <li>RV2_adverb-&gt;临床上</li>
+    <!--EN: RV2_adverb->lovingly-->
+    <li>RV2_adverb-&gt;亲切地</li>
+    <!--EN: RV2_adjective->caring-->
+    <li>RV2_adjective-&gt;正在照顾</li>
+    <!--EN: RV2_adjective->loving-->
+    <li>RV2_adjective-&gt;喜爱</li>
+    <!--EN: RV2_addendum->to patch [PREY_pronoun] up-->
+    <li>RV2_addendum-&gt;到补丁[PREY_pronoun]提升</li>
+    <!--EN: RV2_addendum->to offer respite to [PREY_pronoun]-->
+    <li>RV2_addendum-&gt;提供喘息的机会给[PREY_pronoun]</li>
+    <!--EN: RV2_addendum->to save [PREY_possessive] life-->
+    <li>RV2_addendum-&gt;保存[PREY_possessive]生命的</li>
+    <!--EN: RV2_goalFinish_verb->healing-->
+    <li>RV2_goalFinish_verb-&gt;治疗</li>
+    <!--EN: RV2_goalFinish_noun->healing-->
+    <li>RV2_goalFinish_noun-&gt;治疗</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] healing inside of [PREDATOR_definite]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]正在治愈[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREDATOR_definite] caring for [PREY_definite]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREDATOR_definite]照顾[PREY_definite]</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREDATOR_definite] doing [PREDATOR_possessive] best to heal [PREY_definite]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREDATOR_definite]完成[PREDATOR_possessive]愈合最好[PREY_definite]</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] being filled with newfound vigor.-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]充满了新的活力。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] kept [PREY_definite] safe while all hell broke loose around them.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]保持[PREY_definite]安危地狱在他们周围挣脱。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->Doctors could critize [PREY_possessive] care, but [PREY_definite] is ever thankful for it in [PREY_possessive] time of need.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;医生可能会批评[PREY_possessive]照顾，但[PREY_definite]感激不尽[PREY_possessive]需要的时间。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_definite] complimented [PREDATOR_possessive] bedside manner.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_definite]称赞[PREDATOR_possessive]对待病人时的态度。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_definite] criticized [PREDATOR_possessive] bedside manner.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_definite]被批评[PREDATOR_possessive]对待病人时的态度。</li>
+  </RV2_Goal_Heal.rulePack.rulesStrings>
+  <RV2_Goal_Hold.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_adverb->lovingly-->
+    <li>RV2_adverb-&gt;亲切地</li>
+    <!--EN: RV2_adverb->hastily-->
+    <li>RV2_adverb-&gt;匆忙中</li>
+    <!--EN: RV2_adjective->loving-->
+    <li>RV2_adjective-&gt;喜爱</li>
+    <!--EN: RV2_adjective->hasty-->
+    <li>RV2_adjective-&gt;草率</li>
+    <!--EN: RV2_goalFinish_verb->holding-->
+    <li>RV2_goalFinish_verb-&gt;收容中</li>
+    <!--EN: RV2_goalFinish_verb->visiting-->
+    <li>RV2_goalFinish_verb-&gt;看望</li>
+    <!--EN: RV2_goalFinish_noun->hold-->
+    <li>RV2_goalFinish_noun-&gt;保持</li>
+    <!--EN: RV2_goalFinish_noun->visit-->
+    <li>RV2_goalFinish_noun-&gt;看望</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREDATOR_definite] touring [PREY_definite] around [PREDATOR_possessive] body-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREDATOR_definite]旅行[PREY_definite]左右[PREDATOR_possessive]躯干</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] touring the insides of [PREDATOR_definite]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]巡视[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] taking a break from it all inside [PREDATOR_definite]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]从里面抽身而出[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] inspecting inside of [PREDATOR_definite]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]检查[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREDATOR_definite] making sure [PREY_definite] doesn't wander off-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREDATOR_definite]确保[PREY_definite]不走失</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] is telling [PREY_definite] that next time [PREY_pronoun] can stay longer.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]正在讲述[PREY_definite]下次[PREY_pronoun]可以停留更长时间。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] is helping [PREY_definite] stand up after [PREY_possessive] long stay.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]正在帮忙[PREY_definite]跟在后面站[PREY_possessive]长时间停留。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_possessive] stay inside [PREDATOR_definite] has left [PREY_objective] a little off-balance.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_possessive]留在室内[PREDATOR_definite]已离开[PREY_objective]有点失衡。</li>
+  </RV2_Goal_Hold.rulePack.rulesStrings>
+  <RV2_Goal_Pleasure.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_adverb->lustily-->
+    <li>RV2_adverb-&gt;甜美</li>
+    <!--EN: RV2_adverb->lovingly-->
+    <li>RV2_adverb-&gt;亲切地</li>
+    <!--EN: RV2_adverb->hornily-->
+    <li>RV2_adverb-&gt;疯狂</li>
+    <!--EN: RV2_adverb->hedonistically-->
+    <li>RV2_adverb-&gt;享乐主义</li>
+    <!--EN: RV2_adjective->lusty-->
+    <li>RV2_adjective-&gt;天性豁达</li>
+    <!--EN: RV2_adjective->loving-->
+    <li>RV2_adjective-&gt;喜爱</li>
+    <!--EN: RV2_adjective->horny-->
+    <li>RV2_adjective-&gt;性欲旺盛的</li>
+    <!--EN: RV2_adjective->hedonistic-->
+    <li>RV2_adjective-&gt;享乐派</li>
+    <!--EN: RV2_goalFinish_verb->pleasuring-->
+    <li>RV2_goalFinish_verb-&gt;愉悦</li>
+    <!--EN: RV2_goalFinish_noun->pleasure-->
+    <li>RV2_goalFinish_noun-&gt;愉悦</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREDATOR_definite] enjoying [PREY_definite] pleasuring [PREDATOR_objective] from inside-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREDATOR_definite]享受[PREY_definite]愉悦[PREDATOR_objective]从内部</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_definite] appears to be masturbating while inside [PREDATOR_definite].-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_definite]似乎在里面自慰[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] felt [PREY_definite] masturbating inside of [PREDATOR_objective].-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]毛毡[PREY_definite]自慰于[PREDATOR_objective]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] dons a wide smile of bliss.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]带着幸福的笑容。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_definite] smiles [RV2_adverb] at [PREDATOR_definite].-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_definite]微笑[RV2_adverb]在[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] revels in [PREDATOR_pronoun] post-orgasm clarity.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]沉迷[PREDATOR_pronoun]后期高潮清晰。</li>
+  </RV2_Goal_Pleasure.rulePack.rulesStrings>
+  <RV2_Goal_Reform.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_adverb->lovingly-->
+    <li>RV2_adverb-&gt;亲切地</li>
+    <!--EN: RV2_adjective->caring-->
+    <li>RV2_adjective-&gt;正在照顾</li>
+    <!--EN: RV2_adjective->loving-->
+    <li>RV2_adjective-&gt;喜爱</li>
+    <!--EN: RV2_addendum->to remake [PREY_definite] in [PREDATOR_possessive] image-->
+    <li>RV2_addendum-&gt;重新制作[PREY_definite]于[PREDATOR_possessive]图像</li>
+    <!--EN: RV2_addendum->to reform [PREY_definite]-->
+    <li>RV2_addendum-&gt;改革[PREY_definite]</li>
+    <!--EN: RV2_addendum->to propagate [PREDATOR_possessive] genes through [PREY_definite]-->
+    <li>RV2_addendum-&gt;传播[PREDATOR_possessive]基因通过[PREY_definite]</li>
+    <!--EN: RV2_goalFinish_verb->reforming-->
+    <li>RV2_goalFinish_verb-&gt;重整</li>
+    <!--EN: RV2_goalFinish_noun->reformation-->
+    <li>RV2_goalFinish_noun-&gt;宗教改革</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] being reformed-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]正在改过自新</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] arises in [PREY_possessive] new form.-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]出现在[PREY_possessive]新表格。</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] popping out of [PREDATOR_definite] ready to take on the world.-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]弹出[PREDATOR_definite]准备好与世界对抗。</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] in the arms of [PREDATOR_definite].-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]在…… 的怀抱中[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_definite] looks just like [PREDATOR_definite].-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_definite]看起来就像[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] is thiking that [PREY_definite] looks too much like [PREY_posessive] old self.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]是这样的吗[PREY_definite]看起来太像了[PREY_posessive]老翁。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] appears happy to have another member of the family.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]似乎很高兴拥有另一个家庭成员。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] threaten [PREY_definite] with a second reformation if [PREY_pronoun] don't behave.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]威胁[PREY_definite]进行第二次宗教改革，如果[PREY_pronoun]别乱来。</li>
+  </RV2_Goal_Reform.rulePack.rulesStrings>
+  <RV2_Goal_Store.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_adverb->lovingly-->
+    <li>RV2_adverb-&gt;亲切地</li>
+    <!--EN: RV2_adverb->lengthily-->
+    <li>RV2_adverb-&gt;加长</li>
+    <!--EN: RV2_adverb->permanently-->
+    <li>RV2_adverb-&gt;永久</li>
+    <!--EN: RV2_adjective->loving-->
+    <li>RV2_adjective-&gt;喜爱</li>
+    <!--EN: RV2_adjective->lengthy-->
+    <li>RV2_adjective-&gt;长</li>
+    <!--EN: RV2_adjective->permanent-->
+    <li>RV2_adjective-&gt;永久</li>
+    <!--EN: RV2_goalFinish_verb->storing-->
+    <li>RV2_goalFinish_verb-&gt;储存</li>
+    <!--EN: RV2_goalFinish_verb->hoarding-->
+    <li>RV2_goalFinish_verb-&gt;蓄积</li>
+    <!--EN: RV2_goalFinish_verb->jailing-->
+    <li>RV2_goalFinish_verb-&gt;囚禁</li>
+    <!--EN: RV2_goalFinish_verb->capturing-->
+    <li>RV2_goalFinish_verb-&gt;俘虏</li>
+    <!--EN: RV2_goalFinish_noun->storage-->
+    <li>RV2_goalFinish_noun-&gt;储存</li>
+    <!--EN: RV2_goalFinish_noun->hoard-->
+    <li>RV2_goalFinish_noun-&gt;蓄电</li>
+    <!--EN: RV2_goalFinish_noun->jail-->
+    <li>RV2_goalFinish_noun-&gt;监狱</li>
+    <!--EN: RV2_goalFinish_noun->captivity-->
+    <li>RV2_goalFinish_noun-&gt;囚禁</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREDATOR_definite] keeping [PREY_definite] captive-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREDATOR_definite]饲养[PREY_definite]人质</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREDATOR_definite] releasing [PREY_definite] from [PREDATOR_pronoun] body jail-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREDATOR_definite]放生[PREY_definite]来自[PREDATOR_pronoun]尸体监狱</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] escaping from captivity-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]越狱</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] escaping from captivity inside [PREDATOR_definite]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]逃离圈养[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] is telling [PREY_definite] that the next time [PREY_pronoun] won't get out alive.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]正在讲述[PREY_definite]下次[PREY_pronoun]不会活着出去。</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREDATOR_definite] is telling [PREY_definite] that [PREDATOR_pronoun] won't let [PREY_pronoun] out next time.-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREDATOR_definite]正在讲述[PREY_definite]那个[PREDATOR_pronoun]不会让[PREY_pronoun]下次出去。</li>
+  </RV2_Goal_Store.rulePack.rulesStrings>
+  <RV2_Proposal_Accepted.rulePack.rulesStrings>
+    <!--EN: sent->[RECIPIENT_nameDef] was attracted and agreed.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]被吸引并同意了。</li>
+    <!--EN: sent->[RECIPIENT_nameDef] responded well and accepted.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]良好的反应并接受。</li>
+    <!--EN: sent->[RECIPIENT_nameDef] agreed.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]同意。</li>
+    <!--EN: sent->[RECIPIENT_nameDef] accepted.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]接受。</li>
+  </RV2_Proposal_Accepted.rulePack.rulesStrings>
+  <RV2_Proposal_Denied.rulePack.rulesStrings>
+    <!--EN: sent->[RECIPIENT_nameDef] rejected the proposal.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]拒绝该提议。</li>
+    <!--EN: sent->[RECIPIENT_nameDef] ignored the proposal.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]忽略了该提议。</li>
+    <!--EN: sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] down.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]转身[RECIPIENT_possessive]躺下。</li>
+    <!--EN: sent->[RECIPIENT_nameDef] turned away.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]转身离开。</li>
+    <!--EN: sent->[RECIPIENT_nameDef] gave a minimal response.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]给予了最低限度的回应。</li>
+    <!--EN: sent->[RECIPIENT_nameDef] did not respond.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]没有反应。</li>
+  </RV2_Proposal_Denied.rulePack.rulesStrings>
+  <RV2_Proposal_Forced.rulePack.rulesStrings>
+    <!--EN: sent->[RECIPIENT_nameDef] could not turn [RECIPIENT_possessive] down.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]无法转身[RECIPIENT_possessive]躺下。</li>
+    <!--EN: sent->[RECIPIENT_nameDef] was forced.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]曾经强迫</li>
+    <!--EN: sent->[RECIPIENT_nameDef]'s opinion was disregarded.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]他的意见被无视。</li>
+    <!--EN: sent->[RECIPIENT_nameDef] had no choice.-->
+    <li>sent-&gt;[RECIPIENT_nameDef]别无选择。</li>
+  </RV2_Proposal_Forced.rulePack.rulesStrings>
+  <RV2_Type_Anal.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[INITIATOR_nameDef] is using [INITIATOR_possessive] [RV2_bodypart] to vore-->
+    <li>extraSentencePack-&gt;[INITIATOR_nameDef]正在使用[INITIATOR_possessive][RV2_bodypart]到吃人</li>
+    <!--EN: RV2_init_predVerb->anally swallowing-->
+    <li>RV2_init_predVerb-&gt;咽下</li>
+    <!--EN: RV2_init_predVerb->rectally swallowing-->
+    <li>RV2_init_predVerb-&gt;直接吞咽</li>
+    <!--EN: RV2_bodypart->anus-->
+    <li>RV2_bodypart-&gt;肛门</li>
+    <!--EN: RV2_bodypart->asshole-->
+    <li>RV2_bodypart-&gt;混蛋</li>
+    <!--EN: RV2_bodypart->pooper-->
+    <li>RV2_bodypart-&gt;打手</li>
+    <!--EN: RV2_bodypart->starfish-->
+    <li>RV2_bodypart-&gt;海星</li>
+    <!--EN: RV2_init_preyVerb->being anally swallowed-->
+    <li>RV2_init_preyVerb-&gt;正在被消化</li>
+    <!--EN: RV2_init_preyVerb->being rectally swallowed-->
+    <li>RV2_init_preyVerb-&gt;被直接吞下</li>
+    <!--EN: RV2_init_image->[PREDATOR_definite] sitting down on [PREY_definite] to stuff [PREY_pronoun] up [PREDATOR_possessive] [RV2_bodypart]-->
+    <li>RV2_init_image-&gt;[PREDATOR_definite]静坐[PREY_definite]物品[PREY_pronoun]提升[PREDATOR_possessive][RV2_bodypart]</li>
+    <!--EN: RV2_init_image->[PREDATOR_definite] having [PREY_definite] crawl into [PREDATOR_possessive] [RV2_bodypart] as [PREDATOR_pronoun] lays on [PREDATOR_possessive] back-->
+    <li>RV2_init_image-&gt;[PREDATOR_definite]有[PREY_definite]爬入[PREDATOR_possessive][RV2_bodypart]机械体[PREDATOR_pronoun]躺下[PREDATOR_possessive]返回</li>
+    <!--EN: RV2_init_image->[PREDATOR_definite] letting gravity do the work of drawing [PREY_definite] inside [PREDATOR_possessive] [RV2_bodypart]-->
+    <li>RV2_init_image-&gt;[PREDATOR_definite]让重力做绘画工作[PREY_definite]内[PREDATOR_possessive][RV2_bodypart]</li>
+    <!--EN: RV2_init_desc_sentence->[PREDATOR_definite] really should have started with a dildo first.-->
+    <li>RV2_init_desc_sentence-&gt;[PREDATOR_definite]真的应该从一个假阴茎第一个。</li>
+    <!--EN: RV2_init_desc_sentence->[PREDATOR_definite] really should have cleaned up first.-->
+    <li>RV2_init_desc_sentence-&gt;[PREDATOR_definite]真的应该先清理一下。</li>
+  </RV2_Type_Anal.rulePack.rulesStrings>
+  <RV2_Type_AnalExit.rulePack.rulesStrings>
+    <!--EN: RV2_exit_predVerb->defecating-->
+    <li>RV2_exit_predVerb-&gt;正在排便</li>
+    <!--EN: RV2_exit_predVerb->shitting out-->
+    <li>RV2_exit_predVerb-&gt;拉屎</li>
+    <!--EN: RV2_exit_predVerb->dropping-->
+    <li>RV2_exit_predVerb-&gt;丢下</li>
+    <!--EN: RV2_exit_preyVerb->being shat out by-->
+    <li>RV2_exit_preyVerb-&gt;被赶出</li>
+    <!--EN: RV2_exit_image->[PREDATOR_definite] leaving to do [PREDATOR_possessive] business in the great outdoors-->
+    <li>RV2_exit_image-&gt;[PREDATOR_definite]未完成[PREDATOR_possessive]大室外的商业活动</li>
+    <!--EN: RV2_exit_image->[PREDATOR_definite] looking frantically for a place to let [PREY_definite] out-->
+    <li>RV2_exit_image-&gt;[PREDATOR_definite]疯狂地寻找着出租的地方[PREY_definite]Out</li>
+    <!--EN: RV2_exit_image->[PREDATOR_definite] letting [PREY_definite] out straight into a latrine-->
+    <li>RV2_exit_image-&gt;[PREDATOR_definite]释放[PREY_definite]直接走进厕所</li>
+    <!--EN: RV2_exit_image->[PREY_definite] making a mess of [PREDATOR_possessive] pants-->
+    <li>RV2_exit_image-&gt;[PREY_definite]弄得一团糟[PREDATOR_possessive]裤子</li>
+    <!--EN: RV2_exit_image->a latrine with the remains of [PREY_definite] inside-->
+    <li>RV2_exit_image-&gt;一个有尸体的厕所[PREY_definite]内</li>
+    <!--EN: RV2_exit_desc_sentence->Bears shit in the woods, and so does [PREDATOR_definite].-->
+    <li>RV2_exit_desc_sentence-&gt;熊在树林里拉屎，也是[PREDATOR_definite]</li>
+    <!--EN: RV2_exit_desc_sentence->[PREY_definite] appears to have left [PREDATOR_definite] a bit constipated.-->
+    <li>RV2_exit_desc_sentence-&gt;[PREY_definite]似乎已经离开[PREDATOR_definite]有点便秘。</li>
+    <!--EN: RV2_exit_desc_sentence->[PREY_definite] gave [PREDATOR_definite] a bad case of the squirts.-->
+    <li>RV2_exit_desc_sentence-&gt;[PREY_definite]给予[PREDATOR_definite]喷出的怪形。</li>
+  </RV2_Type_AnalExit.rulePack.rulesStrings>
+  <RV2_Type_Cock.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[INITIATOR_nameDef] is using [INITIATOR_possessive] [RV2_bodypart] to vore-->
+    <li>extraSentencePack-&gt;[INITIATOR_nameDef]正在使用[INITIATOR_possessive][RV2_bodypart]到吃人</li>
+    <!--EN: RV2_adverb->sexually-->
+    <li>RV2_adverb-&gt;性</li>
+    <!--EN: RV2_adjective->sexual-->
+    <li>RV2_adjective-&gt;性的</li>
+    <!--EN: RV2_init_predVerb->unsowing-->
+    <li>RV2_init_predVerb-&gt;未播种</li>
+    <!--EN: RV2_bodypart->penis-->
+    <li>RV2_bodypart-&gt;阳具/屌</li>
+    <!--EN: RV2_bodypart->cock-->
+    <li>RV2_bodypart-&gt;公鸡</li>
+    <!--EN: RV2_bodypart->urethra-->
+    <li>RV2_bodypart-&gt;尿道</li>
+    <!--EN: RV2_init_preyVerb->being unsown-->
+    <li>RV2_init_preyVerb-&gt;未播种</li>
+    <!--EN: RV2_init_image->[PREY_definite] sliding down [PREDATOR_possessive] [RV2_bodypart]-->
+    <li>RV2_init_image-&gt;[PREY_definite]向下滑动[PREDATOR_possessive][RV2_bodypart]</li>
+    <!--EN: RV2_init_image->[PREDATOR_definite] feeling the intense stretch from [PREY_definite] in [PREDATOR_possessive] [RV2_bodypart]-->
+    <li>RV2_init_image-&gt;[PREDATOR_definite]感到这强烈的伸展于[PREY_definite]于[PREDATOR_possessive][RV2_bodypart]</li>
+    <!--EN: RV2_init_desc_sentence->[PREDATOR_definite] wonders how many millimeters [PREY_definite] is at [PREY_possessive] widest.-->
+    <li>RV2_init_desc_sentence-&gt;[PREDATOR_definite]想知道多少毫米[PREY_definite]处于[PREY_possessive]最宽处。</li>
+    <!--EN: RV2_init_desc_sentence->[PREDATOR_definite] measures the diameter of [PREY_definite] for [PREDATOR_possessive] records.-->
+    <li>RV2_init_desc_sentence-&gt;[PREDATOR_definite]测量的直径[PREY_definite]与[PREDATOR_possessive]记录。</li>
+    <!--EN: RV2_exit_predVerb->cumming out-->
+    <li>RV2_exit_predVerb-&gt;目击结束</li>
+    <!--EN: RV2_exit_predVerb->ejaculating-->
+    <li>RV2_exit_predVerb-&gt;射精</li>
+    <!--EN: RV2_exit_preyVerb->being cum out by-->
+    <li>RV2_exit_preyVerb-&gt;被精液在附近</li>
+    <!--EN: RV2_exit_preyVerb->being ejaculated by-->
+    <li>RV2_exit_preyVerb-&gt;被射精</li>
+    <!--EN: RV2_exit_image->[PREY_definite] emerging from the [RV2_bodypart] of [PREDATOR_definite]-->
+    <li>RV2_exit_image-&gt;[PREY_definite]从[RV2_bodypart]来自[PREDATOR_definite]</li>
+    <!--EN: RV2_exit_image->[PREY_definite] flying out of the [RV2_bodypart] of [PREDATOR_definite] at great speed-->
+    <li>RV2_exit_image-&gt;[PREY_definite]飞出[RV2_bodypart]来自[PREDATOR_definite]极快</li>
+    <!--EN: RV2_exit_desc_sentence->[PREDATOR_definite] feels a profound emptiness now that [PREY_definite] is out.-->
+    <li>RV2_exit_desc_sentence-&gt;[PREDATOR_definite]感到极度的空虚[PREY_definite]已退出。</li>
+  </RV2_Type_Cock.rulePack.rulesStrings>
+  <RV2_Type_FullTour.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[INITIATOR_nameDef] is using [INITIATOR_possessive] [RV2_bodypart] to vore-->
+    <li>extraSentencePack-&gt;[INITIATOR_nameDef]正在使用[INITIATOR_possessive][RV2_bodypart]到吃人</li>
+    <!--EN: RV2_addendum->for a full tour-->
+    <li>RV2_addendum-&gt;为一个消化道游览</li>
+    <!--EN: RV2_addendum->for a full tour of [PREDATOR_possessive] insides-->
+    <li>RV2_addendum-&gt;为一个消化道游览来自[PREDATOR_possessive]内部</li>
+  </RV2_Type_FullTour.rulePack.rulesStrings>
+  <RV2_Type_Nipple.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[INITIATOR_nameDef] is using [INITIATOR_possessive] [RV2_bodypart] to vore-->
+    <li>extraSentencePack-&gt;[INITIATOR_nameDef]正在使用[INITIATOR_possessive][RV2_bodypart]到吃人</li>
+    <!--EN: RV2_addendum->to give [PREY_definite] a milk bath-->
+    <li>RV2_addendum-&gt;给予[PREY_definite]洗牛奶浴</li>
+    <!--EN: RV2_init_predVerb->unnursing-->
+    <li>RV2_init_predVerb-&gt;失去照顾</li>
+    <!--EN: RV2_bodypart->nipple-->
+    <li>RV2_bodypart-&gt;乳头</li>
+    <!--EN: RV2_init_preyVerb->being unnused-->
+    <li>RV2_init_preyVerb-&gt;未被使用</li>
+    <!--EN: RV2_init_image->[PREDATOR_definite] nursing [PREY_definite] from [PREDATOR_possessive] [RV2_bodypart] before [RV2_init_preyVerb] [RV2_pronoun]-->
+    <li>RV2_init_image-&gt;[PREDATOR_definite]哺育[PREY_definite]来自[PREDATOR_possessive][RV2_bodypart]之前[RV2_init_preyVerb][RV2_pronoun]</li>
+    <!--EN: RV2_exit_predVerb->milking out-->
+    <li>RV2_exit_predVerb-&gt;milkingOut</li>
+    <!--EN: RV2_exit_predVerb->squeezing out-->
+    <li>RV2_exit_predVerb-&gt;被挤出</li>
+    <!--EN: RV2_exit_preyVerb->being milked out by-->
+    <li>RV2_exit_preyVerb-&gt;被产出</li>
+    <!--EN: RV2_exit_preyVerb->being squeezed out by-->
+    <li>RV2_exit_preyVerb-&gt;被挤出</li>
+  </RV2_Type_Nipple.rulePack.rulesStrings>
+  <RV2_Type_Oral.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[INITIATOR_nameDef] is using [INITIATOR_possessive] [RV2_bodypart] to vore-->
+    <li>extraSentencePack-&gt;[INITIATOR_nameDef]正在使用[INITIATOR_possessive][RV2_bodypart]到吃人</li>
+    <!--EN: RV2_exit_predVerb->spitting out-->
+    <li>RV2_exit_predVerb-&gt;吐出</li>
+    <!--EN: RV2_exit_predVerb->throwing up-->
+    <li>RV2_exit_predVerb-&gt;呕吐中</li>
+    <!--EN: RV2_exit_predVerb->regurgitating-->
+    <li>RV2_exit_predVerb-&gt;反刍</li>
+    <!--EN: RV2_exit_preyVerb->being spat out by-->
+    <li>RV2_exit_preyVerb-&gt;被喷吐</li>
+    <!--EN: RV2_exit_preyVerb->being thrown up-->
+    <li>RV2_exit_preyVerb-&gt;正在呕吐</li>
+    <!--EN: RV2_exit_preyVerb->being regurgitated-->
+    <li>RV2_exit_preyVerb-&gt;正在反刍</li>
+    <!--EN: RV2_exit_image->[PREY_definite] covered in predator saliva-->
+    <li>RV2_exit_image-&gt;[PREY_definite]被捕食者的涎液覆盖</li>
+    <!--EN: RV2_exit_image->[PREY_definite] flying out of [PREDATOR_definite] with great speed-->
+    <li>RV2_exit_image-&gt;[PREY_definite]飞出[PREDATOR_definite]极快</li>
+    <!--EN: RV2_exit_image->[PREDATOR_definite] crawling backwards with [PREDATOR_possessive] mouth open, leaving [PREY_definite] on the ground in front of [PREDATOR_pronoun]-->
+    <li>RV2_exit_image-&gt;[PREDATOR_definite]向后爬行[PREDATOR_possessive]张口离开[PREY_definite]在地面前方[PREDATOR_pronoun]</li>
+    <!--EN: RV2_exit_desc_sentence->[PREY_definite] appears even more tasty on the way out.-->
+    <li>RV2_exit_desc_sentence-&gt;[PREY_definite]出去的时候味道比平时更好了。</li>
+    <!--EN: RV2_exit_desc_sentence->[PREDATOR_definite] shows disgust at tasting [PREY_definite] on the way out.-->
+    <li>RV2_exit_desc_sentence-&gt;[PREDATOR_definite]对品尝表现出厌恶[PREY_definite]在出去的路上。</li>
+    <!--EN: RV2_exit_desc_sentence->[PREDATOR_definite] dry heaves after finishing the job.-->
+    <li>RV2_exit_desc_sentence-&gt;[PREDATOR_definite]干呕的心情在完成工作后持续干枯。</li>
+  </RV2_Type_Oral.rulePack.rulesStrings>
+  <RV2_Type_OralInit.rulePack.rulesStrings>
+    <!--EN: RV2_addendum->for a taste of [PREY_objective]-->
+    <li>RV2_addendum-&gt;品尝[PREY_objective]</li>
+    <!--EN: RV2_adjective->slimy-->
+    <li>RV2_adjective-&gt;发粘</li>
+    <!--EN: RV2_adjective->slippery-->
+    <li>RV2_adjective-&gt;光滑</li>
+    <!--EN: RV2_init_predVerb->swallowing-->
+    <li>RV2_init_predVerb-&gt;吞下</li>
+    <!--EN: RV2_init_predVerb->ingesting-->
+    <li>RV2_init_predVerb-&gt;摄入</li>
+    <!--EN: RV2_init_predVerb->gulping down-->
+    <li>RV2_init_predVerb-&gt;大口大口地吃</li>
+    <!--EN: RV2_bodypart->mouth-->
+    <li>RV2_bodypart-&gt;大嘴的</li>
+    <!--EN: RV2_bodypart->throat-->
+    <li>RV2_bodypart-&gt;咽喉</li>
+    <!--EN: RV2_bodypart->gullet-->
+    <li>RV2_bodypart-&gt;多爪</li>
+    <!--EN: RV2_bodypart->esophagus-->
+    <li>RV2_bodypart-&gt;食管</li>
+    <!--EN: RV2_init_preyVerb->being swallowed by-->
+    <li>RV2_init_preyVerb-&gt;被吞噬</li>
+    <!--EN: RV2_init_preyVerb->being gulped by-->
+    <li>RV2_init_preyVerb-&gt;被患者吞下</li>
+    <!--EN: RV2_init_preyVerb->sliding down-->
+    <li>RV2_init_preyVerb-&gt;向下滑动</li>
+    <!--EN: RV2_init_image->[PREDATOR_definite] covering [PREY_definite] in [PREDATOR_possessive] favorite condiments-->
+    <li>RV2_init_image-&gt;[PREDATOR_definite]掩体[PREY_definite]于[PREDATOR_possessive]喜爱的调味品</li>
+    <!--EN: RV2_init_image->[PREY_definite] inspecting the teeth of [PREDATOR_definite] on the way into [PREDATOR_possessive] [RV2_bodypart]-->
+    <li>RV2_init_image-&gt;[PREY_definite]检测牙齿[PREDATOR_definite]在途中进入[PREDATOR_possessive][RV2_bodypart]</li>
+    <!--EN: RV2_init_image->[PREDATOR_definite] massaging [PREY_definite] with [PREDATOR_possessive] tongue-->
+    <li>RV2_init_image-&gt;[PREDATOR_definite]按摩[PREY_definite]伴[PREDATOR_possessive]舌</li>
+    <!--EN: RV2_init_desc_sentence->[PREDATOR_definite] liked the natural taste of [PREY_definite].-->
+    <li>RV2_init_desc_sentence-&gt;[PREDATOR_definite]很喜欢这里的自然风味[PREY_definite]</li>
+    <!--EN: RV2_init_desc_sentence->[PREY_definite] left a bad aftertaste in [PREDATOR_possessive] mouth.-->
+    <li>RV2_init_desc_sentence-&gt;[PREY_definite]留下了不祥的余味。[PREDATOR_possessive]大嘴。</li>
+    <!--EN: RV2_init_desc_sentence->[PREY_definite] was a little too salty for [PREDATOR_objective].-->
+    <li>RV2_init_desc_sentence-&gt;[PREY_definite]有点过咸[PREDATOR_objective]</li>
+  </RV2_Type_OralInit.rulePack.rulesStrings>
+  <RV2_Type_Vaginal.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[INITIATOR_nameDef] is using [INITIATOR_possessive] [RV2_bodypart] to vore-->
+    <li>extraSentencePack-&gt;[INITIATOR_nameDef]正在使用[INITIATOR_possessive][RV2_bodypart]到吃人</li>
+    <!--EN: RV2_adverb->sexually-->
+    <li>RV2_adverb-&gt;性</li>
+    <!--EN: RV2_adjective->sexual-->
+    <li>RV2_adjective-&gt;性的</li>
+    <!--EN: RV2_init_predVerb->vaginally swallowing-->
+    <li>RV2_init_predVerb-&gt;阴道吞咽</li>
+    <!--EN: RV2_init_predVerb->unbirthing-->
+    <li>RV2_init_predVerb-&gt;展开</li>
+    <!--EN: RV2_bodypart->vagina-->
+    <li>RV2_bodypart-&gt;阴道</li>
+    <!--EN: RV2_bodypart->cunt-->
+    <li>RV2_bodypart-&gt;阴阳怪气</li>
+    <!--EN: RV2_bodypart->vagoo-->
+    <li>RV2_bodypart-&gt;迷魂</li>
+    <!--EN: RV2_init_preyVerb->being vaginally swallowed-->
+    <li>RV2_init_preyVerb-&gt;正在被阴道吞噬</li>
+    <!--EN: RV2_init_preyVerb->being unbirthed-->
+    <li>RV2_init_preyVerb-&gt;刚出生</li>
+    <!--EN: RV2_init_desc_sentence->[PREDATOR_definite] really should have started with a dildo first.-->
+    <li>RV2_init_desc_sentence-&gt;[PREDATOR_definite]真的应该从一个假阴茎第一个。</li>
+    <!--EN: RV2_init_desc_sentence->[PREDATOR_definite] winced at [PREY_definite] hitting [PREDATOR_possessive] cervix.-->
+    <li>RV2_init_desc_sentence-&gt;[PREDATOR_definite]畏缩于[PREY_definite]击中[PREDATOR_possessive]子宫口</li>
+    <!--EN: RV2_exit_predVerb->squirting out-->
+    <li>RV2_exit_predVerb-&gt;喷出</li>
+    <!--EN: RV2_exit_predVerb->birthing-->
+    <li>RV2_exit_predVerb-&gt;分娩</li>
+    <!--EN: RV2_exit_preyVerb->being squirt out by-->
+    <li>RV2_exit_preyVerb-&gt;被喷射而出</li>
+    <!--EN: RV2_exit_preyVerb->being reborn-->
+    <li>RV2_exit_preyVerb-&gt;正在重生</li>
+    <!--EN: RV2_exit_image->[PREY_definite] reexperiencing the events of [PREY_possessive] own birth-->
+    <li>RV2_exit_image-&gt;[PREY_definite]正在重新体验以下事件[PREY_possessive]自己出生</li>
+  </RV2_Type_Vaginal.rulePack.rulesStrings>
+</LanguageData>

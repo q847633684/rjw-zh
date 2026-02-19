@@ -1,0 +1,5 @@
+key,text,tag,file,type
+Hediff_BrainFog.label,Brain Fog,label,HediffDefs\Hediffs_Brain Fog.xml,def
+Hediff_BrainFog.description,My thoughts are clouded.,description,HediffDefs\Hediffs_Brain Fog.xml,def
+Hediff_PostNutClarity.label,Post-Nut Clarity,label,HediffDefs\Hediffs_Post-Nut Clarity.xml,def
+Hediff_PostNutClarity.description,My mind is clear!,description,HediffDefs\Hediffs_Post-Nut Clarity.xml,def

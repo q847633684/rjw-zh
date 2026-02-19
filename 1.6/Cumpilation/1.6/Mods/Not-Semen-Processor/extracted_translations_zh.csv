@@ -1,0 +1,20 @@
+key,text,tag,file,type,protected_text,translated
+Make_Samenstein.label,make samenstein,label,RecipeDef/RecipeDef.xml,def,make samenstein,制作共聚斯坦
+Make_Samenstein.description,Make samenstein with some semen.,description,RecipeDef/RecipeDef.xml,def,Make samenstein with some semen.,用一些精液制作萨门斯坦。
+Make_Samenstein.jobString,Making samenstein.,jobString,RecipeDef/RecipeDef.xml,def,Making samenstein.,一起制作。
+Make_Spermatuch.label,make spermatuch,label,RecipeDef/RecipeDef.xml,def,make spermatuch,做精子
+Make_Spermatuch.description,Make spermatuch with some semen.,description,RecipeDef/RecipeDef.xml,def,Make spermatuch with some semen.,用一些精液制作精子。
+Make_Spermatuch.jobString,Making spermatuch.,jobString,RecipeDef/RecipeDef.xml,def,Making spermatuch.,制作精子。
+Cumpilation_BodilyFluid.label,bodily fluid,label,ThingCategoryDef/ThingCategoryDef.xml,def,bodily fluid,体液
+Cumpilation_BodilyFluid.description,Items that are considered bodily fluids.,description,ThingCategoryDef/ThingCategoryDef.xml,def,Items that are considered bodily fluids.,被视为体液的物品。
+Cumpilation_Samenstein.label,samenstein,label,ThingDef/ThingDef.xml,def,samenstein,赫赫鲁斯坦
+Cumpilation_Samenstein.description,"A light and resilient but not durable material, samenstein has its use by being
+            a very obtainable material. Made of processed semen, it can eventually be made by anyone
+            capable of ejaculating.",description,ThingDef/ThingDef.xml,def,"A light and resilient but not durable material, samenstein has its use by being(PH_2)            a very obtainable material. Made of processed semen, it can eventually be made by anyone(PH_1)            capable of ejaculating.","Samenstein 是一种轻质且有弹性但不耐用的材料，其用途是
+ 是一种非常容易获得的材料。它由经过加工的精液制成，最终可以由任何能够射精的
+制成。"
+Cumpilation_Samenstein.stuffProps.stuffAdjective,samensteiny,stuffAdjective,ThingDef/ThingDef.xml,def,samensteiny,一起
+Cumpilation_Spermatuch.label,spermatuch,label,ThingDef/ThingDef.xml,def,spermatuch,精子
+Cumpilation_Spermatuch.description,"Fabric microscopically spun from microfibers made from semen. It is very tough,
+            good at insulating, but highly flammable.",description,ThingDef/ThingDef.xml,def,"Fabric microscopically spun from microfibers made from semen. It is very tough,(PH_1)            good at insulating, but highly flammable.","由精液制成的超细纤维在显微镜下纺成的织物。它非常坚韧，
+绝缘性好，但高度易燃。"

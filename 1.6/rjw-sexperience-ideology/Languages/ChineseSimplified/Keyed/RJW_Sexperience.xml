@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Meme-->
+  <MemeStatFactor>模因</MemeStatFactor>
+  <!--EN: improper animal: cannot breed or forbidden by precepts-->
+  <RSBreederCondition>不当动物：无法繁殖或被教义禁止</RSBreederCondition>
+  <!--EN: RJW Sexperience Ideology-->
+  <RSI_Mod_Title>RJW - 性意识形态</RSI_Mod_Title>
+  <!--EN: Enable manual romance patch for incest precepts*-->
+  <RSI_PatchIncestuousManualRomance>启用乱伦教义的手动浪漫补丁*</RSI_PatchIncestuousManualRomance>
+  <!--EN: Patch for incest precepts to affect manual romance options./n/n* Requires a game restart to apply changes-->
+  <RSI_PatchIncestuousManualRomanceTip>补丁用于让乱伦教义影响手动浪漫选项。\n\n*需要重启游戏以应用更改</RSI_PatchIncestuousManualRomanceTip>
+  <!--EN: Enable romance patch for incest precepts*-->
+  <RSI_PatchRomanceChanceFactor>启用乱伦教义的浪漫补丁*</RSI_PatchRomanceChanceFactor>
+  <!--EN: Patch for incest precepts to affect RomanceChanceFactor. May conflict with romance mods./n/n* Requires a game restart to apply changes-->
+  <RSI_PatchRomanceChanceFactorTip>补丁用于让乱伦教义影响浪漫几率因子。可能与浪漫模组冲突。\n\n*需要重启游戏以应用更改。</RSI_PatchRomanceChanceFactorTip>
+  <!--EN: Time between bestiality attempts x{0}-->
+  <RSI_PreceptTipModifyBestialityMtb>兽交尝试间隔时间 x{0}</RSI_PreceptTipModifyBestialityMtb>
+  <!--EN: Time between masturbation attempts x{0}-->
+  <RSI_PreceptTipModifyFappinMtb>自慰尝试间隔时间 x{0}</RSI_PreceptTipModifyFappinMtb>
+  <!--EN: Time between necrophilia attempts x{0}-->
+  <RSI_PreceptTipModifyNecroMtb>恋尸癖尝试间隔时间 x{0}</RSI_PreceptTipModifyNecroMtb>
+  <!--EN: Time between rape attempts x{0}-->
+  <RSI_PreceptTipModifyRapeCPMtb>强奸尝试间隔时间 x{0}</RSI_PreceptTipModifyRapeCPMtb>
+  <!--EN: not animal-->
+  <RSNotAnimal>非动物</RSNotAnimal>
+  <!--EN: not human-->
+  <RSNotHuman>非人类</RSNotHuman>
+  <!--EN: capable of sex is required-->
+  <RSShouldCanFuck>必须具有性行为能力</RSShouldCanFuck>
+  <!--EN: slave, prisoner, submissive gender only-->
+  <RSVictimCondition>受害者条件：仅限奴隶、囚犯、必须顺从的性别</RSVictimCondition>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: vaginal-->
+  <Rape_MP_UAP.label>阴道性交</Rape_MP_UAP.label>
+  <!--EN: r_logentry->Raped vaginally [RECIPIENT_nameDef].-->
+  <Rape_MP_UAP.logRulesInitiator.rulesStrings.0>r_logentry->对 [RECIPIENT_nameDef] 进行了阴道强奸。</Rape_MP_UAP.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Was vaginally raped by [INITIATOR_nameDef].-->
+  <Rape_MP_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被 [INITIATOR_nameDef] 阴道强奸了。</Rape_MP_UAP.logRulesRecipient.rulesStrings.0>
+  <!--EN: (V) Mating Press-->
+  <Rape_MP_UAP.modExtensions.0.RMBLabel>(V) 交配压制</Rape_MP_UAP.modExtensions.0.RMBLabel>
+</LanguageData>

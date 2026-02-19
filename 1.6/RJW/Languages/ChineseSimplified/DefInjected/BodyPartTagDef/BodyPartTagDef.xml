@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Necessary for reproduction-->
+  <RJW_Fertility.description>繁殖的必要条件。</RJW_Fertility.description>
+  <!--EN: fertility_source-->
+  <RJW_Fertility.label>生育能力</RJW_Fertility.label>
+</LanguageData>

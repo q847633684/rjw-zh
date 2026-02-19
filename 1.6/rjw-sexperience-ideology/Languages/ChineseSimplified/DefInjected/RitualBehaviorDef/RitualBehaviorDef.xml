@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: victim-->
+  <Gangbang.roles.0.label>引导者</Gangbang.roles.0.label>
+  <!--EN: a victim-->
+  <Gangbang.roles.0.missingDesc>a victim</Gangbang.roles.0.missingDesc>
+  <!--EN: breedee-->
+  <GangbangByAnimal.roles.0.label>引导者</GangbangByAnimal.roles.0.label>
+  <!--EN: a breedee who will be fucked by animal-->
+  <GangbangByAnimal.roles.0.missingDesc>a breedee who will be fucked by animal</GangbangByAnimal.roles.0.missingDesc>
+  <!--EN: breeder-->
+  <GangbangByAnimal.roles.1.label>受精者</GangbangByAnimal.roles.1.label>
+  <!--EN: a breedable animal-->
+  <GangbangByAnimal.roles.1.missingDesc>a breedable animal</GangbangByAnimal.roles.1.missingDesc>
+  <!--EN: breeder-->
+  <GangbangByAnimal_Consensual.roles.0.label>引导者</GangbangByAnimal_Consensual.roles.0.label>
+  <!--EN: a breedable animal-->
+  <GangbangByAnimal_Consensual.roles.0.missingDesc>a breedable animal</GangbangByAnimal_Consensual.roles.0.missingDesc>
+</LanguageData>

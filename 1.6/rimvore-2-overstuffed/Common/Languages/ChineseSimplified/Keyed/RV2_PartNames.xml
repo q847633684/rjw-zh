@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Chest-->
+  <RV2_DisplayPart_Chest>Chest</RV2_DisplayPart_Chest>
+  <!--EN: Insides-->
+  <RV2_DisplayPart_Insides>Insides</RV2_DisplayPart_Insides>
+  <!--EN: Kidney-->
+  <RV2_DisplayPart_Kidney>Kidney</RV2_DisplayPart_Kidney>
+  <!--EN: Membrane-->
+  <RV2_DisplayPart_Membrane>Membrane</RV2_DisplayPart_Membrane>
+  <!--EN: Navel-->
+  <RV2_DisplayPart_Navel>Navel</RV2_DisplayPart_Navel>
+  <!--EN: Ovaries-->
+  <RV2_DisplayPart_Ovaries>Ovaries</RV2_DisplayPart_Ovaries>
+  <!--EN: Tail-->
+  <RV2_DisplayPart_Tail>Tail</RV2_DisplayPart_Tail>
+  <!--EN: Tail Maw-->
+  <RV2_DisplayPart_TailMaw>Tail Maw</RV2_DisplayPart_TailMaw>
+  <!--EN: Torso-->
+  <RV2_DisplayPart_Torso>Torso</RV2_DisplayPart_Torso>
+  <!--EN: Udder-->
+  <RV2_DisplayPart_Udder>Udder</RV2_DisplayPart_Udder>
+  <!--EN: Udder Nipple-->
+  <RV2_DisplayPart_UdderNipple>Udder Nipple</RV2_DisplayPart_UdderNipple>
+</LanguageData>

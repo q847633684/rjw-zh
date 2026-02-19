@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: The amount of slug that i consumed.-->
+  <Cumpilation_AmountConsumedSlug.description>我消耗的蛞蝓数量。</Cumpilation_AmountConsumedSlug.description>
+  <!--EN: consumed slug(mL)-->
+  <Cumpilation_AmountConsumedSlug.label>已消耗 蛞蝓(mL)</Cumpilation_AmountConsumedSlug.label>
+  <!--EN: The number of times that i consumed slug.-->
+  <Cumpilation_NumOfConsumedSlug.description>我吃蛞蝓的次数。</Cumpilation_NumOfConsumedSlug.description>
+  <!--EN: consumed slug-->
+  <Cumpilation_NumOfConsumedSlug.label>消耗的蛞蝓</Cumpilation_NumOfConsumedSlug.label>
+</LanguageData>

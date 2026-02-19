@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: vaginal-->
+  <Sex_MP_UAP.label>阴道</Sex_MP_UAP.label>
+  <!--EN: r_logentry->Had vaginal sex with [RECIPIENT_nameDef].-->
+  <Sex_MP_UAP.logRulesInitiator.rulesStrings.0>r_logentry->与 [RECIPIENT_nameDef] 进行了阴道性交。</Sex_MP_UAP.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Had vaginal sex with [INITIATOR_nameDef].-->
+  <Sex_MP_UAP.logRulesRecipient.rulesStrings.0>r_logentry->与 [INITIATOR_nameDef] 进行了阴道性交。</Sex_MP_UAP.logRulesRecipient.rulesStrings.0>
+  <!--EN: (V) Mating Press-->
+  <Sex_MP_UAP.modExtensions.0.RMBLabel>(V) 交配压力机</Sex_MP_UAP.modExtensions.0.RMBLabel>
+</LanguageData>

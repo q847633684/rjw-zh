@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: had success soliciting-->
+  <CB_Soliciting_Success.label>成功招揽到顾客</CB_Soliciting_Success.label>
+  <!--EN: failed to solicite-->
+  <CB_Soliciting_Success_NoIdeo.label>招揽顾客失败</CB_Soliciting_Success_NoIdeo.label>
+  <!--EN: worked in the brothel-->
+  <CB_Whoring.label>在妓院工作</CB_Whoring.label>
+  <!--EN: worked in the brothel-->
+  <CB_Whoring_NoIdeo.label>在妓院工作</CB_Whoring_NoIdeo.label>
+  <!--EN: worked reluctantly in the brothel-->
+  <CB_Whoring_Reluctant.label>不情愿地在妓院工作</CB_Whoring_Reluctant.label>
+</LanguageData>

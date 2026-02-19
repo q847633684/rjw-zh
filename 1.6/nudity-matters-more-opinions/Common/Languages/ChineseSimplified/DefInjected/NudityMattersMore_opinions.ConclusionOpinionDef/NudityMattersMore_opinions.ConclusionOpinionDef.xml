@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Observed_generator_conclusion_Negative-->
+  <Observed_generator_conclusion_Negative.label>观察到生成者结论为否定</Observed_generator_conclusion_Negative.label>
+  <Observed_generator_conclusion_Negative.texts>
+    <!--EN: {OBSERVER_nameShort} gaze was rather unappealing, making me want to cover myself.-->
+    <li>{OBSERVER_nameShort}凝视是相当没有吸引力的，让我想掩盖自己。</li>
+    <!--EN: {OBSERVER_nameShort} look was a truly distasteful display, leaving me quite repulsed.-->
+    <li>{OBSERVER_nameShort}眼神真是令人厌恶，让我很反感。</li>
+    <!--EN: I felt a profound sense of discomfort and aversion from {OBSERVER_nameShort} eyes.-->
+    <li>我感到非常不适和厌恶，因为{OBSERVER_nameShort}眼睛。</li>
+    <!--EN: {OBSERVER_nameShort} gaze stirred something negative within me, a deep unease.-->
+    <li>{OBSERVER_nameShort}凝视激发了我内心的消极情绪，一种深深的不安。</li>
+    <!--EN: Such vulgarity in {OBSERVER_nameShort} look, it filled me with a feeling of disgust.-->
+    <li>如此庸俗的文化在{OBSERVER_nameShort}听着，这让我觉得很厌恶。</li>
+    <!--EN: I wanted to tear my eyes away from them; {OBSERVER_nameShort} gaze was simply unpleasant.-->
+    <li>我想要将视线从他们身上撕离;{OBSERVER_nameShort}凝视简直令人不快。</li>
+    <!--EN: {OBSERVER_nameShort} look was an unsightly vision, inspiring a chill that spread through my entire being.-->
+    <li>{OBSERVER_nameShort}这是一个丑陋的景象，唤起了一股弥漫在我全身的寒意。</li>
+    <!--EN: My senses were overwhelmed by the sheer ugliness of {OBSERVER_nameShort} observation.-->
+    <li>我的感官被这种纯粹的丑陋所淹没:{OBSERVER_nameShort}观察。</li>
+    <!--EN: It was an experience I wished had never happened, a pure distaste for {OBSERVER_nameShort} gaze.-->
+    <li>这是一次我希望从未发生过的经历，一次纯粹的厌恶{OBSERVER_nameShort}凝视。</li>
+    <!--EN: I felt a powerful disconnection, repelled by the raw honesty of {OBSERVER_nameShort} stare.-->
+    <li>我感到一种强烈的脱节，被这种原始的诚实所排斥{OBSERVER_nameShort}凝视。</li>
+    <!--EN: This was a moment of pure, unadulterated revulsion from being seen by them.-->
+    <li>这是一个瞬间纯洁的、纯粹的厌恶被他们看见。</li>
+    <!--EN: Every fiber of my being recoiled with disapproval of {OBSERVER_nameShort} look.-->
+    <li>我身体里的每一根纤维都被人所拒绝。{OBSERVER_nameShort}快看。</li>
+    <!--EN: I felt a sickening dread, a yearning for distance from {OBSERVER_nameShort} eyes.-->
+    <li>我感到一股令人作呕的恐惧，一种对远方的渴望{OBSERVER_nameShort}眼睛。</li>
+    <!--EN: The way they looked at me was truly unsettling, almost offensive.-->
+    <li>他们看我的眼神真的很令人不安，几乎令人反感。</li>
+    <!--EN: It left me disturbed, eager to escape such unpleasant gazes.-->
+    <li>这让我很不安，想要逃离这种令人不快的视线。</li>
+    <!--EN: A profound sense of discomfort washed over me from {OBSERVER_nameShort} observation.-->
+    <li>一种深刻的不适感笼罩了我{OBSERVER_nameShort}观察。</li>
+    <!--EN: I felt a deep, prudish aversion, utterly displeased by {OBSERVER_nameShort} attention.-->
+    <li>我感到了一种深刻的，拘谨的厌恶，完全不高兴{OBSERVER_nameShort}请注意。</li>
+    <!--EN: This was an unforgettable encounter, a blight on my eyes and soul from {OBSERVER_nameShort} stare.-->
+    <li>这是一次令人难忘的相遇，一次降临于{OBSERVER_nameShort}凝视。</li>
+    <!--EN: My heart pounded with a mixture of disdain and intense discomfort from {OBSERVER_nameShort} look.-->
+    <li>我的心脏一直在跳动着，同时伴随着蔑视和强烈的不适。{OBSERVER_nameShort}快看。</li>
+    <!--EN: {OBSERVER_nameShort} reaction filled me with an irritating, almost nauseating, feeling.-->
+    <li>{OBSERVER_nameShort}我的反应是一种几乎令人作呕、近乎恶心的感觉。</li>
+  </Observed_generator_conclusion_Negative.texts>
+  <!--EN: Observed_generator_conclusion_Neutral-->
+  <Observed_generator_conclusion_Neutral.label>观察到的发电机结论是中立的</Observed_generator_conclusion_Neutral.label>
+  <Observed_generator_conclusion_Neutral.texts>
+    <!--EN: {OBSERVER_nameShort} gaze was simply a look, nothing more, nothing less.-->
+    <li>{OBSERVER_nameShort}凝视只是一个眼神，不多也不少。</li>
+    <!--EN: I was observed, without any particular emotional response.-->
+    <li>有人观察到我，没有任何特别的情绪反应。</li>
+    <!--EN: The scene unfolded, and I was seen as a matter of fact.-->
+    <li>场景展开了，我被视为事实。</li>
+    <!--EN: My feelings remained unswayed by {OBSERVER_nameShort} look, neither positive nor negative.-->
+    <li>我毫不动摇{OBSERVER_nameShort}听着，既不积极也不消极。</li>
+    <!--EN: I was there, and they saw me. That was all.-->
+    <li>我在那里，他们看见了我。仅此而已。</li>
+    <!--EN: {OBSERVER_nameShort} observation didn't provoke a strong reaction in me.-->
+    <li>{OBSERVER_nameShort}观察并没有引起我内心的强烈反应。</li>
+    <!--EN: A neutral observation, I was part of {OBSERVER_nameShort} surroundings.-->
+    <li>一个中立的观察，我是其中的一员{OBSERVER_nameShort}周围环境。</li>
+    <!--EN: {OBSERVER_nameShort} gaze passed over me, moving on to other things.-->
+    <li>{OBSERVER_nameShort}目光越过我，转向其他事物。</li>
+    <!--EN: {OBSERVER_nameShort} look had no strong opinion.-->
+    <li>{OBSERVER_nameShort}看上去没有强烈的意见。</li>
+    <!--EN: The moment of being seen was unremarkable, simply existing.-->
+    <li>该瞬间被看见是微不足道的，仅仅是存在。</li>
+    <!--EN: I felt no particular draw or repulsion from {OBSERVER_nameShort} attention.-->
+    <li>我没有受到什么特别的吸引或排斥{OBSERVER_nameShort}请注意。</li>
+    <!--EN: {OBSERVER_nameShort} look didn't leave a lasting impression on me.-->
+    <li>{OBSERVER_nameShort}眼神没有给我留下深刻的印象。</li>
+    <!--EN: My thoughts remained dispassionate about {OBSERVER_nameShort} observation.-->
+    <li>我的思想保持冷静{OBSERVER_nameShort}观察。</li>
+    <!--EN: Just another visual, nothing to dwell on about {OBSERVER_nameShort} gaze.-->
+    <li>只是另一个视觉世界，没有什么可详述的{OBSERVER_nameShort}凝视。</li>
+    <!--EN: I acknowledged {OBSERVER_nameShort} sight, then dismissed it.-->
+    <li>我承认{OBSERVER_nameShort}看见，然后将其遣散。</li>
+    <!--EN: {OBSERVER_nameShort} look was neither appealing nor unappealing.-->
+    <li>{OBSERVER_nameShort}这番表情既没有吸引力，也不缺乏吸引力。</li>
+    <!--EN: My emotions were unaffected by {OBSERVER_nameShort} observation.-->
+    <li>我的情绪未受影响{OBSERVER_nameShort}观察。</li>
+    <!--EN: A fleeting moment of being seen, quickly forgotten.-->
+    <li>稍纵即逝瞬间被人看见，很快就被遗忘了。</li>
+    <!--EN: I felt no curiosity or aversion from {OBSERVER_nameShort} gaze.-->
+    <li>我既不好奇也不反感{OBSERVER_nameShort}凝视。</li>
+    <!--EN: The scene was simply present, {OBSERVER_nameShort} observation without consequence.-->
+    <li>场景简单地呈现,{OBSERVER_nameShort}无结果的观察。</li>
+  </Observed_generator_conclusion_Neutral.texts>
+  <!--EN: Observed_generator_conclusion_positive-->
+  <Observed_generator_conclusion_positive.label>观察到的生成器 _consul_pronoun</Observed_generator_conclusion_positive.label>
+  <Observed_generator_conclusion_positive.texts>
+    <!--EN: That was unbelievable, that made me wanting to be seen more.-->
+    <li>难以置信，这让我想看到更多。</li>
+    <!--EN: {OBSERVER_nameShort} gaze was truly captivating, leaving me utterly enchanted.-->
+    <li>{OBSERVER_nameShort}凝视真是迷人，让我彻底被迷住了。</li>
+    <!--EN: I felt a profound sense of being admired and desired.-->
+    <li>我有一种被崇拜和渴望的深刻感觉。</li>
+    <!--EN: {OBSERVER_nameShort} eyes stirred something primal within me, a deep longing to be appreciated.-->
+    <li>{OBSERVER_nameShort}我的眼睛里充满了某种原始的东西，一种希望被赏识的强烈渴望。</li>
+    <!--EN: Such appreciation, it filled me with a joyous, almost reverent, feeling.-->
+    <li>这种感激让我感到近乎虔诚的喜悦。</li>
+    <!--EN: I couldn't help but want {OBSERVER_nameShort} eyes to linger; it was simply magnificent.-->
+    <li>我禁不住要{OBSERVER_nameShort}眼睛徘徊; 这简直太迷人了。</li>
+    <!--EN: {OBSERVER_nameShort} gaze was a perfect vision, inspiring a warmth that spread through my entire being.-->
+    <li>{OBSERVER_nameShort}凝视是一个完美的愿景，激发出一股温暖，蔓延到我的整个生命。</li>
+    <!--EN: My senses were overwhelmed by the sheer allure of being seen in that moment.-->
+    <li>我的感官被这种纯粹的诱惑压垮了。瞬间没有。</li>
+    <!--EN: It was an experience I never wanted to end, a pure delight to be observed.-->
+    <li>这是一次我从未想过要结束的经历，一次纯粹的快乐。</li>
+    <!--EN: I felt a powerful connection, drawn in by {OBSERVER_nameShort} honest appreciation.-->
+    <li>我感到了一种强大的联系，被{OBSERVER_nameShort}真诚的谢意。</li>
+    <!--EN: This was a moment of pure, unadulterated pleasure from being seen.-->
+    <li>这是一个瞬间一种纯粹的快乐。</li>
+    <!--EN: Every fiber of my being resonated with {OBSERVER_nameShort} appreciation.-->
+    <li>我身体的每一根纤维都受到了共鸣{OBSERVER_nameShort}感谢。</li>
+    <!--EN: I felt a delicious thrill, a yearning for {OBSERVER_nameShort} closer intimacy.-->
+    <li>我感到一种美妙的刺激，一种对{OBSERVER_nameShort}靠近亲密没有。</li>
+    <!--EN: The beauty they saw in me was truly inspiring, almost divine.-->
+    <li>他们在我身上看到的美丽是真正令人鼓舞的，几乎是神圣的。</li>
+    <!--EN: It left me breathless, eager for more such captivating gazes.-->
+    <li>这让我无法呼吸，渴望更多这样迷人的眼神。</li>
+    <!--EN: A profound sense of satisfaction washed over me from {OBSERVER_nameShort} look.-->
+    <li>一种深深的满足感笼罩了我，从{OBSERVER_nameShort}快看。</li>
+    <!--EN: I felt a deep, sensual awakening, utterly enthralled by {OBSERVER_nameShort} attention.-->
+    <li>我深有体会,性感的正在苏醒，完全迷住了{OBSERVER_nameShort}请注意。</li>
+    <!--EN: This was an unforgettable encounter, a feast for {OBSERVER_nameShort} eyes and my soul.-->
+    <li>这是一次令人难忘的相遇，一场盛宴{OBSERVER_nameShort}眼睛和我的灵魂。</li>
+    <!--EN: My heart pounded with a mixture of awe and intense longing for {OBSERVER_nameShort} continued gaze.-->
+    <li>我的心脏里夹杂着敬畏和强烈的渴望。{OBSERVER_nameShort}继续凝视。</li>
+    <!--EN: {OBSERVER_nameShort} reaction filled me with an exhilarating, almost intoxicating, joy.-->
+    <li>{OBSERVER_nameShort}这种反应让我感到兴奋，几乎是醉人的喜悦。</li>
+  </Observed_generator_conclusion_positive.texts>
+  <!--EN: Observer_generator_conclusion_Negative-->
+  <Observer_generator_conclusion_Negative.label>Observer_generator_consul_possessive</Observer_generator_conclusion_Negative.label>
+  <Observer_generator_conclusion_Negative.texts>
+    <!--EN: That was rather unappealing, making me want to look away.-->
+    <li>这相当没有吸引力，让我想转移视线。</li>
+    <!--EN: A truly distasteful display, leaving me quite repulsed.-->
+    <li>一次真正令人厌恶的表演，让我非常反感。</li>
+    <!--EN: I felt a profound sense of discomfort and aversion.-->
+    <li>我感到非常不适和厌恶。</li>
+    <!--EN: The sight stirred something negative within me, a deep unease.-->
+    <li>这一景象触动了我的内心，使我感到一些负面的东西，深深感到不安。</li>
+    <!--EN: Such vulgarity, it filled me with a feeling of disgust.-->
+    <li>这种粗俗的态度让我感到十分厌恶。</li>
+    <!--EN: I wanted to tear my eyes away; it was simply unpleasant.-->
+    <li>我想要将视线撕碎，这简直是令人不快。</li>
+    <!--EN: An unsightly vision, inspiring a chill that spread through my entire being.-->
+    <li>丑陋的视力，激发出一股寒意，在我全身蔓延。</li>
+    <!--EN: My senses were overwhelmed by the sheer ugliness of the moment.-->
+    <li>我的感官被这种纯粹的丑陋所淹没瞬间没有。</li>
+    <!--EN: It was an experience I wished had never happened, a pure distaste.-->
+    <li>这是一次我希望从未发生过的经历，一次纯粹的厌恶。</li>
+    <!--EN: I felt a powerful disconnection, repelled by the raw honesty of the scene.-->
+    <li>我感到一种强烈的脱节，被这个残酷的场景所排斥。</li>
+    <!--EN: This was a moment of pure, unadulterated revulsion.-->
+    <li>这是一个瞬间纯洁、纯粹的厌恶。</li>
+    <!--EN: Every fiber of my being recoiled with disapproval.-->
+    <li>我的每一根纤维都被拒绝了。</li>
+    <!--EN: I felt a sickening dread, a yearning for distance.-->
+    <li>我感到一种令人作呕的恐惧，一种对距离的渴望。</li>
+    <!--EN: The sight I witnessed was truly unsettling, almost offensive.-->
+    <li>我目睹的景象真的令人不舒服，几乎令人不快。</li>
+    <!--EN: It left me disturbed, eager to escape such unpleasant sights.-->
+    <li>这让我很不安，想要逃离这种令人不快的景象。</li>
+    <!--EN: A profound sense of discomfort washed over me.-->
+    <li>一种强烈的不适感笼罩了我。</li>
+    <!--EN: I felt a deep, prudish aversion, utterly displeased.-->
+    <li>我感到一种深深的、拘谨的厌恶，非常不满。</li>
+    <!--EN: This was an unforgettable encounter, a blight on the eyes and soul.-->
+    <li>这是一次令人难忘的相遇，一次对眼睛和灵魂的枯萎。</li>
+    <!--EN: My heart pounded with a mixture of disdain and intense discomfort.-->
+    <li>我的心脏里夹杂着鄙夷和剧烈的不适。</li>
+    <!--EN: The scene filled me with an irritating, almost nauseating, feeling.-->
+    <li>这一场景让我感到一种烦人的、近乎恶心的感觉。</li>
+  </Observer_generator_conclusion_Negative.texts>
+  <!--EN: Observer_generator_conclusion_Neutral-->
+  <Observer_generator_conclusion_Neutral.label>Observer_generator_possessive</Observer_generator_conclusion_Neutral.label>
+  <Observer_generator_conclusion_Neutral.texts>
+    <!--EN: It was simply a sight, nothing more, nothing less.-->
+    <li>这只是一个景象，仅此而已。</li>
+    <!--EN: I observed it without any particular emotional response.-->
+    <li>我观察它时没有任何特别的情绪反应。</li>
+    <!--EN: The scene unfolded, and I took it in as a matter of fact.-->
+    <li>场景展开了，我也接受了。</li>
+    <!--EN: My feelings remained unswayed, neither positive nor negative.-->
+    <li>我的感觉一直保持不变，既不是积极的，也不是消极的。</li>
+    <!--EN: It was there, and I saw it. That was all.-->
+    <li>它就在那里，我看到了。仅此而已。</li>
+    <!--EN: I registered the nudity, but it didn't provoke a strong reaction.-->
+    <li>我登记了裸体，但没有引起强烈反应。</li>
+    <!--EN: A neutral observation, part of the surroundings.-->
+    <li>中立的观察对象，是周围环境的一部分。</li>
+    <!--EN: My gaze passed over it, moving on to other things.-->
+    <li>我的目光越过它，转向其他东西。</li>
+    <!--EN: It was what it was; I had no strong opinion.-->
+    <li>事情就是这样，我没有坚定的看法。</li>
+    <!--EN: The moment was unremarkable, simply existing.-->
+    <li>该瞬间微不足道，简单地说就是存在。</li>
+    <!--EN: I felt no particular draw or repulsion.-->
+    <li>我没有感觉到什么特别的吸引或排斥。</li>
+    <!--EN: It didn't leave a lasting impression.-->
+    <li>它没有留下持久的印象。</li>
+    <!--EN: My thoughts remained dispassionate.-->
+    <li>我的思想保持冷静。</li>
+    <!--EN: Just another visual, nothing to dwell on.-->
+    <li>只是另一个视觉世界，没有什么可提及的。</li>
+    <!--EN: I acknowledged the sight, then dismissed it.-->
+    <li>我承认了这一景象，然后将其遣散。</li>
+    <!--EN: It was neither appealing nor unappealing.-->
+    <li>这既没有吸引力，也不没有吸引力。</li>
+    <!--EN: My emotions were unaffected by the display.-->
+    <li>我的情绪不受显示器的影响。</li>
+    <!--EN: A fleeting moment, quickly forgotten.-->
+    <li>稍纵即逝瞬间,很快被遗忘。</li>
+    <!--EN: I felt no curiosity or aversion.-->
+    <li>我并不感到好奇和厌恶。</li>
+    <!--EN: The scene was simply present, without consequence.-->
+    <li>这一场景只是简单的存在，没有任何后果。</li>
+  </Observer_generator_conclusion_Neutral.texts>
+  <!--EN: Observer_generator_conclusion_positive-->
+  <Observer_generator_conclusion_positive.label>Observer_generator_consul_pronoun</Observer_generator_conclusion_positive.label>
+  <Observer_generator_conclusion_positive.texts>
+    <!--EN: That was unbelievable, that made me wanting to see more.-->
+    <li>难以置信，这让我想看更多。</li>
+    <!--EN: A truly captivating display, leaving me utterly enchanted.-->
+    <li>一个真正迷人的展示，让我彻底迷住了。</li>
+    <!--EN: I felt a profound sense of admiration and desire.-->
+    <li>我深深地感到钦佩和欲望没有。</li>
+    <!--EN: The sight stirred something primal within me, a deep longing.-->
+    <li>这一景象唤起了我心中某种原始的东西，一种深深的渴望。</li>
+    <!--EN: Such beauty, it filled me with a joyous, almost reverent, feeling.-->
+    <li>如此美丽，让我感到一种近乎虔诚的喜悦。</li>
+    <!--EN: I couldn't tear my eyes away; it was simply magnificent.-->
+    <li>我无法流出眼泪。它们必须从脸上流下来或从眼睛里掉下来。，这简直太迷人了。</li>
+    <!--EN: A perfect vision, inspiring a warmth that spread through my entire being.-->
+    <li>一个完美的愿景，激发出一股温暖，蔓延至我的整个生命。</li>
+    <!--EN: My senses were overwhelmed by the sheer allure of the moment.-->
+    <li>我的感官被纯粹的诱惑压垮了瞬间没有。</li>
+    <!--EN: It was an experience I never wanted to end, a pure delight.-->
+    <li>这是一次我从未想过要结束的经历，一次纯粹的快乐。</li>
+    <!--EN: I felt a powerful connection, drawn in by the raw honesty of the scene.-->
+    <li>我感到了一种强大的联系，被这个场景原始的诚实所吸引。</li>
+    <!--EN: This was a moment of pure, unadulterated pleasure.-->
+    <li>这是一个瞬间纯粹的快乐。</li>
+    <!--EN: Every fiber of my being resonated with appreciation.-->
+    <li>我的每一根纤维都与谢意共鸣。</li>
+    <!--EN: I felt a delicious thrill, a yearning for closer intimacy.-->
+    <li>我感到一种美妙的刺激，一种对更近的人的渴望亲密没有。</li>
+    <!--EN: The beauty I witnessed was truly inspiring, almost divine.-->
+    <li>我所目睹的美丽是真正令人鼓舞的，几乎是神圣的。</li>
+    <!--EN: It left me breathless, eager for more such captivating sights.-->
+    <li>这让我无法呼吸，渴望更多这样迷人的景象。</li>
+    <!--EN: A profound sense of satisfaction washed over me.-->
+    <li>一种深深的满足感笼罩了我。</li>
+    <!--EN: I felt a deep, sensual awakening, utterly enthralled.-->
+    <li>我深有体会,性感的一觉醒来，完全被迷住了。</li>
+    <!--EN: This was an unforgettable encounter, a feast for the eyes and soul.-->
+    <li>这是一次令人难忘的相遇，一次赏赐。</li>
+    <!--EN: My heart pounded with a mixture of awe and intense longing.-->
+    <li>我的心夹杂着敬畏和强烈的渴望。</li>
+    <!--EN: The scene filled me with an exhilarating, almost intoxicating, joy.-->
+    <li>这一场景让我感到兴奋，几乎是醉人的喜悦。</li>
+  </Observer_generator_conclusion_positive.texts>
+</LanguageData>

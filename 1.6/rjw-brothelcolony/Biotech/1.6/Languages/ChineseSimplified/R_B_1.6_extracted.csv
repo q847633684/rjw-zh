@@ -1,0 +1,143 @@
+key,text,tag,file,type
+CB_OfferPawn.label,Offer pawn,label,AbilityDef/AbilityDef.xml,def
+CB_OfferPawn.description,"Even if not born to one of them, perhaps they would take one of ours with them.",description,AbilityDef/AbilityDef.xml,def
+CB_AddGene.label,learn gene,label,AbilityDef/AbilityDef.xml,def
+CB_AddGene.description,Learn genes to be used for gene tampering.,description,AbilityDef/AbilityDef.xml,def
+CB_GeneTampering.label,gene tampering,label,AbilityDef/AbilityDef.xml,def
+CB_GeneTampering.description,Spend fervor to tamper with the genes of the target or their unborn.,description,AbilityDef/AbilityDef.xml,def
+CB_MarkedForDeparture_Hediff.description,Our sacred rituals grant us fertility.,description,HediffDef/HediffDef.xml,def
+CB_MarkedForDeparture_Hediff.label,MarkedForDeparture,label,HediffDef/HediffDef.xml,def
+CB_SacredFertility_Hediff.description,Our sacred rituals grant us fertility.,description,HediffDef/HediffDef.xml,def
+CB_SacredFertility_Hediff.label,Sacred fertility,label,HediffDef/HediffDef.xml,def
+CB_SacredOvercomeAge_Hediff.description,"Our sacred rituals grant us fertility, even in old age.",description,HediffDef/HediffDef.xml,def
+CB_SacredOvercomeAge_Hediff.label,Ageless fertility,label,HediffDef/HediffDef.xml,def
+CB_WhoringValueOffsetTest.description,Debug hediff to test the Whoring Value,description,HediffDef/HediffDef.xml,def
+CB_WhoringValueOffsetTest.label,Whoring Value Offset Test,label,HediffDef/HediffDef.xml,def
+CB_Repopulationist.label,Repopulation Effort,label,MemeDef/MemeDef.xml,def
+CB_Repopulationist.description,"This world needs to be repopulated and we will do our part\n\nInfo: As soon as they learn to walk, they can be sent out into the world, if they have a parent from another faction\n\nWarning: Duty means duty. You will need to gear your colony to support the playstyle",description,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.0,memeAdjective->fertile,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.1,memeAdjective->fecund,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.2,memeAdjective->childbearing,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.3,memeAdjective->breeding,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.4,memeAdjective->lush,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.5,memeAdjective->fruitful,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.6,memeLeaderNoun->mother,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.7,memeLeaderNoun->child-bearer,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.8,memeLeaderNoun->breeder,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.9,memeConcept->repopulationism,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.10,memeConcept->breeding,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.11,memeConcept->motherhood,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.12,memeConcept->fertility,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.13,memeLeaderAdjective->fertile,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.14,memeLeaderAdjective->fecund,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.15,memeLeaderAdjective->fruitful,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.16,memeLeaderAdjective->lush,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.generalRules.rulesStrings.17,memeLeaderAdjective->breeding,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.descriptionMaker.rules.rulesStrings.0,creation(tag=meme_CB_Repopulationist)        ->[deity0_name] tasked us with bringing life to this barren world.,li,MemeDef/MemeDef.xml,def
+CB_Repopulationist.descriptionMaker.rules.rulesStrings.1,"episode(uses=1,tag=meme_CB_Repopulationist)  ->[founderName] brought forth many children in the name of [deity0_objective].",li,MemeDef/MemeDef.xml,def
+CB_Repopulation_Issue.label,repopulation effort,label,IssueDef/IssueDef.xml,def
+CB_Repopulation_GivenAway.label,has been given away,label,HistoryEventDef/HistoryEventDef.xml,def
+CB_Repopulation_RefusedGivenAway.label,had not been given away,label,HistoryEventDef/HistoryEventDef.xml,def
+CB_Repopulation_Duty.label,Duty,label,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Duty.description,"Our duty is to repopulate this world, we do not expect anything in return. Depending on the prostitution level, this duty can be sacred or essential",description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Duty.comps.0.description,offspring given away,description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Duty.comps.1.description,offspring not given away,description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Duty.comps.3.description,My child was given away,description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Kindness.label,Kindness,label,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Kindness.description,"We aid the other factions by bearing their offspring. Depending on the prostitution level, this can be seen as sacred",description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Kindness.comps.0.description,offspring given away,description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Kindness.comps.1.description,offspring not given away,description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Kindness.comps.2.description,My child was given away,description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Greed.label,Greed,label,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Greed.description,"We aid the other factions by bearing their offspring, for a price. Depending on the prostitution level, this can be seen as sacred",description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Greed.comps.0.description,offspring given away,description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Greed.comps.1.description,offspring not given away,description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Greed.comps.2.description,My child was given away,description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_None.label,None,label,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_None.description,We do not try to repopulate the world,description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_None.comps.0.description,offspring given away,description,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_None.comps.1.description,My child was given away,description,PreceptDef/PreceptDef.xml,def
+CB_GeneTampering.label,gene tampering,label,PreceptDef/PreceptDef.xml,def
+CB_GeneTampering.description,An attempt will be made to tamper with the genes of the target or their unborn.,description,PreceptDef/PreceptDef.xml,def
+CB_GeneTampering_Behavior.roles.0.label,Gene tamperer,label,RitualBehaviorDef/RitualBehaviorDef.xml,def
+CB_GeneTampering_Behavior.roles.1.label,Target,label,RitualBehaviorDef/RitualBehaviorDef.xml,def
+CB_GeneTampering_Behavior.roles.1.missingDesc,a target,missingDesc,RitualBehaviorDef/RitualBehaviorDef.xml,def
+CB_GeneTampering_Outcome.description,A choice is to be made.,description,RitualOutcomeEffectDef/RitualOutcomeEffectDef.xml,def
+CB_GeneTampering_Outcome.comps.0.label,participant count,label,RitualOutcomeEffectDef/RitualOutcomeEffectDef.xml,def
+CB_GeneTampering_Outcome.outcomeChances.0.label,"Ten fervor to remove an unwanted gene.\n  - Each point of complexity requires additonal ten fervor.\n  - Double for adding a learned gene\n  - Half of that when targeting an unborn.\n\nIf pregnant, only the child can be targeted for",label,RitualOutcomeEffectDef/RitualOutcomeEffectDef.xml,def
+CB_GeneTampering_Outcome.outcomeChances.0.description,Choice for gene tampering,description,RitualOutcomeEffectDef/RitualOutcomeEffectDef.xml,def
+CB_SacredFertility.label,Sacred fertility,label,RitualAttachableOutcomeEffectDef/RitualAttachableOutcomeEffectDef.xml,def
+CB_SacredFertility.effectDesc,"Depending on the ritual outcome, all participants gain a bonus to their fertility.
+	\nThis overcomes infertility due to old age.
+	\nAdditional Sacred Fervor can be spent for even more fertility.",effectDesc,RitualAttachableOutcomeEffectDef/RitualAttachableOutcomeEffectDef.xml,def
+CB_SacredFertility.description,"Depending on the ritual outcome, all participants gain a bonus to their fertility.
+	\nThis overcomes infertility due to old age.
+	\nAdditional Sacred Fervor can be spent for even more fertility.",description,RitualAttachableOutcomeEffectDef/RitualAttachableOutcomeEffectDef.xml,def
+CB_Repopulation_Specialist.label,Repopulation specialist,label,PreceptDef/PreceptDef.xml,def
+CB_Repopulation_Specialist.description,"Specialised in handling repopulatist matters.\n- Able to offer any pawn to any visitor.\n- If in a caravan, can offer pawns to settlements\n- Can use fervour points to tamper with genes.\n- Able to convert earned fervour into ideology points.",description,PreceptDef/PreceptDef.xml,def
+CB_NamerRoleRepopulationistSpecialist.rulePack.rulesStrings.0,nounInsert->fertilizer,li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleRepopulationistSpecialist.rulePack.rulesStrings.1,nounInsert->womb,li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleRepopulationistSpecialist.rulePack.rulesStrings.2,nounInsert->breeder,li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleRepopulationistSpecialist.rulePack.rulesStrings.3,nounInsert->seeder,li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleRepopulationistSpecialist.rulePack.rulesStrings.4,nounInsert->bearer,li,RulePackDef/RulePackDef.xml,def
+CB_NamerRoleRepopulationistSpecialist.rulePack.rulesStrings.5,nounInsert->repopulater,li,RulePackDef/RulePackDef.xml,def
+CB_Repopulation_GivenAway_Duty_Sacred.stages.0.label,Sacred repopulation,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway_Duty_Sacred.stages.0.description,Another divine child was sent into the world,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway_Duty_Essential.stages.0.label,Repopulation,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway_Duty_Essential.stages.0.description,Another child was sent into the world,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway_Duty.stages.0.label,Child sent away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway_Duty.stages.0.description,Another child was sent into the world,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway.stages.0.label,Sacred repopulation,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway.stages.0.description,Another divine child was sent into the world,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway.stages.1.label,Repopulation,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway.stages.1.description,Another child was sent into the world,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway.stages.2.label,Child given away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway.stages.2.description,One less mouth to feed,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway.stages.3.label,Child given away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway.stages.3.description,Why are we doing this?,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway.stages.4.label,Child given away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_GivenAway.stages.4.description,Why are we doing this?,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know_Duty.stages.0.label,My child sent away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know_Duty.stages.0.description,The most sacred of duties is to repopulate,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know_Duty.stages.1.label,My child sent away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know_Duty.stages.1.description,Repopulating is an important duty,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know_Duty.stages.2.label,My child sent away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know_Duty.stages.2.description,Did it have to be mine?,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know_Duty.stages.3.label,My child sent away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know_Duty.stages.3.description,They sent my child away!,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know_Duty.stages.4.label,My child sent away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know_Duty.stages.4.description,They sent my child away!,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know.stages.0.label,My child sent away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know.stages.0.description,The most sacred of duties is to repopulate,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know.stages.1.label,My child sent away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know.stages.1.description,Repopulating is an important duty,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know.stages.2.label,My child sent away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know.stages.2.description,Did it have to be mine?,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know.stages.3.label,My child sent away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know.stages.3.description,They sent my child away!,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know.stages.4.label,My child sent away,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_MyChild_Know.stages.4.description,They sent my child away!,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway.stages.0.label,Divine child withheld,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway.stages.0.description,"It was their time to go into the world, and we refused",description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway.stages.1.label,Child withheld,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway.stages.1.description,We broke the agreement,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway.stages.2.label,Child withheld,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway.stages.2.description,We broke the agreement,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway.stages.3.label,Child withheld,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway.stages.3.description,We broke the agreement,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway.stages.4.label,Child withheld,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway.stages.4.description,We should never have considered this,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway_Duty.stages.0.label,Divine child withheld,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway_Duty.stages.0.description,"It was their time to go into the world, and we refused",description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway_Duty.stages.1.label,Child withheld,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway_Duty.stages.1.description,We broke the agreement,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway_Duty.stages.2.label,Child withheld,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway_Duty.stages.2.description,We broke the agreement,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway_Duty.stages.3.label,Child withheld,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway_Duty.stages.3.description,We broke the agreement,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway_Duty.stages.4.label,Child withheld,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_RefusedGivenAway_Duty.stages.4.description,We should never have considered this,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_Required.stages.0.label,Repopulating,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_Required.stages.0.description,We are fulfilling our duty to repopulate this planet,description,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_Required.stages.1.label,Not repopulating,label,ThoughtDef/ThoughtDef.xml,def
+CB_Repopulation_Required.stages.1.description,We are not fulfilling our duty to repopulate this planet,description,ThoughtDef/ThoughtDef.xml,def

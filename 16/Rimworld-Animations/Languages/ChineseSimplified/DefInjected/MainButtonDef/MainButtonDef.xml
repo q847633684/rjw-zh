@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Edit pawn offsets for animations.-->
-  <OffsetManager.description>编辑角色动画偏移量。</OffsetManager.description>
-  <!--EN: Animation Manager-->
-  <OffsetManager.label>动画管理器</OffsetManager.label>
-</LanguageData>

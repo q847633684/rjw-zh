@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Always-->
+  <WhoringCondomTypeAlways>戴套</WhoringCondomTypeAlways>
+  <!--EN: Never-->
+  <WhoringCondomTypeNever>中出</WhoringCondomTypeNever>
+  <!--EN: Normal-->
+  <WhoringCondomTypeNormal>正常</WhoringCondomTypeNormal>
+  <!--EN: Fervor-->
+  <WhoringPaymentTypeFervor>热忱圣点</WhoringPaymentTypeFervor>
+  <!--EN: Goodwill-->
+  <WhoringPaymentTypeGoodwill>派系好感度</WhoringPaymentTypeGoodwill>
+  <!--EN: Nothing-->
+  <WhoringPaymentTypeNothing>无</WhoringPaymentTypeNothing>
+  <!--EN: Silver-->
+  <WhoringPaymentTypeSilver>白银</WhoringPaymentTypeSilver>
+  <!--EN: Avoid-->
+  <WhoringPregnancyTypeAvoid>避免</WhoringPregnancyTypeAvoid>
+  <!--EN: Normal-->
+  <WhoringPregnancyTypeNormal>正常</WhoringPregnancyTypeNormal>
+  <!--EN: Try-->
+  <WhoringPregnancyTypeTry>尝试</WhoringPregnancyTypeTry>
+  <!--EN:   Gender: {0}\n  Age: {1}\n  Injuries: {2}-->
+  <WhoringTipBoth>性别: {0}\n  年龄: {1}\n  伤口: {2}</WhoringTipBoth>
+  <!--EN: No payment?-->
+  <WhoringTipNoPayment>没有付钱？</WhoringTipNoPayment>
+  <!--EN: Earn {0} sacred fervor.\n\nAffected by quality of whoring bed.-->
+  <WhoringTipPaymentTypeFervor>获得{0}点热忱圣点，\n\n受青楼床铺品质影响。</WhoringTipPaymentTypeFervor>
+  <!--EN: Raise Goodwill by {0}\n\nAffected by quality of whoring bed.-->
+  <WhoringTipPaymentTypeGoodwill>获得{0}点派系好感度，\n\n受青楼床铺品质影响。</WhoringTipPaymentTypeGoodwill>
+  <!--EN: Min:\n{0}\nMax:\n{1}\nBoth:\n{2}\n\nAffected by quality of whoring bed-->
+  <WhoringTipPaymentTypeSilver>最低收入:\n{0}\n最高收入:\n{1}\n获取:\n{2}\n\n受青楼床铺品质影响。</WhoringTipPaymentTypeSilver>
+  <!--EN:   Base Price: {0}\n  Traits and Beauty: {1}\n  Skill: {2}-->
+  <WhoringTipPrice>基础: {0}\n  特性: {1}\n  技能点: {2}</WhoringTipPrice>
+</LanguageData>

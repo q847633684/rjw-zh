@@ -1,6 +1,0 @@
-key,text,tag,file,type
-RV2_Settings_TabNames_DBH,Dubs Bad Hygiene,RV2_Settings_TabNames_DBH,RV2_DBH_Keys.xml,keyed
-RV2_Settings_DBH_LimitToiletDisposalToContainers,Limit toilet disposal to product containers,RV2_Settings_DBH_LimitToiletDisposalToContainers,RV2_DBH_Keys.xml,keyed
-RV2_Settings_DBH_LimitToiletDisposalToContainers_Tip,Disabling this means that living prey will be ejected into toilets,RV2_Settings_DBH_LimitToiletDisposalToContainers_Tip,RV2_DBH_Keys.xml,keyed
-RV2_DBH_ToiletAllowedForDumpingLabel,Prey dumping,RV2_DBH_ToiletAllowedForDumpingLabel,RV2_DBH_Keys.xml,keyed
-RV2_DBH_ToiletAllowedForDumpingDescription,"Can dead prey be released into this toilet? If no toilets that allow for prey dumping, the pawn may dump the prey on the floor.",RV2_DBH_ToiletAllowedForDumpingDescription,RV2_DBH_Keys.xml,keyed

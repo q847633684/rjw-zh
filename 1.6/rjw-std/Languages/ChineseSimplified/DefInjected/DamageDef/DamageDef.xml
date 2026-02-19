@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: {0} has died of a disease.-->
+  <ViralDamage.deathMessage>{0} 死于疾病。</ViralDamage.deathMessage>
+  <!--EN: viral damage-->
+  <ViralDamage.label>病毒损害</ViralDamage.label>
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Lubrify-->
+  <ConvertLube.label>日光</ConvertLube.label>
+  <!--EN: Lactify-->
+  <ConvertMilk.label>裂解</ConvertMilk.label>
+  <!--EN: Spermify-->
+  <ConvertSperm.label>精子</ConvertSperm.label>
+  <!--EN: Digest-->
+  <Digest.label>消化</Digest.label>
+  <!--EN: Heal-->
+  <Heal.label>治愈</Heal.label>
+  <!--EN: Store (timed)-->
+  <Hold.label>储存 (定时)</Hold.label>
+  <!--EN: Pleasure-->
+  <Pleasure.label>愉悦</Pleasure.label>
+  <!--EN: Reform-->
+  <Reform.label>改革</Reform.label>
+  <!--EN: Store (manual)-->
+  <Store.label>储存 (手动)</Store.label>
+</LanguageData>

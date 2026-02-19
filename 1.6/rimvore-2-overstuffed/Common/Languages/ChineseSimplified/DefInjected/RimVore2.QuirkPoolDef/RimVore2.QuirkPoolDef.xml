@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: These quirks are required for a pawn to be able to use vore, each representing one type or goal. Modifying their commonality sets the global chances that any pawn will be capable of using any given vore path. Vore enablers can be aquired to add the quirk to an existing pawn, even if the quirk itself is set to ForcedOnly; do this if you want vore to be a power unlocked solely through acquisition of the required enablers.-->
+  <Enablers_Overstuffed.description>这些怪癖是必须的pawn能够使用吃人,每个代表一个类型或目标。修改它们的共性可以设置任何pawn将能够使用任何给定吃人路径。吃人支持者可以被获得，以增加一个现有的怪癖pawn,即使 quirk 本身已设置为 ForcedOnly; 如果你想这样做吃人仅通过获取所需的赋能装置来解锁电源。</Enablers_Overstuffed.description>
+  <!--EN: Overstuffed enablers-->
+  <Enablers_Overstuffed.label>超载</Enablers_Overstuffed.label>
+  <!--EN: These quirks determine how much a pawn likes amalgamating prey (non-fatal absorption). At the extremes, the pawn will either never or always try to amalgamate prey. These quirks do require the ability to absorb prey in the first place, however.-->
+  <GoalPreference_Predator_Amalgamate.description>这些怪癖决定了多少钱一个pawn喜欢吞噬猎物 (非致命吸收)。在极端情况下,pawn将永远不会或总是尝试合并猎物。然而，这些怪癖确实首先需要吸收猎物的能力。</GoalPreference_Predator_Amalgamate.description>
+  <!--EN: Predatory goal preference\n(amalgamation)-->
+  <GoalPreference_Predator_Amalgamate.label>掠夺性目标偏好
+(合并)</GoalPreference_Predator_Amalgamate.label>
+  <!--EN: These quirks determine how much a pawn likes assimilating prey (fatal absorption). At the extremes, the pawn will either never or always try to assimilate prey. These quirks do require the ability to absorb prey in the first place, however.-->
+  <GoalPreference_Predator_Assimilate.description>这些怪癖决定了多少钱一个pawn喜欢同化猎物 (致命吸收)。在极端情况下,pawn将永远不会或总是尝试同化猎物。然而，这些怪癖确实首先需要吸收猎物的能力。</GoalPreference_Predator_Assimilate.description>
+  <!--EN: Predatory goal preference\n(assimilation)-->
+  <GoalPreference_Predator_Assimilate.label>掠夺性目标偏好
+(同化)</GoalPreference_Predator_Assimilate.label>
+  <!--EN: These quirks determine how much a pawn wants to be amalgamated (non-fatally absorbed) into a predator. At the extremes, the pawn will either never or always try to be amalgamated. Be careful increasing the commonality of an amalgamation preference: willing pawns can easily be lost indefinitely among however many predators you have who are capable of absorption.-->
+  <GoalPreference_Prey_Amalgamate.description>这些怪癖决定了多少钱一个pawn想要融入 (非致命的吸收) 成为捕食者。在极端情况下,pawn将永远不尝试或总是尝试合并。提高合并偏好的共同性要小心: 不管你有多少能够吸收的捕食者，心甘情愿的殖民者很容易无限期地消失。</GoalPreference_Prey_Amalgamate.description>
+  <!--EN: Preyish goal preference\n(amalgamation)-->
+  <GoalPreference_Prey_Amalgamate.label>猎物目标偏好
+(合并)</GoalPreference_Prey_Amalgamate.label>
+  <!--EN: These quirks determine how much a pawn wants to be assimilated (fatally absorbed) into a predator. At the extremes, the pawn will either never or always try to be assimilated. Be careful increasing the commonality of an assimilation preference: willing pawns can easily be killed by predators with little notice.-->
+  <GoalPreference_Prey_Assimilate.description>这些怪癖决定了多少钱一个pawn希望被同化 (致命地被吸收) 为捕食者。在极端情况下,pawn将永远不会或总是尝试被同化。提高同化偏好的共性要小心: 意志坚定的殖民者很容易被捕食者所杀死，而很少有人注意到这一点。</GoalPreference_Prey_Assimilate.description>
+  <!--EN: Preyish goal preference (assimilation)-->
+  <GoalPreference_Prey_Assimilate.label>Preyish 目标偏好 (同化)</GoalPreference_Prey_Assimilate.label>
+  <!--EN: These quirks determine the effects that assimilating prey (fatal absorption) has on the predator. These quirks do require the ability to absorb prey in the first place, however.-->
+  <PostVoreAssimilation.description>这些怪癖决定了同化猎物 (致命吸收) 对捕食者的影响。然而，这些怪癖确实首先需要吸收猎物的能力。</PostVoreAssimilation.description>
+  <!--EN: Post vore effects (assimilation)-->
+  <PostVoreAssimilation.label>后期吃人效果 (同化)</PostVoreAssimilation.label>
+  <!--EN: These quirks determine how much a pawn likes to stuff prey down their cleavage. At the extremes, the pawn will either never or always try to fissure prey.-->
+  <TypePreference_Predator_Cleavage.description>这些怪癖决定了多少钱一个pawn喜欢将猎物塞进乳沟在极端情况下,pawn将永远不会尝试或总是尝试裂解猎物。</TypePreference_Predator_Cleavage.description>
+  <!--EN: Predatory type pref. (cleavage)-->
+  <TypePreference_Predator_Cleavage.label>捕食动物 (乳沟)</TypePreference_Predator_Cleavage.label>
+  <!--EN: These quirks determine how much a pawn likes to engulf prey through their permeable outer membrane. At the extremes, the pawn will either never or always try to engulf prey.-->
+  <TypePreference_Predator_Membrane.description>这些怪癖决定了多少钱一个pawn喜欢通过可渗透的外膜吞噬猎物。在极端情况下,pawn将永远不会或总是尝试吞噬猎物。</TypePreference_Predator_Membrane.description>
+  <!--EN: Predatory type pref. (membrane)-->
+  <TypePreference_Predator_Membrane.label>捕食动物 (膜)</TypePreference_Predator_Membrane.label>
+  <!--EN: These quirks determine how much a pawn likes to stuff prey into their navel. At the extremes, the pawn will either never or always try to ennavel prey.-->
+  <TypePreference_Predator_Navel.description>这些怪癖决定了多少钱一个pawn喜欢将猎物塞进他们的肚脐。在极端情况下,pawn将永远不会或总是试图抓住猎物。</TypePreference_Predator_Navel.description>
+  <!--EN: Predatory type preference (navel)-->
+  <TypePreference_Predator_Navel.label>捕食动物类型偏好 (肚脐)</TypePreference_Predator_Navel.label>
+  <!--EN: These quirks determine how much a pawn likes to gulp prey down their tail-throat. At the extremes, the pawn will either never or always try to pythen prey.-->
+  <TypePreference_Predator_Tailmaw.description>这些怪癖决定了多少钱一个pawn喜欢吞食它们的猎物一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。-咽喉.在极端情况下,pawn将永远不会或总是尝试捕食。</TypePreference_Predator_Tailmaw.description>
+  <!--EN: Predatory type preference (tailmaw)-->
+  <TypePreference_Predator_Tailmaw.label>捕食动物类型偏好 (尾 ma)</TypePreference_Predator_Tailmaw.label>
+  <!--EN: These quirks determine how much a pawn likes to stuff prey into their udder. At the extremes, the pawn will either never or always try to unnurse prey into their udder.-->
+  <TypePreference_Predator_Udder.description>这些怪癖决定了多少钱一个pawn喜欢将猎物塞进乳房。在极端情况下,pawn将永远不会或总是试图将猎物解除到乳房里。</TypePreference_Predator_Udder.description>
+  <!--EN: Predatory type preference (udder)-->
+  <TypePreference_Predator_Udder.label>捕食动物类型偏好</TypePreference_Predator_Udder.label>
+  <!--EN: These quirks determine how much a pawn likes to be stuffed in predators' cleavage. At the extremes, the pawn will either never or always try to get fissured.-->
+  <TypePreference_Prey_Cleavage.description>这些怪癖决定了多少钱一个pawn喜欢被植入捕食者乳沟在极端情况下,pawn将永远不会或总是尝试破裂。</TypePreference_Prey_Cleavage.description>
+  <!--EN: Preyish type preference (cleavage)-->
+  <TypePreference_Prey_Cleavage.label>猎物类型偏好 (乳沟)</TypePreference_Prey_Cleavage.label>
+  <!--EN: These quirks determine how much a pawn likes to be engulfed through a slimelike being's permeable outer membrane, like by a slime. At the extremes, the pawn will either never or always try to get engulfed.-->
+  <TypePreference_Prey_Membrane.description>这些怪癖决定了多少钱一个pawn喜欢被纤细生物的可渗透外膜吞噬，就像被史莱姆在极端情况下,pawn将永远不会或总是试图被吞没。</TypePreference_Prey_Membrane.description>
+  <!--EN: Preyish type pref. (membrane)-->
+  <TypePreference_Prey_Membrane.label>Preyish type pref。(膜)</TypePreference_Prey_Membrane.label>
+  <!--EN: These quirks determine how much a pawn likes to be stuffed into a predator's navel. At the extremes, the pawn will either never or always try to get ennaveled.-->
+  <TypePreference_Prey_Navel.description>这些怪癖决定了多少钱一个pawn喜欢被塞进捕食者的肚脐。在极端情况下,pawn将永远不会或总是试图被觉醒。</TypePreference_Prey_Navel.description>
+  <!--EN: Preyish type preference (navel)-->
+  <TypePreference_Prey_Navel.label>猎物类型偏好 (肚脐)</TypePreference_Prey_Navel.label>
+  <!--EN: These quirks determine how much a pawn likes to be gulped down a predator's tailmaw. At the extremes, the pawn will either never or always try to get pythened.-->
+  <TypePreference_Prey_Tailmaw.description>这些怪癖决定了多少钱一个pawn喜欢被食尸鬼从捕食者的一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。上吞食。在极端情况下,pawn将永远不会或总是尝试被勾兑。</TypePreference_Prey_Tailmaw.description>
+  <!--EN: Preyish type preference (tailmaw)-->
+  <TypePreference_Prey_Tailmaw.label>猎物类型偏好 (尾毛)</TypePreference_Prey_Tailmaw.label>
+  <!--EN: These quirks determine how much a pawn likes to be stuffed into a predator's udder. At the extremes, the pawn will either never or always try to get unnursed into the udder.-->
+  <TypePreference_Prey_Udder.description>这些怪癖决定了多少钱一个pawn喜欢被塞进捕食者的乳房里。在极端情况下,pawn将永远不会或总是尝试将自己的想法发泄到乳房里。</TypePreference_Prey_Udder.description>
+  <!--EN: Preyish type preference (udder)-->
+  <TypePreference_Prey_Udder.label>捕食动物的类型偏好</TypePreference_Prey_Udder.label>
+</LanguageData>

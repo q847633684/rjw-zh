@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: son-->
+  <Child_Beast.label>儿子</Child_Beast.label>
+  <!--EN: daughter-->
+  <Child_Beast.labelFemale>女儿</Child_Beast.labelFemale>
+  <!--EN: cousin once removed-->
+  <CousinOnceRemoved_Beast.label>堂表亲</CousinOnceRemoved_Beast.label>
+  <!--EN: cousin-->
+  <Cousin_Beast.label>表亲</Cousin_Beast.label>
+  <!--EN: grandson-->
+  <Grandchild_Beast.label>孙子</Grandchild_Beast.label>
+  <!--EN: granddaughter-->
+  <Grandchild_Beast.labelFemale>孙女</Grandchild_Beast.labelFemale>
+  <!--EN: grandnephew-->
+  <GrandnephewOrGrandniece_Beast.label>侄孙</GrandnephewOrGrandniece_Beast.label>
+  <!--EN: grandniece-->
+  <GrandnephewOrGrandniece_Beast.labelFemale>侄女</GrandnephewOrGrandniece_Beast.labelFemale>
+  <!--EN: grandfather-->
+  <Grandparent_Beast.label>祖父</Grandparent_Beast.label>
+  <!--EN: grandmother-->
+  <Grandparent_Beast.labelFemale>祖母</Grandparent_Beast.labelFemale>
+  <!--EN: granduncle-->
+  <GranduncleOrGrandaunt_Beast.label>祖叔</GranduncleOrGrandaunt_Beast.label>
+  <!--EN: grandaunt-->
+  <GranduncleOrGrandaunt_Beast.labelFemale>祖姑</GranduncleOrGrandaunt_Beast.labelFemale>
+  <!--EN: great grandson-->
+  <GreatGrandchild_Beast.label>曾孙</GreatGrandchild_Beast.label>
+  <!--EN: great granddaughter-->
+  <GreatGrandchild_Beast.labelFemale>曾孙女</GreatGrandchild_Beast.labelFemale>
+  <!--EN: great grandfather-->
+  <GreatGrandparent_Beast.label>曾祖父</GreatGrandparent_Beast.label>
+  <!--EN: great grandmother-->
+  <GreatGrandparent_Beast.labelFemale>曾祖母</GreatGrandparent_Beast.labelFemale>
+  <!--EN: brother-->
+  <HalfSibling_Beast.label>兄弟</HalfSibling_Beast.label>
+  <!--EN: sister-->
+  <HalfSibling_Beast.labelFemale>姐妹</HalfSibling_Beast.labelFemale>
+  <!--EN: nephew-->
+  <NephewOrNiece_Beast.label>侄子</NephewOrNiece_Beast.label>
+  <!--EN: niece-->
+  <NephewOrNiece_Beast.labelFemale>侄女</NephewOrNiece_Beast.labelFemale>
+  <!--EN: son-->
+  <RJW_Pup.label>儿子</RJW_Pup.label>
+  <!--EN: daughter-->
+  <RJW_Pup.labelFemale>女儿</RJW_Pup.labelFemale>
+  <!--EN: father-->
+  <RJW_Sire.label>父亲</RJW_Sire.label>
+  <!--EN: mother-->
+  <RJW_Sire.labelFemale>母亲</RJW_Sire.labelFemale>
+  <!--EN: second cousin-->
+  <SecondCousin_Beast.label>表亲</SecondCousin_Beast.label>
+  <!--EN: brother-->
+  <Sibling_Beast.label>兄弟</Sibling_Beast.label>
+  <!--EN: sister-->
+  <Sibling_Beast.labelFemale>姐妹</Sibling_Beast.labelFemale>
+  <!--EN: uncle-->
+  <UncleOrAunt_Beast.label>叔叔</UncleOrAunt_Beast.label>
+  <!--EN: aunt-->
+  <UncleOrAunt_Beast.labelFemale>姨妈</UncleOrAunt_Beast.labelFemale>
+</LanguageData>

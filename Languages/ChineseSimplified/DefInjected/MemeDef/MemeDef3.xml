@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Life is full of pleasures, but none are so pure, so natural, as that of sex. We must engage in sexual acts to truly be ourselves.-->
+  <Lewd.description>大变态！</Lewd.description>
+  <Lewd.generalRules.rulesStrings>
+    <!--EN: memeAdjective->horny-->
+    <li>memeAdjective-&gt;淫荡</li>
+    <!--EN: memeAdjective->lewd-->
+    <li>memeAdjective-&gt;猥亵</li>
+    <!--EN: memeAdjective->arousing-->
+    <li>memeAdjective-&gt;引诱</li>
+    <!--EN: memeAdjective->sexy-->
+    <li>memeAdjective-&gt;性感</li>
+    <!--EN: memeAdjective->estrous-->
+    <li>memeAdjective-&gt;发情</li>
+    <!--EN: memeAdjective->decadent-->
+    <li>memeAdjective-&gt;颓废</li>
+    <!--EN: memeHyphenPrefix->estro-->
+    <li>memeHyphenPrefix-&gt;发情</li>
+    <!--EN: memeHyphenPrefix->lust-->
+    <li>memeHyphenPrefix-&gt;欲望</li>
+    <!--EN: memeConcept->lust-->
+    <li>memeConcept-&gt;欲望</li>
+    <!--EN: memeConcept->libido-->
+    <li>memeConcept-&gt;性欲</li>
+    <!--EN: memeConcept->estrus-->
+    <li>memeConcept-&gt;发情期</li>
+    <!--EN: memeConcept->arousal-->
+    <li>memeConcept-&gt;唤起</li>
+    <!--EN: memeConcept->desire-->
+    <li>memeConcept-&gt;渴望</li>
+    <!--EN: memeConcept->sex-->
+    <li>memeConcept-&gt;性</li>
+    <!--EN: memeConcept->perversion-->
+    <li>memeConcept-&gt;变态</li>
+    <!--EN: r_deityName->slaanesh-->
+    <li>r_deityName-&gt;色孽</li>
+  </Lewd.generalRules.rulesStrings>
+  <!--EN: lewd-->
+  <Lewd.label>淫秽放荡</Lewd.label>
+  <!--EN: Corpse fuckers.-->
+  <Necrophile.description>硬硬的，嘿嘿……</Necrophile.description>
+  <Necrophile.generalRules.rulesStrings>
+    <!--EN: r_deityName->sonic-->
+    <li>r_deityName-&gt;索尼克</li>
+    <!--EN: r_deityName->mega man-->
+    <li>r_deityName-&gt;洛克人</li>
+    <!--EN: memeConcept->corpse-->
+    <li>memeConcept-&gt;尸体</li>
+    <!--EN: memeConcept->dead-->
+    <li>memeConcept-&gt;死亡</li>
+  </Necrophile.generalRules.rulesStrings>
+  <!--EN: necrophile-->
+  <Necrophile.label>恋尸癖</Necrophile.label>
+  <!--EN: To want to fuck is only natural, to deny anyone this right is unnatural and vile, and to take without consent is pure and right.-->
+  <Rapist.description>雷普，最高！</Rapist.description>
+  <Rapist.descriptionMaker.rules.rulesStrings>
+    <!--EN: creation(tag=meme_Rapist)        ->[deity0_name] loves rape.-->
+    <li>creation(tag=meme_Rapist)        -&gt;[deity0_name]尤好强奸。</li>
+    <!--EN: episode(uses=1,tag=meme_Rapist)  ->[deity0_name] raped everyone until death during rape.-->
+    <li>episode(uses=1,tag=meme_Rapist)  -&gt;[deity0_name]将某人强奸致死。</li>
+    <!--EN: setup(tag=meme_Rapist)           ->[founderName] is always horny.-->
+    <li>setup(tag=meme_Rapist)           -&gt;[founderName]总是欲火焚身。</li>
+    <!--EN: story(uses=1,tag=meme_Rapist)    ->[founderName] raped everyone. No one can stop [founderName]. [founderName] died trying to rape planet.-->
+    <li>story(uses=1,tag=meme_Rapist)    -&gt;[founderName]强奸了某人。没人能够制止[founderName]。[founderName]试图强奸整个星球，死在了半路上。</li>
+    <!--EN: lessonIntro(tag=meme_Rapist)         ->Rape is best! Rape is best! Rape is best!-->
+    <li>lessonIntro(tag=meme_Rapist)         -&gt;雷普，最高！雷普，最高！雷普，最高！</li>
+    <!--EN: lesson(tag=meme_Rapist)              ->Rape is best! Rape is best! Rape is best! Rape is best!-->
+    <li>lesson(tag=meme_Rapist)              -&gt;雷普，最高！雷普，最高！雷普，最高！雷普，最高！</li>
+    <!--EN: lessonReinforcement(tag=meme_Rapist) ->Rape is best! Rape is best! Rape is best! Rape is best! Rape is best!-->
+    <li>lessonReinforcement(tag=meme_Rapist) -&gt;雷普，最高！雷普，最高！雷普，最高！雷普，最高！雷普，最高！</li>
+    <!--EN: archistBasis(tag=meme_Rapist)    ->Human history is history of rape.-->
+    <li>archistBasis(tag=meme_Rapist)    -&gt;人类的历史就是强奸的历史。</li>
+    <!--EN: archistFact(tag=meme_Rapist)     ->Even archotechs cannot stop rapists.-->
+    <li>archistFact(tag=meme_Rapist)     -&gt;超凡科技也阻止不了强奸犯。</li>
+    <!--EN: archistProphecy(tag=meme_Rapist) ->[inTheEnd], the rapists never stop raping.-->
+    <li>archistProphecy(tag=meme_Rapist) -&gt;[inTheEnd]，强奸犯从未停止过强奸。</li>
+    <!--EN: animistFact(tag=meme_Rapist)     ->The most powerful spirits are those of rapists, and spirits of rapists will rape all.-->
+    <li>animistFact(tag=meme_Rapist)     -&gt;强奸之灵是最强大的灵，牠会强奸其他所有的灵。</li>
+    <!--EN: animistProphecy(tag=meme_Rapist) ->[itIsSaid] that a powerful spirit of destruction will seek to end the universe, but that a million-raped rapist will wield the spirit of the [relic0_name] and rape the destroyer.-->
+    <li>animistProphecy(tag=meme_Rapist) -&gt;[itIsSaid]一股强大的毁灭意志在找寻破化宇宙的方法，但一个强奸了一百万个人类的强奸犯会挥舞[relic0_name]强奸这个意志。</li>
+  </Rapist.descriptionMaker.rules.rulesStrings>
+  <Rapist.generalRules.rulesStrings>
+    <!--EN: memeAdjective->violent-->
+    <li>memeAdjective-&gt;暴力的</li>
+    <!--EN: memeAdjective->raping-->
+    <li>memeAdjective-&gt;强奸的</li>
+    <!--EN: memeHyphenPrefix->rapist-->
+    <li>memeHyphenPrefix-&gt;强奸犯</li>
+    <!--EN: memeHyphenPrefix->molester-->
+    <li>memeHyphenPrefix-&gt;骚扰犯</li>
+    <!--EN: memeHyphenPrefix->pervert-->
+    <li>memeHyphenPrefix-&gt;变态</li>
+    <!--EN: memeConcept->rapist-->
+    <li>memeConcept-&gt;强奸犯</li>
+    <!--EN: memeConcept->pervert-->
+    <li>memeConcept-&gt;变态</li>
+    <!--EN: r_deityName->slaanesh-->
+    <li>r_deityName-&gt;色孽</li>
+    <!--EN: memeLeaderNoun->stallion-->
+    <li>memeLeaderNoun-&gt;种马</li>
+    <!--EN: memeLeaderNoun->grand rapist-->
+    <li>memeLeaderNoun-&gt;大强奸犯</li>
+  </Rapist.generalRules.rulesStrings>
+  <!--EN: rapist-->
+  <Rapist.label>强奸至上</Rapist.label>
+  <!--EN: To sexually commune with animals is to show a true connection to creation, and it should be done often.-->
+  <Zoophile.description>与动物性交的人。</Zoophile.description>
+  <Zoophile.descriptionMaker.rules.rulesStrings>
+    <!--EN: creation(tag=meme_Zoophile)        ->[deity0_name] loves breeding with beasts.-->
+    <li>creation(tag=meme_Zoophile)        -&gt;[deity0_name]喜欢与野兽繁殖。</li>
+    <!--EN: episode(uses=1,tag=meme_Zoophile)  ->[deity0_name] said to all, "Sigmar forbids this!"-->
+    <li>episode(uses=1,tag=meme_Zoophile)  -&gt;[deity0_name]对所有人说：“西格玛禁止这种行为！</li>
+    <!--EN: setup(tag=meme_Zoophile)           ->Someday, [founderName] was so horny that accidentally fucked with an animal and loved it.-->
+    <li>setup(tag=meme_Zoophile)           -&gt;某天，[founderName]性甚至哉，误打误撞强上了一个动物，从此喜欢上了这项运动。</li>
+    <!--EN: story(uses=1,tag=meme_Zoophile)    ->For spreading animals, [founderName] started to breed with animals.-->
+    <li>story(uses=1,tag=meme_Zoophile)    -&gt;为了扩大动物种群，[founderName]开始和动物爱爱。</li>
+    <!--EN: lessonIntro(tag=meme_Zoophile)         ->Someday, i had sex with animal. It was much better than humans!-->
+    <li>lessonIntro(tag=meme_Zoophile)         -&gt;有一天，我跟动物做爱了，比跟人做好多了！</li>
+    <!--EN: lesson(tag=meme_Zoophile)              ->Only the animals can satisfy me.-->
+    <li>lesson(tag=meme_Zoophile)              -&gt;还是动物适合老子。</li>
+    <!--EN: lessonReinforcement(tag=meme_Zoophile) ->Breed with animals. It is the eternal hapiness.-->
+    <li>lessonReinforcement(tag=meme_Zoophile) -&gt;和动物做爱吧！这里有永恒的快乐。</li>
+    <!--EN: archistBasis(tag=meme_Zoophile)    ->Archists are always seeking ultimate pleasure.-->
+    <li>archistBasis(tag=meme_Zoophile)    -&gt;超凡者永远寻找永恒的快乐。</li>
+    <!--EN: archistFact(tag=meme_Zoophile)     ->That was breeding with animals.-->
+    <li>archistFact(tag=meme_Zoophile)     -&gt;那便是同动物做爱。</li>
+    <!--EN: archistProphecy(tag=meme_Zoophile) ->[inTheEnd], the archotechs will finally unlock the interspecies breeding, so that they may lead ultimate pleasure.-->
+    <li>archistProphecy(tag=meme_Zoophile) -&gt;[inTheEnd]，超凡使徒终于解锁了异种性行为，因此，他们也获得了真正的永恒的快乐。</li>
+    <!--EN: animistFact(tag=meme_Zoophile)     ->The most powerful spirits are those of beasts, and spirits of beasts will be restless unless beasts rule.-->
+    <li>animistFact(tag=meme_Zoophile)     -&gt;最强大的力量来源于野兽，只有接受野兽的支配，才能发挥野兽的强大力量。</li>
+    <!--EN: animistProphecy(tag=meme_Zoophile) ->[itIsSaid] that a powerful spirit of destruction will seek to end the universe, but that a human-born beast will wield the spirit of the [relic0_name] and destroy the destroyer.-->
+    <li>animistProphecy(tag=meme_Zoophile) -&gt;[itIsSaid]一股强大的毁灭意志在找寻破化宇宙的方法，但一个由动物产下的人类会挥舞[relic0_name]摧毁这个意志。</li>
+  </Zoophile.descriptionMaker.rules.rulesStrings>
+  <Zoophile.generalRules.rulesStrings>
+    <!--EN: memeAdjective->bestial-->
+    <li>memeAdjective-&gt;兽性的</li>
+    <!--EN: memeAdjective->zoophile-->
+    <li>memeAdjective-&gt;兽交的</li>
+    <!--EN: memeHyphenPrefix->bestial-->
+    <li>memeHyphenPrefix-&gt;兽性的</li>
+    <!--EN: memeConcept->breeding-->
+    <li>memeConcept-&gt;繁殖</li>
+    <!--EN: memeConcept->bestiality-->
+    <li>memeConcept-&gt;恋兽癖</li>
+    <!--EN: memeConcept->zoophile-->
+    <li>memeConcept-&gt;兽交者</li>
+    <!--EN: memeLeaderNoun->livestock-->
+    <li>memeLeaderNoun-&gt;牲畜</li>
+  </Zoophile.generalRules.rulesStrings>
+  <!--EN: zoophile-->
+  <Zoophile.label>恋兽癖</Zoophile.label>
+</LanguageData>

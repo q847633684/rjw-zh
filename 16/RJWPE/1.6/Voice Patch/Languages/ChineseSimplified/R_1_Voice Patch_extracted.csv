@@ -1,5 +1,0 @@
-key,text,tag,file,type
-settings_tabs_voice,Voice Patch,settings_tabs_voice,Labels-Voice.xml,keyed
-replacements_header,Replacements,replacements_header,Labels-Voice.xml,keyed
-voice_replacement_title,Child voices (experimental),voice_replacement_title,Labels-Voice.xml,keyed
-voice_replacement_desc,Attemps to replace the sex animation sounds with child-like ones.,voice_replacement_desc,Labels-Voice.xml,keyed

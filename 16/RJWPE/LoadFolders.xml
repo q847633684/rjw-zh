@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<loadFolders>
-  <v1.6>
-    <li IfModActive="Ludeon.RimWorld.Ideology">1.6/Ideology</li>
-    <li IfModActive="Vegapnk.rjw.genes">1.6/Genes</li>
-    <li IfModActive="calamabanana.rjw.brothelcolony">1.6/BrothelColony</li>
-    <li IfModActive="c0ffee.rimworld.animations">1.6/Voice Patch</li>
-  </v1.6>
-</loadFolders>

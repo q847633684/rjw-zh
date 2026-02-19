@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Disguises as virgin.-->
+  <Surgery_RestoreHymen.description>伪装成处女。</Surgery_RestoreHymen.description>
+  <!--EN: restoring hymen-->
+  <Surgery_RestoreHymen.jobString>修复处女膜</Surgery_RestoreHymen.jobString>
+  <!--EN: hymenoplasty-->
+  <Surgery_RestoreHymen.label>处女膜修复术</Surgery_RestoreHymen.label>
+</LanguageData>

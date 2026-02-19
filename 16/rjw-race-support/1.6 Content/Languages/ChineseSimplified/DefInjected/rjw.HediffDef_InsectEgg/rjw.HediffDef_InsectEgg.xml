@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Enormous parasitic egg(s) that enter the host's body and feeds off their nutrients until ready to hatch.
-Just be glad they don't hatch by bursting out of your chest.-->
-  <RJW_InsectLargeEgg.description>巨大的寄生虫egg(s)它们进入宿主的身体，以它们的营养为食，直到可以孵化。
-很高兴它们没有从你的胸膛里冒出来。</RJW_InsectLargeEgg.description>
-  <!--EN: Egg-->
-  <RJW_InsectLargeEgg.label>卵</RJW_InsectLargeEgg.label>
-</LanguageData>

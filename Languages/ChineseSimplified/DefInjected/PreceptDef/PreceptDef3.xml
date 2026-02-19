@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Everyone is required to be a prostitute-->
+  <CB_Prostitute_Colonist.description>所有人都必须成为妓女</CB_Prostitute_Colonist.description>
+  <!--EN: Everyone-->
+  <CB_Prostitute_Colonist.label>所有人</CB_Prostitute_Colonist.label>
+  <!--EN: Female colonists, slaves and prisoners are required to be prostitutes-->
+  <CB_Prostitute_Colonist_Female.description>女性殖民者、奴隶和囚犯必须成为妓女</CB_Prostitute_Colonist_Female.description>
+  <!--EN: Females-->
+  <CB_Prostitute_Colonist_Female.label>女性</CB_Prostitute_Colonist_Female.label>
+  <!--EN: Male colonists, slaves and prisoners are required to be prostitutes-->
+  <CB_Prostitute_Colonist_Male.description>男性殖民者、奴隶和囚犯必须成为妓女</CB_Prostitute_Colonist_Male.description>
+  <!--EN: Males-->
+  <CB_Prostitute_Colonist_Male.label>男性</CB_Prostitute_Colonist_Male.label>
+  <!--EN: No one is required to be a prostitute-->
+  <CB_Prostitute_None.description>没有人必须成为妓女</CB_Prostitute_None.description>
+  <!--EN: No one-->
+  <CB_Prostitute_None.label>没有人</CB_Prostitute_None.label>
+  <!--EN: Prisoners are required be prostitutes-->
+  <CB_Prostitute_Prisoners.description>囚犯必须成为妓女</CB_Prostitute_Prisoners.description>
+  <!--EN: Prisoners-->
+  <CB_Prostitute_Prisoners.label>囚犯</CB_Prostitute_Prisoners.label>
+  <!--EN: Female prisoners are required to be prostitutes-->
+  <CB_Prostitute_Prisoners_Female.description>女性囚犯必须成为妓女</CB_Prostitute_Prisoners_Female.description>
+  <!--EN: Female prisoners-->
+  <CB_Prostitute_Prisoners_Female.label>女性囚犯</CB_Prostitute_Prisoners_Female.label>
+  <!--EN: Male prisoners are required to be prostitutes-->
+  <CB_Prostitute_Prisoners_Male.description>男性囚犯必须成为妓女</CB_Prostitute_Prisoners_Male.description>
+  <!--EN: Male prisoners-->
+  <CB_Prostitute_Prisoners_Male.label>男性囚犯</CB_Prostitute_Prisoners_Male.label>
+  <!--EN: Slaves and prisoners are required to be prostitutes-->
+  <CB_Prostitute_Slave.description>奴隶和囚犯必须成为妓女</CB_Prostitute_Slave.description>
+  <!--EN: Slaves and prisoners-->
+  <CB_Prostitute_Slave.label>奴隶和囚犯</CB_Prostitute_Slave.label>
+  <!--EN: Female slaves and prisoners are required to be prostitutes-->
+  <CB_Prostitute_Slave_Female.description>女性奴隶和囚犯必须成为妓女</CB_Prostitute_Slave_Female.description>
+  <!--EN: Female slaves and prisoners-->
+  <CB_Prostitute_Slave_Female.label>女性奴隶和囚犯</CB_Prostitute_Slave_Female.label>
+  <!--EN: Male slaves and prisoners are required to be prostitutes-->
+  <CB_Prostitute_Slave_Male.description>男性奴隶和囚犯必须成为妓女</CB_Prostitute_Slave_Male.description>
+  <!--EN: Male slaves and prisoners-->
+  <CB_Prostitute_Slave_Male.label>男性奴隶和囚犯</CB_Prostitute_Slave_Male.label>
+  <!--EN: Prostitution is a job like any other.-->
+  <CB_Prostitution_Accepted.description>性工作与其他任何工作一样，只是一份职业。</CB_Prostitution_Accepted.description>
+  <!--EN: Accepted-->
+  <CB_Prostitution_Accepted.label>认同</CB_Prostitution_Accepted.label>
+  <!--EN: Dutiful whore-->
+  <CB_Prostitution_Essential.comps.0.description>尽职的性工作者</CB_Prostitution_Essential.comps.0.description>
+  <!--EN: Someone is a prostitute-->
+  <CB_Prostitution_Essential.comps.1.description>某人是一名性工作者</CB_Prostitution_Essential.comps.1.description>
+  <!--EN: Reluctant whore-->
+  <CB_Prostitution_Essential.comps.4.description>不情愿的性工作者</CB_Prostitution_Essential.comps.4.description>
+  <!--EN: Serving others with our bodies is a duty.-->
+  <CB_Prostitution_Essential.description>用我们的身体服务他人是一种职责。</CB_Prostitution_Essential.description>
+  <!--EN: Essential-->
+  <CB_Prostitution_Essential.label>必要职责</CB_Prostitution_Essential.label>
+  <!--EN: Forced whore-->
+  <CB_Prostitution_Horrendous.comps.0.description>被迫的性工作者</CB_Prostitution_Horrendous.comps.0.description>
+  <!--EN: Someone is a prostitute-->
+  <CB_Prostitution_Horrendous.comps.1.description>某人是一名性工作者</CB_Prostitution_Horrendous.comps.1.description>
+  <!--EN: Prostitution is horrendous.-->
+  <CB_Prostitution_Horrendous.description>性工作是骇人听闻的。</CB_Prostitution_Horrendous.description>
+  <!--EN: Horrendous-->
+  <CB_Prostitution_Horrendous.label>骇人听闻</CB_Prostitution_Horrendous.label>
+  <!--EN: Unwilling whore-->
+  <CB_Prostitution_Neutral.comps.0.description>非自愿的性工作者</CB_Prostitution_Neutral.comps.0.description>
+  <!--EN: Prostitution is something that happens, but I would not want to do it.-->
+  <CB_Prostitution_Neutral.description>性工作是社会中存在的一种现象，但我自己不愿意从事。</CB_Prostitution_Neutral.description>
+  <!--EN: Neutral-->
+  <CB_Prostitution_Neutral.label>中立</CB_Prostitution_Neutral.label>
+  <!--EN: Present your whores to visitors of your choice-->
+  <CB_Prostitution_Present_Ritual.description>向您选择的访客介绍您的妓女</CB_Prostitution_Present_Ritual.description>
+  <!--EN: presenting-->
+  <CB_Prostitution_Present_Ritual.label>介绍</CB_Prostitution_Present_Ritual.label>
+  <!--EN: Sacred duty-->
+  <CB_Prostitution_Sacred.comps.0.description>神圣的职责</CB_Prostitution_Sacred.comps.0.description>
+  <!--EN: Someone is a sacred prostitute-->
+  <CB_Prostitution_Sacred.comps.1.description>某人是一名神圣的性工作者</CB_Prostitution_Sacred.comps.1.description>
+  <!--EN: Reluctant whore-->
+  <CB_Prostitution_Sacred.comps.4.description>不情愿的性工作者</CB_Prostitution_Sacred.comps.4.description>
+  <!--EN: Serving others with our bodies is a most sacred duty.-->
+  <CB_Prostitution_Sacred.description>用我们的身体服务他人是最神圣的职责。</CB_Prostitution_Sacred.description>
+  <!--EN: Sacred-->
+  <CB_Prostitution_Sacred.label>神圣</CB_Prostitution_Sacred.label>
+  <!--EN: Specialised in managing your prostitutes, a madam or a pimp. They present your whores to visitors and increase the success chance when whoring at settlements. Able to convert earned fervour into ideology points.-->
+  <CB_Prostitution_Specialist.description>专门管理你的妓女，老鸨或皮条客。他们向访客展示你的妓女，并在定居点卖淫时提高成功率。能够将获得的狂热转化为文化点数。</CB_Prostitution_Specialist.description>
+  <!--EN: Prostitution specialist-->
+  <CB_Prostitution_Specialist.label>卖淫专家</CB_Prostitution_Specialist.label>
+</LanguageData>

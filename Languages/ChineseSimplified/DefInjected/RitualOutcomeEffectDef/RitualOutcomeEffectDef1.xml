@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: participant count-->
+  <CB_GeneTampering_Outcome.comps.0.label>参与者数量</CB_GeneTampering_Outcome.comps.0.label>
+  <!--EN: A choice is to be made.-->
+  <CB_GeneTampering_Outcome.description>需要做出选择。</CB_GeneTampering_Outcome.description>
+  <!--EN: Choice for gene tampering-->
+  <CB_GeneTampering_Outcome.outcomeChances.0.description>基因篡改的选择</CB_GeneTampering_Outcome.outcomeChances.0.description>
+  <!--EN: Ten fervor to remove an unwanted gene.\n  - Each point of complexity requires additonal ten fervor.\n  - Double for adding a learned gene\n  - Half of that when targeting an unborn.\n\nIf pregnant, only the child can be targeted for-->
+  <CB_GeneTampering_Outcome.outcomeChances.0.label>消耗十点狂热以移除一个不需要的基因。\n  - 每点复杂度需要额外十点狂热。\n  - 添加一个已学习的基因消耗翻倍。\n  - 以未出生后代为目标时消耗减半。\n\n如果目标已怀孕，则只能以胎儿为目标。</CB_GeneTampering_Outcome.outcomeChances.0.label>
+</LanguageData>

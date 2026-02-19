@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<loadFolders>
-  <v1.6>
-    <li>/</li>
-    <li IfModActive="rjw.quirks">1.6/ModCompatibility/Quirks</li>
-  </v1.6>
-</loadFolders>

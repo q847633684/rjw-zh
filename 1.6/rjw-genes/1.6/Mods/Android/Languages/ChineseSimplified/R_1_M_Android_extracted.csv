@@ -1,0 +1,7 @@
+key,text,tag,file,type
+rjw_genes_bionic_genitalia.label,bionic genitalia,label,VREAndroids.AndroidGeneDef/VREAndroids.AndroidGeneDef.xml,def
+rjw_genes_bionic_genitalia.description,This piece of hardware is a set of bionic genitals of high quality,description,VREAndroids.AndroidGeneDef/VREAndroids.AndroidGeneDef.xml,def
+rjw_genes_hydrolic_genitalia.label,hydrolic genitalia,label,VREAndroids.AndroidGeneDef/VREAndroids.AndroidGeneDef.xml,def
+rjw_genes_hydrolic_genitalia.description,"This piece of hardware is a set of crude hydrolic genitals, at least it come with a suspension system",description,VREAndroids.AndroidGeneDef/VREAndroids.AndroidGeneDef.xml,def
+rjw_genes_SexDisabled.label,sex disabled,label,VREAndroids.AndroidGeneDef/VREAndroids.AndroidGeneDef.xml,def
+rjw_genes_SexDisabled.description,"Androids do not feel satisfaction from sex, and have no need to feel it.",description,VREAndroids.AndroidGeneDef/VREAndroids.AndroidGeneDef.xml,def

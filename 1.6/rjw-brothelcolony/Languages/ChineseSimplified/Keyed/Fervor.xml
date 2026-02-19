@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: All ({0})-->
+  <FervorTrackerAllFervor>全部 ({0})</FervorTrackerAllFervor>
+  <!--EN: Conversion-->
+  <FervorTrackerConversion>转换</FervorTrackerConversion>
+  <!--EN: Convert as much fervor as possible.-->
+  <FervorTrackerConvertAsMuchFervor>转换尽可能多的狂热。</FervorTrackerConvertAsMuchFervor>
+  <!--EN: Convert a {0} fervor into one development point-->
+  <FervorTrackerConvertFervorIntoDevPoint>将 {0} 点狂热转换为 1 点发展点数</FervorTrackerConvertFervorIntoDevPoint>
+  <!--EN: Converted {0} fervor into {1_numCase ? development point : development points : development points}.-->
+  <FervorTrackerConvertedAllFervorIntoDevPoints>已将 {0} 点狂热转换为 {1} 点发展点数。</FervorTrackerConvertedAllFervorIntoDevPoints>
+  <!--EN: Ideology not fluid-->
+  <FervorTrackerIdeologyNotFluid>文化非流动</FervorTrackerIdeologyNotFluid>
+  <!--EN: You need at least {0} fervor.-->
+  <FervorTrackerNeedFervor>你至少需要 {0} 点狂热。</FervorTrackerNeedFervor>
+  <!--EN: One ({0})-->
+  <FervorTrackerOne>一个 ({0})</FervorTrackerOne>
+</LanguageData>

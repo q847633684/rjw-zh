@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: Chains with cuffs. Useful for restricting someone's movement and manipulation freedom. Prevents* hand-to-hand fighting attempts.
-*gag is advised for complete neutralization-->
-  <PrisonerChains.description>带袖口的链条，用于限制某人的行动能力和操作能力。</PrisonerChains.description>
-  <!--EN: chains-->
-  <PrisonerChains.label>链条</PrisonerChains.label>
-</LanguageData>

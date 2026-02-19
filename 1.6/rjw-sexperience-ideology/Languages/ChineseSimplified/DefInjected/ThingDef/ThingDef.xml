@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: An automatic humpshroom-burning device which generates an estro-smoke cloud around itself. Anyone in the cloud will become horny over time.-->
+  <Autobong_Aphrodisiac.description>一个自动燃烧驼峰菇的装置，会在周围产生一片催情烟雾。任何身处烟雾中的人都会随着时间变得越来越情欲高涨。</Autobong_Aphrodisiac.description>
+  <!--EN: estro-bong-->
+  <Autobong_Aphrodisiac.label>散烟器</Autobong_Aphrodisiac.label>
+  <!--EN: A wood structure packed with humpshroom. It can be ignited during a ritual and produce a huge amount of humpshroom smoke for a few hours, after which it is destroyed.-->
+  <Burnbong_Aphrodisiac.description>一个装满驼峰菇的木制结构。可以在仪式中点燃，产生大量的催情烟雾，持续数小时，之后结构将被摧毁。</Burnbong_Aphrodisiac.description>
+  <!--EN: lustbong-->
+  <Burnbong_Aphrodisiac.label>水烟筒</Burnbong_Aphrodisiac.label>
+</LanguageData>

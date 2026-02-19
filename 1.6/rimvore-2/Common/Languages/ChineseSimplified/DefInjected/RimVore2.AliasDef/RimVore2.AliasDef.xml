@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Body-->
+  <bodyPart_body.label>躯干</bodyPart_body.label>
+  <!--EN: Mouth-->
+  <bodyPart_mouth.label>大嘴的</bodyPart_mouth.label>
+  <!--EN: Stomach-->
+  <bodyPart_stomach.label>胃</bodyPart_stomach.label>
+  <!--EN: Tail tip-->
+  <bodyPart_tailTip.label>一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。小费</bodyPart_tailTip.label>
+  <!--EN: Anus-->
+  <hediff_anus.label>肛门</hediff_anus.label>
+  <!--EN: Breasts-->
+  <hediff_breasts.label>乳房</hediff_breasts.label>
+  <!--EN: Penis-->
+  <hediff_penis.label>阳具/屌</hediff_penis.label>
+  <!--EN: Udder-->
+  <hediff_udder.label>乳房</hediff_udder.label>
+  <!--EN: Vagina-->
+  <hediff_vagina.label>阴道</hediff_vagina.label>
+</LanguageData>

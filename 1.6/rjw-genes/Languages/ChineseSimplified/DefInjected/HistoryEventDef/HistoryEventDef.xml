@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Replaced a pregnancy-->
+  <rjw_genes_GoodwillChangedReason_OverwritePregnancy.label>取代了原有妊娠</rjw_genes_GoodwillChangedReason_OverwritePregnancy.label>
+  <!--EN: Stole a gene-->
+  <rjw_genes_GoodwillChangedReason_StoleGene.label>窃取了基因</rjw_genes_GoodwillChangedReason_StoleGene.label>
+  <!--EN: Aged a pawn with sexual age transfer-->
+  <rjw_genes_GoodwillChangedReason_aged_pawn_with_sex_gene.label>通过性交互转移寿命导致小人老化</rjw_genes_GoodwillChangedReason_aged_pawn_with_sex_gene.label>
+  <!--EN: Infected a pawn with a genetic disease-->
+  <rjw_genes_GoodwillChangedReason_infected_with_disease.label>使小人感染了遗传疾病</rjw_genes_GoodwillChangedReason_infected_with_disease.label>
+  <!--EN: Spread a genetic disease-->
+  <rjw_genes_GoodwillChangedReason_spread_genetic_disease.label>传播了遗传疾病</rjw_genes_GoodwillChangedReason_spread_genetic_disease.label>
+  <!--EN: Youthed a pawn with youth fountain-->
+  <rjw_genes_GoodwillChangedReason_youthed_pawn_with_sex_gene.label>通过青春泉源使小人变年轻</rjw_genes_GoodwillChangedReason_youthed_pawn_with_sex_gene.label>
+</LanguageData>

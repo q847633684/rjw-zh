@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Goal-->
+  <VoreGoal.label>目标</VoreGoal.label>
+  <!--EN: Part-->
+  <VorePart.label>部分</VorePart.label>
+  <!--EN: Part Goal-->
+  <VorePartGoal.label>部分目标</VorePartGoal.label>
+  <!--EN: Pred-->
+  <VorePred.label>Pred</VorePred.label>
+  <!--EN: Prey-->
+  <VorePrey.label>猎物</VorePrey.label>
+  <!--EN: Progress-->
+  <VoreStageProgress.label>进度</VoreStageProgress.label>
+  <!--EN: Struggle-->
+  <VoreStruggle.label>挣扎</VoreStruggle.label>
+</LanguageData>

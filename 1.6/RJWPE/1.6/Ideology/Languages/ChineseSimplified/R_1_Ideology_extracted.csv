@@ -1,0 +1,169 @@
+key,text,tag,file,type
+settings_tabs_ideology,Ideology,settings_tabs_ideology,Labels-Ideology.xml,keyed
+roleRequirement_header,Role requirements,roleRequirement_header,Labels-Ideology.xml,keyed
+roleRequirement_notChild_title,Child patch,roleRequirement_notChild_title,Labels-Ideology.xml,keyed
+roleRequirement_notChild_desc,Method of patching for the 'NotChild' requirement.,roleRequirement_notChild_desc,Labels-Ideology.xml,keyed
+roleRequirement_notChild_None_title,Off,roleRequirement_notChild_None_title,Labels-Ideology.xml,keyed
+roleRequirement_notChild_None_desc,No patch will be applied.,roleRequirement_notChild_None_desc,Labels-Ideology.xml,keyed
+roleRequirement_notChild_Simple_title,Simple,roleRequirement_notChild_Simple_title,Labels-Ideology.xml,keyed
+roleRequirement_notChild_Simple_desc,All ages will become eligible.,roleRequirement_notChild_Simple_desc,Labels-Ideology.xml,keyed
+roleRequirement_notChild_Complex_title,Calculated,roleRequirement_notChild_Complex_title,Labels-Ideology.xml,keyed
+roleRequirement_notChild_Complex_desc,Eligible ages is based on the race's minimum age for sex.,roleRequirement_notChild_Complex_desc,Labels-Ideology.xml,keyed
+ideology_precept_effects_title,Enable precept effects,ideology_precept_effects_title,Labels-Ideology.xml,keyed
+ideology_precept_effects_desc,Enabling this causes all limitations and consequences of ideology precepts to be applied.,ideology_precept_effects_desc,Labels-Ideology.xml,keyed
+Harm_Child.label,harming children,label,IssueDef/IssueDef.xml,def
+Harmed_Child.label,harmed a child,label,HistoryEventDef/HistoryEventDef.xml,def
+Harm_Child_Abhorrent.label,abhorrent,label,PreceptDef/PreceptDef.xml,def
+Harm_Child_Abhorrent.description,Children must be protected. To be violent with a child is an irredeemable act.,description,PreceptDef/PreceptDef.xml,def
+Harm_Child_Prohibited.label,prohibited,label,PreceptDef/PreceptDef.xml,def
+Harm_Child_Prohibited.description,"Regardless of our position on violence between adults, harming a child is despicable.",description,PreceptDef/PreceptDef.xml,def
+Harm_Child_Disapproved.label,disapproved,label,PreceptDef/PreceptDef.xml,def
+Harm_Child_Disapproved.description,"Only the honorless, the weak, or the desperate resort to harming children.",description,PreceptDef/PreceptDef.xml,def
+Harm_Child_Accepted.label,accepted,label,PreceptDef/PreceptDef.xml,def
+Harm_Child_Accepted.description,A child is just another mouth to feed. Either they are useful or they are not.,description,PreceptDef/PreceptDef.xml,def
+Harm_Child_Honorable.label,honorable,label,PreceptDef/PreceptDef.xml,def
+Harm_Child_Honorable.description,Few are the pleasures deeper than drawing the blood of the innocent.,description,PreceptDef/PreceptDef.xml,def
+Marriage_Child.label,Marrying children,label,IssueDef/IssueDef.xml,def
+GotMarried_Child.label,child got married,label,HistoryEventDef/HistoryEventDef.xml,def
+Marriage_Child_Abhorrent.label,abhorrent,label,PreceptDef/PreceptDef.xml,def
+Marriage_Child_Abhorrent.description,"To marry a child is vile, and only the lowest and most disgusting would suggest it.",description,PreceptDef/PreceptDef.xml,def
+Marriage_Child_Prohibited.label,prohibited,label,PreceptDef/PreceptDef.xml,def
+Marriage_Child_Prohibited.description,Marriage to a child is rightly forbidden. They are too young to consent to such a pact.,description,PreceptDef/PreceptDef.xml,def
+Marriage_Child_Disapproved.label,disapproved,label,PreceptDef/PreceptDef.xml,def
+Marriage_Child_Disapproved.description,"The young should not be bound into marriage too soon, except in times of desperation.",description,PreceptDef/PreceptDef.xml,def
+Marriage_Child_Accepted.label,accepted,label,PreceptDef/PreceptDef.xml,def
+Marriage_Child_Accepted.description,Marriage is a hallowed institution that transcends age.,description,PreceptDef/PreceptDef.xml,def
+Marriage_Child_Honorable.label,honorable,label,PreceptDef/PreceptDef.xml,def
+Marriage_Child_Honorable.description,"A child brings the blessings of long life and sweet pleasure into a sacred matrimony, uplifting both participants.",description,PreceptDef/PreceptDef.xml,def
+Rape_Child.label,Raping children,label,IssueDef/IssueDef.xml,def
+Raped_Child.label,raped a child,label,HistoryEventDef/HistoryEventDef.xml,def
+Rape_Child_Abhorrent.label,abhorrent,label,PreceptDef/PreceptDef.xml,def
+Rape_Child_Abhorrent.description,Child rape is a crime beneath murder and must be treated as such.,description,PreceptDef/PreceptDef.xml,def
+Rape_Child_Prohibited.label,prohibited,label,PreceptDef/PreceptDef.xml,def
+Rape_Child_Prohibited.description,The innocence of a child must be protected. Rape violates that innocence and must be punished.,description,PreceptDef/PreceptDef.xml,def
+Rape_Child_Disapproved.label,disapproved,label,PreceptDef/PreceptDef.xml,def
+Rape_Child_Disapproved.description,Molesting children is bad...and kind of pathetic.,description,PreceptDef/PreceptDef.xml,def
+Rape_Child_Accepted.label,accepted,label,PreceptDef/PreceptDef.xml,def
+Rape_Child_Accepted.description,Children are defenseless...and adorable...and so soft. Shit happens.,description,PreceptDef/PreceptDef.xml,def
+Rape_Child_Honorable.label,honorable,label,PreceptDef/PreceptDef.xml,def
+Rape_Child_Honorable.description,"""Nature's first green is gold..."" One might as well fuck'um while they are tight.",description,PreceptDef/PreceptDef.xml,def
+Harm_Child_Abhorrent.stages.0.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Abhorrent.stages.0.description,I hurt another child. I drew blood. What is wrong with me?,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Abhorrent.stages.1.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Abhorrent.stages.1.description,I attacked an innocent child. I drew blood. I am a monster.,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Abhorrent.stages.0.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Abhorrent.stages.0.description,I saw someone hurting a kid. Someone needs to do something!,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Abhorrent.stages.1.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Abhorrent.stages.1.description,I have witnessed someone hurting a child. There must be justice or this place must burn.,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Prohibited.stages.0.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Prohibited.stages.0.description,I have harmed another child. I am in so much trouble.,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Prohibited.stages.1.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Prohibited.stages.1.description,I have harmed a child and the blood cannot be washed from my hands.,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Prohibited.stages.0.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Prohibited.stages.0.description,"Someone has harmed a child. That's against the rules, right?",description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Prohibited.stages.1.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Prohibited.stages.1.description,Someone has harmed a child. How can that possibly have been justified?,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Disapproved.stages.0.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Disapproved.stages.0.description,I have attacked another kid. I'd better keep my head down.,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Disapproved.stages.1.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Disapproved.stages.1.description,I have attacked a minor. Was that justifiable?,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Disapproved.stages.0.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Disapproved.stages.0.description,Someone just hurt a kid. I should say something.,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Disapproved.stages.1.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Disapproved.stages.1.description,Someone just harmed a kid. Perhaps I should say something?,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Accepted.stages.0.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Accepted.stages.0.description,I harmed another kid. They started it.,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Accepted.stages.1.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Accepted.stages.1.description,I harmed a kid. It had to be done.,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Accepted.stages.0.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Accepted.stages.0.description,Someone hurt some kid. I had better be careful.,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Accepted.stages.1.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Accepted.stages.1.description,Someone hurt a kid... I guess they might have had it coming...,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Honorable.stages.0.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Honorable.stages.0.description,I really fucked that kid up.,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Honorable.stages.1.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Honorable.stages.1.description,I really fucked that kid up. It's fun when they are that weak.,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Honorable.stages.0.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Honorable.stages.0.description,I just saw someone hurt a kid. They do that for fun around here.,description,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Honorable.stages.1.label,harmed a child,label,ThoughtDef/ThoughtDef.xml,def
+Harm_Child_Know_Honorable.stages.1.description,"I just saw someone harm a kid. I hope I get my chance to do the same, soon.",description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Abhorrent.stages.0.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Abhorrent.stages.0.description,I have been forced to marry a grown-up. What the hell is wrong with this place?,description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Abhorrent.stages.1.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Abhorrent.stages.1.description,I have been forced to marry a child. I will never live this down. I am part and party to monstrousness.,description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Abhorrent.stages.0.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Abhorrent.stages.0.description,I just saw someone marry a kid. The Rim is like some fucked up version of hell.,description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Abhorrent.stages.1.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Abhorrent.stages.1.description,"A child was just forced to marry. If this is what we must do to survive, do we deserve to?",description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Prohibited.stages.0.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Prohibited.stages.0.description,My spouse is an adult. This is not right. Why is this happening?,description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Prohibited.stages.1.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Prohibited.stages.1.description,"My spouse is so young. I hope I can salvage something from this dreadful, early matrimony.",description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Prohibited.stages.0.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Prohibited.stages.0.description,What kind of marriage was that? That kid was so young. Isn't that illegal?,description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Prohibited.stages.1.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Prohibited.stages.1.description,They are marrying children now. This place is sick.,description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Disapproved.stages.0.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Disapproved.stages.0.description,"I didn't expect to get married so soon, but I'll make the best of it.",description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Disapproved.stages.1.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Disapproved.stages.1.description,I have become a cradle robber. There will be cruel gossip.,description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Disapproved.stages.0.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Disapproved.stages.0.description,That kid was too young to get married. I hope that doesn't become a trend.,description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Disapproved.stages.1.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Disapproved.stages.1.description,That kid was too young for marriage. I hope they will be alright.,description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Accepted.stages.0.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Accepted.stages.0.description,"My spouse is a little older, but we will grow together.",description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Accepted.stages.1.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Accepted.stages.1.description,"My spouse is a little young, but we will grow together.",description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Accepted.stages.0.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Accepted.stages.0.description,"That kid seemed young for marriage, but they make a cute couple.",description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Accepted.stages.1.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Accepted.stages.1.description,"That kid seemed young for marriage, but love is love.",description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Honorable.stages.0.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Honorable.stages.0.description,I married a grown-up. That makes me a grown-up now.,description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Honorable.stages.1.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Honorable.stages.1.description,I have taken a child to my marriage bed. My cup runneth over.,description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Honorable.stages.0.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Honorable.stages.0.description,"That kid married a grown-up. The ceremony, the future...everything seems so exciting!",description,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Honorable.stages.1.label,married a child,label,ThoughtDef/ThoughtDef.xml,def
+Marriage_Child_Know_Honorable.stages.1.description,"A child is wed to one who will offer them a guiding hand. Our present is joyous, and our future is secured.",description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Abhorrent.stages.0.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Abhorrent.stages.0.description,I thought it would be fun. I think I really hurt that kid. I am fucked up.,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Abhorrent.stages.1.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Abhorrent.stages.1.description,I am a monster. What prurient madness made me do that to an innocent child?,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Abhorrent.stages.0.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Abhorrent.stages.0.description,Did that person just molest some kid? Why didn't anyone stop them?,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Abhorrent.stages.1.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Abhorrent.stages.1.description,Did that person actually just molest a child? There must be blood for this offense.,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Prohibited.stages.0.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Prohibited.stages.0.description,I was just messing around. It was supposed to be fun. I am in so much trouble.,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Prohibited.stages.1.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Prohibited.stages.1.description,I have ravaged an innocent. I don't know what came over me. Can anything undo this black stain?,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Prohibited.stages.0.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Prohibited.stages.0.description,Someone raped a kid. That is so wrong.,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Prohibited.stages.1.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Prohibited.stages.1.description,"Someone raped a child. This will not stand, and this cannot be permitted to happen again.",description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Disapproved.stages.0.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Disapproved.stages.0.description,I raped some kid. I hope they don't go whining to the grown-ups.,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Disapproved.stages.1.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Disapproved.stages.1.description,"In my lust, I have defiled a youth. My reputation will likely suffer.",description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Disapproved.stages.0.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Disapproved.stages.0.description,That person just raped a kid. What a jerk.,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Disapproved.stages.1.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Disapproved.stages.1.description,That person just raped a kid. What an asshole.,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Accepted.stages.0.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Accepted.stages.0.description,"I just fucked another kid. They didn't exactly say ""yes"", but that makes it more fun.",description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Accepted.stages.1.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Accepted.stages.1.description,That one put up quite the fight for a such young thing. Fun.,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Accepted.stages.0.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Accepted.stages.0.description,Someone just raped a kid. I have to be careful.,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Accepted.stages.1.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Accepted.stages.1.description,Someone just raped a kid. That dumb-ass child should have been more careful.,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Honorable.stages.0.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Honorable.stages.0.description,I raped a kid. I am glad I've grown strong enough to do that now.,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Honorable.stages.1.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Honorable.stages.1.description,I just had a sweet little thing. I love it when they squirm.,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Honorable.stages.0.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Honorable.stages.0.description,Some fucker raped a kid. Better them than me.,description,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Honorable.stages.1.label,raped a child,label,ThoughtDef/ThoughtDef.xml,def
+Rape_Child_Know_Honorable.stages.1.description,I saw someone rape a child. At least one of them had some fun.,description,ThoughtDef/ThoughtDef.xml,def

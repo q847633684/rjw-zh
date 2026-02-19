@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Apparently you can deal with it quite well.-->
+  <RJW_Genes_Cumpilation_Cumflation_Counter.description>显然你对此应对得相当好。</RJW_Genes_Cumpilation_Cumflation_Counter.description>
+  <!--EN: cumflation counter-->
+  <RJW_Genes_Cumpilation_Cumflation_Counter.label>精液膨胀抗性</RJW_Genes_Cumpilation_Cumflation_Counter.label>
+  <!--EN: cumflation counter-->
+  <RJW_Genes_Cumpilation_Cumflation_Counter.labelNoun>精液膨胀抗性</RJW_Genes_Cumpilation_Cumflation_Counter.labelNoun>
+  <!--EN: counter a little-->
+  <RJW_Genes_Cumpilation_Cumflation_Counter.stages.0.label>抗性：微弱</RJW_Genes_Cumpilation_Cumflation_Counter.stages.0.label>
+  <!--EN: counter slight-->
+  <RJW_Genes_Cumpilation_Cumflation_Counter.stages.1.label>抗性：轻微</RJW_Genes_Cumpilation_Cumflation_Counter.stages.1.label>
+  <!--EN: counter moderate-->
+  <RJW_Genes_Cumpilation_Cumflation_Counter.stages.2.label>抗性：中等</RJW_Genes_Cumpilation_Cumflation_Counter.stages.2.label>
+  <!--EN: counter intense-->
+  <RJW_Genes_Cumpilation_Cumflation_Counter.stages.3.label>抗性：强烈</RJW_Genes_Cumpilation_Cumflation_Counter.stages.3.label>
+  <!--EN: counter extreme-->
+  <RJW_Genes_Cumpilation_Cumflation_Counter.stages.4.label>抗性：极端</RJW_Genes_Cumpilation_Cumflation_Counter.stages.4.label>
+  <!--EN: Apparently you can deal with it quite well.-->
+  <RJW_Genes_Cumpilation_Cumstuffed_Counter.description>显然你对此应对得相当好。</RJW_Genes_Cumpilation_Cumstuffed_Counter.description>
+  <!--EN: cumstuffed counter-->
+  <RJW_Genes_Cumpilation_Cumstuffed_Counter.label>精液饱腹抗性</RJW_Genes_Cumpilation_Cumstuffed_Counter.label>
+  <!--EN: cumstuffed countered-->
+  <RJW_Genes_Cumpilation_Cumstuffed_Counter.labelNoun>精液饱腹抗性</RJW_Genes_Cumpilation_Cumstuffed_Counter.labelNoun>
+  <!--EN: counter slightly bloated-->
+  <RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.0.label>抗性：轻微饱胀</RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.0.label>
+  <!--EN: counter bloated-->
+  <RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.1.label>抗性：饱胀</RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.1.label>
+  <!--EN: counter full-->
+  <RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.2.label>抗性：饱足</RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.2.label>
+  <!--EN: counter stuffed-->
+  <RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.3.label>抗性：填塞</RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.3.label>
+  <!--EN: counter overstuffed-->
+  <RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.4.label>抗性：过度填塞</RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.4.label>
+  <!--EN: Apparently you can deal with it quite well.-->
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.description>显然你对此应对得相当好。</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.description>
+  <!--EN: insect-spunk stuffed counter-->
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.label>虫液饱腹抗性</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.label>
+  <!--EN: insect-spunk stuffed counter-->
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.labelNoun>虫液饱腹抗性</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.labelNoun>
+  <!--EN: counter slightly bloated-->
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.0.label>抗性：轻微饱胀</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.0.label>
+  <!--EN: counter bloated-->
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.1.label>抗性：饱胀</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.1.label>
+  <!--EN: counter full-->
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.2.label>抗性：饱足</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.2.label>
+  <!--EN: counter over-stuffed-->
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.3.label>抗性：过度填塞</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.3.label>
+  <!--EN: This pawn is a (filled) living cum bucket. Thanks to a generous donation, this pawn will slowly generate cum for pickup.-->
+  <rjw_genes_filled_living_cumbucket.description>此角色是一个（已填满的）活体精液桶。感谢慷慨的捐赠，此角色将缓慢生成精液以供收集。</rjw_genes_filled_living_cumbucket.description>
+  <!--EN: filled living cumbucket-->
+  <rjw_genes_filled_living_cumbucket.label>已填满的活体精液桶</rjw_genes_filled_living_cumbucket.label>
+  <!--EN: slight-->
+  <rjw_genes_filled_living_cumbucket.stages.0.label>轻微</rjw_genes_filled_living_cumbucket.stages.0.label>
+  <!--EN: moderate-->
+  <rjw_genes_filled_living_cumbucket.stages.1.label>中等</rjw_genes_filled_living_cumbucket.stages.1.label>
+  <!--EN: full-->
+  <rjw_genes_filled_living_cumbucket.stages.2.label>饱满</rjw_genes_filled_living_cumbucket.stages.2.label>
+  <!--EN: over-full-->
+  <rjw_genes_filled_living_cumbucket.stages.3.label>过满</rjw_genes_filled_living_cumbucket.stages.3.label>
+  <!--EN: living reservior-->
+  <rjw_genes_filled_living_cumbucket.stages.4.label>活体储存器</rjw_genes_filled_living_cumbucket.stages.4.label>
+</LanguageData>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: flirt-->
+  <rjw_genes_flirt.label>调情</rjw_genes_flirt.label>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][TalkTopicLight]。</li>
+    <!--EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef]与[RECIPIENT_nameDef][talkedabout][TalkTopicLight]。</li>
+    <!--EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].-->
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef]对[RECIPIENT_nameDef][commentedabout][TalkTopicLight]。</li>
+    <!--EN: talkedabout(p=4)->chatted about-->
+    <li>talkedabout(p=4)-&gt;闲聊了</li>
+    <!--EN: talkedabout->shared a word about-->
+    <li>talkedabout-&gt;谈论了</li>
+    <!--EN: talkedabout->spoke about-->
+    <li>talkedabout-&gt;谈到了</li>
+    <!--EN: talkedabout->gabbed about-->
+    <li>talkedabout-&gt;喋喋不休地谈论</li>
+    <!--EN: talkedabout->talked about-->
+    <li>talkedabout-&gt;谈论了</li>
+    <!--EN: talkedabout->joked about-->
+    <li>talkedabout-&gt;开玩笑说</li>
+    <!--EN: talkedabout->quipped about-->
+    <li>talkedabout-&gt;俏皮地说</li>
+    <!--EN: commentedabout->said something about-->
+    <li>commentedabout-&gt;说了些关于</li>
+    <!--EN: commentedabout->said a word about-->
+    <li>commentedabout-&gt;提了一句关于</li>
+    <!--EN: commentedabout->made a comment about-->
+    <li>commentedabout-&gt;评论了</li>
+    <!--EN: commentedabout->commented about-->
+    <li>commentedabout-&gt;评论了</li>
+    <!--EN: commentedabout->told a joke about-->
+    <li>commentedabout-&gt;讲了个关于...的笑话</li>
+  </rjw_genes_flirt.logRulesInitiator.rulesStrings>
+</LanguageData>

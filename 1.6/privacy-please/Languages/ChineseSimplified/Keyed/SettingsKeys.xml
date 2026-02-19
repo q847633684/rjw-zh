@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: 	People who are lovin' have a chance to invite passers-by to join them for some fun (default is 0.25)-->
+  <chance_for_other_to_join_in_sex>喜欢的人有机会邀请路人一起玩耍（默认为0.25）</chance_for_other_to_join_in_sex>
+  <!--EN: Passers-by who aren't currently doing an important job can be invited to join in a sexual activity. There must be some attraction between those involved, and the activity must not violate their traits or ideology.\n\nNote that setting this value to its maximum will not guarantee that this event will occur, it will just maximize the chance of an invitation being made.\n\nSet this value to zero to prevent these invitations being made, however.-->
+  <chance_for_other_to_join_in_sex_desc>目前没有从事重要工作的路人可以被邀请参加性活动。相关人员之间必须存在某种吸引力，并且活动不得违反他们的特征或意识形态。
+
+请注意，将此值设置为最大值并不能保证此事件一定会发生，它只会最大限度地提高发出邀请的机会。
+
+但是，将此值设置为零可防止发出这些邀请。</chance_for_other_to_join_in_sex_desc>
+  <!--EN: 	Colonists will ignore the presence of other faction members-->
+  <colonists_ignore_other_factions>殖民者会忽视其他派系成员的存在</colonists_ignore_other_factions>
+  <!--EN: Colonists are unfazed by the presence of friendly member during their sexual activities.\n\nHostile intruders will always interrupt sexual activities, regardless of this setting.-->
+  <colonists_ignore_other_factions_desc>殖民者在性活动期间不会因为友好成员的存在而感到困扰。
+
+敌对入侵者总是会打断性活动，无论设置如何。</colonists_ignore_other_factions_desc>
+  <!--EN: 	Colonists will ignore the presence of prisoners and slaves-->
+  <colonists_ignore_slaves>殖民者将忽视囚犯和奴隶的存在</colonists_ignore_slaves>
+  <!--EN: Prisoners and slaves are beneath the notice of your colonists. Your colonists won't react to their presence during any sexual activities.-->
+  <colonists_ignore_slaves_desc>囚犯和奴隶不会受到殖民者的注意。在任何性活动中，你的殖民者不会对他们的存在做出反应。</colonists_ignore_slaves_desc>
+  <!--EN: 	Turn on debugging console messages-->
+  <debug_mode>打开调试控制台消息</debug_mode>
+  <!--EN: Only required for debugging purposes.-->
+  <debug_mode_desc>仅出于调试目的需要。</debug_mode_desc>
+  <!--EN: 	People will ignore sexual acts that are a part of a ritual or gathering-->
+  <ignore_ritual_and_party_sex>人们会忽视仪式或聚会中的性行为</ignore_ritual_and_party_sex>
+  <!--EN: Any distasteful occurrances during rituals and gatherings will not provoke any reactions from participants or onlookers.-->
+  <ignore_ritual_and_party_sex_desc>仪式和集会期间发生的任何令人不愉快的事情都不会引起参与者或旁观者的任何反应。</ignore_ritual_and_party_sex_desc>
+  <!--EN: 		People will ignore a rape if the victim is a prisoner or slave-->
+  <ignore_slave_rape>如果受害者是囚犯或 奴隶，人们会忽略 强迫或非自愿性行为。</ignore_slave_rape>
+  <!--EN: 	Witnessing abhorrent acts can result in panic-->
+  <major_taboo_can_start_fights>目睹令人憎恶的行为可能会导致恐慌</major_taboo_can_start_fights>
+  <!--EN: Individuals who witness a sexual act that they feel is abhorrent may cause them to panic and flee from the area.-->
+  <major_taboo_can_start_fights_desc>目睹令人憎恶的性行为的个人可能会感到恐慌并逃离该地区。</major_taboo_can_start_fights_desc>
+  <!--EN: 	Members of other factions will ignore the actions of colonists-->
+  <other_factions_ignore_sex>其他派系的成员将无视殖民者的行为</other_factions_ignore_sex>
+  <!--EN: Members of friendly factions will politely ignore any sexual activities that occur nearby.\n\nFactions hostile to you will always ignore such frivolities, regardless of this setting.-->
+  <other_factions_ignore_sex_desc>友好派系的成员会礼貌地忽略附近发生的任何性活动。
+
+敌视你的派系将始终忽略此类无聊行为，无论此设置如何。</other_factions_ignore_sex_desc>
+  <!--EN: Privacy, Please!-->
+  <privacy_please_basicsettings>RJW - 请注意隐私！</privacy_please_basicsettings>
+  <!--EN: Debugging options-->
+  <privacy_please_debugging>调试选项</privacy_please_debugging>
+  <!--EN: General Options-->
+  <privacy_please_general>一般选项</privacy_please_general>
+  <!--EN: 	Rape is not interrupted by witnesses-->
+  <rape_is_uninteruptable>强迫或非自愿性行为。行为不会被目击者打断</rape_is_uninteruptable>
+  <!--EN: Rapists are shameless and will not let nearby witnesses interrupt them.-->
+  <rape_is_uninteruptable_desc>强迫或非自愿性行为。犯无耻，不会让附近的目击者打断他们。</rape_is_uninteruptable_desc>
+  <!--EN: 	Prisoners and slaves will ignore the actions of colonists-->
+  <slaves_ignore_sex>囚犯和奴隶将无视殖民者的行为</slaves_ignore_sex>
+  <!--EN: Prisoners and slaves have discovered that it is better to simply ignore what is occurring around them. They won't react to any sexual activities that take place near them.-->
+  <slaves_ignore_sex_desc>囚犯和奴隶发现，最好忽略周围发生的事情。他们不会对他们附近发生的任何性活动做出反应。</slaves_ignore_sex_desc>
+  <!--EN: 	Whoring is not interrupted by witnesses-->
+  <whoring_is_uninteruptable>嫖娼行为不会被目击者打断</whoring_is_uninteruptable>
+  <!--EN: Sex workers might be embarrassed by an ill-timed intrusion, but will carry on regardless.-->
+  <whoring_is_uninteruptable_desc>性工作者可能会因不合时宜的入侵而尴尬，但无论如何都会继续下去。</whoring_is_uninteruptable_desc>
+  <!--EN: 	People will react to beastiality-->
+  <worry_about_beastiality>人们会对兽性做出反​​应</worry_about_beastiality>
+  <!--EN: Their reaction will depend on their Bestiality precept (requires Sexperience - Ideology) and whether they have the Zoophile trait.\n\nWill be treated as exhibitionism if this option is disabled.-->
+  <worry_about_beastiality_desc>他们的反应将取决于他们的兽性戒律（需要性经验 - 意识形态）以及他们是否具有兽性特征。
+
+如果禁用此选项，将被视为 暴露主义。</worry_about_beastiality_desc>
+  <!--EN: 	People will react to exhibitionism-->
+  <worry_about_exhibitionism>人们会对裸露癖做出反​​应</worry_about_exhibitionism>
+  <!--EN: Their reaction will depend on their Exhibitionism precept and whether they have the Voyeur RJW quirk.\n\nThose who are caught will stop their activities if the find the attention embarassing, or if the intruder is hostile.-->
+  <worry_about_exhibitionism_desc>他们的反应将取决于他们的暴露癖戒律以及他们是否有偷窥癖 RJW 怪癖。
+
+那些被抓住的人会停止他们的活动，如果他们发现注意力令人尴尬，或者入侵者有敌意。</worry_about_exhibitionism_desc>
+  <!--EN: 	People will react to a cheating partner-->
+  <worry_about_infidelity>人们会对 作弊 伴侣做出反应</worry_about_infidelity>
+  <!--EN: Their reaction will depend on their Infidelity precept and whether they have the Cuckold RJW quirk.\n\nWill be treated as exhibitionism if this option is disabled.-->
+  <worry_about_infidelity_desc>他们的反应将取决于他们的不忠戒律以及他们是否有戴绿帽子的 RJW 怪癖。
+
+如果禁用此选项，将被视为 暴露主义。</worry_about_infidelity_desc>
+  <!--EN: 	People will react to masturbation-->
+  <worry_about_masturbation>人们会对手淫做出反​​应</worry_about_masturbation>
+  <!--EN: Their reaction will depend on their Masturbation precept (requires Sexperience - Ideology).\n\nWill be treated as exhibitionism if this option is disabled.-->
+  <worry_about_masturbation_desc>他们的反应将取决于他们的自慰戒律（需要性经验 - 意识形态）。如果禁用此选项，
+
+将被视为 暴露主义。</worry_about_masturbation_desc>
+  <!--EN: 	People will react to necrophilia-->
+  <worry_about_necro>人们会对恋尸癖做出反应</worry_about_necro>
+  <!--EN: Their reaction will depend on their Necrophilia precept (requires Sexperience - Ideology) and whether they have the Necrophile trait.\n\nWill be treated as exhibitionism if this option is disabled.-->
+  <worry_about_necro_desc>他们的反应将取决于他们的恋尸癖戒律（需要性体验 - 意识形态）以及他们是否具有恋尸癖特质。
+
+如果禁用此选项，将被视为 暴露主义。</worry_about_necro_desc>
+  <!--EN: 	People will react to rape-->
+  <worry_about_rape>人们会对强迫或非自愿性行为。做出反​​应</worry_about_rape>
+  <!--EN: Their reaction will depend on their Rape precept (requires Sexperience - Ideology) and whether they have the Rapist trait.\n\nWill be treated as exhibitionism if this option is disabled.-->
+  <worry_about_rape_desc>他们的反应将取决于他们的强迫或非自愿性行为。戒律（需要性经验 - 意识形态）以及他们是否具有强迫或非自愿性行为。犯特征。
+
+如果禁用此选项，将被视为 暴露主义。</worry_about_rape_desc>
+  <!--EN: 	People will react to whoring-->
+  <worry_about_whoring>人们会对嫖娼做出反应</worry_about_whoring>
+  <!--EN: Their reaction will depend on their prostitution precept (if Brothel Collony mod is available), exhibitionism and whether they have the Voyeur RJW quirk.-->
+  <worry_about_whoring_desc>他们的反应将取决于他们的卖淫戒律（如果妓院殖民地模组可用），暴露主义以及他们是否有偷窥RJW怪癖。</worry_about_whoring_desc>
+  <!--EN: 	People will react to couplings between humanoids of different species-->
+  <worry_about_xeno>人们会对不同物种的类人生物之间的耦合做出反应</worry_about_xeno>
+  <!--EN: Their reaction will depend on their Alien Dating precept (requires Humanoid Alien Races) and whether they have the Xenophile or Xenophobe traits.\n\nNote that genetically modified individuals still count as 'human', Will be treated as exhibitionism if this option is disabled.-->
+  <worry_about_xeno_desc>他们的反应将取决于他们的外星人约会规则（需要人形外星人种族）以及他们是否具有亲外或仇外特征。
+
+请注意，转基因个体仍然算作“人类”，如果禁用此选项，将被视为暴露主义。</worry_about_xeno_desc>
+</LanguageData>

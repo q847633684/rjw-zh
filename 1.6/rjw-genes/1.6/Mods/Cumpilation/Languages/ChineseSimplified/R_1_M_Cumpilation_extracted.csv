@@ -1,0 +1,38 @@
+key,text,tag,file,type
+rjw_genes_inflatable.label,inflatable,label,GeneDef/GeneDef.xml,def
+rjw_genes_inflatable.description,This Xenotype loves being stuffed with fluids and does not suffer physical impediments from being inflated.,description,GeneDef/GeneDef.xml,def
+rjw_genes_un_inflatable.label,inflation resistance,label,GeneDef/GeneDef.xml,def
+rjw_genes_un_inflatable.description,"This Xenotype cannot get inflated by fluids, neither vaginal, oral or anal.",description,GeneDef/GeneDef.xml,def
+rjw_genes_living_cumbucket.label,living cumbucket,label,GeneDef/GeneDef.xml,def
+rjw_genes_living_cumbucket.description,"When this Xenotype partakes in sexual activity, they store cum and produce it as an item.",description,GeneDef/GeneDef.xml,def
+RJW_Genes_Cumpilation_Cumflation_Counter.label,cumflation counter,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumflation_Counter.labelNoun,cumflation counter,labelNoun,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumflation_Counter.description,Apparently you can deal with it quite well.,description,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumflation_Counter.stages.0.label,counter a little,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumflation_Counter.stages.1.label,counter slight,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumflation_Counter.stages.2.label,counter moderate,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumflation_Counter.stages.3.label,counter intense,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumflation_Counter.stages.4.label,counter extreme,label,HediffDef/HediffDef.xml,def
+rjw_genes_filled_living_cumbucket.label,filled living cumbucket,label,HediffDef/HediffDef.xml,def
+rjw_genes_filled_living_cumbucket.description,"This pawn is a (filled) living cum bucket. Thanks to a generous donation, this pawn will slowly generate cum for pickup.",description,HediffDef/HediffDef.xml,def
+rjw_genes_filled_living_cumbucket.stages.0.label,slight,label,HediffDef/HediffDef.xml,def
+rjw_genes_filled_living_cumbucket.stages.1.label,moderate,label,HediffDef/HediffDef.xml,def
+rjw_genes_filled_living_cumbucket.stages.2.label,full,label,HediffDef/HediffDef.xml,def
+rjw_genes_filled_living_cumbucket.stages.3.label,over-full,label,HediffDef/HediffDef.xml,def
+rjw_genes_filled_living_cumbucket.stages.4.label,living reservior,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumstuffed_Counter.label,cumstuffed counter,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumstuffed_Counter.labelNoun,cumstuffed countered,labelNoun,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumstuffed_Counter.description,Apparently you can deal with it quite well.,description,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.0.label,counter slightly bloated,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.1.label,counter bloated,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.2.label,counter full,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.3.label,counter stuffed,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_Cumstuffed_Counter.stages.4.label,counter overstuffed,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.label,insect-spunk stuffed counter,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.labelNoun,insect-spunk stuffed counter,labelNoun,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.description,Apparently you can deal with it quite well.,description,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.0.label,counter slightly bloated,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.1.label,counter bloated,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.2.label,counter full,label,HediffDef/HediffDef.xml,def
+RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.3.label,counter over-stuffed,label,HediffDef/HediffDef.xml,def
+RJW_Genes_ProcessCumbucket.reportString,processing internal cumbucket.,reportString,JobDef/JobDef.xml,def

@@ -1,0 +1,276 @@
+key,text,tag,file,type
+AlertFaultyDefaultLabel,Brothel issues,AlertFaultyDefaultLabel,Alerts.xml,keyed
+AlertFaultyWhoreBrothelTabCheckbox,"{0} has the work type enabled, yet is not set as whore in the brothel tab.",AlertFaultyWhoreBrothelTabCheckbox,Alerts.xml,keyed
+AlertFaultyWhoreNoCondoms,"{0} was told to use condoms, but currently has none.",AlertFaultyWhoreNoCondoms,Alerts.xml,keyed
+AlertFaultyWhoreCondomsWithPregnancy,"{0} was told to use condoms, yet also to try for pregnancy.",AlertFaultyWhoreCondomsWithPregnancy,Alerts.xml,keyed
+CaravanWhoringStop,"Caravan moving away, your whores had to stop.",CaravanWhoringStop,Caravan.xml,keyed
+CaravanWhoringNoMaleClients,"{0} does not seem to have male clients, yet you brought female whores.",CaravanWhoringNoMaleClients,Caravan.xml,keyed
+CaravanWhoringNoFemaleClients,"{0} does not seem to have female clients, yet you brought male whores.",CaravanWhoringNoFemaleClients,Caravan.xml,keyed
+CaravanWhoringNoMoney,{0} has no silver to pay for your services.,CaravanWhoringNoMoney,Caravan.xml,keyed
+CaravanWhoringLowSoftSkills,"One of your whores' success chances is quite low, as they have low social skills. A prostitution specialist in the caravan would add their social skill.",CaravanWhoringLowSoftSkills,Caravan.xml,keyed
+CaravanWhoringNotifyPaymentSilver,"{0} served {1} and was paid {2}. Base price: {3}, bonus from specialist: {4}",CaravanWhoringNotifyPaymentSilver,Caravan.xml,keyed
+CaravanWhoringNotifyPaymentGoodwill,{0} served {1} and earned {2} goodwill with {3}.,CaravanWhoringNotifyPaymentGoodwill,Caravan.xml,keyed
+CaravanWhoringNotifyPaymentFervor,{0} served {1} and earned {2} sacred fervor.,CaravanWhoringNotifyPaymentFervor,Caravan.xml,keyed
+CaravanWhoringActionLabelNoWhoring,Start Whoring,CaravanWhoringActionLabelNoWhoring,Caravan.xml,keyed
+CaravanWhoringActionLabelWhoring,Stop Whoring,CaravanWhoringActionLabelWhoring,Caravan.xml,keyed
+CaravanWhoringActionDescNoWhoring,Offer your whores at the local settlement for a while,CaravanWhoringActionDescNoWhoring,Caravan.xml,keyed
+CaravanWhoringActionDescWhoring,Stop offering your whores,CaravanWhoringActionDescWhoring,Caravan.xml,keyed
+CaravanWhoringActionStop,Your caravan stopped whoring at {0},CaravanWhoringActionStop,Caravan.xml,keyed
+CaravanWhoringActionStart,Your caravan started whoring at {0},CaravanWhoringActionStart,Caravan.xml,keyed
+CaravanWhoringActionStartAtInMorning,Your caravan will start whoring at {0} in the morning,CaravanWhoringActionStartAtInMorning,Caravan.xml,keyed
+CaravanWhoringActionDisable,You have to bring at least one whore,CaravanWhoringActionDisable,Caravan.xml,keyed
+FervorTrackerNeedFervor,You need at least {0} fervor.,FervorTrackerNeedFervor,Fervor.xml,keyed
+FervorTrackerConvertAsMuchFervor,Convert as much fervor as possible.,FervorTrackerConvertAsMuchFervor,Fervor.xml,keyed
+FervorTrackerConvertFervorIntoDevPoint,Convert a {0} fervor into one development point,FervorTrackerConvertFervorIntoDevPoint,Fervor.xml,keyed
+FervorTrackerConvertedAllFervorIntoDevPoints,Converted {0} fervor into {1_numCase ? development point : development points : development points}.,FervorTrackerConvertedAllFervorIntoDevPoints,Fervor.xml,keyed
+FervorTrackerOne,One ({0}),FervorTrackerOne,Fervor.xml,keyed
+FervorTrackerAllFervor,All ({0}),FervorTrackerAllFervor,Fervor.xml,keyed
+FervorTrackerIdeologyNotFluid,Ideology not fluid,FervorTrackerIdeologyNotFluid,Fervor.xml,keyed
+FervorTrackerConversion,Conversion,FervorTrackerConversion,Fervor.xml,keyed
+WhoreIsServingVisitorsPaymentSilver,"{0} served {1} and was paid {2}. Base price: {3}, Bed quality: {4}",WhoreIsServingVisitorsPaymentSilver,JobDriver.xml,keyed
+WhoreIsServingVisitorsPaymentGoodwill,{0} served {1} and earned {2} goodwill with {3}.,WhoreIsServingVisitorsPaymentGoodwill,JobDriver.xml,keyed
+WhoreIsServingVisitorsPaymentFervor,{0} served {1} and earned {2} sacred fervor.,WhoreIsServingVisitorsPaymentFervor,JobDriver.xml,keyed
+ProstitutionCouldNotAfford,{0} could not afford {1},ProstitutionCouldNotAfford,Prostitution.xml,keyed
+ProstitutionUnhealtyAndReject,{0} is unhealty and was rejected.,ProstitutionUnhealtyAndReject,Prostitution.xml,keyed
+ProstitutionNoneAppealing,{0} found none of your whores appealing.,ProstitutionNoneAppealing,Prostitution.xml,keyed
+ProstitutionAbilityPresentCooldown,Next presentation ready in: {0},ProstitutionAbilityPresentCooldown,Prostitution.xml,keyed
+ProstitutionAbilityPresentDisabled,Designate at least one brothel bed first.,ProstitutionAbilityPresentDisabled,Prostitution.xml,keyed
+ProstitutionAbilityPresentWarning,"\n\nWarning! {0} is a caravan leader, their pack animals would follow them.",ProstitutionAbilityPresentWarning,Prostitution.xml,keyed
+ProstitutionAbilityPresentSilverGuests,\n\nSilver available to guests:\n,ProstitutionAbilityPresentSilverGuests,Prostitution.xml,keyed
+ProstitutionAbilityPresentSilverGroup,{0} - {1}'s group\n,ProstitutionAbilityPresentSilverGroup,Prostitution.xml,keyed
+ProstitutionAbilityPresentSilverTotal,\nTotal: {0}\n,ProstitutionAbilityPresentSilverTotal,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhorePrice,Cheapest whore:\n{0}: {1} silver,ProstitutionAbilityPresentWhorePrice,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreFree,Some whores do not ask for silver.,ProstitutionAbilityPresentWhoreFree,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreTitle,Sacred Fertility,ProstitutionAbilityPresentWhoreTitle,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreOutcomeDesc,The fertility of all participants has increased.,ProstitutionAbilityPresentWhoreOutcomeDesc,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreDiaNodeText,\n\nThe quality of the ritual earned us an initial fertility boost of {0}%.\n\nSpending five Sacred Fervor per pawn adds another 100%.,ProstitutionAbilityPresentWhoreDiaNodeText,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreDiaOptionNone,None,ProstitutionAbilityPresentWhoreDiaOptionNone,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreDiaOption,Spend {0} fervor per participant\nTotal: {1},ProstitutionAbilityPresentWhoreDiaOption,Prostitution.xml,keyed
+ProstitutionAbilityPresentWhoreDiaOptionDisable,Can not afford this much,ProstitutionAbilityPresentWhoreDiaOptionDisable,Prostitution.xml,keyed
+ProstitutionDesignateBrothelBedFirst,Designate at least one brothel bed first.,ProstitutionDesignateBrothelBedFirst,Prostitution.xml,keyed
+ProstitutionRitualReasonClient,Ritual role must be a non-hostile visitor,ProstitutionRitualReasonClient,Prostitution.xml,keyed
+ProstitutionRitualReasonWhore,{0} is not designated as whore.,ProstitutionRitualReasonWhore,Prostitution.xml,keyed
+ProstitutionLetterTitle,No more clients,ProstitutionLetterTitle,Prostitution.xml,keyed
+ProstitutionLetterDesc,No more clients left to serve.,ProstitutionLetterDesc,Prostitution.xml,keyed
+ProstitutionRitualDesc,"
+Prostitutes will do their best to serve all clients willing to take them. {madam}'s social skills ({madam_skills}) will help them to find clients.\n\n\n\nMale clients: {male_clients}\n\nFemale clients: {female_clients}\n\n\n
+  ",ProstitutionRitualDesc,Prostitution.xml,keyed
+RepopulationNoGenesCanTaken,No genes can be taken.,RepopulationNoGenesCanTaken,Repopulation.xml,keyed
+RepopulationNoNewGenes,No new genes to give.,RepopulationNoNewGenes,Repopulation.xml,keyed
+RepopulationNoBedAvaliable,No bed available.,RepopulationNoBedAvaliable,Repopulation.xml,keyed
+RepopulationTargetnotInterested,Target not interested in {0},RepopulationTargetnotInterested,Repopulation.xml,keyed
+RepopulationNoGenesAvaliable,No genes available on target,RepopulationNoGenesAvaliable,Repopulation.xml,keyed
+RepopulationSelectVisitor,Select a visitor,RepopulationSelectVisitor,Repopulation.xml,keyed
+RepopulationSelectOffering,Select offering,RepopulationSelectOffering,Repopulation.xml,keyed
+RepopulationSelectTarget,Select target,RepopulationSelectTarget,Repopulation.xml,keyed
+RepopulationActionLabel,Learned genes,RepopulationActionLabel,Repopulation.xml,keyed
+RepopulationActionDesc,Select to see all learned genes.,RepopulationActionDesc,Repopulation.xml,keyed
+RepopulationActionDiaNode,"These genes have been learned by {0}.\n \nAdding genes with Gene Tampering requires {1} fervor, plus an additional {2} fervor per level of complexity of the gene.\n \nRemoving a gene requires {3} fervor, plus an additional {4} fervor per level of complexity of the gene \n \nTargeting an unborn halfs the cost.",RepopulationActionDiaNode,Repopulation.xml,keyed
+RepopulationActionDisabled,Fervor is required to learn a gene,RepopulationActionDisabled,Repopulation.xml,keyed
+RepopulationOfferCanNotWalk,{0} can not walk on their own.,RepopulationOfferCanNotWalk,Repopulation.xml,keyed
+RepopulationOfferIsNotOne,{0} is not one of yours.,RepopulationOfferIsNotOne,Repopulation.xml,keyed
+RepopulationOfferDiaNode,\n\n{0} is expected to be given to {1}.\nThey will not appreciate us handing their relative to someone else.,RepopulationOfferDiaNode,Repopulation.xml,keyed
+RepopulationOfferDiaOptionYes,Do it anyways,RepopulationOfferDiaOptionYes,Repopulation.xml,keyed
+RepopulationOfferDiaOptionNo,Better not,RepopulationOfferDiaOptionNo,Repopulation.xml,keyed
+RepopulationOfferDiaNodeTitle,Offering to wrong faction,RepopulationOfferDiaNodeTitle,Repopulation.xml,keyed
+RepopulationOfferLetterText1,"\n\nWe are offering {0} to {1}\n\nAs {0} is not one of theirs, they consider this a favour to us. Due to our relationship with them ({2}), and {3}'s personal opinion ({4}) of {0}, they are only offering {5} of the usual reward.",RepopulationOfferLetterText1,Repopulation.xml,keyed
+RepopulationOfferLetterText2,"\n\nWe are offering {0} to {1}\n\nAs {0} is one of theirs, they offer us the usual reward.",RepopulationOfferLetterText2,Repopulation.xml,keyed
+RepopulationOfferLetterTitle,Offering {0},RepopulationOfferLetterTitle,Repopulation.xml,keyed
+RepopulationOfferLetterAcceptForSilver,Accept for {0} silver,RepopulationOfferLetterAcceptForSilver,Repopulation.xml,keyed
+RepopulationOfferLetterAcceptForGoodwill,Accept for {0} goodwill,RepopulationOfferLetterAcceptForGoodwill,Repopulation.xml,keyed
+RepopulationOfferLetterAcceptForFervor,Accept for {0} fervor,RepopulationOfferLetterAcceptForFervor,Repopulation.xml,keyed
+RepopulationOfferLetterAcceptNothing,Accept for nothing in return,RepopulationOfferLetterAcceptNothing,Repopulation.xml,keyed
+RepopulationOfferLetterAcceptRefuse,Refuse,RepopulationOfferLetterAcceptRefuse,Repopulation.xml,keyed
+RepopulationValidGenesDiaOption,{0} | Complexity: {1} | Metabolism: {2},RepopulationValidGenesDiaOption,Repopulation.xml,keyed
+RepopulationFloatMenuTitle,Available genes,RepopulationFloatMenuTitle,Repopulation.xml,keyed
+RepopulationFloatMenuTitle2,Genes,RepopulationFloatMenuTitle2,Repopulation.xml,keyed
+RepopulationWidgetRemoveGeneTitle,Remove genes,RepopulationWidgetRemoveGeneTitle,Repopulation.xml,keyed
+RepopulationWidgetAddGeneTitle,Add genes,RepopulationWidgetAddGeneTitle,Repopulation.xml,keyed
+RepopulationGeneFervor,Fervor: {0},RepopulationGeneFervor,Repopulation.xml,keyed
+RepopulationGeneRemovePrice,Remove ({0}),RepopulationGeneRemovePrice,Repopulation.xml,keyed
+RepopulationGeneAddPrice,Add ({0}),RepopulationGeneAddPrice,Repopulation.xml,keyed
+RepopulationGeneRemovedMessage,{0} has been removed from {1}.,RepopulationGeneRemovedMessage,Repopulation.xml,keyed
+RepopulationGeneRemovedUnbornMessage,{0} has been removed from the unborn.,RepopulationGeneRemovedUnbornMessage,Repopulation.xml,keyed
+RepopulationGeneAddedMessage,{0} has been added to {1}.,RepopulationGeneAddedMessage,Repopulation.xml,keyed
+RepopulationGeneAddedUnbornMessage,{0} has been added to the unborn.,RepopulationGeneAddedUnbornMessage,Repopulation.xml,keyed
+RepopulationRitualGeneTamperingTitle,Succesful gene tampering,RepopulationRitualGeneTamperingTitle,Repopulation.xml,keyed
+RepopulationRitualGeneTamperingDiaNodeText1,\n\nYou currently have {0} Sacred Fervor to spend.\nChose a single gene you want to tamper with for {1}'s child. The genes of the mother can not be tampered with while she is with child.,RepopulationRitualGeneTamperingDiaNodeText1,Repopulation.xml,keyed
+RepopulationRitualGeneTamperingDiaNodeText2,\n\nYou currently have {0} Sacred Fervor to spend.\nChose a single gene you want to tamper with for {1}.,RepopulationRitualGeneTamperingDiaNodeText2,Repopulation.xml,keyed
+RepopulationRitualReasonNotTarget,Not a target,RepopulationRitualReasonNotTarget,Repopulation.xml,keyed
+RepopulationRitualReasonAnimal,That is an animal,RepopulationRitualReasonAnimal,Repopulation.xml,keyed
+RepopulationRitualReasonNotPregnantAndHasNoGenes,"Target has no genes, and is not pregnant",RepopulationRitualReasonNotPregnantAndHasNoGenes,Repopulation.xml,keyed
+RepopulationCommandActionLabelStart,Departing ,RepopulationCommandActionLabelStart,Repopulation.xml,keyed
+RepopulationCommandActionLabelForSilver,for silver,RepopulationCommandActionLabelForSilver,Repopulation.xml,keyed
+RepopulationCommandActionLabelForGoodwill,for goodwill,RepopulationCommandActionLabelForGoodwill,Repopulation.xml,keyed
+RepopulationCommandActionLabelForFervor,for fervor,RepopulationCommandActionLabelForFervor,Repopulation.xml,keyed
+RepopulationCommandActionDesc,"Told to leave automatically, you can change the settings here",RepopulationCommandActionDesc,Repopulation.xml,keyed
+RepopulationCommandActionHandoverNow,Depart now,RepopulationCommandActionHandoverNow,Repopulation.xml,keyed
+RepopulationCommandActionHandoverNowDesc,Try to join already present caravan,RepopulationCommandActionHandoverNowDesc,Repopulation.xml,keyed
+RepopulationLetterDiaOptionForSilver,"Yes, for silver",RepopulationLetterDiaOptionForSilver,Repopulation.xml,keyed
+RepopulationLetterDiaOptionForGoodwill,"Yes, for goodwill",RepopulationLetterDiaOptionForGoodwill,Repopulation.xml,keyed
+RepopulationLetterDiaOptionForFervor,"Yes, for fervor",RepopulationLetterDiaOptionForFervor,Repopulation.xml,keyed
+RepopulationLetterDiaOptionNothing,"Yes, for nothing in return",RepopulationLetterDiaOptionNothing,Repopulation.xml,keyed
+RepopulationLetterDiaOptionNoAsk,"No, ask when they arrive",RepopulationLetterDiaOptionNoAsk,Repopulation.xml,keyed
+RepopulationLetterDiaOptionNoNever,"No, never",RepopulationLetterDiaOptionNoNever,Repopulation.xml,keyed
+RepopulationLetterDiaOptionDisabled,We made a choice when we declared our intent to repopulate,RepopulationLetterDiaOptionDisabled,Repopulation.xml,keyed
+RepopulationLetterDiaOptionDead,Dead,RepopulationLetterDiaOptionDead,Repopulation.xml,keyed
+CB_AskToTakeLetterLabel,Visitors asking for {0},CB_AskToTakeLetterLabel,Repopulation.xml,keyed
+CB_CannotSendAwayLordLeft,Cannot send away: {0} are no longer here,CB_CannotSendAwayLordLeft,Repopulation.xml,keyed
+CB_CannotSendAwayDespawned,Cannot send away: {0} is not available,CB_CannotSendAwayDespawned,Repopulation.xml,keyed
+CB_CannotSendAwayCrypto,Cannot send away: {0} is currentily in cryptosleep,CB_CannotSendAwayCrypto,Repopulation.xml,keyed
+CB_CannotSendAwayGrowthVat,Cannot send away: {0} is in a growth vat,CB_CannotSendAwayGrowthVat,Repopulation.xml,keyed
+CB_CannotSendAwayBiosculpterPod,Cannot send away: {0} is in a biosculpter pod,CB_CannotSendAwayBiosculpterPod,Repopulation.xml,keyed
+CB_CannotSendAwayNoMove,Cannot send away: {0} cannot move,CB_CannotSendAwayNoMove,Repopulation.xml,keyed
+CB_AskToTakeLetterDescription,"Visitors from {2} have arrived. {0} has been fathered by {1}, one of their a members.\n\nWe tasked ourselves with repopulating this world, and they are now asking to take {0} with them.\n\n",CB_AskToTakeLetterDescription,Repopulation.xml,keyed
+CB_AskToTakeLetterDescriptionMotherWarning,"\n\nThe mother, {0}, {1}",CB_AskToTakeLetterDescriptionMotherWarning,Repopulation.xml,keyed
+CB_AskToTakeLetterNothingPaid,{0} has joined {1} and will leave when they do.,CB_AskToTakeLetterNothingPaid,Repopulation.xml,keyed
+CB_AskToTakeLetterSilverPaid,"{0} paid {1} for {2}. {2} has joined them, and will leave when they do.",CB_AskToTakeLetterSilverPaid,Repopulation.xml,keyed
+CB_AskToTakeLetterFavourPaid,{0} has joined {1} and will leave when they do. Your relations have improved by {2}.,CB_AskToTakeLetterFavourPaid,Repopulation.xml,keyed
+CB_AskToTakeLetterFervorPaid,{0} has joined {1} and will leave when they do. You have gained {2} fervor.,CB_AskToTakeLetterFervorPaid,Repopulation.xml,keyed
+CB_AskToTakeLetterRefused,{0} are upset by the refusal. Relations have lowered by {3}. They will ask for {1} after {2} days again.,CB_AskToTakeLetterRefused,Repopulation.xml,keyed
+CB_AskToTakeLetterNothingPaid_CR,{0} has joined {1}.,CB_AskToTakeLetterNothingPaid_CR,Repopulation.xml,keyed
+CB_AskToTakeLetterSilverPaid_CR,{0} paid {1} for {2}. {2} has joined them.,CB_AskToTakeLetterSilverPaid_CR,Repopulation.xml,keyed
+CB_AskToTakeLetterFavourPaid_CR,{0} has joined {1}. Your relations have improved by {2}.,CB_AskToTakeLetterFavourPaid_CR,Repopulation.xml,keyed
+CB_AskToTakeLetterFervorPaid_CR,{0} has joined {1}. You have gained {2} fervor.,CB_AskToTakeLetterFervorPaid_CR,Repopulation.xml,keyed
+CB_PawnMapHeld,{0} unable to join {1},CB_PawnMapHeld,Repopulation.xml,keyed
+CB_PawnMapHeldDesc,"{0} is unable to join {1} by themselves. Make sure {0} can move on their own, and press their ""Depart Now"" button.",CB_PawnMapHeldDesc,Repopulation.xml,keyed
+CB_Gizmo_CR_Label,Offer pawn,CB_Gizmo_CR_Label,Repopulation.xml,keyed
+CB_Gizmo_CR_Desc,Offer a pawn to this settlement and choose a reward.,CB_Gizmo_CR_Desc,Repopulation.xml,keyed
+CB_UI_CR_Donor_Faction,Promised to: {0},CB_UI_CR_Donor_Faction,Repopulation.xml,keyed
+CB_UI_CR_Donor_Faction_None, Promised to: No one,CB_UI_CR_Donor_Faction_None,Repopulation.xml,keyed
+CB_UI_CR_Promised,Pledged:,CB_UI_CR_Promised,Repopulation.xml,keyed
+CB_OfferPawns_Header,Offer pawn(s) to {0},CB_OfferPawns_Header,Repopulation.xml,keyed
+CB_OfferPawns_OfferButton,Offer,CB_OfferPawns_OfferButton,Repopulation.xml,keyed
+CB_SetToLeaveLetterLabel,{0}Repopulation,CB_SetToLeaveLetterLabel,Repopulation.xml,keyed
+CB_SetToLeaveLetterDescription,"
+	 {0} has been fathered by {1}, a member of {2}.\n\nWe tasked ourselves with repopulating this world, and have now to decide if the child should prepare to join the next group of {2} passing by on their own, or if they should ask first.
+	 \n\n",CB_SetToLeaveLetterDescription,Repopulation.xml,keyed
+b,Have {0} leave automatically?,b,Repopulation.xml,keyed
+CB_SetToLeaveLetterDescription0,\nWe strongly believe this to be our duty.,CB_SetToLeaveLetterDescription0,Repopulation.xml,keyed
+CB_SetToLeaveLetterDescription1,\n{0} will appreciate our kindness.,CB_SetToLeaveLetterDescription1,Repopulation.xml,keyed
+CB_SetToLeaveLetterDescription2,\nUsually we are doing this for silver.,CB_SetToLeaveLetterDescription2,Repopulation.xml,keyed
+CB_SetToLeaveLetterYes,{0} will automatically join the next group of visitors from {1},CB_SetToLeaveLetterYes,Repopulation.xml,keyed
+CB_SetToLeaveLetterAsk,Visitors from {0} will ask if they can take {1} with them,CB_SetToLeaveLetterAsk,Repopulation.xml,keyed
+WhoringPaymentTypeSilver,Silver,WhoringPaymentTypeSilver,WhoreTab.xml,keyed
+WhoringPaymentTypeFervor,Fervor,WhoringPaymentTypeFervor,WhoreTab.xml,keyed
+WhoringPaymentTypeGoodwill,Goodwill,WhoringPaymentTypeGoodwill,WhoreTab.xml,keyed
+WhoringPaymentTypeNothing,Nothing,WhoringPaymentTypeNothing,WhoreTab.xml,keyed
+WhoringPregnancyTypeNormal,Normal,WhoringPregnancyTypeNormal,WhoreTab.xml,keyed
+WhoringPregnancyTypeAvoid,Avoid,WhoringPregnancyTypeAvoid,WhoreTab.xml,keyed
+WhoringPregnancyTypeTry,Try,WhoringPregnancyTypeTry,WhoreTab.xml,keyed
+WhoringCondomTypeNormal,Normal,WhoringCondomTypeNormal,WhoreTab.xml,keyed
+WhoringCondomTypeAlways,Always,WhoringCondomTypeAlways,WhoreTab.xml,keyed
+WhoringCondomTypeNever,Never,WhoringCondomTypeNever,WhoreTab.xml,keyed
+WhoringTipPrice,  Base Price: {0}\n  Traits and Beauty: {1}\n  Skill: {2},WhoringTipPrice,WhoreTab.xml,keyed
+WhoringTipBoth,  Gender: {0}\n  Age: {1}\n  Injuries: {2},WhoringTipBoth,WhoreTab.xml,keyed
+WhoringTipPaymentTypeSilver,Min:\n{0}\nMax:\n{1}\nBoth:\n{2}\n\nAffected by quality of whoring bed,WhoringTipPaymentTypeSilver,WhoreTab.xml,keyed
+WhoringTipPaymentTypeGoodwill,Raise Goodwill by {0}\n\nAffected by quality of whoring bed.,WhoringTipPaymentTypeGoodwill,WhoreTab.xml,keyed
+WhoringTipPaymentTypeFervor,Earn {0} sacred fervor.\n\nAffected by quality of whoring bed.,WhoringTipPaymentTypeFervor,WhoreTab.xml,keyed
+WhoringTipNoPayment,No payment?,WhoringTipNoPayment,WhoreTab.xml,keyed
+GeneralWhoringSettings,			General Whoring,GeneralWhoringSettings,Whoring.xml,keyed
+WhoringDifficultySettings,\n\n			Whoring Difficulty,WhoringDifficultySettings,Whoring.xml,keyed
+RepopulationismSettings,\n\n			Repopulationism,RepopulationismSettings,Whoring.xml,keyed
+whoringtab_enabled,Enable whoring tab,whoringtab_enabled,Whoring.xml,keyed
+whoringtab_enabled_desc,Shows/hide whoring tab,whoringtab_enabled_desc,Whoring.xml,keyed
+show_whore_price_factor_on_bed,Show whore price factor on beds,show_whore_price_factor_on_bed,Whoring.xml,keyed
+show_whore_price_factor_on_bed_desc,Show whore price factor as a label on beds that are enabled for whoring.,show_whore_price_factor_on_bed_desc,Whoring.xml,keyed
+show_whore_widgets_on_bed,Show bed widgets,show_whore_widgets_on_bed,Whoring.xml,keyed
+show_whore_widgets_on_bed_desc,Show bed widgets to mark beds for public/private for whoring.,show_whore_widgets_on_bed_desc,Whoring.xml,keyed
+NotifyPayment,Notify about payment,NotifyPayment,Whoring.xml,keyed
+NotifyPayment_desc,If you want to see notifications about clients paying,NotifyPayment_desc,Whoring.xml,keyed
+CanDeliverAllAges,Also allow babies to be handed off at other faction's settlements,CanDeliverAllAges,Whoring.xml,keyed
+CanDeliverAllAges_desc,"A caravan with a repopulation specialist can hand over pawns to other faction's settlement. The intended design is to hand over children that can walk, but some people prefer to also be able to offload babies fresh from the oven.",CanDeliverAllAges_desc,Whoring.xml,keyed
+PreventFatherPurge,Prevent deletion of fathers relevant to Repopulationism (Necessary if using Repopulationism) ,PreventFatherPurge,Whoring.xml,keyed
+PreventFatherPurge_desc,This setting is important for Repopulationism to work properly. The aggressive culling of World-Pawns of 1.6 sometimes deletes fathers before children are born and before they can come to pick up their children.,PreventFatherPurge_desc,Whoring.xml,keyed
+PreventChildPurge,Prevent deletion of children of colonists,PreventChildPurge,Whoring.xml,keyed
+PreventChildPurge_desc,What is the point of Repopulationism if your children instantly get autodeleted by Rimworlds overly aggressive Garbage Collection?,PreventChildPurge_desc,Whoring.xml,keyed
+PreventRelativePurge,Prevent deletion of any relatives of colonists (Dangerous),PreventRelativePurge,Whoring.xml,keyed
+PreventRelativePurge_desc,"Do not turn this setting on unless you are using a mod like ""No random relatives"" that prevents relatives from being generated to avoid massive bloat of world pawns",PreventRelativePurge_desc,Whoring.xml,keyed
+PreventPurgeEvenMore,Attempt to prevent deletion of those selected above by other mods suchs as BetterGC (Dangerous / Needs restart),PreventPurgeEvenMore,Whoring.xml,keyed
+PreventPurgeEvenMore_desc,"Do not turn this on unless needed. Some WorldPawn cleaning mods skip the vanilla validiation of WorldPawns and straight up go to deletion, yet still use the vanilla method to delete them. Enabling this setting will patch that vanilla method in hopes of preserving your friends. Personally I'd recommend disabling those other mods, as vanilla Rimworld 1.6 is already aggressive enough on its own when purging WorldPawns. Toggling needs a restart to take effact.",PreventPurgeEvenMore_desc,Whoring.xml,keyed
+MoneyPrinting,Money Printing,MoneyPrinting,Whoring.xml,keyed
+MoneyPrinting_desc,Clients will spawn silver out of thin air instead of being limited to their own's/caravan's silver,MoneyPrinting_desc,Whoring.xml,keyed
+MinimumPrice,Lowest Price,MinimumPrice,Whoring.xml,keyed
+MinimumPrice_desc,"If clients can't pay in full, this is the minimum your whores will accept",MinimumPrice_desc,Whoring.xml,keyed
+PriceMultiplier,Price Multiplier,PriceMultiplier,Whoring.xml,keyed
+PriceMultiplier_desc,Default 1. Multiplier for whore prices,PriceMultiplier_desc,Whoring.xml,keyed
+AcceptanceLower,"Acceptance, lower boundary",AcceptanceLower,Whoring.xml,keyed
+AcceptanceLower_desc,Default 0.05. A client accepts if his evaluation of your whore is higher than a random number rolled between those two boundaries. ,AcceptanceLower_desc,Whoring.xml,keyed
+AcceptanceUpper,"Acceptance, upper boundary",AcceptanceUpper,Whoring.xml,keyed
+AcceptanceUpper_desc,Default 1. A client accepts if his evaluation of your whore is higher than a random number rolled between those two boundaries. ,AcceptanceUpper_desc,Whoring.xml,keyed
+ClientAlwaysAccept,Disable Client RNG,ClientAlwaysAccept,Whoring.xml,keyed
+ClientAlwaysAccept_desc,"Instead of respecting various modifiers and rolling dice, Clients will always accept solicitation.",ClientAlwaysAccept_desc,Whoring.xml,keyed
+GayForPay,Only client sexuality matters,GayForPay,Whoring.xml,keyed
+GayForPay_desc,"If enabled, your whores will take any client that will take them, regardless of their own sexual orientation. Beware, unless additional mods affecting the sexuality-spread among pawns are used, a gay whore would very unlikely ever find a client otherwise.",GayForPay_desc,Whoring.xml,keyed
+AlwaysWilling,Porn Mode - Whores always willing ,AlwaysWilling,Whoring.xml,keyed
+AlwaysWilling_desc,"If enabled, your whores will go for clients even when fully satisified. This takes away from the challenge of properly training and supplying your workforce. ",AlwaysWilling_desc,Whoring.xml,keyed
+DebugWhoring,Debug mode,DebugWhoring,Whoring.xml,keyed
+DebugWhoring_desc,Enables some very spamming debug logs to help find bugs in the mod. Also enables rightclicking clients to get debug-info about all things that could be preventing solicitation,DebugWhoring_desc,Whoring.xml,keyed
+ResetSettings,Reset settings to default,ResetSettings,Whoring.xml,keyed
+ResetSettings_desc,Resets all settings to their somewhat balanced default values,ResetSettings_desc,Whoring.xml,keyed
+RJW_VisitorAcceptWhore,{0} accepted the deal {1} offered.,RJW_VisitorAcceptWhore,Whoring.xml,keyed
+RJW_VisitorSolicitWhore,{0} wants to be serviced by {1}.,RJW_VisitorSolicitWhore,Whoring.xml,keyed
+RJW_VisitorRejectWhore,{0} rejected the deal {1} offered.,RJW_VisitorRejectWhore,Whoring.xml,keyed
+RJW_VisitorSickWhore,{0} rejected the offer because {1} does not look healthy,RJW_VisitorSickWhore,Whoring.xml,keyed
+ForService,Assign to whorin',ForService,Whoring.xml,keyed
+ForServiceDesc,"Mark for whoring
+- Will try to solicit visitors.
+- Entertains other colonists if not busy.
+- Tries to refrain from masturbation while on the job, may cause frustration.
+",ForServiceDesc,Whoring.xml,keyed
+ForServiceRefuseDesc,Won't agree to be a whore,ForServiceRefuseDesc,Whoring.xml,keyed
+CommandBedSetAsWhoreBedLabel,Allow everyone to whore,CommandBedSetAsWhoreBedLabel,Whoring.xml,keyed
+CommandBedSetAsWhoreBedDesc,Allow all whores to use this bed to entertain customers.,CommandBedSetAsWhoreBedDesc,Whoring.xml,keyed
+CommandBedAllowWhoringLabel,Allow owner to whore,CommandBedAllowWhoringLabel,Whoring.xml,keyed
+CommandBedAllowWhoringDesc,Whether owner(s) are allowed to use this bed for whoring.,CommandBedAllowWhoringDesc,Whoring.xml,keyed
+WhorePriceCalcDesc,"Whoring price factor (based on comfort, room impressiveness and number of beds in room: {0}",WhorePriceCalcDesc,Whoring.xml,keyed
+CommandDisableBedTypeIsNotAssignable,This bed type is not assignable to pawns.,CommandDisableBedTypeIsNotAssignable,Whoring.xml,keyed
+WhorePrice,Whoring price range: ,WhorePrice,Whoring.xml,keyed
+BrothelTabIsPrisoner,Prisoner,BrothelTabIsPrisoner,Whoring.xml,keyed
+BrothelTabIsSlave,Slave,BrothelTabIsSlave,Whoring.xml,keyed
+WhoreIsServingVisitors.reportString,servicing TargetA.,reportString,JobDef/JobDef.xml,def
+WhoreInvitingVisitors.reportString,soliciting TargetA.,reportString,JobDef/JobDef.xml,def
+CB_SexBaseReceiverClient.reportString,enjoyin'.,reportString,JobDef/JobDef.xml,def
+CB_ServingVisitorsForFree.reportString,servicing TargetA.,reportString,JobDef/JobDef.xml,def
+CB_BrowseWhores.reportString,inspecting TargetA.,reportString,JobDef/JobDef.xml,def
+CB_BeInspected.reportString,presenting.,reportString,JobDef/JobDef.xml,def
+CB_StandBack.reportString,listening.,reportString,JobDef/JobDef.xml,def
+CountOfWhore.label,times whored,label,RecordDef/RecordDef.xml,def
+CountOfWhore.description,The number of times I whored myself.,description,RecordDef/RecordDef.xml,def
+EarnedMoneyByWhore.label,silvers earned as a whore,label,RecordDef/RecordDef.xml,def
+EarnedMoneyByWhore.description,The amount of silvers I have earned as a whore.,description,RecordDef/RecordDef.xml,def
+Brothel.label,brothel,label,RoomRoleDef/RoomRoleDef.xml,def
+WhoringPriceOffset.label,Whoring Price Offset,label,StatDef/StatDef.xml,def
+WhoringPriceOffset.description,Mostly used by other mods to manipulate the final price of whoring.,description,StatDef/StatDef.xml,def
+RJWFailedSolicitation.stages.0.label,tried to solicit me,label,ThoughtDef/ThoughtDef.xml,def
+RJWTurnedDownWhore.stages.0.label,bothered me,label,ThoughtDef/ThoughtDef.xml,def
+SleptInBrothel.stages.0.label,slept in brothel,label,ThoughtDef/ThoughtDef.xml,def
+SleptInBrothel.stages.0.description,"Eww, the sheets were all sticky.",description,ThoughtDef/ThoughtDef.xml,def
+SleptInBrothel.stages.1.label,slept in brothel!,label,ThoughtDef/ThoughtDef.xml,def
+SleptInBrothel.stages.1.description,"I just love this place, the smell, the sounds...",description,ThoughtDef/ThoughtDef.xml,def
+RJW_Brothel.modExtensions.0.label,Brothel,label,PawnTableDef/PawnTableDef.xml,def
+Soliciting.label,solicite visitors,label,WorkGiverDef/WorkGiverDef.xml,def
+Soliciting.verb,solicite,verb,WorkGiverDef/WorkGiverDef.xml,def
+Soliciting.gerund,soliciting,gerund,WorkGiverDef/WorkGiverDef.xml,def
+Brothel.labelShort,Whore,labelShort,WorkTypeDef/WorkTypeDef.xml,def
+Brothel.pawnLabel,Whore,pawnLabel,WorkTypeDef/WorkTypeDef.xml,def
+Brothel.gerundLabel,Soliciting,gerundLabel,WorkTypeDef/WorkTypeDef.xml,def
+Brothel.description,Whores solicite guests and earn money.,description,WorkTypeDef/WorkTypeDef.xml,def
+Brothel.verb,Whore,verb,WorkTypeDef/WorkTypeDef.xml,def
+RJW_IsWhore.headerTip,Whores,headerTip,PawnColumnDef/PawnColumnDef.xml,def
+RJW_PriceRangeOfWhore.headerTip,Price range for whore,headerTip,PawnColumnDef/PawnColumnDef.xml,def
+RJW_PriceRangeOfWhore.label,Price,label,PawnColumnDef/PawnColumnDef.xml,def
+RJW_EarnedMoneyByWhore.headerTip,Money earned(total),headerTip,PawnColumnDef/PawnColumnDef.xml,def
+RJW_EarnedMoneyByWhore.label,Earned,label,PawnColumnDef/PawnColumnDef.xml,def
+RJW_CountOfWhore.headerTip,Clients served,headerTip,PawnColumnDef/PawnColumnDef.xml,def
+RJW_CountOfWhore.label,Clients,label,PawnColumnDef/PawnColumnDef.xml,def
+RJW_AverageMoneyByWhore.headerTip,Money earned(average),headerTip,PawnColumnDef/PawnColumnDef.xml,def
+RJW_AverageMoneyByWhore.label,Average,label,PawnColumnDef/PawnColumnDef.xml,def
+RJW_WhoreMood.headerTip,Mood of pawn,headerTip,PawnColumnDef/PawnColumnDef.xml,def
+RJW_WhoreMood.label,Mood,label,PawnColumnDef/PawnColumnDef.xml,def
+RJW_WhoringPregnancy.headerTip,"Try: Avoid anything but vaginal sex\n\nNormal: No preference\n\nAvoid: If no condom on hand, avoid vaginal sex",headerTip,PawnColumnDef/PawnColumnDef.xml,def
+RJW_WhoringPregnancy.label,Pregnancy,label,PawnColumnDef/PawnColumnDef.xml,def
+RJW_WhoringCondom.headerTip,"Always: No whoring without condoms, carry at least five.\n\nNormal: Use if on hand\n\nNever: Never use while whoring, do not carry condoms",headerTip,PawnColumnDef/PawnColumnDef.xml,def
+RJW_WhoringCondom.label,Condoms,label,PawnColumnDef/PawnColumnDef.xml,def
+RJW_WhoringPayment.headerTip,Trade sex for benefits,headerTip,PawnColumnDef/PawnColumnDef.xml,def
+RJW_WhoringPayment.label,Payment,label,PawnColumnDef/PawnColumnDef.xml,def

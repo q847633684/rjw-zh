@@ -1,0 +1,19 @@
+key,text,tag,file,type
+RV2_GoalEnabler_Absorb.label,Cellular xenoconvertibility,label,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_Absorb.description,"This pawn's body is capable of absorbing prey, both permanently (assimilation) and temporarily (amalgamation).",description,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_ConvertChemfuel.label,Olifactory enzymes,label,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_ConvertChemfuel.description,This pawn's genitals and breasts can produce an enzyme which distills living tissues into chemfuel.,description,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_ConvertEggs.label,Ovifactory enzymes,label,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_ConvertEggs.description,This pawn's ovaries can produce an enzyme which converts living tissues into eggs.,description,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_ConvertUrine.label,Urifactory enzymes,label,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_ConvertUrine.description,This pawn's organ lining can produce an enzyme which converts living tissues into urine.,description,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_Cleavage.label,Cleavage depth,label,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_Cleavage.description,This pawn has heavily-modified cleavage for cleavage vore.,description,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Membrane.label,Dermal porocity,label,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Membrane.description,"This pawn has a permeable membrane for skin, allowing them to engulf prey, like a slime, for membrane vore.",description,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Navel.label,Umbilical elasticity,label,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Navel.description,This pawn has an elastic and untied navel for navel vore.,description,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Tailmaw.label,Tailmaw,label,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Tailmaw.description,"This tail has a petal-like maw at the tip, which is capable of swallowing prey down to the stomach.",description,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Udder.label,Uberal elasticity,label,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Udder.description,"This pawn has an elastic udder and teats, for udder vore.",description,GeneDef/GeneDef.xml,def

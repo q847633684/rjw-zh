@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Big egg-->
+  <Hediff_InsectEgg_big>大卵</Hediff_InsectEgg_big>
+  <!--EN:  egg-->
+  <Hediff_InsectEgg_egg>卵</Hediff_InsectEgg_egg>
+  <!--EN: Fertilized-->
+  <Hediff_InsectEgg_fertilized>受精</Hediff_InsectEgg_fertilized>
+  <!--EN: Huge egg-->
+  <Hediff_InsectEgg_huge>巨大卵</Hediff_InsectEgg_huge>
+  <!--EN: Medium egg-->
+  <Hediff_InsectEgg_medium>中卵</Hediff_InsectEgg_medium>
+  <!--EN: Small egg-->
+  <Hediff_InsectEgg_small>小卵</Hediff_InsectEgg_small>
+  <!--EN: Unfertilized-->
+  <Hediff_InsectEgg_unfertilized>未受精</Hediff_InsectEgg_unfertilized>
+</LanguageData>

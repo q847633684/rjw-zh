@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Mental state: Random Rape-->
+  <RandomRape.baseInspectLine>精神状态：肆意强奸</RandomRape.baseInspectLine>
+  <!--EN: {0} is sexually frustrated and is looking to a rape someone.-->
+  <RandomRape.beginLetter>{0}饥渴难耐，打算随便找个目标强奸。</RandomRape.beginLetter>
+  <!--EN: random rape-->
+  <RandomRape.beginLetterLabel>肆意强奸</RandomRape.beginLetterLabel>
+  <!--EN: random rape-->
+  <RandomRape.label>肆意强奸</RandomRape.label>
+  <!--EN: {0} is no longer raping randomly.-->
+  <RandomRape.recoveryMessage>{0}的性欲被满足了，不再肆意强奸他人。</RandomRape.recoveryMessage>
+</LanguageData>

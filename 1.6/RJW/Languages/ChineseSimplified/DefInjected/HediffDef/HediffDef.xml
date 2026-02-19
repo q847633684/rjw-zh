@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Bound hands.-->
+  <BoundHands.description>绑手。</BoundHands.description>
+  <!--EN: bound hands-->
+  <BoundHands.label>绑手</BoundHands.label>
+  <!--EN: bound hands-->
+  <BoundHands.labelNoun>绑手</BoundHands.labelNoun>
+  <!--EN: Bound legs.-->
+  <BoundLegs.description>绑腿。</BoundLegs.description>
+  <!--EN: bound legs-->
+  <BoundLegs.label>绑腿</BoundLegs.label>
+  <!--EN: bound legs-->
+  <BoundLegs.labelNoun>绑腿</BoundLegs.labelNoun>
+  <!--EN: A series of chains that restrict its wearer.-->
+  <Chains.description>限制佩戴者行动的一系列链条。</Chains.description>
+  <!--EN: chains-->
+  <Chains.label>链条</Chains.label>
+  <!--EN: chains-->
+  <Chains.labelNoun>链条</Chains.labelNoun>
+  <!--EN: Low fertility, not for baby making.-->
+  <DecreasedFertility.description>生育能力降低，不利于孕育后代。</DecreasedFertility.description>
+  <!--EN: Infertile-->
+  <DecreasedFertility.label>低生育能力</DecreasedFertility.label>
+  <!--EN: Mind broken. No longer capable of emotion.-->
+  <FeelingBroken.description>精神崩坏，不再有感情了。</FeelingBroken.description>
+  <!--EN: Feeling broken-->
+  <FeelingBroken.label>精神崩坏</FeelingBroken.label>
+  <!--EN: early-stage-->
+  <FeelingBroken.stages.0.label>头晕</FeelingBroken.stages.0.label>
+  <!--EN: in a trance-->
+  <FeelingBroken.stages.1.label>我的身体要坏掉了</FeelingBroken.stages.1.label>
+  <!--EN: broken-->
+  <FeelingBroken.stages.2.label>乞求更多</FeelingBroken.stages.2.label>
+  <!--EN: Extremely broken-->
+  <FeelingBroken.stages.3.label>严重崩坏</FeelingBroken.stages.3.label>
+  <!--EN: A complex device that increases the likelihood of pregnancy.-->
+  <FertilityEnhancer.description>可提高受孕概率的精密装置。</FertilityEnhancer.description>
+  <!--EN: Archotech fertility enhancer-->
+  <FertilityEnhancer.label>超凡生育增强器</FertilityEnhancer.label>
+  <!--EN: "Who's next?"-->
+  <Hediff_RapeEnemyCD.description>“下一个是谁？”</Hediff_RapeEnemyCD.description>
+  <!--EN: rape enemy cooldown-->
+  <Hediff_RapeEnemyCD.label>强奸敌人冷却时间</Hediff_RapeEnemyCD.label>
+  <!--EN: Submitting.-->
+  <Hediff_Submitting.description>咕……要上就上吧。</Hediff_Submitting.description>
+  <!--EN: Prostrating self-->
+  <Hediff_Submitting.label>屈服</Hediff_Submitting.label>
+  <!--EN: Animal experiencing sexual attraction to Humanlikes.-->
+  <Humanlike_Paraphilia.description>动物对人形生物起了性欲。</Humanlike_Paraphilia.description>
+  <!--EN: humanlike paraphilia-->
+  <Humanlike_Paraphilia.label>恋人癖</Humanlike_Paraphilia.label>
+  <!--EN: humanlike paraphilia-->
+  <Humanlike_Paraphilia.labelNoun>恋人癖</Humanlike_Paraphilia.labelNoun>
+  <!--EN: Initial curiosity-->
+  <Humanlike_Paraphilia.stages.0.label>萌生好奇</Humanlike_Paraphilia.stages.0.label>
+  <!--EN: Attracted-->
+  <Humanlike_Paraphilia.stages.1.label>受到吸引</Humanlike_Paraphilia.stages.1.label>
+  <!--EN: Focused-->
+  <Humanlike_Paraphilia.stages.2.label>专注</Humanlike_Paraphilia.stages.2.label>
+  <!--EN: Fixated-->
+  <Humanlike_Paraphilia.stages.3.label>执着</Humanlike_Paraphilia.stages.3.label>
+  <!--EN: Obsessed-->
+  <Humanlike_Paraphilia.stages.4.label>痴迷</Humanlike_Paraphilia.stages.4.label>
+  <!--EN: Hump shroom effects addiction.-->
+  <HumpShroomAddiction.description>驼峰菇效果成瘾。</HumpShroomAddiction.description>
+  <!--EN: humpshroom addiction-->
+  <HumpShroomAddiction.label>驼峰菇成瘾</HumpShroomAddiction.label>
+  <!--EN: withdrawal-->
+  <HumpShroomAddiction.stages.1.label>未满足</HumpShroomAddiction.stages.1.label>
+  <!--EN: Hump shroom aphrodisiac effects.-->
+  <HumpShroomEffect.description>驼峰菇催情效果。</HumpShroomEffect.description>
+  <!--EN: induced libido-->
+  <HumpShroomEffect.label>催情</HumpShroomEffect.label>
+  <!--EN: Hump shroom effects tolerance.-->
+  <HumpShroomTolerance.description>驼峰菇效果耐受。</HumpShroomTolerance.description>
+  <!--EN: humpshroom tolerance-->
+  <HumpShroomTolerance.label>驼峰菇耐受</HumpShroomTolerance.label>
+  <!--EN: A complex device that prevents fertilization and pregnancy.-->
+  <ImpregnationBlocker.description>能阻止受精与妊娠的精密装置。</ImpregnationBlocker.description>
+  <!--EN: Archotech pregnancy blocker-->
+  <ImpregnationBlocker.label>超凡绝育器</ImpregnationBlocker.label>
+  <!--EN: Increased fertility, for baby making.-->
+  <IncreasedFertility.description>生育能力提升，利于孕育后代。</IncreasedFertility.description>
+  <!--EN: Fertile-->
+  <IncreasedFertility.label>高生育能力</IncreasedFertility.label>
+  <!--EN: A peg arm.-->
+  <PegArm.description>钉臂。</PegArm.description>
+  <!--EN: peg arm-->
+  <PegArm.label>钉臂</PegArm.label>
+  <!--EN: a peg arm-->
+  <PegArm.labelNoun>钉臂</PegArm.labelNoun>
+  <!--EN: A growing child.-->
+  <RJW_BabyState.description>成长中的孩子。</RJW_BabyState.description>
+  <!--EN: child is growing-->
+  <RJW_BabyState.label>儿童成长状态</RJW_BabyState.label>
+  <!--EN: baby-->
+  <RJW_BabyState.stages.0.label>婴儿</RJW_BabyState.stages.0.label>
+  <!--EN: toddler-->
+  <RJW_BabyState.stages.1.label>幼儿</RJW_BabyState.stages.1.label>
+  <!--EN: child-->
+  <RJW_BabyState.stages.2.label>儿童</RJW_BabyState.stages.2.label>
+  <!--EN: A cocoon that tends to its host until ready to procreate.-->
+  <RJW_Cocoon.description>虫在准备繁殖时束缚寄主的茧。</RJW_Cocoon.description>
+  <!--EN: Cocoon-->
+  <RJW_Cocoon.label>结茧</RJW_Cocoon.label>
+  <!--EN: A cocoon-->
+  <RJW_Cocoon.labelNoun>结茧</RJW_Cocoon.labelNoun>
+  <!--EN: Contraception pills deliver severe hit to fertility for one quadrum.-->
+  <RJW_Contraceptive.description>严重降低生育能力。</RJW_Contraceptive.description>
+  <!--EN: contraceptive-->
+  <RJW_Contraceptive.label>避孕药</RJW_Contraceptive.label>
+  <!--EN: Contracepted-->
+  <RJW_Contraceptive.stages.0.label>避孕</RJW_Contraceptive.stages.0.label>
+  <!--EN: Enhanced fertility. A mild aphrodisiac.-->
+  <RJW_FertPill.description>48小时内提高生育率。也可以作为温和的催情剂。</RJW_FertPill.description>
+  <!--EN: fertpill-->
+  <RJW_FertPill.label>排卵药物</RJW_FertPill.label>
+  <!--EN: Hyperfertility-->
+  <RJW_FertPill.stages.0.label>高生育率</RJW_FertPill.stages.0.label>
+  <!--EN: A small silver device inserted into the womb that greatly reduces the chance of pregnancy.-->
+  <RJW_IUD.description>一种置入子宫的小型银色装置，可大幅降低受孕几率。</RJW_IUD.description>
+  <!--EN: IUD-->
+  <RJW_IUD.label>节育环</RJW_IUD.label>
+  <!--EN: Too young to work.-->
+  <RJW_NoManipulationFlag.description>太年轻无法胜任工作。</RJW_NoManipulationFlag.description>
+  <!--EN: Too young to work-->
+  <RJW_NoManipulationFlag.label>太年轻无法胜任工作</RJW_NoManipulationFlag.label>
+  <!--EN: A set of restraints.-->
+  <RJW_Restraints.description>束缚。</RJW_Restraints.description>
+  <!--EN: Restraints-->
+  <RJW_Restraints.label>束缚</RJW_Restraints.label>
+  <!--EN: restraints-->
+  <RJW_Restraints.labelNoun>束缚</RJW_Restraints.labelNoun>
+  <!--EN: early-stage-->
+  <RJW_pregnancy.stages.0.label>前期</RJW_pregnancy.stages.0.label>
+  <!--EN: middle-stage-->
+  <RJW_pregnancy.stages.1.label>中期</RJW_pregnancy.stages.1.label>
+  <!--EN: late-stage-->
+  <RJW_pregnancy.stages.2.label>晚期</RJW_pregnancy.stages.2.label>
+  <!--EN: having contractions-->
+  <RJW_pregnancy.stages.3.label>临产</RJW_pregnancy.stages.3.label>
+  <!--EN: early-stage-->
+  <RJW_pregnancy_beast.stages.0.label>前期</RJW_pregnancy_beast.stages.0.label>
+  <!--EN: middle-stage-->
+  <RJW_pregnancy_beast.stages.1.label>中期</RJW_pregnancy_beast.stages.1.label>
+  <!--EN: late-stage-->
+  <RJW_pregnancy_beast.stages.2.label>晚期</RJW_pregnancy_beast.stages.2.label>
+  <!--EN: having contractions-->
+  <RJW_pregnancy_beast.stages.3.label>临产</RJW_pregnancy_beast.stages.3.label>
+  <!--EN: early-stage-->
+  <RJW_pregnancy_mech.stages.0.label>前期</RJW_pregnancy_mech.stages.0.label>
+  <!--EN: middle-stage-->
+  <RJW_pregnancy_mech.stages.1.label>中期</RJW_pregnancy_mech.stages.1.label>
+  <!--EN: late-stage-->
+  <RJW_pregnancy_mech.stages.2.label>晚期</RJW_pregnancy_mech.stages.2.label>
+  <!--EN: having contractions-->
+  <RJW_pregnancy_mech.stages.3.label>临产</RJW_pregnancy_mech.stages.3.label>
+  <!--EN: Unable to reproduce.-->
+  <Sterilized.description>无法繁殖。</Sterilized.description>
+  <!--EN: sterilized-->
+  <Sterilized.label>绝育</Sterilized.label>
+  <!--EN: female2futa-->
+  <hediff_female2futa.label>变性（女至扶她）</hediff_female2futa.label>
+  <!--EN: ignorance-->
+  <hediff_female2futa.stages.0.label>忽略</hediff_female2futa.stages.0.label>
+  <!--EN: acceptance-->
+  <hediff_female2futa.stages.1.label>接受</hediff_female2futa.stages.1.label>
+  <!--EN: saddness-->
+  <hediff_female2futa.stages.2.label>悲伤</hediff_female2futa.stages.2.label>
+  <!--EN: anger-->
+  <hediff_female2futa.stages.3.label>愤怒</hediff_female2futa.stages.3.label>
+  <!--EN: rejection-->
+  <hediff_female2futa.stages.4.label>抗拒</hediff_female2futa.stages.4.label>
+  <!--EN: female2male-->
+  <hediff_female2male.label>变性（女至男）</hediff_female2male.label>
+  <!--EN: ignorance-->
+  <hediff_female2male.stages.0.label>忽略</hediff_female2male.stages.0.label>
+  <!--EN: acceptance-->
+  <hediff_female2male.stages.1.label>接受</hediff_female2male.stages.1.label>
+  <!--EN: saddness-->
+  <hediff_female2male.stages.2.label>悲伤</hediff_female2male.stages.2.label>
+  <!--EN: anger-->
+  <hediff_female2male.stages.3.label>愤怒</hediff_female2male.stages.3.label>
+  <!--EN: rejection-->
+  <hediff_female2male.stages.4.label>抗拒</hediff_female2male.stages.4.label>
+  <!--EN: female2trap-->
+  <hediff_female2trap.label>变性（女至人妖）</hediff_female2trap.label>
+  <!--EN: ignorance-->
+  <hediff_female2trap.stages.0.label>忽略</hediff_female2trap.stages.0.label>
+  <!--EN: acceptance-->
+  <hediff_female2trap.stages.1.label>接受</hediff_female2trap.stages.1.label>
+  <!--EN: saddness-->
+  <hediff_female2trap.stages.2.label>悲伤</hediff_female2trap.stages.2.label>
+  <!--EN: anger-->
+  <hediff_female2trap.stages.3.label>愤怒</hediff_female2trap.stages.3.label>
+  <!--EN: rejection-->
+  <hediff_female2trap.stages.4.label>抗拒</hediff_female2trap.stages.4.label>
+  <!--EN: futa2female-->
+  <hediff_futa2female.label>变性（扶她至女）</hediff_futa2female.label>
+  <!--EN: ignorance-->
+  <hediff_futa2female.stages.0.label>忽略</hediff_futa2female.stages.0.label>
+  <!--EN: acceptance-->
+  <hediff_futa2female.stages.1.label>接受</hediff_futa2female.stages.1.label>
+  <!--EN: saddness-->
+  <hediff_futa2female.stages.2.label>悲伤</hediff_futa2female.stages.2.label>
+  <!--EN: anger-->
+  <hediff_futa2female.stages.3.label>愤怒</hediff_futa2female.stages.3.label>
+  <!--EN: rejection-->
+  <hediff_futa2female.stages.4.label>抗拒</hediff_futa2female.stages.4.label>
+  <!--EN: futa2male-->
+  <hediff_futa2male.label>变性（扶她至男）</hediff_futa2male.label>
+  <!--EN: ignorance-->
+  <hediff_futa2male.stages.0.label>忽略</hediff_futa2male.stages.0.label>
+  <!--EN: acceptance-->
+  <hediff_futa2male.stages.1.label>接受</hediff_futa2male.stages.1.label>
+  <!--EN: saddness-->
+  <hediff_futa2male.stages.2.label>悲伤</hediff_futa2male.stages.2.label>
+  <!--EN: anger-->
+  <hediff_futa2male.stages.3.label>愤怒</hediff_futa2male.stages.3.label>
+  <!--EN: rejection-->
+  <hediff_futa2male.stages.4.label>抗拒</hediff_futa2male.stages.4.label>
+  <!--EN: futa2trap-->
+  <hediff_futa2trap.label>变性（扶她至人妖）</hediff_futa2trap.label>
+  <!--EN: ignorance-->
+  <hediff_futa2trap.stages.0.label>忽略</hediff_futa2trap.stages.0.label>
+  <!--EN: acceptance-->
+  <hediff_futa2trap.stages.1.label>接受</hediff_futa2trap.stages.1.label>
+  <!--EN: saddness-->
+  <hediff_futa2trap.stages.2.label>悲伤</hediff_futa2trap.stages.2.label>
+  <!--EN: anger-->
+  <hediff_futa2trap.stages.3.label>愤怒</hediff_futa2trap.stages.3.label>
+  <!--EN: rejection-->
+  <hediff_futa2trap.stages.4.label>抗拒</hediff_futa2trap.stages.4.label>
+  <!--EN: male2female-->
+  <hediff_male2female.label>变性（男至女）</hediff_male2female.label>
+  <!--EN: ignorance-->
+  <hediff_male2female.stages.0.label>忽略</hediff_male2female.stages.0.label>
+  <!--EN: acceptance-->
+  <hediff_male2female.stages.1.label>接受</hediff_male2female.stages.1.label>
+  <!--EN: saddness-->
+  <hediff_male2female.stages.2.label>悲伤</hediff_male2female.stages.2.label>
+  <!--EN: anger-->
+  <hediff_male2female.stages.3.label>愤怒</hediff_male2female.stages.3.label>
+  <!--EN: rejection-->
+  <hediff_male2female.stages.4.label>抗拒</hediff_male2female.stages.4.label>
+  <!--EN: male2futa-->
+  <hediff_male2futa.label>变性（男至扶她）</hediff_male2futa.label>
+  <!--EN: ignorance-->
+  <hediff_male2futa.stages.0.label>忽略</hediff_male2futa.stages.0.label>
+  <!--EN: acceptance-->
+  <hediff_male2futa.stages.1.label>接受</hediff_male2futa.stages.1.label>
+  <!--EN: saddness-->
+  <hediff_male2futa.stages.2.label>悲伤</hediff_male2futa.stages.2.label>
+  <!--EN: anger-->
+  <hediff_male2futa.stages.3.label>愤怒</hediff_male2futa.stages.3.label>
+  <!--EN: rejection-->
+  <hediff_male2futa.stages.4.label>抗拒</hediff_male2futa.stages.4.label>
+  <!--EN: male2trap-->
+  <hediff_male2trap.label>变性（男至人妖）</hediff_male2trap.label>
+  <!--EN: ignorance-->
+  <hediff_male2trap.stages.0.label>忽略</hediff_male2trap.stages.0.label>
+  <!--EN: acceptance-->
+  <hediff_male2trap.stages.1.label>接受</hediff_male2trap.stages.1.label>
+  <!--EN: saddness-->
+  <hediff_male2trap.stages.2.label>悲伤</hediff_male2trap.stages.2.label>
+  <!--EN: anger-->
+  <hediff_male2trap.stages.3.label>愤怒</hediff_male2trap.stages.3.label>
+  <!--EN: rejection-->
+  <hediff_male2trap.stages.4.label>抗拒</hediff_male2trap.stages.4.label>
+  <!--EN: trap2female-->
+  <hediff_trap2female.label>变性（人妖至女）</hediff_trap2female.label>
+  <!--EN: ignorance-->
+  <hediff_trap2female.stages.0.label>忽略</hediff_trap2female.stages.0.label>
+  <!--EN: acceptance-->
+  <hediff_trap2female.stages.1.label>接受</hediff_trap2female.stages.1.label>
+  <!--EN: saddness-->
+  <hediff_trap2female.stages.2.label>悲伤</hediff_trap2female.stages.2.label>
+  <!--EN: anger-->
+  <hediff_trap2female.stages.3.label>愤怒</hediff_trap2female.stages.3.label>
+  <!--EN: rejection-->
+  <hediff_trap2female.stages.4.label>抗拒</hediff_trap2female.stages.4.label>
+  <!--EN: trap2futa-->
+  <hediff_trap2futa.label>变性（人妖至扶她）</hediff_trap2futa.label>
+  <!--EN: ignorance-->
+  <hediff_trap2futa.stages.0.label>忽略</hediff_trap2futa.stages.0.label>
+  <!--EN: acceptance-->
+  <hediff_trap2futa.stages.1.label>接受</hediff_trap2futa.stages.1.label>
+  <!--EN: saddness-->
+  <hediff_trap2futa.stages.2.label>悲伤</hediff_trap2futa.stages.2.label>
+  <!--EN: anger-->
+  <hediff_trap2futa.stages.3.label>愤怒</hediff_trap2futa.stages.3.label>
+  <!--EN: rejection-->
+  <hediff_trap2futa.stages.4.label>抗拒</hediff_trap2futa.stages.4.label>
+  <!--EN: trap2male-->
+  <hediff_trap2male.label>变性（人妖至男）</hediff_trap2male.label>
+  <!--EN: ignorance-->
+  <hediff_trap2male.stages.0.label>忽略</hediff_trap2male.stages.0.label>
+  <!--EN: acceptance-->
+  <hediff_trap2male.stages.1.label>接受</hediff_trap2male.stages.1.label>
+  <!--EN: saddness-->
+  <hediff_trap2male.stages.2.label>悲伤</hediff_trap2male.stages.2.label>
+  <!--EN: anger-->
+  <hediff_trap2male.stages.3.label>愤怒</hediff_trap2male.stages.3.label>
+  <!--EN: rejection-->
+  <hediff_trap2male.stages.4.label>抗拒</hediff_trap2male.stages.4.label>
+  <!--EN: was_boy-->
+  <hediff_was_boy.label>曾是男孩</hediff_was_boy.label>
+  <!--EN: was_futa-->
+  <hediff_was_futa.label>曾是扶她</hediff_was_futa.label>
+  <!--EN: was_girl-->
+  <hediff_was_girl.label>曾是女孩</hediff_was_girl.label>
+  <!--EN: was_trap-->
+  <hediff_was_trap.label>曾是人妖</hediff_was_trap.label>
+</LanguageData>

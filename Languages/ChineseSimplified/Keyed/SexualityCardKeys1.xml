@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: RJW: Edit parts-->
+  <PartsEditDevEntry>RJW：编辑部位</PartsEditDevEntry>
+  <!--EN: Fluid Multiplier-->
+  <PartsEditFluidMultiplierLabel>体液乘率</PartsEditFluidMultiplierLabel>
+  <!--EN: Edit {0}-->
+  <PartsEditLabel>编辑{0}</PartsEditLabel>
+  <!--EN: Disable reproduction-->
+  <SC_Fertility_Disable>禁用生育</SC_Fertility_Disable>
+  <!--EN: Enable reproduction-->
+  <SC_Fertility_Enable>启用生育</SC_Fertility_Enable>
+  <!--EN: Enchance fertility-->
+  <SC_Fertility_Enchance>增强生育能力</SC_Fertility_Enchance>
+  <!--EN: Fluid Type-->
+  <SC_FluidType>体液类型</SC_FluidType>
+  <!--EN:  (Default)-->
+  <SC_FluidTypeDefault>（默认）</SC_FluidTypeDefault>
+  <!--EN: Reroll-->
+  <SC_Reroll>重新随机</SC_Reroll>
+  <!--EN: Sexuality: {0}-->
+  <SC_Sexuality>性取向：{0}</SC_Sexuality>
+  <!--EN: Asexual-->
+  <SC_Sexuality_Asexual>无性恋</SC_Sexuality_Asexual>
+  <!--EN: Bisexual-->
+  <SC_Sexuality_Bisexual>双性恋</SC_Sexuality_Bisexual>
+  <!--EN: Hetero-->
+  <SC_Sexuality_Heterosexual>异性恋</SC_Sexuality_Heterosexual>
+  <!--EN: Gay-->
+  <SC_Sexuality_Homosexual>同性恋</SC_Sexuality_Homosexual>
+  <!--EN: Bisexual, leaning hetero-->
+  <SC_Sexuality_LeaningHeterosexual>偏向异性恋的双性恋</SC_Sexuality_LeaningHeterosexual>
+  <!--EN: Bisexual, leaning gay-->
+  <SC_Sexuality_LeaningHomosexual>偏向同性恋的双性恋</SC_Sexuality_LeaningHomosexual>
+  <!--EN: Mostly hetero-->
+  <SC_Sexuality_MostlyHeterosexual>大多数情况下为异性恋</SC_Sexuality_MostlyHeterosexual>
+  <!--EN: Mostly gay-->
+  <SC_Sexuality_MostlyHomosexual>大多数情况下为同性恋</SC_Sexuality_MostlyHomosexual>
+  <!--EN: Pansexual-->
+  <SC_Sexuality_Pansexual>泛性恋</SC_Sexuality_Pansexual>
+  <!--EN: Wants to be:-->
+  <SexPartWants>想要成为：</SexPartWants>
+  <!--EN: Show sexuality-->
+  <SexcardTooltip>显示性取向</SexcardTooltip>
+</LanguageData>

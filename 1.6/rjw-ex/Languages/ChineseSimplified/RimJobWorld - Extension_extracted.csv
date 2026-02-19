@@ -1,0 +1,239 @@
+key,text,tag,file,type
+Armbinder.label,armbinder,label,HediffDef/HediffDef.xml,def
+Armbinder.labelNoun,an armbinder,labelNoun,HediffDef/HediffDef.xml,def
+Armbinder.description,An armbinder. A restraint device that binds the arms behind the body.,description,HediffDef/HediffDef.xml,def
+ChastityBelt.label,chastity belt,label,HediffDef/HediffDef.xml,def
+ChastityBelt.labelNoun,a chastity belt,labelNoun,HediffDef/HediffDef.xml,def
+ChastityBelt.description,"A chastity belt. Restricts access to the vagina and anus from its lover, and its wearer.",description,HediffDef/HediffDef.xml,def
+ChastityCage.label,chastity cage,label,HediffDef/HediffDef.xml,def
+ChastityCage.labelNoun,a chastity cage,labelNoun,HediffDef/HediffDef.xml,def
+ChastityCage.description,"A chastity cage. Restricts access to the penis from its lover, and its wearer.",description,HediffDef/HediffDef.xml,def
+Yoke.label,yoke,label,HediffDef/HediffDef.xml,def
+Yoke.labelNoun,a yoke,labelNoun,HediffDef/HediffDef.xml,def
+Yoke.description,Keeps the arms and head of the wearer locked relative to their body in a raised-arm position.,description,HediffDef/HediffDef.xml,def
+ClosedGag.label,closed gag,label,HediffDef/HediffDef.xml,def
+ClosedGag.labelNoun,a closed gag,labelNoun,HediffDef/HediffDef.xml,def
+ClosedGag.description,A closed gag that prevents its wearer from speaking.,description,HediffDef/HediffDef.xml,def
+OpenGag.label,open gag,label,HediffDef/HediffDef.xml,def
+OpenGag.labelNoun,an open gag,labelNoun,HediffDef/HediffDef.xml,def
+OpenGag.description,An open gag that only allows its wearer to mutter incomprehensibly.,description,HediffDef/HediffDef.xml,def
+Legbinder.label,legbinder,label,HediffDef/HediffDef.xml,def
+Legbinder.labelNoun,a legbinder,labelNoun,HediffDef/HediffDef.xml,def
+Legbinder.description,An legbinder. A restraint device that binds the legs restricting movement.,description,HediffDef/HediffDef.xml,def
+RJW_Blindfold.label,blindfold,label,HediffDef/HediffDef.xml,def
+RJW_Blindfold.labelNoun,a blindfold,labelNoun,HediffDef/HediffDef.xml,def
+RJW_Blindfold.description,A blindfold. A restraint device that blocks the wearer's vision.,description,HediffDef/HediffDef.xml,def
+Plugged.label,Plugged,label,HediffDef/HediffDef.xml,def
+Plugged.description,Plugged.,description,HediffDef/HediffDef.xml,def
+Plugged.stages.0.label,loosely,label,HediffDef/HediffDef.xml,def
+Plugged.stages.1.label,comfortable,label,HediffDef/HediffDef.xml,def
+Plugged.stages.2.label,tightly,label,HediffDef/HediffDef.xml,def
+Plugged.stages.3.label,very tight,label,HediffDef/HediffDef.xml,def
+Plugged.stages.4.label,cracking tight,label,HediffDef/HediffDef.xml,def
+UseFM.reportString,using fuck machine,reportString,JobDef/JobDef.xml,def
+ForceOffArmbinder.label,force off armbinder,label,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffArmbinder.description,Forcibly removes an armbinder without the key at the cost of significant damage to the wearer.,description,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffArmbinder.jobString,Forcibly removing armbinder.,jobString,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffGagBall.label,force off gag,label,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffGagBall.description,Forcibly removes a gag without the key at the cost of significant damage to the wearer.,description,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffGagBall.jobString,Forcibly removing gag.,jobString,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffGagRing.label,force off gag,label,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffGagRing.description,Forcibly removes a gag without the key at the cost of significant damage to the wearer.,description,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffGagRing.jobString,Forcibly removing gag.,jobString,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffChastityBelt.label,force off chastity belt,label,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffChastityBelt.description,Forcibly removes a chastity belt without the key at the cost of significant damage to the wearer.,description,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffChastityBelt.jobString,Forcibly removing chastity belt.,jobString,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffChastityBeltOpen.label,force off chastity belt,label,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffChastityBeltOpen.description,Forcibly removes a chastity belt without the key at the cost of significant damage to the wearer.,description,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffChastityBeltOpen.jobString,Forcibly removing chastity belt.,jobString,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffChastityCage.label,force off chastity belt,label,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffChastityCage.description,Forcibly removes a chastity cage without the key at the cost of significant damage to the wearer.,description,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffChastityCage.jobString,Forcibly removing chastity cage.,jobString,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffLegbinder.label,force off legbinder,label,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffLegbinder.description,Forcibly removes a legbinder without the key at the cost of significant damage to the wearer.,description,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffLegbinder.jobString,Forcibly removing legbinder.,jobString,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffBlindfold.label,force off blindfold,label,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffBlindfold.description,Forcibly removes a blindfold without the key at the cost of significant damage to the wearer.,description,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+ForceOffBlindfold.jobString,Forcibly removing blindfold.,jobString,rjw.force_off_gear_def/rjw.force_off_gear_def.xml,def
+MakeArmbinder.label,make armbinder,label,RecipeDef/RecipeDef.xml,def
+MakeArmbinder.description,Make an armbinder.,description,RecipeDef/RecipeDef.xml,def
+MakeArmbinder.jobString,Making armbinder.,jobString,RecipeDef/RecipeDef.xml,def
+MakeGagBall.label,make ball gag,label,RecipeDef/RecipeDef.xml,def
+MakeGagBall.description,"Make a gag with a ball, prevents talking.",description,RecipeDef/RecipeDef.xml,def
+MakeGagBall.jobString,Making gag.,jobString,RecipeDef/RecipeDef.xml,def
+MakeGagRing.label,make ring gag,label,RecipeDef/RecipeDef.xml,def
+MakeGagRing.description,"Make a gag with a ring, prevents talking.",description,RecipeDef/RecipeDef.xml,def
+MakeGagRing.jobString,Making gag.,jobString,RecipeDef/RecipeDef.xml,def
+MakeChastityBelt.label,make chastity belt,label,RecipeDef/RecipeDef.xml,def
+MakeChastityBelt.description,"Make a chastity belt, prevents access to genitals and anus.",description,RecipeDef/RecipeDef.xml,def
+MakeChastityBelt.jobString,Making chastity belt.,jobString,RecipeDef/RecipeDef.xml,def
+MakeChastityBeltO.label,make chastity belt(open),label,RecipeDef/RecipeDef.xml,def
+MakeChastityBeltO.description,"Make a chastity belt, prevents access to genitals, have a hole for anal sex.",description,RecipeDef/RecipeDef.xml,def
+MakeChastityBeltO.jobString,Making chastity belt.,jobString,RecipeDef/RecipeDef.xml,def
+MakeChastityCage.label,make chastity cage,label,RecipeDef/RecipeDef.xml,def
+MakeChastityCage.description,"Make a chastity cage, prevents erection.",description,RecipeDef/RecipeDef.xml,def
+MakeChastityCage.jobString,Making chastity cage.,jobString,RecipeDef/RecipeDef.xml,def
+MakeLegbinder.label,make legbinder,label,RecipeDef/RecipeDef.xml,def
+MakeLegbinder.description,Make a legbinder.,description,RecipeDef/RecipeDef.xml,def
+MakeLegbinder.jobString,Making legbinder.,jobString,RecipeDef/RecipeDef.xml,def
+MakeBlindfold.label,make blindfold,label,RecipeDef/RecipeDef.xml,def
+MakeBlindfold.description,Make a blindfold.,description,RecipeDef/RecipeDef.xml,def
+MakeBlindfold.jobString,Making blindfold.,jobString,RecipeDef/RecipeDef.xml,def
+TimePluggedAnal.label,wearing anal plug,label,RecordDef/RecordDef.xml,def
+TimePluggedAnal.description,Total time wearing plug in butthole.,description,RecordDef/RecordDef.xml,def
+TimeOnFuckMachine.label,time on fuck machine,label,RecordDef/RecordDef.xml,def
+TimeOnFuckMachine.description,Total time spent using fuck machine (or bound to it).,description,RecordDef/RecordDef.xml,def
+Armbound.stages.0.label,Armbound,label,ThoughtDef/ThoughtDef.xml,def
+Armbound.stages.0.description,"I can't move my arms, I'm at the mercy of my master.",description,ThoughtDef/ThoughtDef.xml,def
+MasochistArmbound.stages.0.label,Armbound,label,ThoughtDef/ThoughtDef.xml,def
+MasochistArmbound.stages.0.description,"I can't move my arms, I am at my Master's mercy! This is so hot.",description,ThoughtDef/ThoughtDef.xml,def
+ChastityBelt.stages.0.label,Chastity Belt,label,ThoughtDef/ThoughtDef.xml,def
+ChastityBelt.stages.0.description,"I have no control of my sexual autonomy, this so frustrating and humiliating!",description,ThoughtDef/ThoughtDef.xml,def
+MasochistChastityBelt.stages.0.label,Chastity Belt,label,ThoughtDef/ThoughtDef.xml,def
+MasochistChastityBelt.stages.0.description,"Master has control of my privates, this denial is so hot!",description,ThoughtDef/ThoughtDef.xml,def
+NymphomaniacChastityBelt.stages.0.label,Chastity Belt,label,ThoughtDef/ThoughtDef.xml,def
+NymphomaniacChastityBelt.stages.0.description,"Master has control of my privates, I'm so horny I can barely function!",description,ThoughtDef/ThoughtDef.xml,def
+Legbound.stages.0.label,Leg Bound,label,ThoughtDef/ThoughtDef.xml,def
+Legbound.stages.0.description,"I can barely walk! This is so uncomfortable, and I cant escape my master when he demands my body.",description,ThoughtDef/ThoughtDef.xml,def
+LegboundMasochist.stages.0.label,Leg Bound,label,ThoughtDef/ThoughtDef.xml,def
+LegboundMasochist.stages.0.description,I can barely walk! I'm at the mercy of my master or anyone that happens to walk by. This is so hot.,description,ThoughtDef/ThoughtDef.xml,def
+OpenGag.stages.0.label,Open Gag,label,ThoughtDef/ThoughtDef.xml,def
+OpenGag.stages.0.description,"I can't close my mouth or talk! The master can force any object into my mouth, and I can't even say anything!",description,ThoughtDef/ThoughtDef.xml,def
+OpengagMasochist.stages.0.label,Open Gag,label,ThoughtDef/ThoughtDef.xml,def
+OpengagMasochist.stages.0.description,"Anyone can stuff anything into my mouth, and theres nothing i can do bout it! This is so hot.",description,ThoughtDef/ThoughtDef.xml,def
+Blindfold.stages.0.label,Blindfold,label,ThoughtDef/ThoughtDef.xml,def
+Blindfold.stages.0.description,I can't see anything! I feel so helpless and vulnerable.,description,ThoughtDef/ThoughtDef.xml,def
+BlindfoldMasochist.stages.0.label,Blindfold,label,ThoughtDef/ThoughtDef.xml,def
+BlindfoldMasochist.stages.0.description,I can't see anything! I feel so exposed and vulnerable... and horny...,description,ThoughtDef/ThoughtDef.xml,def
+PrisonerChains.stages.0.label,Bound in Chains,label,ThoughtDef/ThoughtDef.xml,def
+PrisonerChains.stages.0.description,"I've been bound in chains, and am at the mercy of my masters.",description,ThoughtDef/ThoughtDef.xml,def
+PrisonerChainsMasochist.stages.0.label,Bound in Chains,label,ThoughtDef/ThoughtDef.xml,def
+PrisonerChainsMasochist.stages.0.description,"I've been bound in chains, and am at the mercy of my masters, which is so hot.",description,ThoughtDef/ThoughtDef.xml,def
+Pluged.stages.0.label,Plugged loosely,label,ThoughtDef/ThoughtDef.xml,def
+Pluged.stages.0.description,Sometimes I just forget about this thing in my butt.,description,ThoughtDef/ThoughtDef.xml,def
+Pluged.stages.1.label,Plugged,label,ThoughtDef/ThoughtDef.xml,def
+Pluged.stages.1.description,"This plug fits so well, I can wear it all day long.",description,ThoughtDef/ThoughtDef.xml,def
+Pluged.stages.2.label,Plugged tightly,label,ThoughtDef/ThoughtDef.xml,def
+Pluged.stages.2.description,"This plug keeps my butthole in constant tension. Exciting, but rather uncomfortable.",description,ThoughtDef/ThoughtDef.xml,def
+Pluged.stages.3.label,Plugged very tight,label,ThoughtDef/ThoughtDef.xml,def
+Pluged.stages.3.description,"This thing is very disturbing, I want to take it out.",description,ThoughtDef/ThoughtDef.xml,def
+Pluged.stages.4.label,Plugged cracking tight,label,ThoughtDef/ThoughtDef.xml,def
+Pluged.stages.4.description,"My butt is at the limit, I barely can walk.",description,ThoughtDef/ThoughtDef.xml,def
+MasochistPluged.stages.0.label,Plugged loosely,label,ThoughtDef/ThoughtDef.xml,def
+MasochistPluged.stages.0.description,Sometimes I just forget about this thing in my butt.,description,ThoughtDef/ThoughtDef.xml,def
+MasochistPluged.stages.1.label,Plugged,label,ThoughtDef/ThoughtDef.xml,def
+MasochistPluged.stages.1.description,"This plug fits so well, I can wear it all day long.",description,ThoughtDef/ThoughtDef.xml,def
+MasochistPluged.stages.2.label,Plugged tightly,label,ThoughtDef/ThoughtDef.xml,def
+MasochistPluged.stages.2.description,This plug keeps my butthole in constant tension. It's so exciting.,description,ThoughtDef/ThoughtDef.xml,def
+MasochistPluged.stages.3.label,Plugged very tight,label,ThoughtDef/ThoughtDef.xml,def
+MasochistPluged.stages.3.description,This plug in my butt constantly reminds of itself. Trying to sit with it is so arousing.,description,ThoughtDef/ThoughtDef.xml,def
+MasochistPluged.stages.4.label,Plugged cracking tight,label,ThoughtDef/ThoughtDef.xml,def
+MasochistPluged.stages.4.description,"My butt is stretched to the limit, and I can't think of anything else.",description,ThoughtDef/ThoughtDef.xml,def
+WG_UseFM.label,Riding' fuck machine,label,WorkGiverDef/WorkGiverDef.xml,def
+WG_UseFM.verb,use,verb,WorkGiverDef/WorkGiverDef.xml,def
+WG_UseFM.gerund,using,gerund,WorkGiverDef/WorkGiverDef.xml,def
+BuildingsFuckMachines.label,fuck machines,label,ThingCategoryDef/ThingCategoryDef.xml,def
+Blindfold.label,blindfold,label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+Blindfold.description,An unlocked blindfold which blocks the wearer's vision.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+ChastityBeltO.label,chastity belt(Open),label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+ChastityBeltO.description,A chastity belt which allows anal sex.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+ChastityCageSmall.label,chastity cage (small),label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+ChastityCageSmall.description,A small chastity cage for penises that prevents erections. Prolonged use may cause a reduction of penile muscle size.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+ChastityCageMicro.label,chastity cage (micro),label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+ChastityCageMicro.description,A micro chastity cage for penises that prevents erections. Prolonged use may cause a reduction of penile muscle size.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+GagBall.label,ball gag,label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+GagBall.description,An ball gag that prevents talking and other oral interactions.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+GagRing.label,ring gag,label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+GagRing.description,A ring gag that prevents talking and allows oral interaction.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+FuckMachineAutoChair.label,autochair fuck machine,label,ThingDef/ThingDef.xml,def
+FuckMachineAutoChair.description,A model popular on glitterworlds. The variable shape fits any user and a wide range of instruments provides unique sensations. This chair is equipped with platesteel restraints. The chair doesn't have any external controls and is instead guided by a wireless neurointerface and decides by itself what feelings user will experience.,description,ThingDef/ThingDef.xml,def
+FuckMachineSaddle.label,saddle fuck machine,label,ThingDef/ThingDef.xml,def
+FuckMachineSaddle.description,A simple model that will provide many fascinating rides.,description,ThingDef/ThingDef.xml,def
+FuckMachineWooden.label,fuck machine,label,ThingDef/ThingDef.xml,def
+FuckMachineWooden.description,"Though not quite a ""machine"", it definitely has some ""fuck"" with the right attitude. Provides some entertainment when there is no electricity, but the hip work can be tiring. Remember to polish the dildo before using, unless you want a torture device.",description,ThingDef/ThingDef.xml,def
+AnalPlugExpandable.label,(lockable)expandable anal plug,label,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+AnalPlugExpandable.description,An Expandable anal plug equipped with a hololock.,description,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+AnalPlugExpandableUL.label,expandable anal plug,label,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+AnalPlugExpandableUL.description,An expandable anal plug.,description,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+MAnalPlugSmall.label,small anal plug,label,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+MAnalPlugSmall.description,A simple polished shiny anal plug. S-size,description,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+MAnalPlugMedium.label,medium anal plug,label,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+MAnalPlugMedium.description,A simple polished shiny anal plug. M-size,description,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+MAnalPlugLarge.label,large anal plug,label,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+MAnalPlugLarge.description,A simple polished shiny anal plug. L-size,description,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+SAnalPlugSmall.label,small anal plug,label,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+SAnalPlugSmall.description,A heavy polished anal plug. S-size,description,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+SAnalPlugMedium.label,medium anal plug,label,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+SAnalPlugMedium.description,A heavy polished anal plug. M-size,description,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+SAnalPlugLarge.label,large anal plug,label,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+SAnalPlugLarge.description,A heavy polished anal plug. L-size,description,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+WAnalPlugSmall.label,small anal plug,label,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+WAnalPlugSmall.description,"A primitive polished anal plug, probably not very healthy for a long term use. S-size",description,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+WAnalPlugMedium.label,medium anal plug,label,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+WAnalPlugMedium.description,"A primitive polished anal plug, probably not very healthy for a long term use. M-size",description,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+WAnalPlugLarge.label,large anal plug,label,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+WAnalPlugLarge.description,"A primitive polished anal plug, probably not very healthy for a long term use. L-size",description,rjwex.anal_plug_def/rjwex.anal_plug_def.xml,def
+UnlockedArmbinder.label,unlocked armbinder,label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedArmbinder.description,An unlocked armbinder that prevents any pawn it's attached to from using their arms.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedBlindfold.label,unlocked blindfold,label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedBlindfold.description,An unlocked blindfold which blocks the wearer's vision.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedChastityBelt.label,unlocked chastity belt,label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedChastityBelt.description,An unlocked chastity belt that prevents sex and masturbation.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedChastityBeltO.label,unlocked chastity belt(Open),label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedChastityBeltO.description,An unlocked chastity belt which allows anal sex.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedChastityCage.label,unlocked chastity cage,label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedChastityCage.description,An unlocked chastity cage for penises that prevents erections.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedGagBall.label,unlocked ball gag,label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedGagBall.description,An unlocked ball gag that prevents talking and other oral interactions.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedGagRing.label,unlocked ring gag,label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedGagRing.description,An unlocked ring gag that prevents talking and allows oral interaction.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedLegbinder.label,unlocked legbinder,label,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+UnlockedLegbinder.description,An unlocked legbinder that prevents any pawn it's attached to from using their legs.,description,rjw.bondage_gear_def/rjw.bondage_gear_def.xml,def
+ChastityBelt_Hediff.label,chastity belt,label,HediffDef/HediffDef.xml,def
+ChastityBelt_Hediff.labelNoun,a chastity belt,labelNoun,HediffDef/HediffDef.xml,def
+ChastityBelt_Hediff.description,A chastity belt. Restricts access to the vagina and anus for both partners and the wearer.,description,HediffDef/HediffDef.xml,def
+ChastityBeltOpen_Hediff.label,open chastity belt,label,HediffDef/HediffDef.xml,def
+ChastityBeltOpen_Hediff.labelNoun,an open chastity belt,labelNoun,HediffDef/HediffDef.xml,def
+ChastityBeltOpen_Hediff.description,An open chastity belt. Restricts access to the vagina for both partners and the wearer.,description,HediffDef/HediffDef.xml,def
+MakeUnlockedArmbinder.label,make unlocked armbinder,label,RecipeDef/RecipeDef.xml,def
+MakeUnlockedArmbinder.description,Make an unlocked armbinder.,description,RecipeDef/RecipeDef.xml,def
+MakeUnlockedArmbinder.jobString,Making armbinder.,jobString,RecipeDef/RecipeDef.xml,def
+MakeUnlockedGagBall.label,make unlocked ball gag,label,RecipeDef/RecipeDef.xml,def
+MakeUnlockedGagBall.description,"Make a gag with a ball, that prevents talking and isn't locked.",description,RecipeDef/RecipeDef.xml,def
+MakeUnlockedGagBall.jobString,Making gag.,jobString,RecipeDef/RecipeDef.xml,def
+MakeUnlockedGagRing.label,make unlocked ring gag,label,RecipeDef/RecipeDef.xml,def
+MakeUnlockedGagRing.description,"Make a gag with a ring, prevents talking and isn't locked.",description,RecipeDef/RecipeDef.xml,def
+MakeUnlockedGagRing.jobString,Making gag.,jobString,RecipeDef/RecipeDef.xml,def
+MakeUnlockedChastityBelt.label,make unlocked chastity belt,label,RecipeDef/RecipeDef.xml,def
+MakeUnlockedChastityBelt.description,"Make a chastity belt, prevents access to genitals and anus, that isn't locked.",description,RecipeDef/RecipeDef.xml,def
+MakeUnlockedChastityBelt.jobString,Making chastity belt.,jobString,RecipeDef/RecipeDef.xml,def
+MakeUnlockedChastityBeltO.label,make unlocked chastity belt(open),label,RecipeDef/RecipeDef.xml,def
+MakeUnlockedChastityBeltO.description,"Make a chastity belt, prevents access to genitals, has a hole for anal sex and isn't locked.",description,RecipeDef/RecipeDef.xml,def
+MakeUnlockedChastityBeltO.jobString,Making chastity belt.,jobString,RecipeDef/RecipeDef.xml,def
+MakeUnlockedChastityCage.label,make unlocked chastity cage,label,RecipeDef/RecipeDef.xml,def
+MakeUnlockedChastityCage.description,"Make a chastity cage, prevents erection, and isnt locked.",description,RecipeDef/RecipeDef.xml,def
+MakeUnlockedChastityCage.jobString,Making chastity belt.,jobString,RecipeDef/RecipeDef.xml,def
+MakeChastityCageSmall.label,make small chastity cage,label,RecipeDef/RecipeDef.xml,def
+MakeChastityCageSmall.description,"Make a chastity cage, prevents erection.",description,RecipeDef/RecipeDef.xml,def
+MakeChastityCageSmall.jobString,Making chastity cage.,jobString,RecipeDef/RecipeDef.xml,def
+MakeChastityCageMicro.label,make micro chastity cage,label,RecipeDef/RecipeDef.xml,def
+MakeChastityCageMicro.description,"Make a chastity cage, prevents erection.",description,RecipeDef/RecipeDef.xml,def
+MakeChastityCageMicro.jobString,Making chastity cage.,jobString,RecipeDef/RecipeDef.xml,def
+MakeUnlockedLegbinder.label,make unlocked legbinder,label,RecipeDef/RecipeDef.xml,def
+MakeUnlockedLegbinder.description,Make an unlocked legbinder.,description,RecipeDef/RecipeDef.xml,def
+MakeUnlockedLegbinder.jobString,Making legbinder.,jobString,RecipeDef/RecipeDef.xml,def
+UnlockedMakeBlindfold.label,make unlocked blindfold,label,RecipeDef/RecipeDef.xml,def
+UnlockedMakeBlindfold.description,Make an unlocked blindfold.,description,RecipeDef/RecipeDef.xml,def
+UnlockedMakeBlindfold.jobString,Making blindfold.,jobString,RecipeDef/RecipeDef.xml,def
+ChastityBeltOpen.stages.0.label,Open Chastity Belt,label,ThoughtDef/ThoughtDef.xml,def
+ChastityBeltOpen.stages.0.description,I have no control over my pussy and my ass is still exposed! This so frustrating and humiliating!,description,ThoughtDef/ThoughtDef.xml,def
+MasochistChastityBeltOpen.stages.0.label,Open Chastity Belt,label,ThoughtDef/ThoughtDef.xml,def
+MasochistChastityBeltOpen.stages.0.description,Master has control of my pussy! This denial is so hot!,description,ThoughtDef/ThoughtDef.xml,def
+NymphomaniacChastityBeltOpen.stages.0.label,Open Chastity Belt,label,ThoughtDef/ThoughtDef.xml,def
+NymphomaniacChastityBeltOpen.stages.0.description,Master has control of my pussy! I hope they take advantage of my vulnerable ass!,description,ThoughtDef/ThoughtDef.xml,def
+ChastityCage.stages.0.label,Chastity Cage,label,ThoughtDef/ThoughtDef.xml,def
+ChastityCage.stages.0.description,"I have no control of my sexual autonomy, this so frustrating and humiliating!",description,ThoughtDef/ThoughtDef.xml,def
+MasochistChastityCage.stages.0.label,Chastity Cage,label,ThoughtDef/ThoughtDef.xml,def
+MasochistChastityCage.stages.0.description,"Master has control of my privates, this denial is so hot!",description,ThoughtDef/ThoughtDef.xml,def
+NymphomaniacChastityCage.stages.0.label,Chastity Cage,label,ThoughtDef/ThoughtDef.xml,def
+NymphomaniacChastityCage.stages.0.description,"Master has control of my privates, I'm so horny I can barely function!",description,ThoughtDef/ThoughtDef.xml,def

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: The total body size that this pawn can vore-->
+  <RV2_Capacity.description>这个人的总体体型pawn罐吃人</RV2_Capacity.description>
+  <!--EN: Vore capacity-->
+  <RV2_Capacity.label>吃人容量</RV2_Capacity.label>
+  <!--EN: The speed at which other pawns can digest this pawn-->
+  <RV2_DigestionResistance.description>消化此生物的速度。pawn</RV2_DigestionResistance.description>
+  <!--EN: Digestion Weakness-->
+  <RV2_DigestionResistance.label>消化能力弱</RV2_DigestionResistance.label>
+  <!--EN: The speed at which a pawn is capable of digesting their prey-->
+  <RV2_DigestionStrength.description>速度pawn能够消化猎物</RV2_DigestionStrength.description>
+  <!--EN: Digestion Strength-->
+  <RV2_DigestionStrength.label>消化能力</RV2_DigestionStrength.label>
+  <!--EN: The likelihood of the pawn initiating a vore grapple in melee combat.-->
+  <RV2_GrappleChance.description>可能性pawn初始化一个吃人近战格斗。</RV2_GrappleChance.description>
+  <!--EN: Grapple Chance-->
+  <RV2_GrappleChance.label>格斗几率</RV2_GrappleChance.label>
+  <!--EN: The pawns capability to overpower their opponent in a vore grapple-->
+  <RV2_GrappleStrength_Attacker.description>Pawns 能够在一个吃人格斗</RV2_GrappleStrength_Attacker.description>
+  <!--EN: Grapple Attack-->
+  <RV2_GrappleStrength_Attacker.label>格斗攻击</RV2_GrappleStrength_Attacker.label>
+  <!--EN: The pawns capability to withstand their opponent in a vore grapple-->
+  <RV2_GrappleStrength_Defender.description>Pawns 承受对手攻击的能力吃人格斗</RV2_GrappleStrength_Defender.description>
+  <!--EN: Grapple Defense-->
+  <RV2_GrappleStrength_Defender.label>格斗防御</RV2_GrappleStrength_Defender.label>
+  <!--EN: The pawns ability to handle themself in a vore grapple-->
+  <RV2_GrappleStrength_General.description>Pawns 在一个吃人格斗</RV2_GrappleStrength_General.description>
+  <!--EN: Grapple Ability-->
+  <RV2_GrappleStrength_General.label>格斗能力</RV2_GrappleStrength_General.label>
+  <!--EN: The acceptance modifier for Proposals made by this pawn-->
+  <RV2_Persuasiveness.description>对此提议的接受修改器pawn</RV2_Persuasiveness.description>
+  <!--EN: Proposal persuasiveness-->
+  <RV2_Persuasiveness.label>提案说服力</RV2_Persuasiveness.label>
+  <!--EN: The speed at which this pawn can swallow or eject their prey-->
+  <RV2_SwallowSpeed.description>该物体的速度pawn可以吞下或弹出猎物</RV2_SwallowSpeed.description>
+  <!--EN: Swallowing/Ejection speed-->
+  <RV2_SwallowSpeed.label>吞咽/弹出速度</RV2_SwallowSpeed.label>
+</LanguageData>

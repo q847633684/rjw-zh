@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Anal-->
+  <Anal>肛交</Anal>
+  <!--EN: Asexual-->
+  <Asexual>无性恋</Asexual>
+  <!--EN: Bisexual-->
+  <Bisexual>双性恋</Bisexual>
+  <!--EN: Boobjob-->
+  <Boobjob>乳交</Boobjob>
+  <!--EN: Reset to default-->
+  <Button_ResetToDefault>重置为默认</Button_ResetToDefault>
+  <!--EN: Cunnilingus-->
+  <Cunnilingus>舔阴</Cunnilingus>
+  <!--EN: Double penetration-->
+  <DoublePenetration>双重插入</DoublePenetration>
+  <!--EN: Fellatio-->
+  <Fellatio>口交</Fellatio>
+  <!--EN: Fingering-->
+  <Fingering>指交</Fingering>
+  <!--EN: Fisting-->
+  <Fisting>拳交</Fisting>
+  <!--EN: Footjob-->
+  <Footjob>足交</Footjob>
+  <!--EN: Handjob-->
+  <Handjob>手交</Handjob>
+  <!--EN: Hetero-->
+  <Heterosexual>异性恋</Heterosexual>
+  <!--EN: Gay-->
+  <Homosexual>同性恋</Homosexual>
+  <!--EN: incest-->
+  <Incest>乱伦</Incest>
+  <!--EN: Bisexual, leaning hetero-->
+  <LeaningHeterosexual>双性恋，倾向异性恋</LeaningHeterosexual>
+  <!--EN: Bisexual, leaning gay-->
+  <LeaningHomosexual>双性恋，倾向同性恋</LeaningHomosexual>
+  <!--EN: lust-->
+  <Lust>性欲</Lust>
+  <!--EN: Masturbation-->
+  <Masturbation>自慰</Masturbation>
+  <!--EN: Mech implant-->
+  <MechImplant>机械</MechImplant>
+  <!--EN: Mostly hetero-->
+  <MostlyHeterosexual>主要是异性恋</MostlyHeterosexual>
+  <!--EN: Mostly gay-->
+  <MostlyHomosexual>主要是同性恋</MostlyHomosexual>
+  <!--EN: Mutual masturbation-->
+  <MutualMasturbation>相互自慰</MutualMasturbation>
+  <!--EN: None-->
+  <None>无</None>
+  <!--EN: Oral-->
+  <Oral>吞精</Oral>
+  <!--EN: Pansexual-->
+  <Pansexual>泛性恋</Pansexual>
+  <!--EN: Set probability of virgin regardless of age.-->
+  <RSOption_10_Desc>不分年龄设置处女概率。</RSOption_10_Desc>
+  <!--EN: Virgin ratio-->
+  <RSOption_10_Label>童贞比例</RSOption_10_Label>
+  <!--EN: Randomize pawn's sex records.-->
+  <RSOption_1_Desc>随机化小人的性记录。</RSOption_1_Desc>
+  <!--EN: Enable record randomizer-->
+  <RSOption_1_Label>开启随机性记录</RSOption_1_Label>
+  <!--EN: Set how much lust affect to sex drive.-->
+  <RSOption_2_Desc>设置色欲值对性冲动的影响。</RSOption_2_Desc>
+  <!--EN: Lust effect power-->
+  <RSOption_2_Label>色欲值的影响</RSOption_2_Label>
+  <!--EN: Set maximum deviation of lust.
+The lust value can be negative depending on its average.-->
+  <RSOption_3_Desc>设置色欲的最大偏差。
+根据平均值的不同，色欲值可能为负。</RSOption_3_Desc>
+  <!--EN: Maximum lust deviation-->
+  <RSOption_3_Label>最大色欲值偏差</RSOption_3_Label>
+  <!--EN: Set average of lust.-->
+  <RSOption_4_Desc>设置色欲值的均值。</RSOption_4_Desc>
+  <!--EN: Average Lust-->
+  <RSOption_4_Label>平均色欲值</RSOption_4_Label>
+  <!--EN: Set maximum deviation of sex count.-->
+  <RSOption_5_Desc>设置性交次数的最大偏差。</RSOption_5_Desc>
+  <!--EN: Maximum sex count deviation-->
+  <RSOption_5_Label>最大性交次数偏差</RSOption_5_Label>
+  <!--EN: Set average sex count.-->
+  <RSOption_6_Desc>设置平均每年的性交次数</RSOption_6_Desc>
+  <!--EN: Average sex count per year-->
+  <RSOption_6_Label>平均每年性交次数</RSOption_6_Label>
+  <!--EN: Slaves will have experience of being raped-->
+  <RSOption_7_Desc>奴隶被强奸获得性经验</RSOption_7_Desc>
+  <!--EN: Enable slaves get raped experience-->
+  <RSOption_7_Label>允许奴隶被强奸获得性经验</RSOption_7_Label>
+  <!--EN: Set limitation of lust.\nIf absolute value of lust close to or larger than this value, lust will be less likely to change.-->
+  <RSOption_8_Desc>设置欲望的限制。\n如果欲望的绝对值接近或大于这个值，欲望将不太可能改变。</RSOption_8_Desc>
+  <!--EN: Lust Limit-->
+  <RSOption_8_Label>限制欲望</RSOption_8_Label>
+  <!--EN: Set minimum sexable age.
+This value is not related to RJW's minimum sex age. Only used for generating records.-->
+  <RSOption_9_Desc>设置最小的可以做爱的年龄。
+此值与RJW的最低性年龄无关。仅用于生成记录。</RSOption_9_Desc>
+  <!--EN: Minimum age can have sex-->
+  <RSOption_9_Label>最小可做爱年龄</RSOption_9_Label>
+  <!--EN: Enable debug logs that do not have their own option-->
+  <RSOption_Debug_Desc>启用调试日志</RSOption_Debug_Desc>
+  <!--EN: Other debug logs-->
+  <RSOption_Debug_Label>调试</RSOption_Debug_Label>
+  <!--EN: Child is marked as a bastard if they have only one parent or their parents are not (or was not) married-->
+  <RSOption_EnableBastardRelation_Desc>单亲或亲生父母非婚姻关系（或还未结婚）的小孩将被视作野种</RSOption_EnableBastardRelation_Desc>
+  <!--EN: Enable Bastard relation-->
+  <RSOption_EnableBastardRelation_Label>启用野种</RSOption_EnableBastardRelation_Label>
+  <!--EN: * Needs a game restart\n\nEnables Sex History window, information collection for the said window and save/load of this information. Also enables sex partners count in the pawn's records.\n\n[Caution] Disabling this mid save will result in the loss of previously collected histories.-->
+  <RSOption_EnableSexHistory_Desc>*重启游戏生效\n\n启用性爱历史窗口, 收集性爱信息，并保存/加载这些信息。还可在性爱历史中计算性伴侣人数。\n\n[警告]禁用此项将导致之前已保存的记录也会丢失。</RSOption_EnableSexHistory_Desc>
+  <!--EN: [Caution] Enable Sex History*-->
+  <RSOption_EnableSexHistory_Label>[警告]启用做爱历史*</RSOption_EnableSexHistory_Label>
+  <!--EN: Hides Sex History Gizmo for currently drafted pawns-->
+  <RSOption_HideGizmoWhenDrafted_Desc>隐藏当前所选的小人的性历史功能</RSOption_HideGizmoWhenDrafted_Desc>
+  <!--EN: Hide Sex History button when drafted-->
+  <RSOption_HideGizmoWhenDrafted_Label>征召时隐藏性历史菜单</RSOption_HideGizmoWhenDrafted_Label>
+  <!--EN: On game startup, dump all defs that were injected with a SexHistoryComp-->
+  <RSOption_LogInjection_Desc>游戏启动时，转储所有注入 SexHistoryComp 的 def</RSOption_LogInjection_Desc>
+  <!--EN: Log sex history comp injection-->
+  <RSOption_LogInjection_Label>记录性爱历史复合注射</RSOption_LogInjection_Label>
+  <!--EN: Set how much lust can change from a single sex act-->
+  <RSOption_MaxSingleLustChange_Desc>设置一次性行为可以改变多少性欲</RSOption_MaxSingleLustChange_Desc>
+  <!--EN: Maximum lust change per sex-->
+  <RSOption_MaxSingleLustChange_Label>每种做爱的最大性欲变化值</RSOption_MaxSingleLustChange_Label>
+  <!--EN: Only used for generating records. Get minimum sexable age from the first reproductive life stage. Works better for the races with a long lifespan-->
+  <RSOption_MinSexableFromLifestage_Desc>仅用于生成记录. 在生命第一阶段即可生成做爱记录. 更适合长寿种族</RSOption_MinSexableFromLifestage_Desc>
+  <!--EN: Minimum sexable age from life stages-->
+  <RSOption_MinSexableFromLifestage_Label>最小可做爱年龄阶段</RSOption_MinSexableFromLifestage_Label>
+  <!--EN: If enabled boobjobs, footjobs and handjobs that happens near cum bucket will fill it-->
+  <RSOption_SexCanFillBuckets_Desc>如果在精液桶附近进行了乳交、足交、打手枪将填满它</RSOption_SexCanFillBuckets_Desc>
+  <!--EN: Sex can fill buckets-->
+  <RSOption_SexCanFillBuckets_Label>精液能装桶</RSOption_SexCanFillBuckets_Label>
+  <!--EN: Remove virginity with scissoring sex (for female/female sex)-->
+  <RSOption_VirginityCheck_F2F_Desc>通过磨豆腐失去处女（适用于女性/女性性行为）</RSOption_VirginityCheck_F2F_Desc>
+  <!--EN: Remove virginity with scissoring sex (for female/female sex)-->
+  <RSOption_VirginityCheck_F2F_Label>通过磨豆腐失去处女（适用于女性/女性性行为）</RSOption_VirginityCheck_F2F_Label>
+  <!--EN: Remove virginity with anal sex (for male/male sex)-->
+  <RSOption_VirginityCheck_M2M_Desc>通过肛交失去处男（适用于男性/男性性行为）</RSOption_VirginityCheck_M2M_Desc>
+  <!--EN: Remove virginity with anal sex (for male/male sex)-->
+  <RSOption_VirginityCheck_M2M_Label>通过肛交失去处男（适用于男性/男性性行为）</RSOption_VirginityCheck_M2M_Label>
+  <!--EN: Colors-->
+  <RSTabLabelColors>颜色</RSTabLabelColors>
+  <!--EN: Debug-->
+  <RSTabLabelDebug>调试</RSTabLabelDebug>
+  <!--EN: Sex records-->
+  <RSTabLabelHistory>做爱记录</RSTabLabelHistory>
+  <!--EN: Main-->
+  <RSTabLabelMain>主要</RSTabLabelMain>
+  <!--EN: Total gathered cum:-->
+  <RSTotalGatheredCum>总获得精液量:</RSTotalGatheredCum>
+  <!--EN: ago-->
+  <RS_Ago>以前</RS_Ago>
+  <!--EN: Had been raped-->
+  <RS_BeenRaped>被谁强奸</RS_BeenRaped>
+  <!--EN: Best Sex Partner-->
+  <RS_Best_Sex_Partner>最舒适的做爱对象</RS_Best_Sex_Partner>
+  <!--EN: The partner who had most satisfying sex.-->
+  <RS_Best_Sex_Partner_ToolTip>做爱时最舒服的对象.</RS_Best_Sex_Partner_ToolTip>
+  <!--EN: Best sextype-->
+  <RS_Best_Sextype>最佳做爱姿势</RS_Best_Sextype>
+  <!--EN: Bestiality-->
+  <RS_Bestiality>兽交</RS_Bestiality>
+  <!--EN: Cum swallowed-->
+  <RS_Cum_Swallowed>吞下精液量</RS_Cum_Swallowed>
+  <!--EN: First Sex Partner-->
+  <RS_First_Sex_Partner>第一次做爱对象</RS_First_Sex_Partner>
+  <!--EN: The first sex partner.-->
+  <RS_First_Sex_Partner_ToolTip>第一次做爱的对象.</RS_First_Sex_Partner_ToolTip>
+  <!--EN: Had best sex {0}.-->
+  <RS_HadBestSexDaysAgo>最爱性伴侣 {0}.</RS_HadBestSexDaysAgo>
+  <!--EN: Interspecies-->
+  <RS_Interspecies>异种</RS_Interspecies>
+  <!--EN: last sex-->
+  <RS_LastSex>上次做爱</RS_LastSex>
+  <!--EN: {1} took {0}'s virginity.-->
+  <RS_LostVirgin>{1}夺走了{0}的第一次。</RS_LostVirgin>
+  <!--EN: RJW Sexperience-->
+  <RS_Mod_Title>RJW - 性经验</RS_Mod_Title>
+  <!--EN: Most Sex Partner-->
+  <RS_Most_Sex_Partner>最多次做爱对象</RS_Most_Sex_Partner>
+  <!--EN: The most sex partner.-->
+  <RS_Most_Sex_Partner_ToolTip>做了最多次的对象.</RS_Most_Sex_Partner_ToolTip>
+  <!--EN: Necrophile-->
+  <RS_Necrophile>恋尸癖</RS_Necrophile>
+  <!--EN: Normal-->
+  <RS_Normal>正常</RS_Normal>
+  <!--EN: times-->
+  <RS_NumofTimes>次</RS_NumofTimes>
+  <!--EN: Orgasms:-->
+  <RS_Orgasms>高潮次数:</RS_Orgasms>
+  <!--EN: Unordered-->
+  <RS_PONormal>无序</RS_PONormal>
+  <!--EN: Partner List-->
+  <RS_PartnerList>性伴侣列表</RS_PartnerList>
+  <!--EN: Lock displayed pawn.\n\nWhen unlocked, window will automatically switch to a currently selected pawn.-->
+  <RS_PawnLockDesc>锁定显示的小人。\n\n非锁定状态下,窗口显示内容将会自动切换到选择的小人。</RS_PawnLockDesc>
+  <!--EN: Most-->
+  <RS_PoMost>次数</RS_PoMost>
+  <!--EN: Name-->
+  <RS_PoName>名字</RS_PoName>
+  <!--EN: Recent-->
+  <RS_PoRecent>时间</RS_PoRecent>
+  <!--EN: Prefer Race-->
+  <RS_PreferRace>钟爱种族</RS_PreferRace>
+  <!--EN: Raped:-->
+  <RS_Raped>被强奸:</RS_Raped>
+  <!--EN: Raped me:-->
+  <RS_RapedMe>强奸了我:</RS_RapedMe>
+  <!--EN: Raped someone-->
+  <RS_RapedSomeone>强奸了谁</RS_RapedSomeone>
+  <!--EN: Recent Sex Partner-->
+  <RS_Recent_Sex_Partner>最近做爱对象</RS_Recent_Sex_Partner>
+  <!--EN: A recent sex partner.-->
+  <RS_Recent_Sex_Partner_ToolTip>最近做爱对象.</RS_Recent_Sex_Partner_ToolTip>
+  <!--EN: Recent sextype-->
+  <RS_Recent_Sextype>最近做爱姿势</RS_Recent_Sextype>
+  <!--EN: Avg: {0}-->
+  <RS_SAT_AVG>比率: {0}</RS_SAT_AVG>
+  <!--EN: Selected Partner's Info-->
+  <RS_Selected_Partner>所选性伴侣信息</RS_Selected_Partner>
+  <!--EN: Sex skill-->
+  <RS_SexSkill>性技</RS_SexSkill>
+  <!--EN: Sex count:-->
+  <RS_Sex_Count>做爱次数:</RS_Sex_Count>
+  <!--EN: Sex History-->
+  <RS_Sex_History>性爱历史</RS_Sex_History>
+  <!--EN: {0}: {1} times-->
+  <RS_Sex_Info>{0}: {1} 次</RS_Sex_Info>
+  <!--EN: Sex partners-->
+  <RS_Sex_Partners>性伴侣</RS_Sex_Partners>
+  <!--EN: Sexuality-->
+  <RS_Sexuality>性欲</RS_Sexuality>
+  <!--EN: Sex Statistics-->
+  <RS_Statistics>做爱统计</RS_Statistics>
+  <!--EN: Total sex had-->
+  <RS_TotalSexHad>总做爱次数</RS_TotalSexHad>
+  <!--EN: Total number of sex.-->
+  <RS_TotalSexHad_ToolTip>做爱次数。</RS_TotalSexHad_ToolTip>
+  <!--EN: Taken virgins-->
+  <RS_VirginsTaken>夺走初夜数</RS_VirginsTaken>
+  <!--EN: Rimming-->
+  <Rimming>舔肛</Rimming>
+  <!--EN: Select colour for {0}-->
+  <RsDialog_ChooseColor_Title>选择 {0} 的颜色</RsDialog_ChooseColor_Title>
+  <!--EN: Scissoring-->
+  <Scissoring>磨豆腐</Scissoring>
+  <!--EN: Sixtynine-->
+  <Sixtynine>69式</Sixtynine>
+  <!--EN: unknown-->
+  <Unknown>未知</Unknown>
+  <!--EN: Vaginal-->
+  <Vaginal>阴道性交</Vaginal>
+</LanguageData>

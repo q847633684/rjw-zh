@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: This woman has an bioscaffold mesh within her womb, providing an enriching environment for an unborn baby to grow more quickly.-->
+  <Bioscaffold.description>这是一种单次使用的纳米结构有机网状晶格材料，旨在怀孕前植入女性子宫。它能提供一个肥沃（富集）的环境，让胎儿发育得更加迅速。</Bioscaffold.description>
+  <!--EN: bioscaffold-->
+  <Bioscaffold.label>生物支架</Bioscaffold.label>
+  <!--EN: An installed limbic stimulator.-->
+  <LimbicStimulator.description>一种嵌入大脑奖赏中心深处的永久性缓释化学刺激植入物，会极大地增加其对“爱爱”的需求。据说这种需求会变得如此强烈，以至于会驱使人们强行违背他人意愿发生关系，即使他们平时并不会这样做。事后的清醒会让植入者处于一种极度愉悦的状态，但如果他们违背本性进行了强取豪夺，也可能会感到悔恨——至少在他们习以为常之前是这样。</LimbicStimulator.description>
+  <!--EN: limbic stimulator-->
+  <LimbicStimulator.label>边缘系统刺激器</LimbicStimulator.label>
+  <!--EN: limbic stimulator-->
+  <LimbicStimulator.labelNoun>边缘系统刺激器</LimbicStimulator.labelNoun>
+  <!--EN: An installed ovary agitator.-->
+  <OvaryAgitator.description>一种粗糙的奴隶主植入物，用于增加排卵期释放的卵子数量，从而提高单次怀孕产下多胎的概率。由于大多数文明和统一的世界已经取缔了这种装置，它们的使用很大程度上局限于缺乏克隆设施的边缘世界。\n\n虽然它在初期能提升生育能力，但该植入物会在数年内缓慢耗尽受害者的卵巢功能，直至其不育。受害者的盟友会因此感到愤怒。</OvaryAgitator.description>
+  <!--EN: ovary agitator-->
+  <OvaryAgitator.label>卵巢激扰器</OvaryAgitator.label>
+  <!--EN: An installed scrambler.-->
+  <Scrambler.description>一种类似于精神钉（mindscrew）的奴隶主植入物。它可以通过复杂的纳米电极网络，直接将令人眩晕的心智图像注入大脑视觉皮层。植入扰频器的受害者往往会产生社交退缩，以减少额外的刺激。由于这种混乱状态，他们在生理上也变得温顺，从而容易被他人强加意志。受害者的盟友会因此感到愤怒。</Scrambler.description>
+  <!--EN: scrambler-->
+  <Scrambler.label>扰频器</Scrambler.label>
+  <!--EN: scrambler-->
+  <Scrambler.labelNoun>扰频器</Scrambler.labelNoun>
+  <!--EN: sex drive increasing due to smelling aphrodisiac pheromones.-->
+  <rjw_genes_aphrodisiac_pheromone.description>因闻到催情信息素，性欲增加。</rjw_genes_aphrodisiac_pheromone.description>
+  <!--EN: induced libido-->
+  <rjw_genes_aphrodisiac_pheromone.label>诱导性欲</rjw_genes_aphrodisiac_pheromone.label>
+  <!--EN: wearing off-->
+  <rjw_genes_aphrodisiac_pheromone.stages.0.label>逐渐消退</rjw_genes_aphrodisiac_pheromone.stages.0.label>
+  <!--EN: moderate-->
+  <rjw_genes_aphrodisiac_pheromone.stages.1.label>中等</rjw_genes_aphrodisiac_pheromone.stages.1.label>
+  <!--EN: strong-->
+  <rjw_genes_aphrodisiac_pheromone.stages.2.label>强烈</rjw_genes_aphrodisiac_pheromone.stages.2.label>
+  <!--EN: This pawn is capable of carrying genetic diseases without being infected.-->
+  <rjw_genes_disease_carrier_storage.description>该角色能够携带遗传性病而不被感染。</rjw_genes_disease_carrier_storage.description>
+  <!--EN: stored genetic diseases-->
+  <rjw_genes_disease_carrier_storage.label>储存的遗传性病</rjw_genes_disease_carrier_storage.label>
+  <!--EN: active-->
+  <rjw_genes_disease_carrier_storage.stages.0.label>活跃</rjw_genes_disease_carrier_storage.stages.0.label>
+  <!--EN: science has gone too far - a tool like this needs constant attention.-->
+  <rjw_genes_evergrowth_sideeffect.description>科学走得太远——这样的工具需要持续关注。</rjw_genes_evergrowth_sideeffect.description>
+  <!--EN: genital hybris-->
+  <rjw_genes_evergrowth_sideeffect.label>生殖器膨胀</rjw_genes_evergrowth_sideeffect.label>
+  <!--EN: minor-->
+  <rjw_genes_evergrowth_sideeffect.stages.0.label>轻微</rjw_genes_evergrowth_sideeffect.stages.0.label>
+  <!--EN: moderate-->
+  <rjw_genes_evergrowth_sideeffect.stages.1.label>中等</rjw_genes_evergrowth_sideeffect.stages.1.label>
+  <!--EN: strong-->
+  <rjw_genes_evergrowth_sideeffect.stages.2.label>强烈</rjw_genes_evergrowth_sideeffect.stages.2.label>
+  <!--EN: Something is changing this pawn - there is a chance to develop female features
+            upon sex.-->
+  <rjw_genes_feminization_progress.description>有些东西正在改变这个棋子——有机会发展女性特征
+            关于性。</rjw_genes_feminization_progress.description>
+  <!--EN: feminization-->
+  <rjw_genes_feminization_progress.label>女性化</rjw_genes_feminization_progress.label>
+  <!--EN: neglectable-->
+  <rjw_genes_feminization_progress.stages.0.label>可忽略</rjw_genes_feminization_progress.stages.0.label>
+  <!--EN: minor-->
+  <rjw_genes_feminization_progress.stages.1.label>轻微</rjw_genes_feminization_progress.stages.1.label>
+  <!--EN: severe-->
+  <rjw_genes_feminization_progress.stages.2.label>严重</rjw_genes_feminization_progress.stages.2.label>
+  <!--EN: critical-->
+  <rjw_genes_feminization_progress.stages.3.label>危急</rjw_genes_feminization_progress.stages.3.label>
+  <!--EN: weakened due to running out of fertilin.-->
+  <rjw_genes_fertilin_craving.description>因致育素耗尽而虚弱。</rjw_genes_fertilin_craving.description>
+  <!--EN: fertilin craving-->
+  <rjw_genes_fertilin_craving.label>致育素渴求</rjw_genes_fertilin_craving.label>
+  <!--EN: minor-->
+  <rjw_genes_fertilin_craving.stages.0.label>轻微</rjw_genes_fertilin_craving.stages.0.label>
+  <!--EN: moderate-->
+  <rjw_genes_fertilin_craving.stages.1.label>中等</rjw_genes_fertilin_craving.stages.1.label>
+  <!--EN: major-->
+  <rjw_genes_fertilin_craving.stages.2.label>严重</rjw_genes_fertilin_craving.stages.2.label>
+  <!--EN: Percentage of fertilin lost.-->
+  <rjw_genes_fertilin_lost.description>致育素损失百分比。</rjw_genes_fertilin_lost.description>
+  <!--EN: lost fertilin-->
+  <rjw_genes_fertilin_lost.label>损失的致育素</rjw_genes_fertilin_lost.label>
+  <!--EN: Based on genetics, this pawn is in heat.-->
+  <rjw_genes_genetic_rut.description>基于遗传，此角色处于发情期。</rjw_genes_genetic_rut.description>
+  <!--EN: Rut-->
+  <rjw_genes_genetic_rut.label>发情</rjw_genes_genetic_rut.label>
+  <!--EN: calming down-->
+  <rjw_genes_genetic_rut.stages.0.label>平静下来</rjw_genes_genetic_rut.stages.0.label>
+  <!--EN: in heat-->
+  <rjw_genes_genetic_rut.stages.1.label>发情中</rjw_genes_genetic_rut.stages.1.label>
+  <!--EN: Recently underwent (successful) mytosis. As this is a taxing process, some time for regeneration is required. While regenerating, no new mytosis can be started.-->
+  <rjw_genes_mytosis_shock_hediff.description>近期刚经历过（成功的）有丝分裂。由于这是一个极其耗能的过程，需要一段时间进行再生恢复。在再生期间，无法启动新的有丝分裂。</rjw_genes_mytosis_shock_hediff.description>
+  <!--EN: Mytosis Shock-->
+  <rjw_genes_mytosis_shock_hediff.label>有丝分裂休克</rjw_genes_mytosis_shock_hediff.label>
+  <!--EN: wearing off-->
+  <rjw_genes_mytosis_shock_hediff.stages.0.label>即将消退</rjw_genes_mytosis_shock_hediff.stages.0.label>
+  <!--EN: fresh-->
+  <rjw_genes_mytosis_shock_hediff.stages.1.label>新生</rjw_genes_mytosis_shock_hediff.stages.1.label>
+  <!--EN: Driven by fertilin, this person has greatly increased strength and resilience.-->
+  <rjw_genes_naked_prowess.description>在致育素的驱动下，此人的力量和韧性大幅提升。</rjw_genes_naked_prowess.description>
+  <!--EN: naked prowss-->
+  <rjw_genes_naked_prowess.label>裸身威能</rjw_genes_naked_prowess.label>
+  <!--EN: Xenotypes with this Gene are pushed beyond normal limits when they have an orgasm.-->
+  <rjw_genes_orgasm_rush_hediff.description>带有此基因的异种人在高潮时会被推向超越常态的极限。</rjw_genes_orgasm_rush_hediff.description>
+  <!--EN: orgasm rush-->
+  <rjw_genes_orgasm_rush_hediff.label>高潮冲刷</rjw_genes_orgasm_rush_hediff.label>
+  <!--EN: pumped-->
+  <rjw_genes_orgasm_rush_hediff.stages.0.label>泵感喷张</rjw_genes_orgasm_rush_hediff.stages.0.label>
+  <!--EN: charged-->
+  <rjw_genes_orgasm_rush_hediff.stages.1.label>充能</rjw_genes_orgasm_rush_hediff.stages.1.label>
+  <!--EN: super-charged-->
+  <rjw_genes_orgasm_rush_hediff.stages.2.label>过载充能</rjw_genes_orgasm_rush_hediff.stages.2.label>
+  <!--EN: Xenotypes with this Gene grow more unstable on orgasm - upon reaching critical level they will initate a process of mytosis.-->
+  <rjw_genes_orgasmic_mytosis_hediff.description>带有此基因的异种人在高潮时会变得愈发不稳定——一旦达到临界水平，他们将启动有丝分裂过程。</rjw_genes_orgasmic_mytosis_hediff.description>
+  <!--EN: Orgasmic Instability-->
+  <rjw_genes_orgasmic_mytosis_hediff.label>高潮不稳定性</rjw_genes_orgasmic_mytosis_hediff.label>
+  <!--EN: stable-->
+  <rjw_genes_orgasmic_mytosis_hediff.stages.0.label>稳定</rjw_genes_orgasmic_mytosis_hediff.stages.0.label>
+  <!--EN: agitated-->
+  <rjw_genes_orgasmic_mytosis_hediff.stages.1.label>波动</rjw_genes_orgasmic_mytosis_hediff.stages.1.label>
+  <!--EN: unstable-->
+  <rjw_genes_orgasmic_mytosis_hediff.stages.2.label>不稳定</rjw_genes_orgasmic_mytosis_hediff.stages.2.label>
+  <!--EN: critical-->
+  <rjw_genes_orgasmic_mytosis_hediff.stages.3.label>临界</rjw_genes_orgasmic_mytosis_hediff.stages.3.label>
+  <!--EN: The vitality of this pawn has been drained. Cannot be drained again until fully
+			recovered.-->
+  <rjw_genes_succubus_drained.description>The vitality of this pawn has been drained. Cannot be drained again until fully
+			recovered.</rjw_genes_succubus_drained.description>
+  <!--EN: Drained-->
+  <rjw_genes_succubus_drained.label>被吸取</rjw_genes_succubus_drained.label>
+  <!--EN: minor-->
+  <rjw_genes_succubus_drained.stages.0.label>轻微</rjw_genes_succubus_drained.stages.0.label>
+  <!--EN: moderate-->
+  <rjw_genes_succubus_drained.stages.1.label>中等</rjw_genes_succubus_drained.stages.1.label>
+  <!--EN: severe-->
+  <rjw_genes_succubus_drained.stages.2.label>严重</rjw_genes_succubus_drained.stages.2.label>
+  <!--EN: Something is changing this pawn - there is a chance to turn into a cute,
+            breedable twink upon sex.-->
+  <rjw_genes_twinkification_progress.description>这个棋子正在发生变化——它有机会在性交后变成一个可爱、
+            可供繁殖的小鲜肉。</rjw_genes_twinkification_progress.description>
+  <!--EN: twinkification-->
+  <rjw_genes_twinkification_progress.label>娘炮化</rjw_genes_twinkification_progress.label>
+  <!--EN: neglectable-->
+  <rjw_genes_twinkification_progress.stages.0.label>可忽略</rjw_genes_twinkification_progress.stages.0.label>
+  <!--EN: minor-->
+  <rjw_genes_twinkification_progress.stages.1.label>轻微</rjw_genes_twinkification_progress.stages.1.label>
+  <!--EN: severe-->
+  <rjw_genes_twinkification_progress.stages.2.label>严重</rjw_genes_twinkification_progress.stages.2.label>
+  <!--EN: critical-->
+  <rjw_genes_twinkification_progress.stages.3.label>危急</rjw_genes_twinkification_progress.stages.3.label>
+</LanguageData>

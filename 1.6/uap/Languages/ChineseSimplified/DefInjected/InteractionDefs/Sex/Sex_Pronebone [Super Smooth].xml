@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: vaginal-->
+  <Sex_PSS_UAP.label>阴道</Sex_PSS_UAP.label>
+  <!--EN: r_logentry->Had vaginal sex with [RECIPIENT_nameDef].-->
+  <Sex_PSS_UAP.logRulesInitiator.rulesStrings.0>r_logentry->与 [RECIPIENT_nameDef] 发生过阴道性交。</Sex_PSS_UAP.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Had vaginal sex with [INITIATOR_nameDef].-->
+  <Sex_PSS_UAP.logRulesRecipient.rulesStrings.0>r_logentry->与[INITIATOR_nameDef]发生过阴道性交。</Sex_PSS_UAP.logRulesRecipient.rulesStrings.0>
+  <!--EN: (V) Pronebone [SS]-->
+  <Sex_PSS_UAP.modExtensions.0.RMBLabel>(V) 俯骨 [SS]</Sex_PSS_UAP.modExtensions.0.RMBLabel>
+</LanguageData>

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: The likelihood that this pawn can successfully force another predator to eject their prey.-->
-  <RV2_ExternalEjectChance.description>这个的可能性pawn可以成功地迫使另一名捕食者弹出他们的猎物。</RV2_ExternalEjectChance.description>
-  <!--EN: Eject chance-->
-  <RV2_ExternalEjectChance.label>弹出几率</RV2_ExternalEjectChance.label>
-</LanguageData>

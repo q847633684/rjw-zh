@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: {GIVER} and {RECEIVER} had sex ({SEX}) while {GIVER} has prey {OLDVORETYPE} vored. {GIVER} ejected {PREY} due to orgasm.-->
+  <RV2_RJW_PreySexEjectDescription>{GIVER} 与 {RECEIVER} 发生性行为 ({SEX}) 时，{GIVER} 体内以 {OLDVORETYPE} 方式吞食着猎物 {PREY}。{GIVER} 因高潮排出了 {PREY}。</RV2_RJW_PreySexEjectDescription>
+  <!--EN: Prey ejected-->
+  <RV2_RJW_PreySexEjectLabel>猎物排出</RV2_RJW_PreySexEjectLabel>
+  <!--EN: {GIVER} and {RECEIVER} had sex ({SEX}) while {GIVER} has prey {OLDVORETYPE} vored. {RECEIVER} is now {NEWVORETYPE} ({NEWVOREGOAL}) voring {PREY}.-->
+  <RV2_RJW_PreySexTransferDescription>{GIVER} 与 {RECEIVER} 发生性行为 ({SEX}) 时，{GIVER} 体内以 {OLDVORETYPE} 方式吞食着猎物 {PREY}。现在 {RECEIVER} 以 {NEWVORETYPE} 方式（{NEWVOREGOAL}）吞食着 {PREY}。</RV2_RJW_PreySexTransferDescription>
+  <!--EN: Prey transferred-->
+  <RV2_RJW_PreySexTransferLabel>猎物转移</RV2_RJW_PreySexTransferLabel>
+  <!--EN: Prey eject chance during sex-->
+  <RV2_RJW_Settings_BaseSexEjectChance>性行为中猎物排出几率</RV2_RJW_Settings_BaseSexEjectChance>
+  <!--EN: The base chance that a predator will release prey in an appropriate sexual part during sex. This chance can be modified by quirks!-->
+  <RV2_RJW_Settings_BaseSexEjectChance_Tip>捕食者在性行为中，通过合适的性器官释放猎物的基础几率。此几率可被特质修改！</RV2_RJW_Settings_BaseSexEjectChance_Tip>
+  <!--EN: Bestiality is rape-->
+  <RV2_RJW_Settings_BestialityIsRape>兽交视为强奸</RV2_RJW_Settings_BestialityIsRape>
+  <!--EN: Turning this on will make all sex with animals lead to forced after-sex proposals.\n\nRJW always flags bestiality as rape - which means post sex proposals would always be forced, RV-2 disables this logic by default.\n\nUsing this setting allows RV-2 to properly calculate proposal success chance based on the initiators animal handling skill instead of assuming forced proposals without partner consent.\n\nThis does not change how RJW treats rape or bestiality, merely how RV-2 evaluates if the proposal is forced or not!-->
+  <RV2_RJW_Settings_BestialityIsRape_Tip>启用此选项将使所有与动物的性行为都导致强制的性后吞食提议。\n\nRJW 总是将兽交标记为强奸——这意味着性后吞食提议将总是强制性的，RV-2 默认禁用此逻辑。\n\n使用此设置允许 RV-2 根据发起者的动物驯服技能正确计算提议成功几率，而不是假设未经伴侣同意的强制提议。\n\n这不会改变 RJW 如何处理强奸或兽交，仅改变 RV-2 如何评估提议是否为强制！</RV2_RJW_Settings_BestialityIsRape_Tip>
+  <!--EN: Disable vore grapple during sex-->
+  <RV2_RJW_Settings_DisableVoreGrappleDuringSex>性行为中禁用吞食抓取</RV2_RJW_Settings_DisableVoreGrappleDuringSex>
+  <!--EN: Mostly relates to rape beating, turning this on will prevent rapists from vore-grappling their rape target.-->
+  <RV2_RJW_Settings_DisableVoreGrappleDuringSex_Tip>主要与强奸搏斗相关，启用此选项将阻止强奸犯对其强奸目标进行吞食抓取。</RV2_RJW_Settings_DisableVoreGrappleDuringSex_Tip>
+  <!--EN: Sex eject notification-->
+  <RV2_RJW_Settings_EjectNotificationType>性行为排出通知</RV2_RJW_Settings_EjectNotificationType>
+  <!--EN: After rape proposal chance-->
+  <RV2_RJW_Settings_PostRapeProposalChance>强奸后提议几率</RV2_RJW_Settings_PostRapeProposalChance>
+  <!--EN: The chance that the rape initiator proposes vore to the raped pawn-->
+  <RV2_RJW_Settings_PostRapeProposalChance_Tip>强奸发起者向被强奸角色提出吞食要求的几率</RV2_RJW_Settings_PostRapeProposalChance_Tip>
+  <!--EN: After rape proposals are forced?-->
+  <RV2_RJW_Settings_PostRapeProposalsAreForced>强奸后提议是否为强制？</RV2_RJW_Settings_PostRapeProposalsAreForced>
+  <!--EN: Means the vore is done non-consensually and the acceptance chance is skipped-->
+  <RV2_RJW_Settings_PostRapeProposalsAreForced_Tip>意味着吞食是在未经同意的情况下进行的，并且跳过接受几率判定</RV2_RJW_Settings_PostRapeProposalsAreForced_Tip>
+  <!--EN: After sex proposal chance-->
+  <RV2_RJW_Settings_PostSexProposalChance>性行为后提议几率</RV2_RJW_Settings_PostSexProposalChance>
+  <!--EN: The chance that the sex initiator proposes vore to the sex recipient-->
+  <RV2_RJW_Settings_PostSexProposalChance_Tip>性行为发起者向性行为接受者提出吞食要求的几率</RV2_RJW_Settings_PostSexProposalChance_Tip>
+  <!--EN: After sex proposals are forced?-->
+  <RV2_RJW_Settings_PostSexProposalsAreForced>性行为后提议是否为强制？</RV2_RJW_Settings_PostSexProposalsAreForced>
+  <!--EN: Means the vore is done non-consensually and the acceptance chance is skipped-->
+  <RV2_RJW_Settings_PostSexProposalsAreForced_Tip>意味着吞食是在未经同意的情况下进行的，并且跳过接受几率判定</RV2_RJW_Settings_PostSexProposalsAreForced_Tip>
+  <!--EN: Sex transfer notification-->
+  <RV2_RJW_Settings_TransferNotificationType>性行为转移通知</RV2_RJW_Settings_TransferNotificationType>
+  <!--EN: Vaginal vore aborts pregnancies-->
+  <RV2_RJW_Settings_VaginalVoreAbortsPregnancies>阴道吞食终止妊娠</RV2_RJW_Settings_VaginalVoreAbortsPregnancies>
+  <!--EN: Turning this on will cause any vaginal vore to terminate pregnancies, no matter how far progressed they are. The abortion will happen once the prey enters the womb.-->
+  <RV2_RJW_Settings_VaginalVoreAbortsPregnancies_Tip>启用此选项将导致任何阴道吞食都会终止妊娠，无论妊娠进展到何种程度。一旦猎物进入子宫，流产就会发生。</RV2_RJW_Settings_VaginalVoreAbortsPregnancies_Tip>
+  <!--EN: RimJobWorld-->
+  <RV2_Settings_TabNames_RJW>RimJobWorld</RV2_Settings_TabNames_RJW>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: [PAWN_nameDef] suffered some terrible things, [PAWN_pronoun] looks rather emaciated.-->
+  <rjw_broken.description>[PAWN_nameDef]经历了一些可怕的事情，[PAWN_pronoun]看起来相当憔悴。</rjw_broken.description>
+  <!--EN: Broken Nymph-->
+  <rjw_broken.label>崩坏流莺</rjw_broken.label>
+  <!--EN: No one can be more loquacious than [PAWN_nameDef]. [PAWN_pronoun] has a flexible tongue, a sharp mind, and hot lips.-->
+  <rjw_chatty.description>没有人比[PAWN_nameDef]更能言善道。[PAWN_pronoun]有着灵活的舌头、敏锐的头脑和炙热的双唇。</rjw_chatty.description>
+  <!--EN: Chatty Nymph-->
+  <rjw_chatty.label>健谈流莺</rjw_chatty.label>
+  <!--EN: [PAWN_nameDef] loves crafting various things, especially things that provide new experiences.-->
+  <rjw_curious.description>[PAWN_nameDef]喜欢制造各种东西，尤其是能提供新鲜体验的东西。</rjw_curious.description>
+  <!--EN: Curious Nymph-->
+  <rjw_curious.label>好奇流莺</rjw_curious.label>
+  <!--EN: [PAWN_nameDef] is a conqueror by nature and will punch you in a face if you try to say "No" to [PAWN_possessive] advances.-->
+  <rjw_feisty.description>[PAWN_nameDef]生来便渴望征服，若是你在[PAWN_pronoun]索求时敢说不，便会对你重拳出击。</rjw_feisty.description>
+  <!--EN: Feisty Nymph-->
+  <rjw_feisty.label>活泼流莺</rjw_feisty.label>
+  <!--EN: [PAWN_nameDef] has a pair of charming eyes, and [PAWN_possessive] voice is soft and sweet. Due to [PAWN_possessive] previous nurse job, [PAWN_pronoun] tends people quite well.-->
+  <rjw_tender.description>[PAWN_nameDef]有着一双动人的眼睛，并且[PAWN_possessive]的声音绵软甜美。由于[PAWN_pronoun]之前从事的护士工作，[PAWN_pronoun]可以很好的照料人们。</rjw_tender.description>
+  <!--EN: Tender Nymph-->
+  <rjw_tender.label>温婉流莺</rjw_tender.label>
+  <!--EN: [PAWN_nameDef] was made to be a sex toy, rather than a human. During [PAWN_possessive] growing period, [PAWN_pronoun] was taught plenty of social and sex related skills to satisfy any demands of its owners.-->
+  <rjw_vatgrown_sex_slave.description>[PAWN_nameDef]被塑造成一个性爱玩具、而非作为人类长大。在[PAWN_possessive]成长期中，[PAWN_pronoun]被灌输了很多与性爱有关的技能和社交技能，以满足其主人的需求。</rjw_vatgrown_sex_slave.description>
+  <!--EN: Vat-Grown Sex Slave-->
+  <rjw_vatgrown_sex_slave.label>人造性奴</rjw_vatgrown_sex_slave.label>
+</LanguageData>

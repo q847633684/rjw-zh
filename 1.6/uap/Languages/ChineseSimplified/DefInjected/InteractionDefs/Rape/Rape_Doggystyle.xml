@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: anal-->
+  <Rape_Doggystyle2D_UAP.label>肛交</Rape_Doggystyle2D_UAP.label>
+  <!--EN: r_logentry->Raped anally [RECIPIENT_nameDef].-->
+  <Rape_Doggystyle2D_UAP.logRulesInitiator.rulesStrings.0>r_logentry->对 [RECIPIENT_nameDef] 进行了肛交强奸。</Rape_Doggystyle2D_UAP.logRulesInitiator.rulesStrings.0>
+  <!--EN: r_logentry->Was anally raped by [INITIATOR_nameDef].-->
+  <Rape_Doggystyle2D_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被 [INITIATOR_nameDef] 肛交强奸了。</Rape_Doggystyle2D_UAP.logRulesRecipient.rulesStrings.0>
+  <!--EN: (A) Doggystyle-->
+  <Rape_Doggystyle2D_UAP.modExtensions.0.RMBLabel>(A) 后入式</Rape_Doggystyle2D_UAP.modExtensions.0.RMBLabel>
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Not enough fertilin to cast.-->
+  <AbilityDisabledNoFertilin>致育素不足，无法施放。</AbilityDisabledNoFertilin>
+  <!--EN: Pawn doesn't have required fertilin gene.-->
+  <AbilityDisabledNoFertilinGene>角色没有所需的致育素基因。</AbilityDisabledNoFertilinGene>
+  <!--EN: Low fertilin-->
+  <AlertLowFertilin>致育素不足</AlertLowFertilin>
+  <!--EN: A colonist has low fertilin. At this point they are becoming desperate enough to consider rape and bestiality to obtain fertilin (if they didn't already). At zero fertilin they will lose all sense and start raping randomly-->
+  <AlertLowFertilinDesc>一名殖民者的致育素不足。此时他们会变得绝望，以至于考虑通过强奸和兽交来获取致育素（如果之前没有这样做的话）。当致育素为零时，他们将失去理智，开始随机强奸。</AlertLowFertilinDesc>
+  <!--EN: This happened because of low fertilin.-->
+  <MentalBreakNoFertilin>这是由于致育素不足导致的。</MentalBreakNoFertilin>
+  <!--EN: {0} has fed enough on your colonists and will now leave.-->
+  <SuccubusLeaving>{0} 已经充分汲取了你的殖民者，现在将要离开。</SuccubusLeaving>
+  <!--EN: The dirty dreams of your colonists have attracted succubi.\n\nThey will hang around for a couple of days trying to seduce your colonists. They may decide to join your colony, if they are impressed by your colonists's sexual prowess.-->
+  <rjw_genes_sexdemon_visit_incident_description>你殖民者的春梦吸引来了魅魔。\n\n她们会徘徊几天，试图勾引你的殖民者。如果她们对你殖民者的性能力印象深刻，可能会决定加入你的殖民地。</rjw_genes_sexdemon_visit_incident_description>
+  <!--EN: Dirty dreams-->
+  <rjw_genes_sexdemon_visit_incident_label>春梦</rjw_genes_sexdemon_visit_incident_label>
+  <!--EN: {0} enjoys it here and has decided to stay.-->
+  <rjw_genes_succubus_joins_letter_description>{0} 喜欢这里，决定留下。</rjw_genes_succubus_joins_letter_description>
+  <!--EN: Guest Joins-->
+  <rjw_genes_succubus_joins_letter_label>访客加入</rjw_genes_succubus_joins_letter_label>
+</LanguageData>

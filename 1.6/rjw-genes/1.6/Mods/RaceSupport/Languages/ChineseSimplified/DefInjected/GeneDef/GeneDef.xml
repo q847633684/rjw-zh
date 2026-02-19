@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Carriers of this gene develop orc genitalia.-->
+  <rjw_genes_Orc_genitalia.description>此基因携带者会发育出兽人般的生殖器。</rjw_genes_Orc_genitalia.description>
+  <!--EN: Orc genitalia-->
+  <rjw_genes_Orc_genitalia.label>兽人生殖器</rjw_genes_Orc_genitalia.label>
+  <!--EN: Carriers of this gene develop pig genitalia.-->
+  <rjw_genes_Pig_genitalia.description>此基因携带者会发育出猪般的生殖器。</rjw_genes_Pig_genitalia.description>
+  <!--EN: Pig genitalia-->
+  <rjw_genes_Pig_genitalia.label>猪类生殖器</rjw_genes_Pig_genitalia.label>
+</LanguageData>

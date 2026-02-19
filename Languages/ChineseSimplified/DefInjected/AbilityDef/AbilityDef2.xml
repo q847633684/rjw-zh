@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Gain sacred fervor from performing holy duties to prostitute or repopulate.\n\nClick to convert to development points.-->
+  <CB_Prostitution_FervorTracker.description>通过履行神圣的卖淫或再繁衍职责获得神圣狂热。\n\n点击可转换为发展点数。</CB_Prostitution_FervorTracker.description>
+  <!--EN: Fervor-->
+  <CB_Prostitution_FervorTracker.label>狂热</CB_Prostitution_FervorTracker.label>
+  <!--EN: Line up your whores.-->
+  <CB_Prostitution_Present_Abbility.description>让你的妓女排成一排。</CB_Prostitution_Present_Abbility.description>
+  <!--EN: present whores-->
+  <CB_Prostitution_Present_Abbility.label>展示妓女</CB_Prostitution_Present_Abbility.label>
+</LanguageData>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: [PAWN_label] just can't get off unless there's someone squirming away inside [PAWN_possessive], and will always propose vore after sex.-->
+  <RV2_RJW_PostSexProposalChance_Always.description>[PAWN_label]只有在体内有某人在扭动时才能获得满足，因此总会在性行为后提出吞食要求。</RV2_RJW_PostSexProposalChance_Always.description>
+  <!--EN: Exclusive-->
+  <RV2_RJW_PostSexProposalChance_Always.label>非此不可</RV2_RJW_PostSexProposalChance_Always.label>
+  <!--EN: [PAWN_label] cannot fathom the idea of being turned on by vore after sex. Keep it out of the bedroom.-->
+  <RV2_RJW_PostSexProposalChance_Never.description>[PAWN_label]无法理解为何有人会在性事后因吞食而兴奋。请让它远离卧室。</RV2_RJW_PostSexProposalChance_Never.description>
+  <!--EN: Revulsed-->
+  <RV2_RJW_PostSexProposalChance_Never.label>深恶痛绝</RV2_RJW_PostSexProposalChance_Never.label>
+  <!--EN: [PAWN_label] has no strong feelings about vore, and will propose it after sex as often as the next person.-->
+  <RV2_RJW_PostSexProposalChance_Normal.description>[PAWN_label]对吞食无感，会像普通人一样偶尔在性事后提出要求。</RV2_RJW_PostSexProposalChance_Normal.description>
+  <!--EN: Indifferent-->
+  <RV2_RJW_PostSexProposalChance_Normal.label>无动于衷</RV2_RJW_PostSexProposalChance_Normal.label>
+  <!--EN: [PAWN_label] enjoys the feeling of a post-coital internal massage, and is twice as likely to propose vore after sex.-->
+  <RV2_RJW_PostSexProposalChance_Often.description>[PAWN_label]享受事后体内按摩的感觉，性行为后提出吞食要求的可能性是常人的两倍。</RV2_RJW_PostSexProposalChance_Often.description>
+  <!--EN: Enthusiastic-->
+  <RV2_RJW_PostSexProposalChance_Often.label>热衷于此</RV2_RJW_PostSexProposalChance_Often.label>
+  <!--EN: [PAWN_label] doesn't care much for involving vore in [PAWN_possessive] sex life, and is half as likely to propose it after sex.-->
+  <RV2_RJW_PostSexProposalChance_Rare.description>[PAWN_label]不太热衷于将吞食融入[PAWN_possessive]的性生活，性行为后提出要求的可能性只有常人的一半。</RV2_RJW_PostSexProposalChance_Rare.description>
+  <!--EN: Disinterested-->
+  <RV2_RJW_PostSexProposalChance_Rare.label>兴致缺缺</RV2_RJW_PostSexProposalChance_Rare.label>
+  <!--EN: [PAWN_label] just can't keep prey inside $pAccself, any time [PAWN_pronoun] has sex and could eject [PAWN_possessive] prey, [PAWN_pronoun] will.-->
+  <RV2_RJW_SexEjectChance_Always.description>[PAWN_label]就是没法把猎物留在体内，只要[PAWN_pronoun]发生性行为并且有可能排出[PAWN_possessive]猎物，[PAWN_pronoun]就一定会这么做。</RV2_RJW_SexEjectChance_Always.description>
+  <!--EN: Extra Loose-->
+  <RV2_RJW_SexEjectChance_Always.label>门户大开</RV2_RJW_SexEjectChance_Always.label>
+  <!--EN: [PAWN_label] runs a tight ship and even tigher innards, [PAWN_pronoun] will never eject or transfer prey.-->
+  <RV2_RJW_SexEjectChance_Never.description>[PAWN_label]管理严格，内脏更是紧致，[PAWN_pronoun]绝不会排出或转移猎物。</RV2_RJW_SexEjectChance_Never.description>
+  <!--EN: Iron Hold-->
+  <RV2_RJW_SexEjectChance_Never.label>钢铁封禁</RV2_RJW_SexEjectChance_Never.label>
+  <!--EN: [PAWN_label] ejects prey as often as anyone else.-->
+  <RV2_RJW_SexEjectChance_Normal.description>[PAWN_label]排出猎物的频率与常人无异。</RV2_RJW_SexEjectChance_Normal.description>
+  <!--EN: Normal-->
+  <RV2_RJW_SexEjectChance_Normal.label>正常</RV2_RJW_SexEjectChance_Normal.label>
+  <!--EN: [PAWN_label] has a loose grip on $pAcc prey, so [PAWN_pronoun] is 50% more likely to leave her ownership once [PAWN_pronoun] gets down and busy.-->
+  <RV2_RJW_SexEjectChance_Often.description>[PAWN_label]对猎物的掌控很松，所以一旦[PAWN_pronoun]开始忙碌，猎物脱离掌控的可能性会增加50%。</RV2_RJW_SexEjectChance_Often.description>
+  <!--EN: Loose-->
+  <RV2_RJW_SexEjectChance_Often.label>松弛</RV2_RJW_SexEjectChance_Often.label>
+  <!--EN: [PAWN_label] knows how to keep [PAWN_possessive] prey inside, [PAWN_pronoun] is only half as likely to eject [PAWN_possessive] prey.-->
+  <RV2_RJW_SexEjectChance_Rare.description>[PAWN_label]深谙如何将[PAWN_possessive]猎物留在体内，[PAWN_pronoun]排出猎物的可能性只有常人的一半。</RV2_RJW_SexEjectChance_Rare.description>
+  <!--EN: Rare-->
+  <RV2_RJW_SexEjectChance_Rare.label>稀有</RV2_RJW_SexEjectChance_Rare.label>
+</LanguageData>

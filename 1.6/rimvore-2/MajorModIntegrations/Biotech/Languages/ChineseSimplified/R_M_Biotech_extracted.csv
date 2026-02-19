@@ -1,0 +1,29 @@
+key,text,tag,file,type
+RV2_AddsHediffs,Adds hediffs:,RV2_AddsHediffs,GeneDescriptions.xml,keyed
+RV2_Vore.label,Vore,label,GeneCategoryDef/GeneCategoryDef.xml,def
+RV2_GoalEnabler_ConvertLube.label,Lubrifactive enzymes,label,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_ConvertLube.description,"This pawn is capable of turning live prey into lubricant within their womb, using powerful enzymes.",description,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_ConvertMilk.label,Lactifactive enzymes,label,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_ConvertMilk.description,"This pawn is capable of turning live prey into edible milk within their breasts, using powerful enzymes.",description,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_ConvertSperm.label,Spermifactive enzymes,label,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_ConvertSperm.description,"This pawn is capable of turning live prey into edible sperm within their testes, using powerful enzymes.",description,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_Digest.label,Hyperdigestive enzymes,label,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_Digest.description,"This pawn is capable of digesting live prey in a timely manner, using powerful enzymes.",description,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_Heal.label,Analeptic enzymes,label,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_Heal.description,"This pawn's internal organs can function as a sanitary, comfortable, and even medicinal substitute for conventional bedrest.",description,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_Reform.label,Reproductive enzymes,label,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_Reform.description,This pawn's womb can deconstruct the genetic code of their prey and re-form them with their own genetic influence.,description,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_TempEndo.label,Storage-safe organs,label,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_TempEndo.description,"This pawn's body comfortable and safe for temporary ingestion, thanks to a number of improvements, including the addition of proper airflow.",description,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_Store.label,Sphincter strength,label,GeneDef/GeneDef.xml,def
+RV2_GoalEnabler_Store.description,"This pawn's body can hold onto prey indefinitely, without killing them or letting them out on accident.",description,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Oral.label,Oral elasticity,label,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Oral.description,This pawn has an elastic mouth and throat for oral vore.,description,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Anal.label,Anal elasticity,label,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Anal.description,This pawn has an elastic anus and intestines for anal vore.,description,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Vaginal.label,Vaginal elasticity,label,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Vaginal.description,This pawn has an elastic vagina and womb for vaginal vore.,description,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Cock.label,Penile elasticity,label,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Cock.description,This pawn has an elastic penis and testes for cock vore.,description,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Nipple.label,Nipple elasticity,label,GeneDef/GeneDef.xml,def
+RV2_TypeEnabler_Nipple.description,This pawn has elastic nipples and breasts for nipple vore.,description,GeneDef/GeneDef.xml,def

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: {0} has been whipped to death.-->
-  <Onahole_TentacleWhip.deathMessage>{0}被触手鞭打致死。</Onahole_TentacleWhip.deathMessage>
-  <!--EN: tentacle-->
-  <Onahole_TentacleWhip.label>触手鞭打</Onahole_TentacleWhip.label>
-</LanguageData>

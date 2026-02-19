@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Measures whether or not a pawn is capable of sex, and how good they are at it-->
+  <SexAbility.description>衡量小人是否有能力进行性行为，以及他们在这方面的表现有多好。</SexAbility.description>
+  <!--EN: sex ability-->
+  <SexAbility.label>性能力</SexAbility.label>
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Interactive View-->
+  <RV2_Interactive_Tab>互动视图</RV2_Interactive_Tab>
+  <!--EN: Overview-->
+  <RV2_Overview_Table>概况</RV2_Overview_Table>
+  <!--EN: Vore-->
+  <RV2_PawnVoreTab>吃人</RV2_PawnVoreTab>
+  <!--EN: All-->
+  <RV2_Pawn_Source_All>全部</RV2_Pawn_Source_All>
+  <!--EN: All Map-->
+  <RV2_Pawn_Source_Map>所有地图</RV2_Pawn_Source_Map>
+  <!--EN: Expand / Collapse-->
+  <RV2_Tab_ExpandOrCollapse>展开/折叠</RV2_Tab_ExpandOrCollapse>
+  <!--EN: {0} More prey-->
+  <RV2_Tab_HiddenPreyCount>{0}更多猎物</RV2_Tab_HiddenPreyCount>
+  <!--EN: Select Prey-->
+  <RV2_Tab_Inspect>选择猎物</RV2_Tab_Inspect>
+  <!--EN: Toggle Struggle-->
+  <RV2_Toggle_Struggle>开关挣扎</RV2_Toggle_Struggle>
+</LanguageData>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <DomSuccubusTail_Anal_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] [INITIATOR_possessive] tail was anally inserted into [RECIPIENT_nameDef].-->
+    <li>sent-&gt; [INITIATOR_nameDef]的尾巴插入了[RECIPIENT_nameDef]的后庭。</li>
+  </DomSuccubusTail_Anal_RP.rulePack.rulesStrings>
+  <DomSuccubusTail_Envelop_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] dick was enveloped by [INITIATOR_nameDef] [INITIATOR_possessive] tail.-->
+    <li>sent-&gt; [RECIPIENT_nameDef]的阴茎被[INITIATOR_nameDef]的尾巴所缠绕包裹。</li>
+  </DomSuccubusTail_Envelop_RP.rulePack.rulesStrings>
+  <DomSuccubusTail_Tailjob_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] gave [RECIPIENT_nameDef] a tailjob.-->
+    <li>sent-&gt; [INITIATOR_nameDef]为[RECIPIENT_nameDef]提供了尾交服务。</li>
+  </DomSuccubusTail_Tailjob_RP.rulePack.rulesStrings>
+  <DomSuccubusTail_Vaginal_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] [INITIATOR_possessive] tail was vaginally inserted into [RECIPIENT_nameDef].-->
+    <li>sent-&gt; [INITIATOR_nameDef]的尾巴插入了[RECIPIENT_nameDef]的阴道。</li>
+  </DomSuccubusTail_Vaginal_RP.rulePack.rulesStrings>
+  <SubSuccubusTail_Anal_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] [RECIPIENT_possessive] tail was anally inserted into [INITIATOR_nameDef].-->
+    <li>sent-&gt; [RECIPIENT_nameDef]的尾巴插入了[INITIATOR_nameDef]的后庭。</li>
+  </SubSuccubusTail_Anal_RP.rulePack.rulesStrings>
+  <SubSuccubusTail_Envelop_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] dick was enveloped by [RECIPIENT_nameDef] [RECIPIENT_possessive] tail.-->
+    <li>sent-&gt; [INITIATOR_nameDef]的阴茎被[RECIPIENT_nameDef]的尾巴所缠绕包裹。</li>
+  </SubSuccubusTail_Envelop_RP.rulePack.rulesStrings>
+  <SubSuccubusTail_Tailjob_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] gave [INITIATOR_nameDef] a tailjob.-->
+    <li>sent-&gt; [RECIPIENT_nameDef]为[INITIATOR_nameDef]提供了尾交服务。</li>
+  </SubSuccubusTail_Tailjob_RP.rulePack.rulesStrings>
+  <SubSuccubusTail_Vaginal_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] [RECIPIENT_possessive] tail was vaginally inserted into [INITIATOR_nameDef].-->
+    <li>sent-&gt; [RECIPIENT_nameDef]的尾巴插入了[INITIATOR_nameDef]的阴道。</li>
+  </SubSuccubusTail_Vaginal_RP.rulePack.rulesStrings>
+</LanguageData>

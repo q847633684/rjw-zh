@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: harming children-->
+  <Harm_Child.label>伤害儿童</Harm_Child.label>
+  <!--EN: Marrying children-->
+  <Marriage_Child.label>与儿童结婚</Marriage_Child.label>
+  <!--EN: Raping children-->
+  <Rape_Child.label>强奸儿童</Rape_Child.label>
+</LanguageData>

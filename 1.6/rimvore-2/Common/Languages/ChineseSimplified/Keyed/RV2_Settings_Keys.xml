@@ -1,0 +1,919 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Add-->
+  <RV2_Settings_Add>添加</RV2_Settings_Add>
+  <!--EN: RimVore-2-->
+  <RV2_Settings_Category>RJW - RimVore-2</RV2_Settings_Category>
+  <!--EN: The default struggle mode has changed. Would you like to apply this change to all existing vore path settings? \n\nThis will set all settings with "{0}" to "{1}", but won't touch any other ones.-->
+  <RV2_Settings_ChangePrompt_DefaultStruggleForceMode>默认的挣扎模式已改变。是否将此更改应用到所有已存在的吃人路径设置？
+
+这将设置所有设置与“{0}“到”{1}“，但不会触摸任何其他的。</RV2_Settings_ChangePrompt_DefaultStruggleForceMode>
+  <!--EN: Implant damage-->
+  <RV2_Settings_Cheats_AcidImplantDamage>植入体损伤</RV2_Settings_Cheats_AcidImplantDamage>
+  <!--EN: Damage applied to undigested implants - relative to current item health.-->
+  <RV2_Settings_Cheats_AcidImplantDamage_Tip>对未消化的植入物造成的伤害-相对于当前物品的健康状况。</RV2_Settings_Cheats_AcidImplantDamage_Tip>
+  <!--EN: Damage to body part when not digested-->
+  <RV2_Settings_Cheats_AcidPityHealthFactor>未消化对身体部位的伤害</RV2_Settings_Cheats_AcidPityHealthFactor>
+  <!--EN: If the acid did not digest the body part (see above setting), how much damage is applied in relation to the body parts current health?-->
+  <RV2_Settings_Cheats_AcidPityHealthFactor_Tip>如果酸没有消化身体部位 (见上述设置)，相对于身体部位当前的健康状况，受到的伤害是多少？</RV2_Settings_Cheats_AcidPityHealthFactor_Tip>
+  <!--EN: Likelihood of body parts not being digested-->
+  <RV2_Settings_Cheats_AcidSavingThrowChance>身体部位未被消化的可能性</RV2_Settings_Cheats_AcidSavingThrowChance>
+  <!--EN: This applies to interrupted vore where the prey has entered the digestion stages and is afflicted with acid hediffs.-->
+  <RV2_Settings_Cheats_AcidSavingThrowChance_Tip>这适用于已中断的吃人猎物已进入消化阶段，且受到了酸性七色血的折磨。</RV2_Settings_Cheats_AcidSavingThrowChance_Tip>
+  <!--EN: Allow multiple external eject attempts-->
+  <RV2_Settings_Cheats_AllowMultipleExternalEjectAttempts>允许多个外部弹出尝试</RV2_Settings_Cheats_AllowMultipleExternalEjectAttempts>
+  <!--EN: Normally only one attempt to eject another predators prey is allowed.-->
+  <RV2_Settings_Cheats_AllowMultipleExternalEjectAttempts_Tip>通常只允许一次尝试弹出另一个捕食者猎物。</RV2_Settings_Cheats_AllowMultipleExternalEjectAttempts_Tip>
+  <!--EN: Allow vore jump on player forced vore-->
+  <RV2_Settings_Cheats_AllowSelfVoreJumpOnPlayerForcedVore>解禁吃人对玩家发起攻击forcedvore</RV2_Settings_Cheats_AllowSelfVoreJumpOnPlayerForcedVore>
+  <!--EN: Normally vore goal jumping (the predator deciding on their own to switch the goal on their prey) is only possible for auto-vore. Enabling this setting means the players chosen vore goal may be swapped out for something else if the predator has the required quirk.-->
+  <RV2_Settings_Cheats_AllowSelfVoreJumpOnPlayerForcedVore_Tip>通常吃人跳楼 (肉食动物自行决定转变对它们的猎物) 的目标是唯一可能的自动-吃人启用此选项意味着选中吃人如果捕食者有所需的怪癖，可以用别的东西来换取目标。</RV2_Settings_Cheats_AllowSelfVoreJumpOnPlayerForcedVore_Tip>
+  <!--EN: Base chance to initate as predator-->
+  <RV2_Settings_Cheats_BaseInitAsPredatorChance>提高成为捕食者的基础几率</RV2_Settings_Cheats_BaseInitAsPredatorChance>
+  <!--EN: This value serves as the starting point for predator role preference.-->
+  <RV2_Settings_Cheats_BaseInitAsPredatorChance_Tip>该值可以作为捕食者角色偏好的起始点。</RV2_Settings_Cheats_BaseInitAsPredatorChance_Tip>
+  <!--EN: Proposal acceptance chance-->
+  <RV2_Settings_Cheats_BaseProposalAcceptanceChance>提案被接受几率</RV2_Settings_Cheats_BaseProposalAcceptanceChance>
+  <!--EN: The base chance that a vore proposal is accepted.-->
+  <RV2_Settings_Cheats_BaseProposalAcceptanceChance_Tip>基础几率吃人已接受提议。</RV2_Settings_Cheats_BaseProposalAcceptanceChance_Tip>
+  <!--EN: Chance to strip-->
+  <RV2_Settings_Cheats_BaseStripChance>剥光的几率</RV2_Settings_Cheats_BaseStripChance>
+  <!--EN: This applies to random stripping! So if the predator + prey have decided they want to strip / not strip, this will not affect it!-->
+  <RV2_Settings_Cheats_BaseStripChance_Tip>这适用于随机剥光!所以如果捕食者 + 猎物已经决定要剥光/不剥光，这不会影响它!</RV2_Settings_Cheats_BaseStripChance_Tip>
+  <!--EN: Bodysize to vore capacity ratio-->
+  <RV2_Settings_Cheats_BodySizeToVoreCapacity>体型到吃人容量比率</RV2_Settings_Cheats_BodySizeToVoreCapacity>
+  <!--EN: This ratio is used to calculate the base vore capacity.\nHumans at BodySize 1 with a ratio of 1.5 have a total vore capacity of 1.5, which fits 10 rats (0.15 BodySize each).-->
+  <RV2_Settings_Cheats_BodySizeToVoreCapacity_Tip>这个比率是用来计算基础的吃人容量。
+体型 1 (1.5) 的人类拥有总和吃人容量 1.5，适合 10 只 (每只 0.15 人)。</RV2_Settings_Cheats_BodySizeToVoreCapacity_Tip>
+  <!--EN: Can steal from NULL need-->
+  <RV2_Settings_Cheats_CanStealFromNullNeed>可以从无需求偷东西</RV2_Settings_Cheats_CanStealFromNullNeed>
+  <!--EN: Whether or not pawns can steal a need value when the other pawn doesn't have that need.\nAllows for stealing food from Mechanoids for example-->
+  <RV2_Settings_Cheats_CanStealFromNullNeed_Tip>Pawns 是否能盗取一个需求值，当其他pawn没有这个需求。
+例如，允许从机械体那里获取食物</RV2_Settings_Cheats_CanStealFromNullNeed_Tip>
+  <!--EN: Disable faction impact-->
+  <RV2_Settings_Cheats_DisableFactionImpact>禁用派系影响</RV2_Settings_Cheats_DisableFactionImpact>
+  <!--EN: Fatally voring any pawns from other factions will never impact the faction relations. What an absolute cheater you are.-->
+  <RV2_Settings_Cheats_DisableFactionImpact_Tip>策反任何来自其他派系的兵员永远不会影响派系关系。你真是个骗子。</RV2_Settings_Cheats_DisableFactionImpact_Tip>
+  <!--EN: Disable mental state checks-->
+  <RV2_Settings_Cheats_DisableMentalStateChecks>禁用精神状态检查</RV2_Settings_Cheats_DisableMentalStateChecks>
+  <!--EN: By default only specific mental states allow a pawn to be vored, enabling this will allow you to vore anyone in a mental state.-->
+  <RV2_Settings_Cheats_DisableMentalStateChecks_Tip>默认情况下，特定的精神状态只允许pawn要被冲洗，启用可以让你吃人任何精神崩溃的人。</RV2_Settings_Cheats_DisableMentalStateChecks_Tip>
+  <!--EN: External eject attempts are always successful-->
+  <RV2_Settings_Cheats_ExternalEjectAlwaysSucceeds>外部弹出尝试总是成功的</RV2_Settings_Cheats_ExternalEjectAlwaysSucceeds>
+  <!--EN: Pawns can try to force other predators to eject their prey. This performs a random roll based on the pawns ejection strength stat. This cheat ignores the stat and guarantees success when attempting to eject.-->
+  <RV2_Settings_Cheats_ExternalEjectAlwaysSucceeds_Tip>Pawns 可以试图迫使其他捕食者弹出他们的猎物。这将基于 pawns 弹出强度属性执行随机滚动。当试图弹出时，该骗局将忽略此属性并保证成功。</RV2_Settings_Cheats_ExternalEjectAlwaysSucceeds_Tip>
+  <!--EN: Fallback nutrition value-->
+  <RV2_Settings_Cheats_FallbackNutritionValue>备用营养值</RV2_Settings_Cheats_FallbackNutritionValue>
+  <!--EN: Nutrition value is used to calculate the amount of resources generated from a pawn. This is normally calculated by asking the base game how much "meat" the pawn has. This settings serves as a fallback for pawns without meat (mechanoids, etc.)-->
+  <RV2_Settings_Cheats_FallbackNutritionValue_Tip>营养值用于计算因pawn这通常是通过询问基础游戏的 “肉” 多少来计算的pawn有。此设置可作为没有肉的 pawns (机械体等) 的退路</RV2_Settings_Cheats_FallbackNutritionValue_Tip>
+  <!--EN: Implant destruction chance-->
+  <RV2_Settings_Cheats_ImplantDestructionChance>植入物销毁几率</RV2_Settings_Cheats_ImplantDestructionChance>
+  <!--EN: The global chance for an implant to be destroyed upon digestion-->
+  <RV2_Settings_Cheats_ImplantDestructionChance_Tip>植入物被消化后被销毁的全局几率</RV2_Settings_Cheats_ImplantDestructionChance_Tip>
+  <!--EN: Default internal temperature:-->
+  <RV2_Settings_Cheats_InternalTemperature>默认内部温度:</RV2_Settings_Cheats_InternalTemperature>
+  <!--EN: The temperature prey will experience while inside a predator.\n\nYou can override this by adding the RimVore2.InternalTemperatureExtension ModExtension to the ThingDef of any race, check RV2s /Patches folder for examples.-->
+  <RV2_Settings_Cheats_InternalTemperature_Tip>被捕食的动物进入捕食者体内时的体温。
+
+你可以通过在任何种族的 ThingDef 中添加 rimvore2.internameatureextension mod 来覆盖它，查看 RV2s/Patches 文件夹中的示例。</RV2_Settings_Cheats_InternalTemperature_Tip>
+  <!--EN: Maximum pawn traits-->
+  <RV2_Settings_Cheats_MaxPawnTraits>最高pawn特性</RV2_Settings_Cheats_MaxPawnTraits>
+  <!--EN: With a special quirk predators may "steal" traits from other pawns - this number determines the maximum amount of traits a pawn can have\n\nIncreasing this too much breaks game balance, but if you use trait framework mods you can increase this number-->
+  <RV2_Settings_Cheats_MaxPawnTraits_Tip>带着一种特殊的怪癖，捕食者可能会从其他动物身上 “窃取” 特性 -- 这个数字决定了特性的最大数量 apawn可以有
+
+增加太多会打破游戏平衡，但是如果你使用特性框架 mod，你可以增加这个数字</RV2_Settings_Cheats_MaxPawnTraits_Tip>
+  <!--EN: Max proposal modifier via quirks-->
+  <RV2_Settings_Cheats_MaxProposalModifierViaQuirks>通过怪癖获得最多的求婚修改器</RV2_Settings_Cheats_MaxProposalModifierViaQuirks>
+  <!--EN: The maximum a proposal can be modified with in regards to preferences.-->
+  <RV2_Settings_Cheats_MaxProposalModifierViaQuirks_Tip>提案可以根据偏好修改的最大值。</RV2_Settings_Cheats_MaxProposalModifierViaQuirks_Tip>
+  <!--EN: Minimum vore capacity-->
+  <RV2_Settings_Cheats_MinimumVoreCapacity>最小值吃人容量</RV2_Settings_Cheats_MinimumVoreCapacity>
+  <!--EN: You can override the calculated ratio with this setting. Every pawn, no matter their size will always have at least THIS much vore capacity.-->
+  <RV2_Settings_Cheats_MinimumVoreCapacity_Tip>你可以使用此设置覆盖计算出的比率。每pawn,无论他们的大小将永远有至少这个多吃人容量。</RV2_Settings_Cheats_MinimumVoreCapacity_Tip>
+  <!--EN: Prevent draining predator food-->
+  <RV2_Settings_Cheats_PreventDrainingPredatorFood>防止抽取捕食者食物</RV2_Settings_Cheats_PreventDrainingPredatorFood>
+  <!--EN: Normally prey steal food from their predator, turning this on will not deduct food from the predator, but still add it to the prey.-->
+  <RV2_Settings_Cheats_PreventDrainingPredatorFood_Tip>通常情况下，猎物会从它们的捕食者那里窃取食物，打开它不会从捕食者那里扣除食物，但仍然会将其加入猎物。</RV2_Settings_Cheats_PreventDrainingPredatorFood_Tip>
+  <!--EN: Prevent starving prey-->
+  <RV2_Settings_Cheats_PreventStarvingPrey>防止饥饿的猎物</RV2_Settings_Cheats_PreventStarvingPrey>
+  <!--EN: Normally your prey should never starve, but people keep reporting issues, so this is your last resort to not have prey starve inside of predators. Only enable this if you have issues with starving prey, this basically checks if a prey is starving and then sets their food to 50%-->
+  <RV2_Settings_Cheats_PreventStarvingPrey_Tip>通常情况下，你的猎物永远不会挨饿，但是人们会不断报告问题，所以这是你最后的手段，不要让猎物在里面挨饿。只有当你遇到猎物挨饿的问题时才启用此项，这基本上会检查猎物是否挨饿，然后将它们的食物设置为 50%</RV2_Settings_Cheats_PreventStarvingPrey_Tip>
+  <!--EN: Quirk acceptance chance impact-->
+  <RV2_Settings_Cheats_ProposalModifierPerPreference>怪癖接受几率影响</RV2_Settings_Cheats_ProposalModifierPerPreference>
+  <!--EN: Each preference quirk points impact to acceptance chance-->
+  <RV2_Settings_Cheats_ProposalModifierPerPreference_Tip>每种偏好都会对接受几率产生异象点数的影响。</RV2_Settings_Cheats_ProposalModifierPerPreference_Tip>
+  <!--EN: Number of traits for reformed pawns-->
+  <RV2_Settings_Cheats_ReformedPawnTraitCount>重组 pawns 的特性数</RV2_Settings_Cheats_ReformedPawnTraitCount>
+  <!--EN: When a pawn is reformed, how many traits can the new pawn have?\nThis does not overwrite the amount of traits naturally generated, only the amount of traits "inherited" from the original pawn and the predator doing the reformation-->
+  <RV2_Settings_Cheats_ReformedPawnTraitCount_Tip>当一个pawn进行改革，可以改革多少特性pawn有吗？
+这不会覆盖自然生成的特性数量，只会覆盖从原始特性中 “继承” 的特性数量pawn而正在进行宗教改革的捕食者</RV2_Settings_Cheats_ReformedPawnTraitCount_Tip>
+  <!--EN: Ignore learning factor-->
+  <RV2_Settings_Cheats_TraitStealIgnoresLearningFactor>忽略学习系数</RV2_Settings_Cheats_TraitStealIgnoresLearningFactor>
+  <!--EN: When stealing experience from another pawn the experience points are multiplied with the learning factor (burning passion, etc.)\n\nThis setting can toggle that behaviour off and will apply the raw XP that were actually stolen-->
+  <RV2_Settings_Cheats_TraitStealIgnoresLearningFactor_Tip>从他人那里汲取经验时pawn经验点数乘以学习系数 (燃烧激情等等)
+
+此选项可以切换关闭的行为和将应用原始的经验，实际上是偷来的。</RV2_Settings_Cheats_TraitStealIgnoresLearningFactor_Tip>
+  <!--EN: Vore speed multiplier-->
+  <RV2_Settings_Cheats_VoreSpeedMultiplier>吃人速度乘数</RV2_Settings_Cheats_VoreSpeedMultiplier>
+  <!--EN: Can be used to speed up many parts of the mod. Some things may not be impacted though, but it should influence swallow speed, passing between vore stages and digestion / processing of pawns.-->
+  <RV2_Settings_Cheats_VoreSpeedMultiplier_Tip>可以用来加速 mod 的许多部分。虽然有些东西可能不会受到影响，但它应该会影响吞下的速度，从吃人阶段和 pawns 的消化/处理。</RV2_Settings_Cheats_VoreSpeedMultiplier_Tip>
+  <!--EN: Collapse-->
+  <RV2_Settings_Collapse>崩溃</RV2_Settings_Collapse>
+  <!--EN: Fallback required struggles-->
+  <RV2_Settings_Combat_DefaultRequiredStruggles>撤退需要挣扎</RV2_Settings_Combat_DefaultRequiredStruggles>
+  <!--EN: The amount of successful struggles required for a prey to break free from their predator\n\nThis value will be used as the fallback value for VorePath rules where the VorePathDef does not provide its own defaultRequiredStruggles value-->
+  <RV2_Settings_Combat_DefaultRequiredStruggles_Tip>猎物脱离捕食者所需的成功挣扎次数。
+
+此值将用作 VorePathDef 不提供其自己的 defaultrecipireddef 规则的回退值。</RV2_Settings_Combat_DefaultRequiredStruggles_Tip>
+  <!--EN: Successful struggle chance-->
+  <RV2_Settings_Combat_DefaultStruggleChance>挣扎成功率</RV2_Settings_Combat_DefaultStruggleChance>
+  <!--EN: The chance that a pawn manages to do a successful struggle during a vore tick. This is NOT the total chance of a prey to break free during struggling!\n\nIf you want a mechanic like that you can set the amount of required struggles to 0 and then lower this chance to a very low value.-->
+  <RV2_Settings_Combat_DefaultStruggleChance_Tip>一个pawn设法在voreTick 一下。这并不是猎物在挣扎中突破自我的总几率!
+
+如果你想要一个这样的机械师，你可以将所需的挣扎次数设置为 0，然后将这个机会降低到一个非常低的值。</RV2_Settings_Combat_DefaultStruggleChance_Tip>
+  <!--EN: Grapple can time-out-->
+  <RV2_Settings_Combat_GrappleCanTimeout>格斗罐超时</RV2_Settings_Combat_GrappleCanTimeout>
+  <!--EN: This refers to started grapple-fights, if they are not finished before the time-out, the initiator will lose the grapple-->
+  <RV2_Settings_Combat_GrappleCanTimeout_Tip>这是指已经开始的格斗，如果在超时前没有完成，发起者将会输掉格斗</RV2_Settings_Combat_GrappleCanTimeout_Tip>
+  <!--EN: Grapple failure stun duration-->
+  <RV2_Settings_Combat_GrappleFailureStunDuration>格斗失败眩晕持续时间</RV2_Settings_Combat_GrappleFailureStunDuration>
+  <!--EN: How long (in ticks) an attacker is stunned when their vore grapple fails-->
+  <RV2_Settings_Combat_GrappleFailureStunDuration_Tip>攻击者 (以蜱为单位) 被眩晕的时间吃人格斗失败</RV2_Settings_Combat_GrappleFailureStunDuration_Tip>
+  <!--EN: Grappling pawns share cell-->
+  <RV2_Settings_Combat_GrapplePawnsShareCell>格斗兽共享牢房</RV2_Settings_Combat_GrapplePawnsShareCell>
+  <!--EN: During vore grapples the attacker and defender are placed on the same cell, when the vore combat stops they will automatically be "pushed" out of that cell in a random direction by the game. This may lead to your pawns getting out-of-position during combat, so you can turn it off.\n\nThis adds realism and looks neat, so you are very uncool if you turn this off B)-->
+  <RV2_Settings_Combat_GrapplePawnsShareCell_Tip>在吃人格斗攻击者和防御者被放置在同一个地格，当吃人战斗停止时，他们会被游戏自动随机地 “推” 出战斗区域。这可能会导致你的 pawns 在战斗中偏离位置，所以你可以将其关闭。
+
+这增加了真实感，看起来很整洁，所以如果你关闭它，你会非常不酷 B)</RV2_Settings_Combat_GrapplePawnsShareCell_Tip>
+  <!--EN: Melee Strength divider-->
+  <RV2_Settings_Combat_GrappleStrengthMeleeSkillDivider>近战分度器</RV2_Settings_Combat_GrappleStrengthMeleeSkillDivider>
+  <!--EN: The grapple strength of a pawn is divided by this value times their melee skill.\n\nExample: \nDefault divider of 5, Pawn has melee skill 7, base grapple strength is 10 -> (7/5)*10 = 14-->
+  <RV2_Settings_Combat_GrappleStrengthMeleeSkillDivider_Tip>pawn除以这个值乘以他们的近战技能。
+
+示例:
+默认 5 分，Pawn 有近战技能 7，基础格斗强度是 10-&gt; (7/5) * 10 = 14</RV2_Settings_Combat_GrappleStrengthMeleeSkillDivider_Tip>
+  <!--EN: Grapples will time-out after {0}-->
+  <RV2_Settings_Combat_GrappleTimeoutExplanation>格斗将在之后超时{0}</RV2_Settings_Combat_GrappleTimeoutExplanation>
+  <!--EN: Grapple timeout ticks-->
+  <RV2_Settings_Combat_GrappleTimeoutTicks>格斗超时滴答</RV2_Settings_Combat_GrappleTimeoutTicks>
+  <!--EN: The time needed before a grapple times out.-->
+  <RV2_Settings_Combat_GrappleTimeoutTicks_Tip>格斗超时所需的时间。</RV2_Settings_Combat_GrappleTimeoutTicks_Tip>
+  <!--EN: Grapple move chance-->
+  <RV2_Settings_Combat_GrappleVerbSelectionBaseChance>格斗移动几率</RV2_Settings_Combat_GrappleVerbSelectionBaseChance>
+  <!--EN: The base % chance that the grapple verb is used when two pawns are in combat. This chance is further modified by quirks.\n\nEven if you set this to 100% the game might not pick the grapple, this is because base game calculates verb selection based on weight - there is currently no way of forcing a 100% chance to pick this quirk without breaking other mods, but a 100% weight will favor the grapple move heavily-->
+  <RV2_Settings_Combat_GrappleVerbSelectionBaseChance_Tip>当两个 pawns 处于战斗状态时，使用格斗动词的基础 % 几率。这个机会因古怪而进一步修改了。
+
+即使你将此设置为 100%，游戏也可能不会选择格斗, 这是因为基础游戏会根据权重来计算动词选择 -- 目前没有办法在不打破其他 mod 的情况下强迫 100% 的几率选择这个怪癖, 但是 100% 的重量会极大地有利于格斗的移动</RV2_Settings_Combat_GrappleVerbSelectionBaseChance_Tip>
+  <!--EN: Max grapple move chance-->
+  <RV2_Settings_Combat_GrappleVerbSelectionMaxChance>最大格斗移动几率</RV2_Settings_Combat_GrappleVerbSelectionMaxChance>
+  <!--EN: The maximum weight that the verb can receive through modifiers. Base game is very very odd with how verb selection weights work, settings this value too high may result in odd combat behaviour!-->
+  <RV2_Settings_Combat_GrappleVerbSelectionMaxChance_Tip>动词通过修改器所能接受的最大权重。基础游戏非常奇怪，动词选择权重是如何工作的，设置这个值太高可能会导致奇怪的战斗行为!</RV2_Settings_Combat_GrappleVerbSelectionMaxChance_Tip>
+  <!--EN: "Toggle Free Grapple Use" Gizmo-->
+  <RV2_Settings_Combat_ToggleGrappleGizmoEnabled>开关「自由格斗」小发明</RV2_Settings_Combat_ToggleGrappleGizmoEnabled>
+  <!--EN: Use auto vore rules-->
+  <RV2_Settings_Combat_UseAutoRules>使用自动吃人规矩</RV2_Settings_Combat_UseAutoRules>
+  <!--EN: Whether or not the grapple validation logic should use the rules flagges as "auto vore" or not-->
+  <RV2_Settings_Combat_UseAutoRules_Tip>格斗验证逻辑是否应该使用规则标记为 “自动”吃人“或者不</RV2_Settings_Combat_UseAutoRules_Tip>
+  <!--EN: "Use Grapple" Gizmo-->
+  <RV2_Settings_Combat_UseGrappleGizmoEnabled>“使用格斗” 小发明</RV2_Settings_Combat_UseGrappleGizmoEnabled>
+  <!--EN: Hediff label refresh interval (ticks)-->
+  <RV2_Settings_Debug_LabelRefresh>Hediff 标签刷新间隔 (tick)</RV2_Settings_Debug_LabelRefresh>
+  <!--EN: Logging-->
+  <RV2_Settings_Debug_Logging>伐木工人</RV2_Settings_Debug_Logging>
+  <!--EN: Max cached vore interactions-->
+  <RV2_Settings_Debug_MaxCachedInteractions>最大缓存量吃人互动</RV2_Settings_Debug_MaxCachedInteractions>
+  <!--EN: Going too big here might bloat your RAM, you have been warned-->
+  <RV2_Settings_Debug_MaxCachedInteractions_Tip>有人警告过你，在这里太大可能会让你的公绵羊膨胀</RV2_Settings_Debug_MaxCachedInteractions_Tip>
+  <!--EN: Pass predator tick-->
+  <RV2_Settings_Debug_PassPredatorTick>通过捕食者 tick</RV2_Settings_Debug_PassPredatorTick>
+  <!--EN: Verbose logging-->
+  <RV2_Settings_Debug_VerboseLogging>详细日志</RV2_Settings_Debug_VerboseLogging>
+  <!--EN: OVERRIDES for animals-->
+  <RV2_Settings_Designations_AnimalVoreOptions>动物覆盖</RV2_Settings_Designations_AnimalVoreOptions>
+  <!--EN: RimVore-2 [B] Designations-->
+  <RV2_Settings_Designations_Category>缔约 RimVore-2[B]指派</RV2_Settings_Designations_Category>
+  <!--EN: DEFAULTS for roles-->
+  <RV2_Settings_Designations_ColonyRelationOptions>职位默认设置</RV2_Settings_Designations_ColonyRelationOptions>
+  <!--EN: Is endo prey-->
+  <RV2_Settings_Designations_DesignatedEndoPrey>是远行的猎物</RV2_Settings_Designations_DesignatedEndoPrey>
+  <!--EN: Is fatal prey-->
+  <RV2_Settings_Designations_DesignatedFatalPrey>是致命的猎物</RV2_Settings_Designations_DesignatedFatalPrey>
+  <!--EN: Is predator-->
+  <RV2_Settings_Designations_DesignatedPredator>是捕食者</RV2_Settings_Designations_DesignatedPredator>
+  <!--EN: Ignore minimum age-->
+  <RV2_Settings_Designations_IgnoreMinimumAge>忽略最小年龄</RV2_Settings_Designations_IgnoreMinimumAge>
+  <!--EN: Minimum age for vore-->
+  <RV2_Settings_Designations_MinimumAge>最低年龄吃人</RV2_Settings_Designations_MinimumAge>
+  <!--EN: No Humanoid Alien Races loaded-->
+  <RV2_Settings_Designations_NoHAR>未装载人形异域种族</RV2_Settings_Designations_NoHAR>
+  <!--EN: OVERRIDES for custom races-->
+  <RV2_Settings_Designations_RaceVoreOptions>自定义种族覆盖</RV2_Settings_Designations_RaceVoreOptions>
+  <!--EN: Base-->
+  <RV2_Settings_Designations_RelationKey_Base>角根</RV2_Settings_Designations_RelationKey_Base>
+  <!--EN: Colonist-->
+  <RV2_Settings_Designations_RelationKey_Colonist>殖民者</RV2_Settings_Designations_RelationKey_Colonist>
+  <!--EN: Colony Animal-->
+  <RV2_Settings_Designations_RelationKey_ColonyAnimal>殖民地动物</RV2_Settings_Designations_RelationKey_ColonyAnimal>
+  <!--EN: Mechanoid-->
+  <RV2_Settings_Designations_RelationKey_Mechanoid>机械体</RV2_Settings_Designations_RelationKey_Mechanoid>
+  <!--EN: Prisoner-->
+  <RV2_Settings_Designations_RelationKey_Prisoner>囚犯</RV2_Settings_Designations_RelationKey_Prisoner>
+  <!--EN: Raider-->
+  <RV2_Settings_Designations_RelationKey_Raider>掠袭者</RV2_Settings_Designations_RelationKey_Raider>
+  <!--EN: Temporary Colonist-->
+  <RV2_Settings_Designations_RelationKey_TemporaryColonist>临时殖民者</RV2_Settings_Designations_RelationKey_TemporaryColonist>
+  <!--EN: Trader-->
+  <RV2_Settings_Designations_RelationKey_Trader>商队</RV2_Settings_Designations_RelationKey_Trader>
+  <!--EN: Visitor-->
+  <RV2_Settings_Designations_RelationKey_Visitor>访客</RV2_Settings_Designations_RelationKey_Visitor>
+  <!--EN: Wild Animal-->
+  <RV2_Settings_Designations_RelationKey_WildAnimal>野生动物</RV2_Settings_Designations_RelationKey_WildAnimal>
+  <!--EN: Wild Human-->
+  <RV2_Settings_Designations_RelationKey_WildMan>野人</RV2_Settings_Designations_RelationKey_WildMan>
+  <!--EN: Reset designations-->
+  <RV2_Settings_Designations_ResetDesignations>重置指派</RV2_Settings_Designations_ResetDesignations>
+  <!--EN: Disable all-->
+  <RV2_Settings_DisableAll>全部禁用</RV2_Settings_DisableAll>
+  <!--EN: Disable rule-->
+  <RV2_Settings_DisableRule>禁用规则</RV2_Settings_DisableRule>
+  <!--EN: Disabled-->
+  <RV2_Settings_Disabled>禁用</RV2_Settings_Disabled>
+  <!--EN: Edit-->
+  <RV2_Settings_Edit>编辑</RV2_Settings_Edit>
+  <!--EN: Enable all-->
+  <RV2_Settings_EnableAll>全部启用</RV2_Settings_EnableAll>
+  <!--EN: Enable rule-->
+  <RV2_Settings_EnableRule>启用规则</RV2_Settings_EnableRule>
+  <!--EN: Enabled-->
+  <RV2_Settings_Enabled>启用</RV2_Settings_Enabled>
+  <!--EN: Expand-->
+  <RV2_Settings_Expand>扩大</RV2_Settings_Expand>
+  <!--EN: Add vored pawns to colonist bar-->
+  <RV2_Settings_Features_AddVoredPawnsToColonistBar>将被伏击的 pawns 加入殖民者酒吧</RV2_Settings_Features_AddVoredPawnsToColonistBar>
+  <!--EN: Vored pawns will be drawn in their own group on the colonist bar-->
+  <RV2_Settings_Features_AddVoredPawnsToColonistBar_Tip>被奴役的 pawns 将会在殖民者酒吧里被吸引到他们自己的团体里。</RV2_Settings_Features_AddVoredPawnsToColonistBar_Tip>
+  <!--EN: Always show designation gizmos-->
+  <RV2_Settings_Features_AlwaysShowDesignationGizmos>总是显示指定装置</RV2_Settings_Features_AlwaysShowDesignationGizmos>
+  <!--EN: By default you can only directly control the vore designations (predator, fatal, endo) of player controlled pawns. Turning this on will allow you to change hostile pawns designations.-->
+  <RV2_Settings_Features_AlwaysShowDesignationGizmos_Tip>默认情况下，你只能直接控制吃人玩家控制的 pawns 的标记 (捕食者，致命的，endo)。启用此项将允许你更改敌对 pawns 的名称。</RV2_Settings_Features_AlwaysShowDesignationGizmos_Tip>
+  <!--EN: Animals-->
+  <RV2_Settings_Features_AnimalsEnabled>驯兽工作</RV2_Settings_Features_AnimalsEnabled>
+  <!--EN: Enable animals voring and being vored.\nCan also be disabled in the rules - this is more of a legacy setting.-->
+  <RV2_Settings_Features_AnimalsEnabled_Tip>允许收留和被伏击的动物。
+也可以在规则中禁用-这更像是一个遗留设置。</RV2_Settings_Features_AnimalsEnabled_Tip>
+  <!--EN: Backstory genitals-->
+  <RV2_Settings_Features_BackstoryGenitalsEnabled>背景故事生殖器</RV2_Settings_Features_BackstoryGenitalsEnabled>
+  <!--EN: If this is enabled, backstories provided by RV2 are allowed to force pawns to have specific genitalia. This may result in futanari pawns being generated! If you disable this and get stuck with an "invalid" backstory, you need to overwrite the backstory via dev mode.-->
+  <RV2_Settings_Features_BackstoryGenitalsEnabled_Tip>如果启用此选项，则允许 RV2 提供的背景故事强制 pawns 拥有特定的生殖器。这可能会导致futanariPawns 正在生成中!如果你禁用了这个选项，并陷入了一个 “无效” 的背景故事，你需要通过开发模式覆盖这个背景故事。</RV2_Settings_Features_BackstoryGenitalsEnabled_Tip>
+  <!--EN: Bones-->
+  <RV2_Settings_Features_BonesEnabled>骷髅</RV2_Settings_Features_BonesEnabled>
+  <!--EN: This will not affect any already existing items or curently ongoing Vore!-->
+  <RV2_Settings_Features_BonesEnabled_Tip>这不会影响任何已经存在的或目前正在进行的物品吃人不!</RV2_Settings_Features_BonesEnabled_Tip>
+  <!--EN: Endo vore-->
+  <RV2_Settings_Features_EndoVoreEnabled>接上吃人</RV2_Settings_Features_EndoVoreEnabled>
+  <!--EN: Enable vore that does not directly lead to a pawns death.-->
+  <RV2_Settings_Features_EndoVoreEnabled_Tip>启用吃人这并不会直接导致殖民者的死亡。</RV2_Settings_Features_EndoVoreEnabled_Tip>
+  <!--EN: Fatal vore-->
+  <RV2_Settings_Features_FatalVoreEnabled>致命吃人</RV2_Settings_Features_FatalVoreEnabled>
+  <!--EN: Enable vore with the intent to kill a prey.-->
+  <RV2_Settings_Features_FatalVoreEnabled_Tip>启用吃人意图杀死猎物。</RV2_Settings_Features_FatalVoreEnabled_Tip>
+  <!--EN: Feeder vore-->
+  <RV2_Settings_Features_FeederVoreEnabled>饲养员吃人</RV2_Settings_Features_FeederVoreEnabled>
+  <!--EN: Enable pawns feeding a prey to a predator without doing any direct vore themself.-->
+  <RV2_Settings_Features_FeederVoreEnabled_Tip>允许 pawns 直接将猎物喂给捕食者吃人它自己。</RV2_Settings_Features_FeederVoreEnabled_Tip>
+  <!--EN: Grappling-->
+  <RV2_Settings_Features_GrapplingEnabled>格斗</RV2_Settings_Features_GrapplingEnabled>
+  <!--EN: Pawns can initiate a grapple move in which they attempt to throw their target to the ground and vore them.-->
+  <RV2_Settings_Features_GrapplingEnabled_Tip>殖民者可以发起一个格斗动作，在这个动作中他们会将目标扔到地上吃人他们。</RV2_Settings_Features_GrapplingEnabled_Tip>
+  <!--EN: Goal switching-->
+  <RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching>目标切换</RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching>
+  <!--EN: Note: Enabling this means that pawns that predators can switch the vore goal (pleasure -> digest) on their prey even if they are not designated as fatal prey!-->
+  <RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching_Tip>注意: 启用这意味着捕食者的 pawns 可以转变该吃人目标 (愉悦-&gt; 消化) 猎物，即使他们没有被指定为致命的猎物!</RV2_Settings_Features_IgnoreDesignations_IgnoreDesignationsGoalSwitching_Tip>
+  <!--EN: Kidnapping raiders-->
+  <RV2_Settings_Features_IgnoreDesignations_KidnappingRaiders>绑架袭击者</RV2_Settings_Features_IgnoreDesignations_KidnappingRaiders>
+  <!--EN: Note: Vore-napping raiders will always use the Store goal-->
+  <RV2_Settings_Features_IgnoreDesignations_KidnappingRaiders_Tip>注意:吃人-打盹的袭击者将始终使用商店的目标</RV2_Settings_Features_IgnoreDesignations_KidnappingRaiders_Tip>
+  <!--EN: Vore mental states-->
+  <RV2_Settings_Features_IgnoreDesignations_MentalState>吃人精神状态</RV2_Settings_Features_IgnoreDesignations_MentalState>
+  <!--EN: Note: Vore mental states may pick either endo or fatal goals-->
+  <RV2_Settings_Features_IgnoreDesignations_MentalState_Tip>注意:吃人精神状态可能会选择强化目标或致命目标</RV2_Settings_Features_IgnoreDesignations_MentalState_Tip>
+  <!--EN: Vore hunting animals-->
+  <RV2_Settings_Features_IgnoreDesignations_VoreHuntingAnimals>吃人猎杀动物</RV2_Settings_Features_IgnoreDesignations_VoreHuntingAnimals>
+  <!--EN: Note: Aggressive animals will almost always pick fatal goals!\n\nIncludes manhunting animals choosing to do vore-->
+  <RV2_Settings_Features_IgnoreDesignations_VoreHuntingAnimals_Tip>注意: 好斗的动物几乎总是会选择致命的目标!
+
+包括选择猎杀人类的动物吃人</RV2_Settings_Features_IgnoreDesignations_VoreHuntingAnimals_Tip>
+  <!--EN: RMB Proposals use auto vore interval-->
+  <RV2_Settings_Features_RMBProposalsUseAutoVoreInterval>人民币提案使用自动吃人间隔</RV2_Settings_Features_RMBProposalsUseAutoVoreInterval>
+  <!--EN: This will block vore proposals initatiated via the RMB menu if the auto vore cooldown for the given pawn has not elapsed yet.\n\nYou can configure this cooldown interval in the fine-tuning settings.-->
+  <RV2_Settings_Features_RMBProposalsUseAutoVoreInterval_Tip>阻挡吃人通过「人民币」菜单激活的方案，如果自动吃人给定的冷却时间pawn尚未消逝。
+
+你可以在微调设置中配置此冷却时间间隔。</RV2_Settings_Features_RMBProposalsUseAutoVoreInterval_Tip>
+  <!--EN: Scat-->
+  <RV2_Settings_Features_ScatEnabled>粪便</RV2_Settings_Features_ScatEnabled>
+  <!--EN: This will not affect any already existing items or curently ongoing Vore!-->
+  <RV2_Settings_Features_ScatEnabled_Tip>这不会影响任何已经存在的或目前正在进行的物品吃人不!</RV2_Settings_Features_ScatEnabled_Tip>
+  <!--EN: Gizmo-->
+  <RV2_Settings_Features_ShowGizmo>小发明</RV2_Settings_Features_ShowGizmo>
+  <!--EN: Enable the RV2 gizmo containing Predator, Endo Prey and Fatal Prey designations, and the quirk menu.\nThe gizmo shows up whenever a pawn is selected.-->
+  <RV2_Settings_Features_ShowGizmo_Tip>启用 RV2 gizmo，其中包含捕食者，猎物和致命猎物的标记，以及古怪菜单。
+只要pawn被选中。</RV2_Settings_Features_ShowGizmo_Tip>
+  <!--EN: Manual Vore-->
+  <RV2_Settings_Features_ShowRMBVoreMenu>手动吃人</RV2_Settings_Features_ShowRMBVoreMenu>
+  <!--EN: Enable the RMB context options when right-clicking on a pawn.\nThis includes options to reserve prey for feeding vore and proposing vore directly.-->
+  <RV2_Settings_Features_ShowRMBVoreMenu_Tip>当右键单击pawn
+这包括了猎物的储备选项吃人和求婚吃人直接。</RV2_Settings_Features_ShowRMBVoreMenu_Tip>
+  <!--EN: Vore tab-->
+  <RV2_Settings_Features_ShowVoreTab>吃人标签</RV2_Settings_Features_ShowVoreTab>
+  <!--EN: Enable the vore tab.\nThe vore tab shows up on active predators and displays all of their prey in a fancier way than the hediffs.\nThe hediffs will still show up in the health tab though!-->
+  <RV2_Settings_Features_ShowVoreTab_Tip>启用吃人标签。
+该吃人选项卡在主动肉食动物上显示，并以比野人更喜欢的方式显示它们所有的猎物。
+尽管如此，这些蹒跚怪还是会出现在「健康」选项卡中!</RV2_Settings_Features_ShowVoreTab_Tip>
+  <!--EN: Specific vore scenarios ignore designations-->
+  <RV2_Settings_Features_SpecificVoreScenariosIgnoreDesignations>具体吃人剧本忽略指派</RV2_Settings_Features_SpecificVoreScenariosIgnoreDesignations>
+  <!--EN: In some cases pawns may be allowed to ignore the designations (predator, endo prey, fatal prey).\n\nThe setting is meant to provide some level of immersion, where in some scenarios the "will of the player" should be ignored.\n\nThis means some pawns may be fatally vored when they have the fatal vore designation disabled! The rest of the rules (like age) are still enforced!\n\nExamples include but are not limited to manhunting animals and vore-kidnapping raiders.-->
+  <RV2_Settings_Features_SpecificVoreScenariosIgnoreDesignations_Tip>在某些情况下，可能允许 pawns 忽略指定 (捕食者，近亲猎物，致命猎物)。
+
+该设置旨在提供一定程度的沉浸感，在某些场景中，“玩家的意志” 应该被忽略。
+
+这意味着当一些殖民者拥有致命武器时，他们可能会被致死吃人指定禁用!其余的规则 (如年龄) 仍然被强制执行!
+
+例子包括但不限于猎杀人类动物和吃人-绑架袭击者。</RV2_Settings_Features_SpecificVoreScenariosIgnoreDesignations_Tip>
+  <!--EN: Struggling-->
+  <RV2_Settings_Features_StrugglingEnabled>挣扎中</RV2_Settings_Features_StrugglingEnabled>
+  <!--EN: Unwilling prey can struggle inside of predators to force their release from vore-->
+  <RV2_Settings_Features_StrugglingEnabled_Tip>不情愿的猎物会在捕食动物的体内挣扎以强制将其从吃人</RV2_Settings_Features_StrugglingEnabled_Tip>
+  <!--EN: Vore Quirks-->
+  <RV2_Settings_Features_VoreQuirksEnabled>吃人怪癖</RV2_Settings_Features_VoreQuirksEnabled>
+  <!--EN: Enable the quirk creation for pawns.\nThe quirks of each pawn can be accessed via the gizmo when the pawn is selected.-->
+  <RV2_Settings_Features_VoreQuirksEnabled_Tip>为殖民者启用古怪创造。
+每个的怪癖pawn可通过 gizmo 访问pawn被选中。</RV2_Settings_Features_VoreQuirksEnabled_Tip>
+  <!--EN: Allow visitors as auto-proposal targets-->
+  <RV2_Settings_FineTuning_AllowVisitorsAsAutoProposalTargets>允许访客作为自动方案目标</RV2_Settings_FineTuning_AllowVisitorsAsAutoProposalTargets>
+  <!--EN: By default only colonists and colony animals are valid targets for automatic vore proposals-->
+  <RV2_Settings_FineTuning_AllowVisitorsAsAutoProposalTargets_Tip>默认情况下，只有殖民者和殖民地动物是自动的有效目标吃人提议</RV2_Settings_FineTuning_AllowVisitorsAsAutoProposalTargets_Tip>
+  <!--EN: Allow wild animals as auto-proposal targets-->
+  <RV2_Settings_FineTuning_AllowWildAnimalAsAutoProposalTargets>允许野生动物作为自动求婚目标</RV2_Settings_FineTuning_AllowWildAnimalAsAutoProposalTargets>
+  <!--EN: By default only colonists and colony animals are valid targets for automatic vore proposals-->
+  <RV2_Settings_FineTuning_AllowWildAnimalAsAutoProposalTargets_Tip>默认情况下，只有殖民者和殖民地动物是自动的有效目标吃人提议</RV2_Settings_FineTuning_AllowWildAnimalAsAutoProposalTargets_Tip>
+  <!--EN: Auto-accept on high animal skill-->
+  <RV2_Settings_FineTuning_AutoAcceptAnimal>自动接受动物技能满</RV2_Settings_FineTuning_AutoAcceptAnimal>
+  <!--EN: Animal skill to auto-accept-->
+  <RV2_Settings_FineTuning_AutoAcceptAnimalSkill>自动接受的动物技能</RV2_Settings_FineTuning_AutoAcceptAnimalSkill>
+  <!--EN: Pawns with an animal skill equals or higher than this will always succeed in proposing to animals.-->
+  <RV2_Settings_FineTuning_AutoAcceptAnimalSkill_Tip>拥有技能等于或高于此数值的 Pawns 将永远成功地向动物求婚。</RV2_Settings_FineTuning_AutoAcceptAnimalSkill_Tip>
+  <!--EN: Vore proposals directed at animals can be skipped if the proposer has a high animal skill.-->
+  <RV2_Settings_FineTuning_AutoAcceptAnimal_Tip>吃人如果发起者有很高的动物技能，则可以跳过针对动物的提议。</RV2_Settings_FineTuning_AutoAcceptAnimal_Tip>
+  <!--EN: Auto-accept on high social skill-->
+  <RV2_Settings_FineTuning_AutoAcceptSocial>自动接受社交技能高</RV2_Settings_FineTuning_AutoAcceptSocial>
+  <!--EN: Auto-Accept social difference-->
+  <RV2_Settings_FineTuning_AutoAcceptSocialSkillDifference>自动接受社会差异</RV2_Settings_FineTuning_AutoAcceptSocialSkillDifference>
+  <!--EN: The social skill can factor in the targets social skill as well. Turning this on will subtract the targets social skill from the initiators social skill before checking the threshold.-->
+  <RV2_Settings_FineTuning_AutoAcceptSocialSkillDifference_Tip>社交技能也可以计入目标的社交技能。在设置阈值之前，发起者的「社交技能」属性会被移除。</RV2_Settings_FineTuning_AutoAcceptSocialSkillDifference_Tip>
+  <!--EN: Vore proposals directed at humans can be skipped if the initiator has a much higher social skill than the target.-->
+  <RV2_Settings_FineTuning_AutoAcceptSocial_Tip>吃人如果发起者的社交能力远高于目标，则可以跳过针对人类的提议。</RV2_Settings_FineTuning_AutoAcceptSocial_Tip>
+  <!--EN: Auto-haul vore containers-->
+  <RV2_Settings_FineTuning_AutoHaulVoreContainer>自动搬运吃人容器</RV2_Settings_FineTuning_AutoHaulVoreContainer>
+  <!--EN: Automatically designate vore containers to be hauled, which will mean hauling pawns will take it to a dumping stockpile.-->
+  <RV2_Settings_FineTuning_AutoHaulVoreContainer_Tip>自动指定吃人要搬运的容器，这意味着搬运的 pawns 会把它带到垃圾储存区。</RV2_Settings_FineTuning_AutoHaulVoreContainer_Tip>
+  <!--EN: Auto-open vore containers-->
+  <RV2_Settings_FineTuning_AutoOpenVoreContainer>自动开启吃人容器</RV2_Settings_FineTuning_AutoOpenVoreContainer>
+  <!--EN: Automatically designate vore containers to be opened, pawns generally prioritize opening over hauling, so they will pretty much always open the container before hauling the items.-->
+  <RV2_Settings_FineTuning_AutoOpenVoreContainer_Tip>自动指定吃人如果打开容器，pawns 通常会优先考虑打开容器而不是搬运，因此他们几乎总是会在搬运物品之前打开容器。</RV2_Settings_FineTuning_AutoOpenVoreContainer_Tip>
+  <!--EN: Block auto-vore proposals during work-hours-->
+  <RV2_Settings_FineTuning_BlockProposalInitiationDuringWorkTime>阻挡自动吃人工作时间内的提议</RV2_Settings_FineTuning_BlockProposalInitiationDuringWorkTime>
+  <!--EN: Prevents pawns from proposing to other pawns while they are scheduled to work.\n\nThis does NOT prevent being proposed TO during work time.\n\nDo note that if this is enabled, pawns whose proposal cooldown expires during work hours will immediately propose vore once they "finish their work shift"-->
+  <RV2_Settings_FineTuning_BlockProposalInitiationDuringWorkTime_Tip>防止 pawns 在预定工作时间内向其他 pawns 求婚。
+
+这并不妨碍被提议在工作时间内。
+
+请注意，如果启用此选项，其提议冷却时间在工作时间内到期的 pawns 将立即提议吃人一旦他们 “完成轮班”</RV2_Settings_FineTuning_BlockProposalInitiationDuringWorkTime_Tip>
+  <!--EN: Default strip?-->
+  <RV2_Settings_FineTuning_DefaultStripBehaviour>默认剥光区？</RV2_Settings_FineTuning_DefaultStripBehaviour>
+  <!--EN: This will only be used when predator and quirk either have no quirks to determine stripping OR their quirks cancel each other out-->
+  <RV2_Settings_FineTuning_DefaultStripBehaviour_Tip>只有当捕食者和怪癖者没有怪癖来决定剥光或它们的怪癖相互抵消时才会使用。</RV2_Settings_FineTuning_DefaultStripBehaviour_Tip>
+  <!--EN: Default struggle behaviour-->
+  <RV2_Settings_FineTuning_DefaultStruggleForceMode>默认的挣扎行为</RV2_Settings_FineTuning_DefaultStruggleForceMode>
+  <!--EN: The default value for the vore path rules struggle mode-->
+  <RV2_Settings_FineTuning_DefaultStruggleForceMode_Tip>默认值吃人路径规则挣扎模式</RV2_Settings_FineTuning_DefaultStruggleForceMode_Tip>
+  <!--EN: Stun duration on vore eject-->
+  <RV2_Settings_FineTuning_EjectStunDuration>昏迷持续时间吃人弹出</RV2_Settings_FineTuning_EjectStunDuration>
+  <!--EN: Whenever a pawn is released or ejected from a predator, they are stunned for this duration-->
+  <RV2_Settings_FineTuning_EjectStunDuration_Tip>当一个pawn如果被捕食者释放或弹出，它们会在此期间被惊呆</RV2_Settings_FineTuning_EjectStunDuration_Tip>
+  <!--EN: Proposal cooldown (ingame): {0} - {1}-->
+  <RV2_Settings_FineTuning_ExplainedProposalCooldown>提案冷却时间 (ingame):{0}X{1}</RV2_Settings_FineTuning_ExplainedProposalCooldown>
+  <!--EN: In real-time (speed 1):\n{0}\nto\n{1}\n\nFor Speed 2 divide by 3, Speed 3 by 6\n- unless you use mods that change these values.-->
+  <RV2_Settings_FineTuning_ExplainedProposalCooldown_Tip>实时 (速度 1):
+{0}
+到
+{1}
+
+对于速度 2 除以 3，速度 3 乘 6
+-除非你使用了改变这些值的 mod。</RV2_Settings_FineTuning_ExplainedProposalCooldown_Tip>
+  <!--EN: Chance to be vored when taming failed-->
+  <RV2_Settings_FineTuning_FailedTameVoreChance>驯服失败后被背叛的几率</RV2_Settings_FineTuning_FailedTameVoreChance>
+  <!--EN: When a taming attempt fails, this is the chance that the tamer will be vored by the animal. Literal predator animals will use fatal vore, other animals will use endo vore.\n\nAnimal skill impacts this with a multiplier of 1.5x - 0.5x for animal skill 0 - 20 respectively-->
+  <RV2_Settings_FineTuning_FailedTameVoreChance_Tip>当尝试驯服失败时，这就是驯兽师被动物奴役的几率。捕食者将使用致命的文字吃人,其他动物将使用吃人
+
+动物技能的影响系数为 1.5x-0.5x，动物技能为 0-20。</RV2_Settings_FineTuning_FailedTameVoreChance_Tip>
+  <!--EN: Notification type on failed taming vore-->
+  <RV2_Settings_FineTuning_FailedTameVoreNotification>驯服失败后的通知类型吃人</RV2_Settings_FineTuning_FailedTameVoreNotification>
+  <!--EN: Notification type on accepted fatal vore proposal-->
+  <RV2_Settings_FineTuning_FatalProposalAcceptedNotification>接受致命伤害的通知类型吃人求婚</RV2_Settings_FineTuning_FatalProposalAcceptedNotification>
+  <!--EN: Maximum prey for feeder-->
+  <RV2_Settings_FineTuning_FeederVoreMaxPrey>汲食者最大</RV2_Settings_FineTuning_FeederVoreMaxPrey>
+  <!--EN: The upper bound of prey to be fed into a predator by a feeder-->
+  <RV2_Settings_FineTuning_FeederVoreMaxPrey_Tip>上层绑住的一只会捕食的动物</RV2_Settings_FineTuning_FeederVoreMaxPrey_Tip>
+  <!--EN: Minimum prey for feeder-->
+  <RV2_Settings_FineTuning_FeederVoreMinPrey>汲食者最低限度</RV2_Settings_FineTuning_FeederVoreMinPrey>
+  <!--EN: The lower bound of prey to be fed into a predator by a feeder-->
+  <RV2_Settings_FineTuning_FeederVoreMinPrey_Tip>低绑住的一只会捕食的动物</RV2_Settings_FineTuning_FeederVoreMinPrey_Tip>
+  <!--EN: Forbid digested Corpse-->
+  <RV2_Settings_FineTuning_ForbidDigestedCorpse>禁用被消化的尸体</RV2_Settings_FineTuning_ForbidDigestedCorpse>
+  <!--EN: This setting allows you to automatically set corpses spawned by opening a vore product container to forbidden.-->
+  <RV2_Settings_FineTuning_ForbidDigestedCorpse_Tip>此设置允许你自动设置通过打开一个吃人产品容器已禁用。</RV2_Settings_FineTuning_ForbidDigestedCorpse_Tip>
+  <!--EN: Forbid non-faction vore containers-->
+  <RV2_Settings_FineTuning_ForbidNonFactionVoreContainer>禁止非派系成员吃人容器</RV2_Settings_FineTuning_ForbidNonFactionVoreContainer>
+  <!--EN: Turning this on will automatically forbid vore containers produced by pawns that do not belong to the player faction.\n\nThis means your colonists won't automatically haul scat piles and the likes from wild animals.-->
+  <RV2_Settings_FineTuning_ForbidNonFactionVoreContainer_Tip>开启后将会自动禁用吃人由不属于玩家派系的殖民者生产的容器。
+
+这意味着你的殖民者不会自动搬运粪便来自野生动物的堆和类似的东西。</RV2_Settings_FineTuning_ForbidNonFactionVoreContainer_Tip>
+  <!--EN: Denied proposal leads to forced vore fight chance:-->
+  <RV2_Settings_FineTuning_ForcedVoreChanceOnFailedProposal>拒绝求婚导致forcedvore战斗几率:</RV2_Settings_FineTuning_ForcedVoreChanceOnFailedProposal>
+  <!--EN: The likelihood an initiator engages in combat with their target when they deny a proposal from them.-->
+  <RV2_Settings_FineTuning_ForcedVoreChanceOnFailedProposal_Tip>当发起者拒绝其目标的提议时，其参与战斗的可能性。</RV2_Settings_FineTuning_ForcedVoreChanceOnFailedProposal_Tip>
+  <!--EN: Notification type on switched vore goal-->
+  <RV2_Settings_FineTuning_GoalSwitchNotification>已切换通知类型吃人目标</RV2_Settings_FineTuning_GoalSwitchNotification>
+  <!--EN: Auto-Vore-->
+  <RV2_Settings_FineTuning_Header_AutoVore>自动吃人</RV2_Settings_FineTuning_Header_AutoVore>
+  <!--EN: Feeding-->
+  <RV2_Settings_FineTuning_Header_Feeding>喂养</RV2_Settings_FineTuning_Header_Feeding>
+  <!--EN: Misc-->
+  <RV2_Settings_FineTuning_Header_Misc>杂项</RV2_Settings_FineTuning_Header_Misc>
+  <!--EN: Struggling-->
+  <RV2_Settings_FineTuning_Header_Struggling>挣扎中</RV2_Settings_FineTuning_Header_Struggling>
+  <!--EN: Vore Proposals-->
+  <RV2_Settings_FineTuning_Header_VoreProposals>吃人提议</RV2_Settings_FineTuning_Header_VoreProposals>
+  <!--EN: Hunting animals vore chance-->
+  <RV2_Settings_FineTuning_HuntingAnimalsVoreChance>猎杀动物吃人几率</RV2_Settings_FineTuning_HuntingAnimalsVoreChance>
+  <!--EN: When an animal uses its hunting AI, this setting can intercept the base game hunting and replace it with a job that makes the animal down their prey and then vore it.-->
+  <RV2_Settings_FineTuning_HuntingAnimalsVoreChance_Tip>当动物使用其狩猎 AI 时，此设置可以拦截基础游戏狩猎，并代之以一份能让动物击倒其猎物的工作，然后吃人它。</RV2_Settings_FineTuning_HuntingAnimalsVoreChance_Tip>
+  <!--EN: Manhunters vore downed pawns-->
+  <RV2_Settings_FineTuning_ManhuntersVoreDownedPawns>猎杀人类吃人倒地的 pawns</RV2_Settings_FineTuning_ManhuntersVoreDownedPawns>
+  <!--EN: Toggles manhunters voring downed pawns if there are no new pawns to attack.\nDue to the way the jobGiver for manhunters works, this is a simple true/false and not a chance like with kidnapping or hunting.-->
+  <RV2_Settings_FineTuning_ManhuntersVoreDownedPawns_Tip>如果没有新的猎杀兽需要攻击，便会让猎杀人类的活跃度不断。
+由于猎杀人类者的工作方式，这是一个简单的对/错，而不是像绑架或狩猎这样的机会。</RV2_Settings_FineTuning_ManhuntersVoreDownedPawns_Tip>
+  <!--EN: Maximum vore proposal cooldown ticks-->
+  <RV2_Settings_FineTuning_MaxVoreProposalCooldown>最高吃人求婚冷却滴答</RV2_Settings_FineTuning_MaxVoreProposalCooldown>
+  <!--EN: Mental breaks use auto vore rules-->
+  <RV2_Settings_FineTuning_MentalBreaksUseAutoVoreRules>精神崩溃 (使用自动)吃人规矩</RV2_Settings_FineTuning_MentalBreaksUseAutoVoreRules>
+  <!--EN: Forces pawns in mental breaks to follow rules flagged with auto-vore on-->
+  <RV2_Settings_FineTuning_MentalBreaksUseAutoVoreRules_Tip>迫使精神崩溃的 pawns 遵循被自动标记的规则吃人开</RV2_Settings_FineTuning_MentalBreaksUseAutoVoreRules_Tip>
+  <!--EN: Minimum vore proposal cooldown ticks-->
+  <RV2_Settings_FineTuning_MinVoreProposalCooldown>最小值吃人求婚冷却滴答</RV2_Settings_FineTuning_MinVoreProposalCooldown>
+  <!--EN: Predator animals only use digest goal-->
+  <RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal>捕食动物仅使用摘要目标点</RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal>
+  <!--EN: Predator animals are animals with the base game predator icon (warg, fox, jaguar, etc.). Whenever they vore someone through normal hunting or grappling, they only use digestive vore. Turning this off means wild animals may non-fatally vore pawns.-->
+  <RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal_Tip>捕食动物是具有基础游戏捕食者图标的动物 (座狼,狐狸、美洲虎等)。每当他们吃人普通狩猎或格斗的人，他们只使用消化能力吃人关闭此选项意味着野生动物可能不会死亡吃人爪子。</RV2_Settings_FineTuning_PredatorAnimalsOnlyUseDigestGoal_Tip>
+  <!--EN: Prisoners must agree to be vored-->
+  <RV2_Settings_FineTuning_PrisonersMustConsentToProposal>囚犯必须同意被伏击</RV2_Settings_FineTuning_PrisonersMustConsentToProposal>
+  <!--EN: Enabling this means that prisoners can deny vore proposals.-->
+  <RV2_Settings_FineTuning_PrisonersMustConsentToProposal_Tip>启用这意味着囚犯可以否认吃人提议。</RV2_Settings_FineTuning_PrisonersMustConsentToProposal_Tip>
+  <!--EN: Notification type on accepted vore proposal-->
+  <RV2_Settings_FineTuning_ProposalAcceptedNotification>接受通知类型吃人求婚</RV2_Settings_FineTuning_ProposalAcceptedNotification>
+  <!--EN: Notification type on denied vore proposal-->
+  <RV2_Settings_FineTuning_ProposalDeniedNotification>拒绝通知类型吃人求婚</RV2_Settings_FineTuning_ProposalDeniedNotification>
+  <!--EN: Proposal range-->
+  <RV2_Settings_FineTuning_ProposalRange>求婚范围</RV2_Settings_FineTuning_ProposalRange>
+  <!--EN: Only pawns within this range will be considered for vore proposals.-->
+  <RV2_Settings_FineTuning_ProposalRange_Tip>只考虑此范围内的殖民者吃人提议。</RV2_Settings_FineTuning_ProposalRange_Tip>
+  <!--EN: Active proposal duration-->
+  <RV2_Settings_FineTuning_ProposalTimeTicks>方案生效持续时间</RV2_Settings_FineTuning_ProposalTimeTicks>
+  <!--EN: The amount of time it takes to verbally propose to another pawn (the wait time until proposal acceptance is calculated)-->
+  <RV2_Settings_FineTuning_ProposalTimeTicks_Tip>口头求婚所需的时间pawn(方案接受计算所需的等待时间)</RV2_Settings_FineTuning_ProposalTimeTicks_Tip>
+  <!--EN: Raider kidnap vore chance-->
+  <RV2_Settings_FineTuning_RaiderVorenappingChance>袭击者绑架吃人几率</RV2_Settings_FineTuning_RaiderVorenappingChance>
+  <!--EN: When a hostile pawn would kidnap a colonist, this setting can intercept the kidnap job and replace it with a job that makes the raider vore the colonist.-->
+  <RV2_Settings_FineTuning_RaiderVorenappingChance_Tip>当敌人pawn会绑架一个殖民者，这个设置可以拦截绑架任务，并替换为一个任务，这个任务会让袭击者吃人殖民者。</RV2_Settings_FineTuning_RaiderVorenappingChance_Tip>
+  <!--EN: Reform humanoid as newborn-->
+  <RV2_Settings_FineTuning_ReformHumanoidsAsNewborn>改造刚出生的人类</RV2_Settings_FineTuning_ReformHumanoidsAsNewborn>
+  <!--EN: If this is set to false, RV2 will try to determine the minimum age required to participate in vore for the reformed pawn.\nThis can not affect non-humanoids due to complications with PawnKinds and their valid age ranges-->
+  <RV2_Settings_FineTuning_ReformHumanoidsAsNewborn_Tip>如果设置为 false，RV2 将尝试确定参加吃人对于改革pawn
+这不能影响非人体由于并发症与 PawnKinds 和他们的有效年龄范围</RV2_Settings_FineTuning_ReformHumanoidsAsNewborn_Tip>
+  <!--EN: Skip warmup when already digesting-->
+  <RV2_Settings_FineTuning_SkipWarmupWhenAlreadyDigesting>在已经在消化的环境中跳过预热</RV2_Settings_FineTuning_SkipWarmupWhenAlreadyDigesting>
+  <!--EN: If a predator is already digesting prey, or churning digested prey, any new prey to be digested by the same part will skip the warmup phase, and immediately begin digesting.-->
+  <RV2_Settings_FineTuning_SkipWarmupWhenAlreadyDigesting_Tip>如果捕食者已经在消化或搅动已消化的猎物，任何新的被同一部分消化的猎物都会跳过预热阶段，并立即开始消化。</RV2_Settings_FineTuning_SkipWarmupWhenAlreadyDigesting_Tip>
+  <!--EN: Slaves must agree to be vored-->
+  <RV2_Settings_FineTuning_SlavesMustConsentToProposal>奴隶必须同意被奴役</RV2_Settings_FineTuning_SlavesMustConsentToProposal>
+  <!--EN: Enabling this means that slaves can deny vore proposals.-->
+  <RV2_Settings_FineTuning_SlavesMustConsentToProposal_Tip>启用这意味着奴隶可以否认吃人提议。</RV2_Settings_FineTuning_SlavesMustConsentToProposal_Tip>
+  <!--EN: Successful Struggle Notification-->
+  <RV2_Settings_FineTuning_StruggleBreakFreeNotification>成功挣扎通知</RV2_Settings_FineTuning_StruggleBreakFreeNotification>
+  <!--EN: Struggle interactions-->
+  <RV2_Settings_FineTuning_StrugglingCreatesInteractions>挣扎互动</RV2_Settings_FineTuning_StrugglingCreatesInteractions>
+  <!--EN: Whenever a prey actively struggles inside a predator, this will cause an interaction. This may result in spammed interaction logs.-->
+  <RV2_Settings_FineTuning_StrugglingCreatesInteractions_Tip>每当有猎物在捕食者体内主动挣扎时，就会引发互动。这可能会产生垃圾邮件发送的交互日志。</RV2_Settings_FineTuning_StrugglingCreatesInteractions_Tip>
+  <!--EN: Unwrap products when releasing in disposal containers-->
+  <RV2_Settings_FineTuning_UnwrapOnDisposalContainerRelease>在处置容器中释放产品时打开包装</RV2_Settings_FineTuning_UnwrapOnDisposalContainerRelease>
+  <!--EN: When releasing fatally vored prey into a disposal building like disposal urns, should the original vore product container be removed?\n\nFalse - After opening the urn, you need to open the vore product container as well\nTrue - After opening the urn, the corpse and other items are directly dropped-->
+  <RV2_Settings_FineTuning_UnwrapOnDisposalContainerRelease_Tip>当将致命的猎物释放到类似处置瓮的处置建筑中时，原吃人产品容器是否被移除？
+
+False-在打开瓮之后，你需要打开吃人产品容器
+True-打开瓮后，尸体和其他物品会被直接丢弃</RV2_Settings_FineTuning_UnwrapOnDisposalContainerRelease_Tip>
+  <!--EN: Use alternative main vore icon-->
+  <RV2_Settings_FineTuning_UseAlternativeMainVoreIcon>使用替代主体吃人标志</RV2_Settings_FineTuning_UseAlternativeMainVoreIcon>
+  <!--EN: For true purveyors of art, only the best icon will do!-->
+  <RV2_Settings_FineTuning_UseAlternativeMainVoreIcon_Tip>对于真正的艺术供应商来说，只有最好的偶像才有效果!</RV2_Settings_FineTuning_UseAlternativeMainVoreIcon_Tip>
+  <!--EN: After a proposal there is a randomized cooldown. You can set the minimum and maximum range for the cooldown, with a detailed time explanation below the two settings.-->
+  <RV2_Settings_FineTuning_VoreProposalCooldown_Tip>求婚后会有一个随机的冷却时间。你可以设置冷却时间的最小和最大范围，在这两个设置的下方有详细的时间说明。</RV2_Settings_FineTuning_VoreProposalCooldown_Tip>
+  <!--EN: Display invalid RMB options-->
+  <RV2_Settings_General_DisplayUnavailableRMBOptions>显示无效的人民币选项</RV2_Settings_General_DisplayUnavailableRMBOptions>
+  <!--EN: Toggle showing unavailable vores with their given reason in the RMB menu-->
+  <RV2_Settings_General_DisplayUnavailableRMBOptions_Tip>开关在「人民币」菜单中显示不可用的海盗及其原因</RV2_Settings_General_DisplayUnavailableRMBOptions_Tip>
+  <!--EN: Will allow you to "Reserve" a pawn as prey and then make a third pawn feed that reserved prey to a predator.-->
+  <RV2_Settings_General_FeederVore_Tip>将允许你 “预留” 一个pawn作为猎物然后掠夺第三只pawn将猎物喂给捕食者。</RV2_Settings_General_FeederVore_Tip>
+  <!--EN: Reset all settings-->
+  <RV2_Settings_General_ResetAllSettings>重置所有设置</RV2_Settings_General_ResetAllSettings>
+  <!--EN: Reset general settings-->
+  <RV2_Settings_General_ResetGeneralSettings>重置常规</RV2_Settings_General_ResetGeneralSettings>
+  <!--EN: Always strip-->
+  <RV2_Settings_General_StrippingAlways>总是剥光</RV2_Settings_General_StrippingAlways>
+  <!--EN: The prey will always undress by default-->
+  <RV2_Settings_General_StrippingAlways_Tip>默认情况下，猎物总是会脱衣服</RV2_Settings_General_StrippingAlways_Tip>
+  <!--EN: Never strip-->
+  <RV2_Settings_General_StrippingNever>不剥光</RV2_Settings_General_StrippingNever>
+  <!--EN: The prey will never undress by default-->
+  <RV2_Settings_General_StrippingNever_Tip>默认情况下，猎物永远不会脱衣服</RV2_Settings_General_StrippingNever_Tip>
+  <!--EN: Random-->
+  <RV2_Settings_General_StrippingRandom>随机</RV2_Settings_General_StrippingRandom>
+  <!--EN: There will be a 50% chance to strip or not strip-->
+  <RV2_Settings_General_StrippingRandom_Tip>有 50% 的几率剥光或者不剥光</RV2_Settings_General_StrippingRandom_Tip>
+  <!--EN: Guaranteed-->
+  <RV2_Settings_Guaranteed>保证书</RV2_Settings_Guaranteed>
+  <!--EN: Ideology role intercept chance-->
+  <RV2_Settings_Ideology_AutoVoreInterceptChance>文化角色拦截几率</RV2_Settings_Ideology_AutoVoreInterceptChance>
+  <!--EN: The chance that - if one is available - a chosen prey or alpha predator make auto-voring pawns target them and use the appropriate role on them. (eg If chosen prey available, pick it and set proposal to Predator role)-->
+  <RV2_Settings_Ideology_AutoVoreInterceptChance_Tip>如果可以的话，被选中的猎物或阿尔法捕食者使自动狱卒瞄准并对其使用适当角色的几率。 (例如，如果选择了可用的猎物，选择它并将方案设置为捕食者角色)</RV2_Settings_Ideology_AutoVoreInterceptChance_Tip>
+  <!--EN: Ritual proposal modifier-->
+  <RV2_Settings_Ideology_VoreFeastProposalAcceptanceModifier>求婚修改器</RV2_Settings_Ideology_VoreFeastProposalAcceptanceModifier>
+  <!--EN: In a vore feast, all participants spam vore proposals at each other, this can be used to make the voring happen faster and otherwise make proposals made in rituals more likely to be accepted-->
+  <RV2_Settings_Ideology_VoreFeastProposalAcceptanceModifier_Tip>在吃人盛宴，所有参与者均发送垃圾邮件吃人互相求婚，这可以用来让 v徒事件更快发生，或者让在仪式上的求婚更容易被接受</RV2_Settings_Ideology_VoreFeastProposalAcceptanceModifier_Tip>
+  <!--EN: Infinite-->
+  <RV2_Settings_Infinite>无限</RV2_Settings_Infinite>
+  <!--EN: Letter-->
+  <RV2_Settings_Letter>信件</RV2_Settings_Letter>
+  <!--EN: Big Threat Letter-->
+  <RV2_Settings_LetterThreatBig>大型威胁信</RV2_Settings_LetterThreatBig>
+  <!--EN: Small Threat Letter-->
+  <RV2_Settings_LetterThreatSmall>小尺寸威胁信</RV2_Settings_LetterThreatSmall>
+  <!--EN: Neutral Message-->
+  <RV2_Settings_MessageNeutral>中立信息</RV2_Settings_MessageNeutral>
+  <!--EN: Big Threat Message-->
+  <RV2_Settings_MessageThreatBig>大型威胁消息</RV2_Settings_MessageThreatBig>
+  <!--EN: Small Threat Message-->
+  <RV2_Settings_MessageThreatSmall>小型威胁信息</RV2_Settings_MessageThreatSmall>
+  <!--EN: Move down-->
+  <RV2_Settings_MoveDown>下移</RV2_Settings_MoveDown>
+  <!--EN: Move up-->
+  <RV2_Settings_MoveUp>上移</RV2_Settings_MoveUp>
+  <!--EN: None-->
+  <RV2_Settings_None>无</RV2_Settings_None>
+  <!--EN: Off-->
+  <RV2_Settings_Off>关</RV2_Settings_Off>
+  <!--EN: On-->
+  <RV2_Settings_On>开</RV2_Settings_On>
+  <!--EN: Blocking keywords:-->
+  <RV2_Settings_Quirks_BlockingKeywords>拦截关键词:</RV2_Settings_Quirks_BlockingKeywords>
+  <!--EN: Blocking quirks:-->
+  <RV2_Settings_Quirks_BlockingQuirks>阻挡怪癖:</RV2_Settings_Quirks_BlockingQuirks>
+  <!--EN: Blocking traits:-->
+  <RV2_Settings_Quirks_BlockingTraits>阻挡特性:</RV2_Settings_Quirks_BlockingTraits>
+  <!--EN: RimVore-2 [C] Quirks-->
+  <RV2_Settings_Quirks_Category>缔约 RimVore-2[C]怪癖</RV2_Settings_Quirks_Category>
+  <!--EN: None-->
+  <RV2_Settings_Quirks_ListNone>无</RV2_Settings_Quirks_ListNone>
+  <!--EN: Chance:-->
+  <RV2_Settings_Quirks_PoolInfo_Chance>几率:</RV2_Settings_Quirks_PoolInfo_Chance>
+  <!--EN: Description:-->
+  <RV2_Settings_Quirks_PoolInfo_Description>描述:</RV2_Settings_Quirks_PoolInfo_Description>
+  <!--EN: Enabled?-->
+  <RV2_Settings_Quirks_PoolInfo_Enabled>启用？</RV2_Settings_Quirks_PoolInfo_Enabled>
+  <!--EN: Generation index:-->
+  <RV2_Settings_Quirks_PoolInfo_GenerationOrder>世代索引:</RV2_Settings_Quirks_PoolInfo_GenerationOrder>
+  <!--EN: Quirk pool info-->
+  <RV2_Settings_Quirks_PoolInfo_Header>古怪泳池信息</RV2_Settings_Quirks_PoolInfo_Header>
+  <!--EN: No pool selected-->
+  <RV2_Settings_Quirks_PoolInfo_NoPoolSelected>未选择池</RV2_Settings_Quirks_PoolInfo_NoPoolSelected>
+  <!--EN: Name:-->
+  <RV2_Settings_Quirks_PoolInfo_PoolName>名字:</RV2_Settings_Quirks_PoolInfo_PoolName>
+  <!--EN: Pool Type:-->
+  <RV2_Settings_Quirks_PoolInfo_PoolType>泳池类型:</RV2_Settings_Quirks_PoolInfo_PoolType>
+  <!--EN: Quirks:-->
+  <RV2_Settings_Quirks_PoolInfo_Quirks>怪癖:</RV2_Settings_Quirks_PoolInfo_Quirks>
+  <!--EN: Rarity:-->
+  <RV2_Settings_Quirks_PoolInfo_Rarity>稀有度:</RV2_Settings_Quirks_PoolInfo_Rarity>
+  <!--EN: This rarity is equal to the intended rarity in the QuirkDef-->
+  <RV2_Settings_Quirks_PoolInfo_Rarity_TipDefault>这种稀有性等同于怪癖中的预期稀有性。</RV2_Settings_Quirks_PoolInfo_Rarity_TipDefault>
+  <!--EN: This rarity has been overriden and does not represent the intended rarity in the QuirkDef!-->
+  <RV2_Settings_Quirks_PoolInfo_Rarity_TipOverriden>这种稀有性已经被超越，并不能代表怪里怪气中预期的稀有!</RV2_Settings_Quirks_PoolInfo_Rarity_TipOverriden>
+  <!--EN: Weight:-->
+  <RV2_Settings_Quirks_PoolInfo_Weight>重量:</RV2_Settings_Quirks_PoolInfo_Weight>
+  <!--EN: Quirk pools-->
+  <RV2_Settings_Quirks_Pools_Header>古怪泳池</RV2_Settings_Quirks_Pools_Header>
+  <!--EN: Quirk / rarity filter-->
+  <RV2_Settings_Quirks_QuirkFilter>怪癖/稀有度过滤器</RV2_Settings_Quirks_QuirkFilter>
+  <!--EN: Enabled?-->
+  <RV2_Settings_Quirks_QuirkInfo_Enabled>启用？</RV2_Settings_Quirks_QuirkInfo_Enabled>
+  <!--EN: Quirk info-->
+  <RV2_Settings_Quirks_QuirkInfo_Header>古怪信息</RV2_Settings_Quirks_QuirkInfo_Header>
+  <!--EN: No quirk selected-->
+  <RV2_Settings_Quirks_QuirkInfo_NoQuirkSelected>未选择怪癖</RV2_Settings_Quirks_QuirkInfo_NoQuirkSelected>
+  <!--EN: Quirk pool filter-->
+  <RV2_Settings_Quirks_QuirkPoolFilter>古怪泳池过滤器</RV2_Settings_Quirks_QuirkPoolFilter>
+  <!--EN: Required keywords:-->
+  <RV2_Settings_Quirks_RequiredKeywords>必需的关键词:</RV2_Settings_Quirks_RequiredKeywords>
+  <!--EN: Required quirks:-->
+  <RV2_Settings_Quirks_RequiredQuirks>怪癖:</RV2_Settings_Quirks_RequiredQuirks>
+  <!--EN: Required traits:-->
+  <RV2_Settings_Quirks_RequiredTraits>所需特性:</RV2_Settings_Quirks_RequiredTraits>
+  <!--EN: Reset quirks and pools-->
+  <RV2_Settings_Quirks_ResetQuirks>重置怪癖和泳池</RV2_Settings_Quirks_ResetQuirks>
+  <!--EN: Remove-->
+  <RV2_Settings_Remove>移除</RV2_Settings_Remove>
+  <!--EN: Reset-->
+  <RV2_Settings_Reset>重置</RV2_Settings_Reset>
+  <!--EN: Reset all-->
+  <RV2_Settings_ResetAll>全部重置</RV2_Settings_ResetAll>
+  <!--EN: Reset all quirk rarities in pool-->
+  <RV2_Settings_ResetAllRaritiesPool>重置池中的所有古怪稀有</RV2_Settings_ResetAllRaritiesPool>
+  <!--EN: Reset all quirk rarities in all pools-->
+  <RV2_Settings_ResetAllRaritiesPoolList>重置所有泳池中的所有古怪稀有品</RV2_Settings_ResetAllRaritiesPoolList>
+  <!--EN: Rule is currently disabled-->
+  <RV2_Settings_RuleDisabled>规则当前已禁用</RV2_Settings_RuleDisabled>
+  <!--EN: {0} has abilities: {1}-->
+  <RV2_Settings_Rule_RuleExplanation_Ability>{0}能够:{1}</RV2_Settings_Rule_RuleExplanation_Ability>
+  <!--EN: {0} has no abilities-->
+  <RV2_Settings_Rule_RuleExplanation_Ability_NoAbilities>{0}没有能力</RV2_Settings_Rule_RuleExplanation_Ability_NoAbilities>
+  <!--EN: {0} is animal pawn kind: {1}-->
+  <RV2_Settings_Rule_RuleExplanation_AnimalRace>{0}是动物pawn种类:{1}</RV2_Settings_Rule_RuleExplanation_AnimalRace>
+  <!--EN: {0} has apparel: {1}-->
+  <RV2_Settings_Rule_RuleExplanation_Apparel>{0}有衣物:{1}</RV2_Settings_Rule_RuleExplanation_Apparel>
+  <!--EN: {0} has no apparel-->
+  <RV2_Settings_Rule_RuleExplanation_Apparel_NoApparel>{0}没有衣物</RV2_Settings_Rule_RuleExplanation_Apparel_NoApparel>
+  <!--EN: {0} has these relations: {1}-->
+  <RV2_Settings_Rule_RuleExplanation_ColonyRelation>{0}有这些关系:{1}</RV2_Settings_Rule_RuleExplanation_ColonyRelation>
+  <!--EN: {0} has diet: {1}-->
+  <RV2_Settings_Rule_RuleExplanation_Diet>{0}有饮食:{1}</RV2_Settings_Rule_RuleExplanation_Diet>
+  <!--EN: {0} is currently targeted by the parameters-->
+  <RV2_Settings_Rule_RuleExplanation_DoesApply>{0}被参数指定</RV2_Settings_Rule_RuleExplanation_DoesApply>
+  <!--EN: {0} is currently NOT targeted by the parameters-->
+  <RV2_Settings_Rule_RuleExplanation_DoesNotApply>{0}当前未指定参数</RV2_Settings_Rule_RuleExplanation_DoesNotApply>
+  <!--EN: Always applies-->
+  <RV2_Settings_Rule_RuleExplanation_Everyone>总是适用</RV2_Settings_Rule_RuleExplanation_Everyone>
+  <!--EN: {0} has gender: {1}-->
+  <RV2_Settings_Rule_RuleExplanation_Gender>{0}有性别:{1}</RV2_Settings_Rule_RuleExplanation_Gender>
+  <!--EN: {0} has hediffs: {1}-->
+  <RV2_Settings_Rule_RuleExplanation_Hediff>{0}有分歧的:{1}</RV2_Settings_Rule_RuleExplanation_Hediff>
+  <!--EN: {0} has no health-->
+  <RV2_Settings_Rule_RuleExplanation_Hediff_NoHealth>{0}没有健康</RV2_Settings_Rule_RuleExplanation_Hediff_NoHealth>
+  <!--EN: Select a pawn to see if the rules would apply to them.-->
+  <RV2_Settings_Rule_RuleExplanation_NoPawnSelected>选择一个pawn查看这些规则是否适用于他们。</RV2_Settings_Rule_RuleExplanation_NoPawnSelected>
+  <!--EN: {0} has no xeno type-->
+  <RV2_Settings_Rule_RuleExplanation_NoXenotype>{0}没有异种人类型</RV2_Settings_Rule_RuleExplanation_NoXenotype>
+  <!--EN: {0} is not an animal-->
+  <RV2_Settings_Rule_RuleExplanation_NotAnimal>{0}不是动物</RV2_Settings_Rule_RuleExplanation_NotAnimal>
+  <!--EN: {0}'s ideology {1} has precepts: {2}-->
+  <RV2_Settings_Rule_RuleExplanation_Precept>{0}的文化{1}有戒律:{2}</RV2_Settings_Rule_RuleExplanation_Precept>
+  <!--EN: {0} has no ideology-->
+  <RV2_Settings_Rule_RuleExplanation_Precept_NoIdeo>{0}没有文化</RV2_Settings_Rule_RuleExplanation_Precept_NoIdeo>
+  <!--EN: {0} has quirks: {1}-->
+  <RV2_Settings_Rule_RuleExplanation_Quirk>{0}有怪癖:{1}</RV2_Settings_Rule_RuleExplanation_Quirk>
+  <!--EN: {0} has no quirks-->
+  <RV2_Settings_Rule_RuleExplanation_Quirk_NoQuirks>{0}没有怪癖</RV2_Settings_Rule_RuleExplanation_Quirk_NoQuirks>
+  <!--EN: {0} has race: {1}-->
+  <RV2_Settings_Rule_RuleExplanation_Race>{0}有种族:{1}</RV2_Settings_Rule_RuleExplanation_Race>
+  <!--EN: {0} has title: {1}-->
+  <RV2_Settings_Rule_RuleExplanation_RoyalTitle>{0}有头衔:{1}</RV2_Settings_Rule_RuleExplanation_RoyalTitle>
+  <!--EN: {0} has no title-->
+  <RV2_Settings_Rule_RuleExplanation_RoyalTitle_NoTitle>{0}没有头衔</RV2_Settings_Rule_RuleExplanation_RoyalTitle_NoTitle>
+  <!--EN: {0} has work types: {1}-->
+  <RV2_Settings_Rule_RuleExplanation_WorkType>{0}有工作类型:{1}</RV2_Settings_Rule_RuleExplanation_WorkType>
+  <!--EN: {0} never works-->
+  <RV2_Settings_Rule_RuleExplanation_WorkType_NeverWorks>{0}不工作</RV2_Settings_Rule_RuleExplanation_WorkType_NeverWorks>
+  <!--EN: {0} has xeno type: {1}-->
+  <RV2_Settings_Rule_RuleExplanation_Xenotype>{0}具有异种体类型:{1}</RV2_Settings_Rule_RuleExplanation_Xenotype>
+  <!--EN: Ability-->
+  <RV2_Settings_Rule_RuleTargetComponent_Ability>能力</RV2_Settings_Rule_RuleTargetComponent_Ability>
+  <!--EN: Animal Race-->
+  <RV2_Settings_Rule_RuleTargetComponent_AnimalRace>动物种族</RV2_Settings_Rule_RuleTargetComponent_AnimalRace>
+  <!--EN: Apparel-->
+  <RV2_Settings_Rule_RuleTargetComponent_Apparel>衣物</RV2_Settings_Rule_RuleTargetComponent_Apparel>
+  <!--EN: Colony Relation-->
+  <RV2_Settings_Rule_RuleTargetComponent_ColonyRelation>殖民地关系</RV2_Settings_Rule_RuleTargetComponent_ColonyRelation>
+  <!--EN: Combination-->
+  <RV2_Settings_Rule_RuleTargetComponent_Combinator>组合</RV2_Settings_Rule_RuleTargetComponent_Combinator>
+  <!--EN: And-->
+  <RV2_Settings_Rule_RuleTargetComponent_Combinator_And>和</RV2_Settings_Rule_RuleTargetComponent_Combinator_And>
+  <!--EN: Or-->
+  <RV2_Settings_Rule_RuleTargetComponent_Combinator_Or>或</RV2_Settings_Rule_RuleTargetComponent_Combinator_Or>
+  <!--EN: Diet-->
+  <RV2_Settings_Rule_RuleTargetComponent_Diet>饮食</RV2_Settings_Rule_RuleTargetComponent_Diet>
+  <!--EN: Everyone-->
+  <RV2_Settings_Rule_RuleTargetComponent_Everyone>所有人</RV2_Settings_Rule_RuleTargetComponent_Everyone>
+  <!--EN: Gender-->
+  <RV2_Settings_Rule_RuleTargetComponent_Gender>性别</RV2_Settings_Rule_RuleTargetComponent_Gender>
+  <!--EN: Hediff-->
+  <RV2_Settings_Rule_RuleTargetComponent_Hediff>狂奔</RV2_Settings_Rule_RuleTargetComponent_Hediff>
+  <!--EN: Inverted-->
+  <RV2_Settings_Rule_RuleTargetComponent_Inverted>反向选择</RV2_Settings_Rule_RuleTargetComponent_Inverted>
+  <!--EN: New Component-->
+  <RV2_Settings_Rule_RuleTargetComponent_NewComponent>新零部件</RV2_Settings_Rule_RuleTargetComponent_NewComponent>
+  <!--EN: Ideology Precept-->
+  <RV2_Settings_Rule_RuleTargetComponent_Precept>文化戒律</RV2_Settings_Rule_RuleTargetComponent_Precept>
+  <!--EN: Quirk-->
+  <RV2_Settings_Rule_RuleTargetComponent_Quirk>古怪</RV2_Settings_Rule_RuleTargetComponent_Quirk>
+  <!--EN: Race-->
+  <RV2_Settings_Rule_RuleTargetComponent_Race>种族</RV2_Settings_Rule_RuleTargetComponent_Race>
+  <!--EN: Royal Title-->
+  <RV2_Settings_Rule_RuleTargetComponent_RoyalTitle>荣誉头衔</RV2_Settings_Rule_RuleTargetComponent_RoyalTitle>
+  <!--EN: Faction-->
+  <RV2_Settings_Rule_RuleTargetComponent_RoyalTitle_Faction>派系</RV2_Settings_Rule_RuleTargetComponent_RoyalTitle_Faction>
+  <!--EN: Work Type-->
+  <RV2_Settings_Rule_RuleTargetComponent_WorkType>工作类型</RV2_Settings_Rule_RuleTargetComponent_WorkType>
+  <!--EN: Xenotype-->
+  <RV2_Settings_Rule_RuleTargetComponent_Xenotype>异种人</RV2_Settings_Rule_RuleTargetComponent_Xenotype>
+  <!--EN: Auto-vore?-->
+  <RV2_Settings_Rules_AllowedInAutoVore>自动吃人什么？</RV2_Settings_Rules_AllowedInAutoVore>
+  <!--EN: Disabling this means the pawns can not use this path for automatically initiated vore-->
+  <RV2_Settings_Rules_AllowedInAutoVore_Tip>禁用意味着 pawns 无法将此路径用于自动初始化的路径吃人</RV2_Settings_Rules_AllowedInAutoVore_Tip>
+  <!--EN: Currently not allowed to automatically initiate vore\nClick to turn on-->
+  <RV2_Settings_Rules_AutoVoreOff>当前不允许自动初始化吃人
+点击以开启</RV2_Settings_Rules_AutoVoreOff>
+  <!--EN: Currently allowed to automatically initiate vore\nClick to turn off-->
+  <RV2_Settings_Rules_AutoVoreOn>目前允许自动初始化吃人
+点击关闭</RV2_Settings_Rules_AutoVoreOn>
+  <!--EN: Cancel-->
+  <RV2_Settings_Rules_Cancel>取消</RV2_Settings_Rules_Cancel>
+  <!--EN: RimVore-2 [B] Rules-->
+  <RV2_Settings_Rules_Category>缔约 RimVore-2[B]规矩</RV2_Settings_Rules_Category>
+  <!--EN: Consider minimum age?-->
+  <RV2_Settings_Rules_ConsiderMinimumAge>考虑最低年龄？</RV2_Settings_Rules_ConsiderMinimumAge>
+  <!--EN: Container-->
+  <RV2_Settings_Rules_Container>集装箱</RV2_Settings_Rules_Container>
+  <!--EN: Setting this will "wrap" the products of this vore path. Normally this is to be used to contain the products of digestive vore.-->
+  <RV2_Settings_Rules_Container_Tip>设置此将 “包装” 此产品吃人路径。通常情况下，这将用于包含消化产物。吃人</RV2_Settings_Rules_Container_Tip>
+  <!--EN: Edit rule order-->
+  <RV2_Settings_Rules_Controls>编辑规则顺序</RV2_Settings_Rules_Controls>
+  <!--EN: Corpse-->
+  <RV2_Settings_Rules_CorpseProcessing>尸体</RV2_Settings_Rules_CorpseProcessing>
+  <!--EN: This controls how produced corpses are treated when they are put into the container. This does not affect items or apparel carried by the pawn, only the corpse itself!\n\nDessicate - Produces skeletons\nRot - Sets the corpse to half of its rot time to become a skeleton\nDestroy - Removes the corpse entirely\nNone - Leaves the corpse alone.-->
+  <RV2_Settings_Rules_CorpseProcessing_Tip>此选项可控制已生产的尸体放入容器后如何处理。这不会影响携带的物品或衣物pawn,只有尸体本身!
+
+产生干燥的骷髅
+腐烂-将尸体设置为腐烂时间的一半，即可变成骷髅
+摧毁-完全移除尸体
+无-别动尸体。</RV2_Settings_Rules_CorpseProcessing_Tip>
+  <!--EN: Currently automatically designated as non endo prey\nClick to turn on-->
+  <RV2_Settings_Rules_DesignatedEndoPreyOff>当前被自动指定为非近亲猎物
+点击以开启</RV2_Settings_Rules_DesignatedEndoPreyOff>
+  <!--EN: Currently automatically designated as endo prey\nClick to turn off-->
+  <RV2_Settings_Rules_DesignatedEndoPreyOn>当前被自动指定为近亲猎物
+点击关闭</RV2_Settings_Rules_DesignatedEndoPreyOn>
+  <!--EN: Currently automatically designated as non fatal prey\nClick to turn on-->
+  <RV2_Settings_Rules_DesignatedFatalPreyOff>当前自动指定为非致命猎物
+点击以开启</RV2_Settings_Rules_DesignatedFatalPreyOff>
+  <!--EN: Currently automatically designated as fatal prey\nClick to turn off-->
+  <RV2_Settings_Rules_DesignatedFatalPreyOn>当前被自动指定为致命猎物
+点击关闭</RV2_Settings_Rules_DesignatedFatalPreyOn>
+  <!--EN: Currently automatically designated as non-predator\nClick to turn on-->
+  <RV2_Settings_Rules_DesignatedPredatorOff>当前被自动指定为非捕食者
+点击以开启</RV2_Settings_Rules_DesignatedPredatorOff>
+  <!--EN: Currently automatically designated as predator\nClick to turn off-->
+  <RV2_Settings_Rules_DesignatedPredatorOn>当前被自动指定为捕食者
+点击关闭</RV2_Settings_Rules_DesignatedPredatorOn>
+  <!--EN: Default Designations-->
+  <RV2_Settings_Rules_Designation>默认标记</RV2_Settings_Rules_Designation>
+  <!--EN: Enabled?-->
+  <RV2_Settings_Rules_Enabled>启用？</RV2_Settings_Rules_Enabled>
+  <!--EN: Allows you to disable the VorePath entirely for the pawns-->
+  <RV2_Settings_Rules_Enabled_Tip>允许你完全禁用 pawns 的 VorePath</RV2_Settings_Rules_Enabled_Tip>
+  <!--EN: General rules-->
+  <RV2_Settings_Rules_General>一般规则</RV2_Settings_Rules_General>
+  <!--EN: Role-->
+  <RV2_Settings_Rules_IdentifierRole>职位</RV2_Settings_Rules_IdentifierRole>
+  <!--EN: Which role does the pawn play for the rule?-->
+  <RV2_Settings_Rules_IdentifierRole_Tip>分配哪一种仪式角色pawn为规则而战？</RV2_Settings_Rules_IdentifierRole_Tip>
+  <!--EN: Type-->
+  <RV2_Settings_Rules_IdentifierType>类型</RV2_Settings_Rules_IdentifierType>
+  <!--EN: What kind of pawn are the rules for?-->
+  <RV2_Settings_Rules_IdentifierType_Tip>什么样的pawn规矩是为了什么？</RV2_Settings_Rules_IdentifierType_Tip>
+  <!--EN: Load preset-->
+  <RV2_Settings_Rules_LoadPreset>载入预设</RV2_Settings_Rules_LoadPreset>
+  <!--EN: Minimum age-->
+  <RV2_Settings_Rules_MinimumAge>最小年龄</RV2_Settings_Rules_MinimumAge>
+  <!--EN: Rule name-->
+  <RV2_Settings_Rules_Name>规则名称</RV2_Settings_Rules_Name>
+  <!--EN: OK-->
+  <RV2_Settings_Rules_OK>健康</RV2_Settings_Rules_OK>
+  <!--EN: Name:-->
+  <RV2_Settings_Rules_PresetName>名字:</RV2_Settings_Rules_PresetName>
+  <!--EN: Remove preset-->
+  <RV2_Settings_Rules_RemovePreset>移除预设</RV2_Settings_Rules_RemovePreset>
+  <!--EN: Required struggles-->
+  <RV2_Settings_Rules_RequiredStruggles>需要战斗</RV2_Settings_Rules_RequiredStruggles>
+  <!--EN: How many successful struggles the prey needs to escape their predator-->
+  <RV2_Settings_Rules_RequiredStruggles_Tip>被捕食的动物成功逃脱所需的次数</RV2_Settings_Rules_RequiredStruggles_Tip>
+  <!--EN: Reset rules-->
+  <RV2_Settings_Rules_Reset>重置规则</RV2_Settings_Rules_Reset>
+  <!--EN: Currently copying previous rules-->
+  <RV2_Settings_Rules_RuleStateCopy>当前正在复制以前的规则</RV2_Settings_Rules_RuleStateCopy>
+  <!--EN: Currently ignoring previous rules and setting to "Disabled"-->
+  <RV2_Settings_Rules_RuleStateOff>当前忽略了之前的规则并且正在设置为 “禁用”</RV2_Settings_Rules_RuleStateOff>
+  <!--EN: Currently ignoring previous rules and setting to "Enabled"-->
+  <RV2_Settings_Rules_RuleStateOn>当前忽略了之前的规则并且设置为 “已启用”</RV2_Settings_Rules_RuleStateOn>
+  <!--EN: Rules-->
+  <RV2_Settings_Rules_RulesHeader>规矩</RV2_Settings_Rules_RulesHeader>
+  <!--EN: Save-->
+  <RV2_Settings_Rules_Save>保存</RV2_Settings_Rules_Save>
+  <!--EN: Save preset-->
+  <RV2_Settings_Rules_SavePreset>保存预设</RV2_Settings_Rules_SavePreset>
+  <!--EN: Struggle-->
+  <RV2_Settings_Rules_StruggleForceMode>挣扎</RV2_Settings_Rules_StruggleForceMode>
+  <!--EN: The occasion in which prey will struggle when they are vored with this vore path.\n\Vore is considered forced when voring downed pawns, forcing proposals or being vored by wild animals and raiders-->
+  <RV2_Settings_Rules_StruggleForceMode_Tip>被捕食的猎物捕获后能挣扎的场合吃人路径。
+\吃人被考虑强迫当 v见倒地的 pawns，强迫求婚，或者被野兽和袭击者打劫</RV2_Settings_Rules_StruggleForceMode_Tip>
+  <!--EN: Target criteria-->
+  <RV2_Settings_Rules_TargetHeader>目标标准</RV2_Settings_Rules_TargetHeader>
+  <!--EN: Currently selected pawn:-->
+  <RV2_Settings_Rules_Target_PawnPickerLabel>当前已选择pawn:</RV2_Settings_Rules_Target_PawnPickerLabel>
+  <!--EN: When playing on a map, you can select a pawn here to use as an example for the rules-->
+  <RV2_Settings_Rules_Target_PawnPickerNoMapActive>在地图上播放时，你可以选择一个pawn此处用作规则的示例</RV2_Settings_Rules_Target_PawnPickerNoMapActive>
+  <!--EN: Pick new-->
+  <RV2_Settings_Rules_Target_PawnPickerPickNew>选择新的</RV2_Settings_Rules_Target_PawnPickerPickNew>
+  <!--EN: Unselect-->
+  <RV2_Settings_Rules_Target_PawnPickerUnselect>取消选择</RV2_Settings_Rules_Target_PawnPickerUnselect>
+  <!--EN: Disable all-->
+  <RV2_Settings_Rules_VorePathsDisableAll>全部禁用</RV2_Settings_Rules_VorePathsDisableAll>
+  <!--EN: Enable all-->
+  <RV2_Settings_Rules_VorePathsEnableAll>全部启用</RV2_Settings_Rules_VorePathsEnableAll>
+  <!--EN: Vore Paths Rules-->
+  <RV2_Settings_Rules_VorePathsHeader>吃人路径规则</RV2_Settings_Rules_VorePathsHeader>
+  <!--EN: Filter settings?-->
+  <RV2_Settings_SearchToolInfo>筛选设置？</RV2_Settings_SearchToolInfo>
+  <!--EN: Enabling this will hide all settings that do not contain the given search text. This includes the tooltip and the set value for settings.\n\nSome basic labels like section text will still be displayed.-->
+  <RV2_Settings_SearchToolInfo_Tip>启用此选项将隐藏不包含给定搜索文本的所有设置。这包括工具提示和设定值。
+
+一些基本的标签，如横断面文本，仍然会显示。</RV2_Settings_SearchToolInfo_Tip>
+  <!--EN: Set all quirk rarities in pool-->
+  <RV2_Settings_SetAllRaritiesPool>在泳池里设置所有古怪的稀有物品</RV2_Settings_SetAllRaritiesPool>
+  <!--EN: All quirks in this pool will be set to the given rarity-->
+  <RV2_Settings_SetAllRaritiesPool_Tip>这个泳池里的所有怪癖都将被设置为稀有度。</RV2_Settings_SetAllRaritiesPool_Tip>
+  <!--EN: Volume modifier-->
+  <RV2_Settings_Sounds_SoundVolumeModifier>音量修改器</RV2_Settings_Sounds_SoundVolumeModifier>
+  <!--EN: Sounds enabled-->
+  <RV2_Settings_Sounds_SoundsEnabled>声音启用</RV2_Settings_Sounds_SoundsEnabled>
+  <!--EN: Cheats-->
+  <RV2_Settings_TabNames_Cheats>骗子</RV2_Settings_TabNames_Cheats>
+  <!--EN: Combat-->
+  <RV2_Settings_TabNames_Combat>战斗</RV2_Settings_TabNames_Combat>
+  <!--EN: Debug-->
+  <RV2_Settings_TabNames_Debug>调试</RV2_Settings_TabNames_Debug>
+  <!--EN: Features-->
+  <RV2_Settings_TabNames_Features>特性</RV2_Settings_TabNames_Features>
+  <!--EN: Fine-Tuning-->
+  <RV2_Settings_TabNames_FineTuning>微调</RV2_Settings_TabNames_FineTuning>
+  <!--EN: Ideology-->
+  <RV2_Settings_TabNames_Ideology>文化</RV2_Settings_TabNames_Ideology>
+  <!--EN: Quirks-->
+  <RV2_Settings_TabNames_Quirks>怪癖</RV2_Settings_TabNames_Quirks>
+  <!--EN: Rules-->
+  <RV2_Settings_TabNames_Rules>规矩</RV2_Settings_TabNames_Rules>
+  <!--EN: Sounds-->
+  <RV2_Settings_TabNames_Sounds>声音</RV2_Settings_TabNames_Sounds>
+  <!--EN: Can be fought after failed vore proposals-->
+  <RV2_settings_Rules_CanBeForcedFailedProposals>可在失败后继续战斗吃人提议</RV2_settings_Rules_CanBeForcedFailedProposals>
+  <!--EN: Allow this pawn to be fought after other denying a vore proposal. If this pawn loses the fight, the initiator will vore their target.\nThis does not imply predator or prey roles!\nThis may lead to this pawn being injured.-->
+  <RV2_settings_Rules_CanBeForcedFailedProposals_Tip>解禁这个pawn在其他人拒绝 a 之后继续战斗吃人求婚。如果这样pawn输掉战斗，发起者意志吃人他们的目标。
+这并不意味着捕食者或猎物的角色!
+这可能会导致pawn正在受伤。</RV2_settings_Rules_CanBeForcedFailedProposals_Tip>
+  <!--EN: Can be forced if downed-->
+  <RV2_settings_Rules_CanBeForcedIfDowned>可以是强迫如果倒地</RV2_settings_Rules_CanBeForcedIfDowned>
+  <!--EN: If this pawn is downed and another colonist proposes vore to them, they will automatically accept the proposal.\nThis does not imply predator or prey roles!-->
+  <RV2_settings_Rules_CanBeForcedIfDowned_Tip>如果这样pawn倒地和另一个殖民者求婚吃人对他们来说，他们会自动接受这个提议。
+这并不意味着捕食者或猎物的角色!</RV2_settings_Rules_CanBeForcedIfDowned_Tip>
+  <!--EN: Can be proposed to-->
+  <RV2_settings_Rules_CanBeProposedTo>可被提议给</RV2_settings_Rules_CanBeProposedTo>
+  <!--EN: Allow vore proposals directed at this pawn? This does not imply predator or prey roles!-->
+  <RV2_settings_Rules_CanBeProposedTo_Tip>解禁吃人针对此的提案pawn什么？这并不意味着捕食者或猎物的角色!</RV2_settings_Rules_CanBeProposedTo_Tip>
+  <!--EN: Can fight after failed vore proposals-->
+  <RV2_settings_Rules_CanForceFailedProposals>能够在失败后战斗吃人提议</RV2_settings_Rules_CanForceFailedProposals>
+  <!--EN: Allow this pawn to fight other pawns if they deny this pawns vore proposal. Upon winning the vore fight, the initiator will then vore the target.\nThis does not imply predator or prey roles!\nThis may lead to this pawn being injured.-->
+  <RV2_settings_Rules_CanForceFailedProposals_Tip>解禁这个pawn与其他棋子战斗，如果他们否认这一点吃人求婚。在赢得吃人战斗中，发起者将吃人目标。
+这并不意味着捕食者或猎物的角色!
+这可能会导致pawn正在受伤。</RV2_settings_Rules_CanForceFailedProposals_Tip>
+  <!--EN: Use path rules-->
+  <RV2_settings_Rules_UsesVorePathRules>使用路径规则</RV2_settings_Rules_UsesVorePathRules>
+  <!--EN: With this option specific vore paths can be enabled or disabled.-->
+  <RV2_settings_Rules_UsesVorePathRules_Tip>特定于此选项吃人可以启用或禁用路径。</RV2_settings_Rules_UsesVorePathRules_Tip>
+</LanguageData>

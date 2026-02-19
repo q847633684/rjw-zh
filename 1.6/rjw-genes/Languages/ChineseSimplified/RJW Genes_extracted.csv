@@ -1,0 +1,467 @@
+key,text,tag,file,type
+rjw_genes_twin_letter,Twins!,rjw_genes_twin_letter,Letters.xml,keyed
+rjw_genes_twin_letter_content,is still in labor and is having twins! Be sure to gather your doctor and additional friends and family to ensure the other baby is also born healthy!,rjw_genes_twin_letter_content,Letters.xml,keyed
+rjw_genes_another_baby_letter,Another baby!,rjw_genes_another_baby_letter,Letters.xml,keyed
+rjw_genes_another_baby_letter_content,is still in labor and is having twins! Be sure to gather your doctor and additional friends and family to ensure the other baby is also born healthy!,rjw_genes_another_baby_letter_content,Letters.xml,keyed
+AbilityDisabledNoFertilinGene,Pawn doesn't have required fertilin gene.,AbilityDisabledNoFertilinGene,Lifeforce.xml,keyed
+AbilityDisabledNoFertilin,Not enough fertilin to cast.,AbilityDisabledNoFertilin,Lifeforce.xml,keyed
+MentalBreakNoFertilin,This happened because of low fertilin.,MentalBreakNoFertilin,Lifeforce.xml,keyed
+AlertLowFertilin,Low fertilin,AlertLowFertilin,Lifeforce.xml,keyed
+AlertLowFertilinDesc,A colonist has low fertilin. At this point they are becoming desperate enough to consider rape and bestiality to obtain fertilin (if they didn't already). At zero fertilin they will lose all sense and start raping randomly,AlertLowFertilinDesc,Lifeforce.xml,keyed
+SuccubusLeaving,{0} has fed enough on your colonists and will now leave.,SuccubusLeaving,Lifeforce.xml,keyed
+rjw_genes_sexdemon_visit_incident_label,Dirty dreams,rjw_genes_sexdemon_visit_incident_label,Lifeforce.xml,keyed
+rjw_genes_sexdemon_visit_incident_description,"The dirty dreams of your colonists have attracted succubi.\n\nThey will hang around for a couple of days trying to seduce your colonists. They may decide to join your colony, if they are impressed by your colonists's sexual prowess.",rjw_genes_sexdemon_visit_incident_description,Lifeforce.xml,keyed
+rjw_genes_succubus_joins_letter_label,Guest Joins,rjw_genes_succubus_joins_letter_label,Lifeforce.xml,keyed
+rjw_genes_succubus_joins_letter_description,{0} enjoys it here and has decided to stay.,rjw_genes_succubus_joins_letter_description,Lifeforce.xml,keyed
+rjw_genes_settings_genitalia_resizing_age,Genitalia resizing age:,rjw_genes_settings_genitalia_resizing_age,Mod_Settings.xml,keyed
+rjw_genes_settings_genitalia_resizing_postfix,years,rjw_genes_settings_genitalia_resizing_postfix,Mod_Settings.xml,keyed
+rjw_genes_settings_genitalia_resizing_age_explanation,"At this age (in biological years) any resizing gene will be applied. This is done to prevent changes and issues related to genitalia changing in the pawns growth, but also for 'ethics'.",rjw_genes_settings_genitalia_resizing_age_explanation,Mod_Settings.xml,keyed
+rjw_genes_settings_fertilin_gain_from_animals,Fertilin-Gain from Animals:,rjw_genes_settings_fertilin_gain_from_animals,Mod_Settings.xml,keyed
+rjw_genes_settings_fertilin_gain_from_animals_explanation,% of fertilin gained (compared to human-baseline).,rjw_genes_settings_fertilin_gain_from_animals_explanation,Mod_Settings.xml,keyed
+rjw_genes_settings_sexdemon_spawn_key,Sexdemon Visits,rjw_genes_settings_sexdemon_spawn_key,Mod_Settings.xml,keyed
+rjw_genes_settings_sexdemon_spawn_explanation,"If enabled, incubi and succubi can spawn in through an event.",rjw_genes_settings_sexdemon_spawn_explanation,Mod_Settings.xml,keyed
+rjw_genes_settings_sexdemon_size_matters_key,Size matters,rjw_genes_settings_sexdemon_size_matters_key,Mod_Settings.xml,keyed
+rjw_genes_settings_sexdemon_size_matters_explanation,Incubi and succubi will consider size/tightness of partners genital for deciding if they want to join,rjw_genes_settings_sexdemon_size_matters_explanation,Mod_Settings.xml,keyed
+rjw_genes_settings_sexdemon_group_spawn_key,Sexdemon groups,rjw_genes_settings_sexdemon_group_spawn_key,Mod_Settings.xml,keyed
+rjw_genes_settings_sexdemon_group_spawn_explanation,Multiple sexdemons can spawn during a event,rjw_genes_settings_sexdemon_group_spawn_explanation,Mod_Settings.xml,keyed
+rjw_genes_settings_sexdemon_succubi_spawn_key,Succubi,rjw_genes_settings_sexdemon_succubi_spawn_key,Mod_Settings.xml,keyed
+rjw_genes_settings_sexdemon_succubi_spawn_explanation,Allow Succubi to spawn through this event,rjw_genes_settings_sexdemon_succubi_spawn_explanation,Mod_Settings.xml,keyed
+rjw_genes_settings_sexdemon_incubi_spawn_key,Incubi,rjw_genes_settings_sexdemon_incubi_spawn_key,Mod_Settings.xml,keyed
+rjw_genes_settings_sexdemon_incubi_spawn_explanation,Allow Incubi to spawn through this event,rjw_genes_settings_sexdemon_incubi_spawn_explanation,Mod_Settings.xml,keyed
+rjw_genes_settings_regret_stealing_love_key,Regret Stealing Love,rjw_genes_settings_regret_stealing_love_key,Mod_Settings.xml,keyed
+rjw_genes_settings_regret_stealing_love_explanation,"If off, pawns will not get bad thoughts for seduction.",rjw_genes_settings_regret_stealing_love_explanation,Mod_Settings.xml,keyed
+rjw_genes_settings_animal_mating_needs_penis_key,Animal-Mating GenitalCheck,rjw_genes_settings_animal_mating_needs_penis_key,Mod_Settings.xml,keyed
+rjw_genes_settings_animal_mating_needs_penis_explanation,"If on, only animals that 'can rape' will be engaging in bestiality after being hit by a animal mating pulse. This usually means that only male animals will start breeding.",rjw_genes_settings_animal_mating_needs_penis_explanation,Mod_Settings.xml,keyed
+rjw_genes_genetic_disease_header_key,Genetic STDS,rjw_genes_genetic_disease_header_key,Mod_Settings.xml,keyed
+rjw_genes_settings_genetic_disease_spread_key,Genetic STD Spread,rjw_genes_settings_genetic_disease_spread_key,Mod_Settings.xml,keyed
+rjw_genes_settings_genetic_disease_spread_explanation,"If checked, certain Genes will spread on sex.",rjw_genes_settings_genetic_disease_spread_explanation,Mod_Settings.xml,keyed
+rjw_genes_genetic_disease_as_endogenes_key,Genetic STDs as Endogenes,rjw_genes_genetic_disease_as_endogenes_key,Mod_Settings.xml,keyed
+rjw_genes_genetic_disease_as_endogenes_explanation,"If checked, genetic diseases will be added as Endogenes. Otherwise they are added as Xenogenes.",rjw_genes_genetic_disease_as_endogenes_explanation,Mod_Settings.xml,keyed
+rjw_genes_genetic_disease_spread_only_on_penetrative_sex_key,Genetic STDs on penetrative-sex only,rjw_genes_genetic_disease_spread_only_on_penetrative_sex_key,Mod_Settings.xml,keyed
+rjw_genes_genetic_disease_spread_only_on_penetrative_sex_explanation,"If checked, genetic STDs are only spread on penetrative sex. Otherwise, any sextype is considered for spread.",rjw_genes_genetic_disease_spread_only_on_penetrative_sex_explanation,Mod_Settings.xml,keyed
+rjw_genes_settings_generous_donor_cheatmode_key,generous-donor cheatmode,rjw_genes_settings_generous_donor_cheatmode_key,Mod_Settings.xml,keyed
+rjw_genes_settings_generous_donor_cheatmode_explanation,"When enabled, pawns with the 'generous donor' are not drained and not fertilin exhausted. Hence they can fuel succubi and incubi non-stop. This makes them drastically easier to keep, and you should not do it.",rjw_genes_settings_generous_donor_cheatmode_explanation,Mod_Settings.xml,keyed
+rjw_genes_settings_detailed_debug_key,detailed-debug,rjw_genes_settings_detailed_debug_key,Mod_Settings.xml,keyed
+rjw_genes_settings_detailed_debug_explanation,Adds detailed information to the log about interactions and genes.,rjw_genes_settings_detailed_debug_explanation,Mod_Settings.xml,keyed
+StatsReport_NoChildren,Pawn doesn't have any children.,StatsReport_NoChildren,StatsReports.xml,keyed
+StatsReport_ManyChildren,Pawn has a decent amount of children.,StatsReport_ManyChildren,StatsReports.xml,keyed
+StatsReport_VeryManyChildren,Pawn has a lot of children.,StatsReport_VeryManyChildren,StatsReports.xml,keyed
+rjw_genes_ability_cockeater.label,eat cock,label,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_cockeater.description,"Eat the cock of another pawn, restoring fertilin based on the size of the cock.",description,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_cocoonweaver.label,cocoon,label,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_cocoonweaver.description,"Weaves the victim into a (self-sustaining) cocoon. The victim cannot move, but can be bred.",description,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_flight.label,fly,label,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_flight.description,Fly to a short location using your wings.,description,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_flight.verbProperties.label,fly,label,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_mating_call.label,Mating Call,label,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_mating_call.description,Calls nearby animals to breed me.,description,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_naked_prowess.label,naked prowess,label,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_naked_prowess.description,Enhance the strength and resilience of your naked body with fertilin.,description,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_paralysingkiss.label,paralysing kiss,label,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_paralysingkiss.description,Paralyse someone briefly with a kiss.,description,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_pheromone_spit.label,pheromone spit,label,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_pheromone_spit.description,"Spit a condensed ball of animal pheromones to mark a target. Nearby Animals will try to breed the target. This means all animals - hostile, friendly and wild.",description,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_pussyheal.label,sexheal,label,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_pussyheal.description,"Rape another pawn, so you can heal them with your vagina's special healing power.",description,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_seduce.label,seduce,label,AbilityDef/AbilityDef.xml,def
+rjw_genes_ability_seduce.description,Seduce the target to approach the caster.,description,AbilityDef/AbilityDef.xml,def
+rjw_genes_gender.label,gender,label,GeneCategoryDef/GeneCategoryDef.xml,def
+rjw_genes_genitalia_type.label,cosmetic - genitalia type,label,GeneCategoryDef/GeneCategoryDef.xml,def
+rjw_genes_genitalia_extras.label,genitalia count,label,GeneCategoryDef/GeneCategoryDef.xml,def
+rjw_genes_genitalia_size.label,genitalia size / attributes,label,GeneCategoryDef/GeneCategoryDef.xml,def
+rjw_genes_fertilin.label,fertilin,label,GeneCategoryDef/GeneCategoryDef.xml,def
+rjw_genes_breeding.label,breeding,label,GeneCategoryDef/GeneCategoryDef.xml,def
+rjw_genes_fluids.label,fluids,label,GeneCategoryDef/GeneCategoryDef.xml,def
+rjw_genes_damage.label,genital-related damage,label,GeneCategoryDef/GeneCategoryDef.xml,def
+rjw_genes_special.label,genital-based special abilities,label,GeneCategoryDef/GeneCategoryDef.xml,def
+rjw_genes_diseases.label,genetic STDs,label,GeneCategoryDef/GeneCategoryDef.xml,def
+rjw_genes_mechbreeder.label,mechbreeder,label,GeneDef/GeneDef.xml,def
+rjw_genes_mechbreeder.description,Carriers of this gene are able to birth mechanoids unharmed.,description,GeneDef/GeneDef.xml,def
+rjw_genes_zoophile.label,zoophile,label,GeneDef/GeneDef.xml,def
+rjw_genes_zoophile.description,Carriers of this Gene are drawn to animals sexually.,description,GeneDef/GeneDef.xml,def
+rjw_genes_fertile_anus.label,fertile anus,label,GeneDef/GeneDef.xml,def
+rjw_genes_fertile_anus.description,"Carriers of this gene have a functional uterus if they do not possess one by means of their vagina. For males, it is connected to the anal cavity and leads to a normal pregnancy.",description,GeneDef/GeneDef.xml,def
+rjw_genes_insectincubator.label,insect incubator,label,GeneDef/GeneDef.xml,def
+rjw_genes_insectincubator.description,Carriers of this gene fertilize insect eggs that are placed inside them.,description,GeneDef/GeneDef.xml,def
+rjw_genes_insectbreeder.label,insect breeder,label,GeneDef/GeneDef.xml,def
+rjw_genes_insectbreeder.description,Carriers of this gene are able to fertilize eggs with any fertile penis.,description,GeneDef/GeneDef.xml,def
+rjw_genes_fervent_ovipositor.label,fervent ovipositor,label,GeneDef/GeneDef.xml,def
+rjw_genes_fervent_ovipositor.description,Carriers of this gene that have a female (egg producing) ovipositor produce eggs at drastically increased speed.,description,GeneDef/GeneDef.xml,def
+rjw_genes_mating_call.label,mating call,label,GeneDef/GeneDef.xml,def
+rjw_genes_mating_call.description,Carriers of this gene are able to call nearby animals and invite them for mating.,description,GeneDef/GeneDef.xml,def
+rjw_genes_pheromone_spit.label,pheromone spit,label,GeneDef/GeneDef.xml,def
+rjw_genes_pheromone_spit.description,"Carriers of this gene are able to release a burst of pheremones on another, making them desirable and breedable to nearby animals.",description,GeneDef/GeneDef.xml,def
+rjw_genes_hardwired_progenity.label,hardwired progenity,label,GeneDef/GeneDef.xml,def
+rjw_genes_hardwired_progenity.description,"Carriers of this gene need to procreate. They suffer negative effects if they are childless, and have increased capabilities if they reach a high amount of offsprings.",description,GeneDef/GeneDef.xml,def
+rjw_genes_basic_rut.label,rut,label,GeneDef/GeneDef.xml,def
+rjw_genes_basic_rut.description,"Carriers of this gene can enter a state of heat, resulting in drastically higher sexual activity.",description,GeneDef/GeneDef.xml,def
+rjw_genes_succubus_wings.label,succubus wings,label,GeneDef/GeneDef.xml,def
+rjw_genes_succubus_wings.description,Carriers of this gene grow succubus wings.,description,GeneDef/GeneDef.xml,def
+rjw_genes_succubus_tail.label,succubus tail,label,GeneDef/GeneDef.xml,def
+rjw_genes_succubus_tail.description,Carriers of this gene grow a slender tail ending with a heart that can act as a dexterous fifth limb.,description,GeneDef/GeneDef.xml,def
+rjw_genes_unbreakable.label,unbreakable,label,GeneDef/GeneDef.xml,def
+rjw_genes_unbreakable.description,Carriers of this gene are unable to get mood or social penalties from being raped and they cannot be broken for a long period of time.,description,GeneDef/GeneDef.xml,def
+rjw_genes_elasticity.label,elasticity,label,GeneDef/GeneDef.xml,def
+rjw_genes_elasticity.description,This Xenotype does not suffer any injury from being stretched by large penetrations or large volumes of fluid.,description,GeneDef/GeneDef.xml,def
+rjw_genes_genetic_disease_immunity.label,genetic disease immunity,label,GeneDef/GeneDef.xml,def
+rjw_genes_genetic_disease_immunity.description,Carriers of this gene are immune against genetic STDs and some other genes that imply negative side-effects.,description,GeneDef/GeneDef.xml,def
+rjw_genes_disease_carrier.label,disease carrier,label,GeneDef/GeneDef.xml,def
+rjw_genes_disease_carrier.description,"Carriers of this gene are asymptomatic to genetic STDs, yet they are capable of spreading them on intercourse.",description,GeneDef/GeneDef.xml,def
+rjw_genes_minor_vulnerability.label,minor vulnerability,label,GeneDef/GeneDef.xml,def
+rjw_genes_minor_vulnerability.description,"Carriers of this gene are a bit more vulnerable, and a slightly more attractive target for rape.",description,GeneDef/GeneDef.xml,def
+rjw_genes_major_vulnerability.label,major vulnerability,label,GeneDef/GeneDef.xml,def
+rjw_genes_major_vulnerability.description,"Carriers of this gene are more vulnerable, and a more attractive target for rape.",description,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_blocked_masturbation.label,infectious masturbation block,label,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_blocked_masturbation.description,Carriers of this gene are unable to masturbate - they need a partner or equipment.,description,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_low_fertility.label,infectious low fertility vulnerability,label,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_low_fertility.description,Carriers of this genetic disease have lower fertility.,description,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_increased_sex_need.label,infectious increased sexneed,label,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_increased_sex_need.description,Carriers of this genetic disease need more sex.,description,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_major_increased_sex_need.label,major infectious increased sexneed,label,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_major_increased_sex_need.description,Carriers of this genetic disease need a lot more sex.,description,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_hypersexuality.label,infectious hypersexuality,label,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_hypersexuality.description,"Carriers of this genetic disease are hypersexual, and have a chance to spread this gene during intercourse.",description,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_bisexuality.label,infectious bisexuality,label,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_bisexuality.description,"Carriers of this genetic disease are bisexual, and have a chance to spread this gene during intercourse.",description,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_homosexuality.label,infectious homosexuality,label,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_homosexuality.description,"Carriers of this genetic diseases are homosexual, and have a chance to spread this gene during intercourse.",description,GeneDef/GeneDef.xml,def
+rjw_genes_fluctual_sexual_needs.label,fluctual sexual needs,label,GeneDef/GeneDef.xml,def
+rjw_genes_fluctual_sexual_needs.description,"Carriers of this genetic disease have a chance to suddenly require sex, gaining a bit of energy to find quick relief.",description,GeneDef/GeneDef.xml,def
+rjw_genes_size_blinded.label,size blinded,label,GeneDef/GeneDef.xml,def
+rjw_genes_size_blinded.description,Carriers of this genetic disease are dramatically more drawn to pawns with huge cocks.,description,GeneDef/GeneDef.xml,def
+rjw_genes_stretcher.label,genetic stretcher,label,GeneDef/GeneDef.xml,def
+rjw_genes_stretcher.description,Carriers of this gene have a chance to alter the genes of their sexual partners to prefer large cocks.,description,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_rut.label,Rut,label,GeneDef/GeneDef.xml,def
+rjw_genes_infectious_rut.description,"Carriers of this gene can enter a state of heat, resulting in drastically higher sexual activity.",description,GeneDef/GeneDef.xml,def
+rjw_genes_extra_penis.label,extra penis,label,GeneDef/GeneDef.xml,def
+rjw_genes_extra_penis.description,Male Carriers with this gene grow an additional penis .,description,GeneDef/GeneDef.xml,def
+rjw_genes_no_penis.label,no penis,label,GeneDef/GeneDef.xml,def
+rjw_genes_no_penis.description,Male Carriers of this gene do not have a penis.,description,GeneDef/GeneDef.xml,def
+rjw_genes_extra_vagina.label,extra vagina,label,GeneDef/GeneDef.xml,def
+rjw_genes_extra_vagina.description,Female Carriers with this gene grow an additional vagina .,description,GeneDef/GeneDef.xml,def
+rjw_genes_no_vagina.label,no vagina,label,GeneDef/GeneDef.xml,def
+rjw_genes_no_vagina.description,Female Carriers of this gene do not have a vagina.,description,GeneDef/GeneDef.xml,def
+rjw_genes_extra_breasts.label,extra breasts,label,GeneDef/GeneDef.xml,def
+rjw_genes_extra_breasts.description,Female Carriers of this gene grow an additional pair of breasts .,description,GeneDef/GeneDef.xml,def
+rjw_genes_no_breasts.label,no breasts,label,GeneDef/GeneDef.xml,def
+rjw_genes_no_breasts.description,"Female Carriers of this gene do not have a pair of breasts, but only nipples.",description,GeneDef/GeneDef.xml,def
+rjw_genes_extra_anus.label,extra anus,label,GeneDef/GeneDef.xml,def
+rjw_genes_extra_anus.description,Carriers of this gene have an extra anus.,description,GeneDef/GeneDef.xml,def
+rjw_genes_no_anus.label,no anus,label,GeneDef/GeneDef.xml,def
+rjw_genes_no_anus.description,Carriers of this gene have no anus.,description,GeneDef/GeneDef.xml,def
+rjw_genes_futa.label,futanari,label,GeneDef/GeneDef.xml,def
+rjw_genes_futa.description,"Male Carriers of this gene grow additional female genitalia, Female Carriers grow additional male genitalia.",description,GeneDef/GeneDef.xml,def
+rjw_genes_femboy.label,femboy,label,GeneDef/GeneDef.xml,def
+rjw_genes_femboy.description,Male Carriers of this gene are considered female despite having a penis,description,GeneDef/GeneDef.xml,def
+rjw_genes_featureless_chest.label,featureless chest,label,GeneDef/GeneDef.xml,def
+rjw_genes_featureless_chest.description,Carriers of this gene do not have breasts or nipples.,description,GeneDef/GeneDef.xml,def
+rjw_genes_udder.label,udder,label,GeneDef/GeneDef.xml,def
+rjw_genes_udder.description,Carriers of this gene have udders and breasts.,description,GeneDef/GeneDef.xml,def
+rjw_genes_no_fluid.label,no fluid,label,GeneDef/GeneDef.xml,def
+rjw_genes_no_fluid.description,Carriers of this gene produce no sexual fluids.,description,GeneDef/GeneDef.xml,def
+rjw_genes_much_fluid.label,much fluid,label,GeneDef/GeneDef.xml,def
+rjw_genes_much_fluid.description,Carriers of this gene produce a lot of sexual fluids.,description,GeneDef/GeneDef.xml,def
+rjw_genes_very_much_fluid.label,very much fluid,label,GeneDef/GeneDef.xml,def
+rjw_genes_very_much_fluid.description,Carriers of this gene produce an excessive amount of sexual fluids.,description,GeneDef/GeneDef.xml,def
+rjw_genes_fluid_insect_spunk.label,insect spunk,label,GeneDef/GeneDef.xml,def
+rjw_genes_fluid_insect_spunk.description,Carriers of this gene produce insect spunk instead of cum.,description,GeneDef/GeneDef.xml,def
+rjw_genes_fluid_cum_breasts.label,cum milk,label,GeneDef/GeneDef.xml,def
+rjw_genes_fluid_cum_breasts.description,Carriers of this gene produce cum from their breasts instead of milk.,description,GeneDef/GeneDef.xml,def
+rjw_genes_fluid_milk_penis.label,milk cum,label,GeneDef/GeneDef.xml,def
+rjw_genes_fluid_milk_penis.description,Carriers of this gene produce milk from their penis instead of cum.,description,GeneDef/GeneDef.xml,def
+rjw_genes_generous_donor.label,generous donor,label,GeneDef/GeneDef.xml,def
+rjw_genes_generous_donor.description,"When this Xenotype transfers fluids during sex, the giver will not get hungry.",description,GeneDef/GeneDef.xml,def
+rjw_genes_big_male_genitalia.label,big male genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_big_male_genitalia.description,Carriers of this gene have larger penises.(Resizing takes place at 20th Birthday),description,GeneDef/GeneDef.xml,def
+rjw_genes_small_male_genitalia.label,small male genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_small_male_genitalia.description,Carriers of this gene have smaller penises. (Resizing takes place at 20th Birthday),description,GeneDef/GeneDef.xml,def
+rjw_genes_loose_female_genitalia.label,loose female genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_loose_female_genitalia.description,Carriers of this gene have spacious vaginas. (Resizing takes place at 20th Birthday),description,GeneDef/GeneDef.xml,def
+rjw_genes_tight_female_genitalia.label,tight female genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_tight_female_genitalia.description,Carriers of this gene have tight vaginas.(Resizing takes place at 20th Birthday),description,GeneDef/GeneDef.xml,def
+rjw_genes_big_breasts.label,big breasts,label,GeneDef/GeneDef.xml,def
+rjw_genes_big_breasts.description,Carriers of this gene have larger breasts.(Resizing takes place at 20th Birthday),description,GeneDef/GeneDef.xml,def
+rjw_genes_small_breasts.label,small breasts,label,GeneDef/GeneDef.xml,def
+rjw_genes_small_breasts.description,Carriers of this gene have smaller breasts.(Resizing takes place at 20th Birthday),description,GeneDef/GeneDef.xml,def
+rjw_genes_loose_anus.label,loose anus,label,GeneDef/GeneDef.xml,def
+rjw_genes_loose_anus.description,Carriers of this gene have a spacious anus.(Resizing takes place at 20th Birthday),description,GeneDef/GeneDef.xml,def
+rjw_genes_tight_anus.label,tight anus,label,GeneDef/GeneDef.xml,def
+rjw_genes_tight_anus.description,Carriers of this gene have a tight anus.(Resizing takes place at 20th Birthday),description,GeneDef/GeneDef.xml,def
+rjw_genes_evergrowth.label,evergrowth,label,GeneDef/GeneDef.xml,def
+rjw_genes_evergrowth.description,One of the most regretted gene-modifications in the Glitterworlds: The (primary) genitalia will continue growing forever. This affects size and fluid output. Excessive growth can also effect mental stability! (Resizing takes place at 20th Birthday),description,GeneDef/GeneDef.xml,def
+rjw_genes_equine_genitalia.label,equine genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_equine_genitalia.description,Carriers of this gene develop equine genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_human_genitalia.label,human genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_human_genitalia.description,Carriers of this gene develop human genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_canine_genitalia.label,canine genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_canine_genitalia.description,Carriers of this gene develop canine genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_feline_genitalia.label,feline genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_feline_genitalia.description,Carriers of this gene develop feline genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_demonic_genitalia.label,demonic genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_demonic_genitalia.description,Carriers of this gene have demonic genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_dragon_genitalia.label,dragon genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_dragon_genitalia.description,Carriers of this gene develop dragon genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_slime_genitalia.label,slime genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_slime_genitalia.description,Carriers of this gene have slime genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_demonicT_genitalia.label,demonic tentacle genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_demonicT_genitalia.description,Carriers of this gene have demonic tentacle genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_crocodilian_genitalia.label,crocodilian genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_crocodilian_genitalia.description,Carriers of this gene have crocodilian genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_racoon_genitalia.label,racoon genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_racoon_genitalia.description,Carriers of this gene have racoon genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_reptilian_genitalia.label,reptilian genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_reptilian_genitalia.description,Carriers of this gene have reptilian genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_Needle_genitalia.label,narrow genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_Needle_genitalia.description,Carriers of this gene have very thin genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_ovipositor_genitalia.label,insect genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_ovipositor_genitalia.description,Carriers of this gene have ovipositors similar to insects.,description,GeneDef/GeneDef.xml,def
+rjw_genes_rodent_genitalia.label,rodent genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_rodent_genitalia.description,Carriers of this gene develop rodent genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_cloacal_genitalia.label,cloacal genitalia,label,GeneDef/GeneDef.xml,def
+rjw_genes_cloacal_genitalia.description,Carriers of this gene develop cloacal genitalia.,description,GeneDef/GeneDef.xml,def
+rjw_genes_lifeforce.label,fertilin,label,GeneDef/GeneDef.xml,def
+rjw_genes_lifeforce.description,"Carriers of this gene have a reserve of biological strength powered by a resource called fertilin. The resource can be gained and spent in various ways, some of which are unlocked by other genes.\n\nCarriers lose 5 fertilin per day from biological entropy. \n\nGene is inactive until carrier is able to have sex.",description,GeneDef/GeneDef.xml,def
+rjw_genes_lifeforce_drain.label,fertilin drain,label,GeneDef/GeneDef.xml,def
+rjw_genes_lifeforce_drain.description,Carriers lose an additional 7.5 fertilin per day from biological entropy.,description,GeneDef/GeneDef.xml,def
+rjw_genes_pussyhealing.label,pussy healer,label,GeneDef/GeneDef.xml,def
+rjw_genes_pussyhealing.description,Carriers of this gene are able use vaginal sex to tend to other's wounds.,description,GeneDef/GeneDef.xml,def
+rjw_genes_cockeater.label,cockeater,label,GeneDef/GeneDef.xml,def
+rjw_genes_cockeater.description,Carriers of this gene are able eat cocks to restore their fertilin supply. Cocks are consumed during this process.,description,GeneDef/GeneDef.xml,def
+rjw_genes_paralysingkiss.label,paralysing kiss,label,GeneDef/GeneDef.xml,def
+rjw_genes_paralysingkiss.description,Carriers of this gene are able to briefly stun an enemy with a kiss.,description,GeneDef/GeneDef.xml,def
+rjw_genes_seduce.label,seduction,label,GeneDef/GeneDef.xml,def
+rjw_genes_seduce.description,Carriers of this gene are able to seduce a pawn into having sex with them.,description,GeneDef/GeneDef.xml,def
+rjw_genes_naked_prowess.label,naked prowess,label,GeneDef/GeneDef.xml,def
+rjw_genes_naked_prowess.description,"Carriers of this gene are able to temporarily increase their strength and resilience, while they are naked.",description,GeneDef/GeneDef.xml,def
+rjw_genes_cum_eater.label,cum eater,label,GeneDef/GeneDef.xml,def
+rjw_genes_cum_eater.description,"Carriers of this gene are able to absorb fertilin through eating cum. This includes oral sex, eating cum for food or sucking out cumflated pawns.",description,GeneDef/GeneDef.xml,def
+rjw_genes_fertilin_absorber.label,fertilin absorber,label,GeneDef/GeneDef.xml,def
+rjw_genes_fertilin_absorber.description,Carriers of this gene are able to absorb the fertilin inside sperm through their vagina and anus.,description,GeneDef/GeneDef.xml,def
+rjw_genes_lifeforce_empath.label,empathic fertilin,label,GeneDef/GeneDef.xml,def
+rjw_genes_lifeforce_empath.description,Carriers of this gene generate fertilin if nearby pawns are sexually satisfied. Be careful: Sexually frustrated pawns will make your empath loose fertilin!,description,GeneDef/GeneDef.xml,def
+rjw_genes_drainer.label,vitality drainer,label,GeneDef/GeneDef.xml,def
+rjw_genes_drainer.description,Carriers of this gene are able to absorb a great amount of fertilin by draining the vitality of the partner. This is done passively through having sex with a non-drained pawn that does not have this gene.,description,GeneDef/GeneDef.xml,def
+rjw_genes_hypersexual.label,hypersexuality,label,GeneDef/GeneDef.xml,def
+rjw_genes_hypersexual.description,Carriers of this Gene are Hypersexual (Nymphs).,description,GeneDef/GeneDef.xml,def
+rjw_genes_rapist.label,rapist,label,GeneDef/GeneDef.xml,def
+rjw_genes_rapist.description,Carriers of this gene are more inclined to force themselves on others sexually.,description,GeneDef/GeneDef.xml,def
+rjw_genes_masochist.label,masochist,label,GeneDef/GeneDef.xml,def
+rjw_genes_masochist.description,Carriers of this gene enjoy being the target of pain.,description,GeneDef/GeneDef.xml,def
+rjw_genes_homosexual.label,homosexual,label,GeneDef/GeneDef.xml,def
+rjw_genes_homosexual.description,Carriers of this gene are Homosexuals.,description,GeneDef/GeneDef.xml,def
+rjw_genes_bisexual.label,bisexual,label,GeneDef/GeneDef.xml,def
+rjw_genes_bisexual.description,Carriers of this Gene are Bisexual.,description,GeneDef/GeneDef.xml,def
+rjw_genes_no_sex_need.label,asexual,label,GeneDef/GeneDef.xml,def
+rjw_genes_no_sex_need.description,"Carriers of this gene are not sexually interested in other pawns. They still can participate in sex, but their sex-need does not decline over time.",description,GeneDef/GeneDef.xml,def
+rjw_genes_littered_births.label,littered births,label,GeneDef/GeneDef.xml,def
+rjw_genes_littered_births.description,"Female carriers of this gene birth litters instead of just one baby, with a chance of having two to four babies per pregnancy.",description,GeneDef/GeneDef.xml,def
+rjw_genes_pregnancy_overwrite.label,sperm displacement,label,GeneDef/GeneDef.xml,def
+rjw_genes_pregnancy_overwrite.description,"Carriers of this gene can 'overwrite' an existing pregnancy, keeping the
+            progress but effectively replacing the father.",description,GeneDef/GeneDef.xml,def
+rjw_genes_blocked_masturbation.label,no masturbation,label,GeneDef/GeneDef.xml,def
+rjw_genes_blocked_masturbation.description,Carriers of this gene are unable to masturbate - they need a partner or equipment.,description,GeneDef/GeneDef.xml,def
+rjw_genes_orgasm_rush.label,orgasm rush,label,GeneDef/GeneDef.xml,def
+rjw_genes_orgasm_rush.description,"On orgasm, carriers of this gene get a boost in activity. (rest-need is partially filled)",description,GeneDef/GeneDef.xml,def
+rjw_genes_youth_fountain.label,youth fountain,label,GeneDef/GeneDef.xml,def
+rjw_genes_youth_fountain.description,Carriers of this gene reverse the age of their sexual partners. (Partner stays adult),description,GeneDef/GeneDef.xml,def
+rjw_genes_sex_age_drain.label,sexual age drain,label,GeneDef/GeneDef.xml,def
+rjw_genes_sex_age_drain.description,Carriers of this gene drain the age from their sexual partners. (Pawn stays adult),description,GeneDef/GeneDef.xml,def
+rjw_genes_aphrodisiac_pheromones.label,aphrodisiac pheromones,label,GeneDef/GeneDef.xml,def
+rjw_genes_aphrodisiac_pheromones.description,Carriers of this gene produce and aphrodisiac pheremone making others nearby more sexually needy.,description,GeneDef/GeneDef.xml,def
+rjw_genes_sexual_mytosis.label,orgasmic mytosis,label,GeneDef/GeneDef.xml,def
+rjw_genes_sexual_mytosis.description,"Carriers of this gene have malfunctioning regenerative archites that grow more unstable with ongoing multiple orgasms - climaxing in a process of mytosis. This will result in an (biologically) identical pawn and both twins are set in a regenerative state. Also, the pawn can have multiple orgasms: In a state of higher unstableness, they come quicker.",description,GeneDef/GeneDef.xml,def
+rjw_genes_hormonal_saliva.label,hormonal saliva,label,GeneDef/GeneDef.xml,def
+rjw_genes_hormonal_saliva.description,Carriers of this gene have saliva that stimulates growth in penises. Regular contact will lead to noticable growth.,description,GeneDef/GeneDef.xml,def
+rjw_genes_cocoonweaver.label,cocoon weaver,label,GeneDef/GeneDef.xml,def
+rjw_genes_cocoonweaver.description,Carriers of this gene can produce a cocoon to prepare helpless (or willing) victims for breeding.,description,GeneDef/GeneDef.xml,def
+rjw_genes_sex_tamer.label,sexual tamer,label,GeneDef/GeneDef.xml,def
+rjw_genes_sex_tamer.description,"Carriers of this gene can bestow intelligence and docility to animals during sexual encounters, effectively increasing their training.",description,GeneDef/GeneDef.xml,def
+rjw_genes_sexual_genetic_swap.label,sexual genetic swap,label,GeneDef/GeneDef.xml,def
+rjw_genes_sexual_genetic_swap.description,Carriers of this gene may switch a gene with their sex-partner. Switched Genes are always endogenes.,description,GeneDef/GeneDef.xml,def
+rjw_genes_sexual_genetic_thief.label,sexual gene thief,label,GeneDef/GeneDef.xml,def
+rjw_genes_sexual_genetic_thief.description,Carriers of this gene may steal a gene from their sex-partner. Stolen genes are always xenogenes.,description,GeneDef/GeneDef.xml,def
+rjw_genes_feminizer.label,feminizer,label,GeneDef/GeneDef.xml,def
+rjw_genes_feminizer.description,Carriers of this gene slowly turn male sexual partners into females.,description,GeneDef/GeneDef.xml,def
+rjw_genes_twinkifier.label,twinkifier,label,GeneDef/GeneDef.xml,def
+rjw_genes_twinkifier.description,Carriers of this gene slowly turn male sexual partners into breedable cute twinks.,description,GeneDef/GeneDef.xml,def
+rjw_genes_electric_satisfaction.label,electric satisfaction,label,GeneDef/GeneDef.xml,def
+rjw_genes_electric_satisfaction.description,Carriers of this gene produce an electrical charge in nearby electronics during orgasm. This charge is substantial enough to charge batteries.,description,GeneDef/GeneDef.xml,def
+rjw_genes_female_only.label,female,label,GeneDef/GeneDef.xml,def
+rjw_genes_female_only.description,Carriers of this gene are only female.,description,GeneDef/GeneDef.xml,def
+rjw_genes_male_only.label,male,label,GeneDef/GeneDef.xml,def
+rjw_genes_male_only.description,Carriers of this gene are only male.,description,GeneDef/GeneDef.xml,def
+rjw_genes_gender_fluid.label,genderfluid,label,GeneDef/GeneDef.xml,def
+rjw_genes_gender_fluid.description,Carriers of this gene might change their biological sex daily.,description,GeneDef/GeneDef.xml,def
+rjw_genes_succubus.label,succubus,label,XenotypeDef/XenotypeDef.xml,def
+rjw_genes_succubus.description,Succubi are strongly enhanced xenohumans. These overnaturally beautiful creatures strive parasitically on the Fertilin found in semen.,description,XenotypeDef/XenotypeDef.xml,def
+rjw_genes_succubus.descriptionShort,Succubi are beautiful and extremely hungry Xenohumans. They strive on having sex and extracting their victims life-force through this.,descriptionShort,XenotypeDef/XenotypeDef.xml,def
+rjw_genes_incubus.label,incubus,label,XenotypeDef/XenotypeDef.xml,def
+rjw_genes_incubus.description,Incubi are strongly enhanced xenohumans. These overnaturally beautiful creatures strive parasitically on the Fertilin found in semen.,description,XenotypeDef/XenotypeDef.xml,def
+rjw_genes_incubus.descriptionShort,Incubi are beautiful and extremely hungry Xenohumans. They strive on having sex and extracting their victims life-force through this.,descriptionShort,XenotypeDef/XenotypeDef.xml,def
+rjw_genes_cumazone.label,Cumazone,label,XenotypeDef/XenotypeDef.xml,def
+rjw_genes_cumazone.description,"Cumazone are a female only xenotype that excel at melee combat. Originally created as bodyguards for glitterworld amazon communities, they spred to other systems by mere strength and providing for some fetishes. They can use Fertilin to enhance their skin to overpower any combatant in melee. Their only source for Fertilin is biting off male genitalia - so be sure to have a steady supply of victim males or prepare to raid unsuspecting men of the rim.",description,XenotypeDef/XenotypeDef.xml,def
+rjw_genes_cumazone.descriptionShort,"Female only, strong meele fighters, that use Fertilin from bitten-off cocks for powerful buffs.",descriptionShort,XenotypeDef/XenotypeDef.xml,def
+Bioscaffold.label,bioscaffold,label,HediffDef/HediffDef.xml,def
+Bioscaffold.description,"This woman has an bioscaffold mesh within her womb, providing an enriching environment for an unborn baby to grow more quickly.",description,HediffDef/HediffDef.xml,def
+Bioscaffold.label,bioscaffold,label,ThingDef/ThingDef.xml,def
+Bioscaffold.description,A single-use nanite-constructed lattice of organic mesh material meant to be installed inside a woman's womb prior to pregnancy. It provides an enriching environment for an unborn baby to grow more quickly.,description,ThingDef/ThingDef.xml,def
+RemoveBioscaffold.label,remove Bioscaffold,label,RecipeDef/RecipeDef.xml,def
+RemoveBioscaffold.description,Remove the bioscaffold.,description,RecipeDef/RecipeDef.xml,def
+RemoveBioscaffold.jobString,Removing bioscaffold.,jobString,RecipeDef/RecipeDef.xml,def
+rjw_genes_aphrodisiac_pheromone.label,induced libido,label,HediffDef/HediffDef.xml,def
+rjw_genes_aphrodisiac_pheromone.description,sex drive increasing due to smelling aphrodisiac pheromones.,description,HediffDef/HediffDef.xml,def
+rjw_genes_aphrodisiac_pheromone.stages.0.label,wearing off,label,HediffDef/HediffDef.xml,def
+rjw_genes_aphrodisiac_pheromone.stages.1.label,moderate,label,HediffDef/HediffDef.xml,def
+rjw_genes_aphrodisiac_pheromone.stages.2.label,strong,label,HediffDef/HediffDef.xml,def
+rjw_genes_disease_carrier_storage.label,stored genetic diseases,label,HediffDef/HediffDef.xml,def
+rjw_genes_disease_carrier_storage.description,This pawn is capable of carrying genetic diseases without being infected.,description,HediffDef/HediffDef.xml,def
+rjw_genes_disease_carrier_storage.stages.0.label,active,label,HediffDef/HediffDef.xml,def
+rjw_genes_evergrowth_sideeffect.label,genital hybris,label,HediffDef/HediffDef.xml,def
+rjw_genes_evergrowth_sideeffect.description,science has gone too far - a tool like this needs constant attention.,description,HediffDef/HediffDef.xml,def
+rjw_genes_evergrowth_sideeffect.stages.0.label,minor,label,HediffDef/HediffDef.xml,def
+rjw_genes_evergrowth_sideeffect.stages.1.label,moderate,label,HediffDef/HediffDef.xml,def
+rjw_genes_evergrowth_sideeffect.stages.2.label,strong,label,HediffDef/HediffDef.xml,def
+rjw_genes_fertilin_lost.label,lost fertilin,label,HediffDef/HediffDef.xml,def
+rjw_genes_fertilin_lost.description,Percentage of fertilin lost.,description,HediffDef/HediffDef.xml,def
+rjw_genes_succubus_drained.label,Drained,label,HediffDef/HediffDef.xml,def
+rjw_genes_succubus_drained.description,"The vitality of this pawn has been drained. Cannot be drained again until fully
+			recovered.",description,HediffDef/HediffDef.xml,def
+rjw_genes_succubus_drained.stages.0.label,minor,label,HediffDef/HediffDef.xml,def
+rjw_genes_succubus_drained.stages.1.label,moderate,label,HediffDef/HediffDef.xml,def
+rjw_genes_succubus_drained.stages.2.label,severe,label,HediffDef/HediffDef.xml,def
+rjw_genes_fertilin_craving.label,fertilin craving,label,HediffDef/HediffDef.xml,def
+rjw_genes_fertilin_craving.description,weakened due to running out of fertilin.,description,HediffDef/HediffDef.xml,def
+rjw_genes_fertilin_craving.stages.0.label,minor,label,HediffDef/HediffDef.xml,def
+rjw_genes_fertilin_craving.stages.1.label,moderate,label,HediffDef/HediffDef.xml,def
+rjw_genes_fertilin_craving.stages.2.label,major,label,HediffDef/HediffDef.xml,def
+rjw_genes_naked_prowess.label,naked prowss,label,HediffDef/HediffDef.xml,def
+rjw_genes_naked_prowess.description,"Driven by fertilin, this person has greatly increased strength and resilience.",description,HediffDef/HediffDef.xml,def
+rjw_genes_feminization_progress.label,feminization,label,HediffDef/HediffDef.xml,def
+rjw_genes_feminization_progress.description,"Something is changing this pawn - there is a chance to develop female features
+            upon sex.",description,HediffDef/HediffDef.xml,def
+rjw_genes_feminization_progress.stages.0.label,neglectable,label,HediffDef/HediffDef.xml,def
+rjw_genes_feminization_progress.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+rjw_genes_feminization_progress.stages.2.label,severe,label,HediffDef/HediffDef.xml,def
+rjw_genes_feminization_progress.stages.3.label,critical,label,HediffDef/HediffDef.xml,def
+rjw_genes_twinkification_progress.label,twinkification,label,HediffDef/HediffDef.xml,def
+rjw_genes_twinkification_progress.description,"Something is changing this pawn - there is a chance to turn into a cute,
+            breedable twink upon sex.",description,HediffDef/HediffDef.xml,def
+rjw_genes_twinkification_progress.stages.0.label,neglectable,label,HediffDef/HediffDef.xml,def
+rjw_genes_twinkification_progress.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+rjw_genes_twinkification_progress.stages.2.label,severe,label,HediffDef/HediffDef.xml,def
+rjw_genes_twinkification_progress.stages.3.label,critical,label,HediffDef/HediffDef.xml,def
+rjw_genes_orgasmic_mytosis_hediff.label,Orgasmic Instability,label,HediffDef/HediffDef.xml,def
+rjw_genes_orgasmic_mytosis_hediff.description,Xenotypes with this Gene grow more unstable on orgasm - upon reaching critical level they will initate a process of mytosis.,description,HediffDef/HediffDef.xml,def
+rjw_genes_orgasmic_mytosis_hediff.stages.0.label,stable,label,HediffDef/HediffDef.xml,def
+rjw_genes_orgasmic_mytosis_hediff.stages.1.label,agitated,label,HediffDef/HediffDef.xml,def
+rjw_genes_orgasmic_mytosis_hediff.stages.2.label,unstable,label,HediffDef/HediffDef.xml,def
+rjw_genes_orgasmic_mytosis_hediff.stages.3.label,critical,label,HediffDef/HediffDef.xml,def
+rjw_genes_mytosis_shock_hediff.label,Mytosis Shock,label,HediffDef/HediffDef.xml,def
+rjw_genes_mytosis_shock_hediff.description,"Recently underwent (successful) mytosis. As this is a taxing process, some time for regeneration is required. While regenerating, no new mytosis can be started.",description,HediffDef/HediffDef.xml,def
+rjw_genes_mytosis_shock_hediff.stages.0.label,wearing off,label,HediffDef/HediffDef.xml,def
+rjw_genes_mytosis_shock_hediff.stages.1.label,fresh,label,HediffDef/HediffDef.xml,def
+rjw_genes_orgasm_rush_hediff.label,orgasm rush,label,HediffDef/HediffDef.xml,def
+rjw_genes_orgasm_rush_hediff.description,Xenotypes with this Gene are pushed beyond normal limits when they have an orgasm.,description,HediffDef/HediffDef.xml,def
+rjw_genes_orgasm_rush_hediff.stages.0.label,pumped,label,HediffDef/HediffDef.xml,def
+rjw_genes_orgasm_rush_hediff.stages.1.label,charged,label,HediffDef/HediffDef.xml,def
+rjw_genes_orgasm_rush_hediff.stages.2.label,super-charged,label,HediffDef/HediffDef.xml,def
+rjw_genes_genetic_rut.label,Rut,label,HediffDef/HediffDef.xml,def
+rjw_genes_genetic_rut.description,"Based on genetics, this pawn is in heat.",description,HediffDef/HediffDef.xml,def
+rjw_genes_genetic_rut.stages.0.label,calming down,label,HediffDef/HediffDef.xml,def
+rjw_genes_genetic_rut.stages.1.label,in heat,label,HediffDef/HediffDef.xml,def
+LimbicStimulator.label,limbic stimulator,label,HediffDef/HediffDef.xml,def
+LimbicStimulator.labelNoun,limbic stimulator,labelNoun,HediffDef/HediffDef.xml,def
+LimbicStimulator.description,An installed limbic stimulator.,description,HediffDef/HediffDef.xml,def
+LimbicStimulator.label,limbic stimulator,label,ThingDef/ThingDef.xml,def
+LimbicStimulator.description,"A perpetual slow-release chemical stimulation implant that is embedded deep within the reward center of the brain, greatly increasing the need for lovin'. The need is said to become so strong that it can drive people to force themselves onto others, even if they wouldn't otherwise. Post-lovin' clarity will leave the implanted in a state of bliss, but they may also feel a sense of regret if they steal lovin' if they normally wouldn't - at least until they become used to doing it.",description,ThingDef/ThingDef.xml,def
+RemoveLimbicStimulator.label,remove limbic stimulator,label,RecipeDef/RecipeDef.xml,def
+RemoveLimbicStimulator.description,Remove the limbic stimulator.,description,RecipeDef/RecipeDef.xml,def
+RemoveLimbicStimulator.jobString,Removing limbic stimulator.,jobString,RecipeDef/RecipeDef.xml,def
+OvaryAgitator.label,ovary agitator,label,HediffDef/HediffDef.xml,def
+OvaryAgitator.description,An installed ovary agitator.,description,HediffDef/HediffDef.xml,def
+OvaryAgitator.label,ovary agitator,label,ThingDef/ThingDef.xml,def
+OvaryAgitator.description,"A crude slaver implant used to increase the number of eggs released during ovulation, increasing the likelihood of having multiple children per pregnancy. Their use is largely limited to rimworlds lacking in cloning infrastructure as most civilized and unified worlds have outlawed them.\n\nWhile it provides an initial boost in fertility, the implant will slowly deplete the victims's ovaries over several years until they're infertile. Allies of implanted victims will be angered.",description,ThingDef/ThingDef.xml,def
+RemoveOvaryAgitator.label,remove ovary agitator,label,RecipeDef/RecipeDef.xml,def
+RemoveOvaryAgitator.description,Remove the ovary agitator.,description,RecipeDef/RecipeDef.xml,def
+RemoveOvaryAgitator.jobString,Removing ovary agitator.,jobString,RecipeDef/RecipeDef.xml,def
+Scrambler.label,scrambler,label,HediffDef/HediffDef.xml,def
+Scrambler.labelNoun,scrambler,labelNoun,HediffDef/HediffDef.xml,def
+Scrambler.description,An installed scrambler.,description,HediffDef/HediffDef.xml,def
+Scrambler.label,scrambler,label,ThingDef/ThingDef.xml,def
+Scrambler.description,"A slaver implant, similar to the mindscrew, that can inject disorienting mind imagery directly into the visual cortex of the brain through a complex network of nanoelectrodes. Victims of scrambler implantation tend to socially withdraw to minimize additional stimulation. As a consequence of their confusion, they also become physically meek, making them easy to impose upon. Allies of implanted victims will be angered.",description,ThingDef/ThingDef.xml,def
+rjw_genes_GoodwillChangedReason_StoleGene.label,Stole a gene,label,HistoryEventDef/HistoryEventDef.xml,def
+rjw_genes_GoodwillChangedReason_infected_with_disease.label,Infected a pawn with a genetic disease,label,HistoryEventDef/HistoryEventDef.xml,def
+rjw_genes_GoodwillChangedReason_spread_genetic_disease.label,Spread a genetic disease,label,HistoryEventDef/HistoryEventDef.xml,def
+rjw_genes_GoodwillChangedReason_aged_pawn_with_sex_gene.label,Aged a pawn with sexual age transfer,label,HistoryEventDef/HistoryEventDef.xml,def
+rjw_genes_GoodwillChangedReason_youthed_pawn_with_sex_gene.label,Youthed a pawn with youth fountain,label,HistoryEventDef/HistoryEventDef.xml,def
+rjw_genes_GoodwillChangedReason_OverwritePregnancy.label,Replaced a pregnancy,label,HistoryEventDef/HistoryEventDef.xml,def
+SuccubusDreamVisit.label,dirty dreams,label,IncidentDef/IncidentDef.xml,def
+rjw_genes_flirt.label,flirt,label,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.3,talkedabout(p=4)->chatted about,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.4,talkedabout->shared a word about,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.5,talkedabout->spoke about,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.6,talkedabout->gabbed about,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.7,talkedabout->talked about,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.8,talkedabout->joked about,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.9,talkedabout->quipped about,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.10,commentedabout->said something about,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.11,commentedabout->said a word about,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.12,commentedabout->made a comment about,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.13,commentedabout->commented about,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_flirt.logRulesInitiator.rulesStrings.14,commentedabout->told a joke about,li,InteractionDef/InteractionDef.xml,def
+rjw_genes_lifeforce_randomrape.reportString,raping,reportString,JobDef/JobDef.xml,def
+rjw_genes_lifeforce_healpussy.reportString,tending wounds with sex.,reportString,JobDef/JobDef.xml,def
+rjw_genes_lifeforce_seduced.reportString,seduced.,reportString,JobDef/JobDef.xml,def
+rjw_genes_flirt.reportString,seduced.,reportString,JobDef/JobDef.xml,def
+sex_on_spot.reportString,making love on the spot.,reportString,JobDef/JobDef.xml,def
+sex_on_spot_reciever.reportString,lovin'.,reportString,JobDef/JobDef.xml,def
+rjw_genes_lifeforce_randomrape.label,random rape,label,MentalStateDef/MentalStateDef.xml,def
+rjw_genes_lifeforce_randomrape.beginLetterLabel,random rape,beginLetterLabel,MentalStateDef/MentalStateDef.xml,def
+rjw_genes_lifeforce_randomrape.beginLetter,{0} has run out of lifeforce and is looking to obtain some.,beginLetter,MentalStateDef/MentalStateDef.xml,def
+rjw_genes_lifeforce_randomrape.recoveryMessage,{0} is no longer raping randomly.,recoveryMessage,MentalStateDef/MentalStateDef.xml,def
+rjw_genes_lifeforce_randomrape.baseInspectLine,Mental state: Random Rape,baseInspectLine,MentalStateDef/MentalStateDef.xml,def
+rjw_genes_succubus.label,succubus,label,PawnKindDef/PawnKindDef.xml,def
+rjw_genes_incubus.label,incubus,label,PawnKindDef/PawnKindDef.xml,def
+InstallBioscaffold.label,install bioscaffold,label,RecipeDef/RecipeDef.xml,def
+InstallBioscaffold.description,Install a bioscaffold.,description,RecipeDef/RecipeDef.xml,def
+InstallBioscaffold.jobString,Installing bioscaffold.,jobString,RecipeDef/RecipeDef.xml,def
+InstallLimbicStimulator.label,install limbic stimulator,label,RecipeDef/RecipeDef.xml,def
+InstallLimbicStimulator.description,Install a limbic stimulator.,description,RecipeDef/RecipeDef.xml,def
+InstallLimbicStimulator.jobString,Installing limbic stimulator.,jobString,RecipeDef/RecipeDef.xml,def
+InstallOvaryAgitator.label,install ovary agitator,label,RecipeDef/RecipeDef.xml,def
+InstallOvaryAgitator.description,Install an ovary agitator.,description,RecipeDef/RecipeDef.xml,def
+InstallOvaryAgitator.jobString,Installing ovary agitator.,jobString,RecipeDef/RecipeDef.xml,def
+InstallScrambler.label,install scrambler,label,RecipeDef/RecipeDef.xml,def
+InstallScrambler.description,Install a scrambler.,description,RecipeDef/RecipeDef.xml,def
+InstallScrambler.jobString,Installing scrambler.,jobString,RecipeDef/RecipeDef.xml,def
+rjw_genes_appealing_cock.stages.0.label,small cock,label,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_appealing_cock.stages.1.label,big cock,label,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_appealing_cock.stages.2.label,monster cock,label,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_has_more_diseases.stages.0.label,carries more genetic diseases than me,label,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_has_more_diseases.stages.1.label,carries way more genetic diseases than me,label,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_has_more_diseases.stages.2.label,the genetic diseases on this fellow are off charts,label,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_cock_eaten.stages.0.label,cock eaten,label,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_cock_eaten.stages.0.description,"My cock was eaten directly off my body, I am devestated. This is not what good head feels like.",description,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_seduced.stages.0.label,seduced,label,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_seduced.stages.0.description,I was seduced into having sex. I regret what happened.,description,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_critical_fertilin.stages.0.label,fertilin craving,label,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_critical_fertilin.stages.0.description,My bones ache. I really need fertilin.,description,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_critical_fertilin.stages.1.label,fertilin craving,label,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_critical_fertilin.stages.1.description,This hurts bad and I can't stop thinking about sex. I would do anything for some cum.,description,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_critical_fertilin.stages.2.label,fertilin craving,label,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_critical_fertilin.stages.2.description,Can't think. Sex. Sex. Must. Have. Cum.,description,ThoughtDef/ThoughtDef.xml,def
+RegretsStealingLovin.stages.0.label,regrets stealing some lovin',label,ThoughtDef/ThoughtDef.xml,def
+RegretsStealingLovin.stages.0.description,"I don't remember how or why, but I violated someone. It felt good in the moment, but it felt so wrong afterward. My cravings from my implant are just too strong!",description,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_pheromone_carrier_nearby.stages.0.label,pheromones,label,ThoughtDef/ThoughtDef.xml,def
+rjw_genes_pheromone_carrier_nearby.stages.0.description,"{0} has a special vibe, we should hang out more often.",description,ThoughtDef/ThoughtDef.xml,def
+DomSuccubusTail_Tailjob_RP.rulePack.rulesStrings.0,sent-> [INITIATOR_nameDef] gave [RECIPIENT_nameDef] a tailjob.,li,RulePackDef/RulePackDef.xml,def
+DomSuccubusTail_Vaginal_RP.rulePack.rulesStrings.0,sent-> [INITIATOR_nameDef] [INITIATOR_possessive] tail was vaginally inserted into [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+DomSuccubusTail_Anal_RP.rulePack.rulesStrings.0,sent-> [INITIATOR_nameDef] [INITIATOR_possessive] tail was anally inserted into [RECIPIENT_nameDef].,li,RulePackDef/RulePackDef.xml,def
+DomSuccubusTail_Envelop_RP.rulePack.rulesStrings.0,sent-> [RECIPIENT_nameDef] dick was enveloped by [INITIATOR_nameDef] [INITIATOR_possessive] tail.,li,RulePackDef/RulePackDef.xml,def
+SubSuccubusTail_Tailjob_RP.rulePack.rulesStrings.0,sent-> [RECIPIENT_nameDef] gave [INITIATOR_nameDef] a tailjob.,li,RulePackDef/RulePackDef.xml,def
+SubSuccubusTail_Vaginal_RP.rulePack.rulesStrings.0,sent-> [RECIPIENT_nameDef] [RECIPIENT_possessive] tail was vaginally inserted into [INITIATOR_nameDef].,li,RulePackDef/RulePackDef.xml,def
+SubSuccubusTail_Anal_RP.rulePack.rulesStrings.0,sent-> [RECIPIENT_nameDef] [RECIPIENT_possessive] tail was anally inserted into [INITIATOR_nameDef].,li,RulePackDef/RulePackDef.xml,def
+SubSuccubusTail_Envelop_RP.rulePack.rulesStrings.0,sent-> [INITIATOR_nameDef] dick was enveloped by [RECIPIENT_nameDef] [RECIPIENT_possessive] tail.,li,RulePackDef/RulePackDef.xml,def

@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: sent->[INITIATOR_nameDef] [action] as [INITIATOR_pronoun] [fucked].-->
+  <AnalSexRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef] [动作]，[INITIATOR_pronoun] [操干着].</AnalSexRP.rulePack.rulesStrings.0>
+  <!--EN: sent->[INITIATOR_nameDef] [fucked2] [reaction].-->
+  <AnalSexRP.rulePack.rulesStrings.1>sent->[INITIATOR_nameDef] [操干2] [反应].</AnalSexRP.rulePack.rulesStrings.1>
+  <!--EN: adjective->thoroughly-->
+  <AnalSexRP.rulePack.rulesStrings.10>adjective->彻底地</AnalSexRP.rulePack.rulesStrings.10>
+  <!--EN: adjective->lovingly-->
+  <AnalSexRP.rulePack.rulesStrings.11>adjective->爱怜地</AnalSexRP.rulePack.rulesStrings.11>
+  <!--EN: adjective->readily-->
+  <AnalSexRP.rulePack.rulesStrings.12>adjective->欣然地</AnalSexRP.rulePack.rulesStrings.12>
+  <!--EN: adjective->heatedly-->
+  <AnalSexRP.rulePack.rulesStrings.13>adjective->激烈地</AnalSexRP.rulePack.rulesStrings.13>
+  <!--EN: adjective->passionately-->
+  <AnalSexRP.rulePack.rulesStrings.14>adjective->激情地</AnalSexRP.rulePack.rulesStrings.14>
+  <!--EN: adjective->tenderly-->
+  <AnalSexRP.rulePack.rulesStrings.15>adjective->温柔地</AnalSexRP.rulePack.rulesStrings.15>
+  <!--EN: adjective->fervently-->
+  <AnalSexRP.rulePack.rulesStrings.16>adjective->热切地</AnalSexRP.rulePack.rulesStrings.16>
+  <!--EN: adjective->vigorously-->
+  <AnalSexRP.rulePack.rulesStrings.17>adjective->用力地</AnalSexRP.rulePack.rulesStrings.17>
+  <!--EN: adjective->roughly-->
+  <AnalSexRP.rulePack.rulesStrings.18>adjective->粗暴地</AnalSexRP.rulePack.rulesStrings.18>
+  <!--EN: action->whispered [RECIPIENT_nameDef]'s name-->
+  <AnalSexRP.rulePack.rulesStrings.19>action->低语着[RECIPIENT_nameDef]的名字</AnalSexRP.rulePack.rulesStrings.19>
+  <!--EN: sent->[INITIATOR_nameDef] [fucked3] until [reaction2].-->
+  <AnalSexRP.rulePack.rulesStrings.2>sent->[INITIATOR_nameDef] [操干3]，直到[反应2].</AnalSexRP.rulePack.rulesStrings.2>
+  <!--EN: action->teasingly degraded [RECIPIENT_nameDef]-->
+  <AnalSexRP.rulePack.rulesStrings.20>action->戏弄般地贬低[RECIPIENT_nameDef]</AnalSexRP.rulePack.rulesStrings.20>
+  <!--EN: action->made [RECIPIENT_nameDef] beg for it-->
+  <AnalSexRP.rulePack.rulesStrings.21>action->让[RECIPIENT_nameDef]乞求</AnalSexRP.rulePack.rulesStrings.21>
+  <!--EN: fucked->[adjective] filled [RECIPIENT_possessive] [anus]-->
+  <AnalSexRP.rulePack.rulesStrings.22>fucked->[形容词]地填满了[RECIPIENT_possessive]的[肛门]</AnalSexRP.rulePack.rulesStrings.22>
+  <!--EN: fucked->fucked [RECIPIENT_possessive] [anus] with hard, deep thrusts-->
+  <AnalSexRP.rulePack.rulesStrings.23>fucked->用用力而深入的抽插操着[RECIPIENT_possessive]的[肛门]</AnalSexRP.rulePack.rulesStrings.23>
+  <!--EN: fucked->grabbed [RECIPIENT_possessive] ass and thrust his [penis] inside-->
+  <AnalSexRP.rulePack.rulesStrings.24>fucked->抓住[RECIPIENT_possessive]的屁股，将他的[阴茎]插入</AnalSexRP.rulePack.rulesStrings.24>
+  <!--EN: fucked2->thrust [adjective] into [RECIPIENT_nameDef]'s [anus]-->
+  <AnalSexRP.rulePack.rulesStrings.25>fucked2->[形容词]地插入[RECIPIENT_nameDef]的[肛门]</AnalSexRP.rulePack.rulesStrings.25>
+  <!--EN: fucked2->slowly sank [INITIATOR_possessive] dick into [RECIPIENT_nameDef]'s [anus]-->
+  <AnalSexRP.rulePack.rulesStrings.26>fucked2->慢慢地将[INITIATOR_possessive]的老二沉入[RECIPIENT_nameDef]的[肛门]</AnalSexRP.rulePack.rulesStrings.26>
+  <!--EN: fucked2->held [RECIPIENT_nameDef]'s hips and filled [RECIPIENT_possessive] [anus]-->
+  <AnalSexRP.rulePack.rulesStrings.27>fucked2->握住[RECIPIENT_nameDef]的臀部，填满了[RECIPIENT_possessive]的[肛门]</AnalSexRP.rulePack.rulesStrings.27>
+  <!--EN: reaction->while telling [RECIPIENT_objective] how good it felt-->
+  <AnalSexRP.rulePack.rulesStrings.28>reaction->同时告诉[RECIPIENT_objective]感觉有多棒</AnalSexRP.rulePack.rulesStrings.28>
+  <!--EN: reaction->while [RECIPIENT_pronoun] pleaded for more-->
+  <AnalSexRP.rulePack.rulesStrings.29>reaction->当[RECIPIENT_pronoun]恳求更多时</AnalSexRP.rulePack.rulesStrings.29>
+  <!--EN: anus->ass-->
+  <AnalSexRP.rulePack.rulesStrings.3>anus->屁眼</AnalSexRP.rulePack.rulesStrings.3>
+  <!--EN: reaction->while whispering affectionate praise-->
+  <AnalSexRP.rulePack.rulesStrings.30>reaction->同时低语着充满爱意的赞美</AnalSexRP.rulePack.rulesStrings.30>
+  <!--EN: fucked3->fucked [RECIPIENT_nameDef]'s [anus]-->
+  <AnalSexRP.rulePack.rulesStrings.31>fucked3->操了[RECIPIENT_nameDef]的[肛门]</AnalSexRP.rulePack.rulesStrings.31>
+  <!--EN: fucked3->made sure to [adjective] pound [RECIPIENT_nameDef]'s [anus]-->
+  <AnalSexRP.rulePack.rulesStrings.32>fucked3->一定要[形容词]地猛干[RECIPIENT_nameDef]的[肛门]</AnalSexRP.rulePack.rulesStrings.32>
+  <!--EN: reaction2->[RECIPIENT_pronoun] could no longer form coherent words-->
+  <AnalSexRP.rulePack.rulesStrings.33>reaction2->[RECIPIENT_pronoun]再也说不出连贯的话</AnalSexRP.rulePack.rulesStrings.33>
+  <!--EN: reaction2->it was filled to the brim-->
+  <AnalSexRP.rulePack.rulesStrings.34>reaction2->它被填得满满当当</AnalSexRP.rulePack.rulesStrings.34>
+  <!--EN: reaction2->they were both breathless and spent-->
+  <AnalSexRP.rulePack.rulesStrings.35>reaction2->两人都气喘吁吁，筋疲力尽</AnalSexRP.rulePack.rulesStrings.35>
+  <!--EN: anus->hole-->
+  <AnalSexRP.rulePack.rulesStrings.4>anus->洞</AnalSexRP.rulePack.rulesStrings.4>
+  <!--EN: anus->entrance-->
+  <AnalSexRP.rulePack.rulesStrings.5>anus->入口</AnalSexRP.rulePack.rulesStrings.5>
+  <!--EN: penis->dick-->
+  <AnalSexRP.rulePack.rulesStrings.6>penis->老二</AnalSexRP.rulePack.rulesStrings.6>
+  <!--EN: penis->cock-->
+  <AnalSexRP.rulePack.rulesStrings.7>penis->鸡巴</AnalSexRP.rulePack.rulesStrings.7>
+  <!--EN: penis->length-->
+  <AnalSexRP.rulePack.rulesStrings.8>penis->肉棒</AnalSexRP.rulePack.rulesStrings.8>
+  <!--EN: penis->member-->
+  <AnalSexRP.rulePack.rulesStrings.9>penis->阳具</AnalSexRP.rulePack.rulesStrings.9>
+  <!--EN: sent->[INITIATOR_nameDef] [action] as [INITIATOR_pronoun] [fucked].-->
+  <DoublePenetrationRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef] [动作]，[INITIATOR_pronoun] [操干着].</DoublePenetrationRP.rulePack.rulesStrings.0>
+  <!--EN: sent->[INITIATOR_nameDef] [fucked2] while [RECIPIENT_pronoun] [reaction].-->
+  <DoublePenetrationRP.rulePack.rulesStrings.1>sent->[INITIATOR_nameDef] [操干2]，同时[RECIPIENT_pronoun] [反应].</DoublePenetrationRP.rulePack.rulesStrings.1>
+  <!--EN: adjective->readily-->
+  <DoublePenetrationRP.rulePack.rulesStrings.10>adjective->欣然地</DoublePenetrationRP.rulePack.rulesStrings.10>
+  <!--EN: adjective->heatedly-->
+  <DoublePenetrationRP.rulePack.rulesStrings.11>adjective->激烈地</DoublePenetrationRP.rulePack.rulesStrings.11>
+  <!--EN: adjective->passionately-->
+  <DoublePenetrationRP.rulePack.rulesStrings.12>adjective->激情地</DoublePenetrationRP.rulePack.rulesStrings.12>
+  <!--EN: adjective->tenderly-->
+  <DoublePenetrationRP.rulePack.rulesStrings.13>adjective->温柔地</DoublePenetrationRP.rulePack.rulesStrings.13>
+  <!--EN: action->purred [RECIPIENT_nameDef]'s name-->
+  <DoublePenetrationRP.rulePack.rulesStrings.14>action->轻声呼唤[RECIPIENT_nameDef]的名字</DoublePenetrationRP.rulePack.rulesStrings.14>
+  <!--EN: action->praised [RECIPIENT_nameDef] for taking it all-->
+  <DoublePenetrationRP.rulePack.rulesStrings.15>action->称赞[RECIPIENT_nameDef]全部容纳</DoublePenetrationRP.rulePack.rulesStrings.15>
+  <!--EN: fucked->[adjective] filled both of [RECIPIENT_possessive] holes-->
+  <DoublePenetrationRP.rulePack.rulesStrings.16>fucked->[形容词]地填满了[RECIPIENT_possessive]的两个洞</DoublePenetrationRP.rulePack.rulesStrings.16>
+  <!--EN: fucked->used both [INITIATOR_possessive] [penises] to fill [RECIPIENT_objective] up completely-->
+  <DoublePenetrationRP.rulePack.rulesStrings.17>fucked->用[INITIATOR_possessive]的两根[阴茎]将[RECIPIENT_objective]完全填满</DoublePenetrationRP.rulePack.rulesStrings.17>
+  <!--EN: fucked->drove both of [INITIATOR_possessive] [penises] deep inside-->
+  <DoublePenetrationRP.rulePack.rulesStrings.18>fucked->将[INITIATOR_possessive]的两根[阴茎]深深插入</DoublePenetrationRP.rulePack.rulesStrings.18>
+  <!--EN: fucked2->[adjective] fucked [RECIPIENT_nameDef] with both of [INITIATOR_possessive] [penises]-->
+  <DoublePenetrationRP.rulePack.rulesStrings.19>fucked2->用[INITIATOR_possessive]的两根[阴茎][形容词]地操[RECIPIENT_nameDef]</DoublePenetrationRP.rulePack.rulesStrings.19>
+  <!--EN: sent->[INITIATOR_nameDef] [fucked3] [reaction2].-->
+  <DoublePenetrationRP.rulePack.rulesStrings.2>sent->[INITIATOR_nameDef] [操干3] [反应2].</DoublePenetrationRP.rulePack.rulesStrings.2>
+  <!--EN: fucked2->slowly eased both his [penises] into [RECIPIENT_nameDef]-->
+  <DoublePenetrationRP.rulePack.rulesStrings.20>fucked2->慢慢地将他的两根[阴茎]滑入[RECIPIENT_nameDef]体内</DoublePenetrationRP.rulePack.rulesStrings.20>
+  <!--EN: fucked2->lovingly ravaged [RECIPIENT_nameDef] with both of [INITIATOR_possessive] [penises]-->
+  <DoublePenetrationRP.rulePack.rulesStrings.21>fucked2->爱怜地用[INITIATOR_possessive]的两根[阴茎]蹂躏[RECIPIENT_nameDef]</DoublePenetrationRP.rulePack.rulesStrings.21>
+  <!--EN: reaction->begged to be utterly filled-->
+  <DoublePenetrationRP.rulePack.rulesStrings.22>reaction->乞求被完全填满</DoublePenetrationRP.rulePack.rulesStrings.22>
+  <!--EN: reaction->gasped at the stretch-->
+  <DoublePenetrationRP.rulePack.rulesStrings.23>reaction->因撑开而喘息</DoublePenetrationRP.rulePack.rulesStrings.23>
+  <!--EN: reaction->shuddered at doubled pleasure-->
+  <DoublePenetrationRP.rulePack.rulesStrings.24>reaction->因双倍的快感而颤抖</DoublePenetrationRP.rulePack.rulesStrings.24>
+  <!--EN: fucked3->used both of [INITIATOR_possessive] [penises] to [adjective] pound [RECIPIENT_nameDef]-->
+  <DoublePenetrationRP.rulePack.rulesStrings.25>fucked3->用[INITIATOR_possessive]的两根[阴茎][形容词]地猛干[RECIPIENT_nameDef]</DoublePenetrationRP.rulePack.rulesStrings.25>
+  <!--EN: fucked3->fucked both of [RECIPIENT_nameDef]'s holes in wanton pleasure-->
+  <DoublePenetrationRP.rulePack.rulesStrings.26>fucked3->肆意快活地操[RECIPIENT_nameDef]的两个洞</DoublePenetrationRP.rulePack.rulesStrings.26>
+  <!--EN: reaction2->until [RECIPIENT_pronoun] was pleading for release-->
+  <DoublePenetrationRP.rulePack.rulesStrings.27>reaction2->直到[RECIPIENT_pronoun]恳求释放</DoublePenetrationRP.rulePack.rulesStrings.27>
+  <!--EN: reaction2->before breathlessly spilling inside-->
+  <DoublePenetrationRP.rulePack.rulesStrings.28>reaction2->在气喘吁吁地射在里面之前</DoublePenetrationRP.rulePack.rulesStrings.28>
+  <!--EN: reaction2->until [RECIPIENT_pronoun] was keening from overstimulation-->
+  <DoublePenetrationRP.rulePack.rulesStrings.29>reaction2->直到[RECIPIENT_pronoun]因过度刺激而尖声呻吟</DoublePenetrationRP.rulePack.rulesStrings.29>
+  <!--EN: penises->dicks-->
+  <DoublePenetrationRP.rulePack.rulesStrings.3>penises->老二们</DoublePenetrationRP.rulePack.rulesStrings.3>
+  <!--EN: penises->cocks-->
+  <DoublePenetrationRP.rulePack.rulesStrings.4>penises->鸡巴们</DoublePenetrationRP.rulePack.rulesStrings.4>
+  <!--EN: penises->lengths-->
+  <DoublePenetrationRP.rulePack.rulesStrings.5>penises->肉棒们</DoublePenetrationRP.rulePack.rulesStrings.5>
+  <!--EN: penises->members-->
+  <DoublePenetrationRP.rulePack.rulesStrings.6>penises->阳具们</DoublePenetrationRP.rulePack.rulesStrings.6>
+  <!--EN: adjective->thoroughly-->
+  <DoublePenetrationRP.rulePack.rulesStrings.7>adjective->彻底地</DoublePenetrationRP.rulePack.rulesStrings.7>
+  <!--EN: adjective->deeply-->
+  <DoublePenetrationRP.rulePack.rulesStrings.8>adjective->深深地</DoublePenetrationRP.rulePack.rulesStrings.8>
+  <!--EN: adjective->lovingly-->
+  <DoublePenetrationRP.rulePack.rulesStrings.9>adjective->爱怜地</DoublePenetrationRP.rulePack.rulesStrings.9>
+  <!--EN: sent->[INITIATOR_nameDef] [action] as [fucked].-->
+  <VaginalSexRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef] [动作]，[操干着].</VaginalSexRP.rulePack.rulesStrings.0>
+  <!--EN: sent->[INITIATOR_nameDef] [action2] and [fucked2].-->
+  <VaginalSexRP.rulePack.rulesStrings.1>sent->[INITIATOR_nameDef] [动作2]并[操干2].</VaginalSexRP.rulePack.rulesStrings.1>
+  <!--EN: adjective->thoroughly-->
+  <VaginalSexRP.rulePack.rulesStrings.10>adjective->彻底地</VaginalSexRP.rulePack.rulesStrings.10>
+  <!--EN: adjective->deeply-->
+  <VaginalSexRP.rulePack.rulesStrings.11>adjective->深深地</VaginalSexRP.rulePack.rulesStrings.11>
+  <!--EN: adjective->lovingly-->
+  <VaginalSexRP.rulePack.rulesStrings.12>adjective->爱怜地</VaginalSexRP.rulePack.rulesStrings.12>
+  <!--EN: adjective->roughly-->
+  <VaginalSexRP.rulePack.rulesStrings.13>adjective->粗暴地</VaginalSexRP.rulePack.rulesStrings.13>
+  <!--EN: adjective->heatedly-->
+  <VaginalSexRP.rulePack.rulesStrings.14>adjective->激烈地</VaginalSexRP.rulePack.rulesStrings.14>
+  <!--EN: adjective->passionately-->
+  <VaginalSexRP.rulePack.rulesStrings.15>adjective->激情地</VaginalSexRP.rulePack.rulesStrings.15>
+  <!--EN: adjective->tenderly-->
+  <VaginalSexRP.rulePack.rulesStrings.16>adjective->温柔地</VaginalSexRP.rulePack.rulesStrings.16>
+  <!--EN: adjective->fervently-->
+  <VaginalSexRP.rulePack.rulesStrings.17>adjective->热切地</VaginalSexRP.rulePack.rulesStrings.17>
+  <!--EN: adjective->steadily-->
+  <VaginalSexRP.rulePack.rulesStrings.18>adjective->稳定地</VaginalSexRP.rulePack.rulesStrings.18>
+  <!--EN: adjective->slowly and delibrately-->
+  <VaginalSexRP.rulePack.rulesStrings.19>adjective->缓慢而刻意地</VaginalSexRP.rulePack.rulesStrings.19>
+  <!--EN: sent->[INITIATOR_nameDef] [fucked3], [reaction2].-->
+  <VaginalSexRP.rulePack.rulesStrings.2>sent->[INITIATOR_nameDef] [操干3]，[反应2].</VaginalSexRP.rulePack.rulesStrings.2>
+  <!--EN: action->gave [RECIPIENT_nameDef] whispered praise-->
+  <VaginalSexRP.rulePack.rulesStrings.20>action->低声赞美[RECIPIENT_nameDef]</VaginalSexRP.rulePack.rulesStrings.20>
+  <!--EN: action->held [RECIPIENT_nameDef] possessively close-->
+  <VaginalSexRP.rulePack.rulesStrings.21>action->占有性地紧紧抱住[RECIPIENT_nameDef]</VaginalSexRP.rulePack.rulesStrings.21>
+  <!--EN: action->kept repeating [RECIPIENT_nameDef]'s name-->
+  <VaginalSexRP.rulePack.rulesStrings.22>action->不停地重复[RECIPIENT_nameDef]的名字</VaginalSexRP.rulePack.rulesStrings.22>
+  <!--EN: fucked->[INITIATOR_pronoun] thrust inside and filled [RECIPIENT_possessive] [vagina] to the brim-->
+  <VaginalSexRP.rulePack.rulesStrings.23>fucked->[INITIATOR_pronoun]插入并填满了[RECIPIENT_possessive]的[阴道]</VaginalSexRP.rulePack.rulesStrings.23>
+  <!--EN: fucked->[INITIATOR_pronoun] [adjective] fucked [RECIPIENT_possessive] [vagina]-->
+  <VaginalSexRP.rulePack.rulesStrings.24>fucked->[INITIATOR_pronoun][形容词]地操了[RECIPIENT_possessive]的[阴道]</VaginalSexRP.rulePack.rulesStrings.24>
+  <!--EN: fucked->[INITIATOR_possessive] [penis] sunk into [RECIPIENT_possessive] heat-->
+  <VaginalSexRP.rulePack.rulesStrings.25>fucked->[INITIATOR_possessive]的[阴茎]沉入[RECIPIENT_possessive]火热的身体</VaginalSexRP.rulePack.rulesStrings.25>
+  <!--EN: action2->took [INITIATOR_possessive] time with [RECIPIENT_nameDef]-->
+  <VaginalSexRP.rulePack.rulesStrings.26>action2->对[RECIPIENT_nameDef]不慌不忙</VaginalSexRP.rulePack.rulesStrings.26>
+  <!--EN: action2->teased [RECIPIENT_nameDef]'s clit-->
+  <VaginalSexRP.rulePack.rulesStrings.27>action2->挑逗[RECIPIENT_nameDef]的阴蒂</VaginalSexRP.rulePack.rulesStrings.27>
+  <!--EN: action2->savored [RECIPIENT_nameDef]'s every gasp-->
+  <VaginalSexRP.rulePack.rulesStrings.28>action2->品味[RECIPIENT_nameDef]的每一次喘息</VaginalSexRP.rulePack.rulesStrings.28>
+  <!--EN: fucked2->fucked [RECIPIENT_possessive] pussy until [RECIPIENT_pronoun] saw stars-->
+  <VaginalSexRP.rulePack.rulesStrings.29>fucked2->操[RECIPIENT_possessive]的骚逼直到[RECIPIENT_pronoun]眼冒金星</VaginalSexRP.rulePack.rulesStrings.29>
+  <!--EN: vagina->vagina-->
+  <VaginalSexRP.rulePack.rulesStrings.3>vagina->阴道</VaginalSexRP.rulePack.rulesStrings.3>
+  <!--EN: fucked2->left [RECIPIENT_possessive] pussy dripping with [INITIATOR_possessive] cum-->
+  <VaginalSexRP.rulePack.rulesStrings.30>fucked2->让[RECIPIENT_possessive]的骚逼滴着[INITIATOR_possessive]的精液</VaginalSexRP.rulePack.rulesStrings.30>
+  <!--EN: fucked3->eased [adjective] into [RECIPIENT_nameDef]'s [vagina]-->
+  <VaginalSexRP.rulePack.rulesStrings.31>fucked3->[形容词]地滑入[RECIPIENT_nameDef]的[阴道]</VaginalSexRP.rulePack.rulesStrings.31>
+  <!--EN: fucked3->drove into [RECIPIENT_nameDef]'s heat again and again-->
+  <VaginalSexRP.rulePack.rulesStrings.32>fucked3->一次又一次地插入[RECIPIENT_nameDef]火热的身子</VaginalSexRP.rulePack.rulesStrings.32>
+  <!--EN: fucked3->[adjective] fucked [RECIPIENT_nameDef]'s [vagina]-->
+  <VaginalSexRP.rulePack.rulesStrings.33>fucked3->[形容词]地操[RECIPIENT_nameDef]的[阴道]</VaginalSexRP.rulePack.rulesStrings.33>
+  <!--EN: reaction->making [RECIPIENT_objective] tremble and gasp-->
+  <VaginalSexRP.rulePack.rulesStrings.34>reaction->让[RECIPIENT_objective]颤抖喘息</VaginalSexRP.rulePack.rulesStrings.34>
+  <!--EN: reaction->enjoying how [RECIPIENT_pronoun] moaned and arched [RECIPIENT_possessive] back-->
+  <VaginalSexRP.rulePack.rulesStrings.35>reaction->享受[RECIPIENT_pronoun]呻吟和弓起[RECIPIENT_possessive]背的样子</VaginalSexRP.rulePack.rulesStrings.35>
+  <!--EN: reaction->making [RECIPIENT_objective] whimper from pleasure-->
+  <VaginalSexRP.rulePack.rulesStrings.36>reaction->让[RECIPIENT_objective]因快感而呜咽</VaginalSexRP.rulePack.rulesStrings.36>
+  <!--EN: vagina->pussy-->
+  <VaginalSexRP.rulePack.rulesStrings.4>vagina->骚逼</VaginalSexRP.rulePack.rulesStrings.4>
+  <!--EN: vagina->slit-->
+  <VaginalSexRP.rulePack.rulesStrings.5>vagina->肉缝</VaginalSexRP.rulePack.rulesStrings.5>
+  <!--EN: penis->dick-->
+  <VaginalSexRP.rulePack.rulesStrings.6>penis->老二</VaginalSexRP.rulePack.rulesStrings.6>
+  <!--EN: penis->cock-->
+  <VaginalSexRP.rulePack.rulesStrings.7>penis->鸡巴</VaginalSexRP.rulePack.rulesStrings.7>
+  <!--EN: penis->length-->
+  <VaginalSexRP.rulePack.rulesStrings.8>penis->肉棒</VaginalSexRP.rulePack.rulesStrings.8>
+  <!--EN: penis->member-->
+  <VaginalSexRP.rulePack.rulesStrings.9>penis->阳具</VaginalSexRP.rulePack.rulesStrings.9>
+</LanguageData>

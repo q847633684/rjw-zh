@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: participant count-->
+  <CB_NoneOutcome.comps.0.label>参与人数</CB_NoneOutcome.comps.0.label>
+  <!--EN: No other outcome.-->
+  <CB_NoneOutcome.description>没有其他结果。</CB_NoneOutcome.description>
+  <!--EN: Nothing-->
+  <CB_NoneOutcome.outcomeChances.0.description>无</CB_NoneOutcome.outcomeChances.0.description>
+  <!--EN: None-->
+  <CB_NoneOutcome.outcomeChances.0.label>无</CB_NoneOutcome.outcomeChances.0.label>
+</LanguageData>

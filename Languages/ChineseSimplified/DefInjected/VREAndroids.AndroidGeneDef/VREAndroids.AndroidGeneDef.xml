@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: Androids do not feel satisfaction from sex, and have no need to feel it.-->
+  <rjw_genes_SexDisabled.description>仿生人无法从性行为中获得满足，也无需感受它。</rjw_genes_SexDisabled.description>
+  <!--EN: sex disabled-->
+  <rjw_genes_SexDisabled.label>性功能禁用</rjw_genes_SexDisabled.label>
+  <!--EN: This piece of hardware is a set of bionic genitals of high quality-->
+  <rjw_genes_bionic_genitalia.description>这套硬件是一组高品质的仿生生殖器。</rjw_genes_bionic_genitalia.description>
+  <!--EN: bionic genitalia-->
+  <rjw_genes_bionic_genitalia.label>仿生生殖器</rjw_genes_bionic_genitalia.label>
+  <!--EN: This piece of hardware is a set of crude hydrolic genitals, at least it come with a suspension system-->
+  <rjw_genes_hydrolic_genitalia.description>这套硬件是一组粗陋的液压生殖器，至少它还带了个悬挂系统。</rjw_genes_hydrolic_genitalia.description>
+  <!--EN: hydrolic genitalia-->
+  <rjw_genes_hydrolic_genitalia.label>液压生殖器</rjw_genes_hydrolic_genitalia.label>
+</LanguageData>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<LanguageData>
-  <!--EN: These remains belong to {NAME}, aged {AGE}. They were a {PROFESSION} of the {FACTION} faction.-->
-  <RV2_ExtraDescription_VoreProductContainer>这些残骸属于{NAME},岁{AGE}他们曾是一个{PROFESSION}的{FACTION}派系。</RV2_ExtraDescription_VoreProductContainer>
-  <!--EN:  ({NAME})-->
-  <RV2_ExtraDescription_VoreProductContainer_Label> ({NAME})</RV2_ExtraDescription_VoreProductContainer_Label>
-  <!--EN: Member-->
-  <RV2_ExtraDescription_VoreProductContainer_ProfessionFallback>信众</RV2_ExtraDescription_VoreProductContainer_ProfessionFallback>
-</LanguageData>

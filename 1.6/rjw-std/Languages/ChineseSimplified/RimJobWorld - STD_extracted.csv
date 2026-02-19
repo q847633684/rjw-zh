@@ -1,0 +1,116 @@
+key,text,tag,file,type
+std_sex,STDs from sex,std_sex,STD.xml,keyed
+std_sex_desc,Pawns will catch STDs from sex with infected pawn.,std_sex_desc,STD.xml,keyed
+std_floor,STDs from environment,std_floor,STD.xml,keyed
+std_floor_desc,Pawns will catch STDs from sex in dirty environment.,std_floor_desc,STD.xml,keyed
+std_show_roll_to_catch,Show STD catch roll,std_show_roll_to_catch,STD.xml,keyed
+std_show_roll_to_catch_desc,Logs the process of handing out STDs after sex for debug purposes (or for anyone who's curious),std_show_roll_to_catch_desc,STD.xml,keyed
+std_min_severity_to_pitch,Min STD severity to spread,std_min_severity_to_pitch,STD.xml,keyed
+std_min_severity_to_pitch_desc,STD infections must be at least this severe to spread between pawns,std_min_severity_to_pitch_desc,STD.xml,keyed
+std_env_pitch_cleanliness_exaggeration,Clean rooms spread modifier,std_env_pitch_cleanliness_exaggeration,STD.xml,keyed
+std_env_pitch_cleanliness_exaggeration_desc,"1.0f - this * RoomStatDefOf.Cleanliness.
+RoomStatDefOf.Cleanliness >= 0",std_env_pitch_cleanliness_exaggeration_desc,STD.xml,keyed
+std_env_pitch_dirtiness_exaggeration,Dirty rooms spread modifier,std_env_pitch_dirtiness_exaggeration,STD.xml,keyed
+std_env_pitch_dirtiness_exaggeration_desc,"1.0f - this * RoomStatDefOf.Cleanliness.
+RoomStatDefOf.Cleanliness < 0",std_env_pitch_dirtiness_exaggeration_desc,STD.xml,keyed
+std_outdoor_cleanliness,Outdoor Cleanliness,std_outdoor_cleanliness,STD.xml,keyed
+std_outdoor_cleanliness_desc,"Cleanliness stat for sex outdoor
+RoomStatDefOf.Cleanliness = this",std_outdoor_cleanliness_desc,STD.xml,keyed
+opp_inf_initial_immunity,Immunodeficiency spread,opp_inf_initial_immunity,STD.xml,keyed
+opp_inf_initial_immunity_desc,Chance to get additional infections due to Immunodeficiency,opp_inf_initial_immunity_desc,STD.xml,keyed
+pawn_spawn_with_std_mul,Pawn spawn STD multiplier,pawn_spawn_with_std_mul,STD.xml,keyed
+pawn_spawn_with_std_mul_desc,Multiplier to spawn pawn with STDs (std base chance * this).,pawn_spawn_with_std_mul_desc,STD.xml,keyed
+nymph_spawn_with_std_mul,Nymph spawn STD multiplier,nymph_spawn_with_std_mul,STD.xml,keyed
+nymph_spawn_with_std_mul_desc,Multiplier to spawn nymphs with STDs (std base chance * this),nymph_spawn_with_std_mul_desc,STD.xml,keyed
+RJW_Opportunistic_Infection_Message,{0} has developed an infection due to a weakened immune system.,RJW_Opportunistic_Infection_Message,STD.xml,keyed
+RJW_Syphilis_Damage_Message,{0} has suffered permanent damage to {1} {2} due to an advancement of {3} infection.,RJW_Syphilis_Damage_Message,STD.xml,keyed
+RJW_BreastsHaveGrownFromBoobitis,{0} has {1} {2} grown to {3} cup from {4}.,RJW_BreastsHaveGrownFromBoobitis,STD.xml,keyed
+ViralDamage.label,viral damage,label,DamageDef/DamageDef.xml,def
+ViralDamage.deathMessage,{0} has died of a disease.,deathMessage,DamageDef/DamageDef.xml,def
+Boobitis.label,boobitis,label,HediffDef/HediffDef.xml,def
+Boobitis.description,"Boobitis is a highly contagious mechanite plague that causes permanent breast growth if left untreated. It was initialy created as a harmless glittertech ""party drug"" but has since mutated and spread to virtually every human colony.",description,HediffDef/HediffDef.xml,def
+Boobitis.stages.0.label,subtle swelling,label,HediffDef/HediffDef.xml,def
+Boobitis.stages.1.label,noticable swelling,label,HediffDef/HediffDef.xml,def
+Boobitis.stages.2.label,spectacular swelling,label,HediffDef/HediffDef.xml,def
+Herpes.label,Herpes,label,HediffDef/HediffDef.xml,def
+Herpes.description,Genital sores that spread through sexual contact.,description,HediffDef/HediffDef.xml,def
+Herpes.stages.0.label,minor,label,HediffDef/HediffDef.xml,def
+Herpes.stages.1.label,moderate,label,HediffDef/HediffDef.xml,def
+Herpes.stages.2.label,major,label,HediffDef/HediffDef.xml,def
+AcuteHIV.label,HIV - Acute,label,HediffDef/HediffDef.xml,def
+AcuteHIV.description,An immunodeficiency virus that spreads through sexual contact.,description,HediffDef/HediffDef.xml,def
+AcuteHIV.stages.0.label,detectable,label,HediffDef/HediffDef.xml,def
+AcuteHIV.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+AcuteHIV.stages.2.label,minor,label,HediffDef/HediffDef.xml,def
+AcuteHIV.stages.3.label,minor,label,HediffDef/HediffDef.xml,def
+AcuteHIV.stages.4.label,moderate,label,HediffDef/HediffDef.xml,def
+AcuteHIV.stages.5.label,major,label,HediffDef/HediffDef.xml,def
+AcuteHIV.stages.6.label,major,label,HediffDef/HediffDef.xml,def
+AcuteHIV.stages.7.label,major,label,HediffDef/HediffDef.xml,def
+AcuteHIV.stages.8.label,extreme,label,HediffDef/HediffDef.xml,def
+AcuteHIV.stages.9.label,extreme,label,HediffDef/HediffDef.xml,def
+ChronicHIV.label,HIV - Chronic,label,HediffDef/HediffDef.xml,def
+ChronicHIV.description,An immunodeficiency virus that spreads through sexual contact.,description,HediffDef/HediffDef.xml,def
+ChronicHIV.stages.0.label,detectable,label,HediffDef/HediffDef.xml,def
+ChronicHIV.stages.1.label,minor,label,HediffDef/HediffDef.xml,def
+ChronicHIV.stages.2.label,minor,label,HediffDef/HediffDef.xml,def
+ChronicHIV.stages.3.label,minor,label,HediffDef/HediffDef.xml,def
+ChronicHIV.stages.4.label,moderate,label,HediffDef/HediffDef.xml,def
+ChronicHIV.stages.5.label,major,label,HediffDef/HediffDef.xml,def
+ChronicHIV.stages.6.label,major,label,HediffDef/HediffDef.xml,def
+ChronicHIV.stages.7.label,major,label,HediffDef/HediffDef.xml,def
+ChronicHIV.stages.8.label,extreme,label,HediffDef/HediffDef.xml,def
+ChronicHIV.stages.9.label,extreme,label,HediffDef/HediffDef.xml,def
+Immunodeficiency.label,Immunodeficiency,label,HediffDef/HediffDef.xml,def
+Immunodeficiency.description,Very susceptible to disease.,description,HediffDef/HediffDef.xml,def
+Immunodeficiency.stages.0.label,minor,label,HediffDef/HediffDef.xml,def
+Immunodeficiency.stages.1.label,major,label,HediffDef/HediffDef.xml,def
+Immunodeficiency.stages.2.label,extreme,label,HediffDef/HediffDef.xml,def
+Syphilis.description,A bacterial infection that spreads through sexual contact.,description,HediffDef/HediffDef.xml,def
+Syphilis.label,Syphilis,label,HediffDef/HediffDef.xml,def
+Syphilis.stages.0.label,minor,label,HediffDef/HediffDef.xml,def
+Syphilis.stages.1.label,moderate,label,HediffDef/HediffDef.xml,def
+Syphilis.stages.2.label,major,label,HediffDef/HediffDef.xml,def
+Syphilis.stages.3.label,extreme,label,HediffDef/HediffDef.xml,def
+Syphilis.stages.4.label,extreme,label,HediffDef/HediffDef.xml,def
+Syphilis.stages.5.label,extreme,label,HediffDef/HediffDef.xml,def
+VirusPerma.description,Viral damage.,description,HediffDef/HediffDef.xml,def
+VirusPerma.label,viral damage,label,HediffDef/HediffDef.xml,def
+VirusPerma.comps.0.permanentLabel,permanent viral damage,permanentLabel,HediffDef/HediffDef.xml,def
+VirusPerma.injuryProps.destroyedLabel,Destroyed by disease,destroyedLabel,HediffDef/HediffDef.xml,def
+VirusPerma.injuryProps.destroyedOutLabel,Destroyed by disease,destroyedOutLabel,HediffDef/HediffDef.xml,def
+Warts.label,Warts,label,HediffDef/HediffDef.xml,def
+Warts.description,Genital warts that spread through sexual contact.,description,HediffDef/HediffDef.xml,def
+Warts.stages.0.label,minor,label,HediffDef/HediffDef.xml,def
+Warts.stages.1.label,major,label,HediffDef/HediffDef.xml,def
+Disease_Boobitis.label,boobitis mechanites,label,IncidentDef/IncidentDef.xml,def
+Disease_Boobitis.letterLabel,Disease (boobitis mechanites),letterLabel,IncidentDef/IncidentDef.xml,def
+Euthanize.label,euthanize by cut,label,RecipeDef/RecipeDef.xml,def
+Euthanize.description,Euthanize a creature by cutting.,description,RecipeDef/RecipeDef.xml,def
+Euthanize.jobString,Euthanizing by cutting.,jobString,RecipeDef/RecipeDef.xml,def
+RemoveBodyPart.label,remove part,label,RecipeDef/RecipeDef.xml,def
+RemoveBodyPart.description,Remove a body part.,description,RecipeDef/RecipeDef.xml,def
+RemoveBodyPart.jobString,Removing body part.,jobString,RecipeDef/RecipeDef.xml,def
+Boobitis.label,boobitis,label,rjwstd.std_def/rjwstd.std_def.xml,def
+Boobitis.description,"Boobitis is a highly contagious mechanite plague that causes permanent breast growth if left untreated. It was initialy created as a harmless glittertech ""party drug"" but has since mutated and spread to virtually every human colony.",description,rjwstd.std_def/rjwstd.std_def.xml,def
+Herpes.label,herpes,label,rjwstd.std_def/rjwstd.std_def.xml,def
+Herpes.description,Herpes is an incurable but nonfatal disease. Affected pawns experience pain and itchiness in the affected body parts. Treatment is effective at reducing the intensity of the symptoms.,description,rjwstd.std_def/rjwstd.std_def.xml,def
+HIV.label,HIV,label,rjwstd.std_def/rjwstd.std_def.xml,def
+HIV.description,"HIV consists of two parts: an acute and a chronic infection. Both parts follow the same course, reducing the infected pawn's blood filtration as their severity increases. The acute phase progresses rapidly but can be fought by the pawn's immune system, whereas the chronic phase progresses very slowly but can never be cured. Treatment can modestly slow the progress of the disease.",description,rjwstd.std_def/rjwstd.std_def.xml,def
+Syphilis.label,syphilis,label,rjwstd.std_def/rjwstd.std_def.xml,def
+Syphilis.description,"Syphilis is a serious disease that affects the mind. If left untreated, it leads to corrupted thoughts, mood problems, potential permanent damage to the brain, liver, and kidneys, and, ultimately, death. The good news is that it is easily defeated by proper treatment.",description,rjwstd.std_def/rjwstd.std_def.xml,def
+Warts.label,warts,label,rjwstd.std_def/rjwstd.std_def.xml,def
+Warts.description,Genital warts are unsightly and cause an itching/burning sensation. They are easily treated and never fatal.,description,rjwstd.std_def/rjwstd.std_def.xml,def
+WastingAway.stages.0.label,wasting away,label,ThoughtDef/ThoughtDef.xml,def
+WastingAway.stages.0.description,Every day I feel weaker than the day before. I can feel my life slowly slipping away.,description,ThoughtDef/ThoughtDef.xml,def
+ItchyCrotch.stages.0.label,itchy crotch,label,ThoughtDef/ThoughtDef.xml,def
+ItchyCrotch.stages.0.description,I don't think anyone's looking. Lemme just...,description,ThoughtDef/ThoughtDef.xml,def
+ItchyCrotch.stages.1.label,"itchy, burning crotch",label,ThoughtDef/ThoughtDef.xml,def
+ItchyCrotch.stages.1.description,"The worst part is: the more I scratch, the more it burns.",description,ThoughtDef/ThoughtDef.xml,def
+SawDiseasedPrivates1.stages.0.label,saw an ugly rash on {0}'s crotch,label,ThoughtDef/ThoughtDef.xml,def
+SawDiseasedPrivates2.stages.0.label,saw disgusting warts on {0}'s crotch,label,ThoughtDef/ThoughtDef.xml,def
+SawDiseasedPrivates3.stages.0.label,nauseated by {0}'s diseased crotch,label,ThoughtDef/ThoughtDef.xml,def
+SyphiliticThoughts.stages.0.label,syphilitic thoughts,label,ThoughtDef/ThoughtDef.xml,def
+SyphiliticThoughts.stages.0.description,"Everyone's so stupid and everything's so annoying. Even me, I just can't think clearly.",description,ThoughtDef/ThoughtDef.xml,def
+SyphiliticThoughts.stages.1.label,extreme syphilitic thoughts,label,ThoughtDef/ThoughtDef.xml,def
+SyphiliticThoughts.stages.1.description,"OK, what I need is... uh... what was I doing again? Oh right this thing. This fucking thing THIS FUCKING PIECE OF SHIT. FUCKING DAMN PIECE OF GARBAGE",description,ThoughtDef/ThoughtDef.xml,def

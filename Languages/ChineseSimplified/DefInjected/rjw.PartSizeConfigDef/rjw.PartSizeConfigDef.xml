@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: standard anus size config-->
+  <DefaultAnusSizes.label>标准肛门尺寸配置</DefaultAnusSizes.label>
+  <!--EN: standard breast size config-->
+  <DefaultBreastSizes.label>标准乳房尺寸配置</DefaultBreastSizes.label>
+  <!--EN: standard penis size config-->
+  <DefaultPenisSizes.label>标准阴茎尺寸配置</DefaultPenisSizes.label>
+  <!--EN: standard vagina size config-->
+  <DefaultVaginaSizes.label>标准阴道尺寸配置</DefaultVaginaSizes.label>
+</LanguageData>

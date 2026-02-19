@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: breeding-->
+  <rjw_genes_breeding.label>繁殖</rjw_genes_breeding.label>
+  <!--EN: genital-related damage-->
+  <rjw_genes_damage.label>生殖器相关损伤</rjw_genes_damage.label>
+  <!--EN: genetic STDs-->
+  <rjw_genes_diseases.label>遗传性病</rjw_genes_diseases.label>
+  <!--EN: fertilin-->
+  <rjw_genes_fertilin.label>致育素</rjw_genes_fertilin.label>
+  <!--EN: fluids-->
+  <rjw_genes_fluids.label>体液</rjw_genes_fluids.label>
+  <!--EN: gender-->
+  <rjw_genes_gender.label>性别</rjw_genes_gender.label>
+  <!--EN: genitalia count-->
+  <rjw_genes_genitalia_extras.label>生殖器数量</rjw_genes_genitalia_extras.label>
+  <!--EN: genitalia size / attributes-->
+  <rjw_genes_genitalia_size.label>生殖器尺寸/属性</rjw_genes_genitalia_size.label>
+  <!--EN: cosmetic - genitalia type-->
+  <rjw_genes_genitalia_type.label>外观 - 生殖器类型</rjw_genes_genitalia_type.label>
+  <!--EN: genital-based special abilities-->
+  <rjw_genes_special.label>基于生殖器的特殊能力</rjw_genes_special.label>
+</LanguageData>

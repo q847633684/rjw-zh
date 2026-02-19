@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!--EN: AlienRace Compatibility (wip)-->
+  <SAAlinetRaceCompat>Humanoid Alien Races 相容性 (制作中)</SAAlinetRaceCompat>
+  <!--EN: Animated SizedApparel BodyParts (wip)-->
+  <SAAnimationPatch>SizedApparel 身体部位抖动(制作中)</SAAnimationPatch>
+  <!--EN: this option may animated breasts jiggle during animation.\n but not copatable with rimnudeworld.\ndefault: true-->
+  <SAAnimationPatchTooltip>这个选项可能会在动画期间使胸部抖动。\n但不支援 RimNudeWorld 胸部。\n默认: 启用</SAAnimationPatchTooltip>
+  <!--EN: Apparel Patch (Breasts Sized Apparel)-->
+  <SAApparelPatch>服装补丁(Sized Apparel 胸部服装)</SAApparelPatch>
+  <!--EN: Apply Animals-->
+  <SAApplyAnimals>应用于动物类</SAApplyAnimals>
+  <!--EN: Try to Apply SizedApparel to Animals if The textures are valid.\nThis may heavy performance \nDefault: false-->
+  <SAApplyAnimalsTooltip>如果纹理有效，尝试将 SizedApparel 应用于动物。\n这可能会影响性能\n默认: 不启用</SAApplyAnimalsTooltip>
+  <!--EN: Apply Apparel Patch for Male-->
+  <SAApplyApparelPatchForMale>适用于男性的服装补丁</SAApplyApparelPatchForMale>
+  <!--EN: It Skips breasts size test for male. Do you need man with breasts...? may be not.\nDefault: false-->
+  <SAApplyApparelPatchForMaleTooltip>它跳过了男性胸部尺寸检查。您需要有胸部的男性吗...?也许不需要。\n默认: 不启用</SAApplyApparelPatchForMaleTooltip>
+  <!--EN: Apply Humanlikes-->
+  <SAApplyHumanlikes>应用于人类角色</SAApplyHumanlikes>
+  <!--EN: Try to Apply SizedApparel to Humanlikes if The textures are valid.\nDefault: true-->
+  <SAApplyHumanlikesTooltip>如果纹理有效，尝试将 SizedApparel 应用于人类角色。\n默认: 启用</SAApplyHumanlikesTooltip>
+  <!--EN: Apply Mechanoid-->
+  <SAApplyMechanoid>应用于机械类</SAApplyMechanoid>
+  <!--EN: Try to Apply SizedApparel to Mech if The textures are valid.\nDefault: true-->
+  <SAApplyMechanoidTooltip>如果纹理有效，尝试将 SizedApparel 应用于机械类。\n默认: 启用</SAApplyMechanoidTooltip>
+  <!--EN: Body Part Render Option (wip)-->
+  <SABodyPartRender>身体部位渲染选项 (制作中)</SABodyPartRender>
+  <!--EN: standalone BodyPart Render System from this mod. It's for user who don't use RimNudeWorld\nIf you use RimNudeWorld, you should turn off this.-->
+  <SABodyPartRenderTooltip>该模组的独立身体部位渲染系统。适用于不使用 RimNudeWorld 的用户。\n如果使用 RimNudeWorld，则应关闭此功能。</SABodyPartRenderTooltip>
+  <!--EN: If you changed the option, try change apparels or reload save-->
+  <SAChangeWarn>如果您更改了选项，请尝试更换服装或重新载入保存。</SAChangeWarn>
+  <!--EN: Clear Cache-->
+  <SAClearCache>清除缓存</SAClearCache>
+  <!--EN: If you changed options, try Clear Cache to apply. Some options may need to restart-->
+  <SAClearCacheHeader>如果更改了选项，请尝试应用“清除缓存”。某些选项可能需要重新启动</SAClearCacheHeader>
+  <!--EN: Auto Clear Cache On Close Setting-->
+  <SAClearCacheOnClose>关闭时自动清除缓存设置</SAClearCacheOnClose>
+  <!--EN: Auto clear cache data to apply Setting.\nDefault: true-->
+  <SAClearCacheOnCloseText>自动清除缓存数据以应用设定。\n默认: 启用</SAClearCacheOnCloseText>
+  <!--EN: Press If you changed Option.-->
+  <SAClearCacheTooltip>“如果您更改了选项”需按下</SAClearCacheTooltip>
+  <!--EN: Debug Log-->
+  <SADebugLog>调试日志</SADebugLog>
+  <!--EN: Debug Log (Detail)-->
+  <SADebugLogDetail>调试日志 (详细列举)</SADebugLogDetail>
+  <!--EN: Debug logs for checking missing textures.\nDefault: false-->
+  <SADebugLogDetailText>用于检查缺失纹理的调试日志。\n默认: 不启用</SADebugLogDetailText>
+  <!--EN: Debug logs.\nDefault: false-->
+  <SADebugLogText>调试日志。\n默认: 不启用</SADebugLogText>
+  <!--EN: Sized Apparel Def Editor-->
+  <SADefEditor>Sized Appared Def 编辑器</SADefEditor>
+  <!--EN: Default:-->
+  <SADefault>默认:</SADefault>
+  <!--EN: Easy Setting Button-->
+  <SAEasyButton>简易设置按钮</SAEasyButton>
+  <!--EN: Apply Non Rimnude Setting-->
+  <SAEasyNonRnw>未启用 Rimnude 设置</SAEasyNonRnw>
+  <!--EN: Apply Rimnude Setting-->
+  <SAEasyRNW>已启用 Rimnude 设置</SAEasyRNW>
+  <!--EN: Force ignore unsupported apparel-->
+  <SAForcedSupportApparel>强制忽略不受支援的服装</SAForcedSupportApparel>
+  <!--EN: It may have clipping issue from unsupported parts.\nDefault: false-->
+  <SAForcedSupportApparelTooltip>不受支援的部分可能会产生裁切问题，例如大胸部会超出内衣纹理。\n默认: 不启用</SAForcedSupportApparelTooltip>
+  <!--EN: RJW Menstuation is Active-->
+  <SAMenstruationActive>RJW Menstuation 已启用</SAMenstruationActive>
+  <!--EN: RJW Menstuation is Not Active-->
+  <SAMenstruationInactive>RJW Menstuation 未启用</SAMenstruationInactive>
+  <!--EN: Activate RJW Menstuation patch-->
+  <SAMenstruationPatchActive>启用 RJW Menstuation 补丁</SAMenstruationPatchActive>
+  <!--EN: Apply RJW Menstuation nipple color-->
+  <SAMenstruationPatchActiveTooltip>启用 RJW Menstuation 乳头颜色</SAMenstruationPatchActiveTooltip>
+  <!--EN: Non RimJobWorld Compatibility (wip)-->
+  <SANonRJWCompat>非 RimJobWorld 相容性 (制作中)</SANonRJWCompat>
+  <!--EN: User Who play without RimJobWorld-->
+  <SANonRJWCompatTooltip>没有 RimJobWorld 的玩家</SANonRJWCompatTooltip>
+  <!--EN: Other Mod Compatibility-->
+  <SAOtherModCompatibility>其他Mod相容性</SAOtherModCompatibility>
+  <!--EN: RimJobWorld is Actived-->
+  <SARJWActive>RimJobWorld 启用</SARJWActive>
+  <!--EN: RimNudeWorld is not Actived-->
+  <SARNWInactive>RimNudeWorld 未启用</SARNWInactive>
+  <!--EN: use Sized Apparel Breasts graphic when worn.-->
+  <SARNWdrawSizedApparelBreastsOnlyWorn>穿着服装时使用 Sized Apparel 胸部纹理。</SARNWdrawSizedApparelBreastsOnlyWorn>
+  <!--EN: use Sized Apparel's breasts render for breasts of apparel. it will be hidden when the pawn is naked and rimnudeworld will handle nude. \ndefault = true;-->
+  <SARNWdrawSizedApparelBreastsOnlyWornTooltip>使用 Sized Apparel 的胸部渲染来呈现服装的胸部。当角色裸体时，它将被隐藏，由 RimNudeWorld 渲染裸体。\n默认: 启用;</SARNWdrawSizedApparelBreastsOnlyWornTooltip>
+  <!--EN: RandomPreCache-->
+  <SARandomPreCache>随机缓存</SARandomPreCache>
+  <!--EN: 15 sec ~ 2 min-->
+  <SARandomPreCacheTooltip>15 秒~ 2 分钟</SARandomPreCacheTooltip>
+  <!--EN: RimNudeWorld Compatibility (WIP)-->
+  <SARimnudeCompat>RimNudeWorld 相容性(制作中)</SARimnudeCompat>
+  <!--EN: RimworldAnimation (rjwAnimation) is Actived-->
+  <SARimworldAnimationActive>RimworldAnimation (rjw动画) 已启用</SARimworldAnimationActive>
+  <!--EN: RimworldAnimation (rjwAnimation) is not Actived-->
+  <SARimworldAnimationInactive>RimworldAnimation (rjw动画) 未启用</SARimworldAnimationInactive>
+  <!--EN: SafeJobWorld is Actived-->
+  <SASJWActive>SafeJobWorld 启用</SASJWActive>
+  <!--EN: Sized Apparel for RJW-->
+  <SASettingCategory>RJW - 服装尺码</SASettingCategory>
+  <!--EN: SizedApparel System Apply (apparel and body parts)-->
+  <SASystem>SizedApparel 系统应用(服装和身体部位)</SASystem>
+  <!--EN: Races-->
+  <SA_Alien_Settings>种族相关设定</SA_Alien_Settings>
+  <!--EN: Always draw belly-->
+  <SA_AlwaysDrawBelly>总是绘制腹部隆起</SA_AlwaysDrawBelly>
+  <!--EN: Draw belly even when wearing unsupported apparel.\nDefault: false-->
+  <SA_AlwaysDrawBellyTooltip>即使穿着不受SA支援的衣服，也会绘制出腹部隆起\n默认: 不启用</SA_AlwaysDrawBellyTooltip>
+  <!--EN: Always draw breasts-->
+  <SA_AlwaysDrawBreasts>总是绘制胸部</SA_AlwaysDrawBreasts>
+  <!--EN: Draw breasts even when wearing unsupported apparel.\nDefault: false-->
+  <SA_AlwaysDrawBreastsTooltip>即使穿着不受SA支援的衣服，也会绘制出胸部\n默认: 不启用</SA_AlwaysDrawBreastsTooltip>
+  <!--EN: Always draw multi breasts-->
+  <SA_AlwaysDrawMultiBreasts>总是绘制多对胸部</SA_AlwaysDrawMultiBreasts>
+  <!--EN: Draw multi breasts even when wearing unsupported apparel.\nDefault: false-->
+  <SA_AlwaysDrawMultiBreastsTooltip>即使穿着不受SA支援的服装，也能绘制多个胸部。\n默认: 不启用</SA_AlwaysDrawMultiBreastsTooltip>
+  <!--EN: Body parts-->
+  <SA_Body_Parts>身体部位设定</SA_Body_Parts>
+  <!--EN: Enable lazy texture loading for some SA textures-->
+  <SA_EnableLazyTexturesLoading>启用延迟载入部分 SA 纹理</SA_EnableLazyTexturesLoading>
+  <!--EN: WARNING: Disabling will cause lag as it will force all textures to load.\nLazy loading is for textures in the "SizedApparel" path\nIf you have enough ram/vram you should disable this option-->
+  <SA_EnableLazyTexturesLoadingTooltip>警告：停用后会造成延迟，因为会强制载入所有纹理。\n延迟载入仅适用于 "SizedApparel" 路径下的纹理。\n如果你的 RAM/VRAM 足够，建议停用此选项。\n默认: 启用</SA_EnableLazyTexturesLoadingTooltip>
+  <!--EN: General-->
+  <SA_General>基本设定</SA_General>
+  <!--EN: Match multi breast size-->
+  <SA_MultiBreastsMultiSize>匹配多种胸部尺寸</SA_MultiBreastsMultiSize>
+  <!--EN: Sets size for smaller breasts to larger size.\nDefault: true-->
+  <SA_MultiBreastsMultiSizeTooltip>将较小的胸部尺寸设置为较大的尺寸。\n默认: 启用</SA_MultiBreastsMultiSizeTooltip>
+  <!--EN: Draw Multi Breasts(experimental)-->
+  <SA_drawMultiBreasts>绘制多个胸部(实验)</SA_drawMultiBreasts>
+  <!--EN: Supports drawing a second pair of breasts(udder).\nDefault: false-->
+  <SA_drawMultiBreastsTooltip>支持绘制第二对胸部(乳头).\n默认: 不启用</SA_drawMultiBreastsTooltip>
+  <!--EN: AlienRace is Actived-->
+  <SAalienRaceActive>Humanoid Alien Races 已启用</SAalienRaceActive>
+  <!--EN: AlienRace is not Actived-->
+  <SAalienRaceInactive>Humanoid Alien Races 未启用</SAalienRaceInactive>
+  <!--EN: Allow Race Named Apparel-->
+  <SAallowRaceNamedApparel>允许种族命名服装</SAallowRaceNamedApparel>
+  <!--EN: This Race Can use separated texture from common race. even same BodyType name. \n Default: True-->
+  <SAallowRaceNamedApparelTooltip>该种族可以使用与普通种族不同的纹理，即使是相同的 BodyType 名称。\n 默认: 启用</SAallowRaceNamedApparelTooltip>
+  <!--EN: If Unsupported, As Human race-->
+  <SAasHuman>如果SA不支援该种族，则使用人类纹理</SAasHuman>
+  <!--EN: This Race will use Human race if it doesn't have own textures. useful for race that Unsupported but simillar to human-->
+  <SAasHumanTooltip>如果没有专属的纹理，这个种族将使用人类种族纹理。适用于未受支援但与人类相似的种族</SAasHumanTooltip>
+  <!--EN: Always Jiggle-->
+  <SAbreastsPhysics>胸部总是摇晃</SAbreastsPhysics>
+  <!--EN: Breasts can be jiggled (for now. it works when nude only). Won't work with RimNudeWorld Breasts Rendering.\nOff=jiggle only during sex, On=always jiggle \ndefault = false-->
+  <SAbreastsPhysicsTooltip>胸部可以摇晃(目前仅在裸体时有效)。\n无法与 RimNudeWorld 胸部渲染一起使用。\n不启用=仅在性交时摇晃，启用=始终摇晃\n默认: 不启用</SAbreastsPhysicsTooltip>
+  <!--EN: Disable JiggleUp-->
+  <SAdisableJiggle>禁用胸部摇晃</SAdisableJiggle>
+  <!--EN: Completely disable JiggleUp-->
+  <SAdisableJiggleTooltip>完全禁用胸部摇晃</SAdisableJiggleTooltip>
+  <!--EN: Disable this option when you use RimNudeWorld-->
+  <SAdisableWithRNW>使用 RimNudeWorld 时禁用此选项</SAdisableWithRNW>
+  <!--EN: Draw Anus-->
+  <SAdrawAnus>绘制 肛门</SAdrawAnus>
+  <!--EN: Draw Belly Buldge-->
+  <SAdrawBelly>绘制 腹部隆起</SAdrawBelly>
+  <!--EN: Draw Body Parts-->
+  <SAdrawBodyParts>绘制 身体部位</SAdrawBodyParts>
+  <!--EN: Draw Breasts..etc. when the pawn is wearing supported apparels. \nDefault: true-->
+  <SAdrawBodyPartsTooltip>绘制胸部..等相关。当角色穿着有支持的服装时。\n默认: 启用</SAdrawBodyPartsTooltip>
+  <!--EN: Draw Breasts-->
+  <SAdrawBreasts>绘制 胸部</SAdrawBreasts>
+  <!--EN: this option is why this mod exist.\nDefault: true-->
+  <SAdrawBreastsTooltip>这也是本模组存在的原因。\n默认: 启用</SAdrawBreastsTooltip>
+  <!--EN: SA BodyPart Draw Min Age:-->
+  <SAdrawMinAge>SA 身体部位绘图最低年龄:</SAdrawMinAge>
+  <!--EN: Lower than this age will not use Sized Apparel. Useful for BnC. -1 for disable-->
+  <SAdrawMinAgeTooltip>低于此年龄的人将不会使用 Sized Apparel。对于 BnC 很有用。-1表示禁用</SAdrawMinAgeTooltip>
+  <!--EN: Draw Penis-->
+  <SAdrawPenis>绘制 阴茎</SAdrawPenis>
+  <!--EN: Draw Pubic Hair-->
+  <SAdrawPubicHair>绘制 阴毛</SAdrawPubicHair>
+  <!--EN: draw Breasts on worn pawn only (RimNudeWorld)-->
+  <SAdrawSizedApparelBreastsOnlyWorn>仅在有穿衣服的角色上绘制胸部(RimNudeWorld)</SAdrawSizedApparelBreastsOnlyWorn>
+  <!--EN: when the pawn is nude, the breasts graphic for sized apparel will be hidden. \nDefault: false-->
+  <SAdrawSizedApparelBreastsOnlyWornTooltip>当角色为裸体时，Sized Apparel 的胸部纹理将被隐藏。\n(该选项设计给只显示RimNudeWorld裸体使用)\n默认: 不启用</SAdrawSizedApparelBreastsOnlyWornTooltip>
+  <!--EN: Draw Vagina-->
+  <SAdrawVagina>绘制 阴道</SAdrawVagina>
+  <!--EN: Hide Balls of Futa-->
+  <SAhideBallOfFuta>隐藏 扶她睾丸</SAhideBallOfFuta>
+  <!--EN: Hide Balls from penis of Futa.\nDefault: false-->
+  <SAhideBallOfFutaTooltip>将睾丸从扶她的阴茎上隐藏起来。\n默认: 不启用</SAhideBallOfFutaTooltip>
+  <!--EN: Hide Penis of Man(Not Work yet)-->
+  <SAhidePenisOfMale>隐藏 人类的阴茎(功能尚未完成)</SAhidePenisOfMale>
+  <!--EN: this option is for someone who really hate to see male's dick around.\nDefault: false-->
+  <SAhidePenisOfMaleTooltip>这个选项是为那些不愿意看到男性的鸡巴在周围的人准备的。\n默认: 不启用</SAhidePenisOfMaleTooltip>
+  <!--EN: Match Breasts size to supported apparels-->
+  <SAmatchBreastToSupportedApparelSize>将胸部尺寸与支持的服装相匹配</SAmatchBreastToSupportedApparelSize>
+  <!--EN: to avoid breasts clipping(when breasts are bigger), you need this option.\nDefault: true-->
+  <SAmatchBreastToSupportedApparelSizeTooltip>为避免胸部裁切(当胸部变大时)，您需要使用该选项。\n默认: 启用</SAmatchBreastToSupportedApparelSizeTooltip>
+  <!--EN: [overdrive]-->
+  <SAoverdrive>[overdrive]</SAoverdrive>
+  <!--EN: random Size Max:-->
+  <SArandomSizeMax>随机尺寸最大值:</SArandomSizeMax>
+  <!--EN: random Size Min:-->
+  <SArandomSizeMin>随机尺寸最小值:</SArandomSizeMin>
+  <!--EN: RimNudeWorld is On!. Please check SizedApparel's Body parts render option-->
+  <SArimNudeWorldActive>RimNudeWorld 正在运行!。请查看 SizedApparel 的身体部位渲染选项</SArimNudeWorldActive>
+  <!--EN: disable all body parts render except the breasts. and set it to only worn option true-->
+  <SArimNudeWorldActiveTooltip>禁用除胸部以外的所有身体部位渲染。并将"穿着服装启用SA胸部纹理"选项设定为启用</SArimNudeWorldActiveTooltip>
+  <!--EN: Show BodyPart Variation Description-->
+  <SAshowBodyPartsVariation>显示身体部件变体资讯</SAshowBodyPartsVariation>
+  <!--EN: Show more info in bodyparts that sized apparel added. such as inverted nipple-->
+  <SAshowBodyPartsVariationTooltip>尺码服装 添加的身体部位显示更多资讯。如乳头内陷</SAshowBodyPartsVariationTooltip>
+  <!--EN: Use (Sized Apparel) Base Body Texture-->
+  <SAuseBodyTexture>使用 (Sized Apparel) 基本身体纹理</SAuseBodyTexture>
+  <!--EN: change pawn's body texture when the pawn is wearing supported apparels. Recommanded\nDefault: true-->
+  <SAuseBodyTextureTooltip>当角色穿着支持的服装时，改变角色的身体纹理。建议启用\n默认: 启用</SAuseBodyTextureTooltip>
+  <!--EN: Use Gender Specific Textures.-->
+  <SAuseGenderSpecificTexture>使用特定性别的纹理。</SAuseGenderSpecificTexture>
+  <!--EN: Use Gender Specific texture for body and apparel if it's valid. \nDefault: true-->
+  <SAuseGenderSpecificTextureTooltip>如果启用，在身体和服装上使用特定性别的纹理。\n默认: 启用</SAuseGenderSpecificTextureTooltip>
+  <!--EN: use Random Breasts Size(not yet work)-->
+  <SAuseRandomSize>使用随机胸部大小(尚未工作)</SAuseRandomSize>
+  <!--EN: use breasts random size for pawn.\nDefault: true-->
+  <SAuseRandomSizeTooltip>角色使用随机胸部大小。\n默认: 启用</SAuseRandomSizeTooltip>
+  <!--EN: use SafeJobWorld's Breasts(Hidden to player but it exist)-->
+  <SAuseSafeJobBreasts>使用 SafeJobWorld 的胸部(对玩家隐藏但它存在)</SAuseSafeJobBreasts>
+  <!--EN: use BreastsSize from SJW.\nDefault: true-->
+  <SAuseSafeJobBreastsTooltip>使用 SJW 的胸部尺寸。\n默认: 启用</SAuseSafeJobBreastsTooltip>
+</LanguageData>

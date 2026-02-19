@@ -1,0 +1,276 @@
+key,text,tag,file,type
+RV2Interactions_Tab,Interactions,RV2Interactions_Tab,RV2_RutSettings_Keys.xml,keyed
+RV2Interaction_Settings_InteractionChance,Interaction chance,RV2Interaction_Settings_InteractionChance,RV2_RutSettings_Keys.xml,keyed
+RV2Interaction_Settings_InteractionChanceTip,"How likely predator and prey will interact with each other, each vore-tick.",RV2Interaction_Settings_InteractionChanceTip,RV2_RutSettings_Keys.xml,keyed
+RV2Interaction_Settings_MultiPreyModifier,Multi-prey modifier,RV2Interaction_Settings_MultiPreyModifier,RV2_RutSettings_Keys.xml,keyed
+RV2Interaction_Settings_MultiPreyModifier_Tip,"Interation odds are lowered if the pred has multiple prey. At 100%, each prey lowers interaction odds by a factor of 1, keeping the total chance for an interaction to the base chance.\n\nNote that preds can potentaly interact with multiple prey at once.",RV2Interaction_Settings_MultiPreyModifier_Tip,RV2_RutSettings_Keys.xml,keyed
+RV2Interaction_Settings_OpinionModifier,Opinion modifier,RV2Interaction_Settings_OpinionModifier,RV2_RutSettings_Keys.xml,keyed
+RV2Interaction_Settings_OpinionModifierTip,"How much the pred and prey's opinion of each other affect interaction odds. 100% doubles odds at 100 opinion, and halves at -100.",RV2Interaction_Settings_OpinionModifierTip,RV2_RutSettings_Keys.xml,keyed
+RV2Interaction_Settings_BaseOpinionMod,Opinion offset,RV2Interaction_Settings_BaseOpinionMod,RV2_RutSettings_Keys.xml,keyed
+RV2Interaction_Settings_BaseOpinionMod_Tip,"How much to offset the predator and prey's opinion of each other, when determining what interactions to use. High opinion leads to more amicable interactions. Does not affect their base opinions of each other.",RV2Interaction_Settings_BaseOpinionMod_Tip,RV2_RutSettings_Keys.xml,keyed
+RV2Interaction_Settings_KindOpinionMod,Kind modifier,RV2Interaction_Settings_KindOpinionMod,RV2_RutSettings_Keys.xml,keyed
+RV2Interaction_Settings_KindOpinionMod_Tip,How much opinion to add if either the pred or prey have the Kind trait.,RV2Interaction_Settings_KindOpinionMod_Tip,RV2_RutSettings_Keys.xml,keyed
+RV2Interaction_Settings_SkillOpinionMod,Skill modifier,RV2Interaction_Settings_SkillOpinionMod,RV2_RutSettings_Keys.xml,keyed
+RV2Interaction_Settings_SkillOpinionMod_Tip,How much opinion to add for the pred or prey's skills in Social or Animals. Maxes out to this value at level 20.,RV2Interaction_Settings_SkillOpinionMod_Tip,RV2_RutSettings_Keys.xml,keyed
+RV2I_Prey_AnimalNuzzle.stages.0.label,nuzzled from inside,label,ThoughtDef/ThoughtDef.xml,def
+RV2I_Prey_AnimalNuzzle.stages.0.description,My prey nuzzled me.,description,ThoughtDef/ThoughtDef.xml,def
+RV2I_Predator_AnimalNuzzle.stages.0.label,nuzzled by predator,label,ThoughtDef/ThoughtDef.xml,def
+RV2I_Predator_AnimalNuzzle.stages.0.description,My predator kept nuzzling me.,description,ThoughtDef/ThoughtDef.xml,def
+RV2I_Squirm_Pred.stages.0.label,squirming prey,label,ThoughtDef/ThoughtDef.xml,def
+RV2I_Squirm_Pred.stages.0.description,Always feels nice to have a squirmer.,description,ThoughtDef/ThoughtDef.xml,def
+RV2I_Squirm_Prey.stages.0.label,squirmer,label,ThoughtDef/ThoughtDef.xml,def
+RV2I_Squirm_Prey.stages.0.description,Always feels nice to mess with a pred.,description,ThoughtDef/ThoughtDef.xml,def
+RV2I_Comfort.stages.0.label,comforted,label,ThoughtDef/ThoughtDef.xml,def
+RV2I_Comfort.stages.0.description,Nice preds are the best.,description,ThoughtDef/ThoughtDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.2,r_logentry(p=0.8)->[INITIATOR_nameDef] [teaseadd][teaseask] [RECIPIENT_nameDef] about [teasesubject].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.3,r_logentry(p=2)->[INITIATOR_nameDef] [check] [internal].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.4,talkedabout(p=4)->chatted about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.5,talkedabout->shared a word about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.6,talkedabout->spoke about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.7,talkedabout->gabbed about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.8,talkedabout->talked about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.9,talkedabout->joked about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.10,talkedabout->quipped about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.11,talkedabout(p=4)->chatted about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.12,talkedabout->shared a word about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.13,talkedabout->spoke about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.14,talkedabout->gabbed about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.15,talkedabout->talked about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.16,talkedabout->joked about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.17,talkedabout->quipped about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.18,teaseadd->playfully,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.19,teaseadd->harmlessly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.20,teaseadd->,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.21,teaseadd->,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.22,teaseadd->,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.23,teaseask->teased,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.24,teaseask->joked with,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.25,teaseask->gaffed with,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.26,teaseask->told a joke with,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.27,teasesubject->[RECIPIENT_possessive] flavor,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.28,teasesubject->[RECIPIENT_possessive] comfort,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.29,teasesubject->being full,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.30,teasesubject->being prey,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.31,teasesubject->belching,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.32,teasesubject->entrapment,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.33,teasesubject->captorism,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.34,teasesubject->perma vore,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.35,teasesubject->forgetting who [RECIPIENT_pronoun] ate,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.36,teasesubject->living colonies,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.37,check->checked up on [RECIPIENT_nameDef],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.38,check->asked if [RECIPIENT_nameDef] needed anything,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.39,check->made sure [RECIPIENT_nameDef] was comfortable,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.40,check->casually talked with [INITIATOR_possessive] prey,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.41,check->gently comforted [INITIATOR_possessive] prey,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.42,internal->within [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.43,internal->inside [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.44,internal->trapped within [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.45,internal->trapped inside [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.46,internal->stowed within [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Chitchat.logRulesInitiator.rulesStrings.47,internal->stowed inside [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.label,deep talk,label,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.logRulesInitiator.rulesStrings.0,r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.logRulesInitiator.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.logRulesInitiator.rulesStrings.2,talkedabout->communicated thoughts about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.logRulesInitiator.rulesStrings.3,talkedabout->exchanged thoughts about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.logRulesInitiator.rulesStrings.4,talkedabout->exchanged ideas about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.logRulesInitiator.rulesStrings.5,talkedabout->shared views on,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.logRulesInitiator.rulesStrings.6,talkedabout->shared beliefs on,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.logRulesInitiator.rulesStrings.7,talkedabout->discussed the topic of,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.logRulesInitiator.rulesStrings.8,talkedabout->had a heartfelt conversation about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.logRulesInitiator.rulesStrings.9,talkedabout->talked quietly about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.logRulesInitiator.rulesStrings.10,talkedabout->talked deeply about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.logRulesInitiator.rulesStrings.11,talkedabout->connected on the topic of,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_DeepTalk.logRulesInitiator.rulesStrings.12,subject->[TalkTopicHeavy],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.label,slight,label,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.0,r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [PersonalCharacteristic].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.1,target(p=4)->[RECIPIENT_nameDef],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.2,target->[RECIPIENT_nameDef]'s [PersonFamily],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.3,madefunof->made fun of,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.4,madefunof->disrespected,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.5,madefunof->subtly scorned,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.6,madefunof->subtly shamed,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.7,madefunof->spoke badly of,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.8,madefunof->spoke negatively of,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.9,madefunof->laughed at,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.10,madefunof->sniggered at,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.11,madefunof->implied negative things about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.12,madefunof->belittled,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.13,madefunof->made a contemptuous remark about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPred.logRulesInitiator.rulesStrings.14,madefunof->offered a backhanded compliment about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.label,slight,label,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.0,r_logentry->[RECIPIENT_nameDef] [madefunof] [target]'s [PersonalCharacteristic].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.1,target(p=4)->[INITIATOR_nameDef],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.2,target->[INITIATOR_nameDef]'s [PersonFamily],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.3,madefunof->made fun of,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.4,madefunof->disrespected,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.5,madefunof->subtly scorned,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.6,madefunof->subtly shamed,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.7,madefunof->spoke badly of,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.8,madefunof->spoke negatively of,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.9,madefunof->laughed at,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.10,madefunof->sniggered at,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.11,madefunof->implied negative things about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.12,madefunof->belittled,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.13,madefunof->made a contemptuous remark about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_SlightPrey.logRulesInitiator.rulesStrings.14,madefunof->offered a backhanded compliment about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.label,insult,label,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.0,r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.1,r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.2,r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.3,target(p=4)->[RECIPIENT_nameDef],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.4,target->[RECIPIENT_nameDef]'s [PersonFamily],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.5,insulted(p=3)->insulted,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.6,insulted->openly insulted,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.7,insulted->loudly insulted,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.8,insulted->flagrantly insulted,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.9,insulted->directly insulted,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.10,insulted->viciously insulted,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.11,insulted->flagrantly disrespected,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.12,insulted->slandered,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.13,insulted->hurled invective about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.14,insulted->derided,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.15,insultcomparison(p=2)->[Animal],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPred.logRulesInitiator.rulesStrings.16,insultcomparison->[Enemy],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.label,insult,label,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.0,r_logentry(p=3)->[RECIPIENT_nameDef] [insulted] [target]'s [PersonalCharacteristic].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.1,r_logentry->[RECIPIENT_nameDef] compared [target] to a [insultcomparison].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.2,r_logentry->[RECIPIENT_nameDef] called [target] a [insultcomparison].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.3,target(p=4)->[INITIATOR_nameDef],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.4,target->[INITIATOR_nameDef]'s [PersonFamily],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.5,insulted(p=3)->insulted,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.6,insulted->openly insulted,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.7,insulted->loudly insulted,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.8,insulted->flagrantly insulted,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.9,insulted->directly insulted,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.10,insulted->viciously insulted,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.11,insulted->flagrantly disrespected,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.12,insulted->slandered,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.13,insulted->hurled invective about,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.14,insulted->derided,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.15,insultcomparison(p=2)->[Animal],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_InsultPrey.logRulesInitiator.rulesStrings.16,insultcomparison->[Enemy],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.label,comfort,label,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.0,r_logentry->[INITIATOR_nameDef] [gentleAdv][embraced] [prey].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.1,gentleAdv(p=2)->,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.2,gentleAdv->gently,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.3,gentleAdv->carefully,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.4,gentleAdv->slowly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.5,gentleAdv->sweetly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.6,gentleAdv->lovingly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.7,embraced(p=4)->held,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.8,embraced->embraced,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.9,embraced->hugged,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.10,embraced->embraced,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.11,embraced->caressed,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.12,embraced->cradled,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.13,prey(p=4)->[RECIPIENT_nameDef][internal],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.14,prey->[INITIATOR_possessive] prey[internal],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.15,prey->[INITIATOR_possessive] occupant[internal],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.16,internal(p=5)->,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.17,internal-> within [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.18,internal-> inside [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.19,internal-> trapped within [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.20,internal-> trapped inside [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.21,internal-> stowed within [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Comfort.logRulesInitiator.rulesStrings.22,internal-> stowed inside [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.label,squirm,label,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.0,r_logentry->[INITIATOR_nameDef] [shiver] as [prey] [squirm][inside].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.1,shiver(p=4)->shivered,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.2,shiver->sighs,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.3,shiver->lightly bites [INITIATOR_possessive] lip,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.4,shiver->relaxes,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.5,shiver->adjusts,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.6,prey(p=4)->[RECIPIENT_nameDef],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.7,prey->[INITIATOR_possessive] prey,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.8,prey->[INITIATOR_possessive] meal,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.9,prey->[INITIATOR_possessive] snack,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.10,squirm->squirms,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.11,squirm->wriggles,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.12,squirm->nuzzles,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.13,squirm->shuffles,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.14,squirm->rubs around,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.15,squirm->slowly rolls,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.16,squirm->gently writhes,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.17,squirm->gently pushes out,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.18,squirm->streches,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.19,inside(p=4)->,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.20,inside-> within [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.21,inside-> inside [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.22,inside-> trapped within [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.23,inside-> trapped inside [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.24,inside-> stowed within [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_PreySquirm.logRulesInitiator.rulesStrings.25,inside-> stowed inside [INITIATOR_objective],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.label,nuzzle,label,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.0,r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb][nuzzled] [prey].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [nuzzleadverb]licked over [prey].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.2,r_logentry->[INITIATOR_nameDef] [nuzzleadverb]clenched [prey] deeper into [INITIATOR_objective].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.3,r_logentry->[INITIATOR_nameDef] [nuzzleadverb]rubbed [INITIATOR_possessive] [snout] against [prey].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.4,nuzzled(p=2)->nuzzled,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.5,nuzzled->snuggled up to,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.6,nuzzleadverb(p=4)->,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.7,nuzzleadverb->playfully,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.8,nuzzleadverb->gently,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.9,nuzzleadverb->encouragingly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.10,nuzzleadverb->happily,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.11,nuzzleadverb->softly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.12,nuzzleadverb->supportively,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.13,nuzzleadverb->lightly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.14,nuzzleadverb->warmly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.15,nuzzleadverb->plaintively,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.16,nuzzleadverb->lovingly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.17,nuzzleadverb->affectionately,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.18,snout(p=2)->nose,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.19,snout->snout,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.20,snout->head,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.21,snout->head,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.22,prey(p=2)->[RECIPIENT_nameDef],li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.23,prey->[INITIATOR_possessive] prey,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.24,prey->[INITIATOR_possessive] meal,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Pred.logRulesInitiator.rulesStrings.25,prey->[INITIATOR_possessive] snack,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.label,nuzzle,label,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.0,r_logentry(p=2)->[RECIPIENT_nameDef][nuzzleadverb] [nuzzled] [INITIATOR_nameDef]'s [adjt][rubbedpart].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.1,r_logentry->[INITIATOR_nameDef] [act] as [RECIPIENT_nameDef][nuzzleadverb] [nuzzled] [INITIATOR_possessive] [adjt][rubbedpart].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.2,r_logentry->[RECIPIENT_nameDef][nuzzleadverb] [nuzzled] against [INITIATOR_nameDef]'s [adjt][rubbedpart].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.3,r_logentry->[RECIPIENT_nameDef] [relax] into [INITIATOR_nameDef]'s body as [INITIATOR_pronoun][nuzzleadverb] [hold] [INITIATOR_objective].,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.4,act(p=2)->sighs,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.5,act->squirms a little,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.6,act->pets over [INITIATOR_possessive] prey,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.7,act->nearly trips,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.8,act->bites [INITIATOR_possessive] lip a little,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.9,act->instictualy clenches [INITIATOR_possessive] prey,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.10,nuzzled(p=2)->nuzzled,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.11,nuzzled->snuggled up against,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.12,nuzzled->brushed against,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.13,nuzzled->leaned into,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.14,nuzzled->streches into,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.15,nuzzleadverb(p=4)->,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.16,nuzzleadverb-> gently,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.17,nuzzleadverb-> encouragingly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.18,nuzzleadverb-> happily,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.19,nuzzleadverb-> softly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.20,nuzzleadverb-> supportively,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.21,nuzzleadverb-> playfully,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.22,nuzzleadverb-> warmly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.23,nuzzleadverb-> plaintively,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.24,nuzzleadverb-> lovingly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.25,nuzzleadverb-> affectionately,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.26,adjt(p=4)->,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.27,adjt->warm,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.28,adjt->comfortable,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.29,adjt->snug,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.30,relax(p=3)->relaxes,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.31,relax->nuzzles softly,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.32,relax->goes limp,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.33,relax->rests,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.34,relax->curls up,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.35,hold(p=3)->holds,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.36,hold->comforts,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.37,hold->pets,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.38,hold->cradles,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.39,hold->hugs,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.40,rubbedpart->innards,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.41,rubbedpart->insides,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def
+RV2I_Nuzzle_Prey.logRulesInitiator.rulesStrings.42,rubbedpart->inner walls,li,RV2_Interactions.VoreSocialInteractionDef/RV2_Interactions.VoreSocialInteractionDef.xml,def

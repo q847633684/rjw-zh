@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings>
+    <!--EN: nounInsert->whore-->
+    <li>nounInsert-&gt;妓女</li>
+    <!--EN: nounInsert->prostitute-->
+    <li>nounInsert-&gt;娼妓</li>
+    <!--EN: nounInsert->temptress-->
+    <li>nounInsert-&gt;诱惑者</li>
+    <!--EN: nounInsert->madam-->
+    <li>nounInsert-&gt;老鸨</li>
+    <!--EN: nounInsert->harlot-->
+    <li>nounInsert-&gt;淫妇</li>
+    <!--EN: nounInsert->seductress-->
+    <li>nounInsert-&gt;勾引者</li>
+  </CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings>
+  <CB_NamerRoleWhoring.rulePack.rulesStrings>
+    <!--EN: r_roleName(p=4)->[nounInsert]-->
+    <li>r_roleName(p=4)-&gt;[nounInsert]</li>
+    <!--EN: r_roleName(p=2)->[memeAdjective] [nounInsert]-->
+    <li>r_roleName(p=2)-&gt;[memeAdjective][nounInsert]</li>
+    <!--EN: r_roleName->[nounInsert] of [chosenTheme]-->
+    <li>r_roleName-&gt;[chosenTheme]的[nounInsert]</li>
+    <!--EN: r_roleName->[nounInsert] of [keyDeity]-->
+    <li>r_roleName-&gt;[keyDeity]的[nounInsert]</li>
+    <!--EN: r_roleName->[nounInsert] of [memeConcept]-->
+    <li>r_roleName-&gt;[memeConcept]的[nounInsert]</li>
+    <!--EN: r_roleName->[nounInsert] of [chosenIdeoName]-->
+    <li>r_roleName-&gt;[chosenIdeoName]的[nounInsert]</li>
+    <!--EN: r_roleName->[chosenAdjective] [nounInsert]-->
+    <li>r_roleName-&gt;[chosenAdjective][nounInsert]</li>
+    <!--EN: r_roleName->[keyDeity]'s [nounInsert]-->
+    <li>r_roleName-&gt;[keyDeity]的[nounInsert]</li>
+  </CB_NamerRoleWhoring.rulePack.rulesStrings>
+</LanguageData>

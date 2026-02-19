@@ -1,5 +1,0 @@
-key,text,tag,file,type
-settings_tabs_genes,Genes,settings_tabs_genes,Labels-Genes.xml,keyed
-lifeForce_header,Life Force,lifeForce_header,Labels-Genes.xml,keyed
-lifeForce_minAge_title,Minimum age,lifeForce_minAge_title,Labels-Genes.xml,keyed
-lifeForce_minAge_desc,The age at which the gene becomes active.,lifeForce_minAge_desc,Labels-Genes.xml,keyed
