@@ -1,343 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: [PAWN_label] can merge with other living beings on a cellular level, both permanently (assimilation) and temporarily (amalgamation).-->
-  <Enablers_Overstuffed_Goal_Absorb.description>[PAWN_label]可以在细胞水平上与其他生物融合，永久 (同化) 和暂时 (融合)。</Enablers_Overstuffed_Goal_Absorb.description>
-  <!--EN: Cellular absorbency-->
-  <Enablers_Overstuffed_Goal_Absorb.label>细胞吸收</Enablers_Overstuffed_Goal_Absorb.label>
-  <!--EN: [PAWN_label] can merge with other living beings on the cellular level, but only safely. Permanent integration is not possible.-->
-  <Enablers_Overstuffed_Goal_Amalgamate.description>[PAWN_label]可以在细胞层面上与其他生物融合，但只能安全地进行。无法永久集成。</Enablers_Overstuffed_Goal_Amalgamate.description>
-  <!--EN: Cellular amalgamation-->
-  <Enablers_Overstuffed_Goal_Amalgamate.label>细胞融合</Enablers_Overstuffed_Goal_Amalgamate.label>
-  <!--EN: [PAWN_label] can merge with other beings on the cellular level, but it's always a fatal process.-->
-  <Enablers_Overstuffed_Goal_Assimilate.description>[PAWN_label]可以在细胞层面上与其他人融合，但这始终是一个致命的过程。</Enablers_Overstuffed_Goal_Assimilate.description>
-  <!--EN: Cellular assimilation-->
-  <Enablers_Overstuffed_Goal_Assimilate.label>细胞同化</Enablers_Overstuffed_Goal_Assimilate.label>
-  <!--EN: [PAWN_label] can melt live prey down to chemfuel in a number of locations on [PAWN_possessive] body.-->
-  <Enablers_Overstuffed_Goal_ConvertChemfuel.description>[PAWN_label]可以在多个位置将活着的猎物融化成化合燃料。[PAWN_possessive]身体。</Enablers_Overstuffed_Goal_ConvertChemfuel.description>
-  <!--EN: Olifactive enzymes-->
-  <Enablers_Overstuffed_Goal_ConvertChemfuel.label>术酶</Enablers_Overstuffed_Goal_ConvertChemfuel.label>
-  <!--EN: [PAWN_label] can melt live prey down to eggs in [PAWN_possessive] ovaries.-->
-  <Enablers_Overstuffed_Goal_ConvertEggs.description>[PAWN_label]可以将活着的猎物融化成卵[PAWN_possessive]卵巢。</Enablers_Overstuffed_Goal_ConvertEggs.description>
-  <!--EN: Ovifactive enzymes-->
-  <Enablers_Overstuffed_Goal_ConvertEggs.label>产卵酶</Enablers_Overstuffed_Goal_ConvertEggs.label>
-  <!--EN: [PAWN_label]  can melt live prey down to fertilizer-grade urine in [PAWN_possessive] kidneys.-->
-  <Enablers_Overstuffed_Goal_ConvertUrine.description>[PAWN_label]可以将活着的猎物融化成肥料级的尿[PAWN_possessive]肾脏。</Enablers_Overstuffed_Goal_ConvertUrine.description>
-  <!--EN: Urifactive enzymes-->
-  <Enablers_Overstuffed_Goal_ConvertUrine.label>化学酶</Enablers_Overstuffed_Goal_ConvertUrine.label>
-  <!--EN: [PAWN_label] has a bust deep enough to contain live prey.-->
-  <Enablers_Overstuffed_Type_Cleavage.description>[PAWN_label]拥有足以容纳活物的胸部。</Enablers_Overstuffed_Type_Cleavage.description>
-  <!--EN: Cleavage depth-->
-  <Enablers_Overstuffed_Type_Cleavage.label>乳沟深度</Enablers_Overstuffed_Type_Cleavage.label>
-  <!--EN: [PAWN_label] has a permeable outer membrane which can be used to engulf live prey, like a slime.-->
-  <Enablers_Overstuffed_Type_Membrane.description>[PAWN_label]具有可被吞噬的活的外膜，比如史莱姆</Enablers_Overstuffed_Type_Membrane.description>
-  <!--EN: Dermal porocity-->
-  <Enablers_Overstuffed_Type_Membrane.label>皮肤拥挤</Enablers_Overstuffed_Type_Membrane.label>
-  <!--EN: [PAWN_label] has an untied and stretchy navel with which to ennavel live prey.-->
-  <Enablers_Overstuffed_Type_Navel.description>[PAWN_label]有一个解开的衣物和可伸展的肚脐，用以抓住猎物的肚脐。</Enablers_Overstuffed_Type_Navel.description>
-  <!--EN: Umbilical elasticity-->
-  <Enablers_Overstuffed_Type_Navel.label>脐带弹力</Enablers_Overstuffed_Type_Navel.label>
-  <!--EN: [PAWN_label] has a maw on [PAWN_possessive] tail stretchy enough to pythen live prey.-->
-  <Enablers_Overstuffed_Type_Tailmaw.description>[PAWN_label]有一个大小姐[PAWN_possessive]一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。有足够的拉伸力以将猎物点燃。</Enablers_Overstuffed_Type_Tailmaw.description>
-  <!--EN: Tailmaw elasticity-->
-  <Enablers_Overstuffed_Type_Tailmaw.label>尾毛弹性</Enablers_Overstuffed_Type_Tailmaw.label>
-  <!--EN: [PAWN_label] has udder teats stretchy enough to unnurse live prey.-->
-  <Enablers_Overstuffed_Type_Udder.description>[PAWN_label]让乳房乳头有足够的弹性，可以拆解活的猎物。</Enablers_Overstuffed_Type_Udder.description>
-  <!--EN: Uberal elasticity-->
-  <Enablers_Overstuffed_Type_Udder.label>旺盛的弹性</Enablers_Overstuffed_Type_Udder.label>
-  <!--EN: [PAWN_label] dislikes amalgamating prey. The drain (on hunger and focus) isn't worth the gain.-->
-  <GoalPreference_Predator_Amalgamate_Dislikes.description>[PAWN_label]厌恶合并的猎物。消耗 (饥饿和专注) 是不值得的。</GoalPreference_Predator_Amalgamate_Dislikes.description>
-  <!--EN: Reclusive soul-->
-  <GoalPreference_Predator_Amalgamate_Dislikes.label>孤僻之魂</GoalPreference_Predator_Amalgamate_Dislikes.label>
-  <!--EN: As a melangist(e), [PAWN_label] enjoys having people around as sapient fat.-->
-  <GoalPreference_Predator_Amalgamate_Likes.description>作为一个melangist(e),[PAWN_label]喜欢有肥胖的人在身边。</GoalPreference_Predator_Amalgamate_Likes.description>
-  <!--EN: Melangist-->
-  <GoalPreference_Predator_Amalgamate_Likes.label>机械之徒</GoalPreference_Predator_Amalgamate_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about amalgamating prey. That may or may not be due to [PAWN_label] not being capable of amalgamation in the first place.-->
-  <GoalPreference_Predator_Amalgamate_Neutral.description>[PAWN_label]不在乎如何合并猎物。可能或可能不是由于[PAWN_label]一开始就不能合并。</GoalPreference_Predator_Amalgamate_Neutral.description>
-  <!--EN: Amalgamation ambivalence-->
-  <GoalPreference_Predator_Amalgamate_Neutral.label>合并矛盾情绪</GoalPreference_Predator_Amalgamate_Neutral.label>
-  <!--EN: As an obsessive melangist(e), [PAWN_label] wants to walk around with as many people amalgamated onto [PAWN_objective] as [PAWN_pronoun] can fit, and will waste little time with other goals.-->
-  <GoalPreference_Predator_Amalgamate_Obsessed.description>作为一个过度狂melangist(e),[PAWN_label]想要和尽可能多的人一起四处走动[PAWN_objective]机械体[PAWN_pronoun]能够达成目标，并且在实现其他目标时只会浪费少量的时间。</GoalPreference_Predator_Amalgamate_Obsessed.description>
-  <!--EN: Melangist hoarder-->
-  <GoalPreference_Predator_Amalgamate_Obsessed.label>梅兰吉派收集者</GoalPreference_Predator_Amalgamate_Obsessed.label>
-  <!--EN: [PAWN_label] hates amalgamating prey and will never willingly do it. That's a degree of intimacy too close, a loss of privacy too great.-->
-  <GoalPreference_Predator_Amalgamate_Refuses.description>[PAWN_label]讨厌合并猎物，绝不会心甘情愿地这么做。一个等级亲密太近，隐私损失太大。</GoalPreference_Predator_Amalgamate_Refuses.description>
-  <!--EN: Solitary soul-->
-  <GoalPreference_Predator_Amalgamate_Refuses.label>独行</GoalPreference_Predator_Amalgamate_Refuses.label>
-  <!--EN: [PAWN_label] doesn't like permanently assimilating prey. Something less permanent or non-absorptive might be preferable.-->
-  <GoalPreference_Predator_Assimilate_Dislikes.description>[PAWN_label]不喜欢永久同化猎物。不如永久性或非吸收性好。</GoalPreference_Predator_Assimilate_Dislikes.description>
-  <!--EN: Assimilation aversion-->
-  <GoalPreference_Predator_Assimilate_Dislikes.label>厌恶同化</GoalPreference_Predator_Assimilate_Dislikes.label>
-  <!--EN: As an assimilator, [PAWN_label] likes absorbing [PAWN_possessive] prey permanently. Getting targeted size-gains is one advantage over digestion.-->
-  <GoalPreference_Predator_Assimilate_Likes.description>作为一个同化者,[PAWN_label]喜欢吸收[PAWN_possessive]永久捕食。获得目标尺寸增益是比消化更好的优势。</GoalPreference_Predator_Assimilate_Likes.description>
-  <!--EN: Assimilator-->
-  <GoalPreference_Predator_Assimilate_Likes.label>同化者</GoalPreference_Predator_Assimilate_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about assimilating prey. That may or may not be due to [PAWN_label] not being capable of assimilation in the first place.-->
-  <GoalPreference_Predator_Assimilate_Neutral.description>[PAWN_label]不在乎如何同化猎物。可能或可能不是由于[PAWN_label]一开始就没有同化的能力。</GoalPreference_Predator_Assimilate_Neutral.description>
-  <!--EN: Assimilation ambivalence-->
-  <GoalPreference_Predator_Assimilate_Neutral.label>同化矛盾心</GoalPreference_Predator_Assimilate_Neutral.label>
-  <!--EN: As an obsessive assimilator, [PAWN_label] wants to permanently absorb as many prey as possible and make [PAWN_possessive] assets huge.-->
-  <GoalPreference_Predator_Assimilate_Obsessed.description>作为一个痴迷的同化者,[PAWN_label]想要永久吸收尽可能多的猎物并制造[PAWN_possessive]巨大的资产。</GoalPreference_Predator_Assimilate_Obsessed.description>
-  <!--EN: Driven assimilator-->
-  <GoalPreference_Predator_Assimilate_Obsessed.label>驱动同化者</GoalPreference_Predator_Assimilate_Obsessed.label>
-  <!--EN: [PAWN_label] hates permanently assimilating prey and will never willingly do it. It's a perversion of the powers of absorption.-->
-  <GoalPreference_Predator_Assimilate_Refuses.description>[PAWN_label]讨厌永久同化猎物，永远不会心甘情愿地这样做。这是对吸收能力的扭曲。</GoalPreference_Predator_Assimilate_Refuses.description>
-  <!--EN: Assimilation revulsion-->
-  <GoalPreference_Predator_Assimilate_Refuses.label>反感同化</GoalPreference_Predator_Assimilate_Refuses.label>
-  <!--EN: [PAWN_label] dislikes being amalgamated. Either consciousness should cease before [PAWN_pronoun] enhances someone's assets, or [PAWN_pronoun] should be let go safe and sound.-->
-  <GoalPreference_Prey_Amalgamate_Dislikes.description>[PAWN_label]厌恶被合并。任一种意识应该在[PAWN_pronoun]提升某人的资产，或[PAWN_pronoun]应该平安释放。</GoalPreference_Prey_Amalgamate_Dislikes.description>
-  <!--EN: Amalgam aversion-->
-  <GoalPreference_Prey_Amalgamate_Dislikes.label>汞中毒厌恶</GoalPreference_Prey_Amalgamate_Dislikes.label>
-  <!--EN: As a tapissier(e), [PAWN_label] just likes to spend a while as padding on some predator. Not necessarily forever, mind.-->
-  <GoalPreference_Prey_Amalgamate_Likes.description>作为一个tapissier(e),[PAWN_label]我只是喜欢待在一些捕食者身上。不一定永远,注意了。</GoalPreference_Prey_Amalgamate_Likes.description>
-  <!--EN: Tapissier-->
-  <GoalPreference_Prey_Amalgamate_Likes.label>尖刺的</GoalPreference_Prey_Amalgamate_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about being amalgamated.-->
-  <GoalPreference_Prey_Amalgamate_Neutral.description>[PAWN_label]不在乎合并的方式。</GoalPreference_Prey_Amalgamate_Neutral.description>
-  <!--EN: Amalgam ambivalence-->
-  <GoalPreference_Prey_Amalgamate_Neutral.label>混杂矛盾</GoalPreference_Prey_Amalgamate_Neutral.label>
-  <!--EN: As an obsessive tapissier(e) [PAWN_label] really wants to spend the rest of eternity absorbed, still-sapient, into some predator's body.-->
-  <GoalPreference_Prey_Amalgamate_Obsessed.description>作为一个过度狂tapissier(e)[PAWN_label]好想拥有剩余的永恒尚未吸收的它被捕食者的身体吸收了。</GoalPreference_Prey_Amalgamate_Obsessed.description>
-  <!--EN: Pad-wish-->
-  <GoalPreference_Prey_Amalgamate_Obsessed.label>希望</GoalPreference_Prey_Amalgamate_Obsessed.label>
-  <!--EN: [PAWN_label] hates being amalgamated. If you have to absorb [PAWN_objective], just take it all the way. Being a pred's *temporary* size-enhancer is a violation [PAWN_pronoun] would rather not live with.-->
-  <GoalPreference_Prey_Amalgamate_Refuses.description>[PAWN_label]讨厌被合并。如果必须吸收[PAWN_objective],就这么一路带走吧。成为一名 pred 的 * 临时 * 尺寸增强装置是一种违规[PAWN_pronoun]不想和你一起生活。</GoalPreference_Prey_Amalgamate_Refuses.description>
-  <!--EN: Amalgam revulsion-->
-  <GoalPreference_Prey_Amalgamate_Refuses.label>合并后厌恶</GoalPreference_Prey_Amalgamate_Refuses.label>
-  <!--EN: [PAWN_label] is put off by the idea of being made a permanent part of someone. There's at least a transience to mere digestion.-->
-  <GoalPreference_Prey_Assimilate_Dislikes.description>[PAWN_label]因为要让自己永远成为某人的一部分而被推迟。至少可以暂时消化。</GoalPreference_Prey_Assimilate_Dislikes.description>
-  <!--EN: Assimilant aversion-->
-  <GoalPreference_Prey_Assimilate_Dislikes.label>厌恶同化物</GoalPreference_Prey_Assimilate_Dislikes.label>
-  <!--EN: As an osmoseu(r/se), [PAWN_label] ideates an end in which [PAWN_pronoun] directly and visibly contributes to a predator's physical gains, by way of permanent absorption.-->
-  <GoalPreference_Prey_Assimilate_Likes.description>作为一个osmoseu(r/se),[PAWN_label]构想一个结局[PAWN_pronoun]直接而明显地有助于捕食者的身体收益的永久吸收的方式。</GoalPreference_Prey_Assimilate_Likes.description>
-  <!--EN: Osmoseur-->
-  <GoalPreference_Prey_Assimilate_Likes.label>刺猬</GoalPreference_Prey_Assimilate_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about being assimilated.-->
-  <GoalPreference_Prey_Assimilate_Neutral.description>[PAWN_label]不在乎被同化。</GoalPreference_Prey_Assimilate_Neutral.description>
-  <!--EN: Assimilant ambivalence-->
-  <GoalPreference_Prey_Assimilate_Neutral.label>同化者矛盾心理</GoalPreference_Prey_Assimilate_Neutral.label>
-  <!--EN: As an obsessive osmoseu(r/se), [PAWN_label] has made up [PAWN_possessive] mind. $PNom wants to make a predator even more beautiful, and only a permanent absorption is intimate enough to suffice.-->
-  <GoalPreference_Prey_Assimilate_Obsessed.description>作为一个过度狂osmoseu(r/se),[PAWN_label]已化妆[PAWN_possessive]意志。$ PNom 想要让一个捕食者变得更加美丽，并且只有永久的吸收是亲密的足够了。</GoalPreference_Prey_Assimilate_Obsessed.description>
-  <!--EN: Meld-wish-->
-  <GoalPreference_Prey_Assimilate_Obsessed.label>融合-希望</GoalPreference_Prey_Assimilate_Obsessed.label>
-  <!--EN: [PAWN_label] is terrified of being made a permanent part of someone, to be subject to all the degrading, animalistic things a pred might do with [PAWN_objective] after turning [PAWN_objective] into some body part or other.-->
-  <GoalPreference_Prey_Assimilate_Refuses.description>[PAWN_label]害怕被人作为永久存在的一部分，遭受所有有辱人格的，泛灵的事情，一个 pred 可能会做[PAWN_objective]转向后[PAWN_objective]植入身体的某个部位或其他部位。</GoalPreference_Prey_Assimilate_Refuses.description>
-  <!--EN: Assimilant revulsion-->
-  <GoalPreference_Prey_Assimilate_Refuses.label>反感</GoalPreference_Prey_Assimilate_Refuses.label>
-  <!--EN: As a clumsy assimilator, [PAWN_label] will never improve the appearance of [PAWN_possessive] assets with assimilated prey, and all of the added fat will remain hideous as long as it's on [PAWN_possessive] body.-->
-  <PostVoreAssimilation_Clumsy.description>作为一个笨拙的同化者,[PAWN_label]不会改善的外观[PAWN_possessive]装有被同化的猎物的资产，所有添加的脂肪只要被吸收就会变得丑陋[PAWN_possessive]身体。</PostVoreAssimilation_Clumsy.description>
-  <!--EN: Clumsy assimilator-->
-  <PostVoreAssimilation_Clumsy.label>笨拙的同化者</PostVoreAssimilation_Clumsy.label>
-  <!--EN: As a masterful assimilator, [PAWN_label] will permanently improve the beauty of [PAWN_possessive] assets with assimilated prey.-->
-  <PostVoreAssimilation_Masterful.description>作为一名精彩的同化者,[PAWN_label]将永久改善的美丽[PAWN_possessive]装有被同化的猎物的资产。</PostVoreAssimilation_Masterful.description>
-  <!--EN: Masterful assimilator-->
-  <PostVoreAssimilation_Masterful.label>精彩绝伦的同化者</PostVoreAssimilation_Masterful.label>
-  <!--EN: As a normal assimilator, [PAWN_label] will temporarily improve the beauty of [PAWN_possessive] assets with reasonable amounts of assimilated prey, but may lose control of [PAWN_possessive] appearance with too much fat around.-->
-  <PostVoreAssimilation_Normal.description>作为一个普通的同化者,[PAWN_label]将会暂时改善[PAWN_possessive]有合理数量的同化猎物的资产，但可能会失去对[PAWN_possessive]出现在肥胖的环境中。</PostVoreAssimilation_Normal.description>
-  <!--EN: Normal assimilator-->
-  <PostVoreAssimilation_Normal.label>普通同化者</PostVoreAssimilation_Normal.label>
-  <!--EN: As an unaffected assimilator, [PAWN_label] will seamlessly integrate [PAWN_possessive] assets with assimilated prey, and nobody will ever notice the difference.-->
-  <PostVoreAssimilation_Unaffected.description>作为一个未受影响的同化者,[PAWN_label]将无缝集成[PAWN_possessive]拥有被同化的猎物，没人会注意到区别。</PostVoreAssimilation_Unaffected.description>
-  <!--EN: Unaffected assimilator-->
-  <PostVoreAssimilation_Unaffected.label>未受影响的同化者</PostVoreAssimilation_Unaffected.label>
-  <!--EN: [PAWN_label] dislikes fissuring [PAWN_possessive] prey. That's not supposed to be a hole.-->
-  <TypePreference_Predator_Cleavage_Dislikes.description>[PAWN_label]反感破裂[PAWN_possessive]猎物。那不应该是个洞。</TypePreference_Predator_Cleavage_Dislikes.description>
-  <!--EN: Fissure-averse pred-->
-  <TypePreference_Predator_Cleavage_Dislikes.label>厌恶裂隙的 pred</TypePreference_Predator_Cleavage_Dislikes.label>
-  <!--EN: [PAWN_label] likes fissuring [PAWN_possessive] prey. Cleavage doesn't need to stretch as far beyond the norm, unlike other methods.-->
-  <TypePreference_Predator_Cleavage_Likes.description>[PAWN_label]喜欢碎裂[PAWN_possessive]猎物。乳沟不像其他方法，不需要伸展得太远而超出常规。</TypePreference_Predator_Cleavage_Likes.description>
-  <!--EN: Fissurist pred-->
-  <TypePreference_Predator_Cleavage_Likes.label>Fissurist pred</TypePreference_Predator_Cleavage_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about fissuring prey.-->
-  <TypePreference_Predator_Cleavage_Neutral.description>[PAWN_label]不在乎用这种或那种方式切割猎物。</TypePreference_Predator_Cleavage_Neutral.description>
-  <!--EN: Fissure-ambivalent pred-->
-  <TypePreference_Predator_Cleavage_Neutral.label>裂隙-矛盾 pred</TypePreference_Predator_Cleavage_Neutral.label>
-  <!--EN: [PAWN_label] loves fissuring [PAWN_possessive] prey, to the exclusion of other types. No other type of vore makes it so easy to make out with prey on the way down.-->
-  <TypePreference_Predator_Cleavage_Obsessed.description>[PAWN_label]喜爱碎裂[PAWN_possessive]捕食的动物，拒绝其他类型的动物。没有其他类型的吃人这样在怀孕的时候就很容易和猎物亲昵了。</TypePreference_Predator_Cleavage_Obsessed.description>
-  <!--EN: Ravenous fissurist pred-->
-  <TypePreference_Predator_Cleavage_Obsessed.label>贪婪的 fissurist pred</TypePreference_Predator_Cleavage_Obsessed.label>
-  <!--EN: [PAWN_label] hates fissuring [PAWN_possessive] prey. It doesn't even deserve to be called vore.-->
-  <TypePreference_Predator_Cleavage_Refuses.description>[PAWN_label]厌恶破裂[PAWN_possessive]猎物。它甚至不值得被召唤吃人</TypePreference_Predator_Cleavage_Refuses.description>
-  <!--EN: Fissure-abhorring pred-->
-  <TypePreference_Predator_Cleavage_Refuses.label>厌恶裂隙的 pred</TypePreference_Predator_Cleavage_Refuses.label>
-  <!--EN: [PAWN_label] dislikes engulfing prey through [PAWN_possessive] permeable outer membrane. It's a good way to get filth and grime in your plasm.-->
-  <TypePreference_Predator_Membrane_Dislikes.description>[PAWN_label]厌恶吞噬猎物[PAWN_possessive]可渗透的外膜。这是一个让你的血浆里有污物和污垢的好方法。</TypePreference_Predator_Membrane_Dislikes.description>
-  <!--EN: Dermal-averse pred-->
-  <TypePreference_Predator_Membrane_Dislikes.label>厌恶皮肤的 pred</TypePreference_Predator_Membrane_Dislikes.label>
-  <!--EN: [PAWN_label] likes engulfing prey through [PAWN_possessive] permeable outer membrane, like a slime. Glomp!-->
-  <TypePreference_Predator_Membrane_Likes.description>[PAWN_label]比如吞噬猎物[PAWN_possessive]可渗透的外膜，就像史莱姆Glomp!</TypePreference_Predator_Membrane_Likes.description>
-  <!--EN: Dermacist pred-->
-  <TypePreference_Predator_Membrane_Likes.label>Dermacist pred</TypePreference_Predator_Membrane_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about engulfing prey.-->
-  <TypePreference_Predator_Membrane_Neutral.description>[PAWN_label]不在乎吞噬猎物的方式。</TypePreference_Predator_Membrane_Neutral.description>
-  <!--EN: Dermal-ambivalent pred-->
-  <TypePreference_Predator_Membrane_Neutral.label>皮肤冲突 pred</TypePreference_Predator_Membrane_Neutral.label>
-  <!--EN: [PAWN_label] loves engulfing prey through [PAWN_possessive] permeable outer membrane, like a slime. It's fun to walk around with prey like you've got a skeleton.-->
-  <TypePreference_Predator_Membrane_Obsessed.description>[PAWN_label]喜爱吞噬猎物[PAWN_possessive]可渗透的外膜，就像史莱姆像骷髅一样和猎物四处走动很有趣。</TypePreference_Predator_Membrane_Obsessed.description>
-  <!--EN: Ravenous dermacist pred-->
-  <TypePreference_Predator_Membrane_Obsessed.label>贪婪的 dermacist pred</TypePreference_Predator_Membrane_Obsessed.label>
-  <!--EN: [PAWN_label] hates engulfing prey through [PAWN_possessive] permeable outer membrane. Who would ever want to be restricted to a stiff, unyielding skeleton?-->
-  <TypePreference_Predator_Membrane_Refuses.description>[PAWN_label]厌恶吞食猎物[PAWN_possessive]可渗透的外膜。谁会想被限制在一具僵硬、不屈服的骷髅里？</TypePreference_Predator_Membrane_Refuses.description>
-  <!--EN: Dermal-abhorring pred-->
-  <TypePreference_Predator_Membrane_Refuses.label>厌恶皮肤的 pred</TypePreference_Predator_Membrane_Refuses.label>
-  <!--EN: [PAWN_label] dislikes ennaveling [PAWN_possessive] prey. That was supposed to be tied a while ago!-->
-  <TypePreference_Predator_Navel_Dislikes.description>[PAWN_label]厌恶 ennaveling[PAWN_possessive]猎物。应该在不久前被绑起来的!</TypePreference_Predator_Navel_Dislikes.description>
-  <!--EN: Umbilical-averse pred-->
-  <TypePreference_Predator_Navel_Dislikes.label>厌恶脐带的 pred</TypePreference_Predator_Navel_Dislikes.label>
-  <!--EN: [PAWN_label] likes ennaveling [PAWN_possessive] prey. It fed 'em once before; it can do so again!-->
-  <TypePreference_Predator_Navel_Likes.description>[PAWN_label]喜欢圣兽[PAWN_possessive]猎物。它以前喂过一次; 它还能喂一次!</TypePreference_Predator_Navel_Likes.description>
-  <!--EN: Umbilicist pred-->
-  <TypePreference_Predator_Navel_Likes.label>脐带 pred</TypePreference_Predator_Navel_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about ennaveling prey.-->
-  <TypePreference_Predator_Navel_Neutral.description>[PAWN_label]不在乎用这种或那种方式将猎物变化。</TypePreference_Predator_Navel_Neutral.description>
-  <!--EN: Umbilical-ambivalent pred-->
-  <TypePreference_Predator_Navel_Neutral.label>脐带-矛盾 pred</TypePreference_Predator_Navel_Neutral.label>
-  <!--EN: [PAWN_label] loves ennaveling [PAWN_possessive] prey, to the exclusion of other types. No other method is as belly-centric.-->
-  <TypePreference_Predator_Navel_Obsessed.description>[PAWN_label]喜爱圣兽[PAWN_possessive]捕食的动物，拒绝其他类型的动物。没有其他方法是以腹部为中心。</TypePreference_Predator_Navel_Obsessed.description>
-  <!--EN: Ravenous umbilicist pred-->
-  <TypePreference_Predator_Navel_Obsessed.label>贪婪的脐巢 pred</TypePreference_Predator_Navel_Obsessed.label>
-  <!--EN: [PAWN_label] hates ennaveling [PAWN_possessive] prey. $PNom isn't a fetus anymore!-->
-  <TypePreference_Predator_Navel_Refuses.description>[PAWN_label]憎恶奴役[PAWN_possessive]猎物。$ PNom 不再是胎儿了!</TypePreference_Predator_Navel_Refuses.description>
-  <!--EN: Umbilical-abhorring pred-->
-  <TypePreference_Predator_Navel_Refuses.label>厌恶脐带的 pred</TypePreference_Predator_Navel_Refuses.label>
-  <!--EN: [PAWN_label] dislikes pythening [PAWN_possessive] prey. It's even harder to coordinate than anal vore.-->
-  <TypePreference_Predator_Tailmaw_Dislikes.description>[PAWN_label]厌恶者[PAWN_possessive]猎物。协调起来比analvore</TypePreference_Predator_Tailmaw_Dislikes.description>
-  <!--EN: Caudal-averse pred-->
-  <TypePreference_Predator_Tailmaw_Dislikes.label>厌恶尾象的 pred</TypePreference_Predator_Tailmaw_Dislikes.label>
-  <!--EN: [PAWN_label] likes pythening [PAWN_possessive] prey. What else do you do with a vore-capable tail?-->
-  <TypePreference_Predator_Tailmaw_Likes.description>[PAWN_label]喜欢[PAWN_possessive]猎物。你还能做什么与吃人-有能力一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。什么？</TypePreference_Predator_Tailmaw_Likes.description>
-  <!--EN: Caudalist pred-->
-  <TypePreference_Predator_Tailmaw_Likes.label>尾种先知</TypePreference_Predator_Tailmaw_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about pythening prey.-->
-  <TypePreference_Predator_Tailmaw_Neutral.description>[PAWN_label]不管怎样，我不在意你怎么发现它的猎物。</TypePreference_Predator_Tailmaw_Neutral.description>
-  <!--EN: Caudal-ambivalent pred-->
-  <TypePreference_Predator_Tailmaw_Neutral.label>盘尾矛盾 pred</TypePreference_Predator_Tailmaw_Neutral.label>
-  <!--EN: [PAWN_label] loves pythening [PAWN_possessive] prey, to the exclusion of other types. It's like having a helping hand hunting.-->
-  <TypePreference_Predator_Tailmaw_Obsessed.description>[PAWN_label]喜爱[PAWN_possessive]捕食的动物，拒绝其他类型的动物。这就像有一个帮手在打猎。</TypePreference_Predator_Tailmaw_Obsessed.description>
-  <!--EN: Ravenous caudalist pred-->
-  <TypePreference_Predator_Tailmaw_Obsessed.label>贪婪的尾 caudpred</TypePreference_Predator_Tailmaw_Obsessed.label>
-  <!--EN: [PAWN_label] hates pythening [PAWN_possessive] prey. What's the point when [PAWN_pronoun] already has a mouth?-->
-  <TypePreference_Predator_Tailmaw_Refuses.description>[PAWN_label]厌恶死亡[PAWN_possessive]猎物。关键是什么[PAWN_pronoun]已经有一张嘴了？</TypePreference_Predator_Tailmaw_Refuses.description>
-  <!--EN: Caudal-abhorring pred-->
-  <TypePreference_Predator_Tailmaw_Refuses.label>敌视 pred</TypePreference_Predator_Tailmaw_Refuses.label>
-  <!--EN: [PAWN_label] dislikes unnursing prey into [PAWN_possessive] udder. There are better ways to get milk.-->
-  <TypePreference_Predator_Udder_Dislikes.description>[PAWN_label]厌恶非哺乳动物的猎物[PAWN_possessive]乳房更发达。有更好的方法来获取牛奶。</TypePreference_Predator_Udder_Dislikes.description>
-  <!--EN: Uberal-averse pred-->
-  <TypePreference_Predator_Udder_Dislikes.label>厌恶生育的 pred</TypePreference_Predator_Udder_Dislikes.label>
-  <!--EN: [PAWN_label] likes unnursing prey into [PAWN_possessive] udder. Milk's good.-->
-  <TypePreference_Predator_Udder_Likes.description>[PAWN_label]喜欢将非哺乳动物变成[PAWN_possessive]乳房更发达。牛奶很好。</TypePreference_Predator_Udder_Likes.description>
-  <!--EN: Uberist pred-->
-  <TypePreference_Predator_Udder_Likes.label>怀孕前</TypePreference_Predator_Udder_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about unnursing prey into [PAWN_possessive] udder.-->
-  <TypePreference_Predator_Udder_Neutral.description>[PAWN_label]不在乎如何将猎物解为[PAWN_possessive]乳房更发达。</TypePreference_Predator_Udder_Neutral.description>
-  <!--EN: Uberal-ambivalent pred-->
-  <TypePreference_Predator_Udder_Neutral.label>旺盛的-矛盾的 pred</TypePreference_Predator_Udder_Neutral.label>
-  <!--EN: [PAWN_label] loves unnursing prey into [PAWN_possessive] udder, to the exclusion of other types. Moo!-->
-  <TypePreference_Predator_Udder_Obsessed.description>[PAWN_label]喜爱将未受精的猎物转化为[PAWN_possessive]乳房，其他类型除外。Moo!</TypePreference_Predator_Udder_Obsessed.description>
-  <!--EN: Ravenous uberist pred-->
-  <TypePreference_Predator_Udder_Obsessed.label>贪婪的繁荣 pred</TypePreference_Predator_Udder_Obsessed.label>
-  <!--EN: [PAWN_label] hates unnursing prey into [PAWN_possessive] udder. Find another cow.-->
-  <TypePreference_Predator_Udder_Refuses.description>[PAWN_label]憎恶未哺乳的猎物转化为[PAWN_possessive]乳房更发达。另找一头牛。</TypePreference_Predator_Udder_Refuses.description>
-  <!--EN: Uberal-abhorring pred-->
-  <TypePreference_Predator_Udder_Refuses.label>厌恶生育的 pred</TypePreference_Predator_Udder_Refuses.label>
-  <!--EN: [PAWN_label] dislikes being fissured. There are higher-intensity forms of vore out there.-->
-  <TypePreference_Prey_Cleavage_Dislikes.description>[PAWN_label]不喜欢被撕开。有更高强度的吃人在外面。</TypePreference_Prey_Cleavage_Dislikes.description>
-  <!--EN: Fissure-averse prey-->
-  <TypePreference_Prey_Cleavage_Dislikes.label>厌恶裂隙的猎物</TypePreference_Prey_Cleavage_Dislikes.label>
-  <!--EN: [PAWN_label] likes to be fissured. Who doesn't like playing around with a pair of funbags?-->
-  <TypePreference_Prey_Cleavage_Likes.description>[PAWN_label]喜欢被破裂。谁不喜欢和一对有趣的人一起玩？</TypePreference_Prey_Cleavage_Likes.description>
-  <!--EN: Fissurist prey-->
-  <TypePreference_Prey_Cleavage_Likes.label>Fissurist 猎物</TypePreference_Prey_Cleavage_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about being fissured.-->
-  <TypePreference_Prey_Cleavage_Neutral.description>[PAWN_label]不在乎是否破裂。</TypePreference_Prey_Cleavage_Neutral.description>
-  <!--EN: Fissure-ambivalent prey-->
-  <TypePreference_Prey_Cleavage_Neutral.label>裂隙-矛盾猎物</TypePreference_Prey_Cleavage_Neutral.label>
-  <!--EN: [PAWN_label] loves to fit between the letter-slot, to get cosy in the built-in purse, to get a full-body titjob; to be fissured, cleavage-vored.-->
-  <TypePreference_Prey_Cleavage_Obsessed.description>[PAWN_label]喜欢穿梭在信封槽之间，喜欢在内置的钱包里过的舒适，喜欢全身而退; 喜欢破裂,乳沟-已受伤。</TypePreference_Prey_Cleavage_Obsessed.description>
-  <!--EN: Obsessive fissurist prey-->
-  <TypePreference_Prey_Cleavage_Obsessed.label>迷恋 fissurist 的猎物</TypePreference_Prey_Cleavage_Obsessed.label>
-  <!--EN: [PAWN_label] hates being fissured. Is it really even vore?-->
-  <TypePreference_Prey_Cleavage_Refuses.description>[PAWN_label]讨厌被撕开。真的公平吗吃人什么？</TypePreference_Prey_Cleavage_Refuses.description>
-  <!--EN: Fissure-abhorring prey-->
-  <TypePreference_Prey_Cleavage_Refuses.label>厌恶裂隙的猎物</TypePreference_Prey_Cleavage_Refuses.label>
-  <!--EN: [PAWN_label] dislikes being engulfed by slimelike beings. The vibe's just off.-->
-  <TypePreference_Prey_Membrane_Dislikes.description>[PAWN_label]厌恶被纤细的生物吞没。气氛有些不正常。</TypePreference_Prey_Membrane_Dislikes.description>
-  <!--EN: Dermal-averse prey-->
-  <TypePreference_Prey_Membrane_Dislikes.label>厌恶皮肤的猎物</TypePreference_Prey_Membrane_Dislikes.label>
-  <!--EN: [PAWN_label] likes being engulfed by slime-like beings. It's nice to swim in goo.-->
-  <TypePreference_Prey_Membrane_Likes.description>[PAWN_label]喜欢被吞噬史莱姆-像是生物。在咕咕的环境中游泳真好。</TypePreference_Prey_Membrane_Likes.description>
-  <!--EN: Dermalist prey-->
-  <TypePreference_Prey_Membrane_Likes.label>Dermalist 猎物</TypePreference_Prey_Membrane_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about being engulfed.-->
-  <TypePreference_Prey_Membrane_Neutral.description>[PAWN_label]不在乎被吞没。</TypePreference_Prey_Membrane_Neutral.description>
-  <!--EN: Dermal-ambivalent prey-->
-  <TypePreference_Prey_Membrane_Neutral.label>皮肤矛盾的猎物</TypePreference_Prey_Membrane_Neutral.label>
-  <!--EN: [PAWN_label] loves to bathe in the body, to swim in jelly; to be engulfed, overembraced, membrane-vored.-->
-  <TypePreference_Prey_Membrane_Obsessed.description>[PAWN_label]喜欢在身体里洗澡，喜欢在胶状物里游泳; 喜欢被吞噬，被拥抱，被薄膜吞噬。</TypePreference_Prey_Membrane_Obsessed.description>
-  <!--EN: Obsessive dermalist prey-->
-  <TypePreference_Prey_Membrane_Obsessed.label>迷恋 dermalist 的猎物</TypePreference_Prey_Membrane_Obsessed.label>
-  <!--EN: [PAWN_label] hates being engulfed by slimelike beings. It's too public, too roomy, and the slime gets to puppet you around while you're inside.-->
-  <TypePreference_Prey_Membrane_Refuses.description>[PAWN_label]讨厌被纤细的生物吞没。太公共场所,过于宽敞，以及史莱姆当你在里面的时候，就能四处游荡。</TypePreference_Prey_Membrane_Refuses.description>
-  <!--EN: Dermal-averse prey-->
-  <TypePreference_Prey_Membrane_Refuses.label>厌恶皮肤的猎物</TypePreference_Prey_Membrane_Refuses.label>
-  <!--EN: [PAWN_label] dislikes being ennaveled. It's linty and unclean in there.-->
-  <TypePreference_Prey_Navel_Dislikes.description>[PAWN_label]厌恶被奴役。里面不规则且不干净。</TypePreference_Prey_Navel_Dislikes.description>
-  <!--EN: Umbilical-averse prey-->
-  <TypePreference_Prey_Navel_Dislikes.label>厌恶脐带的猎物</TypePreference_Prey_Navel_Dislikes.label>
-  <!--EN: [PAWN_label] likes being ennaveled. Bellies are good!-->
-  <TypePreference_Prey_Navel_Likes.description>[PAWN_label]喜欢被奴役。肚子很好!</TypePreference_Prey_Navel_Likes.description>
-  <!--EN: Umbilicist prey-->
-  <TypePreference_Prey_Navel_Likes.label>脐带主义猎物</TypePreference_Prey_Navel_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about being ennaveled.-->
-  <TypePreference_Prey_Navel_Neutral.description>[PAWN_label]不在乎被奴役。</TypePreference_Prey_Navel_Neutral.description>
-  <!--EN: Umbilical-ambivalent prey-->
-  <TypePreference_Prey_Navel_Neutral.label>母树矛盾的猎物</TypePreference_Prey_Navel_Neutral.label>
-  <!--EN: [PAWN_label] loves to dig deep for lint, to untie the old knot, to be navel-vored.-->
-  <TypePreference_Prey_Navel_Obsessed.description>[PAWN_label]喜欢深挖毛绒，喜欢解开旧结，喜欢肚脐。</TypePreference_Prey_Navel_Obsessed.description>
-  <!--EN: Obsessive umbilicist prey-->
-  <TypePreference_Prey_Navel_Obsessed.label>迷恋脐部的猎物</TypePreference_Prey_Navel_Obsessed.label>
-  <!--EN: [PAWN_label] hates being ennaveled. The knot was tied for a reason.-->
-  <TypePreference_Prey_Navel_Refuses.description>[PAWN_label]讨厌被奴役。结婚是有原因的。</TypePreference_Prey_Navel_Refuses.description>
-  <!--EN: Umbilical-averse prey-->
-  <TypePreference_Prey_Navel_Refuses.label>厌恶脐带的猎物</TypePreference_Prey_Navel_Refuses.label>
-  <!--EN: [PAWN_label] dislikes being pythened. Tailmaws fall within the uncanny valley, when it comes to mouths.-->
-  <TypePreference_Prey_Tailmaw_Dislikes.description>[PAWN_label]厌恶被勾兑。当谈到嘴时，尾矛落入了诡异的山谷。</TypePreference_Prey_Tailmaw_Dislikes.description>
-  <!--EN: Caudal-averse prey-->
-  <TypePreference_Prey_Tailmaw_Dislikes.label>厌恶尾兽的猎物</TypePreference_Prey_Tailmaw_Dislikes.label>
-  <!--EN: [PAWN_label] likes being pythened. Tail-preds can do ever so much with their tails while you're in there.-->
-  <TypePreference_Prey_Tailmaw_Likes.description>[PAWN_label]喜欢被解雇。一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。-当你在里面的时候，preds 可以用他们的一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。做很多事情。</TypePreference_Prey_Tailmaw_Likes.description>
-  <!--EN: Caudalist prey-->
-  <TypePreference_Prey_Tailmaw_Likes.label>尾种猎物</TypePreference_Prey_Tailmaw_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about being pythened.-->
-  <TypePreference_Prey_Tailmaw_Neutral.description>[PAWN_label]不管怎样，我都不在乎被勾搭上。</TypePreference_Prey_Tailmaw_Neutral.description>
-  <!--EN: Caudal-ambivalent prey-->
-  <TypePreference_Prey_Tailmaw_Neutral.label>盘尾矛盾的猎物</TypePreference_Prey_Tailmaw_Neutral.label>
-  <!--EN: [PAWN_label] loves to be taken by the snake, sucked down the spade; pythened, tail-vored.-->
-  <TypePreference_Prey_Tailmaw_Obsessed.description>[PAWN_label]喜欢被蛇带走，被铁锹吸引;一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。-已受伤。</TypePreference_Prey_Tailmaw_Obsessed.description>
-  <!--EN: Obsessive caudalist prey-->
-  <TypePreference_Prey_Tailmaw_Obsessed.label>追忆尾兽的猎物</TypePreference_Prey_Tailmaw_Obsessed.label>
-  <!--EN: [PAWN_label] hates being pythened. It activates some sort of primal fear of snakes in [PAWN_possessive] mind, even if [PAWN_pronoun] might not otherwise dread the slitherers.-->
-  <TypePreference_Prey_Tailmaw_Refuses.description>[PAWN_label]讨厌被勾搭上。它激活了对蛇的某种原始恐惧[PAWN_possessive]意志，即使[PAWN_pronoun]否则可能不会让滑道感到恐惧。</TypePreference_Prey_Tailmaw_Refuses.description>
-  <!--EN: Caudal-abhorring prey-->
-  <TypePreference_Prey_Tailmaw_Refuses.label>食尸鬼</TypePreference_Prey_Tailmaw_Refuses.label>
-  <!--EN: [PAWN_label] dislikes udder vore. Udders are weird.-->
-  <TypePreference_Prey_Udder_Dislikes.description>[PAWN_label]厌恶乳房吃人乳房很奇怪。</TypePreference_Prey_Udder_Dislikes.description>
-  <!--EN: Uberal-averse prey-->
-  <TypePreference_Prey_Udder_Dislikes.label>厌恶生育的猎物</TypePreference_Prey_Udder_Dislikes.label>
-  <!--EN: [PAWN_label] likes being unnursed into an udder. Moo!-->
-  <TypePreference_Prey_Udder_Likes.description>[PAWN_label]喜欢被照顾成乳房。Moo!</TypePreference_Prey_Udder_Likes.description>
-  <!--EN: Uberist prey-->
-  <TypePreference_Prey_Udder_Likes.label>幸存的猎物</TypePreference_Prey_Udder_Likes.label>
-  <!--EN: [PAWN_label] doesn't really care one way or the other about being unnursed into an udder.-->
-  <TypePreference_Prey_Udder_Neutral.description>[PAWN_label]不管怎样，我都不在乎自己是否被束缚成乳房。</TypePreference_Prey_Udder_Neutral.description>
-  <!--EN: Uberal-ambivalent prey-->
-  <TypePreference_Prey_Udder_Neutral.label>充满活力和矛盾的猎物</TypePreference_Prey_Udder_Neutral.label>
-  <!--EN: [PAWN_label] loves to be unnursed, unsuckled, bathe in milk, all in the beastly manner—to be udder-vored.-->
-  <TypePreference_Prey_Udder_Obsessed.description>[PAWN_label]喜欢不被照顾，不被吮吸，用牛奶洗澡，所有这些都以野兽的方式进行 -- 更容易被尿裤。</TypePreference_Prey_Udder_Obsessed.description>
-  <!--EN: Obsessive uberist prey-->
-  <TypePreference_Prey_Udder_Obsessed.label>掠袭者</TypePreference_Prey_Udder_Obsessed.label>
-  <!--EN: [PAWN_label] hates udder vore. Those are for beasts, not people.-->
-  <TypePreference_Prey_Udder_Refuses.description>[PAWN_label]厌恶乳房吃人这些是给野兽的，不是给人的。</TypePreference_Prey_Udder_Refuses.description>
-  <!--EN: Uberal-abhorring prey-->
-  <TypePreference_Prey_Udder_Refuses.label>厌恶生育的猎物</TypePreference_Prey_Udder_Refuses.label>
+  <!--EN: [PAWN_label] just can't get off unless there's someone squirming away inside [PAWN_possessive], and will always propose vore after sex.-->
+  <RV2_RJW_PostSexProposalChance_Always.description>[PAWN_label]只有在体内有某人在扭动时才能获得满足，因此总会在性行为后提出吞食要求。</RV2_RJW_PostSexProposalChance_Always.description>
+  <!--EN: Exclusive-->
+  <RV2_RJW_PostSexProposalChance_Always.label>非此不可</RV2_RJW_PostSexProposalChance_Always.label>
+  <!--EN: [PAWN_label] cannot fathom the idea of being turned on by vore after sex. Keep it out of the bedroom.-->
+  <RV2_RJW_PostSexProposalChance_Never.description>[PAWN_label]无法理解为何有人会在性事后因吞食而兴奋。请让它远离卧室。</RV2_RJW_PostSexProposalChance_Never.description>
+  <!--EN: Revulsed-->
+  <RV2_RJW_PostSexProposalChance_Never.label>深恶痛绝</RV2_RJW_PostSexProposalChance_Never.label>
+  <!--EN: [PAWN_label] has no strong feelings about vore, and will propose it after sex as often as the next person.-->
+  <RV2_RJW_PostSexProposalChance_Normal.description>[PAWN_label]对吞食无感，会像普通人一样偶尔在性事后提出要求。</RV2_RJW_PostSexProposalChance_Normal.description>
+  <!--EN: Indifferent-->
+  <RV2_RJW_PostSexProposalChance_Normal.label>无动于衷</RV2_RJW_PostSexProposalChance_Normal.label>
+  <!--EN: [PAWN_label] enjoys the feeling of a post-coital internal massage, and is twice as likely to propose vore after sex.-->
+  <RV2_RJW_PostSexProposalChance_Often.description>[PAWN_label]享受事后体内按摩的感觉，性行为后提出吞食要求的可能性是常人的两倍。</RV2_RJW_PostSexProposalChance_Often.description>
+  <!--EN: Enthusiastic-->
+  <RV2_RJW_PostSexProposalChance_Often.label>热衷于此</RV2_RJW_PostSexProposalChance_Often.label>
+  <!--EN: [PAWN_label] doesn't care much for involving vore in [PAWN_possessive] sex life, and is half as likely to propose it after sex.-->
+  <RV2_RJW_PostSexProposalChance_Rare.description>[PAWN_label]不太热衷于将吞食融入[PAWN_possessive]的性生活，性行为后提出要求的可能性只有常人的一半。</RV2_RJW_PostSexProposalChance_Rare.description>
+  <!--EN: Disinterested-->
+  <RV2_RJW_PostSexProposalChance_Rare.label>兴致缺缺</RV2_RJW_PostSexProposalChance_Rare.label>
+  <!--EN: [PAWN_label] just can't keep prey inside $pAccself, any time [PAWN_pronoun] has sex and could eject [PAWN_possessive] prey, [PAWN_pronoun] will.-->
+  <RV2_RJW_SexEjectChance_Always.description>[PAWN_label]就是没法把猎物留在体内，只要[PAWN_pronoun]发生性行为并且有可能排出[PAWN_possessive]猎物，[PAWN_pronoun]就一定会这么做。</RV2_RJW_SexEjectChance_Always.description>
+  <!--EN: Extra Loose-->
+  <RV2_RJW_SexEjectChance_Always.label>门户大开</RV2_RJW_SexEjectChance_Always.label>
+  <!--EN: [PAWN_label] runs a tight ship and even tigher innards, [PAWN_pronoun] will never eject or transfer prey.-->
+  <RV2_RJW_SexEjectChance_Never.description>[PAWN_label]管理严格，内脏更是紧致，[PAWN_pronoun]绝不会排出或转移猎物。</RV2_RJW_SexEjectChance_Never.description>
+  <!--EN: Iron Hold-->
+  <RV2_RJW_SexEjectChance_Never.label>钢铁封禁</RV2_RJW_SexEjectChance_Never.label>
+  <!--EN: [PAWN_label] ejects prey as often as anyone else.-->
+  <RV2_RJW_SexEjectChance_Normal.description>[PAWN_label]排出猎物的频率与常人无异。</RV2_RJW_SexEjectChance_Normal.description>
+  <!--EN: Normal-->
+  <RV2_RJW_SexEjectChance_Normal.label>正常</RV2_RJW_SexEjectChance_Normal.label>
+  <!--EN: [PAWN_label] has a loose grip on $pAcc prey, so [PAWN_pronoun] is 50% more likely to leave her ownership once [PAWN_pronoun] gets down and busy.-->
+  <RV2_RJW_SexEjectChance_Often.description>[PAWN_label]对猎物的掌控很松，所以一旦[PAWN_pronoun]开始忙碌，猎物脱离掌控的可能性会增加50%。</RV2_RJW_SexEjectChance_Often.description>
+  <!--EN: Loose-->
+  <RV2_RJW_SexEjectChance_Often.label>松弛</RV2_RJW_SexEjectChance_Often.label>
+  <!--EN: [PAWN_label] knows how to keep [PAWN_possessive] prey inside, [PAWN_pronoun] is only half as likely to eject [PAWN_possessive] prey.-->
+  <RV2_RJW_SexEjectChance_Rare.description>[PAWN_label]深谙如何将[PAWN_possessive]猎物留在体内，[PAWN_pronoun]排出猎物的可能性只有常人的一半。</RV2_RJW_SexEjectChance_Rare.description>
+  <!--EN: Rare-->
+  <RV2_RJW_SexEjectChance_Rare.label>稀有</RV2_RJW_SexEjectChance_Rare.label>
 </LanguageData>

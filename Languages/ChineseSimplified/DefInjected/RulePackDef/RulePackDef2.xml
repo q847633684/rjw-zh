@@ -1,61 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <RV2_NamerRoleAlphaPredator.rulePack.rulesStrings>
-    <!--EN: r_roleName(p=4)->[memePredation]-->
-    <li>r_roleName(p=4)-&gt;[memePredation]</li>
-    <!--EN: r_roleName(p=2)->[memeAdjective] [memePredation]-->
-    <li>r_roleName(p=2)-&gt;[memeAdjective][memePredation]</li>
-    <!--EN: r_roleName->[memePredation] of [chosenTheme]-->
-    <li>r_roleName-&gt;[memePredation]来自[chosenTheme]</li>
-    <!--EN: r_roleName->[memePredation] of [keyDeity]-->
-    <li>r_roleName-&gt;[memePredation]来自[keyDeity]</li>
-    <!--EN: r_roleName->[memePredation] of [memeConcept]-->
-    <li>r_roleName-&gt;[memePredation]来自[memeConcept]</li>
-    <!--EN: r_roleName->[memePredation] of [chosenIdeoName]-->
-    <li>r_roleName-&gt;[memePredation]来自[chosenIdeoName]</li>
-    <!--EN: r_roleName->[chosenAdjective] [memePredation]-->
-    <li>r_roleName-&gt;[chosenAdjective] [memePredation]</li>
-    <!--EN: r_roleName->[keyDeity]'s [memePredation]-->
-    <li>r_roleName-&gt;[keyDeity]的[memePredation]</li>
-  </RV2_NamerRoleAlphaPredator.rulePack.rulesStrings>
-  <RV2_NamerRoleChosenPrey.rulePack.rulesStrings>
-    <!--EN: r_roleName(p=4)->[memePreyism]-->
-    <li>r_roleName(p=4)-&gt;[memePreyism]</li>
-    <!--EN: r_roleName(p=2)->[memeAdjective] [memePreyism]-->
-    <li>r_roleName(p=2)-&gt;[memeAdjective][memePreyism]</li>
-    <!--EN: r_roleName->[memePreyism] of [chosenTheme]-->
-    <li>r_roleName-&gt;[memePreyism]来自[chosenTheme]</li>
-    <!--EN: r_roleName->[memePreyism] of [keyDeity]-->
-    <li>r_roleName-&gt;[memePreyism]来自[keyDeity]</li>
-    <!--EN: r_roleName->[memePreyism] of [memeConcept]-->
-    <li>r_roleName-&gt;[memePreyism]来自[memeConcept]</li>
-    <!--EN: r_roleName->[memePreyism] of [chosenIdeoName]-->
-    <li>r_roleName-&gt;[memePreyism]来自[chosenIdeoName]</li>
-    <!--EN: r_roleName->[chosenAdjective] [memePreyism]-->
-    <li>r_roleName-&gt;[chosenAdjective] [memePreyism]</li>
-    <!--EN: r_roleName->[keyDeity]'s [memePreyism]-->
-    <li>r_roleName-&gt;[keyDeity]的[memePreyism]</li>
-  </RV2_NamerRoleChosenPrey.rulePack.rulesStrings>
-  <RV2_NamerRoleFeeder.rulePack.rulesStrings>
-    <!--EN: r_feeder->Feeder-->
-    <li>r_feeder-&gt;饲养员</li>
-    <!--EN: r_feeder->Voremaster-->
-    <li>r_feeder-&gt;迷魂者</li>
-    <!--EN: r_roleName(p=4)->[r_feeder]-->
-    <li>r_roleName(p=4)-&gt;[r_feeder]</li>
-    <!--EN: r_roleName(p=2)->[memeAdjective] [r_feeder]-->
-    <li>r_roleName(p=2)-&gt;[memeAdjective][r_feeder]</li>
-    <!--EN: r_roleName->[r_feeder] of [chosenTheme]-->
-    <li>r_roleName-&gt;[r_feeder]来自[chosenTheme]</li>
-    <!--EN: r_roleName->[r_feeder] of [keyDeity]-->
-    <li>r_roleName-&gt;[r_feeder]来自[keyDeity]</li>
-    <!--EN: r_roleName->[r_feeder] of [memeConcept]-->
-    <li>r_roleName-&gt;[r_feeder]来自[memeConcept]</li>
-    <!--EN: r_roleName->[r_feeder] of [chosenIdeoName]-->
-    <li>r_roleName-&gt;[r_feeder]来自[chosenIdeoName]</li>
-    <!--EN: r_roleName->[chosenAdjective] [r_feeder]-->
-    <li>r_roleName-&gt;[chosenAdjective] [r_feeder]</li>
-    <!--EN: r_roleName->[keyDeity]'s [r_feeder]-->
-    <li>r_roleName-&gt;[keyDeity]的[r_feeder]</li>
-  </RV2_NamerRoleFeeder.rulePack.rulesStrings>
+  <DomSuccubusTail_Anal_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] [INITIATOR_possessive] tail was anally inserted into [RECIPIENT_nameDef].-->
+    <li>sent-&gt; [INITIATOR_nameDef]的尾巴插入了[RECIPIENT_nameDef]的后庭。</li>
+  </DomSuccubusTail_Anal_RP.rulePack.rulesStrings>
+  <DomSuccubusTail_Envelop_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] dick was enveloped by [INITIATOR_nameDef] [INITIATOR_possessive] tail.-->
+    <li>sent-&gt; [RECIPIENT_nameDef]的阴茎被[INITIATOR_nameDef]的尾巴所缠绕包裹。</li>
+  </DomSuccubusTail_Envelop_RP.rulePack.rulesStrings>
+  <DomSuccubusTail_Tailjob_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] gave [RECIPIENT_nameDef] a tailjob.-->
+    <li>sent-&gt; [INITIATOR_nameDef]为[RECIPIENT_nameDef]提供了尾交服务。</li>
+  </DomSuccubusTail_Tailjob_RP.rulePack.rulesStrings>
+  <DomSuccubusTail_Vaginal_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] [INITIATOR_possessive] tail was vaginally inserted into [RECIPIENT_nameDef].-->
+    <li>sent-&gt; [INITIATOR_nameDef]的尾巴插入了[RECIPIENT_nameDef]的阴道。</li>
+  </DomSuccubusTail_Vaginal_RP.rulePack.rulesStrings>
+  <SubSuccubusTail_Anal_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] [RECIPIENT_possessive] tail was anally inserted into [INITIATOR_nameDef].-->
+    <li>sent-&gt; [RECIPIENT_nameDef]的尾巴插入了[INITIATOR_nameDef]的后庭。</li>
+  </SubSuccubusTail_Anal_RP.rulePack.rulesStrings>
+  <SubSuccubusTail_Envelop_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [INITIATOR_nameDef] dick was enveloped by [RECIPIENT_nameDef] [RECIPIENT_possessive] tail.-->
+    <li>sent-&gt; [INITIATOR_nameDef]的阴茎被[RECIPIENT_nameDef]的尾巴所缠绕包裹。</li>
+  </SubSuccubusTail_Envelop_RP.rulePack.rulesStrings>
+  <SubSuccubusTail_Tailjob_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] gave [INITIATOR_nameDef] a tailjob.-->
+    <li>sent-&gt; [RECIPIENT_nameDef]为[INITIATOR_nameDef]提供了尾交服务。</li>
+  </SubSuccubusTail_Tailjob_RP.rulePack.rulesStrings>
+  <SubSuccubusTail_Vaginal_RP.rulePack.rulesStrings>
+    <!--EN: sent-> [RECIPIENT_nameDef] [RECIPIENT_possessive] tail was vaginally inserted into [INITIATOR_nameDef].-->
+    <li>sent-&gt; [RECIPIENT_nameDef]的尾巴插入了[INITIATOR_nameDef]的阴道。</li>
+  </SubSuccubusTail_Vaginal_RP.rulePack.rulesStrings>
 </LanguageData>

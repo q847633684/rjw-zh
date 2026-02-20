@@ -1,89 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: the boobs need the bra-->
-  <BraStatus.description>这对奶子需要胸罩</BraStatus.description>
-  <!--EN: how the boobs doin-->
-  <BraStatus.label>奶子还好吗</BraStatus.label>
-  <!--EN: bra-->
-  <BraStatus.stages.0.label>胸罩</BraStatus.stages.0.label>
-  <!--EN: Trying to keep people from seeing their naked body by holding it tightly.-->
-  <CoverBody.description>试图通过紧紧抱住身体来避免他人看到自己的裸体。</CoverBody.description>
-  <!--EN: covering body-->
-  <CoverBody.label>遮掩身体</CoverBody.label>
-  <!--EN: one hand free-->
-  <CoverBody.stages.0.label>一只手空闲</CoverBody.stages.0.label>
-  <!--EN: one hand free-->
-  <CoverBody.stages.1.label>一只手空闲</CoverBody.stages.1.label>
-  <!--EN: using both hands-->
-  <CoverBody.stages.2.label>使用双手</CoverBody.stages.2.label>
-  <!--EN: mild bug in clothes-->
-  <MildBugInClothes.description>衣服里有轻微的虫子</MildBugInClothes.description>
-  <!--EN: mild bug in clothes-->
-  <MildBugInClothes.label>衣服里有轻微虫子</MildBugInClothes.label>
+  <!--EN: (Debug) Provide tick support for triggering onahole bed auto capture.-->
+  <AutoCapture.description>（调试）为触发onahole bed自动捕获提供tick支持。</AutoCapture.description>
+  <!--EN: Auto Capture-->
+  <AutoCapture.label>自动捕捉</AutoCapture.label>
+  <!--EN: A electrically powered piston inserted into the anus.-->
+  <OnaholeAnalSexMachine.description>在肛门抽插的炮机</OnaholeAnalSexMachine.description>
+  <!--EN: anal sex machine-->
+  <OnaholeAnalSexMachine.label>肛门炮机</OnaholeAnalSexMachine.label>
+  <!--EN: Under the influence of a powerful aphrodisiac, sexual desire is greatly heightened.-->
+  <OnaholeAphrodisiac.description>受到强效催情剂的影响，性欲大大增强。</OnaholeAphrodisiac.description>
+  <!--EN: aphrodisiac-->
+  <OnaholeAphrodisiac.label>催情剂</OnaholeAphrodisiac.label>
+  <!--EN: fading-->
+  <OnaholeAphrodisiac.stages.0.label>消退中</OnaholeAphrodisiac.stages.0.label>
   <!--EN: minor-->
-  <MildBugInClothes.stages.0.label>轻微</MildBugInClothes.stages.0.label>
-  <!--EN: exhibitionist score-->
-  <NMM_ExhibScore.description>暴露癖分数</NMM_ExhibScore.description>
-  <!--EN: exhibitionist score-->
-  <NMM_ExhibScore.label>暴露癖分数</NMM_ExhibScore.label>
-  <!--EN: exhibitionist score-->
-  <NMM_ExhibScore.stages.0.label>暴露癖分数</NMM_ExhibScore.stages.0.label>
-  <!--EN: prude score-->
-  <NMM_PrudeScore.description>保守分数</NMM_PrudeScore.description>
-  <!--EN: prude score-->
-  <NMM_PrudeScore.label>保守分数</NMM_PrudeScore.label>
-  <!--EN: prude score-->
-  <NMM_PrudeScore.stages.0.label>保守分数</NMM_PrudeScore.stages.0.label>
-  <!--EN: voy score-->
-  <NMM_VoyScore.description>窥视癖分数</NMM_VoyScore.description>
-  <!--EN: voy score-->
-  <NMM_VoyScore.label>窥视癖分数</NMM_VoyScore.label>
-  <!--EN: voy score-->
-  <NMM_VoyScore.stages.0.label>窥视癖分数</NMM_VoyScore.stages.0.label>
-  <!--EN: naked time-->
-  <NakedTime.description>赤裸时刻</NakedTime.description>
-  <!--EN: naked time-->
-  <NakedTime.label>赤裸时刻</NakedTime.label>
-  <!--EN: naked time-->
-  <NakedTime.stages.0.label>赤裸时刻</NakedTime.stages.0.label>
-  <!--EN: Clothing adjusts or rearranges with movement.-->
-  <NipSlip.description>衣物随着动作而调整或移位。</NipSlip.description>
-  <!--EN: clothing shift-->
-  <NipSlip.label>衣物移位</NipSlip.label>
-  <!--EN: nipple-->
-  <NipSlip.stages.0.label>露点</NipSlip.stages.0.label>
-  <!--EN: this pawn is not covering their body.-->
-  <NotCovering.description>这个角色没有遮掩自己的身体。</NotCovering.description>
-  <!--EN: not covering body-->
-  <NotCovering.label>未遮掩身体</NotCovering.label>
-  <!--EN: minor-->
-  <NotCovering.stages.0.label>轻微</NotCovering.stages.0.label>
-  <!--EN: Clothing adjusts or rearranges with movement.-->
-  <PreNipSlip.description>衣物随着动作而调整或移位。</PreNipSlip.description>
-  <!--EN: clothing shift-->
-  <PreNipSlip.label>衣物移位</PreNipSlip.label>
-  <!--EN: pre-show-->
-  <PreNipSlip.stages.0.label>走光前</PreNipSlip.stages.0.label>
-  <!--EN: prude broken tracker-->
-  <PrudeBrokenTracker.description>羞怯崩溃追踪器</PrudeBrokenTracker.description>
-  <!--EN: prude broken tracker-->
-  <PrudeBrokenTracker.label>羞怯崩溃追踪器</PrudeBrokenTracker.label>
-  <!--EN: prude broken tracker-->
-  <PrudeBrokenTracker.stages.0.label>羞怯崩溃追踪器</PrudeBrokenTracker.stages.0.label>
-  <!--EN: gra gra gra gra-->
-  <PrudeDrafted.description>咯 咯 咯 咯</PrudeDrafted.description>
-  <!--EN: this prude is drafted-->
-  <PrudeDrafted.label>这个保守者被征召了</PrudeDrafted.label>
-  <!--EN: dra-->
-  <PrudeDrafted.stages.0.label>征</PrudeDrafted.stages.0.label>
-  <!--EN: Their clothes are clinging to their body, getting more transparent the wetter they get.-->
-  <WetShirt.description>他们的衣服紧贴在身上，越湿就越透明。</WetShirt.description>
-  <!--EN: wet clothing-->
-  <WetShirt.label>湿衣服</WetShirt.label>
-  <!--EN: damp-->
-  <WetShirt.stages.0.label>潮湿</WetShirt.stages.0.label>
-  <!--EN: nearly see-through-->
-  <WetShirt.stages.1.label>近乎透明</WetShirt.stages.1.label>
-  <!--EN: see-through-->
-  <WetShirt.stages.2.label>透明</WetShirt.stages.2.label>
+  <OnaholeAphrodisiac.stages.1.label>轻微</OnaholeAphrodisiac.stages.1.label>
+  <!--EN: moderate-->
+  <OnaholeAphrodisiac.stages.2.label>中度</OnaholeAphrodisiac.stages.2.label>
+  <!--EN: intense-->
+  <OnaholeAphrodisiac.stages.3.label>强烈</OnaholeAphrodisiac.stages.3.label>
+  <!--EN: Automatically feeds the pawn-->
+  <OnaholeAutoFeeder.description>自动将收集的体液喂给肉便器的机器</OnaholeAutoFeeder.description>
+  <!--EN: auto feeder-->
+  <OnaholeAutoFeeder.label>喂食器</OnaholeAutoFeeder.label>
+  <!--EN: bondage-->
+  <OnaholeBond.description>全身被束缚，无法行动</OnaholeBond.description>
+  <!--EN: bondage-->
+  <OnaholeBond.label>束缚</OnaholeBond.label>
+  <!--EN: Electrodes to stimulate the breasts-->
+  <OnaholeBreastElectrodes.description>刺激乳房的电极</OnaholeBreastElectrodes.description>
+  <!--EN: breast electrodes-->
+  <OnaholeBreastElectrodes.label>乳房电极</OnaholeBreastElectrodes.label>
+  <!--EN: Defeated.-->
+  <OnaholeDefeated.description>被击败</OnaholeDefeated.description>
+  <!--EN: Defeated-->
+  <OnaholeDefeated.label>被击败</OnaholeDefeated.label>
+  <!--EN: Electrodes to stimulate genital area-->
+  <OnaholeGenitalElectrodes.description>刺激阴部的电极</OnaholeGenitalElectrodes.description>
+  <!--EN: genital electrodes-->
+  <OnaholeGenitalElectrodes.label>阴部电极</OnaholeGenitalElectrodes.label>
+  <!--EN: Automatically milks the pawn-->
+  <OnaholeMilkingMachine.description>自动榨乳的机器</OnaholeMilkingMachine.description>
+  <!--EN: milking machine-->
+  <OnaholeMilkingMachine.label>榨乳器</OnaholeMilkingMachine.label>
+  <!--EN: A electrically powered sex machine.-->
+  <OnaholeSexMachine.description>在阴茎上安装电动飞机杯，刺激射精</OnaholeSexMachine.description>
+  <!--EN: sex machine-->
+  <OnaholeSexMachine.label>榨精器</OnaholeSexMachine.label>
+  <!--EN: A electrically powered piston inserted into the vagina.-->
+  <OnaholeVaginalSexMachine.description>在阴道抽插的炮机</OnaholeVaginalSexMachine.description>
+  <!--EN: vaginal sex machine-->
+  <OnaholeVaginalSexMachine.label>炮机</OnaholeVaginalSexMachine.label>
 </LanguageData>

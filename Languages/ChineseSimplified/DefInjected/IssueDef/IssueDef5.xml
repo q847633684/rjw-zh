@@ -1,9 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: harming children-->
-  <Harm_Child.label>伤害儿童</Harm_Child.label>
-  <!--EN: Marrying children-->
-  <Marriage_Child.label>与儿童结婚</Marriage_Child.label>
-  <!--EN: Raping children-->
-  <Rape_Child.label>强奸儿童</Rape_Child.label>
+  <!--EN: Anal Vore-->
+  <RV2_AnalVore.label>肛门 吃人</RV2_AnalVore.label>
+  <!--EN: Animal Predator-->
+  <RV2_AnimalPredator.label>动物捕食者</RV2_AnimalPredator.label>
+  <!--EN: Animal Prey-->
+  <RV2_AnimalPrey.label>动物猎物</RV2_AnimalPrey.label>
+  <!--EN: Cock Vore-->
+  <RV2_CockVore.label>公鸡吃人</RV2_CockVore.label>
+  <!--EN: Endo Vore-->
+  <RV2_EndoVore.label>接上吃人</RV2_EndoVore.label>
+  <!--EN: Fatal Vore-->
+  <RV2_FatalVore.label>致命吃人</RV2_FatalVore.label>
+  <!--EN: Feeding-->
+  <RV2_Feeding.label>喂养</RV2_Feeding.label>
+  <!--EN: Gendered predation-->
+  <RV2_GenderedPredation.label>性别掠夺</RV2_GenderedPredation.label>
+  <!--EN: Gendered preyism-->
+  <RV2_GenderedPreyism.label>性别捕食主义</RV2_GenderedPreyism.label>
+  <!--EN: Humanoid Prey-->
+  <RV2_HumanoidPrey.label>人类猎物</RV2_HumanoidPrey.label>
+  <!--EN: Interrupted Vore-->
+  <RV2_InterruptedVore.label>被打断吃人</RV2_InterruptedVore.label>
+  <!--EN: Nipple Vore-->
+  <RV2_NippleVore.label>乳头 吃人</RV2_NippleVore.label>
+  <!--EN: Oral Vore-->
+  <RV2_OralVore.label>用嘴 吃人</RV2_OralVore.label>
+  <!--EN: Predation-->
+  <RV2_Predation.label>捕食</RV2_Predation.label>
+  <!--EN: Preyism-->
+  <RV2_Preyism.label>猎物教</RV2_Preyism.label>
+  <!--EN: Vaginal Vore-->
+  <RV2_VaginalVore.label>阴道 吃人</RV2_VaginalVore.label>
+  <!--EN: Vore Enablers-->
+  <RV2_VoreEnablers.label>吃人赋能者</RV2_VoreEnablers.label>
+  <!--EN: vore product eating-->
+  <RV2_VoreProductEating.label>吃人食用产物</RV2_VoreProductEating.label>
 </LanguageData>

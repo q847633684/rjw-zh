@@ -1,51 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: This person is changing into a dumber, but prettier version of themself, for better or for worse.-->
-  <RJW_Unleashed_Bimbofication.description>此人正在转变为一个更愚钝但更漂亮的自己，不论好坏。</RJW_Unleashed_Bimbofication.description>
-  <!--EN: bimbofication-->
-  <RJW_Unleashed_Bimbofication.label>金发傻妞化</RJW_Unleashed_Bimbofication.label>
-  <!--EN: neglectable-->
-  <RJW_Unleashed_Bimbofication.stages.0.label>可忽略</RJW_Unleashed_Bimbofication.stages.0.label>
+  <!--EN: Covered in Slug.-->
+  <Cumpilation_Hediff_SlugCoverageController.description>被蛞蝓覆盖。</Cumpilation_Hediff_SlugCoverageController.description>
+  <!--EN: Slugcovered-->
+  <Cumpilation_Hediff_SlugCoverageController.label>弹头覆盖</Cumpilation_Hediff_SlugCoverageController.label>
   <!--EN: minor-->
-  <RJW_Unleashed_Bimbofication.stages.1.label>轻微</RJW_Unleashed_Bimbofication.stages.1.label>
-  <!--EN: severe-->
-  <RJW_Unleashed_Bimbofication.stages.2.label>严重</RJW_Unleashed_Bimbofication.stages.2.label>
-  <!--EN: critical-->
-  <RJW_Unleashed_Bimbofication.stages.3.label>危急</RJW_Unleashed_Bimbofication.stages.3.label>
-  <!--EN: This person is changing into a breedable femine male, for better or for worse.-->
-  <RJW_Unleashed_Femboification.description>此人正在转变为一个可繁殖的女性化男性，不论好坏。</RJW_Unleashed_Femboification.description>
-  <!--EN: Femboification-->
-  <RJW_Unleashed_Femboification.label>伪娘化</RJW_Unleashed_Femboification.label>
-  <!--EN: neglectable-->
-  <RJW_Unleashed_Femboification.stages.0.label>可忽略</RJW_Unleashed_Femboification.stages.0.label>
-  <!--EN: minor-->
-  <RJW_Unleashed_Femboification.stages.1.label>轻微</RJW_Unleashed_Femboification.stages.1.label>
-  <!--EN: severe-->
-  <RJW_Unleashed_Femboification.stages.2.label>严重</RJW_Unleashed_Femboification.stages.2.label>
-  <!--EN: critical-->
-  <RJW_Unleashed_Femboification.stages.3.label>危急</RJW_Unleashed_Femboification.stages.3.label>
-  <!--EN: This person is changing into a submissive, masochistic rapetoy, for better or for worse.-->
-  <RJW_Unleashed_Rapetoification.description>此人正在转变为一个顺从的、受虐的强奸玩具，不论好坏。</RJW_Unleashed_Rapetoification.description>
-  <!--EN: rapetoification-->
-  <RJW_Unleashed_Rapetoification.label>顺奴化</RJW_Unleashed_Rapetoification.label>
-  <!--EN: neglectable-->
-  <RJW_Unleashed_Rapetoification.stages.0.label>可忽略</RJW_Unleashed_Rapetoification.stages.0.label>
-  <!--EN: minor-->
-  <RJW_Unleashed_Rapetoification.stages.1.label>轻微</RJW_Unleashed_Rapetoification.stages.1.label>
-  <!--EN: severe-->
-  <RJW_Unleashed_Rapetoification.stages.2.label>严重</RJW_Unleashed_Rapetoification.stages.2.label>
-  <!--EN: critical-->
-  <RJW_Unleashed_Rapetoification.stages.3.label>危急</RJW_Unleashed_Rapetoification.stages.3.label>
-  <!--EN: This person is changing into somewhat masculine female, for better or for worse.-->
-  <RJW_Unleashed_Tomboification.description>此人正在转变为一个有些男性化的女性，不论好坏。</RJW_Unleashed_Tomboification.description>
-  <!--EN: tomboification-->
-  <RJW_Unleashed_Tomboification.label>假小子化</RJW_Unleashed_Tomboification.label>
-  <!--EN: neglectable-->
-  <RJW_Unleashed_Tomboification.stages.0.label>可忽略</RJW_Unleashed_Tomboification.stages.0.label>
-  <!--EN: minor-->
-  <RJW_Unleashed_Tomboification.stages.1.label>轻微</RJW_Unleashed_Tomboification.stages.1.label>
-  <!--EN: severe-->
-  <RJW_Unleashed_Tomboification.stages.2.label>严重</RJW_Unleashed_Tomboification.stages.2.label>
-  <!--EN: critical-->
-  <RJW_Unleashed_Tomboification.stages.3.label>危急</RJW_Unleashed_Tomboification.stages.3.label>
+  <Cumpilation_Hediff_SlugCoverageController.stages.0.label>次要的</Cumpilation_Hediff_SlugCoverageController.stages.0.label>
+  <!--EN: little-->
+  <Cumpilation_Hediff_SlugCoverageController.stages.1.label>小的</Cumpilation_Hediff_SlugCoverageController.stages.1.label>
+  <!--EN: extensive-->
+  <Cumpilation_Hediff_SlugCoverageController.stages.2.label>广泛的</Cumpilation_Hediff_SlugCoverageController.stages.2.label>
+  <!--EN: full-->
+  <Cumpilation_Hediff_SlugCoverageController.stages.3.label>满的</Cumpilation_Hediff_SlugCoverageController.stages.3.label>
+  <!--EN: slug-->
+  <Cumpilation_Hediff_Slugsplash.description>蛞蝓</Cumpilation_Hediff_Slugsplash.description>
+  <!--EN: Slug-->
+  <Cumpilation_Hediff_Slugsplash.label>蛞蝓</Cumpilation_Hediff_Slugsplash.label>
+  <!--EN: slug-->
+  <Cumpilation_Hediff_Slugsplash.labelNoun>蛞蝓</Cumpilation_Hediff_Slugsplash.labelNoun>
+  <!--EN: slug on {1}-->
+  <Cumpilation_Hediff_Slugsplash.labelNounPretty>弹射到 {1}</Cumpilation_Hediff_Slugsplash.labelNounPretty>
+  <!--EN: You came too close to someone currently slugging.-->
+  <Cumpilation_SlugStuffed.description>你离正在打斗的人太近了。</Cumpilation_SlugStuffed.description>
+  <!--EN: slug-stuffed-->
+  <Cumpilation_SlugStuffed.label>塞满了蛞蝓的</Cumpilation_SlugStuffed.label>
+  <!--EN: slug-stuffed-->
+  <Cumpilation_SlugStuffed.labelNoun>塞满了蛞蝓的</Cumpilation_SlugStuffed.labelNoun>
+  <!--EN: slightly bloated-->
+  <Cumpilation_SlugStuffed.stages.0.label>稍显臃肿</Cumpilation_SlugStuffed.stages.0.label>
+  <!--EN: bloated-->
+  <Cumpilation_SlugStuffed.stages.1.label>臃肿的</Cumpilation_SlugStuffed.stages.1.label>
+  <!--EN: full-->
+  <Cumpilation_SlugStuffed.stages.2.label>满的</Cumpilation_SlugStuffed.stages.2.label>
+  <!--EN: over-stuffed-->
+  <Cumpilation_SlugStuffed.stages.3.label>塞满了</Cumpilation_SlugStuffed.stages.3.label>
+  <!--EN: Due to a drug, the cum has been changed to slug.-->
+  <Cumpilation_temporarySlugged.description>由于药物的原因，精液已更改为鼻涕虫。</Cumpilation_temporarySlugged.description>
+  <!--EN: temporary slugged-->
+  <Cumpilation_temporarySlugged.label>暂时重击</Cumpilation_temporarySlugged.label>
+  <!--EN: wearing off-->
+  <Cumpilation_temporarySlugged.stages.0.label>逐渐消失</Cumpilation_temporarySlugged.stages.0.label>
+  <!--EN: altered-->
+  <Cumpilation_temporarySlugged.stages.1.label>改变的</Cumpilation_temporarySlugged.stages.1.label>
+  <!--EN: fresh-->
+  <Cumpilation_temporarySlugged.stages.2.label>新鲜的</Cumpilation_temporarySlugged.stages.2.label>
 </LanguageData>

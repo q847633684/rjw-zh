@@ -1,83 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: The number of times I was raped by animals.-->
-  <CountOfBeenRapedByAnimals.description>我被其他动物强奸的次数。</CountOfBeenRapedByAnimals.description>
-  <!--EN: raped by animals-->
-  <CountOfBeenRapedByAnimals.label>被动物强奸次数</CountOfBeenRapedByAnimals.label>
-  <!--EN: The number of times I was raped by humanlikes.-->
-  <CountOfBeenRapedByHumanlikes.description>我被强奸的次数。</CountOfBeenRapedByHumanlikes.description>
-  <!--EN: raped by humanlikes-->
-  <CountOfBeenRapedByHumanlikes.label>被强奸次数</CountOfBeenRapedByHumanlikes.label>
-  <!--EN: The number of times I was raped by insects.-->
-  <CountOfBeenRapedByInsects.description>我被其他虫子强奸的次数。</CountOfBeenRapedByInsects.description>
-  <!--EN: raped by insects-->
-  <CountOfBeenRapedByInsects.label>被虫类强奸次数</CountOfBeenRapedByInsects.label>
-  <!--EN: The number of times I was raped by weird stuff.-->
-  <CountOfBeenRapedByOthers.description>被别人强奸的次数。</CountOfBeenRapedByOthers.description>
-  <!--EN: raped by other-->
-  <CountOfBeenRapedByOthers.label>被人型生物强奸的次数</CountOfBeenRapedByOthers.label>
-  <!--EN: How many animals I have birthed.-->
-  <CountOfBirthAnimal.description>我曾生出过多少动物。</CountOfBirthAnimal.description>
-  <!--EN: birthed animals-->
-  <CountOfBirthAnimal.label>生出动物数</CountOfBirthAnimal.label>
-  <!--EN: How many eggs I have birthed.-->
-  <CountOfBirthEgg.description>我生了多少个蛋。</CountOfBirthEgg.description>
-  <!--EN: birthed eggs-->
-  <CountOfBirthEgg.label>虫卵出生计数</CountOfBirthEgg.label>
-  <!--EN: How many humanlikes I have birthed.-->
-  <CountOfBirthHuman.description>我曾生出过多少人。</CountOfBirthHuman.description>
-  <!--EN: birthed humanlikes-->
-  <CountOfBirthHuman.label>生出人类数</CountOfBirthHuman.label>
-  <!--EN: The number of condoms I've used.-->
-  <CountOfCondomsUsed.description>我用过的避孕套的数量。</CountOfCondomsUsed.description>
-  <!--EN: condoms used-->
-  <CountOfCondomsUsed.label>使用避孕套数</CountOfCondomsUsed.label>
-  <!--EN: The number of times I masturbated.-->
-  <CountOfFappin.description>我自慰的次数。</CountOfFappin.description>
-  <!--EN: masturbating done-->
-  <CountOfFappin.label>自慰次数</CountOfFappin.label>
-  <!--EN: The number of times I raped animals.-->
-  <CountOfRapedAnimals.description>我强奸动物的次数。</CountOfRapedAnimals.description>
-  <!--EN: raped animals-->
-  <CountOfRapedAnimals.label>强奸动物次数</CountOfRapedAnimals.label>
-  <!--EN: The number of times I raped humanlikes.-->
-  <CountOfRapedHumanlikes.description>我强奸人形生物的次数。</CountOfRapedHumanlikes.description>
-  <!--EN: raped humanlikes-->
-  <CountOfRapedHumanlikes.label>强奸次数</CountOfRapedHumanlikes.label>
-  <!--EN: The number of times I raped insects.-->
-  <CountOfRapedInsects.description>我强奸虫子的次数。</CountOfRapedInsects.description>
-  <!--EN: raped insects-->
-  <CountOfRapedInsects.label>强奸虫子次数</CountOfRapedInsects.label>
-  <!--EN: The number of times I raped weird stuff.-->
-  <CountOfRapedOthers.description>我强奸他人的次数。</CountOfRapedOthers.description>
-  <!--EN: raped other-->
-  <CountOfRapedOthers.label>强奸人类次数</CountOfRapedOthers.label>
-  <!--EN: The number of times I had sex.-->
-  <CountOfSex.description>我做爱的次数。</CountOfSex.description>
-  <!--EN: total sex had-->
-  <CountOfSex.label>做爱次数</CountOfSex.label>
-  <!--EN: The number of times I had sex with animals.-->
-  <CountOfSexWithAnimals.description>我和动物做爱的次数。</CountOfSexWithAnimals.description>
-  <!--EN: sex with animals-->
-  <CountOfSexWithAnimals.label>动物做爱次数</CountOfSexWithAnimals.label>
-  <!--EN: The number of times I raped corpses.-->
-  <CountOfSexWithCorpse.description>我和尸体做爱的次数。</CountOfSexWithCorpse.description>
-  <!--EN: raped corpses-->
-  <CountOfSexWithCorpse.label>亵渎尸体次数</CountOfSexWithCorpse.label>
-  <!--EN: The number of times I had sex with humanlikes.-->
-  <CountOfSexWithHumanlikes.description>我和人型生物做爱的次数。</CountOfSexWithHumanlikes.description>
-  <!--EN: sex with humanlikes-->
-  <CountOfSexWithHumanlikes.label>人型生物做爱次数</CountOfSexWithHumanlikes.label>
-  <!--EN: The number of times I had sex with insects.-->
-  <CountOfSexWithInsects.description>我和虫子做爱的次数。</CountOfSexWithInsects.description>
-  <!--EN: sex with insects-->
-  <CountOfSexWithInsects.label>虫族做爱次数</CountOfSexWithInsects.label>
-  <!--EN: The number of times I had sex with weird stuff.-->
-  <CountOfSexWithOthers.description>我和别人做爱的次数。</CountOfSexWithOthers.description>
-  <!--EN: sex with other-->
-  <CountOfSexWithOthers.label>做爱次数</CountOfSexWithOthers.label>
-  <!--EN: The number of times I was used to comfort someone.-->
-  <GetRapedAsComfortPrisoner.description>我被当作泄欲对象强奸的次数。</GetRapedAsComfortPrisoner.description>
-  <!--EN: raped as a comfort-->
-  <GetRapedAsComfortPrisoner.label>被指定强奸的次数</GetRapedAsComfortPrisoner.label>
+  <!--EN: The number of times of anal sex.-->
+  <AnalSexCount.description>肛交的次数。</AnalSexCount.description>
+  <!--EN: anal intercourses-->
+  <AnalSexCount.label>肛交</AnalSexCount.label>
+  <!--EN: The number of times of blowjob.-->
+  <BlowjobCount.description>口交的次数。</BlowjobCount.description>
+  <!--EN: blowjobs-->
+  <BlowjobCount.label>口交</BlowjobCount.label>
+  <!--EN: The number of times of cunnilingus.-->
+  <CunnilingusCount.description>舔阴的次数。</CunnilingusCount.description>
+  <!--EN: cunnilingus-->
+  <CunnilingusCount.label>舔阴</CunnilingusCount.label>
+  <!--EN: The number of times of fingering.-->
+  <FingeringCount.description>指交的次数。</FingeringCount.description>
+  <!--EN: fingerings-->
+  <FingeringCount.label>指交</FingeringCount.label>
+  <!--EN: The number of times of footjob.-->
+  <FootjobCount.description>足交的次数。</FootjobCount.description>
+  <!--EN: footjob-->
+  <FootjobCount.label>足交</FootjobCount.label>
+  <!--EN: The number of times of handjob/fingering.-->
+  <GenitalCaressCount.description>用手指刺激阴茎/阴道的次数。</GenitalCaressCount.description>
+  <!--EN: genital touched-->
+  <GenitalCaressCount.label>摸阴</GenitalCaressCount.label>
+  <!--EN: The number of times of handjob.-->
+  <HandjobCount.description>手交的次数。</HandjobCount.description>
+  <!--EN: handjobs-->
+  <HandjobCount.label>手交</HandjobCount.label>
+  <!--EN: How lustful i am.-->
+  <Lust.description>我多淫荡。</Lust.description>
+  <!--EN: lust-->
+  <Lust.label>色欲</Lust.label>
+  <!--EN: The number of times of something sexual.-->
+  <MiscSexualBehaviorCount.description>一些性交的次数。</MiscSexualBehaviorCount.description>
+  <!--EN: misc. intercourses-->
+  <MiscSexualBehaviorCount.label>杂项</MiscSexualBehaviorCount.label>
+  <!--EN: The number of times of received oral sex.-->
+  <OralSexCount.description>吞精的次数。</OralSexCount.description>
+  <!--EN: oral intercourses-->
+  <OralSexCount.label>吞精</OralSexCount.label>
+  <!--EN: The number of times of orgasm.-->
+  <OrgasmCount.description>高潮的次数。</OrgasmCount.description>
+  <!--EN: orgasms-->
+  <OrgasmCount.label>高潮</OrgasmCount.label>
+  <!--EN: The number of sex partners.-->
+  <SexPartnerCount.description>性伴侣的个数。</SexPartnerCount.description>
+  <!--EN: sex partners-->
+  <SexPartnerCount.label>性伴侣</SexPartnerCount.label>
+  <!--EN: The number of times of vaginal sex.-->
+  <VaginalSexCount.description>阴道性交的次数。</VaginalSexCount.description>
+  <!--EN: vaginal intercourses-->
+  <VaginalSexCount.label>阴道性交</VaginalSexCount.label>
 </LanguageData>

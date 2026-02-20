@@ -1,21 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Surgically repair a prolapse.-->
-  <RES_RepairExtremeProlapse.description>通过外科手术修复脱垂。</RES_RepairExtremeProlapse.description>
-  <!--EN: Repairing prolapse.-->
-  <RES_RepairExtremeProlapse.jobString>正在修复脱垂。</RES_RepairExtremeProlapse.jobString>
-  <!--EN: repair extreme prolapse-->
-  <RES_RepairExtremeProlapse.label>修复严重脱垂</RES_RepairExtremeProlapse.label>
-  <!--EN: Realign and stabilize a dislocated jaw. The procedure reduces pain and restores full function to the mouth.-->
-  <RES_RepairJaw.description>重新对齐并固定脱臼的下颌。该手术可减轻疼痛并恢复口腔的全部功能。</RES_RepairJaw.description>
-  <!--EN: Realigning jaw.-->
-  <RES_RepairJaw.jobString>正在对齐下颌。</RES_RepairJaw.jobString>
-  <!--EN: realign jaw-->
-  <RES_RepairJaw.label>对齐下颌</RES_RepairJaw.label>
-  <!--EN: Repair a prolapse.-->
-  <RES_RepairProlapse.description>修复脱垂。</RES_RepairProlapse.description>
-  <!--EN: Repairing prolapse.-->
-  <RES_RepairProlapse.jobString>正在修复脱垂。</RES_RepairProlapse.jobString>
-  <!--EN: repair prolapse-->
-  <RES_RepairProlapse.label>修复脱垂</RES_RepairProlapse.label>
+  <!--EN: Contract the areolae.-->
+  <Surgery_ContractAreola.description>缩小乳晕。</Surgery_ContractAreola.description>
+  <!--EN: contracting areolae-->
+  <Surgery_ContractAreola.jobString>正在缩小乳晕</Surgery_ContractAreola.jobString>
+  <!--EN: contract areolae-->
+  <Surgery_ContractAreola.label>缩小乳晕</Surgery_ContractAreola.label>
+  <!--EN: Contract the nipples.-->
+  <Surgery_ContractNipple.description>缩小乳头。</Surgery_ContractNipple.description>
+  <!--EN: contracting nipples-->
+  <Surgery_ContractNipple.jobString>正在缩小乳头</Surgery_ContractNipple.jobString>
+  <!--EN: Contract nipples-->
+  <Surgery_ContractNipple.label>缩小乳头</Surgery_ContractNipple.label>
+  <!--EN: Darken the nipples.-->
+  <Surgery_DarkenNipple.description>加深乳头颜色。</Surgery_DarkenNipple.description>
+  <!--EN: darkening nipples-->
+  <Surgery_DarkenNipple.jobString>正在加深乳头颜色</Surgery_DarkenNipple.jobString>
+  <!--EN: Darken nipples-->
+  <Surgery_DarkenNipple.label>加深乳头颜色</Surgery_DarkenNipple.label>
+  <!--EN: Expand the areolae.-->
+  <Surgery_ExpandAreola.description>扩大乳晕。</Surgery_ExpandAreola.description>
+  <!--EN: expanding areolae-->
+  <Surgery_ExpandAreola.jobString>正在扩大乳晕</Surgery_ExpandAreola.jobString>
+  <!--EN: expand areolae-->
+  <Surgery_ExpandAreola.label>扩大乳晕</Surgery_ExpandAreola.label>
+  <!--EN: Expand the nipples.-->
+  <Surgery_ExpandNipple.description>扩大乳头。</Surgery_ExpandNipple.description>
+  <!--EN: expanding nipples-->
+  <Surgery_ExpandNipple.jobString>正在扩大乳头</Surgery_ExpandNipple.jobString>
+  <!--EN: Expand nipple-->
+  <Surgery_ExpandNipple.label>扩大乳头</Surgery_ExpandNipple.label>
+  <!--EN: Lighten the nipples.-->
+  <Surgery_LightenNipple.description>减淡乳头颜色。</Surgery_LightenNipple.description>
+  <!--EN: lightening nipples-->
+  <Surgery_LightenNipple.jobString>正在减淡乳头颜色</Surgery_LightenNipple.jobString>
+  <!--EN: Lighten nipples-->
+  <Surgery_LightenNipple.label>减淡乳头颜色</Surgery_LightenNipple.label>
 </LanguageData>

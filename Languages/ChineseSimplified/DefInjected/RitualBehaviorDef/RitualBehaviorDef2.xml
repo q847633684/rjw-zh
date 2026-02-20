@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: {SPEAKER_labelShort} is presenting your whores to visitors.-->
-  <CB_Prostitution_Present_Ritual_Behaviour.letterText>{SPEAKER_labelShort} 正在向访客介绍您的妓女。</CB_Prostitution_Present_Ritual_Behaviour.letterText>
-  <!--EN: madam-->
-  <CB_Prostitution_Present_Ritual_Behaviour.roles.0.label>老鸨</CB_Prostitution_Present_Ritual_Behaviour.roles.0.label>
-  <!--EN: prostitute-->
-  <CB_Prostitution_Present_Ritual_Behaviour.roles.1.label>妓女</CB_Prostitution_Present_Ritual_Behaviour.roles.1.label>
-  <!--EN: pawns capable of whoring-->
-  <CB_Prostitution_Present_Ritual_Behaviour.roles.1.missingDesc>能够卖淫的角色</CB_Prostitution_Present_Ritual_Behaviour.roles.1.missingDesc>
-  <!--EN: client-->
-  <CB_Prostitution_Present_Ritual_Behaviour.roles.2.label>顾客</CB_Prostitution_Present_Ritual_Behaviour.roles.2.label>
-  <!--EN: non-hostile visitors-->
-  <CB_Prostitution_Present_Ritual_Behaviour.roles.2.missingDesc>非敌对的访客</CB_Prostitution_Present_Ritual_Behaviour.roles.2.missingDesc>
-  <!--EN: No spectators allowed.-->
-  <CB_Prostitution_Present_Ritual_Behaviour.spectatorFilter.description>不允许有旁观者。</CB_Prostitution_Present_Ritual_Behaviour.spectatorFilter.description>
-  <!--EN: {0}: The speech is over, and the party is beginning.-->
-  <CB_Prostitution_Present_Ritual_Behaviour.stages.0.postAction.text>{0}: 演讲结束，派对开始了。</CB_Prostitution_Present_Ritual_Behaviour.stages.0.postAction.text>
+  <!--EN: Gene tamperer-->
+  <CB_GeneTampering_Behavior.roles.0.label>基因篡改者</CB_GeneTampering_Behavior.roles.0.label>
+  <!--EN: Target-->
+  <CB_GeneTampering_Behavior.roles.1.label>目标</CB_GeneTampering_Behavior.roles.1.label>
+  <!--EN: a target-->
+  <CB_GeneTampering_Behavior.roles.1.missingDesc>一个目标</CB_GeneTampering_Behavior.roles.1.missingDesc>
 </LanguageData>

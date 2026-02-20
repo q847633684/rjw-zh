@@ -1,35 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Churn-->
-  <Churn.label>流失</Churn.label>
-  <!--EN: Digest-->
-  <Digest.label>消化</Digest.label>
+  <!--EN: Amalgamate-->
+  <Amalgamate.label>混合物</Amalgamate.label>
+  <!--EN: Assimilate-->
+  <Assimilate.label>同化</Assimilate.label>
+  <!--EN: Contact-->
+  <Contact.label>接触</Contact.label>
   <!--EN: Dissolve-->
   <Dissolve.label>溶解</Dissolve.label>
-  <!--EN: Dump-->
-  <Dump.label>垃圾场</Dump.label>
-  <!--EN: Heal-->
-  <Heal.label>治愈</Heal.label>
-  <!--EN: Hold-->
-  <Hold.label>储存 (定时)</Hold.label>
   <!--EN: Lactify-->
   <Lactify.label>裂解</Lactify.label>
+  <!--EN: Loosen-->
+  <Loosen.label>松开</Loosen.label>
   <!--EN: Lubrify-->
   <Lubrify.label>日光</Lubrify.label>
-  <!--EN: Mush-->
-  <Mush.label>糊状物</Mush.label>
-  <!--EN: Pass-->
-  <Pass.label>通行</Pass.label>
-  <!--EN: Pleasure-->
-  <Pleasure.label>愉悦</Pleasure.label>
+  <!--EN: Oleify-->
+  <Oleify.label>兴奋</Oleify.label>
+  <!--EN: Ovify-->
+  <Ovify.label>产卵</Ovify.label>
   <!--EN: Process-->
   <Process.label>处理</Process.label>
+  <!--EN: Purge-->
+  <Purge.label>净化</Purge.label>
   <!--EN: Reform-->
   <Reform.label>改革</Reform.label>
+  <!--EN: Reshape-->
+  <Reshape.label>重塑</Reshape.label>
   <!--EN: Spermify-->
   <Spermify.label>精子</Spermify.label>
-  <!--EN: Store-->
-  <Store.label>储存 (手动)</Store.label>
-  <!--EN: Warm up-->
-  <WarmUp.label>预热</WarmUp.label>
+  <!--EN: Urify-->
+  <Urify.label>乌里韦</Urify.label>
 </LanguageData>

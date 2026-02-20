@@ -1,11 +1,107 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: {pawn} is aroused by {pawn_possessive} partner having sex with others.-->
-  <Cuckold.description>{pawn} 因 {pawn_possessive} 伴侣与他人发生性关系而性唤起。</Cuckold.description>
-  <!--EN: Cuckold-->
-  <Cuckold.label>不贞</Cuckold.label>
-  <!--EN: {pawn} likes to watch others have sex.-->
-  <Voyeur.description>{pawn} 喜欢看别人做爱。</Voyeur.description>
-  <!--EN: Voyeur-->
-  <Voyeur.label>偷窥狂</Voyeur.label>
+  <!--EN: {pawn} has given birth so many times that {pawn_possessive} body has adapted to breeding. {pawn_possessive} pregnancies are shorter and produce more offspring.-->
+  <Breeder.description>{pawn}已经生产了太多次，以至于{pawn_possessive}身体已经适应了繁殖。{pawn_possessive}孕期更短，且能产下更多后代。</Breeder.description>
+  <!--EN: Breeder-->
+  <Breeder.label>繁育癖</Breeder.label>
+  <!--EN: {pawn} really likes getting fucked in the butt and prefers anal sex acts.-->
+  <Buttslut.description>{pawn}非常喜欢被通过后庭侵犯，并且更偏好肛交行为。</Buttslut.description>
+  <!--EN: Buttslut-->
+  <Buttslut.label>后庭癖</Buttslut.label>
+  <!--EN: {pawn} enjoys the smooth strength of a chitinous exoskeleton. {pawn_pronoun} prefers arachnoid or insectoid partners.-->
+  <ChitinLover.description>{pawn}迷恋几丁质外骨骼那种平滑而强劲的力量感。{pawn_pronoun}更倾向于寻找蛛形纲或昆虫形伴侣。</ChitinLover.description>
+  <!--EN: Chitin lover-->
+  <ChitinLover.label>几丁质癖</ChitinLover.label>
+  <!--EN: {pawn} really likes cum and prefers fellatio sex acts.-->
+  <Cumslut.description>{pawn}非常渴望精液，并且更偏好口交行为。</Cumslut.description>
+  <!--EN: Cumslut-->
+  <Cumslut.label>精液奴</Cumslut.label>
+  <!--EN: {pawn} is after the naughty ones. {pawn_pronoun} prefers {pawn_possessive} partners to come from the literal depths of hell, or at least look the part.-->
+  <DemonLover.description>{pawn}迷恋那些邪恶的家伙。{pawn_pronoun}更倾向于寻找来自地狱深处，或者至少看起来像那样的伴侣。</DemonLover.description>
+  <!--EN: Demon lover-->
+  <DemonLover.label>恶魔癖</DemonLover.label>
+  <!--EN: {pawn} prefers to keep {pawn_possessive} clothes on during sex.-->
+  <Endytophile.description>{pawn}在性爱过程中更喜欢穿着衣服。</Endytophile.description>
+  <!--EN: Endytophile-->
+  <Endytophile.label>着衣癖</Endytophile.label>
+  <!--EN: {pawn} enjoys having sex where others can see.-->
+  <Exhibitionist.description>{pawn}享受在众目睽睽之下发生性关系。</Exhibitionist.description>
+  <!--EN: Exhibitionist-->
+  <Exhibitionist.label>暴露癖</Exhibitionist.label>
+  <!--EN: {pawn} loves that downy fluff. {pawn_pronoun} prefers avian or dinosaur partners. Because dinosaurs are birds and have feathers, as {pawn_pronoun} will explain at great length if given a chance.-->
+  <FeatherLover.description>{pawn}热爱那种细软的绒毛。{pawn_pronoun}更喜欢鸟类或恐龙伴侣。正如{pawn_pronoun}有机会就会长篇大论解释的那样——恐龙其实也是鸟类的一种，而且长有羽毛。</FeatherLover.description>
+  <!--EN: Feather lover-->
+  <FeatherLover.label>羽毛癖</FeatherLover.label>
+  <!--EN: {pawn} has unusually high fertility and so is more likely to have children.-->
+  <Fertile.description>{pawn} 的生育能力异常高，因此更有可能生孩子。</Fertile.description>
+  <!--EN: Fertile-->
+  <Fertile.label>高生育力</Fertile.label>
+  <!--EN: {pawn} prefers a partner with a thick, luxurious, snuggly-soft coat of fur.-->
+  <FurLover.description>{pawn}更喜欢拥有厚实、华丽且柔软贴身皮毛的伴侣。</FurLover.description>
+  <!--EN: Fur lover-->
+  <FurLover.label>毛皮癖</FurLover.label>
+  <!--EN: {pawn} prefers older partners (55+ on a human scale).-->
+  <Gerontophile.description>{pawn}更喜欢年龄较大的伴侣（以人类标准衡量为 55 岁以上）。</Gerontophile.description>
+  <!--EN: Gerontophile-->
+  <Gerontophile.label>恋老癖</Gerontophile.label>
+  <!--EN: {pawn} really likes the idea of someone becoming pregnant. {pawn_pronoun} prefers partners and sex positions where there is a possibility of pregnancy. {pawn_pronoun} doesn't care if {pawn_pronoun} is getting pregnant or {pawn_possessive} partner is as long as babby is formed.-->
+  <ImpregnationFetish.description>{pawn}非常沉迷于受孕的念头。{pawn_pronoun}偏好那些存在受孕可能的伴侣和体位。{pawn_pronoun}并不在乎是自己怀孕还是伴侣怀孕，只要能制造出小宝宝就行。</ImpregnationFetish.description>
+  <!--EN: Impregnation fetish-->
+  <ImpregnationFetish.label>受孕癖</ImpregnationFetish.label>
+  <!--EN: {pawn} has birthed so many eggs that {pawn_possessive} body has adapted to handling them. {pawn_possessive} egg incubation speed has increased.-->
+  <Incubator.description>{pawn}产下了太多的蛋，以至于{pawn_possessive}身体已经适应了处理它们。{pawn_possessive}产卵/孵化速度得到了提升。</Incubator.description>
+  <!--EN: Incubator-->
+  <Incubator.label>孵化者</Incubator.label>
+  <!--EN: {pawn} has unusually low fertility and so is unlikely to have children.-->
+  <Infertile.description>{pawn}的生育能力异常低下，因此不太可能拥有孩子。</Infertile.description>
+  <!--EN: Infertile-->
+  <Infertile.label>不育</Infertile.label>
+  <!--EN: {pawn} not only produces copious amounts of fluid during sex but {pawn_pronoun} rarely bothers to clean {pawn_possessive}self afterwards.-->
+  <Messy.description>{pawn} 不仅在性行为中产生大量体液，而且 {pawn_pronoun} 事后也很少费心清理 {pawn_possessive} 自己。</Messy.description>
+  <!--EN: Messy-->
+  <Messy.label>邋遢癖</Messy.label>
+  <!--EN: {pawn} likes watering plants. If you know what I mean.-->
+  <PlantLover.description>{pawn}喜欢“给植物浇水”。你懂我意思吧。</PlantLover.description>
+  <!--EN: Plant lover-->
+  <PlantLover.label>植物癖</PlantLover.label>
+  <!--EN: {pawn} really likes feet and prefers sex acts involving them.-->
+  <Podophile.description>{pawn}非常喜欢足部，并且更偏好涉及足部的性行为。</Podophile.description>
+  <!--EN: Podophile-->
+  <Podophile.label>恋足癖</Podophile.label>
+  <!--EN: {pawn} prefers partners who are visibly pregnant.-->
+  <PregnancyFetish.description>{pawn}更喜欢显怀（能明显看出怀孕）的伴侣。</PregnancyFetish.description>
+  <!--EN: Pregnancy fetish-->
+  <PregnancyFetish.label>恋孕癖</PregnancyFetish.label>
+  <!--EN: Which is better, 2D or 3D? {pawn} knows that 3D-printed gives you the best of both worlds.-->
+  <RobotLover.description>2D 和 3D 哪个更好？ {pawn} 知道 3D 打印可以让您两全其美。</RobotLover.description>
+  <!--EN: Robot lover-->
+  <RobotLover.label>机器人癖</RobotLover.label>
+  <!--EN: {pawn} prefers smart partners.-->
+  <Sapiosexual.description>{pawn} 更喜欢聪明的伴侣。</Sapiosexual.description>
+  <!--EN: Sapiosexual-->
+  <Sapiosexual.label>智性恋</Sapiosexual.label>
+  <!--EN: Who wouldn't want to fuck a dragon? Definitely not {pawn}. {pawn} wants to fuck a dragon.-->
+  <ScaleLover.description>谁不想操龙？绝对不是{pawn}。 {pawn} 想要操一条龙。</ScaleLover.description>
+  <!--EN: Scale lover-->
+  <ScaleLover.label>鳞片癖</ScaleLover.label>
+  <!--EN: {pawn} prefers {pawn_possessive} partners to have smooth sensitive skin without fur or scales getting in the way. Lucky for {pawn_objective} humans are all over the place.-->
+  <SkinLover.description>{pawn}喜欢伴侣拥有光滑敏感的皮肤，而不是被皮毛或鳞片阻隔。对{pawn_objective}来说幸运的是，人类到处都是。</SkinLover.description>
+  <!--EN: Skin lover-->
+  <SkinLover.label>皮肤癖</SkinLover.label>
+  <!--EN: Because of their slippery and malleable nature slimes are very, very good at sex. As you will hear over and over if you listen to {pawn} talk for any length of time.-->
+  <SlimeLover.description>由于史莱姆那种湿滑且极具延展性的特质，它们在性爱方面表现得非常出色。如果你听过{pawn}哪怕一小会儿的念叨，就会发现这一点被反复提及。</SlimeLover.description>
+  <!--EN: Slime lover-->
+  <SlimeLover.label>史莱姆癖</SlimeLover.label>
+  <!--EN: {pawn} prefers {pawn_possessive} partners to be asleep-->
+  <Somnophile.description>{pawn} 更喜欢伴侣在睡眠状态下。</Somnophile.description>
+  <!--EN: Somnophile-->
+  <Somnophile.label>恋睡癖</Somnophile.label>
+  <!--EN: {pawn} prefers ugly partners. {pawn_pronoun} would also prefer larger and wilder animals if {pawn_pronoun} were into that sort of thing...-->
+  <Teratophile.description>{pawn}偏好相貌丑陋的伴侣。如果{pawn_pronoun}对那方面感兴趣的话，甚至会更喜欢体型庞大且狂野的动物……</Teratophile.description>
+  <!--EN: Teratophile-->
+  <Teratophile.label>恋畸癖</Teratophile.label>
+  <!--EN: {pawn} is invigorated by sex. {pawn_pronoun} does not get tired as much during sex.-->
+  <Vigorous.description>{pawn}能通过性爱获得活力。在进行性行为时，{pawn_pronoun}不会感到那么疲劳。.</Vigorous.description>
+  <!--EN: Vigorous-->
+  <Vigorous.label>精力充沛</Vigorous.label>
 </LanguageData>

@@ -1,15 +1,97 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: A model popular on glitterworlds. The variable shape fits any user and a wide range of instruments provides unique sensations. This chair is equipped with platesteel restraints. The chair doesn't have any external controls and is instead guided by a wireless neurointerface and decides by itself what feelings user will experience.-->
-  <FuckMachineAutoChair.description>该装置在闪耀世界很受欢迎。可变形以适应任何用户，种类繁多的器械可以提供独特的体验。这种配备钢制束环的扶手椅不需要外部控制，而是由一个无线神经接口控制，它自己决定了这次用户将得到什么样的体验。</FuckMachineAutoChair.description>
-  <!--EN: autochair fuck machine-->
-  <FuckMachineAutoChair.label>自动高潮椅</FuckMachineAutoChair.label>
-  <!--EN: A simple model that will provide many fascinating rides.-->
-  <FuckMachineSaddle.description>方便的设备, 提供迷人的“骑乘感”。</FuckMachineSaddle.description>
-  <!--EN: saddle fuck machine-->
-  <FuckMachineSaddle.label>鞍式炮机</FuckMachineSaddle.label>
-  <!--EN: Though not quite a "machine", it definitely has some "fuck" with the right attitude. Provides some entertainment when there is no electricity, but the hip work can be tiring. Remember to polish the dildo before using, unless you want a torture device.-->
-  <FuckMachineWooden.description>这并不算“机器”，但绝对能让你生“草”。至少在没电的时候还能提供一些娱乐活动，但是用起来屁股会很累。记得使用前把假阴茎擦干净, 除非你想玩刑具.</FuckMachineWooden.description>
-  <!--EN: fuck machine-->
-  <FuckMachineWooden.label>木马</FuckMachineWooden.label>
+  <!--EN: Medium version of Combat armor. Combat armor was issued within the Old world Armed Forces during the Great War. Now it serves all kind of soldiers in Rimworld.-->
+  <Fallarmory_MediumCombatArmor.description>中型战斗装甲。战斗装甲在大战期间由旧世界武装部队配发。如今它为边缘世界的各种士兵服务。</Fallarmory_MediumCombatArmor.description>
+  <!--EN: Medium Combat armor-->
+  <Fallarmory_MediumCombatArmor.label>中型战斗装甲</Fallarmory_MediumCombatArmor.label>
+  <!--EN: Maid's headdress. It is for cleanliness and does not protect the head.-->
+  <Gunmar_Apparel_MaidHead.description>女仆头饰。主要用于保持清洁，不提供头部防护。</Gunmar_Apparel_MaidHead.description>
+  <!--EN: maid headdress-->
+  <Gunmar_Apparel_MaidHead.label>女仆头饰</Gunmar_Apparel_MaidHead.label>
+  <!--EN: The nun's uniform, which symbolizes chastity, has ironically spawned numerous fetishes. Defile the wearer's chastity to your heart's content!-->
+  <Nun.description>象征着贞洁的修女服，讽刺地催生了无数的癖好。尽情玷污穿戴者的贞洁吧！</Nun.description>
+  <!--EN: Nun-->
+  <Nun.label>修女</Nun.label>
+  <!--EN: Nun's headdress-->
+  <NunHead.description>修女头饰</NunHead.description>
+  <!--EN: NunHead-->
+  <NunHead.label>修女头饰</NunHead.label>
+  <!--EN: A garment worn to seduce and show off the body.-->
+  <SSAChinadress.description>一种用来引诱和展示身材的服装。</SSAChinadress.description>
+  <!--EN: China dress-->
+  <SSAChinadress.label>旗袍</SSAChinadress.label>
+  <!--EN: It is an old religious garb that believes that a woman's purpose is to bear children, and that the act is a sacred act.-->
+  <SSACultist.description>这是一种古老的宗教服装，信奉女性的目的是生育子嗣，并且这种行为是神圣的。</SSACultist.description>
+  <!--EN: Cultist-->
+  <SSACultist.label>邪教徒</SSACultist.label>
+  <!--EN: Exotic clothing worn by women of an ancient empire.-->
+  <SSAEgypt.description>古代帝国女性所穿的异域服饰。</SSAEgypt.description>
+  <!--EN: Egypt-->
+  <SSAEgypt.label>埃及风情</SSAEgypt.label>
+  <!--EN: Common outfit typically worn by concubines in brothels.-->
+  <SSAHanbok.description>青楼中妾室通常穿着的常见服装。</SSAHanbok.description>
+  <!--EN: Hanbok-->
+  <SSAHanbok.label>韩服</SSAHanbok.label>
+  <!--EN: This is the kimono worn by concubines in high end brothels.-->
+  <SSAKimono.description>这是高档青楼中妾室所穿的和服。</SSAKimono.description>
+  <!--EN: Concubine's Kimono-->
+  <SSAKimono.label>妾室和服</SSAKimono.label>
+  <!--EN: An outfit for house servants of the master. Such servants also keep the Master's bed warm.-->
+  <SSASexymaid.description>为主人的家仆准备的装束。这样的仆人也负责为主人暖床。</SSASexymaid.description>
+  <!--EN: Sexy maid-->
+  <SSASexymaid.label>性感女仆装</SSASexymaid.label>
+  <!--EN: A demonic look that embodies a succubus, a vile creature that sucks out a man's... spirit.-->
+  <SSASuccubus.description>一种恶魔般的外观，体现了魅魔——一种吸取男人……精气的邪恶生物。</SSASuccubus.description>
+  <!--EN: Succubus-->
+  <SSASuccubus.label>魅魔</SSASuccubus.label>
+  <!--EN: This dress is made of simple animal skin.-->
+  <SSATribaldress.description>这件连衣裙由简单的动物皮制成。</SSATribaldress.description>
+  <!--EN: Tribal Dress-->
+  <SSATribaldress.label>部落连衣裙</SSATribaldress.label>
+  <!--EN: It is a dress made of simple animal skin that shows off the body more.-->
+  <SSATribaldressB.description>这是一件由简单动物皮制成的连衣裙，更能展示身材。</SSATribaldressB.description>
+  <!--EN: Tribal Breeder Dress-->
+  <SSATribaldressB.label>部落繁殖者连衣裙</SSATribaldressB.label>
+  <!--EN: A more gothic look for a sex slave costume that embodies a vile temptress.-->
+  <SSAWitch.description>一种更具哥特风格的性奴隶装束，体现了邪恶的诱惑者形象。</SSAWitch.description>
+  <!--EN: Witch-->
+  <SSAWitch.label>女巫</SSAWitch.label>
+  <!--EN: Witch's hat-->
+  <SSAWitchhat.description>女巫帽</SSAWitchhat.description>
+  <!--EN: SSAWitchhat-->
+  <SSAWitchhat.label>女巫帽</SSAWitchhat.label>
+  <!--EN: Full sets of Combat armor. Combat armor was issued within the Old world Armed Forces during the Great War. Now it serves all kind of soldiers in Rimworld.-->
+  <SSA_HeavyCombatArmor.description>全套战斗装甲。战斗装甲在大战期间由旧世界武装部队配发。如今它为边缘世界的各种士兵服务。</SSA_HeavyCombatArmor.description>
+  <!--EN: Heavy Combat armor-->
+  <SSA_HeavyCombatArmor.label>重型战斗装甲</SSA_HeavyCombatArmor.label>
+  <!--EN: Sex slave`s bikini, show wearer as ready to be used or put on display.-->
+  <Sexslavebikini.description>性奴的比基尼，昭示着穿戴者随时可供使用或展示。</Sexslavebikini.description>
+  <!--EN: sex slave bikini-->
+  <Sexslavebikini.label>性奴比基尼</Sexslavebikini.label>
+  <!--EN: Cum rags don't need nice clothes.-->
+  <Sexslaverag.description>精液抹布还需要什么好衣服。</Sexslaverag.description>
+  <!--EN: Sex Slave Rag-->
+  <Sexslaverag.label>性奴破布装</Sexslaverag.label>
+  <!--EN: Sheer dress, while it technically covers the body, it is very thin and revealing.-->
+  <Sheerdress.description>薄纱裙，虽然理论上能遮住身体，但质地非常薄且暴露。</Sheerdress.description>
+  <!--EN: Sheer dress-->
+  <Sheerdress.label>薄纱裙</Sheerdress.label>
+  <!--EN: Put the collar on the target-->
+  <Slave_Collar.comps.0.useLabel>给目标戴上项圈</Slave_Collar.comps.0.useLabel>
+  <!--EN: A heavy metal ring locked on the neck with a long chain leash, reminding the wearer of their situation at all times.-->
+  <Slave_Collar.description>一个锁在脖子上的沉重金属环，带有长链牵绳，时刻提醒着佩戴者自己的处境。</Slave_Collar.description>
+  <!--EN: Slave collar-->
+  <Slave_Collar.label>奴隶项圈</Slave_Collar.label>
+  <!--EN: Bunny girl outfit, ready to objectify and humiliate even the most wilful slave.-->
+  <Slavebunnymktwo.description>兔女郎装束，准备好物化甚至羞辱最任性的奴隶。</Slavebunnymktwo.description>
+  <!--EN: Slave bunny-->
+  <Slavebunnymktwo.label>奴隶兔女郎</Slavebunnymktwo.label>
+  <!--EN: This ratty and simple kimono means that the wearer is little more than a common slave, barely worth even simple clothing.-->
+  <Slavekimono.description>这件破烂简陋的和服意味着穿着者不过是个普通奴隶，甚至连件粗布衣裳都不配有。</Slavekimono.description>
+  <!--EN: Slave Kimono-->
+  <Slavekimono.label>奴隶和服</Slavekimono.label>
+  <!--EN: Once symbolic of the Star Guardians, these garments are now mere tokens of elite concubines.-->
+  <Stargar.description>曾是星之守护者的象征，这些服装如今只是精英妾室的标志。</Stargar.description>
+  <!--EN: Starguardian-->
+  <Stargar.label>星之守护者</Stargar.label>
 </LanguageData>

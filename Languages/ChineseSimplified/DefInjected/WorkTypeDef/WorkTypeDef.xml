@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Things related to vore.-->
-  <RV2_Propose.description>相关物品吃人</RV2_Propose.description>
-  <!--EN: Vore-->
-  <RV2_Propose.gerundLabel>吃人</RV2_Propose.gerundLabel>
-  <!--EN: Vore-->
-  <RV2_Propose.labelShort>吃人</RV2_Propose.labelShort>
-  <!--EN: Vore-->
-  <RV2_Propose.pawnLabel>吃人</RV2_Propose.pawnLabel>
-  <!--EN: vore-->
-  <RV2_Propose.verb>吃人</RV2_Propose.verb>
+  <!--EN: Whores solicite guests and earn money.-->
+  <Brothel.description>娼妓招揽客人来赚钱</Brothel.description>
+  <!--EN: Soliciting-->
+  <Brothel.gerundLabel>拉客</Brothel.gerundLabel>
+  <!--EN: Whore-->
+  <Brothel.labelShort>拉客</Brothel.labelShort>
+  <!--EN: Whore-->
+  <Brothel.pawnLabel>娼妓</Brothel.pawnLabel>
+  <!--EN: Whore-->
+  <Brothel.verb>娼妓</Brothel.verb>
 </LanguageData>

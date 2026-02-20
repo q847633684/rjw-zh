@@ -1,7 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: {0} has died of a disease.-->
-  <ViralDamage.deathMessage>{0} 死于疾病。</ViralDamage.deathMessage>
-  <!--EN: viral damage-->
-  <ViralDamage.label>病毒损害</ViralDamage.label>
+  <!--EN: {0} couldn't bear the love of the BOOM GODS.-->
+  <BoomDay_NitroStomachExplosion.deathMessage>{0}无法忍受繁荣之神的爱。</BoomDay_NitroStomachExplosion.deathMessage>
+  <!--EN: The BOOM GODS look upon your pawns with disdain-->
+  <BoomDay_NitroStomachExplosion.label>繁荣之神鄙视你的残骸</BoomDay_NitroStomachExplosion.label>
+  <!--EN: {0} has been grappled to death.-->
+  <RV2_GrappleDamage.deathMessage>{0}已经被抓死了。</RV2_GrappleDamage.deathMessage>
+  <!--EN: grapple-->
+  <RV2_GrappleDamage.label>格斗</RV2_GrappleDamage.label>
+  <!--EN: {0} has been melted into lube.-->
+  <RV2_LubeConversionEnzymes.deathMessage>{0}已被熔化成润滑油</RV2_LubeConversionEnzymes.deathMessage>
+  <!--EN: Damage caused by lubrifaction.-->
+  <RV2_LubeConversionEnzymes.label>由迷幻引起的伤害。</RV2_LubeConversionEnzymes.label>
+  <!--EN: {0} has been melted into milk.-->
+  <RV2_MilkConversionEnzymes.deathMessage>{0}已融化成乳汁。</RV2_MilkConversionEnzymes.deathMessage>
+  <!--EN: Damage caused by lactifaction.-->
+  <RV2_MilkConversionEnzymes.label>利器释放造成的伤害。</RV2_MilkConversionEnzymes.label>
+  <!--EN: {0} has been melted into cum.-->
+  <RV2_SpermConversionEnzymes.deathMessage>{0}已被熔化成精液</RV2_SpermConversionEnzymes.deathMessage>
+  <!--EN: Damage caused by spermifaction.-->
+  <RV2_SpermConversionEnzymes.label>因获取精子而造成的伤害。</RV2_SpermConversionEnzymes.label>
+  <!--EN: {0} has been digested.-->
+  <RV2_StomachAcid.deathMessage>{0}已被消化。</RV2_StomachAcid.deathMessage>
+  <!--EN: Damage caused by digestion.-->
+  <RV2_StomachAcid.label>因消化造成的伤害。</RV2_StomachAcid.label>
 </LanguageData>

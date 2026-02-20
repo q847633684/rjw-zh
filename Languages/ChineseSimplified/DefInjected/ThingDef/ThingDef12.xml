@@ -1,11 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: An automatic humpshroom-burning device which generates an estro-smoke cloud around itself. Anyone in the cloud will become horny over time.-->
-  <Autobong_Aphrodisiac.description>一个自动燃烧驼峰菇的装置，会在周围产生一片催情烟雾。任何身处烟雾中的人都会随着时间变得越来越情欲高涨。</Autobong_Aphrodisiac.description>
-  <!--EN: estro-bong-->
-  <Autobong_Aphrodisiac.label>散烟器</Autobong_Aphrodisiac.label>
-  <!--EN: A wood structure packed with humpshroom. It can be ignited during a ritual and produce a huge amount of humpshroom smoke for a few hours, after which it is destroyed.-->
-  <Burnbong_Aphrodisiac.description>一个装满驼峰菇的木制结构。可以在仪式中点燃，产生大量的催情烟雾，持续数小时，之后结构将被摧毁。</Burnbong_Aphrodisiac.description>
-  <!--EN: lustbong-->
-  <Burnbong_Aphrodisiac.label>水烟筒</Burnbong_Aphrodisiac.label>
+  <!--EN: slugspunk-->
+  <Cumpilation_SlugFilth.label>鼻涕虫朋克</Cumpilation_SlugFilth.label>
+  <!--EN: A dangerous and creative way to deal with Wastepacks - distilled into a concentrated serum, it changes the users cum temporary into a toxic slug. Consumption will also lead to minor toxic buildup, which might get worse if the users body cannot have its fluids changed.-->
+  <Cumpilation_Sluggerdrop.description>处理废物包的一种危险且创造性的方法 - 蒸馏成浓缩血清，它将使用者精液暂时变成有毒的鼻涕虫。食用还会导致轻微的毒性累积，如果使用者的身体无法更换液体，情况可能会变得更糟。</Cumpilation_Sluggerdrop.description>
+  <!--EN: Inject {0}-->
+  <Cumpilation_Sluggerdrop.ingestible.ingestCommandString>注入 {0}</Cumpilation_Sluggerdrop.ingestible.ingestCommandString>
+  <!--EN: Injecting {0}.-->
+  <Cumpilation_Sluggerdrop.ingestible.ingestReportString>正在注入 {0}。</Cumpilation_Sluggerdrop.ingestible.ingestReportString>
+  <!--EN: slugger drops-->
+  <Cumpilation_Sluggerdrop.label>重击手掉落</Cumpilation_Sluggerdrop.label>
+  <!--EN: A dangerous and creative way to deal with Wastepacks - distilled into a concentrated serum, it permanently changes the users cum into a toxic slug. Consumption will also lead to toxic buildup, which gets drastically worse if the users body cannot have its fluids changed.-->
+  <Cumpilation_Slugmorpher.description>处理废物包的一种危险且创造性的方法 - 蒸馏成浓缩血清，它会永久地将使用者精液变成有毒的蛞蝓。食用还会导致有毒物质积累，如果使用者的身体不能更换液体，情况会变得更加严重。</Cumpilation_Slugmorpher.description>
+  <!--EN: Inject {0}-->
+  <Cumpilation_Slugmorpher.ingestible.ingestCommandString>注入 {0}</Cumpilation_Slugmorpher.ingestible.ingestCommandString>
+  <!--EN: Injecting {0}.-->
+  <Cumpilation_Slugmorpher.ingestible.ingestReportString>正在注入 {0}。</Cumpilation_Slugmorpher.ingestible.ingestReportString>
+  <!--EN: slug morpher-->
+  <Cumpilation_Slugmorpher.label>蛞蝓变形者</Cumpilation_Slugmorpher.label>
 </LanguageData>

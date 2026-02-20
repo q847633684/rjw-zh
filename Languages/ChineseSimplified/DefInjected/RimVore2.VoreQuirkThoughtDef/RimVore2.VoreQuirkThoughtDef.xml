@@ -1,39 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: ravenous predator likes preyslut-->
-  <RV2_DispositionMatch_Predator.stages.0.label>贪婪的肉食动物喜欢怀孕的孩子</RV2_DispositionMatch_Predator.stages.0.label>
-  <!--EN: preyslut likes ravenous predator-->
-  <RV2_DispositionMatch_Prey.stages.0.label>猎兽喜欢贪婪的肉食动物</RV2_DispositionMatch_Prey.stages.0.label>
-  <!--EN: Obsessive fondeur likes digestion-wish-->
-  <RV2_GoalPreferenceMatch_Digestion_Predator.stages.0.label>迷恋的火锅喜欢消化-心愿</RV2_GoalPreferenceMatch_Digestion_Predator.stages.0.label>
-  <!--EN: digestion-wish likes obsessive fondeur-->
-  <RV2_GoalPreferenceMatch_Digestion_Prey.stages.0.label>喜欢被消化-希望</RV2_GoalPreferenceMatch_Digestion_Prey.stages.0.label>
-  <!--EN: obsessive plaire likes godemichet-->
-  <RV2_GoalPreferenceMatch_Pleasure_Predator.stages.0.label>喜欢 godemichet，非常喜欢</RV2_GoalPreferenceMatch_Pleasure_Predator.stages.0.label>
-  <!--EN: godemichet likes obsessive plaire-->
-  <RV2_GoalPreferenceMatch_Pleasure_Prey.stages.0.label>Godemichet 喜欢痴迷的乐土</RV2_GoalPreferenceMatch_Pleasure_Prey.stages.0.label>
-  <!--EN: geolier hoarder prey likes shut-in-->
-  <RV2_GoalPreferenceMatch_Store_Predator.stages.0.label>大地行者、畜棚和猎物喜欢封闭</RV2_GoalPreferenceMatch_Store_Predator.stages.0.label>
-  <!--EN: shut-in prey likes geolier hoarder-->
-  <RV2_GoalPreferenceMatch_Store_Prey.stages.0.label>被封闭的猎物喜欢地质材料收割者</RV2_GoalPreferenceMatch_Store_Prey.stages.0.label>
-  <!--EN: ravenous analist likes obsessive analist-->
-  <RV2_TypePreferenceMatch_Anal_Predator.stages.0.label>贪婪的激进分子喜欢极端的激进分子</RV2_TypePreferenceMatch_Anal_Predator.stages.0.label>
-  <!--EN: obsessive analist likes ravenous analist-->
-  <RV2_TypePreferenceMatch_Anal_Prey.stages.0.label>痴迷于激进主义，喜欢贪婪的激进主义。</RV2_TypePreferenceMatch_Anal_Prey.stages.0.label>
-  <!--EN: ravenous phallicist likes obsessive phallicist-->
-  <RV2_TypePreferenceMatch_Cock_Predator.stages.0.label>贪婪的男性喜欢迷恋男性</RV2_TypePreferenceMatch_Cock_Predator.stages.0.label>
-  <!--EN: obsessive phallicist likes ravenous phallicist-->
-  <RV2_TypePreferenceMatch_Cock_Prey.stages.0.label>痴迷于阳刚主义的人喜欢贪婪的阳刚主义</RV2_TypePreferenceMatch_Cock_Prey.stages.0.label>
-  <!--EN: ravenous mammilist likes obsessive mammilist-->
-  <RV2_TypePreferenceMatch_Nipple_Predator.stages.0.label>贪婪的哺乳动物者喜欢痴迷的哺乳动物</RV2_TypePreferenceMatch_Nipple_Predator.stages.0.label>
-  <!--EN: obsessive mammilist likes ravenous mammilist-->
-  <RV2_TypePreferenceMatch_Nipple_Prey.stages.0.label>迷恋哺乳动物喜欢贪婪的哺乳动物</RV2_TypePreferenceMatch_Nipple_Prey.stages.0.label>
-  <!--EN: ravenous oralist likes obsessive oralist-->
-  <RV2_TypePreferenceMatch_Oral_Predator.stages.0.label>贪婪的暴饮暴食者喜欢狂热的暴饮暴食者</RV2_TypePreferenceMatch_Oral_Predator.stages.0.label>
-  <!--EN: obsessive oralist likes ravenous oralist-->
-  <RV2_TypePreferenceMatch_Oral_Prey.stages.0.label>狂热的献祭者喜欢贪婪的献祭者</RV2_TypePreferenceMatch_Oral_Prey.stages.0.label>
-  <!--EN: ravenous yonicist likes obsessive yonicist-->
-  <RV2_TypePreferenceMatch_Vaginal_Predator.stages.0.label>贪婪的海洋主义者喜欢痴迷的海洋主义者</RV2_TypePreferenceMatch_Vaginal_Predator.stages.0.label>
-  <!--EN: obsessive yonicist likes ravenous yonicist-->
-  <RV2_TypePreferenceMatch_Vaginal_Prey.stages.0.label>痴迷于饥饿的海洋主义者喜欢贪婪的海洋主义者</RV2_TypePreferenceMatch_Vaginal_Prey.stages.0.label>
+  <!--EN: melangist hoarder prey likes pawn with pad-wish-->
+  <RV2_GoalPreferenceMatch_Amalgamate_Predator.stages.0.label>梅兰吉派殖民者喜欢捕食pawn带垫愿</RV2_GoalPreferenceMatch_Amalgamate_Predator.stages.0.label>
+  <!--EN: pawn with pad-wish likes melangist hoarder-->
+  <RV2_GoalPreferenceMatch_Amalgamate_Prey.stages.0.label>pawn拥有类似「垫愿」的收集者</RV2_GoalPreferenceMatch_Amalgamate_Prey.stages.0.label>
+  <!--EN: driven assimilator likes pawn with meld-wish-->
+  <RV2_GoalPreferenceMatch_Assimilate_Predator.stages.0.label>驱动的同化者喜好pawn伴随着融合意像</RV2_GoalPreferenceMatch_Assimilate_Predator.stages.0.label>
+  <!--EN: pawn with meld-wish likes driven assimilator-->
+  <RV2_GoalPreferenceMatch_Assimilate_Prey.stages.0.label>pawn拥有融合意像驱动的同化器</RV2_GoalPreferenceMatch_Assimilate_Prey.stages.0.label>
+  <!--EN: fissurist pred likes fissurist prey-->
+  <RV2_TypePreferenceMatch_Cleavage_Predator.stages.0.label>Fissurist pred 喜欢 fissurist 的猎物</RV2_TypePreferenceMatch_Cleavage_Predator.stages.0.label>
+  <!--EN: fissurist prey likes fissurist pred-->
+  <RV2_TypePreferenceMatch_Cleavage_Prey.stages.0.label>Fissurist 猎物喜欢 fissurist pred</RV2_TypePreferenceMatch_Cleavage_Prey.stages.0.label>
+  <!--EN: dermacist pred likes dermacist prey-->
+  <RV2_TypePreferenceMatch_Membrane_Predator.stages.0.label>Dermacist pred 喜欢 dermacist 猎物</RV2_TypePreferenceMatch_Membrane_Predator.stages.0.label>
+  <!--EN: dermacist prey likes dermacist pred-->
+  <RV2_TypePreferenceMatch_Membrane_Prey.stages.0.label>Dermacist 猎物喜欢 dermacist pred</RV2_TypePreferenceMatch_Membrane_Prey.stages.0.label>
+  <!--EN: umbilicist pred likes umbilicist prey-->
+  <RV2_TypePreferenceMatch_Navel_Predator.stages.0.label>脐带 pred 喜欢脐带猎物</RV2_TypePreferenceMatch_Navel_Predator.stages.0.label>
+  <!--EN: umbilicist prey likes umbilicist pred-->
+  <RV2_TypePreferenceMatch_Navel_Prey.stages.0.label>脐带主义猎物喜欢脐带主义 pred</RV2_TypePreferenceMatch_Navel_Prey.stages.0.label>
+  <!--EN: caudalist pred likes caudalist prey-->
+  <RV2_TypePreferenceMatch_Tailmaw_Predator.stages.0.label>尾母首领喜欢尾母猎物</RV2_TypePreferenceMatch_Tailmaw_Predator.stages.0.label>
+  <!--EN: caudalist prey likes caudalist pred-->
+  <RV2_TypePreferenceMatch_Tailmaw_Prey.stages.0.label>尾乘动物猎物喜欢尾乘动物</RV2_TypePreferenceMatch_Tailmaw_Prey.stages.0.label>
+  <!--EN: uberist pred likes uberist prey-->
+  <RV2_TypePreferenceMatch_Udder_Predator.stages.0.label>乐观的动物首领喜欢乐观的猎物</RV2_TypePreferenceMatch_Udder_Predator.stages.0.label>
+  <!--EN: uberist prey likes uberist pred-->
+  <RV2_TypePreferenceMatch_Udder_Prey.stages.0.label>乐观的猎物喜欢乐观的猎物</RV2_TypePreferenceMatch_Udder_Prey.stages.0.label>
 </LanguageData>

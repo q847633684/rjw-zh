@@ -17,7 +17,7 @@
 		<!-- 裸露更重要 完成-->
 		<li IfModActive="dord.nuditymattersmore">1.6/nudity-matters-more</li>
 		<!--  Dord 的 Nudity Matters More 的一个补丁模组 未完成-->
-		<li IfModActive="shark510.nuditymattersmoreopinions">1.6/nudity-matters-more-opinions</li><!--未完成-->
+		<li IfModActive="shark510.nuditymattersmoreopinions">1.6/nudity-matters-more-opinions/Common</li><!--未完成-->
 		<!-- RJW FB（不确定含义） 完成-->
 		<li IfModActive="rjw.fb">1.6/rjw-fb</li>
 		<!-- RJW FC（流体动力学） 完成-->
@@ -43,7 +43,6 @@
 		<li IfModActive="abscon.privacy.please">1.6/privacy-please</li>
 		<!-- RJW 隐私 - 兼容的特征模组 完成-->
 		<li IfModActive="rjw.quirks">1.6/privacy-please/1.6/ModCompatibility/Quirks</li>
-		
 		<!-- RJW 妓院殖民地 完成-->
 		<li IfModActive="calamabanana.rjw.brothelcolony">1.6/rjw-brothelcolony</li>
     	<li IfModActive="Ludeon.RimWorld.Ideology">1.6/rjw-brothelcolony/Ideology/1.6</li>

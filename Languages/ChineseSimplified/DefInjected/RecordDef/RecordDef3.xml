@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: The number of times I transferred prey into someone during sex.-->
-  <RV2_RJW_VoreTransfer_Giver.description>我在性行为中将猎物转移给别人的次数。</RV2_RJW_VoreTransfer_Giver.description>
-  <!--EN: Vore: Gave prey during sex-->
-  <RV2_RJW_VoreTransfer_Giver.label>吞食：性行为中给出猎物</RV2_RJW_VoreTransfer_Giver.label>
-  <!--EN: The number of times someone transferred a prey into me during sex.-->
-  <RV2_RJW_VoreTransfer_Receiver.description>别人在性行为中将猎物转移给我的次数。</RV2_RJW_VoreTransfer_Receiver.description>
-  <!--EN: Vore: Received prey during sex-->
-  <RV2_RJW_VoreTransfer_Receiver.label>吞食：性行为中接收猎物</RV2_RJW_VoreTransfer_Receiver.label>
+  <!--EN: Total time spent using fuck machine (or bound to it).-->
+  <TimeOnFuckMachine.description>使用炮机（或绑在炮机上）的总时间。</TimeOnFuckMachine.description>
+  <!--EN: time on fuck machine-->
+  <TimeOnFuckMachine.label>使用炮机</TimeOnFuckMachine.label>
+  <!--EN: Total time wearing plug in butthole.-->
+  <TimePluggedAnal.description>肛塞在肛门内塞入的总时间。</TimePluggedAnal.description>
+  <!--EN: wearing anal plug-->
+  <TimePluggedAnal.label>塞上肛塞</TimePluggedAnal.label>
 </LanguageData>

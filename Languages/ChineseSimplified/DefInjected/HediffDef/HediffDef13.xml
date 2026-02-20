@@ -1,70 +1,432 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Antisperm antibody.
-Increases death rate of sperm.-->
-  <Hediff_ASA.description>抗精子抗体。
-增加精子死亡率。</Hediff_ASA.description>
-  <!--EN: Antisperm antibody-->
-  <Hediff_ASA.label>抗精子抗体</Hediff_ASA.label>
-  <!--EN: antisperm antibody-->
-  <Hediff_ASA.labelNoun>抗精子抗体</Hediff_ASA.labelNoun>
-  <!--EN: {0} has an antisperm antibody-->
-  <Hediff_ASA.labelNounPretty>{0} has an antisperm antibody</Hediff_ASA.labelNounPretty>
-  <!--EN: A condition caused by being around someone in estrus. Sex drive and satisfaction is increased by the scent of heat.-->
-  <Hediff_AffectedByPheromones.description>因身处发情期个体周围而导致的状态。发情期的气味增加了性欲和性满足感。</Hediff_AffectedByPheromones.description>
-  <!--EN: Affected by pheromones-->
-  <Hediff_AffectedByPheromones.label>受信息素影响</Hediff_AffectedByPheromones.label>
-  <!--EN: weak-->
-  <Hediff_AffectedByPheromones.stages.0.label>微弱</Hediff_AffectedByPheromones.stages.0.label>
-  <!--EN: moderate-->
-  <Hediff_AffectedByPheromones.stages.1.label>中等</Hediff_AffectedByPheromones.stages.1.label>
-  <!--EN: strong-->
-  <Hediff_AffectedByPheromones.stages.2.label>强烈</Hediff_AffectedByPheromones.stages.2.label>
-  <!--EN: Under the effect of an immunosuppressant, hampering the body's ability to fight off infection and disease.-->
-  <Hediff_Cyclosporine.description>在免疫抑制剂的作用下，身体抵抗感染和疾病的能力受到抑制。</Hediff_Cyclosporine.description>
-  <!--EN: Cyclosporine-->
-  <Hediff_Cyclosporine.label>环孢素</Hediff_Cyclosporine.label>
-  <!--EN: A condition caused by a womb entering the most fertile phase of its menstrual cycle. Sexual arousal and desire increase dramatically as the body yearns to become pregnant.
-Increased chance of vaginal sex occurring and potentially lower standards in mate selection.-->
-  <Hediff_Estrus.description>因子宫进入月经周期中最易受孕的阶段而导致的状态。随着身体渴望怀孕，性唤起和性欲急剧增加。
-阴道性交发生的几率增加，择偶标准可能降低。</Hediff_Estrus.description>
-  <!--EN: Estrus-->
-  <Hediff_Estrus.label>发情期</Hediff_Estrus.label>
-  <!--EN: estrus-->
-  <Hediff_Estrus.labelNoun>发情期</Hediff_Estrus.labelNoun>
-  <!--EN: A condition caused by a womb its most fertile phase of the menstrual cycle. Sexual arousal and desire increase slightly.
-Slightly increased chance of vaginal sex.-->
-  <Hediff_Estrus_Concealed.description>因子宫处于月经周期中最易受孕的阶段而导致的状态。性唤起和性欲略有增加。
-阴道性交发生的几率略有增加。</Hediff_Estrus_Concealed.description>
-  <!--EN: Estrus (concealed)-->
-  <Hediff_Estrus_Concealed.label>发情期（隐性）</Hediff_Estrus_Concealed.label>
-  <!--EN: estrus-->
-  <Hediff_Estrus_Concealed.labelNoun>发情期</Hediff_Estrus_Concealed.labelNoun>
-  <!--EN: fertile-->
-  <Hediff_ForceFertile.description>可育</Hediff_ForceFertile.description>
-  <!--EN: Fertile-->
-  <Hediff_ForceFertile.label>强制可育</Hediff_ForceFertile.label>
-  <!--EN: fertile-->
-  <Hediff_ForceFertile.labelNoun>可育</Hediff_ForceFertile.labelNoun>
-  <!--EN: {0} is fertile-->
-  <Hediff_ForceFertile.labelNounPretty>{0} is fertile</Hediff_ForceFertile.labelNounPretty>
-  <!--EN: Bleeding from the vagina at the end of the menstrual cycle.
-Often painful.-->
-  <Hediff_MenstrualCramp.description>经期中</Hediff_MenstrualCramp.description>
-  <!--EN: In period-->
-  <Hediff_MenstrualCramp.label>中枢性疼痛</Hediff_MenstrualCramp.label>
-  <!--EN: in period-->
-  <Hediff_MenstrualCramp.labelNoun>经期中</Hediff_MenstrualCramp.labelNoun>
-  <!--EN: unpleasant-->
-  <Hediff_MenstrualCramp.stages.0.label>不快</Hediff_MenstrualCramp.stages.0.label>
-  <!--EN: annoying-->
-  <Hediff_MenstrualCramp.stages.1.label>恼人</Hediff_MenstrualCramp.stages.1.label>
-  <!--EN: aching-->
-  <Hediff_MenstrualCramp.stages.2.label>疼痛</Hediff_MenstrualCramp.stages.2.label>
-  <!--EN: painful-->
-  <Hediff_MenstrualCramp.stages.3.label>痛苦</Hediff_MenstrualCramp.stages.3.label>
-  <!--EN: A mild reprieve from menstrual (and other) sources of pain.-->
-  <Hediff_PainReliever.description>从经期（及其他）疼痛中得到轻微缓解。</Hediff_PainReliever.description>
-  <!--EN: Pain reliever-->
-  <Hediff_PainReliever.label>止痛药</Hediff_PainReliever.label>
+  <!--EN: Butt cheeks beautifully fattened with assimilated prey.-->
+  <RV2_AssimilatedAss_Beautiful.description>与被同化的猎物 Butt 好的屁股。</RV2_AssimilatedAss_Beautiful.description>
+  <!--EN: Assimilated ass (beautiful)-->
+  <RV2_AssimilatedAss_Beautiful.label>被同化屁股(美丽)</RV2_AssimilatedAss_Beautiful.label>
+  <!--EN: Hefty-->
+  <RV2_AssimilatedAss_Beautiful.stages.0.label>沉重</RV2_AssimilatedAss_Beautiful.stages.0.label>
+  <!--EN: Full-->
+  <RV2_AssimilatedAss_Beautiful.stages.1.label>满</RV2_AssimilatedAss_Beautiful.stages.1.label>
+  <!--EN: Voluptuous-->
+  <RV2_AssimilatedAss_Beautiful.stages.2.label>性感</RV2_AssimilatedAss_Beautiful.stages.2.label>
+  <!--EN: Butt cheeks scarred with assimilated prey.-->
+  <RV2_AssimilatedAss_Scarred.description>被同化的猎物拍打屁股。</RV2_AssimilatedAss_Scarred.description>
+  <!--EN: Assimilated ass (scarred)-->
+  <RV2_AssimilatedAss_Scarred.label>被同化屁股(烧伤者)</RV2_AssimilatedAss_Scarred.label>
+  <!--EN: Lumpy-->
+  <RV2_AssimilatedAss_Scarred.stages.0.label>粗糙</RV2_AssimilatedAss_Scarred.stages.0.label>
+  <!--EN: Corpulent-->
+  <RV2_AssimilatedAss_Scarred.stages.1.label>肥胖</RV2_AssimilatedAss_Scarred.stages.1.label>
+  <!--EN: Morbidly big-->
+  <RV2_AssimilatedAss_Scarred.stages.2.label>病态大</RV2_AssimilatedAss_Scarred.stages.2.label>
+  <!--EN: Butt cheeks temporarily fattened with assimilated prey.-->
+  <RV2_AssimilatedAss_Temporary.description>被同化的猎物暂时变成了肥肉的屁股。</RV2_AssimilatedAss_Temporary.description>
+  <!--EN: Assimilated ass-->
+  <RV2_AssimilatedAss_Temporary.label>被同化屁股</RV2_AssimilatedAss_Temporary.label>
+  <!--EN: Hefty-->
+  <RV2_AssimilatedAss_Temporary.stages.0.label>沉重</RV2_AssimilatedAss_Temporary.stages.0.label>
+  <!--EN: Full-->
+  <RV2_AssimilatedAss_Temporary.stages.1.label>满</RV2_AssimilatedAss_Temporary.stages.1.label>
+  <!--EN: Morbidly big-->
+  <RV2_AssimilatedAss_Temporary.stages.2.label>病态大</RV2_AssimilatedAss_Temporary.stages.2.label>
+  <!--EN: Belly beautifully fattened with assimilated prey.-->
+  <RV2_AssimilatedBelly_Beautiful.description>与被吸收的猎物完美结合的大肚子。</RV2_AssimilatedBelly_Beautiful.description>
+  <!--EN: Assimilated belly (beautiful)-->
+  <RV2_AssimilatedBelly_Beautiful.label>被同化的腹部 (美丽)</RV2_AssimilatedBelly_Beautiful.label>
+  <!--EN: Paunch-->
+  <RV2_AssimilatedBelly_Beautiful.stages.0.label>大肠子</RV2_AssimilatedBelly_Beautiful.stages.0.label>
+  <!--EN: Pot belly-->
+  <RV2_AssimilatedBelly_Beautiful.stages.1.label>锅盖</RV2_AssimilatedBelly_Beautiful.stages.1.label>
+  <!--EN: Voluminous-->
+  <RV2_AssimilatedBelly_Beautiful.stages.2.label>宽松</RV2_AssimilatedBelly_Beautiful.stages.2.label>
+  <!--EN: Belly scarred with assimilated prey.-->
+  <RV2_AssimilatedBelly_Scarred.description>腹部与被同化的猎物擦肩而过。</RV2_AssimilatedBelly_Scarred.description>
+  <!--EN: Assimilated belly (scarred)-->
+  <RV2_AssimilatedBelly_Scarred.label>被同化的腹部 (疤痕)</RV2_AssimilatedBelly_Scarred.label>
+  <!--EN: Lumpy-->
+  <RV2_AssimilatedBelly_Scarred.stages.0.label>粗糙</RV2_AssimilatedBelly_Scarred.stages.0.label>
+  <!--EN: Distended-->
+  <RV2_AssimilatedBelly_Scarred.stages.1.label>扩张</RV2_AssimilatedBelly_Scarred.stages.1.label>
+  <!--EN: Blob-->
+  <RV2_AssimilatedBelly_Scarred.stages.2.label>斑点</RV2_AssimilatedBelly_Scarred.stages.2.label>
+  <!--EN: Belly temporarily fattened with assimilated prey.-->
+  <RV2_AssimilatedBelly_Temporary.description>被同化的猎物暂时哺育的腹部。</RV2_AssimilatedBelly_Temporary.description>
+  <!--EN: Assimilated belly-->
+  <RV2_AssimilatedBelly_Temporary.label>腹部被同化</RV2_AssimilatedBelly_Temporary.label>
+  <!--EN: Paunch-->
+  <RV2_AssimilatedBelly_Temporary.stages.0.label>大肠子</RV2_AssimilatedBelly_Temporary.stages.0.label>
+  <!--EN: Pot belly-->
+  <RV2_AssimilatedBelly_Temporary.stages.1.label>锅盖</RV2_AssimilatedBelly_Temporary.stages.1.label>
+  <!--EN: Blob-->
+  <RV2_AssimilatedBelly_Temporary.stages.2.label>斑点</RV2_AssimilatedBelly_Temporary.stages.2.label>
+  <!--EN: Labia beautifully fattened with assimilated prey.-->
+  <RV2_AssimilatedLabia_Beautiful.description>阴唇被吸收的猎物长有漂亮的肥猪。</RV2_AssimilatedLabia_Beautiful.description>
+  <!--EN: Assimilated labia (beautiful)-->
+  <RV2_AssimilatedLabia_Beautiful.label>被同化阴唇(美丽)</RV2_AssimilatedLabia_Beautiful.label>
+  <!--EN: Puffy-->
+  <RV2_AssimilatedLabia_Beautiful.stages.0.label>蓬松</RV2_AssimilatedLabia_Beautiful.stages.0.label>
+  <!--EN: Fat-->
+  <RV2_AssimilatedLabia_Beautiful.stages.1.label>肥胖</RV2_AssimilatedLabia_Beautiful.stages.1.label>
+  <!--EN: Irresistible-->
+  <RV2_AssimilatedLabia_Beautiful.stages.2.label>不可抗拒</RV2_AssimilatedLabia_Beautiful.stages.2.label>
+  <!--EN: Labia scarred with assimilated prey.-->
+  <RV2_AssimilatedLabia_Scarred.description>阴唇被同化的猎物砸中。</RV2_AssimilatedLabia_Scarred.description>
+  <!--EN: Assimilated labia (scarred)-->
+  <RV2_AssimilatedLabia_Scarred.label>被同化阴唇(烧伤者)</RV2_AssimilatedLabia_Scarred.label>
+  <!--EN: Hackjob-->
+  <RV2_AssimilatedLabia_Scarred.stages.0.label>黑客工作</RV2_AssimilatedLabia_Scarred.stages.0.label>
+  <!--EN: Mangled-->
+  <RV2_AssimilatedLabia_Scarred.stages.1.label>受伤</RV2_AssimilatedLabia_Scarred.stages.1.label>
+  <!--EN: Disturbing-->
+  <RV2_AssimilatedLabia_Scarred.stages.2.label>扰乱</RV2_AssimilatedLabia_Scarred.stages.2.label>
+  <!--EN: Labia temporarily fattened with assimilated prey.-->
+  <RV2_AssimilatedLabia_Temporary.description>阴唇被同化的猎物暂时哺育。</RV2_AssimilatedLabia_Temporary.description>
+  <!--EN: Assimilated labia-->
+  <RV2_AssimilatedLabia_Temporary.label>被同化阴唇</RV2_AssimilatedLabia_Temporary.label>
+  <!--EN: Puffy-->
+  <RV2_AssimilatedLabia_Temporary.stages.0.label>蓬松</RV2_AssimilatedLabia_Temporary.stages.0.label>
+  <!--EN: Fat-->
+  <RV2_AssimilatedLabia_Temporary.stages.1.label>肥胖</RV2_AssimilatedLabia_Temporary.stages.1.label>
+  <!--EN: Morbidly big-->
+  <RV2_AssimilatedLabia_Temporary.stages.2.label>病态大</RV2_AssimilatedLabia_Temporary.stages.2.label>
+  <!--EN: Lips beautifully fattened with assimilated prey.-->
+  <RV2_AssimilatedLips_Beautiful.description>与被同化的猎物完美结合的双唇。</RV2_AssimilatedLips_Beautiful.description>
+  <!--EN: Assimilated lips (beautiful)-->
+  <RV2_AssimilatedLips_Beautiful.label>被同化的嘴唇 (美丽)</RV2_AssimilatedLips_Beautiful.label>
+  <!--EN: Full-->
+  <RV2_AssimilatedLips_Beautiful.stages.0.label>满</RV2_AssimilatedLips_Beautiful.stages.0.label>
+  <!--EN: Plump-->
+  <RV2_AssimilatedLips_Beautiful.stages.1.label>肥胖</RV2_AssimilatedLips_Beautiful.stages.1.label>
+  <!--EN: Stunning-->
+  <RV2_AssimilatedLips_Beautiful.stages.2.label>迷人</RV2_AssimilatedLips_Beautiful.stages.2.label>
+  <!--EN: Lips scarred with assimilated prey.-->
+  <RV2_AssimilatedLips_Scarred.description>被同化的猎物留下疤痕的嘴唇。</RV2_AssimilatedLips_Scarred.description>
+  <!--EN: Assimilated lips (scarred)-->
+  <RV2_AssimilatedLips_Scarred.label>被同化的嘴唇 (伤痕累累)</RV2_AssimilatedLips_Scarred.label>
+  <!--EN: Uneven-->
+  <RV2_AssimilatedLips_Scarred.stages.0.label>不平衡</RV2_AssimilatedLips_Scarred.stages.0.label>
+  <!--EN: Bulging-->
+  <RV2_AssimilatedLips_Scarred.stages.1.label>鼓鼓囊囊</RV2_AssimilatedLips_Scarred.stages.1.label>
+  <!--EN: Bloated-->
+  <RV2_AssimilatedLips_Scarred.stages.2.label>臃肿</RV2_AssimilatedLips_Scarred.stages.2.label>
+  <!--EN: Lips temporarily fattened with assimilated prey.-->
+  <RV2_AssimilatedLips_Temporary.description>因被同化的猎物而暂时发胖的嘴唇。</RV2_AssimilatedLips_Temporary.description>
+  <!--EN: Assimilated lips-->
+  <RV2_AssimilatedLips_Temporary.label>嘴唇被同化</RV2_AssimilatedLips_Temporary.label>
+  <!--EN: Full-->
+  <RV2_AssimilatedLips_Temporary.stages.0.label>满</RV2_AssimilatedLips_Temporary.stages.0.label>
+  <!--EN: Plump-->
+  <RV2_AssimilatedLips_Temporary.stages.1.label>肥胖</RV2_AssimilatedLips_Temporary.stages.1.label>
+  <!--EN: Bloated-->
+  <RV2_AssimilatedLips_Temporary.stages.2.label>臃肿</RV2_AssimilatedLips_Temporary.stages.2.label>
+  <!--EN: Aborted assimilation-->
+  <RV2_AssimilationAvulsion.labelNoun>同化中止</RV2_AssimilationAvulsion.labelNoun>
+  <!--EN: Oleifying enzymes-->
+  <RV2_ChemfuelConversionEnzymes.labelNoun>使酶</RV2_ChemfuelConversionEnzymes.labelNoun>
+  <!--EN: This pawn is recovering from almost being digested.\nIf they were to be digested again, the progress would pick up at this hediff's level!-->
+  <RV2_DigestionRecovery.description>这个pawn正在从被消化中恢复。
+如果它们再次被消化，进度将在这个黑体的水平上回升!</RV2_DigestionRecovery.description>
+  <!--EN: Digestion recovery-->
+  <RV2_DigestionRecovery.labelNoun>消化能力</RV2_DigestionRecovery.labelNoun>
+  <!--EN: Digestion recovery (<25%)-->
+  <RV2_DigestionRecovery.stages.0.label>消化恢复 (&lt;25%)</RV2_DigestionRecovery.stages.0.label>
+  <!--EN: Digestion recovery (>25%)-->
+  <RV2_DigestionRecovery.stages.1.label>消化回收率 (&gt;25%)</RV2_DigestionRecovery.stages.1.label>
+  <!--EN: Digestion recovery (>50%)-->
+  <RV2_DigestionRecovery.stages.2.label>消化回收率 (&gt;50%)</RV2_DigestionRecovery.stages.2.label>
+  <!--EN: Digestion recovery (>75%)-->
+  <RV2_DigestionRecovery.stages.3.label>消化回收率 (&gt;75%)</RV2_DigestionRecovery.stages.3.label>
+  <!--EN: Ovifying enzymes-->
+  <RV2_EggConversionEnzymes.labelNoun>产卵酶</RV2_EggConversionEnzymes.labelNoun>
+  <!--EN: This pawn's body is capable of absorbing prey, both permanently (assimilation) and temporarily (amalgamation).-->
+  <RV2_GoalEnabler_Absorb.description>这种特殊的纳米机械可以使细胞通过某些预绑定的入口通道吸收。</RV2_GoalEnabler_Absorb.description>
+  <!--EN: Cellular xenoconvertibility-->
+  <RV2_GoalEnabler_Absorb.label>异种人细胞转发器</RV2_GoalEnabler_Absorb.label>
+  <!--EN: This pawn's genitals and breasts can produce an enzyme which distills living tissues into chemfuel.-->
+  <RV2_GoalEnabler_ConvertChemfuel.description>一种特殊的纳米机械，可以在不同的器官中分泌转化酶，并将猎物提炼成化合燃料。</RV2_GoalEnabler_ConvertChemfuel.description>
+  <!--EN: Olifactory enzymes-->
+  <RV2_GoalEnabler_ConvertChemfuel.label>产物酶</RV2_GoalEnabler_ConvertChemfuel.label>
+  <!--EN: This pawn's ovaries can produce an enzyme which converts living tissues into eggs.-->
+  <RV2_GoalEnabler_ConvertEggs.description>一种特殊的纳米机械，可以在卵巢中分泌转化酶，并将猎物提炼成卵。</RV2_GoalEnabler_ConvertEggs.description>
+  <!--EN: Ovifactory enzymes-->
+  <RV2_GoalEnabler_ConvertEggs.label>产卵酶</RV2_GoalEnabler_ConvertEggs.label>
+  <!--EN: This pawn's organ lining can produce an enzyme which converts living tissues into urine.-->
+  <RV2_GoalEnabler_ConvertUrine.description>一种特殊的纳米机械，可在肾脏中分泌转化酶，并将其提炼成肥料级尿。</RV2_GoalEnabler_ConvertUrine.description>
+  <!--EN: Urifactory enzymes-->
+  <RV2_GoalEnabler_ConvertUrine.label>化学酶播种机</RV2_GoalEnabler_ConvertUrine.label>
+  <!--EN: This pawn is storing absorbed prey as sapient butt-fat.-->
+  <RV2_PreyInAnusAmalgamating.description>这个pawn正在将被吸收的猎物储存为健康的屁股脂肪。</RV2_PreyInAnusAmalgamating.description>
+  <!--EN: Prey in Buttocks-->
+  <RV2_PreyInAnusAmalgamating.label>臀部被捕食</RV2_PreyInAnusAmalgamating.label>
+  <!--EN: This pawn is fully-absorbing their prey into their buttocks.-->
+  <RV2_PreyInAnusAssimilating.description>这个pawn正在完全吸收它们的猎物到屁股里。</RV2_PreyInAnusAssimilating.description>
+  <!--EN: Prey in Buttocks-->
+  <RV2_PreyInAnusAssimilating.label>臀部被捕食</RV2_PreyInAnusAssimilating.label>
+  <!--EN: This pawn is having some form of anal intercourse, with intent to absorb.-->
+  <RV2_PreyInAnusContacting.description>这个pawn正在进行某种形式的&lt;ALIMT &gt;analintercourse&lt;/ALIMT&gt;，意图吸收。</RV2_PreyInAnusContacting.description>
+  <!--EN: Prey in Buttocks-->
+  <RV2_PreyInAnusContacting.label>臀部被捕食</RV2_PreyInAnusContacting.label>
+  <!--EN: This pawn is warming up and loosening their anus for absorption.-->
+  <RV2_PreyInAnusLoosening.description>这个pawn正在升温和放松他们的肛门为了吸收。</RV2_PreyInAnusLoosening.description>
+  <!--EN: Prey in Buttocks-->
+  <RV2_PreyInAnusLoosening.label>臀部被捕食</RV2_PreyInAnusLoosening.label>
+  <!--EN: This pawn is removing any unassimilated remains from their butt.-->
+  <RV2_PreyInAnusPurging.description>这个pawn正在移除所有未同化的残骸。</RV2_PreyInAnusPurging.description>
+  <!--EN: Prey in Buttocks-->
+  <RV2_PreyInAnusPurging.label>臀部被捕食</RV2_PreyInAnusPurging.label>
+  <!--EN: This pawn is reshaping prey stored as butt-fat for release.-->
+  <RV2_PreyInAnusReshaping.description>这个pawn正在重塑储存为屁股脂肪的猎物。</RV2_PreyInAnusReshaping.description>
+  <!--EN: Prey in Buttocks-->
+  <RV2_PreyInAnusReshaping.label>臀部被捕食</RV2_PreyInAnusReshaping.label>
+  <!--EN: Prey in Bladder-->
+  <RV2_PreyInBladder.label>膀胱内的猎物</RV2_PreyInBladder.label>
+  <!--EN: This pawn is moving prey even deeper than their bladder.-->
+  <RV2_PreyInBladderPassing.description>这个pawn移动的猎物比他们的膀胱更深。</RV2_PreyInBladderPassing.description>
+  <!--EN: This pawn is being pleasured internally by the prey in their bladder.-->
+  <RV2_PreyInBladderPleasuring.description>这个pawn被囊中的猎物刺激到体内。</RV2_PreyInBladderPleasuring.description>
+  <!--EN: This pawn is holding someone in their bladder for storage.-->
+  <RV2_PreyInBladderStoring.description>这个pawn正在将某人囊中储存。</RV2_PreyInBladderStoring.description>
+  <!--EN: This pawn is preparing to do something to a pawn in their bladder.-->
+  <RV2_PreyInBladderWarming.description>这个pawn正在准备对一个pawn在他们的膀胱里。</RV2_PreyInBladderWarming.description>
+  <!--EN: This pawn is storing absorbed prey as sapient breast-fat.-->
+  <RV2_PreyInBreastsAmalgamating.description>这个pawn正在储存被吸收的猎物乳房-很胖。</RV2_PreyInBreastsAmalgamating.description>
+  <!--EN: This pawn is fully-absorbing their prey into their breasts.-->
+  <RV2_PreyInBreastsAssimilating.description>这个pawn完全吸收它们的猎物乳房</RV2_PreyInBreastsAssimilating.description>
+  <!--EN: This pawn is turning what's left of someone into chemfuel.-->
+  <RV2_PreyInBreastsConvertingChemfuel.description>这个pawn正在将剩余的某人化作燃料。</RV2_PreyInBreastsConvertingChemfuel.description>
+  <!--EN: Prey in Cleavage-->
+  <RV2_PreyInCleavage.label>捕食乳沟</RV2_PreyInCleavage.label>
+  <!--EN: This pawn is beginning to absorb a prey into their cleavage.-->
+  <RV2_PreyInCleavageContacting.description>这个pawn开始将猎物吸收入乳沟</RV2_PreyInCleavageContacting.description>
+  <!--EN: This pawn is releasing prey from their cleavage.-->
+  <RV2_PreyInCleavageExiting.description>这个pawn正在释放猎物乳沟</RV2_PreyInCleavageExiting.description>
+  <!--EN: This pawn is warming up and loosening their cleavage for absorption.-->
+  <RV2_PreyInCleavageLoosening.description>这个pawn正在升温和放松他们的乳沟为了吸收。</RV2_PreyInCleavageLoosening.description>
+  <!--EN: This pawn is shoving their prey down their cleavage.-->
+  <RV2_PreyInCleavagePassing.description>这个pawn正在将猎物压倒乳沟</RV2_PreyInCleavagePassing.description>
+  <!--EN: This pawn is giving their prey a full-body titjob.-->
+  <RV2_PreyInCleavagePleasuring.description>这个pawn正在对猎物进行全身放血。</RV2_PreyInCleavagePleasuring.description>
+  <!--EN: This pawn is removing any unassimilated remains from their cleavage.-->
+  <RV2_PreyInCleavagePurging.description>这个pawn正在移除任何未同化的残骸乳沟</RV2_PreyInCleavagePurging.description>
+  <!--EN: This pawn is reshaping prey stored as breast-fat for release.-->
+  <RV2_PreyInCleavageReshaping.description>这个pawn正在将重塑猎物储存为乳房-需要释放脂肪。</RV2_PreyInCleavageReshaping.description>
+  <!--EN: This pawn is holding someone in their cleavage for storage.-->
+  <RV2_PreyInCleavageStoring.description>这个pawn收容了某人乳沟用于储存。</RV2_PreyInCleavageStoring.description>
+  <!--EN: This pawn is storing absorbed prey as sapient cock-meat.-->
+  <RV2_PreyInCockAmalgamating.description>这个pawn正在将被吸收的猎物储存为智慧的公鸡肉。</RV2_PreyInCockAmalgamating.description>
+  <!--EN: This pawn is fully-absorbing their prey into their cock.-->
+  <RV2_PreyInCockAssimilating.description>这个pawn正在完全吸收它们的猎物到它们的公鸡体内。</RV2_PreyInCockAssimilating.description>
+  <!--EN: This pawn is having some form of penile intercourse, with intent to absorb.-->
+  <RV2_PreyInCockContacting.description>这个pawn拥有某种阴茎性交,意图吸收。</RV2_PreyInCockContacting.description>
+  <!--EN: This pawn is warming up and loosening their cock for absorption.-->
+  <RV2_PreyInCockLoosening.description>这个pawn正在预热并放松他们的公鸡以使其吸收。</RV2_PreyInCockLoosening.description>
+  <!--EN: This pawn is removing any unassimilated remains from their penis.-->
+  <RV2_PreyInCockPurging.description>这个pawn正在移除任何未同化的残骸阳具/屌</RV2_PreyInCockPurging.description>
+  <!--EN: This pawn is reshaping prey stored as cock-meat for release.-->
+  <RV2_PreyInCockReshaping.description>这个pawn正在重塑储存为公鸡肉的猎物。</RV2_PreyInCockReshaping.description>
+  <!--EN: Prey Inside-->
+  <RV2_PreyInInsides.label>里面有猎物</RV2_PreyInInsides.label>
+  <!--EN: This pawn is breaking down dead prey within their gelatinous body.-->
+  <RV2_PreyInInsidesChurning.description>这个pawn正在将猎物分解成凝胶状的尸体。</RV2_PreyInInsidesChurning.description>
+  <!--EN: This pawn is digesting living prey within their gelatinous body.-->
+  <RV2_PreyInInsidesDigesting.description>这个pawn正在消化凝胶状体内的活着猎物。</RV2_PreyInInsidesDigesting.description>
+  <!--EN: This pawn is being pleasured internally by the prey within their gelatinous body.-->
+  <RV2_PreyInInsidesPleasuring.description>这个pawn正在被凝胶状躯体内的猎物所愉悦。</RV2_PreyInInsidesPleasuring.description>
+  <!--EN: This pawn is absorbing what's left of someone within their gelatinous body.-->
+  <RV2_PreyInInsidesProcessing.description>这个pawn正在吸收凝胶状身体内的剩余部分。</RV2_PreyInInsidesProcessing.description>
+  <!--EN: This pawn is holding someone within their gelatinous body for storage.-->
+  <RV2_PreyInInsidesStoring.description>这个pawn将某人关在凝胶内储存。</RV2_PreyInInsidesStoring.description>
+  <!--EN: This pawn is preparing to do something to a pawn within their gelatinous body.-->
+  <RV2_PreyInInsidesWarming.description>这个pawn正在准备对一个pawn在其凝胶状身体内。</RV2_PreyInInsidesWarming.description>
+  <!--EN: Prey in Kidney-->
+  <RV2_PreyInKidney.label>肾脏内的猎物</RV2_PreyInKidney.label>
+  <!--EN: This pawn is turning what's left of someone into urine.-->
+  <RV2_PreyInKidneyConvertingUrine.description>这个pawn正在将剩余的某人变成尿。</RV2_PreyInKidneyConvertingUrine.description>
+  <!--EN: This pawn is melting living prey down in their kidney. This is non-nutritious.-->
+  <RV2_PreyInKidneyDissolving.description>这个pawn正在将活着的猎物的肾脏融化。这是没有营养的。</RV2_PreyInKidneyDissolving.description>
+  <!--EN: This pawn is breaking down dead prey in their kidney. This is non-nutritious.-->
+  <RV2_PreyInKidneyMushing.description>这个pawn正在将猎物的肾脏分解。这是没有营养的。</RV2_PreyInKidneyMushing.description>
+  <!--EN: Prey in Membrane-->
+  <RV2_PreyInMembrane.label>薄膜猎物</RV2_PreyInMembrane.label>
+  <!--EN: This pawn is shedding what remains of their prey from their outer membrane.-->
+  <RV2_PreyInMembraneDumping.description>这个pawn正在将猎物的残骸从外膜上脱落。</RV2_PreyInMembraneDumping.description>
+  <!--EN: This pawn is releasing prey from their outer membrane.-->
+  <RV2_PreyInMembraneExiting.description>这个pawn正在将猎物从外膜中释放出来。</RV2_PreyInMembraneExiting.description>
+  <!--EN: This pawn is shoving their prey through their outer membrane.-->
+  <RV2_PreyInMembranePassing.description>这个pawn正在将猎物塞进外膜。</RV2_PreyInMembranePassing.description>
+  <!--EN: This pawn is giving their prey a full-body massage with their outer membrane.-->
+  <RV2_PreyInMembranePleasuring.description>这个pawn正在让猎物全身上下按摩有它们的外膜。</RV2_PreyInMembranePleasuring.description>
+  <!--EN: This pawn is storing absorbed prey as sapient lip-flesh.-->
+  <RV2_PreyInMouthAmalgamating.description>这个pawn正在将被吸收的猎物储存为智慧的唇肉。</RV2_PreyInMouthAmalgamating.description>
+  <!--EN: Prey in Lips-->
+  <RV2_PreyInMouthAmalgamating.label>嘴唇被捕食</RV2_PreyInMouthAmalgamating.label>
+  <!--EN: This pawn is absorbing their prey into their lips, which obviously makes talking and breathing a little harder.-->
+  <RV2_PreyInMouthAssimilating.description>这个pawn将猎物吸进嘴里，这显然让说话和呼吸变得更加困难。</RV2_PreyInMouthAssimilating.description>
+  <!--EN: Prey in Lips-->
+  <RV2_PreyInMouthAssimilating.label>嘴唇被捕食</RV2_PreyInMouthAssimilating.label>
+  <!--EN: This pawn kissing or performing oral sex to their prey, with intent to absorb, which obviously makes talking and breathing a little harder.-->
+  <RV2_PreyInMouthContacting.description>这个pawn亲吻或表演oralsex杀死它们的猎物，它们的呼吸能力会变得更加困难。</RV2_PreyInMouthContacting.description>
+  <!--EN: Prey in Lips-->
+  <RV2_PreyInMouthContacting.label>嘴唇被捕食</RV2_PreyInMouthContacting.label>
+  <!--EN: This pawn is warming up and loosening their lips for absorption, which obviously makes talking and breathing a little harder.-->
+  <RV2_PreyInMouthLoosening.description>这个pawn正在预热并放松嘴唇以进行吸收，这显然使说话和呼吸变得更加困难。</RV2_PreyInMouthLoosening.description>
+  <!--EN: Prey in Lips-->
+  <RV2_PreyInMouthLoosening.label>嘴唇被捕食</RV2_PreyInMouthLoosening.label>
+  <!--EN: This pawn is removing any unassimilated remains from their lips, which obviously makes talking and breathing a little harder.-->
+  <RV2_PreyInMouthPurging.description>这个pawn正在从他们的嘴唇上移除任何未同化的残骸，这显然使得交谈和呼吸变得更加困难。</RV2_PreyInMouthPurging.description>
+  <!--EN: Prey in Lips-->
+  <RV2_PreyInMouthPurging.label>嘴唇被捕食</RV2_PreyInMouthPurging.label>
+  <!--EN: This pawn is reshaping prey stored as lip-flesh for release, which obviously makes talking and breathing a little harder.-->
+  <RV2_PreyInMouthReshaping.description>这个pawn正在重塑储存为唇肉的猎物以供释放，这显然使谈话和呼吸变得更加困难。</RV2_PreyInMouthReshaping.description>
+  <!--EN: Prey in Lips-->
+  <RV2_PreyInMouthReshaping.label>嘴唇被捕食</RV2_PreyInMouthReshaping.label>
+  <!--EN: Prey in Navel-->
+  <RV2_PreyInNavel.label>肚脐里有猎物</RV2_PreyInNavel.label>
+  <!--EN: This pawn is storing absorbed prey as a sapient potbelly.-->
+  <RV2_PreyInNavelAmalgamating.description>这个pawn正在将被吸收的猎物储存为智慧的大肚子。</RV2_PreyInNavelAmalgamating.description>
+  <!--EN: This pawn is fully-absorbing their prey into their navel.-->
+  <RV2_PreyInNavelAssimilating.description>这个pawn完全吸收它们的猎物放进肚脐。</RV2_PreyInNavelAssimilating.description>
+  <!--EN: This pawn is absorbing prey with their navel.-->
+  <RV2_PreyInNavelContacting.description>这个pawn正在用它们的肚脐吸收猎物。</RV2_PreyInNavelContacting.description>
+  <!--EN: This pawn is releasing prey from their navel.-->
+  <RV2_PreyInNavelExiting.description>这个pawn正在放生猎物。</RV2_PreyInNavelExiting.description>
+  <!--EN: This pawn is warming up and loosening their navel for absorption.-->
+  <RV2_PreyInNavelLoosening.description>这个pawn正在热身，放松肚脐以寻求吸收。</RV2_PreyInNavelLoosening.description>
+  <!--EN: This pawn is shoving their prey into their navel.-->
+  <RV2_PreyInNavelPassing.description>这个pawn将猎物塞进他们的肚脐。</RV2_PreyInNavelPassing.description>
+  <!--EN: This pawn is using their prey to penetrate their navel.-->
+  <RV2_PreyInNavelPleasuring.description>这个pawn正在利用它们的猎物穿透它们的肚脐。</RV2_PreyInNavelPleasuring.description>
+  <!--EN: This pawn is removing any unassimilated remains from their navel.-->
+  <RV2_PreyInNavelPurging.description>这个pawn正在移除他们所有的未同化残骸。</RV2_PreyInNavelPurging.description>
+  <!--EN: This pawn is reshaping prey stored as a potbelly for release.-->
+  <RV2_PreyInNavelReshaping.description>这个pawn正在重塑储存为大麻的猎物，以供释放。</RV2_PreyInNavelReshaping.description>
+  <!--EN: This pawn is holding someone in their navel for storage.-->
+  <RV2_PreyInNavelStoring.description>这个pawn正抱着某人作为存储。</RV2_PreyInNavelStoring.description>
+  <!--EN: This pawn is storing absorbed prey as sapient nipple-flesh.-->
+  <RV2_PreyInNippleAmalgamating.description>这个pawn正在储存被吸收的猎物乳头-血肉。</RV2_PreyInNippleAmalgamating.description>
+  <!--EN: This pawn is fully absorbing their prey into their nipple.-->
+  <RV2_PreyInNippleAssimilating.description>这个pawn正在将猎物完全吸引入乳头</RV2_PreyInNippleAssimilating.description>
+  <!--EN: This pawn is having their nipples sucked, with intent to absorb.-->
+  <RV2_PreyInNippleContacting.description>这个pawn正在享用乳头吮吸，意图吸收。</RV2_PreyInNippleContacting.description>
+  <!--EN: This pawn is warming up and loosening their nipple for absorption.-->
+  <RV2_PreyInNippleLoosening.description>这个pawn正在升温和放松他们的乳头为了吸收。</RV2_PreyInNippleLoosening.description>
+  <!--EN: This pawn is removing any unassimilated remains from their nipple.-->
+  <RV2_PreyInNipplePurging.description>这个pawn正在移除任何未同化的残骸乳头</RV2_PreyInNipplePurging.description>
+  <!--EN: This pawn is reshaping prey stored as nipple-flesh for release.-->
+  <RV2_PreyInNippleReshaping.description>这个pawn正在将重塑猎物储存为乳头-释放血肉。</RV2_PreyInNippleReshaping.description>
+  <!--EN: Prey in Ovary-->
+  <RV2_PreyInOvary.label>卵巢内的猎物</RV2_PreyInOvary.label>
+  <!--EN: This pawn is turning what's left of someone into eggs.-->
+  <RV2_PreyInOvaryConvertingEggs.description>这个pawn正在把剩余的某人变成卵。</RV2_PreyInOvaryConvertingEggs.description>
+  <!--EN: This pawn is melting living prey down in their ovary. This is non-nutritious.-->
+  <RV2_PreyInOvaryDissolving.description>这个pawn正在将活着的猎物融化在它们的卵巢里。这是没有营养的。</RV2_PreyInOvaryDissolving.description>
+  <!--EN: This pawn is breaking down dead prey in their ovary. This is non-nutritious.-->
+  <RV2_PreyInOvaryMushing.description>这个pawn正在分解卵巢中的死亡猎物。这是没有营养的。</RV2_PreyInOvaryMushing.description>
+  <!--EN: This pawn is preparing to do something to a pawn in their ovary.-->
+  <RV2_PreyInOvaryWarming.description>这个pawn正在准备对一个pawn在它们的卵巢里。</RV2_PreyInOvaryWarming.description>
+  <!--EN: This pawn is swallowing their prey down their tail-throat.-->
+  <RV2_PreyInTailThroatPassing.description>这个pawn正在将猎物吞噬一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。-咽喉.</RV2_PreyInTailThroatPassing.description>
+  <!--EN: This pawn is pleasuring themself with the prey inside their tail-throat.-->
+  <RV2_PreyInTailThroatPleasuring.description>这个pawn正在用它们体内的猎物取悦它们自己一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。-咽喉.</RV2_PreyInTailThroatPleasuring.description>
+  <!--EN: This pawn is holding someone in their tail-throat for storage.-->
+  <RV2_PreyInTailThroatStoring.description>这个pawn收容了某人一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。-用于存储的咽喉。</RV2_PreyInTailThroatStoring.description>
+  <!--EN: Prey in Tailmaw-->
+  <RV2_PreyInTailmaw.label>尾 ma捕食</RV2_PreyInTailmaw.label>
+  <!--EN: This pawn is spitting their prey out of their tailmaw.-->
+  <RV2_PreyInTailmawExiting.description>这个pawn正在将猎物从一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。里喷出。</RV2_PreyInTailmawExiting.description>
+  <!--EN: This pawn is swallowing their prey through their tailmaw.-->
+  <RV2_PreyInTailmawPassing.description>这个pawn正在通过一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。吞噬猎物。</RV2_PreyInTailmawPassing.description>
+  <!--EN: This pawn is performing oral sex on partially-swallowed prey with their tailmaw.-->
+  <RV2_PreyInTailmawPleasuring.description>这个pawn正在表演oralsex带着部分吞下的猎物和它们的一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。。</RV2_PreyInTailmawPleasuring.description>
+  <!--EN: Prey in Tail Throat-->
+  <RV2_PreyInTailthroat.label>捕食一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。咽喉</RV2_PreyInTailthroat.label>
+  <!--EN: This pawn is turning what's left of someone into chemfuel.-->
+  <RV2_PreyInTesticlesConvertingChemfuel.description>这个pawn正在将剩余的某人化作燃料。</RV2_PreyInTesticlesConvertingChemfuel.description>
+  <!--EN: Prey in Throat-->
+  <RV2_PreyInThroat.label>咽喉里有猎物</RV2_PreyInThroat.label>
+  <!--EN: Prey in Udder-->
+  <RV2_PreyInUdder.label>乳房中的猎物</RV2_PreyInUdder.label>
+  <!--EN: This pawn is turning what's left of someone into chemfuel.-->
+  <RV2_PreyInUdderConvertingChemfuel.description>这个pawn正在将剩余的某人化作燃料。</RV2_PreyInUdderConvertingChemfuel.description>
+  <!--EN: This pawn is turning what's left of someone into milk.-->
+  <RV2_PreyInUdderConvertingMilk.description>这个pawn正在将剩余的某人转化为产物。</RV2_PreyInUdderConvertingMilk.description>
+  <!--EN: This pawn is melting living prey down in their udder. This is non-nutritious.-->
+  <RV2_PreyInUdderDissolving.description>这个pawn正在将活着的猎物融化乳房。这是没有营养的。</RV2_PreyInUdderDissolving.description>
+  <!--EN: This pawn is breaking down dead prey in their udder. This is non-nutritious.-->
+  <RV2_PreyInUdderMushing.description>这个pawn正在分解乳房里的死亡猎物。这是没有营养的。</RV2_PreyInUdderMushing.description>
+  <!--EN: Prey in Udder Teat-->
+  <RV2_PreyInUdderNipple.label>乳房喷出液体（通常是乳汁）。是挤奶的前置标签。喂养的猎物</RV2_PreyInUdderNipple.label>
+  <!--EN: This pawn is storing absorbed prey as sapient teat-flesh.-->
+  <RV2_PreyInUdderNippleAmalgamating.description>这个pawn正在将被吸收的猎物储存为智慧的囊肉。</RV2_PreyInUdderNippleAmalgamating.description>
+  <!--EN: This pawn is fully-absorbing their prey into their teat.-->
+  <RV2_PreyInUdderNippleAssimilating.description>这个pawn正在完全吸收它们的猎物到它们的乳头。</RV2_PreyInUdderNippleAssimilating.description>
+  <!--EN: This pawn is having their teats sucked, with intent to absorb.-->
+  <RV2_PreyInUdderNippleContacting.description>这个pawn正在吮吸他们的奶头，意图吸收。</RV2_PreyInUdderNippleContacting.description>
+  <!--EN: This pawn is lactating what remains of their prey out of their teat.-->
+  <RV2_PreyInUdderNippleDumping.description>这个pawn处于哺乳期的猎物是否已洗掉。</RV2_PreyInUdderNippleDumping.description>
+  <!--EN: This pawn is releasing prey from their teat.-->
+  <RV2_PreyInUdderNippleExiting.description>这个pawn正在将猎物从它们的奶头上释放。</RV2_PreyInUdderNippleExiting.description>
+  <!--EN: This pawn is warming up and loosening their teat for absorption.-->
+  <RV2_PreyInUdderNippleLoosening.description>这个pawn正在预热并放松他们的乳头以使其吸收。</RV2_PreyInUdderNippleLoosening.description>
+  <!--EN: This pawn is shoving their prey into their teat.-->
+  <RV2_PreyInUdderNipplePassing.description>这个pawn正在将猎物塞进乳头。</RV2_PreyInUdderNipplePassing.description>
+  <!--EN: This pawn is penetrating their teat with their prey.-->
+  <RV2_PreyInUdderNipplePleasuring.description>这个pawn用猎物刺穿它们的乳头。</RV2_PreyInUdderNipplePleasuring.description>
+  <!--EN: This pawn is removing any unassimilated remains from their teat.-->
+  <RV2_PreyInUdderNipplePurging.description>这个pawn正在移除他们所有的未同化残骸。</RV2_PreyInUdderNipplePurging.description>
+  <!--EN: This pawn is reshaping prey stored as teat-flesh for release.-->
+  <RV2_PreyInUdderNippleReshaping.description>这个pawn正在重塑储存为乳肉的猎物以供释放。</RV2_PreyInUdderNippleReshaping.description>
+  <!--EN: This pawn is being pleasured internally by the prey in their udder.-->
+  <RV2_PreyInUdderPleasuring.description>这个pawn正在被乳房内的猎物所满足。</RV2_PreyInUdderPleasuring.description>
+  <!--EN: This pawn is holding someone in their udder for storage.-->
+  <RV2_PreyInUdderStoring.description>这个pawn正抱着一个人来储存。</RV2_PreyInUdderStoring.description>
+  <!--EN: This pawn is preparing to do something to a pawn in their udder.-->
+  <RV2_PreyInUdderWarming.description>这个pawn正在准备对一个pawn在她们的乳房里。</RV2_PreyInUdderWarming.description>
+  <!--EN: This pawn is storing absorbed prey as sapient cunt-flesh.-->
+  <RV2_PreyInVaginaAmalgamating.description>这个pawn正在将被吸收的猎物储存为聪明的毒刺。</RV2_PreyInVaginaAmalgamating.description>
+  <!--EN: Prey in Vulva-->
+  <RV2_PreyInVaginaAmalgamating.label>外阴内的猎物</RV2_PreyInVaginaAmalgamating.label>
+  <!--EN: This pawn is fully-absorbing their prey into their vulva.-->
+  <RV2_PreyInVaginaAssimilating.description>这个pawn完全吸收它们的猎物进入它们的阴户。</RV2_PreyInVaginaAssimilating.description>
+  <!--EN: Prey in Vulva-->
+  <RV2_PreyInVaginaAssimilating.label>外阴内的猎物</RV2_PreyInVaginaAssimilating.label>
+  <!--EN: This pawn is having some form of vaginal intercourse, with intent to absorb.-->
+  <RV2_PreyInVaginaContacting.description>这个pawn正在进行某种形式的vaginalintercourse,意图吸收。</RV2_PreyInVaginaContacting.description>
+  <!--EN: Prey in Vulva-->
+  <RV2_PreyInVaginaContacting.label>外阴内的猎物</RV2_PreyInVaginaContacting.label>
+  <!--EN: This pawn is warming up and loosening their vulva for absorption.-->
+  <RV2_PreyInVaginaLoosening.description>这个pawn正在预热并放松她们的阴户以使其吸收。</RV2_PreyInVaginaLoosening.description>
+  <!--EN: Prey in Vulva-->
+  <RV2_PreyInVaginaLoosening.label>外阴内的猎物</RV2_PreyInVaginaLoosening.label>
+  <!--EN: This pawn is removing any unassimilated remains from their vagina.-->
+  <RV2_PreyInVaginaPurging.description>这个pawn正在移除任何未同化的残骸阴道</RV2_PreyInVaginaPurging.description>
+  <!--EN: This pawn is reshaping prey stored as cunt-flesh for release.-->
+  <RV2_PreyInVaginaReshaping.description>这个pawn正在重塑储存为蛇肉的猎物以供释放。</RV2_PreyInVaginaReshaping.description>
+  <!--EN: This pawn is turning what's left of someone into chemfuel.-->
+  <RV2_PreyInWombConvertingChemfuel.description>这个pawn正在将剩余的某人化作燃料。</RV2_PreyInWombConvertingChemfuel.description>
+  <!--EN: This pawn is moving prey even deeper than their womb.-->
+  <RV2_PreyInWombPassing.description>这个pawn移动的猎物比它们的子宫还要深。</RV2_PreyInWombPassing.description>
+  <!--EN: This pawn has heavily-modified cleavage for cleavage vore.-->
+  <RV2_TypeEnabler_Cleavage.description>某些特殊的纳米机械会改造宿主的组织乳房能够以被允许的多种形式出现:cleavagevore,包括增加一个能够直接运输到胃的胸骨孔。</RV2_TypeEnabler_Cleavage.description>
+  <!--EN: Cleavage depth-->
+  <RV2_TypeEnabler_Cleavage.label>cleavagevore套房</RV2_TypeEnabler_Cleavage.label>
+  <!--EN: This pawn has a permeable membrane for skin, allowing them to engulf prey, like a slime, for membrane vore.-->
+  <RV2_TypeEnabler_Membrane.description>特殊的纳米机械pawn的皮肤和血肉 (或类似的外膜和血浆) 允许史莱姆-吞噬 (膜吃人) 通过可渗透的外膜。</RV2_TypeEnabler_Membrane.description>
+  <!--EN: Dermal porocity-->
+  <RV2_TypeEnabler_Membrane.label>皮肤污染</RV2_TypeEnabler_Membrane.label>
+  <!--EN: This pawn has an elastic and untied navel for navel vore.-->
+  <RV2_TypeEnabler_Navel.description>一种特殊的纳米机械，可以使pawn的肚脐同时起囊和通往胃的作用，赋予肚脐同样的力量吃人</RV2_TypeEnabler_Navel.description>
+  <!--EN: Umbilical elasticity-->
+  <RV2_TypeEnabler_Navel.label>肚脐护甲</RV2_TypeEnabler_Navel.label>
+  <!--EN: This tail has a petal-like maw at the tip, which is capable of swallowing prey down to the stomach.-->
+  <RV2_TypeEnabler_Tailmaw.description>重塑机械体的特殊纳米机械pawn的一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。爆裂成花瓣状的母树，能够将猎物吞下一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。通向一个胃。</RV2_TypeEnabler_Tailmaw.description>
+  <!--EN: Tailmaw-->
+  <RV2_TypeEnabler_Tailmaw.label>尾尾日圆</RV2_TypeEnabler_Tailmaw.label>
+  <!--EN: This pawn has an elastic udder and teats, for udder vore.-->
+  <RV2_TypeEnabler_Udder.description>一种特殊的纳米机械，可以使乳房和奶头的组织得到弹性，使其拥有乳房的力量。吃人</RV2_TypeEnabler_Udder.description>
+  <!--EN: Uberal elasticity-->
+  <RV2_TypeEnabler_Udder.label>旺盛的弹力器</RV2_TypeEnabler_Udder.label>
+  <!--EN: Urifying enzymes-->
+  <RV2_UrineConversionEnzymes.labelNoun>裂解酶</RV2_UrineConversionEnzymes.labelNoun>
 </LanguageData>

@@ -1,9 +1,367 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Extract cum from this pawn's well-stuffed pussy.-->
-  <ExtractCum.description>从此角色填满精液的阴道中提取精液。</ExtractCum.description>
-  <!--EN: Extracting cum.-->
-  <ExtractCum.jobString>正在提取精液。</ExtractCum.jobString>
-  <!--EN: extract cum-->
-  <ExtractCum.label>提取精液</ExtractCum.label>
+  <!--EN: add anus-->
+  <AddMultiAnus.label>添加肛门</AddMultiAnus.label>
+  <!--EN: add archotech anus-->
+  <AddMultiArchotechAnus.label>添加超凡肛门</AddMultiArchotechAnus.label>
+  <!--EN: add archotech breasts-->
+  <AddMultiArchotechBreasts.label>添加超凡乳房</AddMultiArchotechBreasts.label>
+  <!--EN: add archotech penis-->
+  <AddMultiArchotechPenis.label>添加超凡阴茎</AddMultiArchotechPenis.label>
+  <!--EN: add archotech vagina-->
+  <AddMultiArchotechVagina.label>添加超凡阴道</AddMultiArchotechVagina.label>
+  <!--EN: add bionic anus-->
+  <AddMultiBionicAnus.label>添加仿生肛门</AddMultiBionicAnus.label>
+  <!--EN: add bionic breasts-->
+  <AddMultiBionicBreasts.label>添加仿生乳房</AddMultiBionicBreasts.label>
+  <!--EN: add bionic penis-->
+  <AddMultiBionicPenis.label>添加仿生阴茎</AddMultiBionicPenis.label>
+  <!--EN: add bionic vagina-->
+  <AddMultiBionicVagina.label>添加仿生阴道</AddMultiBionicVagina.label>
+  <!--EN: add breasts-->
+  <AddMultiBreasts.label>添加乳房</AddMultiBreasts.label>
+  <!--EN: add feline penis-->
+  <AddMultiCatPenis.label>添加猫阴茎</AddMultiCatPenis.label>
+  <!--EN: add feline vagina-->
+  <AddMultiCatVagina.label>添加猫阴道</AddMultiCatVagina.label>
+  <!--EN: add crocodilian penis-->
+  <AddMultiCrocodilianPenis.label>添加鳄鱼阴茎</AddMultiCrocodilianPenis.label>
+  <!--EN: add canine penis-->
+  <AddMultiDogPenis.label>添加犬阴茎</AddMultiDogPenis.label>
+  <!--EN: add canine vagina-->
+  <AddMultiDogVagina.label>添加犬阴道</AddMultiDogVagina.label>
+  <!--EN: add dragon penis-->
+  <AddMultiDragonPenis.label>添加龙阴茎</AddMultiDragonPenis.label>
+  <!--EN: add dragon vagina-->
+  <AddMultiDragonVagina.label>添加龙阴道</AddMultiDragonVagina.label>
+  <!--EN: add hemipenis-->
+  <AddMultiHemiPenis.label>添加半阴茎</AddMultiHemiPenis.label>
+  <!--EN: add equine penis-->
+  <AddMultiHorsePenis.label>添加马阴茎</AddMultiHorsePenis.label>
+  <!--EN: add equine vagina-->
+  <AddMultiHorseVagina.label>添加马阴道</AddMultiHorseVagina.label>
+  <!--EN: add hydraulic anus-->
+  <AddMultiHydraulicAnus.label>添加液压肛门</AddMultiHydraulicAnus.label>
+  <!--EN: add hydraulic breasts-->
+  <AddMultiHydraulicBreasts.label>添加液压乳房</AddMultiHydraulicBreasts.label>
+  <!--EN: add hydraulic vagina-->
+  <AddMultiHydraulicVagina.label>添加液压阴道</AddMultiHydraulicVagina.label>
+  <!--EN: add insect anus-->
+  <AddMultiInsectAnus.label>添加虫肛门</AddMultiInsectAnus.label>
+  <!--EN: Adds additional female ovipositor.-->
+  <AddMultiOvipositorF.description>添加额外的雌性产卵器。</AddMultiOvipositorF.description>
+  <!--EN: Adding female ovipositor.-->
+  <AddMultiOvipositorF.jobString>添加雌性产卵器。</AddMultiOvipositorF.jobString>
+  <!--EN: add female ovipositor-->
+  <AddMultiOvipositorF.label>添加雌性产卵器</AddMultiOvipositorF.label>
+  <!--EN: Adds additional male ovipositor.-->
+  <AddMultiOvipositorM.description>添加额外的雄性产卵器。</AddMultiOvipositorM.description>
+  <!--EN: Adding male ovipositor.-->
+  <AddMultiOvipositorM.jobString>添加雄性产卵器。</AddMultiOvipositorM.jobString>
+  <!--EN: add male ovipositor-->
+  <AddMultiOvipositorM.label>添加雄性产卵器</AddMultiOvipositorM.label>
+  <!--EN: add penis-->
+  <AddMultiPenis.label>添加阴茎</AddMultiPenis.label>
+  <!--EN: add procyonine penis-->
+  <AddMultiRaccoonPenis.label>添加浣熊阴茎</AddMultiRaccoonPenis.label>
+  <!--EN: add vagina-->
+  <AddMultiVagina.label>添加阴道</AddMultiVagina.label>
+  <!--EN: attach breasts-->
+  <AttachBreasts.label>安装人类乳房</AttachBreasts.label>
+  <!--EN: attach feline penis-->
+  <AttachCatPenis.label>安装猫阴茎</AttachCatPenis.label>
+  <!--EN: attach cloacal penis-->
+  <AttachCloacalPenis.label>安装泄殖腔阴茎</AttachCloacalPenis.label>
+  <!--EN: attach crocodilian penis-->
+  <AttachCrocodilianPenis.label>安装鳄鱼阴茎</AttachCrocodilianPenis.label>
+  <!--EN: attach canine penis-->
+  <AttachDogPenis.label>安装犬阴茎</AttachDogPenis.label>
+  <!--EN: attach dragon penis-->
+  <AttachDragonPenis.label>安装龙阴茎</AttachDragonPenis.label>
+  <!--EN: Attaches a smooth, non-mammalian chest, replaces other bodyparts if present.-->
+  <AttachFeaturelesschest.description>安装平胸，如果已经拥有会被替换。</AttachFeaturelesschest.description>
+  <!--EN: Attaching featureless chest.-->
+  <AttachFeaturelesschest.jobString>安装平胸。</AttachFeaturelesschest.jobString>
+  <!--EN: attach featureless chest-->
+  <AttachFeaturelesschest.label>安装平胸</AttachFeaturelesschest.label>
+  <!--EN: Attaches a dual-shafted hemipenis.-->
+  <AttachHemiPenis.description>安装一个双头半阴茎。</AttachHemiPenis.description>
+  <!--EN: Attaching hemipenes.-->
+  <AttachHemiPenis.jobString>安装半阴茎。</AttachHemiPenis.jobString>
+  <!--EN: attach hemipenis-->
+  <AttachHemiPenis.label>安装半阴茎</AttachHemiPenis.label>
+  <!--EN: attach equine penis-->
+  <AttachHorsePenis.label>安装马阴茎</AttachHorsePenis.label>
+  <!--EN: attach needle penis-->
+  <AttachNeedlePenis.label>安装针阴茎</AttachNeedlePenis.label>
+  <!--EN: Attaches a male Ovipositor, replaces other bodyparts if present.-->
+  <AttachOvipositorM.description>安装产卵器（雄），如果已经拥有会被替换。</AttachOvipositorM.description>
+  <!--EN: Attaching male Ovipositor.-->
+  <AttachOvipositorM.jobString>安装产卵器（雄）。</AttachOvipositorM.jobString>
+  <!--EN: attach male Ovipositor-->
+  <AttachOvipositorM.label>安装产卵器（雄）</AttachOvipositorM.label>
+  <!--EN: attach penis-->
+  <AttachPenis.label>安装人类阴茎</AttachPenis.label>
+  <!--EN: attach procyonine penis-->
+  <AttachRaccoonPenis.label>安装浣熊阴茎</AttachRaccoonPenis.label>
+  <!--EN: attach rodent penis-->
+  <AttachRodentPenis.label>安装啮齿动物阴茎</AttachRodentPenis.label>
+  <!--EN: Try to figure out who is the father.-->
+  <DeterminePaternity.description>检查殖民者是否怀孕并试图找出父亲是谁。</DeterminePaternity.description>
+  <!--EN: Check Paternity.-->
+  <DeterminePaternity.jobString>亲子鉴定。</DeterminePaternity.jobString>
+  <!--EN: check Paternity-->
+  <DeterminePaternity.label>亲子鉴定</DeterminePaternity.label>
+  <!--EN: Determines if a colonist is pregnant or not and if there any abnormalities with pregnancy.-->
+  <DeterminePregnancy.description>判断殖民者是否怀孕以及怀孕是否有异常。</DeterminePregnancy.description>
+  <!--EN: Check pregnancy.-->
+  <DeterminePregnancy.jobString>验孕。</DeterminePregnancy.jobString>
+  <!--EN: check for pregnancy-->
+  <DeterminePregnancy.label>验孕</DeterminePregnancy.label>
+  <!--EN: install average anus-->
+  <InstallAnus.label>安装肛门</InstallAnus.label>
+  <!--EN: Installs a archotech anus, replaces other bodyparts if present.-->
+  <InstallArchotechAnus.description>安装一个超凡肛门，如果已有其他部位会被替换。</InstallArchotechAnus.description>
+  <!--EN: Installing archotech anus.-->
+  <InstallArchotechAnus.jobString>正在安装超凡肛门。</InstallArchotechAnus.jobString>
+  <!--EN: install archotech anus-->
+  <InstallArchotechAnus.label>安装超凡肛门</InstallArchotechAnus.label>
+  <!--EN: Installs a pair of archotech breasts, replaces other bodyparts if present.-->
+  <InstallArchotechBreasts.description>安装一对超凡乳房，如果已有其他部位会被替换。</InstallArchotechBreasts.description>
+  <!--EN: Installing archotech breasts.-->
+  <InstallArchotechBreasts.jobString>正在安装超凡乳房。</InstallArchotechBreasts.jobString>
+  <!--EN: install archotech breasts-->
+  <InstallArchotechBreasts.label>安装超凡乳房</InstallArchotechBreasts.label>
+  <!--EN: Attaches a archotech penis, replaces other bodyparts if present.-->
+  <InstallArchotechPenis.description>安装一个超凡阴茎，如果已有其他部位会被替换。</InstallArchotechPenis.description>
+  <!--EN: Attaching archotech penis.-->
+  <InstallArchotechPenis.jobString>正在安装超凡阴茎。</InstallArchotechPenis.jobString>
+  <!--EN: install archotech penis-->
+  <InstallArchotechPenis.label>安装超凡阴茎</InstallArchotechPenis.label>
+  <!--EN: Installs a archotech vagina, replaces other bodyparts if present.-->
+  <InstallArchotechVagina.description>安装一个超凡阴道，如果已有其他部位会被替换。</InstallArchotechVagina.description>
+  <!--EN: Installing archotech vagina.-->
+  <InstallArchotechVagina.jobString>正在安装超凡阴道。</InstallArchotechVagina.jobString>
+  <!--EN: install archotech vagina-->
+  <InstallArchotechVagina.label>安装超凡阴道</InstallArchotechVagina.label>
+  <!--EN: Installs a bionic anus, replaces other bodyparts if present.-->
+  <InstallBionicAnus.description>安装一个仿生肛门，如果已有其他部位会被替换。</InstallBionicAnus.description>
+  <!--EN: Installing bionic anus.-->
+  <InstallBionicAnus.jobString>正在安装仿生肛门。</InstallBionicAnus.jobString>
+  <!--EN: install bionic anus-->
+  <InstallBionicAnus.label>安装仿生肛门</InstallBionicAnus.label>
+  <!--EN: Installs a pair of bionic breasts, replaces other bodyparts if present.-->
+  <InstallBionicBreasts.description>安装一对仿生乳房，如果已有其他部位会被替换。</InstallBionicBreasts.description>
+  <!--EN: Installing bionic breasts.-->
+  <InstallBionicBreasts.jobString>正在安装仿生乳房。</InstallBionicBreasts.jobString>
+  <!--EN: install bionic breasts-->
+  <InstallBionicBreasts.label>安装仿生乳房</InstallBionicBreasts.label>
+  <!--EN: Attaches a bionic penis, replaces other bodyparts if present.-->
+  <InstallBionicPenis.description>安装一个仿生阴茎，如果已有其他部位会被替换。</InstallBionicPenis.description>
+  <!--EN: Attaching bionic penis.-->
+  <InstallBionicPenis.jobString>正在安装仿生阴茎。</InstallBionicPenis.jobString>
+  <!--EN: install bionic penis-->
+  <InstallBionicPenis.label>安装仿生阴茎</InstallBionicPenis.label>
+  <!--EN: Installs a bionic vagina, replaces other bodyparts if present.-->
+  <InstallBionicVagina.description>安装一个仿生阴道，如果已有其他部位会被替换。</InstallBionicVagina.description>
+  <!--EN: Installing bionic vagina.-->
+  <InstallBionicVagina.jobString>正在安装仿生阴道。</InstallBionicVagina.jobString>
+  <!--EN: install bionic vagina-->
+  <InstallBionicVagina.label>安装仿生阴道</InstallBionicVagina.label>
+  <!--EN: install feline vagina-->
+  <InstallCatVagina.label>安装猫阴道</InstallCatVagina.label>
+  <!--EN: install cloacal anus-->
+  <InstallCloacalAnus.label>安装泄殖腔肛门</InstallCloacalAnus.label>
+  <!--EN: install cloacal vagina-->
+  <InstallCloacalVagina.label>安装泄殖腔阴道</InstallCloacalVagina.label>
+  <!--EN: install canine vagina-->
+  <InstallDogVagina.label>安装犬阴道</InstallDogVagina.label>
+  <!--EN: install dragon vagina-->
+  <InstallDragonVagina.label>安装龙阴道</InstallDragonVagina.label>
+  <!--EN: install equine vagina-->
+  <InstallHorseVagina.label>安装马阴道</InstallHorseVagina.label>
+  <!--EN: Installs a hydraulic anus, replaces other bodyparts if present.-->
+  <InstallHydraulicAnus.description>安装一个液压肛门，如果已有其他部位会被替换。</InstallHydraulicAnus.description>
+  <!--EN: Installing hydraulic anus.-->
+  <InstallHydraulicAnus.jobString>正在安装液压肛门。</InstallHydraulicAnus.jobString>
+  <!--EN: install hydraulic anus-->
+  <InstallHydraulicAnus.label>安装液压肛门</InstallHydraulicAnus.label>
+  <!--EN: Installs a pair of hydraulic breasts, replaces other bodyparts if present.-->
+  <InstallHydraulicBreasts.description>安装一对液压乳房，如果已有其他部位会被替换。</InstallHydraulicBreasts.description>
+  <!--EN: Installing hydraulic breasts.-->
+  <InstallHydraulicBreasts.jobString>正在安装液压乳房。</InstallHydraulicBreasts.jobString>
+  <!--EN: install hydraulic breasts-->
+  <InstallHydraulicBreasts.label>安装液压乳房</InstallHydraulicBreasts.label>
+  <!--EN: Installs a hydraulic penis, replaces other bodyparts if present.-->
+  <InstallHydraulicPenis.description>安装一个液压阴茎，如果已有其他部位会被替换。</InstallHydraulicPenis.description>
+  <!--EN: Installing hydraulic penis.-->
+  <InstallHydraulicPenis.jobString>正在安装液压阴茎。</InstallHydraulicPenis.jobString>
+  <!--EN: install hydraulic penis-->
+  <InstallHydraulicPenis.label>安装液压阴茎</InstallHydraulicPenis.label>
+  <!--EN: Installs a hydraulic vagina, replaces other bodyparts if present.-->
+  <InstallHydraulicVagina.description>安装一个液压阴道，如果已有其他部位会被替换。</InstallHydraulicVagina.description>
+  <!--EN: Installing hydraulic vagina.-->
+  <InstallHydraulicVagina.jobString>正在安装液压阴道。</InstallHydraulicVagina.jobString>
+  <!--EN: install hydraulic vagina-->
+  <InstallHydraulicVagina.label>安装液压阴道</InstallHydraulicVagina.label>
+  <!--EN: Installs a Insect anus, replaces other bodyparts if present.-->
+  <InstallInsectAnus.description>安装肛门，如果已经拥有会被替换。</InstallInsectAnus.description>
+  <!--EN: Installing Insect anus.-->
+  <InstallInsectAnus.jobString>安装肛门。</InstallInsectAnus.jobString>
+  <!--EN: install Insect anus-->
+  <InstallInsectAnus.label>安装虫肛门</InstallInsectAnus.label>
+  <!--EN: install narrow vagina-->
+  <InstallNarrowVagina.label>安装窄阴道</InstallNarrowVagina.label>
+  <!--EN: Installs a female Ovipositor.-->
+  <InstallOvipositorF.description>安装产卵器（雌）。</InstallOvipositorF.description>
+  <!--EN: Installing female Ovipositor.-->
+  <InstallOvipositorF.jobString>安装产卵器（雌）。</InstallOvipositorF.jobString>
+  <!--EN: install female Ovipositor-->
+  <InstallOvipositorF.label>安装产卵器（雌）</InstallOvipositorF.label>
+  <!--EN: Install a peg arm.-->
+  <InstallPegArm.description>安装钉臂。</InstallPegArm.description>
+  <!--EN: Installing peg arm.-->
+  <InstallPegArm.jobString>安装钉臂。</InstallPegArm.jobString>
+  <!--EN: install peg arm-->
+  <InstallPegArm.label>安装钉臂</InstallPegArm.label>
+  <!--EN: install rodent vagina-->
+  <InstallRodentVagina.label>安装啮齿动物阴道</InstallRodentVagina.label>
+  <!--EN: install vagina-->
+  <InstallVagina.label>安装人类阴道</InstallVagina.label>
+  <!--EN: Crafts a bionic anus from hyperweave, plasteel, and components.-->
+  <MakeBionicAnus.description>用超织物、玻璃钢和零部件制作一个仿生肛门。</MakeBionicAnus.description>
+  <!--EN: Crafting bionic anus.-->
+  <MakeBionicAnus.jobString>制作仿生肛门。</MakeBionicAnus.jobString>
+  <!--EN: craft bionic anus-->
+  <MakeBionicAnus.label>制作仿生肛门</MakeBionicAnus.label>
+  <!--EN: Crafts a pair of bionic breasts from hyperweave, plasteel, and components.-->
+  <MakeBionicBreasts.description>用超织物、玻璃钢和零部件制作一个仿生乳房。</MakeBionicBreasts.description>
+  <!--EN: Crafting bionic breasts.-->
+  <MakeBionicBreasts.jobString>制作仿生乳房。</MakeBionicBreasts.jobString>
+  <!--EN: craft bionic breasts-->
+  <MakeBionicBreasts.label>制作仿生乳房</MakeBionicBreasts.label>
+  <!--EN: Crafts a bionic penis from hyperweave, plasteel, and components.-->
+  <MakeBionicPenis.description>用超织物、玻璃钢和零部件制作一个仿生阴茎。</MakeBionicPenis.description>
+  <!--EN: Crafting bionic penis.-->
+  <MakeBionicPenis.jobString>制作仿生阴茎。</MakeBionicPenis.jobString>
+  <!--EN: craft bionic penis-->
+  <MakeBionicPenis.label>制作仿生阴茎</MakeBionicPenis.label>
+  <!--EN: Crafts a bionic vagina from hyperweave, plasteel, and components.-->
+  <MakeBionicVagina.description>用超织物、玻璃钢和零部件制作一个仿生阴道。</MakeBionicVagina.description>
+  <!--EN: Crafting bionic vagina.-->
+  <MakeBionicVagina.jobString>制作仿生阴道。</MakeBionicVagina.jobString>
+  <!--EN: craft bionic vagina-->
+  <MakeBionicVagina.label>制作仿生阴道</MakeBionicVagina.label>
+  <!--EN: Craft 10 condoms.-->
+  <MakeCondom.description>制作10个避孕套。</MakeCondom.description>
+  <!--EN: Making condoms.-->
+  <MakeCondom.jobString>制作避孕套。</MakeCondom.jobString>
+  <!--EN: make condom x10-->
+  <MakeCondom.label>制作10个避孕套</MakeCondom.label>
+  <!--EN: Make a hololock.-->
+  <MakeHololock.description>制作全息锁。</MakeHololock.description>
+  <!--EN: Making hololock.-->
+  <MakeHololock.jobString>制作全息锁。</MakeHololock.jobString>
+  <!--EN: make hololock-->
+  <MakeHololock.label>制作全息锁</MakeHololock.label>
+  <!--EN: Crafts a hydraulic anus from steel and components.-->
+  <MakeHydraulicAnus.description>用钢铁和零部件制作一个液压肛门。</MakeHydraulicAnus.description>
+  <!--EN: Crafting hydraulic anus.-->
+  <MakeHydraulicAnus.jobString>制作液压肛门。</MakeHydraulicAnus.jobString>
+  <!--EN: craft hydraulic anus-->
+  <MakeHydraulicAnus.label>制作液压肛门</MakeHydraulicAnus.label>
+  <!--EN: Crafts a pair of hydraulic breasts from steel and components.-->
+  <MakeHydraulicBreasts.description>用钢铁和零部件制作一个液压乳房。</MakeHydraulicBreasts.description>
+  <!--EN: Crafting hydraulic breasts.-->
+  <MakeHydraulicBreasts.jobString>制作液压乳房。</MakeHydraulicBreasts.jobString>
+  <!--EN: craft hydraulic breasts-->
+  <MakeHydraulicBreasts.label>制作液压乳房</MakeHydraulicBreasts.label>
+  <!--EN: Crafts a hydraulic penis from steel and components.-->
+  <MakeHydraulicPenis.description>用钢铁和零部件制作一个液压阴茎。</MakeHydraulicPenis.description>
+  <!--EN: Crafting hydraulic penis.-->
+  <MakeHydraulicPenis.jobString>制作液压阴茎。</MakeHydraulicPenis.jobString>
+  <!--EN: craft hydraulic penis-->
+  <MakeHydraulicPenis.label>制作液压阴茎</MakeHydraulicPenis.label>
+  <!--EN: Crafts a hydraulic vagina from steel and components.-->
+  <MakeHydraulicVagina.description>用钢铁和零部件制作一个液压阴道。</MakeHydraulicVagina.description>
+  <!--EN: Crafting hydraulic vagina.-->
+  <MakeHydraulicVagina.jobString>制作液压阴道。</MakeHydraulicVagina.jobString>
+  <!--EN: craft hydraulic vagina-->
+  <MakeHydraulicVagina.label>制作液压阴道</MakeHydraulicVagina.label>
+  <!--EN: Carves a dildo from a piece of wood.-->
+  <MakePegDick.description>用木头雕刻一个假阳具。</MakePegDick.description>
+  <!--EN: Carving peg dick.-->
+  <MakePegDick.jobString>雕刻假阴茎。</MakePegDick.jobString>
+  <!--EN: carve peg dick-->
+  <MakePegDick.label>雕刻假阴茎</MakePegDick.label>
+  <!--EN: Make a restricvive chains.-->
+  <MakePrisonerChains.description>制作链条。</MakePrisonerChains.description>
+  <!--EN: Making chains.-->
+  <MakePrisonerChains.jobString>制作链条。</MakePrisonerChains.jobString>
+  <!--EN: make chains-->
+  <MakePrisonerChains.label>制作链条</MakePrisonerChains.label>
+  <!--EN: Safely neutralize mechanoid nanites.-->
+  <RJW_AbortionMech.description>安全中和纳米机械。</RJW_AbortionMech.description>
+  <!--EN: Neutralize mechanoid-->
+  <RJW_AbortionMech.label>中和机械胚胎</RJW_AbortionMech.label>
+  <!--EN: Hack mechanoid AI, cutting it from global mechanoid AI, results docile(unless provoked) mechanoid.-->
+  <RJW_HackMech.description>破解机械AI，将其从敌对AI核心的控制中分离出来，使机械AI变得温顺（除非受到挑衅）。</RJW_HackMech.description>
+  <!--EN: Hacking mechanoid.-->
+  <RJW_HackMech.jobString>破解机械。</RJW_HackMech.jobString>
+  <!--EN: Hack mechanoid-->
+  <RJW_HackMech.label>破解机械</RJW_HackMech.label>
+  <!--EN: Greatly reduces the chance of pregnancy. Reversible anytime.-->
+  <RJW_InstallIUD.description>大大降低了怀孕机率，可随时移除。</RJW_InstallIUD.description>
+  <!--EN: installing IUD.-->
+  <RJW_InstallIUD.jobString>安装节育环。</RJW_InstallIUD.jobString>
+  <!--EN: install IUD-->
+  <RJW_InstallIUD.label>安装节育环</RJW_InstallIUD.label>
+  <!--EN: Removes cocoon.-->
+  <RJW_RemoveCocoon.description>移除结茧。</RJW_RemoveCocoon.description>
+  <!--EN: Removing cocoon.-->
+  <RJW_RemoveCocoon.jobString>移除结茧。</RJW_RemoveCocoon.jobString>
+  <!--EN: remove cocoon-->
+  <RJW_RemoveCocoon.label>移除结茧</RJW_RemoveCocoon.label>
+  <!--EN: Removes restraints.-->
+  <RJW_RemoveRestraints.description>移除束缚。</RJW_RemoveRestraints.description>
+  <!--EN: Removing restraints.-->
+  <RJW_RemoveRestraints.jobString>移除束缚。</RJW_RemoveRestraints.jobString>
+  <!--EN: remove restraints-->
+  <RJW_RemoveRestraints.label>移除束缚</RJW_RemoveRestraints.label>
+  <!--EN: Remove an installed IUD, restoring fertility.-->
+  <RJW_RemovelIUD.description>移除节育环，恢复生育。</RJW_RemovelIUD.description>
+  <!--EN: removing IUD.-->
+  <RJW_RemovelIUD.jobString>移除节育环。</RJW_RemovelIUD.jobString>
+  <!--EN: remove IUD-->
+  <RJW_RemovelIUD.label>移除节育环</RJW_RemovelIUD.label>
+  <!--EN: Removes anus.-->
+  <RemoveAnus.description>切除肛门。</RemoveAnus.description>
+  <!--EN: Removing anus.-->
+  <RemoveAnus.jobString>切除肛门。</RemoveAnus.jobString>
+  <!--EN: remove anus-->
+  <RemoveAnus.label>切除肛门</RemoveAnus.label>
+  <!--EN: Removes breasts.-->
+  <RemoveBreasts.description>切除乳房。</RemoveBreasts.description>
+  <!--EN: Removing breasts.-->
+  <RemoveBreasts.jobString>切除乳房。</RemoveBreasts.jobString>
+  <!--EN: remove breasts-->
+  <RemoveBreasts.label>切除乳房</RemoveBreasts.label>
+  <!--EN: Removes sex organs.-->
+  <RemoveGenitals.description>切除性器官。</RemoveGenitals.description>
+  <!--EN: Removing genitals.-->
+  <RemoveGenitals.jobString>切除性器官。</RemoveGenitals.jobString>
+  <!--EN: remove genitals-->
+  <RemoveGenitals.label>切除性器官</RemoveGenitals.label>
+  <!--EN: Prevents reproduction without removing genitals.-->
+  <Sterilization.description>在不切除生殖器的情况下阻止生育。</Sterilization.description>
+  <!--EN: sterilizing.-->
+  <Sterilization.jobString>绝育。</Sterilization.jobString>
+  <!--EN: sterilize-->
+  <Sterilization.label>绝育</Sterilization.label>
+  <!--EN: Makes the child belong to the colony.-->
+  <claimChild.description>使孩子归属殖民地。</claimChild.description>
+  <!--EN: Adopting.-->
+  <claimChild.jobString>收养孩子。</claimChild.jobString>
+  <!--EN: Claim child-->
+  <claimChild.label>收养孩子</claimChild.label>
 </LanguageData>

@@ -1,7 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: The carrier has a natural curiosity for sex which makes them gain recreation whenever they learn it. Furthermore, curiosity prevents skill loss in sex completely.-->
-  <VRE_Curiosity_Sex.description>携带者对性有天然的好奇心，每当学习性技巧时都能获得娱乐值。此外，这种好奇心能完全防止性技巧的衰减。</VRE_Curiosity_Sex.description>
-  <!--EN: sex curiosity-->
-  <VRE_Curiosity_Sex.label>性好奇</VRE_Curiosity_Sex.label>
+  <!--EN: This Xenotype loves being stuffed with fluids and does not suffer physical impediments from being inflated.-->
+  <rjw_genes_inflatable.description>此异种喜爱被体液填满，且不会因膨胀而受到身体阻碍。</rjw_genes_inflatable.description>
+  <!--EN: inflatable-->
+  <rjw_genes_inflatable.label>可膨胀体质</rjw_genes_inflatable.label>
+  <!--EN: When this Xenotype partakes in sexual activity, they store cum and produce it as an item.-->
+  <rjw_genes_living_cumbucket.description>此异种在参与性行为时，会储存精液并将其作为物品产出。</rjw_genes_living_cumbucket.description>
+  <!--EN: living cumbucket-->
+  <rjw_genes_living_cumbucket.label>活体精液桶</rjw_genes_living_cumbucket.label>
+  <!--EN: This Xenotype cannot get inflated by fluids, neither vaginal, oral or anal.-->
+  <rjw_genes_un_inflatable.description>此异种无法被体液膨胀，无论是阴道、口腔还是肛门。</rjw_genes_un_inflatable.description>
+  <!--EN: inflation resistance-->
+  <rjw_genes_un_inflatable.label>抗膨胀体质</rjw_genes_un_inflatable.label>
 </LanguageData>

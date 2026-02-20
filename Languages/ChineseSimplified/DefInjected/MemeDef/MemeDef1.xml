@@ -1,51 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: This world needs to be repopulated and we will do our part\n\nInfo: As soon as they learn to walk, they can be sent out into the world, if they have a parent from another faction\n\nWarning: Duty means duty. You will need to gear your colony to support the playstyle-->
-  <CB_Repopulationist.description>这个世界需要重新繁衍，我们将尽自己的一份力\n\n信息：一旦他们学会走路，如果他们有来自其他派系的父母，就可以被送往世界各处\n\n警告：责任就是责任。你需要调整你的殖民地以支持这种玩法</CB_Repopulationist.description>
-  <CB_Repopulationist.descriptionMaker.rules.rulesStrings>
-    <!--EN: creation(tag=meme_CB_Repopulationist)        ->[deity0_name] tasked us with bringing life to this barren world.-->
-    <li>creation(tag=meme_CB_Repopulationist)        -&gt;[deity0_name] 赋予我们为这片荒芜世界带来生命的使命。</li>
-    <!--EN: episode(uses=1,tag=meme_CB_Repopulationist)  ->[founderName] brought forth many children in the name of [deity0_objective].-->
-    <li>episode(uses=1,tag=meme_CB_Repopulationist)  -&gt;[founderName] 以 [deity0_objective] 之名诞育了众多子嗣。</li>
-  </CB_Repopulationist.descriptionMaker.rules.rulesStrings>
-  <CB_Repopulationist.generalRules.rulesStrings>
-    <!--EN: memeAdjective->fertile-->
-    <li>memeAdjective-&gt;多产的</li>
-    <!--EN: memeAdjective->fecund-->
-    <li>memeAdjective-&gt;肥沃的</li>
-    <!--EN: memeAdjective->childbearing-->
-    <li>memeAdjective-&gt;生育的</li>
-    <!--EN: memeAdjective->breeding-->
-    <li>memeAdjective-&gt;繁衍的</li>
+  <!--EN: The oldest trade in the verse. Perhaps even a sacred duty for some.\n\nInfo: Sacred and essential prostitution are an obligation. Use the Mandatory Prostitutes precept to select for whom.\n\nSacred prostitution unlocks a new payment type, sacred fervour, that can be spent on sacred abilities-->
+  <CB_BrothelColony.description>宇宙中最古老的行当。对某些人来说甚至可能是神圣的职责。\n\n信息：神圣和必要的卖淫是一种义务。使用“强制妓女”教条来选择适用对象。\n\n神圣卖淫解锁一种新的支付类型：神圣狂热，可用于神圣能力。</CB_BrothelColony.description>
+  <CB_BrothelColony.descriptionMaker.rules.rulesStrings>
+    <!--EN: creation(tag=meme_CB_BrothelColony)        ->[deity0_name] told us to share out bodies with others and to accept their gifts in return.-->
+    <li>creation(tag=meme_CB_BrothelColony)        -&gt;[deity0_name] 告诉我们要与他人分享我们的身体，并接受他们的馈赠作为回报。</li>
+    <!--EN: episode(uses=1,tag=meme_CB_BrothelColony)  ->for many years, [founderName] served as a temple prostitute for [deity0_objective].-->
+    <li>episode(uses=1,tag=meme_CB_BrothelColony)  -&gt;许多年来，[founderName] 一直作为神庙妓女侍奉 [deity0_objective]。</li>
+  </CB_BrothelColony.descriptionMaker.rules.rulesStrings>
+  <CB_BrothelColony.generalRules.rulesStrings>
+    <!--EN: memeAdjective->tempting-->
+    <li>memeAdjective-&gt;诱人的</li>
+    <!--EN: memeAdjective->whoring-->
+    <li>memeAdjective-&gt;卖淫的</li>
+    <!--EN: memeAdjective->inviting-->
+    <li>memeAdjective-&gt;诱人的</li>
+    <!--EN: memeAdjective->beautiful-->
+    <li>memeAdjective-&gt;美丽的</li>
     <!--EN: memeAdjective->lush-->
-    <li>memeAdjective-&gt;茂盛的</li>
-    <!--EN: memeAdjective->fruitful-->
-    <li>memeAdjective-&gt;丰饶的</li>
-    <!--EN: memeLeaderNoun->mother-->
-    <li>memeLeaderNoun-&gt;母亲</li>
-    <!--EN: memeLeaderNoun->child-bearer-->
-    <li>memeLeaderNoun-&gt;生育者</li>
-    <!--EN: memeLeaderNoun->breeder-->
-    <li>memeLeaderNoun-&gt;繁衍者</li>
-    <!--EN: memeConcept->repopulationism-->
-    <li>memeConcept-&gt;再繁衍主义</li>
-    <!--EN: memeConcept->breeding-->
-    <li>memeConcept-&gt;繁衍</li>
-    <!--EN: memeConcept->motherhood-->
-    <li>memeConcept-&gt;母性</li>
-    <!--EN: memeConcept->fertility-->
-    <li>memeConcept-&gt;生育</li>
-    <!--EN: memeLeaderAdjective->fertile-->
-    <li>memeLeaderAdjective-&gt;多产的</li>
-    <!--EN: memeLeaderAdjective->fecund-->
-    <li>memeLeaderAdjective-&gt;肥沃的</li>
-    <!--EN: memeLeaderAdjective->fruitful-->
-    <li>memeLeaderAdjective-&gt;丰饶的</li>
+    <li>memeAdjective-&gt;丰腴的</li>
+    <!--EN: memeAdjective->alluring-->
+    <li>memeAdjective-&gt;迷人的</li>
+    <!--EN: memeAdjective->seductive-->
+    <li>memeAdjective-&gt;性感的</li>
+    <!--EN: memeLeaderNoun->whore-->
+    <li>memeLeaderNoun-&gt;妓女</li>
+    <!--EN: memeLeaderNoun->prostitute-->
+    <li>memeLeaderNoun-&gt;卖淫者</li>
+    <!--EN: memeLeaderNoun->madam-->
+    <li>memeLeaderNoun-&gt;老鸨</li>
+    <!--EN: memeLeaderNoun->temptress-->
+    <li>memeLeaderNoun-&gt;诱惑者</li>
+    <!--EN: memeLeaderNoun->harlot-->
+    <li>memeLeaderNoun-&gt;娼妓</li>
+    <!--EN: memeLeaderNoun->seductress-->
+    <li>memeLeaderNoun-&gt;勾引者</li>
+    <!--EN: memeConcept->whoring-->
+    <li>memeConcept-&gt;卖淫</li>
+    <!--EN: memeConcept->prostitution-->
+    <li>memeConcept-&gt;卖淫</li>
+    <!--EN: memeConcept->brothel-->
+    <li>memeConcept-&gt;妓院</li>
+    <!--EN: memeConcept->seduction-->
+    <li>memeConcept-&gt;诱惑</li>
+    <!--EN: memeLeaderAdjective->tempting-->
+    <li>memeLeaderAdjective-&gt;诱人的</li>
+    <!--EN: memeLeaderAdjective->beautiful-->
+    <li>memeLeaderAdjective-&gt;美丽的</li>
+    <!--EN: memeLeaderAdjective->alluring-->
+    <li>memeLeaderAdjective-&gt;迷人的</li>
     <!--EN: memeLeaderAdjective->lush-->
-    <li>memeLeaderAdjective-&gt;茂盛的</li>
-    <!--EN: memeLeaderAdjective->breeding-->
-    <li>memeLeaderAdjective-&gt;繁衍的</li>
-  </CB_Repopulationist.generalRules.rulesStrings>
-  <!--EN: Repopulation Effort-->
-  <CB_Repopulationist.label>再繁衍事业</CB_Repopulationist.label>
+    <li>memeLeaderAdjective-&gt;丰腴的</li>
+    <!--EN: memeLeaderAdjective->seductive-->
+    <li>memeLeaderAdjective-&gt;性感的</li>
+  </CB_BrothelColony.generalRules.rulesStrings>
+  <!--EN: Brothel Colony-->
+  <CB_BrothelColony.label>娼妓殖民地</CB_BrothelColony.label>
 </LanguageData>

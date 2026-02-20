@@ -1,19 +1,151 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: The {0} was terrible!-->
-  <RV2_VoreFeastOutcome.outcomeChances.0.description>该{0}太糟糕了!</RV2_VoreFeastOutcome.outcomeChances.0.description>
+  <!--EN: moral guide present-->
+  <BestialGangbang.comps.0.label>传道者出席</BestialGangbang.comps.0.label>
+  <!--EN: participant count-->
+  <BestialGangbang.comps.1.label>参与者数量</BestialGangbang.comps.1.label>
+  <!--EN: an altar-->
+  <BestialGangbang.comps.2.expectedThingLabelTip>an altar</BestialGangbang.comps.2.expectedThingLabelTip>
+  <!--EN: started at altar-->
+  <BestialGangbang.comps.2.label>由祭坛开始仪式</BestialGangbang.comps.2.label>
+  <!--EN: breedee broken-->
+  <BestialGangbang.comps.3.label>受害者精神恍惚</BestialGangbang.comps.3.label>
+  <!--EN: breedee extremly broken-->
+  <BestialGangbang.comps.4.label>受害者崩坏边缘</BestialGangbang.comps.4.label>
+  <!--EN: breedee completely broken-->
+  <BestialGangbang.comps.5.label>受害者严重崩坏</BestialGangbang.comps.5.label>
+  <!--EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.-->
+  <BestialGangbang.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。</BestialGangbang.description>
+  <!--EN: The {0} was terrible! The speech was stuttering and incoherent, and the victim was botched - everyone was waiting for it to end.-->
+  <BestialGangbang.outcomeChances.0.description>{0}太糟糕了！演讲结结巴巴，语无伦次，受害者也是非常拙劣，每个人都在等着结束。</BestialGangbang.outcomeChances.0.description>
   <!--EN: Terrible-->
-  <RV2_VoreFeastOutcome.outcomeChances.0.label>糟糕的</RV2_VoreFeastOutcome.outcomeChances.0.label>
-  <!--EN: The {0} was boring.-->
-  <RV2_VoreFeastOutcome.outcomeChances.1.description>该{0}很无趣。</RV2_VoreFeastOutcome.outcomeChances.1.description>
+  <BestialGangbang.outcomeChances.0.label>糟糕的</BestialGangbang.outcomeChances.0.label>
+  <!--EN: The {0} was boring. The speech was repetitive and the victim was noticeably flawed. It just didn't feel dignified.-->
+  <BestialGangbang.outcomeChances.1.description>{0}枯燥乏味。演讲内容重复，受害者明显是个残次品。让人感觉很不体面。</BestialGangbang.outcomeChances.1.description>
   <!--EN: Boring-->
-  <RV2_VoreFeastOutcome.outcomeChances.1.label>枯燥乏味的</RV2_VoreFeastOutcome.outcomeChances.1.label>
-  <!--EN: The {0} was satisfying.-->
-  <RV2_VoreFeastOutcome.outcomeChances.2.description>该{0}很令人满意。</RV2_VoreFeastOutcome.outcomeChances.2.description>
+  <BestialGangbang.outcomeChances.1.label>枯燥乏味的</BestialGangbang.outcomeChances.1.label>
+  <!--EN: The {0} was satisfying. The speech felt meaningful, and the victim was precise and dignified.-->
+  <BestialGangbang.outcomeChances.2.description>{0}令人满意。 演讲内容很有意义， 受害者的技术也很好。</BestialGangbang.outcomeChances.2.description>
   <!--EN: Satisfying-->
-  <RV2_VoreFeastOutcome.outcomeChances.2.label>令人满意</RV2_VoreFeastOutcome.outcomeChances.2.label>
-  <!--EN: The {0} was spectacular!-->
-  <RV2_VoreFeastOutcome.outcomeChances.3.description>该{0}非常壮观!</RV2_VoreFeastOutcome.outcomeChances.3.description>
+  <BestialGangbang.outcomeChances.2.label>令人满意的</BestialGangbang.outcomeChances.2.label>
+  <!--EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy and the victim was like succubus.-->
+  <BestialGangbang.outcomeChances.3.description>{0}非常壮观。 演讲把每个人带到了疯狂的边缘，那受害者简直像个魅魔。</BestialGangbang.outcomeChances.3.description>
   <!--EN: Spectacular-->
-  <RV2_VoreFeastOutcome.outcomeChances.3.label>引人入胜的</RV2_VoreFeastOutcome.outcomeChances.3.label>
+  <BestialGangbang.outcomeChances.3.label>壮观的</BestialGangbang.outcomeChances.3.label>
+  <!--EN: moral guide present-->
+  <BestialGangbang_Consensual.comps.0.label>传道者出席</BestialGangbang_Consensual.comps.0.label>
+  <!--EN: participant count-->
+  <BestialGangbang_Consensual.comps.1.label>参与者数量</BestialGangbang_Consensual.comps.1.label>
+  <!--EN: an altar-->
+  <BestialGangbang_Consensual.comps.2.expectedThingLabelTip>an altar</BestialGangbang_Consensual.comps.2.expectedThingLabelTip>
+  <!--EN: started at altar-->
+  <BestialGangbang_Consensual.comps.2.label>由祭坛开始仪式</BestialGangbang_Consensual.comps.2.label>
+  <!--EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.-->
+  <BestialGangbang_Consensual.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。</BestialGangbang_Consensual.description>
+  <!--EN: The {0} was terrible! The speech was stuttering and incoherent, and the victim was botched - everyone was waiting for it to end.-->
+  <BestialGangbang_Consensual.outcomeChances.0.description>{0}太糟糕了！演讲结结巴巴，语无伦次，组织者也是非常拙劣，每个人都在等着结束。</BestialGangbang_Consensual.outcomeChances.0.description>
+  <!--EN: Terrible-->
+  <BestialGangbang_Consensual.outcomeChances.0.label>糟糕的</BestialGangbang_Consensual.outcomeChances.0.label>
+  <!--EN: The {0} was boring. The speech was repetitive and the victim was noticeably flawed. It just didn't feel dignified.-->
+  <BestialGangbang_Consensual.outcomeChances.1.description>{0}枯燥乏味。演讲内容重复，组织者明显是个残次品。让人感觉很不体面。</BestialGangbang_Consensual.outcomeChances.1.description>
+  <!--EN: Boring-->
+  <BestialGangbang_Consensual.outcomeChances.1.label>枯燥乏味的</BestialGangbang_Consensual.outcomeChances.1.label>
+  <!--EN: The {0} was satisfying. The speech felt meaningful, and the victim was precise and dignified.-->
+  <BestialGangbang_Consensual.outcomeChances.2.description>{0}令人满意。 演讲内容很有意义， 组织者的技术也很好。</BestialGangbang_Consensual.outcomeChances.2.description>
+  <!--EN: Satisfying-->
+  <BestialGangbang_Consensual.outcomeChances.2.label>令人满意的</BestialGangbang_Consensual.outcomeChances.2.label>
+  <!--EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy and the victim was like succubus.-->
+  <BestialGangbang_Consensual.outcomeChances.3.description>{0}非常壮观。 演讲把每个人带到了疯狂的边缘，那组织者简直像个魅魔。</BestialGangbang_Consensual.outcomeChances.3.description>
+  <!--EN: Spectacular-->
+  <BestialGangbang_Consensual.outcomeChances.3.label>壮观的</BestialGangbang_Consensual.outcomeChances.3.label>
+  <!--EN: participant count-->
+  <DrugOrgy.comps.1.label>参与者数量</DrugOrgy.comps.1.label>
+  <!--EN: room impressiveness-->
+  <DrugOrgy.comps.2.label>房间观感</DrugOrgy.comps.2.label>
+  <!--EN: statisfied participants-->
+  <DrugOrgy.comps.3.label>满意的参与者</DrugOrgy.comps.3.label>
+  <!--EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.-->
+  <DrugOrgy.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。</DrugOrgy.description>
+  <!--EN: The {0} was terrible!-->
+  <DrugOrgy.outcomeChances.0.description>{0}太糟糕了！</DrugOrgy.outcomeChances.0.description>
+  <!--EN: Terrible-->
+  <DrugOrgy.outcomeChances.0.label>糟糕的</DrugOrgy.outcomeChances.0.label>
+  <!--EN: The {0} was boring.-->
+  <DrugOrgy.outcomeChances.1.description>{0}枯燥乏味。</DrugOrgy.outcomeChances.1.description>
+  <!--EN: Boring-->
+  <DrugOrgy.outcomeChances.1.label>枯燥乏味的</DrugOrgy.outcomeChances.1.label>
+  <!--EN: The {0} was satisfying.-->
+  <DrugOrgy.outcomeChances.2.description>{0}令人满意.</DrugOrgy.outcomeChances.2.description>
+  <!--EN: Satisfying-->
+  <DrugOrgy.outcomeChances.2.label>令人满意的</DrugOrgy.outcomeChances.2.label>
+  <!--EN: The {0} was spectacular!-->
+  <DrugOrgy.outcomeChances.3.description>{0}非常壮观。</DrugOrgy.outcomeChances.3.description>
+  <!--EN: Spectacular-->
+  <DrugOrgy.outcomeChances.3.label>壮观的</DrugOrgy.outcomeChances.3.label>
+  <!--EN: moral guide present-->
+  <Gangbang.comps.0.label>传道者出席</Gangbang.comps.0.label>
+  <!--EN: participant count-->
+  <Gangbang.comps.1.label>参与者数量</Gangbang.comps.1.label>
+  <!--EN: an altar-->
+  <Gangbang.comps.2.expectedThingLabelTip>an altar</Gangbang.comps.2.expectedThingLabelTip>
+  <!--EN: started at altar-->
+  <Gangbang.comps.2.label>由祭坛开始仪式</Gangbang.comps.2.label>
+  <!--EN: victim broken-->
+  <Gangbang.comps.3.label>受害者精神恍惚</Gangbang.comps.3.label>
+  <!--EN: victim extremly broken-->
+  <Gangbang.comps.4.label>受害者崩坏边缘</Gangbang.comps.4.label>
+  <!--EN: victim completely broken-->
+  <Gangbang.comps.5.label>受害者严重崩坏</Gangbang.comps.5.label>
+  <!--EN: statisfied participants-->
+  <Gangbang.comps.6.label>满意的参与者</Gangbang.comps.6.label>
+  <!--EN: completly statisfied participants-->
+  <Gangbang.comps.7.label>极其满意的参与者</Gangbang.comps.7.label>
+  <!--EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.-->
+  <Gangbang.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。</Gangbang.description>
+  <!--EN: The {0} was terrible! The speech was stuttering and incoherent, and the victim was botched - everyone was waiting for it to end.-->
+  <Gangbang.outcomeChances.0.description>{0}太糟糕了！演讲结结巴巴，语无伦次，受害者也是非常拙劣，每个人都在等着结束。</Gangbang.outcomeChances.0.description>
+  <!--EN: Terrible-->
+  <Gangbang.outcomeChances.0.label>糟糕的</Gangbang.outcomeChances.0.label>
+  <!--EN: The {0} was boring. The speech was repetitive and the victim was noticeably flawed. It just didn't feel dignified.-->
+  <Gangbang.outcomeChances.1.description>{0}枯燥乏味。演讲内容重复，受害者明显是个残次品。让人感觉很不体面。</Gangbang.outcomeChances.1.description>
+  <!--EN: Boring-->
+  <Gangbang.outcomeChances.1.label>枯燥乏味的</Gangbang.outcomeChances.1.label>
+  <!--EN: The {0} was satisfying. The speech felt meaningful, and the victim was precise and dignified.-->
+  <Gangbang.outcomeChances.2.description>{0}令人满意。 演讲内容很有意义， 受害者的技术也很好。</Gangbang.outcomeChances.2.description>
+  <!--EN: Satisfying-->
+  <Gangbang.outcomeChances.2.label>令人满意的</Gangbang.outcomeChances.2.label>
+  <!--EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy and the victim was like succubus.-->
+  <Gangbang.outcomeChances.3.description>{0}非常壮观。 演讲把每个人带到了疯狂的边缘，那受害者简直像个魅魔。</Gangbang.outcomeChances.3.description>
+  <!--EN: Spectacular-->
+  <Gangbang.outcomeChances.3.label>壮观的</Gangbang.outcomeChances.3.label>
+  <!--EN: moral guide present-->
+  <Gangbang_Consensual.comps.0.label>传道者出席</Gangbang_Consensual.comps.0.label>
+  <!--EN: participant count-->
+  <Gangbang_Consensual.comps.1.label>参与者数量</Gangbang_Consensual.comps.1.label>
+  <!--EN: an altar-->
+  <Gangbang_Consensual.comps.2.expectedThingLabelTip>an altar</Gangbang_Consensual.comps.2.expectedThingLabelTip>
+  <!--EN: started at altar-->
+  <Gangbang_Consensual.comps.2.label>由祭坛开始仪式</Gangbang_Consensual.comps.2.label>
+  <!--EN: statisfied participants-->
+  <Gangbang_Consensual.comps.3.label>满意的参与者</Gangbang_Consensual.comps.3.label>
+  <!--EN: completly statisfied participants-->
+  <Gangbang_Consensual.comps.4.label>极其满意的参与者</Gangbang_Consensual.comps.4.label>
+  <!--EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.-->
+  <Gangbang_Consensual.description>参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情值，这取决于仪式的效果。</Gangbang_Consensual.description>
+  <!--EN: The {0} was terrible! The speech was stuttering and incoherent, and the victim was botched - everyone was waiting for it to end.-->
+  <Gangbang_Consensual.outcomeChances.0.description>{0}太糟糕了！演讲结结巴巴，语无伦次，组织者也是非常拙劣，每个人都在等着结束。</Gangbang_Consensual.outcomeChances.0.description>
+  <!--EN: Terrible-->
+  <Gangbang_Consensual.outcomeChances.0.label>糟糕的</Gangbang_Consensual.outcomeChances.0.label>
+  <!--EN: The {0} was boring. The speech was repetitive and the victim was noticeably flawed. It just didn't feel dignified.-->
+  <Gangbang_Consensual.outcomeChances.1.description>{0}枯燥乏味。演讲内容重复，组织者明显是个残次品。让人感觉很不体面。</Gangbang_Consensual.outcomeChances.1.description>
+  <!--EN: Boring-->
+  <Gangbang_Consensual.outcomeChances.1.label>枯燥乏味的</Gangbang_Consensual.outcomeChances.1.label>
+  <!--EN: The {0} was satisfying. The speech felt meaningful, and the victim was precise and dignified.-->
+  <Gangbang_Consensual.outcomeChances.2.description>{0}令人满意。 演讲内容很有意义， 组织者的技术也很好。</Gangbang_Consensual.outcomeChances.2.description>
+  <!--EN: Satisfying-->
+  <Gangbang_Consensual.outcomeChances.2.label>令人满意的</Gangbang_Consensual.outcomeChances.2.label>
+  <!--EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy and the victim was like succubus.-->
+  <Gangbang_Consensual.outcomeChances.3.description>{0}非常壮观。 演讲把每个人带到了疯狂的边缘，那组织者简直像个魅魔。</Gangbang_Consensual.outcomeChances.3.description>
+  <!--EN: Spectacular-->
+  <Gangbang_Consensual.outcomeChances.3.label>壮观的</Gangbang_Consensual.outcomeChances.3.label>
 </LanguageData>

@@ -1,97 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: struggling-->
-  <RV2_ActiveStruggle.label>挣扎中</RV2_ActiveStruggle.label>
-  <RV2_ActiveStruggle.logRulesInitiator.rulesStrings>
-    <!--EN: r_logentry->[INITIATOR_nameDef] struggled inside [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]内心挣扎[RECIPIENT_nameDef]</li>
-    <!--EN: r_logentry->[INITIATOR_nameDef]'s footprint is visible inside of [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]的足迹位于[RECIPIENT_nameDef]</li>
-    <!--EN: r_logentry->[INITIATOR_nameDef]'s handprint is visible inside of [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]的掌纹可见于[RECIPIENT_nameDef]</li>
-    <!--EN: r_logentry->[INITIATOR_nameDef] [struggle_action_past] [RECIPIENT_nameDef] insides.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef][struggle_action_past][RECIPIENT_nameDef]内部。</li>
-    <!--EN: r_logentry->[INITIATOR_nameDef] [struggle_action_past] some sensitive flesh inside of [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef][struggle_action_past]一些敏感的血肉在[RECIPIENT_nameDef]</li>
-    <!--EN: r_logentry->[INITIATOR_nameDef] tried to stretch to [INITIATOR_possessive] full size inside of [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]试图伸展至[INITIATOR_possessive]内有完整尺寸:[RECIPIENT_nameDef]</li>
-    <!--EN: r_logentry->[RECIPIENT_nameDef] winced in pain due to [INITIATOR_nameDef]'s [struggle_action_gerund].-->
-    <li>r_logentry-&gt;[RECIPIENT_nameDef]畏缩于疼痛由于[INITIATOR_nameDef]的[struggle_action_gerund]</li>
-    <!--EN: r_logentry->[RECIPIENT_nameDef] stumbled due to [INITIATOR_nameDef]'s [struggle_action_gerund].-->
-    <li>r_logentry-&gt;[RECIPIENT_nameDef]因跌跌撞撞[INITIATOR_nameDef]的[struggle_action_gerund]</li>
-    <!--EN: r_logentry->[INITIATOR_nameDef] caused [RECIPIENT_nameDef] to stumble.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]造成[RECIPIENT_nameDef]绊倒。</li>
-    <!--EN: r_logentry->[INITIATOR_nameDef] heavily distracts [RECIPIENT_nameDef] from [RECIPIENT_possessive] work.-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]严重分心[RECIPIENT_nameDef]来自[RECIPIENT_possessive]正在工作。</li>
-    <!--EN: r_logentry->A muffled scream can be heard inside of [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;内有微弱的尖叫声[RECIPIENT_nameDef]</li>
-    <!--EN: struggle_action_past->punched-->
-    <li>struggle_action_past-&gt;冲锋</li>
-    <!--EN: struggle_action_past->scratched-->
-    <li>struggle_action_past-&gt;被抓伤</li>
-    <!--EN: struggle_action_past->bit-->
-    <li>struggle_action_past-&gt;钻头</li>
-    <!--EN: struggle_action_past->hurt-->
-    <li>struggle_action_past-&gt;受伤</li>
-    <!--EN: struggle_action_past->bumped-->
-    <li>struggle_action_past-&gt;被撞了</li>
-    <!--EN: struggle_action_past->kicked-->
-    <li>struggle_action_past-&gt;被踢腿</li>
-    <!--EN: struggle_action_gerund->punching-->
-    <li>struggle_action_gerund-&gt;冲孔</li>
-    <!--EN: struggle_action_gerund->scratching-->
-    <li>struggle_action_gerund-&gt;抓</li>
-    <!--EN: struggle_action_gerund->biting-->
-    <li>struggle_action_gerund-&gt;咬</li>
-    <!--EN: struggle_action_gerund->kicking-->
-    <li>struggle_action_gerund-&gt;踢腿的</li>
-  </RV2_ActiveStruggle.logRulesInitiator.rulesStrings>
-  <!--EN: endo vored-->
-  <RV2_EndoVore.label>接上吃人</RV2_EndoVore.label>
-  <RV2_EndoVore.logRulesInitiator.rulesStrings>
-    <!--EN: r_logentry->Endo vore!-->
-    <li>r_logentry-&gt;接上吃人不!</li>
-  </RV2_EndoVore.logRulesInitiator.rulesStrings>
-  <!--EN: failed struggle-->
-  <RV2_FailedStruggle.label>失败的挣扎</RV2_FailedStruggle.label>
-  <RV2_FailedStruggle.logRulesInitiator.rulesStrings>
-    <!--EN: r_logentry->[INITIATOR_nameDef] failed to struggle out of [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]挣扎挣扎失败[RECIPIENT_nameDef]</li>
-  </RV2_FailedStruggle.logRulesInitiator.rulesStrings>
-  <!--EN: fatally vored-->
-  <RV2_FatalVore.label>致命吃人</RV2_FatalVore.label>
-  <RV2_FatalVore.logRulesInitiator.rulesStrings>
-    <!--EN: r_logentry->Fatal vore!-->
-    <li>r_logentry-&gt;致命吃人不!</li>
-  </RV2_FatalVore.logRulesInitiator.rulesStrings>
-  <!--EN: fed predator-->
-  <RV2_Feeding_Predator.label>喂养了捕食者</RV2_Feeding_Predator.label>
-  <RV2_Feeding_Predator.logRulesInitiator.rulesStrings>
-    <!--EN: r_logentry->Fed someone to [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;喂食某人给[RECIPIENT_nameDef]</li>
-  </RV2_Feeding_Predator.logRulesInitiator.rulesStrings>
-  <!--EN: fed as prey-->
-  <RV2_Feeding_Prey.label>被捕食</RV2_Feeding_Prey.label>
-  <RV2_Feeding_Prey.logRulesInitiator.rulesStrings>
-    <!--EN: r_logentry->Fed [RECIPIENT_nameDef] to someone.-->
-    <li>r_logentry-&gt;饱[RECIPIENT_nameDef]敬某人。</li>
-  </RV2_Feeding_Prey.logRulesInitiator.rulesStrings>
-  <!--EN: vore proposal-->
-  <RV2_Proposal.label>吃人求婚</RV2_Proposal.label>
-  <RV2_Proposal.logRulesInitiator.rulesStrings>
-    <!--EN: r_logentry->[INITIATOR_nameDef] proposed vore to [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]已提议吃人到[RECIPIENT_nameDef]</li>
-  </RV2_Proposal.logRulesInitiator.rulesStrings>
-  <!--EN: successful struggle-->
-  <RV2_SuccessfulStruggle.label>斗争成功</RV2_SuccessfulStruggle.label>
-  <RV2_SuccessfulStruggle.logRulesInitiator.rulesStrings>
-    <!--EN: r_logentry->[INITIATOR_nameDef] successfuly struggled out of [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]成功挣扎自尽[RECIPIENT_nameDef]</li>
-  </RV2_SuccessfulStruggle.logRulesInitiator.rulesStrings>
-  <!--EN: switched vore goal-->
-  <RV2_SwitchedGoal.label>已切换吃人目标</RV2_SwitchedGoal.label>
-  <RV2_SwitchedGoal.logRulesInitiator.rulesStrings>
-    <!--EN: r_logentry->[INITIATOR_nameDef] decided to change the vore goal for [RECIPIENT_nameDef]! ->-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]决定改变吃人目标[RECIPIENT_nameDef]!</li>
-  </RV2_SwitchedGoal.logRulesInitiator.rulesStrings>
+  <!--EN: flirt-->
+  <rjw_genes_flirt.label>调情</rjw_genes_flirt.label>
+  <rjw_genes_flirt.logRulesInitiator.rulesStrings>
+    <!--EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][TalkTopicLight]。</li>
+    <!--EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].-->
+    <li>r_logentry-&gt;[INITIATOR_nameDef]与[RECIPIENT_nameDef][talkedabout][TalkTopicLight]。</li>
+    <!--EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].-->
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef]对[RECIPIENT_nameDef][commentedabout][TalkTopicLight]。</li>
+    <!--EN: talkedabout(p=4)->chatted about-->
+    <li>talkedabout(p=4)-&gt;闲聊了</li>
+    <!--EN: talkedabout->shared a word about-->
+    <li>talkedabout-&gt;谈论了</li>
+    <!--EN: talkedabout->spoke about-->
+    <li>talkedabout-&gt;谈到了</li>
+    <!--EN: talkedabout->gabbed about-->
+    <li>talkedabout-&gt;喋喋不休地谈论</li>
+    <!--EN: talkedabout->talked about-->
+    <li>talkedabout-&gt;谈论了</li>
+    <!--EN: talkedabout->joked about-->
+    <li>talkedabout-&gt;开玩笑说</li>
+    <!--EN: talkedabout->quipped about-->
+    <li>talkedabout-&gt;俏皮地说</li>
+    <!--EN: commentedabout->said something about-->
+    <li>commentedabout-&gt;说了些关于</li>
+    <!--EN: commentedabout->said a word about-->
+    <li>commentedabout-&gt;提了一句关于</li>
+    <!--EN: commentedabout->made a comment about-->
+    <li>commentedabout-&gt;评论了</li>
+    <!--EN: commentedabout->commented about-->
+    <li>commentedabout-&gt;评论了</li>
+    <!--EN: commentedabout->told a joke about-->
+    <li>commentedabout-&gt;讲了个关于...的笑话</li>
+  </rjw_genes_flirt.logRulesInitiator.rulesStrings>
 </LanguageData>

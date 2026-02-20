@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: lewd apparel-->
-  <Lewd_Apparel.label>淫秽服装</Lewd_Apparel.label>
+  <!--EN: Items that are considered bodily fluids.-->
+  <Cumpilation_BodilyFluid.description>被视为体液的物品。</Cumpilation_BodilyFluid.description>
+  <!--EN: bodily fluid-->
+  <Cumpilation_BodilyFluid.label>体液</Cumpilation_BodilyFluid.label>
 </LanguageData>

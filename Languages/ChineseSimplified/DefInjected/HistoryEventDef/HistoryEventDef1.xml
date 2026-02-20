@@ -1,43 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Anal vore-->
-  <RV2_AnalVore.label>肛门 吃人</RV2_AnalVore.label>
-  <!--EN: Animal vored-->
-  <RV2_AnimalPredator.label>动物捕食者</RV2_AnimalPredator.label>
-  <!--EN: Venerated animal vored-->
-  <RV2_AnimalPredator_Venerated.label>崇拜圣兽</RV2_AnimalPredator_Venerated.label>
-  <!--EN: Animal vored-->
-  <RV2_AnimalPrey.label>动物猎物</RV2_AnimalPrey.label>
-  <!--EN: Venerated animal vored-->
-  <RV2_AnimalPrey_Venerated.label>崇拜圣兽</RV2_AnimalPrey_Venerated.label>
-  <!--EN: Cock vore-->
-  <RV2_CockVore.label>公鸡吃人</RV2_CockVore.label>
-  <!--EN: Vore product consumed-->
-  <RV2_ConsumedVoreProduct.label>吃人消耗产物</RV2_ConsumedVoreProduct.label>
-  <!--EN: Endo vore-->
-  <RV2_EndoVore.label>接上吃人</RV2_EndoVore.label>
-  <!--EN: Fatal vore-->
-  <RV2_FatalVore.label>致命吃人</RV2_FatalVore.label>
-  <!--EN: Vore initiated by feeder-->
-  <RV2_FeederInitiatedVore.label>吃人由饲养员发起</RV2_FeederInitiatedVore.label>
-  <!--EN: Humanoid vored-->
-  <RV2_HumanoidPredator.label>克隆人</RV2_HumanoidPredator.label>
-  <!--EN: Humanoid vored-->
-  <RV2_HumanoidPrey.label>人类猎物</RV2_HumanoidPrey.label>
-  <!--EN: Vore enabler installed-->
-  <RV2_InstalledVoreEnabler.label>吃人已安装</RV2_InstalledVoreEnabler.label>
-  <!--EN: Interrupted vore-->
-  <RV2_InterruptedVore.label>被打断吃人</RV2_InterruptedVore.label>
-  <!--EN: Nipple vore-->
-  <RV2_NippleVore.label>乳头 吃人</RV2_NippleVore.label>
-  <!--EN: Oral vore-->
-  <RV2_OralVore.label>用嘴 吃人</RV2_OralVore.label>
-  <!--EN: Vore initiated by predator-->
-  <RV2_PredatorInitiatedVore.label>吃人由捕食者发起</RV2_PredatorInitiatedVore.label>
-  <!--EN: Vore initiated by prey-->
-  <RV2_PreyInitiatedVore.label>吃人由猎物发起</RV2_PreyInitiatedVore.label>
-  <!--EN: Vaginal vore-->
-  <RV2_VaginalVore.label>阴道 吃人</RV2_VaginalVore.label>
-  <!--EN: Vore-->
-  <RV2_Vore.label>吃人</RV2_Vore.label>
+  <!--EN: Replaced a pregnancy-->
+  <rjw_genes_GoodwillChangedReason_OverwritePregnancy.label>取代了原有妊娠</rjw_genes_GoodwillChangedReason_OverwritePregnancy.label>
+  <!--EN: Stole a gene-->
+  <rjw_genes_GoodwillChangedReason_StoleGene.label>窃取了基因</rjw_genes_GoodwillChangedReason_StoleGene.label>
+  <!--EN: Aged a pawn with sexual age transfer-->
+  <rjw_genes_GoodwillChangedReason_aged_pawn_with_sex_gene.label>通过性交互转移寿命导致小人老化</rjw_genes_GoodwillChangedReason_aged_pawn_with_sex_gene.label>
+  <!--EN: Infected a pawn with a genetic disease-->
+  <rjw_genes_GoodwillChangedReason_infected_with_disease.label>使小人感染了遗传疾病</rjw_genes_GoodwillChangedReason_infected_with_disease.label>
+  <!--EN: Spread a genetic disease-->
+  <rjw_genes_GoodwillChangedReason_spread_genetic_disease.label>传播了遗传疾病</rjw_genes_GoodwillChangedReason_spread_genetic_disease.label>
+  <!--EN: Youthed a pawn with youth fountain-->
+  <rjw_genes_GoodwillChangedReason_youthed_pawn_with_sex_gene.label>通过青春泉源使小人变年轻</rjw_genes_GoodwillChangedReason_youthed_pawn_with_sex_gene.label>
 </LanguageData>

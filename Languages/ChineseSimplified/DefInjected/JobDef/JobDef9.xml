@@ -1,15 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: seduced.-->
-  <rjw_genes_flirt.reportString>被诱惑了.</rjw_genes_flirt.reportString>
-  <!--EN: tending wounds with sex.-->
-  <rjw_genes_lifeforce_healpussy.reportString>用性治疗伤口.</rjw_genes_lifeforce_healpussy.reportString>
-  <!--EN: raping-->
-  <rjw_genes_lifeforce_randomrape.reportString>强奸</rjw_genes_lifeforce_randomrape.reportString>
-  <!--EN: seduced.-->
-  <rjw_genes_lifeforce_seduced.reportString>被诱惑了.</rjw_genes_lifeforce_seduced.reportString>
-  <!--EN: making love on the spot.-->
-  <sex_on_spot.reportString>正在现场做爱.</sex_on_spot.reportString>
+  <!--EN: masturbatin'.-->
+  <DrugMasturbate.reportString>自慰。</DrugMasturbate.reportString>
   <!--EN: lovin'.-->
-  <sex_on_spot_reciever.reportString>正在享受性爱.</sex_on_spot_reciever.reportString>
+  <DrugSex.reportString>爱爱。</DrugSex.reportString>
+  <!--EN: lovin'.-->
+  <Gangbang.reportString>爱爱。</Gangbang.reportString>
+  <!--EN: lovin'.-->
+  <GettinDrugSex.reportString>爱爱。</GettinDrugSex.reportString>
+  <!--EN: gettin' gangbanged.-->
+  <GettinGangbang.reportString>被群交。</GettinGangbang.reportString>
+  <!--EN: rapin' victim-->
+  <RapeVictim.reportString>强奸受害者</RapeVictim.reportString>
+  <!--EN: Sexually taming TargetA.-->
+  <TameLewd_Lovin.reportString>正在用性爱驯服TargetA。</TameLewd_Lovin.reportString>
+  <!--EN: Sexually training TargetA.-->
+  <TrainLewd_Lovin.reportString>正在用性爱训练TargetA。</TrainLewd_Lovin.reportString>
+  <!--EN: Being sexually conditioned by TargetA.-->
+  <TrainLewd_Reciever.reportString>正在被TargetA用性爱调教。</TrainLewd_Reciever.reportString>
 </LanguageData>

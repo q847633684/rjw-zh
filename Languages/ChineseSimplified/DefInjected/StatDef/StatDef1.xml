@@ -1,27 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Measures how sexually active the pawn is.-->
-  <SexFrequency.description>衡量角色性行为的活跃程度。</SexFrequency.description>
-  <!--EN: sex drive-->
-  <SexFrequency.label>性欲强度</SexFrequency.label>
-  <!--EN: Determines the maximum comfortable size of a potential mate, relative to their own.-->
-  <SexMaxSizePreference.description>决定选择性对象时可接受的最大相对体型值。</SexMaxSizePreference.description>
-  <!--EN: mate size preference (maximum)-->
-  <SexMaxSizePreference.label>体型性偏好上限</SexMaxSizePreference.label>
-  <!--EN: Determines the minimum comfortable size of a potential mate, relative to their own.-->
-  <SexMinSizePreference.description>决定选择性对象时可接受的最小相对体型值。</SexMinSizePreference.description>
-  <!--EN: mate size preference (minimum)-->
-  <SexMinSizePreference.label>体型性偏好下限</SexMinSizePreference.label>
-  <!--EN: Determines how much satisfaction a pawn receives from sex.-->
-  <SexSatisfaction.description>衡量小人对性的满足程度。</SexSatisfaction.description>
-  <!--EN: sex satisfaction-->
-  <SexSatisfaction.label>性满足度</SexSatisfaction.label>
-  <!--EN: Determines how much the pawn is put off by the wildness of animals and wildmen when assessing potential mates.-->
-  <SexWildnessAversion.description>决定角色在选择性对象时对野生动物或野人所具有的野性的排斥程度。</SexWildnessAversion.description>
-  <!--EN: wildness aversion-->
-  <SexWildnessAversion.label>野性排斥度</SexWildnessAversion.label>
-  <!--EN: Measures how likely a pawn is to be taken advantage of sexually-->
-  <Vulnerability.description>衡量小人好欺负的程度。（越高越容易被强奸）</Vulnerability.description>
-  <!--EN: vulnerability-->
-  <Vulnerability.label>性弱气度</Vulnerability.label>
+  <!--EN: Mostly used by other mods to manipulate the final price of whoring.-->
+  <WhoringPriceOffset.description>主要被其他模组用来操纵嫖娼的最终价格。</WhoringPriceOffset.description>
+  <!--EN: Whoring Price Offset-->
+  <WhoringPriceOffset.label>嫖娼价格偏移</WhoringPriceOffset.label>
 </LanguageData>

@@ -1,53 +1,319 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: I was allowed to offer myself to visitors-->
-  <CB_Prostitution_Essential_After.stages.0.description>我被允许向访客献身</CB_Prostitution_Essential_After.stages.0.description>
-  <!--EN: Dutiful prostitute-->
-  <CB_Prostitution_Essential_After.stages.0.label>尽职的娼妓</CB_Prostitution_Essential_After.stages.0.label>
-  <!--EN: is a prostitute-->
-  <CB_Prostitution_Essential_Know.stages.0.label>是一名娼妓</CB_Prostitution_Essential_Know.stages.0.label>
-  <!--EN: It's been so long since I tried offering myself to visitors!-->
-  <CB_Prostitution_Essential_NotTrying.stages.0.description>我已经很久没有尝试向访客献身了！</CB_Prostitution_Essential_NotTrying.stages.0.description>
-  <!--EN: Failing my duty-->
-  <CB_Prostitution_Essential_NotTrying.stages.0.label>未能履行职责</CB_Prostitution_Essential_NotTrying.stages.0.label>
-  <!--EN: I was forced to sell myself to visitors-->
-  <CB_Prostitution_Horrendous_After.stages.0.description>我被迫向访客出卖自己</CB_Prostitution_Horrendous_After.stages.0.description>
-  <!--EN: Unwilling whore-->
-  <CB_Prostitution_Horrendous_After.stages.0.label>不情愿的妓女</CB_Prostitution_Horrendous_After.stages.0.label>
-  <!--EN: is a prostitute-->
-  <CB_Prostitution_Horrendous_Know.stages.0.label>是一名娼妓</CB_Prostitution_Horrendous_Know.stages.0.label>
-  <!--EN: I whored myself out-->
-  <CB_Prostitution_Reluctant_After.stages.0.description>我出卖了自己的肉体</CB_Prostitution_Reluctant_After.stages.0.description>
-  <!--EN: Reluctant prostitute-->
-  <CB_Prostitution_Reluctant_After.stages.0.label>勉强的娼妓</CB_Prostitution_Reluctant_After.stages.0.label>
-  <!--EN: I performed my sacred duty towards visitors-->
-  <CB_Prostitution_Sacred_After.stages.0.description>我履行了向访客的神圣职责</CB_Prostitution_Sacred_After.stages.0.description>
-  <!--EN: Sacred prostitute-->
-  <CB_Prostitution_Sacred_After.stages.0.label>神圣的娼妓</CB_Prostitution_Sacred_After.stages.0.label>
-  <!--EN: is a sacred prostitute-->
-  <CB_Prostitution_Sacred_Know.stages.0.label>是一名神圣的娼妓</CB_Prostitution_Sacred_Know.stages.0.label>
-  <!--EN: Blasphemous! It's been so long since I tried offering myself to visitors!-->
-  <CB_Prostitution_Sacred_NotTrying.stages.0.description>亵渎！我已经很久没有尝试向访客献身了！</CB_Prostitution_Sacred_NotTrying.stages.0.description>
-  <!--EN: Failing my sacred duty-->
-  <CB_Prostitution_Sacred_NotTrying.stages.0.label>未能履行神圣职责</CB_Prostitution_Sacred_NotTrying.stages.0.label>
-  <!--EN: I was forced to sell myself to visitors-->
-  <CB_Prostitution_Unwilling_After.stages.0.description>我被迫向访客出卖自己</CB_Prostitution_Unwilling_After.stages.0.description>
-  <!--EN: Unwilling whore-->
-  <CB_Prostitution_Unwilling_After.stages.0.label>不情愿的妓女</CB_Prostitution_Unwilling_After.stages.0.label>
-  <!--EN: Our duty is sharing ourselves with visitors.-->
-  <CB_Whoring_Essential_Required.stages.0.description>我们的职责是与访客分享我们自己。</CB_Whoring_Essential_Required.stages.0.description>
-  <!--EN: Duties upheld-->
-  <CB_Whoring_Essential_Required.stages.0.label>职责已履行</CB_Whoring_Essential_Required.stages.0.label>
-  <!--EN: Our mandatory whores haven't performed our duty towards visitors for far too long.-->
-  <CB_Whoring_Essential_Required.stages.1.description>我们的强制娼妓已经太久没有履行对访客的职责了。</CB_Whoring_Essential_Required.stages.1.description>
-  <!--EN: Mandatory whores failing duties-->
-  <CB_Whoring_Essential_Required.stages.1.label>强制娼妓未能履行职责</CB_Whoring_Essential_Required.stages.1.label>
-  <!--EN: Our sacred duty is sharing ourselves with visitors.-->
-  <CB_Whoring_Sacred_Required.stages.0.description>我们的神圣职责是与访客分享我们自己。</CB_Whoring_Sacred_Required.stages.0.description>
-  <!--EN: Sacred duties upheld-->
-  <CB_Whoring_Sacred_Required.stages.0.label>神圣职责已履行</CB_Whoring_Sacred_Required.stages.0.label>
-  <!--EN: Our mandatory whores haven't performed their sacred duty towards visitors for far too long.-->
-  <CB_Whoring_Sacred_Required.stages.1.description>我们的强制娼妓已经太久没有履行对访客的神圣职责了。</CB_Whoring_Sacred_Required.stages.1.description>
-  <!--EN: Mandatory whores failing sacred duties-->
-  <CB_Whoring_Sacred_Required.stages.1.label>强制娼妓未能履行神圣职责</CB_Whoring_Sacred_Required.stages.1.label>
+  <!--EN: How dare...-->
+  <BeenRaped_NotSubmissive.stages.0.description>怎么敢…</BeenRaped_NotSubmissive.stages.0.description>
+  <!--EN: {0} raped me-->
+  <BeenRaped_NotSubmissive.stages.0.label>{0}强奸了我</BeenRaped_NotSubmissive.stages.0.label>
+  <!--EN: I had to accept. But I don't feel so good.-->
+  <BeenRaped_Submissive.stages.0.description>我理应接受。但这不是很舒服。</BeenRaped_Submissive.stages.0.description>
+  <!--EN: had been raped-->
+  <BeenRaped_Submissive.stages.0.label>被强奸</BeenRaped_Submissive.stages.0.label>
+  <!--EN: I've impregnated an animal. It feels wrong, but there was some pleasure in it.-->
+  <BestialBreeding_Disliked.stages.0.description>我让一只动物怀了孕。感觉不太对，但其中也有些快感。</BestialBreeding_Disliked.stages.0.description>
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Disliked.stages.0.label>使动物受孕</BestialBreeding_Disliked.stages.0.label>
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Disliked_Social.stages.0.label>使动物受孕</BestialBreeding_Disliked_Social.stages.0.label>
+  <!--EN: I've impregnated an animal. This feels disgusting...-->
+  <BestialBreeding_Horrible.stages.0.description>我让一只动物怀了孕。这感觉真恶心……</BestialBreeding_Horrible.stages.0.description>
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Horrible.stages.0.label>使动物受孕</BestialBreeding_Horrible.stages.0.label>
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Horrible_Social.stages.0.label>使动物受孕</BestialBreeding_Horrible_Social.stages.0.label>
+  <!--EN: I've impregnated an animal. It felt good, and it will help with the animal population.-->
+  <BestialBreeding_Liked.stages.0.description>我让一只动物怀了孕。感觉很好，而且这有助于增加动物数量。</BestialBreeding_Liked.stages.0.description>
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Liked.stages.0.label>使动物受孕</BestialBreeding_Liked.stages.0.label>
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Liked_Social.stages.0.label>使动物受孕</BestialBreeding_Liked_Social.stages.0.label>
+  <!--EN: I've impregnated an animal. This ensures the colony's survival and strengthens its genetic potential. The pleasure I feel is secondary to our future.-->
+  <BestialBreeding_Respected.stages.0.description>我让一只动物怀了孕。这确保了殖民地的生存并增强了其基因潜力。我所感受到的快感远不及我们的未来重要。</BestialBreeding_Respected.stages.0.description>
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Respected.stages.0.label>使动物受孕</BestialBreeding_Respected.stages.0.label>
+  <!--EN: impregnated an animal-->
+  <BestialBreeding_Respected_Social.stages.0.label>使动物受孕</BestialBreeding_Respected_Social.stages.0.label>
+  <!--EN: I had sex with animal. I want to die.-->
+  <Bestiality_Abhorrent.stages.0.description>我和动物做爱。 杀了我吧。</Bestiality_Abhorrent.stages.0.description>
+  <!--EN: sex with animal-->
+  <Bestiality_Abhorrent.stages.0.label>和动物做爱</Bestiality_Abhorrent.stages.0.label>
+  <!--EN: I went wild with my bonded animal!-->
+  <Bestiality_Bond_Approved.stages.0.description>我和我的牵绊做了爱！</Bestiality_Bond_Approved.stages.0.description>
+  <!--EN: sex with bonded animal-->
+  <Bestiality_Bond_Approved.stages.0.label>和牵绊动物做爱</Bestiality_Bond_Approved.stages.0.label>
+  <!--EN: Shares a special bond.-->
+  <Bestiality_Bond_Approved_Know.stages.0.description>共享一种特殊的纽带。</Bestiality_Bond_Approved_Know.stages.0.description>
+  <!--EN: sex with bonded animal-->
+  <Bestiality_Bond_Approved_Know.stages.0.label>和牵绊动物做爱</Bestiality_Bond_Approved_Know.stages.0.label>
+  <!--EN: I had sex with an animal. I hope nothing terrible happens to them.-->
+  <Bestiality_Disapproved.stages.0.description>我和动物做爱。 我希望牠们不要太难受。</Bestiality_Disapproved.stages.0.description>
+  <!--EN: sex with animal-->
+  <Bestiality_Disapproved.stages.0.label>和动物做爱</Bestiality_Disapproved.stages.0.label>
+  <!--EN: I had sex with an animal.-->
+  <Bestiality_Honorable.stages.0.description>我和动物做爱。</Bestiality_Honorable.stages.0.description>
+  <!--EN: sex with animal-->
+  <Bestiality_Honorable.stages.0.label>和动物做爱</Bestiality_Honorable.stages.0.label>
+  <!--EN: I had sex with animal. I'm not sure I can forgive myself.-->
+  <Bestiality_Horrible.stages.0.description>我和动物做爱。 我不知道能否原谅自己。</Bestiality_Horrible.stages.0.description>
+  <!--EN: sex with animal-->
+  <Bestiality_Horrible.stages.0.label>和动物做爱</Bestiality_Horrible.stages.0.label>
+  <!--EN: sex with animal-->
+  <Bestiality_Know_Abhorrent.stages.0.label>和动物做爱</Bestiality_Know_Abhorrent.stages.0.label>
+  <!--EN: sex with animal-->
+  <Bestiality_Know_Disapproved.stages.0.label>和动物做爱</Bestiality_Know_Disapproved.stages.0.label>
+  <!--EN: sex with animal-->
+  <Bestiality_Know_Honorable.stages.0.label>和动物做爱</Bestiality_Know_Honorable.stages.0.label>
+  <!--EN: sex with animal-->
+  <Bestiality_Know_Horrible.stages.0.label>和动物做爱</Bestiality_Know_Horrible.stages.0.label>
+  <!--EN: I had sex with a non bonded animal. How could I?-->
+  <Bestiality_NonBonded_Disapproved.stages.0.description>我随便日了一个动物。我怎么能这么做？</Bestiality_NonBonded_Disapproved.stages.0.description>
+  <!--EN: sex with non-bonded animal-->
+  <Bestiality_NonBonded_Disapproved.stages.0.label>和非牵绊动物做爱</Bestiality_NonBonded_Disapproved.stages.0.label>
+  <!--EN: Had sex with a non bonded animal.-->
+  <Bestiality_NonBonded_Know_Disapproved.stages.0.label>和非牵绊动物做了爱</Bestiality_NonBonded_Know_Disapproved.stages.0.label>
+  <!--EN: I had sex with a non-venerated animal. I hope nothing terrible happens to them.-->
+  <Bestiality_Nonvenerated_Disapproved.stages.0.description>我随便日了一个动物。 我希望牠们不要太难受。</Bestiality_Nonvenerated_Disapproved.stages.0.description>
+  <!--EN: sex with non-venerated animal-->
+  <Bestiality_Nonvenerated_Disapproved.stages.0.label>和圣兽以外的动物做爱</Bestiality_Nonvenerated_Disapproved.stages.0.label>
+  <!--EN: sex with any animal-->
+  <Bestiality_Nonvenerated_Know_Disapproved.stages.0.label>和圣兽以外的动物做了爱</Bestiality_Nonvenerated_Know_Disapproved.stages.0.label>
+  <!--EN: That gangbang was not good. Wish I never went.-->
+  <BoringGangbang.stages.0.description>那次轮奸一点都不好。我真希望我没去。</BoringGangbang.stages.0.description>
+  <!--EN: boring gangbang-->
+  <BoringGangbang.stages.0.label>无聊的轮奸</BoringGangbang.stages.0.label>
+  <!--EN: That orgy was not good. Wish I never went.-->
+  <BoringOrgy.stages.0.description>那次药趴一点都不好。我真希望我没去。</BoringOrgy.stages.0.description>
+  <!--EN: boring orgy-->
+  <BoringOrgy.stages.0.label>无聊的药趴</BoringOrgy.stages.0.label>
+  <!--EN: That was a fun gangbang. It really satisfied me.-->
+  <FunGangbang.stages.0.description>那次轮奸很有趣。它真的让我很满足。</FunGangbang.stages.0.description>
+  <!--EN: fun gangbang-->
+  <FunGangbang.stages.0.label>有趣的轮奸</FunGangbang.stages.0.label>
+  <!--EN: That was a fun orgy. It really satisfied me.-->
+  <FunOrgy.stages.0.description>那次药趴很有趣。它真的让我很满足。</FunOrgy.stages.0.description>
+  <!--EN: fun orgy-->
+  <FunOrgy.stages.0.label>有趣的药趴</FunOrgy.stages.0.label>
+  <!--EN: I have to be okay with the way I am, I know no one else is.-->
+  <GenitalSize_Approved.stages.0.description>我……我现在这样也很好！</GenitalSize_Approved.stages.0.description>
+  <!--EN: Despised Genitalsize-->
+  <GenitalSize_Approved.stages.0.label>令人蔑视的生殖器</GenitalSize_Approved.stages.0.label>
+  <!--EN: I think I am below average.-->
+  <GenitalSize_Approved.stages.1.description>我觉得有点小了。</GenitalSize_Approved.stages.1.description>
+  <!--EN: Unwanted Genitalsize-->
+  <GenitalSize_Approved.stages.1.label>令人失望的生殖器</GenitalSize_Approved.stages.1.label>
+  <!--EN: I guess I am the average.-->
+  <GenitalSize_Approved.stages.2.description>我觉得这样就是平均水平了。</GenitalSize_Approved.stages.2.description>
+  <!--EN: Normal Genitals-->
+  <GenitalSize_Approved.stages.2.label>平均水平的生殖器</GenitalSize_Approved.stages.2.label>
+  <!--EN: I think I am above average.-->
+  <GenitalSize_Approved.stages.3.description>我觉得还挺大的。</GenitalSize_Approved.stages.3.description>
+  <!--EN: Appreciated Genitals-->
+  <GenitalSize_Approved.stages.3.label>令人赞叹的生殖器</GenitalSize_Approved.stages.3.label>
+  <!--EN: My genitals are the ideal size and health, I am the perfect example.-->
+  <GenitalSize_Approved.stages.4.description>我不想成为房间里的大象，但我的一部分已经是了。</GenitalSize_Approved.stages.4.description>
+  <!--EN: Venerated Genitals-->
+  <GenitalSize_Approved.stages.4.label>令人震撼的生殖器</GenitalSize_Approved.stages.4.label>
+  <!--EN: Unwanted Genitals-->
+  <GenitalSize_Approved_Social.stages.0.label>令人失望的生殖器</GenitalSize_Approved_Social.stages.0.label>
+  <!--EN: Normal Genitals-->
+  <GenitalSize_Approved_Social.stages.1.label>平均水平的生殖器</GenitalSize_Approved_Social.stages.1.label>
+  <!--EN: Favorable Genitals-->
+  <GenitalSize_Approved_Social.stages.2.label>令人喜欢的生殖器</GenitalSize_Approved_Social.stages.2.label>
+  <!--EN: I do not need great genitals, as I am a being of supreme intellect and grace.-->
+  <GenitalSize_Disapproved.stages.0.description>我不需要过大的生殖器，因为这正是我无上智慧和优雅的象征。</GenitalSize_Disapproved.stages.0.description>
+  <!--EN: Venerated Genitals-->
+  <GenitalSize_Disapproved.stages.0.label>令人震撼的生殖器</GenitalSize_Disapproved.stages.0.label>
+  <!--EN: I think I am below average.-->
+  <GenitalSize_Disapproved.stages.1.description>我觉得还挺小的。</GenitalSize_Disapproved.stages.1.description>
+  <!--EN: Appreciated Genitals-->
+  <GenitalSize_Disapproved.stages.1.label>令人赞叹的生殖器</GenitalSize_Disapproved.stages.1.label>
+  <!--EN: I guess I am the average.-->
+  <GenitalSize_Disapproved.stages.2.description>我觉得这样就是平均水平了。</GenitalSize_Disapproved.stages.2.description>
+  <!--EN: Normal Genitals-->
+  <GenitalSize_Disapproved.stages.2.label>平均水平的生殖器</GenitalSize_Disapproved.stages.2.label>
+  <!--EN: I think I am above average.-->
+  <GenitalSize_Disapproved.stages.3.description>我觉得有点大了。</GenitalSize_Disapproved.stages.3.description>
+  <!--EN: Unwanted Genitals-->
+  <GenitalSize_Disapproved.stages.3.label>令人失望的生殖器</GenitalSize_Disapproved.stages.3.label>
+  <!--EN: I am closer to an animal, than to a human. Why did I have to be born this way?-->
+  <GenitalSize_Disapproved.stages.4.description>相比人类，我更像动物了。我为什么长成了这种样子？</GenitalSize_Disapproved.stages.4.description>
+  <!--EN: Despised Genitals-->
+  <GenitalSize_Disapproved.stages.4.label>令人蔑视的生殖器</GenitalSize_Disapproved.stages.4.label>
+  <!--EN: Favorable Genitals-->
+  <GenitalSize_Disapproved_Social.stages.0.label>令人喜欢的生殖器</GenitalSize_Disapproved_Social.stages.0.label>
+  <!--EN: Normal Genitals-->
+  <GenitalSize_Disapproved_Social.stages.1.label>平均水平的生殖器</GenitalSize_Disapproved_Social.stages.1.label>
+  <!--EN: Unwanted Genitals-->
+  <GenitalSize_Disapproved_Social.stages.2.label>令人失望的生殖器</GenitalSize_Disapproved_Social.stages.2.label>
+  <!--EN: They are speaking behind our backs.-->
+  <IncestuosMarriage_Disapproved.stages.0.description>他们在戳我们的脊梁骨。</IncestuosMarriage_Disapproved.stages.0.description>
+  <!--EN: being gossip-->
+  <IncestuosMarriage_Disapproved.stages.0.label>被人在背后指指点点</IncestuosMarriage_Disapproved.stages.0.label>
+  <!--EN: No one blessed our marriage.-->
+  <IncestuosMarriage_Forbidden.stages.0.description>没人会祝福我们的婚事……</IncestuosMarriage_Forbidden.stages.0.description>
+  <!--EN: social condemnation-->
+  <IncestuosMarriage_Forbidden.stages.0.label>被社会排除在外</IncestuosMarriage_Forbidden.stages.0.label>
+  <!--EN: I have fucked a corpse.-->
+  <Necrophilia_Abhorrent.stages.0.description>我干过尸体。</Necrophilia_Abhorrent.stages.0.description>
+  <!--EN: fucked corpse-->
+  <Necrophilia_Abhorrent.stages.0.label>奸尸</Necrophilia_Abhorrent.stages.0.label>
+  <!--EN: I have fucked a corpse.-->
+  <Necrophilia_Approved.stages.0.description>我干过尸体。</Necrophilia_Approved.stages.0.description>
+  <!--EN: fucked corpse-->
+  <Necrophilia_Approved.stages.0.label>奸尸</Necrophilia_Approved.stages.0.label>
+  <!--EN: I have fucked a corpse.-->
+  <Necrophilia_Disapproved.stages.0.description>我干过尸体。</Necrophilia_Disapproved.stages.0.description>
+  <!--EN: fucked corpse-->
+  <Necrophilia_Disapproved.stages.0.label>奸尸</Necrophilia_Disapproved.stages.0.label>
+  <!--EN: I have fucked a corpse.-->
+  <Necrophilia_Horrible.stages.0.description>我干过尸体。</Necrophilia_Horrible.stages.0.description>
+  <!--EN: fucked corpse-->
+  <Necrophilia_Horrible.stages.0.label>奸尸</Necrophilia_Horrible.stages.0.label>
+  <!--EN: fucked corpse-->
+  <Necrophilia_Know_Abhorrent.stages.0.label>奸尸</Necrophilia_Know_Abhorrent.stages.0.label>
+  <!--EN: fucked corpse-->
+  <Necrophilia_Know_Approved.stages.0.label>奸尸</Necrophilia_Know_Approved.stages.0.label>
+  <!--EN: fucked corpse-->
+  <Necrophilia_Know_Disapproved.stages.0.label>奸尸</Necrophilia_Know_Disapproved.stages.0.label>
+  <!--EN: fucked corpse-->
+  <Necrophilia_Know_Horrible.stages.0.label>奸尸</Necrophilia_Know_Horrible.stages.0.label>
+  <!--EN: I am making our colony stronger by carrying our future.-->
+  <Pregnancy_Elevated_Pregnant.stages.0.description>我很快就会让我们的殖民地变得更加强大。</Pregnancy_Elevated_Pregnant.stages.0.description>
+  <!--EN: pregnant-->
+  <Pregnancy_Elevated_Pregnant.stages.0.label>怀孕</Pregnancy_Elevated_Pregnant.stages.0.label>
+  <!--EN: pregnant-->
+  <Pregnancy_Elevated_Pregnant_Social.stages.0.label>怀孕</Pregnancy_Elevated_Pregnant_Social.stages.0.label>
+  <!--EN: I wish to be pregnant.-->
+  <Pregnancy_Horrible_NonPregnant.stages.0.description>我希望很快点怀孕。</Pregnancy_Horrible_NonPregnant.stages.0.description>
+  <!--EN: not pregnant-->
+  <Pregnancy_Horrible_NonPregnant.stages.0.label>还没怀孕</Pregnancy_Horrible_NonPregnant.stages.0.label>
+  <!--EN: unfertilized-->
+  <Pregnancy_Horrible_NonPregnant_Social.stages.0.label>未受精</Pregnancy_Horrible_NonPregnant_Social.stages.0.label>
+  <!--EN: How did I end up like this? I never wanted to be pregnant!-->
+  <Pregnancy_Horrible_Pregnant.stages.0.description>怎么会变成这样？我从没想过要怀孕！</Pregnancy_Horrible_Pregnant.stages.0.description>
+  <!--EN: pregnant-->
+  <Pregnancy_Horrible_Pregnant.stages.0.label>怀孕</Pregnancy_Horrible_Pregnant.stages.0.label>
+  <!--EN: I never imagined it would end like this — carrying an animal's offspring. This is a nightmare. What am I supposed to do now?-->
+  <Pregnancy_Horrible_PregnantAnimal.stages.0.description>我从没想过会落到这种地步——怀着动物的后代。这简直是一场噩梦。我现在该怎么办？</Pregnancy_Horrible_PregnantAnimal.stages.0.description>
+  <!--EN: pregnant from animal-->
+  <Pregnancy_Horrible_PregnantAnimal.stages.0.label>怀上兽胎</Pregnancy_Horrible_PregnantAnimal.stages.0.label>
+  <!--EN: pregnant from animal-->
+  <Pregnancy_Horrible_PregnantAnimal_Social.stages.0.label>怀上兽胎</Pregnancy_Horrible_PregnantAnimal_Social.stages.0.label>
+  <!--EN: pregnant-->
+  <Pregnancy_Horrible_Pregnant_Social.stages.0.label>怀孕</Pregnancy_Horrible_Pregnant_Social.stages.0.label>
+  <!--EN: The thought of being impregnated by an animal is thrilling — I want to experience it.-->
+  <Pregnancy_Respected_NonPregnantAnimal.stages.0.description>一想到会被动物搞大肚子就让我兴奋不已——我想体验一下。</Pregnancy_Respected_NonPregnantAnimal.stages.0.description>
+  <!--EN: not pregnant from animal-->
+  <Pregnancy_Respected_NonPregnantAnimal.stages.0.label>未曾怀上兽胎</Pregnancy_Respected_NonPregnantAnimal.stages.0.label>
+  <!--EN: not impregnated by an animal-->
+  <Pregnancy_Respected_NonPregnantAnimal_Social.stages.0.label>未曾被动物受孕</Pregnancy_Respected_NonPregnantAnimal_Social.stages.0.label>
+  <!--EN: I am pregnant. This makes me a pillar of society.-->
+  <Pregnancy_Respected_Pregnant.stages.0.description>我怀孕了，这让我为殖民地建设添砖加瓦！</Pregnancy_Respected_Pregnant.stages.0.description>
+  <!--EN: pregnant-->
+  <Pregnancy_Respected_Pregnant.stages.0.label>怀孕</Pregnancy_Respected_Pregnant.stages.0.label>
+  <!--EN: I'm pregnant with an animal's offspring, and it feels right, like I'm meant to be this way.-->
+  <Pregnancy_Respected_PregnantAnimal.stages.0.description>我怀上了动物的后代，这感觉理所当然，仿佛我本该如此。</Pregnancy_Respected_PregnantAnimal.stages.0.description>
+  <!--EN: pregnant from animal-->
+  <Pregnancy_Respected_PregnantAnimal.stages.0.label>怀上兽胎</Pregnancy_Respected_PregnantAnimal.stages.0.label>
+  <!--EN: pregnant from animal-->
+  <Pregnancy_Respected_PregnantAnimal_Social.stages.0.label>怀上兽胎</Pregnancy_Respected_PregnantAnimal_Social.stages.0.label>
+  <!--EN: pregnant-->
+  <Pregnancy_Respected_Pregnant_Social.stages.0.label>怀孕</Pregnancy_Respected_Pregnant_Social.stages.0.label>
+  <!--EN: I raped someone. I shouldn't do that.-->
+  <Rape_Abhorrent.stages.0.description>我强奸了某人。 我不该那么做。</Rape_Abhorrent.stages.0.description>
+  <!--EN: raped someone-->
+  <Rape_Abhorrent.stages.0.label>强奸了某人</Rape_Abhorrent.stages.0.label>
+  <!--EN: I raped someone. I shouldn't do that.-->
+  <Rape_Disapproved.stages.0.description>我强奸了某人。 我不该那么做。</Rape_Disapproved.stages.0.description>
+  <!--EN: raped someone-->
+  <Rape_Disapproved.stages.0.label>强奸了某人</Rape_Disapproved.stages.0.label>
+  <!--EN: I raped someone. I shouldn't do that.-->
+  <Rape_Horrible.stages.0.description>我强奸了某人。 我不该那么做。</Rape_Horrible.stages.0.description>
+  <!--EN: raped someone-->
+  <Rape_Horrible.stages.0.label>强奸了某人</Rape_Horrible.stages.0.label>
+  <!--EN: raped someone-->
+  <Rape_Know_Abhorrent.stages.0.label>强奸了某人</Rape_Know_Abhorrent.stages.0.label>
+  <!--EN: raped someone-->
+  <Rape_Know_Disapproved.stages.0.label>强奸了某人</Rape_Know_Disapproved.stages.0.label>
+  <!--EN: raped someone-->
+  <Rape_Know_Honorable.stages.0.label>强奸了某人</Rape_Know_Honorable.stages.0.label>
+  <!--EN: raped someone-->
+  <Rape_Know_Horrible.stages.0.label>强奸了某人</Rape_Know_Horrible.stages.0.label>
+  <!--EN: not obedient-->
+  <Raped_Know_NotBeingSubmissive.stages.0.label>不听话</Raped_Know_NotBeingSubmissive.stages.0.label>
+  <!--EN: incest-->
+  <Sex_Know_IncestMarriage_Disapproved.stages.0.label>族内通婚</Sex_Know_IncestMarriage_Disapproved.stages.0.label>
+  <!--EN: incest-->
+  <Sex_Know_IncestMarriage_Forbidden.stages.0.label>族内通婚</Sex_Know_IncestMarriage_Forbidden.stages.0.label>
+  <!--EN: corrupted the bloodline-->
+  <Sex_Know_IncestMarriage_Violated.stages.0.label>我脏了</Sex_Know_IncestMarriage_Violated.stages.0.label>
+  <!--EN: incest-->
+  <Sex_Know_Incest_Disapproved.stages.0.label>族内通婚</Sex_Know_Incest_Disapproved.stages.0.label>
+  <!--EN: incest-->
+  <Sex_Know_Incest_Forbidden.stages.0.label>族内通婚</Sex_Know_Incest_Forbidden.stages.0.label>
+  <!--EN: sex with non-family-->
+  <Sex_Know_Incest_Violated.stages.0.label>和非亲族做爱</Sex_Know_Incest_Violated.stages.0.label>
+  <!--EN: boring-->
+  <Sex_Know_NonPromiscuous.stages.0.label>乏味</Sex_Know_NonPromiscuous.stages.0.label>
+  <!--EN: promiscuous-->
+  <Sex_Know_Promiscuous.stages.0.label>乱交</Sex_Know_Promiscuous.stages.0.label>
+  <!--EN: promiscuous-->
+  <Sex_Know_Promiscuous_Approval.stages.0.label>乱交</Sex_Know_Promiscuous_Approval.stages.0.label>
+  <!--EN: It cannot satisfy me.-->
+  <Sex_NonPromiscuous.stages.0.description>根本得不到满足。</Sex_NonPromiscuous.stages.0.description>
+  <!--EN: ordinary sex-->
+  <Sex_NonPromiscuous.stages.0.label>正常的性交</Sex_NonPromiscuous.stages.0.label>
+  <!--EN: I was immoral. It makes me aroused.-->
+  <Sex_Promiscuous.stages.0.description>我不守道德，这恰恰让我性欲旺盛。</Sex_Promiscuous.stages.0.description>
+  <!--EN: promiscuous sex-->
+  <Sex_Promiscuous.stages.0.label>乱交</Sex_Promiscuous.stages.0.label>
+  <!--EN: That gangbang was terrible. ugh.-->
+  <TerribleGangbang.stages.0.description>那次轮奸太糟糕了。呃。</TerribleGangbang.stages.0.description>
+  <!--EN: terrible gangbang-->
+  <TerribleGangbang.stages.0.label>糟糕的轮奸</TerribleGangbang.stages.0.label>
+  <!--EN: That orgy was terrible. ugh.-->
+  <TerribleOrgy.stages.0.description>那次药趴太糟糕了。呃。</TerribleOrgy.stages.0.description>
+  <!--EN: terrible orgy-->
+  <TerribleOrgy.stages.0.label>糟糕的药趴</TerribleOrgy.stages.0.label>
+  <!--EN: That gangbang was awesome! Everything was perfect.-->
+  <UnforgettableGangbang.stages.0.description>那次轮奸太棒了！一切都很完美。</UnforgettableGangbang.stages.0.description>
+  <!--EN: unforgettable gangbang-->
+  <UnforgettableGangbang.stages.0.label>难忘的轮奸</UnforgettableGangbang.stages.0.label>
+  <!--EN: That orgy was awesome! Everything was perfect.-->
+  <UnforgettableOrgy.stages.0.description>那次药趴太棒了！一切都很完美。</UnforgettableOrgy.stages.0.description>
+  <!--EN: unforgettable orgy-->
+  <UnforgettableOrgy.stages.0.label>难忘的药趴</UnforgettableOrgy.stages.0.label>
+  <!--EN: slut-->
+  <Virgin_OnlyForSpouse_Know_Taken.stages.0.label>淫妇</Virgin_OnlyForSpouse_Know_Taken.stages.0.label>
+  <!--EN: I am no longer a virgin.-->
+  <Virgin_Precious_Taken.stages.0.description>我不再是处。</Virgin_Precious_Taken.stages.0.description>
+  <!--EN: Lost virginity to {0}-->
+  <Virgin_Precious_Taken.stages.0.label>失身于{0}</Virgin_Precious_Taken.stages.0.label>
+  <!--EN: I am no longer a virgin.-->
+  <Virgin_Precious_Taken.stages.1.description>我不再是处。</Virgin_Precious_Taken.stages.1.description>
+  <!--EN: Lost virginity to {0}-->
+  <Virgin_Precious_Taken.stages.1.label>失身于{0}</Virgin_Precious_Taken.stages.1.label>
+  <!--EN: I am no longer a virgin.-->
+  <Virgin_Precious_Taken.stages.2.description>我不再是处。</Virgin_Precious_Taken.stages.2.description>
+  <!--EN: Lost virginity to {0}-->
+  <Virgin_Precious_Taken.stages.2.label>失身于{0}</Virgin_Precious_Taken.stages.2.label>
+  <!--EN: I gave my virginity to my love.-->
+  <Virgin_Precious_Taken.stages.3.description>我把我的贞洁交给了我的爱人。</Virgin_Precious_Taken.stages.3.description>
+  <!--EN: Gave virginity to {0}-->
+  <Virgin_Precious_Taken.stages.3.label>把贞洁交给了{0}</Virgin_Precious_Taken.stages.3.label>
+  <!--EN: My virginity was taken forcefully.-->
+  <Virgin_Precious_Taken_Forcefully.stages.0.description>我的贞洁被强行夺走了。</Virgin_Precious_Taken_Forcefully.stages.0.description>
+  <!--EN: Virginity stolen-->
+  <Virgin_Precious_Taken_Forcefully.stages.0.label>贞洁被强行夺走</Virgin_Precious_Taken_Forcefully.stages.0.label>
+  <!--EN: Finally!-->
+  <Virgin_Shameful_Taken.stages.0.description>终于！</Virgin_Shameful_Taken.stages.0.description>
+  <!--EN: Lost virginity to {0}-->
+  <Virgin_Shameful_Taken.stages.0.label>失身于{0}</Virgin_Shameful_Taken.stages.0.label>
+  <!--EN: Finally!-->
+  <Virgin_Shameful_Taken.stages.1.description>终于！</Virgin_Shameful_Taken.stages.1.description>
+  <!--EN: Lost virginity to {0}-->
+  <Virgin_Shameful_Taken.stages.1.label>失身于{0}</Virgin_Shameful_Taken.stages.1.label>
+  <!--EN: Finally!-->
+  <Virgin_Shameful_Taken.stages.2.description>终于！</Virgin_Shameful_Taken.stages.2.description>
+  <!--EN: Lost virginity to {0}-->
+  <Virgin_Shameful_Taken.stages.2.label>失身于{0}</Virgin_Shameful_Taken.stages.2.label>
 </LanguageData>

@@ -1,103 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Disassemble implants that were destroyed during fatal vore.-->
-  <RV2_DisassembleDigestedImplant.description>拆解在死亡期间被摧毁的植入物吃人</RV2_DisassembleDigestedImplant.description>
-  <!--EN: Disassembling implant.-->
-  <RV2_DisassembleDigestedImplant.jobString>正在拆卸植入物。</RV2_DisassembleDigestedImplant.jobString>
-  <!--EN: disassemble implant remains-->
-  <RV2_DisassembleDigestedImplant.label>拆卸植入物残骸</RV2_DisassembleDigestedImplant.label>
-  <!--EN: Install the enzyme seeder required to allow turning prey into lube.-->
-  <RV2_InstallGoalEnabler_ConvertLube.description>安装酵素汲血器以允许将猎物转化为润滑油</RV2_InstallGoalEnabler_ConvertLube.description>
-  <!--EN: Install lubrifactive enzyme seeder-->
-  <RV2_InstallGoalEnabler_ConvertLube.label>安装 lubrifactive 酶培育器</RV2_InstallGoalEnabler_ConvertLube.label>
-  <!--EN: Install the enzyme seeder required to allow turning prey into milk.-->
-  <RV2_InstallGoalEnabler_ConvertMilk.description>安装需要将猎物转化为乳汁的酵素播种机。</RV2_InstallGoalEnabler_ConvertMilk.description>
-  <!--EN: Install lactifactive enzyme seeder-->
-  <RV2_InstallGoalEnabler_ConvertMilk.label>安装液化酶催化装置</RV2_InstallGoalEnabler_ConvertMilk.label>
-  <!--EN: Install the enzyme seeder required to allow turning prey into sperm.-->
-  <RV2_InstallGoalEnabler_ConvertSperm.description>安装酵素汲血器以允许将猎物转化为精子</RV2_InstallGoalEnabler_ConvertSperm.description>
-  <!--EN: Install spermifactive enzyme seeder-->
-  <RV2_InstallGoalEnabler_ConvertSperm.label>安装受精酶</RV2_InstallGoalEnabler_ConvertSperm.label>
-  <!--EN: Install the enzyme seeder required to allow digesting prey.-->
-  <RV2_InstallGoalEnabler_Digest.description>安装所需的酶播种装置，以消化猎物。</RV2_InstallGoalEnabler_Digest.description>
-  <!--EN: Install hyperdigestive enzyme seeder-->
-  <RV2_InstallGoalEnabler_Digest.label>安装亢奋的消化酶</RV2_InstallGoalEnabler_Digest.label>
-  <!--EN: Install the gland allowing healing vore.-->
-  <RV2_InstallGoalEnabler_Heal.description>安装腺体以允许愈合吃人</RV2_InstallGoalEnabler_Heal.description>
-  <!--EN: Install regenerative enzyme seeder (Heal)-->
-  <RV2_InstallGoalEnabler_Heal.label>安装再生酶播种机 (Heal)</RV2_InstallGoalEnabler_Heal.label>
-  <!--EN: Install the nanites allowing reformation vore.-->
-  <RV2_InstallGoalEnabler_Reform.description>安装纳米粒子以允许宗教改革吃人</RV2_InstallGoalEnabler_Reform.description>
-  <!--EN: Install reproductive enzyme seeder (Reform)-->
-  <RV2_InstallGoalEnabler_Reform.label>安装繁殖酶播种机 (改革)</RV2_InstallGoalEnabler_Reform.label>
-  <!--EN: Install the adjustments required to allow permanent, comfortable, and safe ingestion of prey.-->
-  <RV2_InstallGoalEnabler_Store.description>安装所需的调整以允许永久、舒适和安全地摄取猎物。</RV2_InstallGoalEnabler_Store.description>
-  <!--EN: Install internal hospitality adjuster (Store)-->
-  <RV2_InstallGoalEnabler_Store.label>安装内部招待调节器 (商店)</RV2_InstallGoalEnabler_Store.label>
-  <!--EN: Install the adjustments required to allow temporary, comfortable, and safe ingestion of prey.-->
-  <RV2_InstallGoalEnabler_TempEndo.description>安装所需的调整以允许暂时的、舒适的、安全的摄取猎物。</RV2_InstallGoalEnabler_TempEndo.description>
-  <!--EN: Install internal hospitality adjuster (Hold, Pleasure)-->
-  <RV2_InstallGoalEnabler_TempEndo.label>安装内部招待调节器 (保持，愉悦)</RV2_InstallGoalEnabler_TempEndo.label>
-  <!--EN: Install the elasticizer required to allow anal vore.-->
-  <RV2_InstallTypeEnabler_Anal.description>安装要求允许的护弹装置analvore</RV2_InstallTypeEnabler_Anal.description>
-  <!--EN: Install anal elasticizer-->
-  <RV2_InstallTypeEnabler_Anal.label>安装肛门弹力器</RV2_InstallTypeEnabler_Anal.label>
-  <!--EN: Install the elasticizer required to allow cock vore.-->
-  <RV2_InstallTypeEnabler_Cock.description>安装需要的弹力器以允许旋塞吃人</RV2_InstallTypeEnabler_Cock.description>
-  <!--EN: Install penile elasticizer-->
-  <RV2_InstallTypeEnabler_Cock.label>安装阴茎弹力器</RV2_InstallTypeEnabler_Cock.label>
-  <!--EN: Install the elasticizer required to allow nipple vore.-->
-  <RV2_InstallTypeEnabler_Nipple.description>安装要求允许的护弹装置nipplevore</RV2_InstallTypeEnabler_Nipple.description>
-  <!--EN: Install nipple elasticizer-->
-  <RV2_InstallTypeEnabler_Nipple.label>安装乳头弹力器</RV2_InstallTypeEnabler_Nipple.label>
-  <!--EN: Install the elasticizer required to allow oral vore.-->
-  <RV2_InstallTypeEnabler_Oral.description>安装要求允许的护弹装置oralvore</RV2_InstallTypeEnabler_Oral.description>
-  <!--EN: Install oral elasticizer-->
-  <RV2_InstallTypeEnabler_Oral.label>安装用嘴弹力器</RV2_InstallTypeEnabler_Oral.label>
-  <!--EN: Install the elasticizer required to allow vaginal vore.-->
-  <RV2_InstallTypeEnabler_Vaginal.description>安装要求允许的护弹装置vaginalvore</RV2_InstallTypeEnabler_Vaginal.description>
-  <!--EN: Install vaginal elasticizer-->
-  <RV2_InstallTypeEnabler_Vaginal.label>安装阴道弹力器</RV2_InstallTypeEnabler_Vaginal.label>
-  <!--EN: make fertilizer-->
-  <RV2_MakeFertilizer.label>制作肥料</RV2_MakeFertilizer.label>
-  <!--EN: make fertilizer x4-->
-  <RV2_MakeFertilizer4.label>制作肥料 x4</RV2_MakeFertilizer4.label>
-  <!--EN: Make lubrifactive enzyme seeder (Convert to lube)-->
-  <RV2_MakeGoalEnabler_ConvertLube.label>制作 lubrifactive 酵素播种机 (教化为润滑油)</RV2_MakeGoalEnabler_ConvertLube.label>
-  <!--EN: Make lactifactive enzyme seeder (Convert to milk)-->
-  <RV2_MakeGoalEnabler_ConvertMilk.label>制作裂解酶播种机 (转化为产物)</RV2_MakeGoalEnabler_ConvertMilk.label>
-  <!--EN: Make spermifactive enzyme seeder (Convert to cum)-->
-  <RV2_MakeGoalEnabler_ConvertSperm.label>制作受精酶播种机 (教化为精液)</RV2_MakeGoalEnabler_ConvertSperm.label>
-  <!--EN: Make hyperdigestive enzyme seeder (Digest)-->
-  <RV2_MakeGoalEnabler_Digest.label>制作亢奋的消化酶 (消化)</RV2_MakeGoalEnabler_Digest.label>
-  <!--EN: Make regenerative enzyme seeder (Heal)-->
-  <RV2_MakeGoalEnabler_Heal.label>制作再生酵素播种机 (Heal)</RV2_MakeGoalEnabler_Heal.label>
-  <!--EN: Make reproductive enzyme seeder (Reform)-->
-  <RV2_MakeGoalEnabler_Reform.label>制作繁殖酶 (改革)</RV2_MakeGoalEnabler_Reform.label>
-  <!--EN: Make internal hospitality adjuster (Store)-->
-  <RV2_MakeGoalEnabler_Store.label>制作内部招待调节器 (商店)</RV2_MakeGoalEnabler_Store.label>
-  <!--EN: Make internal hospitality adjuster (Hold, Pleasure)-->
-  <RV2_MakeGoalEnabler_TempEndo.label>使内部好客调节器 (保持，愉悦)</RV2_MakeGoalEnabler_TempEndo.label>
-  <!--EN: Make anal elasticizer-->
-  <RV2_MakeTypeEnabler_Anal.label>制作肛门弹力器</RV2_MakeTypeEnabler_Anal.label>
-  <!--EN: Make penile elasticizer-->
-  <RV2_MakeTypeEnabler_Cock.label>制作阴茎弹射器</RV2_MakeTypeEnabler_Cock.label>
-  <!--EN: Make nipple elasticizer-->
-  <RV2_MakeTypeEnabler_Nipple.label>制作乳头弹力器</RV2_MakeTypeEnabler_Nipple.label>
-  <!--EN: Make oral elasticizer-->
-  <RV2_MakeTypeEnabler_Oral.label>制作用嘴弹力器</RV2_MakeTypeEnabler_Oral.label>
-  <!--EN: Make vaginal elasticizer-->
-  <RV2_MakeTypeEnabler_Vaginal.label>制作阴道弹力器</RV2_MakeTypeEnabler_Vaginal.label>
-  <!--EN: Make a batch of chemfuel by extracting biofuel from digested remains.-->
-  <RV2_Make_ChemfuelFromRemains.description>通过从消化的残骸中提取生物燃料来制作一批化合燃料。</RV2_Make_ChemfuelFromRemains.description>
-  <!--EN: Refining chemfuel from remains.-->
-  <RV2_Make_ChemfuelFromRemains.jobString>正在从残骸中提炼化合燃料。</RV2_Make_ChemfuelFromRemains.jobString>
-  <!--EN: make chemfuel from remains-->
-  <RV2_Make_ChemfuelFromRemains.label>从残骸中制作化合燃料</RV2_Make_ChemfuelFromRemains.label>
-  <!--EN: Remove prey from part.-->
-  <RV2_Surgery_RemovePrey.description>从部分移除猎物。</RV2_Surgery_RemovePrey.description>
-  <!--EN: Removing prey from part.-->
-  <RV2_Surgery_RemovePrey.jobString>正在将猎物从身体部位移除。</RV2_Surgery_RemovePrey.jobString>
-  <!--EN: Remove prey from body part-->
-  <RV2_Surgery_RemovePrey.label>将猎物从身体部位移除</RV2_Surgery_RemovePrey.label>
+  <!--EN: Surgically repair a prolapse.-->
+  <RES_RepairExtremeProlapse.description>通过外科手术修复脱垂。</RES_RepairExtremeProlapse.description>
+  <!--EN: Repairing prolapse.-->
+  <RES_RepairExtremeProlapse.jobString>正在修复脱垂。</RES_RepairExtremeProlapse.jobString>
+  <!--EN: repair extreme prolapse-->
+  <RES_RepairExtremeProlapse.label>修复严重脱垂</RES_RepairExtremeProlapse.label>
+  <!--EN: Realign and stabilize a dislocated jaw. The procedure reduces pain and restores full function to the mouth.-->
+  <RES_RepairJaw.description>重新对齐并固定脱臼的下颌。该手术可减轻疼痛并恢复口腔的全部功能。</RES_RepairJaw.description>
+  <!--EN: Realigning jaw.-->
+  <RES_RepairJaw.jobString>正在对齐下颌。</RES_RepairJaw.jobString>
+  <!--EN: realign jaw-->
+  <RES_RepairJaw.label>对齐下颌</RES_RepairJaw.label>
+  <!--EN: Repair a prolapse.-->
+  <RES_RepairProlapse.description>修复脱垂。</RES_RepairProlapse.description>
+  <!--EN: Repairing prolapse.-->
+  <RES_RepairProlapse.jobString>正在修复脱垂。</RES_RepairProlapse.jobString>
+  <!--EN: repair prolapse-->
+  <RES_RepairProlapse.label>修复脱垂</RES_RepairProlapse.label>
 </LanguageData>

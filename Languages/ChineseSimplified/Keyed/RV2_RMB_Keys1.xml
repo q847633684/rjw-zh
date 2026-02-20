@@ -1,27 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Amalgamate-->
-  <RV2_RMB_Amalgamate>Amalgamate</RV2_RMB_Amalgamate>
-  <!--EN: Assimilate-->
-  <RV2_RMB_Assimilate>Assimilate</RV2_RMB_Assimilate>
-  <!--EN: Cleavage vore-->
-  <RV2_RMB_Cleavage>Cleavage vore</RV2_RMB_Cleavage>
-  <!--EN: Cock vore (bladder)-->
-  <RV2_RMB_CockBladder>Cock vore (bladder)</RV2_RMB_CockBladder>
-  <!--EN: Olify-->
-  <RV2_RMB_ConvertChemfuel>Olify</RV2_RMB_ConvertChemfuel>
-  <!--EN: Ovify-->
-  <RV2_RMB_ConvertEggs>Ovify</RV2_RMB_ConvertEggs>
-  <!--EN: Urify-->
-  <RV2_RMB_ConvertUrine>Urify</RV2_RMB_ConvertUrine>
-  <!--EN: Membrane vore-->
-  <RV2_RMB_Membrane>Membrane vore</RV2_RMB_Membrane>
-  <!--EN: Navel vore-->
-  <RV2_RMB_Navel>Navel vore</RV2_RMB_Navel>
-  <!--EN: Tailmaw vore-->
-  <RV2_RMB_Tailmaw>Tailmaw vore</RV2_RMB_Tailmaw>
-  <!--EN: Udder vore-->
-  <RV2_RMB_Udder>Udder vore</RV2_RMB_Udder>
-  <!--EN: Vaginal vore (bladder)-->
-  <RV2_RMB_VaginalBladder>Vaginal vore (bladder)</RV2_RMB_VaginalBladder>
+  <!--EN: Already attempted-->
+  <RV2_RMB_AlreadyAttemptedEject>已尝试</RV2_RMB_AlreadyAttemptedEject>
+  <!--EN: DEV: Feed {0} to ...-->
+  <RV2_RMB_AsFeeder>DEV: 喂食{0}到.</RV2_RMB_AsFeeder>
+  <!--EN: Incapable of violence-->
+  <RV2_RMB_EjectIncapable>无暴力能力</RV2_RMB_EjectIncapable>
+  <!--EN: Eject Prey-->
+  <RV2_RMB_EjectPrey_Self>弹出猎物</RV2_RMB_EjectPrey_Self>
+  <!--EN: Force {0} to eject prey-->
+  <RV2_RMB_EjectPrey_Target>强制{0}弹出猎物</RV2_RMB_EjectPrey_Target>
+  <!--EN: Vore-->
+  <RV2_RMB_Home>吃人</RV2_RMB_Home>
+  <!--EN: DEV: Vore {0}-->
+  <RV2_RMB_InitiateAsPredator>开发者:吃人{0}</RV2_RMB_InitiateAsPredator>
+  <!--EN: DEV: Get vored by {0}-->
+  <RV2_RMB_InitiateAsPrey>开发者: 躲避{0}</RV2_RMB_InitiateAsPrey>
+  <!--EN: Change vore goal-->
+  <RV2_RMB_JumpGoal>改变吃人目标</RV2_RMB_JumpGoal>
+  <!--EN: Pass manual stage-->
+  <RV2_RMB_ManualPass>通过操作阶段</RV2_RMB_ManualPass>
+  <!--EN: Propose feeding vore to {0} (random prey)-->
+  <RV2_RMB_ProposeAsFeederRandomPrey>提议喂养吃人到{0}(随机猎物)</RV2_RMB_ProposeAsFeederRandomPrey>
+  <!--EN: Propose feeding vore to {0} (targeted prey)-->
+  <RV2_RMB_ProposeAsFeederTargetPrey>提议喂养吃人到{0}(猎物目标)</RV2_RMB_ProposeAsFeederTargetPrey>
+  <!--EN: Propose as predator to {0}-->
+  <RV2_RMB_ProposeAsPredator>被提议为捕食者{0}</RV2_RMB_ProposeAsPredator>
+  <!--EN: Propose as prey to {0}-->
+  <RV2_RMB_ProposeAsPrey>被提议为猎物{0}</RV2_RMB_ProposeAsPrey>
+  <!--EN: Random-->
+  <RV2_RMB_Random>随机</RV2_RMB_Random>
+  <!--EN: Random Preferred-->
+  <RV2_RMB_RandomPreferred>喜好随机</RV2_RMB_RandomPreferred>
+  <!--EN: Vore - {0}-->
+  <RV2_RMB_VoreTarget>voreX{0}</RV2_RMB_VoreTarget>
 </LanguageData>

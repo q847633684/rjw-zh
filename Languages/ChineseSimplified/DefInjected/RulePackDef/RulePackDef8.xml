@@ -1,35 +1,61 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <VSIE_Teaching_Sex.rulePack.rulesStrings>
-    <!--EN: r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [SexTopic].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][SexTopic]了。</li>
-    <!--EN: r_logentry->[INITIATOR_nameDef] [talkedabout] [SexTopic] with [RECIPIENT_nameDef].-->
-    <li>r_logentry-&gt;[INITIATOR_nameDef]和[RECIPIENT_nameDef]讨论了[SexTopic]。</li>
-    <!--EN: r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [SexTopic] to [RECIPIENT_nameDef].-->
-    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef]对[RECIPIENT_nameDef][commentedabout]了[SexTopic]。</li>
-    <!--EN: talkedabout(p=4)->chatted about-->
-    <li>talkedabout(p=4)-&gt;聊了聊</li>
-    <!--EN: talkedabout->shared a word about-->
-    <li>talkedabout-&gt;谈了谈</li>
-    <!--EN: talkedabout->spoke about-->
-    <li>talkedabout-&gt;说了</li>
-    <!--EN: talkedabout->gabbed about-->
-    <li>talkedabout-&gt;聊了</li>
-    <!--EN: talkedabout->talked about-->
-    <li>talkedabout-&gt;讨论了</li>
-    <!--EN: talkedabout->joked about-->
-    <li>talkedabout-&gt;开了个玩笑</li>
-    <!--EN: talkedabout->quipped about-->
-    <li>talkedabout-&gt;提到了</li>
-    <!--EN: commentedabout->said something about-->
-    <li>commentedabout-&gt;评论了</li>
-    <!--EN: commentedabout->said a word about-->
-    <li>commentedabout-&gt;说了些关于</li>
-    <!--EN: commentedabout->made a comment about-->
-    <li>commentedabout-&gt;发表了关于</li>
-    <!--EN: commentedabout->commented about-->
-    <li>commentedabout-&gt;说了</li>
-    <!--EN: commentedabout->told a joke about-->
-    <li>commentedabout-&gt;讲了个笑话关于</li>
-  </VSIE_Teaching_Sex.rulePack.rulesStrings>
+  <RV2_NamerRoleAlphaPredator.rulePack.rulesStrings>
+    <!--EN: r_roleName(p=4)->[memePredation]-->
+    <li>r_roleName(p=4)-&gt;[memePredation]</li>
+    <!--EN: r_roleName(p=2)->[memeAdjective] [memePredation]-->
+    <li>r_roleName(p=2)-&gt;[memeAdjective][memePredation]</li>
+    <!--EN: r_roleName->[memePredation] of [chosenTheme]-->
+    <li>r_roleName-&gt;[memePredation]来自[chosenTheme]</li>
+    <!--EN: r_roleName->[memePredation] of [keyDeity]-->
+    <li>r_roleName-&gt;[memePredation]来自[keyDeity]</li>
+    <!--EN: r_roleName->[memePredation] of [memeConcept]-->
+    <li>r_roleName-&gt;[memePredation]来自[memeConcept]</li>
+    <!--EN: r_roleName->[memePredation] of [chosenIdeoName]-->
+    <li>r_roleName-&gt;[memePredation]来自[chosenIdeoName]</li>
+    <!--EN: r_roleName->[chosenAdjective] [memePredation]-->
+    <li>r_roleName-&gt;[chosenAdjective] [memePredation]</li>
+    <!--EN: r_roleName->[keyDeity]'s [memePredation]-->
+    <li>r_roleName-&gt;[keyDeity]的[memePredation]</li>
+  </RV2_NamerRoleAlphaPredator.rulePack.rulesStrings>
+  <RV2_NamerRoleChosenPrey.rulePack.rulesStrings>
+    <!--EN: r_roleName(p=4)->[memePreyism]-->
+    <li>r_roleName(p=4)-&gt;[memePreyism]</li>
+    <!--EN: r_roleName(p=2)->[memeAdjective] [memePreyism]-->
+    <li>r_roleName(p=2)-&gt;[memeAdjective][memePreyism]</li>
+    <!--EN: r_roleName->[memePreyism] of [chosenTheme]-->
+    <li>r_roleName-&gt;[memePreyism]来自[chosenTheme]</li>
+    <!--EN: r_roleName->[memePreyism] of [keyDeity]-->
+    <li>r_roleName-&gt;[memePreyism]来自[keyDeity]</li>
+    <!--EN: r_roleName->[memePreyism] of [memeConcept]-->
+    <li>r_roleName-&gt;[memePreyism]来自[memeConcept]</li>
+    <!--EN: r_roleName->[memePreyism] of [chosenIdeoName]-->
+    <li>r_roleName-&gt;[memePreyism]来自[chosenIdeoName]</li>
+    <!--EN: r_roleName->[chosenAdjective] [memePreyism]-->
+    <li>r_roleName-&gt;[chosenAdjective] [memePreyism]</li>
+    <!--EN: r_roleName->[keyDeity]'s [memePreyism]-->
+    <li>r_roleName-&gt;[keyDeity]的[memePreyism]</li>
+  </RV2_NamerRoleChosenPrey.rulePack.rulesStrings>
+  <RV2_NamerRoleFeeder.rulePack.rulesStrings>
+    <!--EN: r_feeder->Feeder-->
+    <li>r_feeder-&gt;饲养员</li>
+    <!--EN: r_feeder->Voremaster-->
+    <li>r_feeder-&gt;迷魂者</li>
+    <!--EN: r_roleName(p=4)->[r_feeder]-->
+    <li>r_roleName(p=4)-&gt;[r_feeder]</li>
+    <!--EN: r_roleName(p=2)->[memeAdjective] [r_feeder]-->
+    <li>r_roleName(p=2)-&gt;[memeAdjective][r_feeder]</li>
+    <!--EN: r_roleName->[r_feeder] of [chosenTheme]-->
+    <li>r_roleName-&gt;[r_feeder]来自[chosenTheme]</li>
+    <!--EN: r_roleName->[r_feeder] of [keyDeity]-->
+    <li>r_roleName-&gt;[r_feeder]来自[keyDeity]</li>
+    <!--EN: r_roleName->[r_feeder] of [memeConcept]-->
+    <li>r_roleName-&gt;[r_feeder]来自[memeConcept]</li>
+    <!--EN: r_roleName->[r_feeder] of [chosenIdeoName]-->
+    <li>r_roleName-&gt;[r_feeder]来自[chosenIdeoName]</li>
+    <!--EN: r_roleName->[chosenAdjective] [r_feeder]-->
+    <li>r_roleName-&gt;[chosenAdjective] [r_feeder]</li>
+    <!--EN: r_roleName->[keyDeity]'s [r_feeder]-->
+    <li>r_roleName-&gt;[keyDeity]的[r_feeder]</li>
+  </RV2_NamerRoleFeeder.rulePack.rulesStrings>
 </LanguageData>

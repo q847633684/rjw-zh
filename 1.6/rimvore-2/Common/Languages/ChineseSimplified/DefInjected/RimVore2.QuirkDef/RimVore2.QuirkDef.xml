@@ -285,29 +285,29 @@
   <!--EN: Lactifactive enzymes-->
   <Enablers_Core_Goal_ConvertMilk.label>液化酶</Enablers_Core_Goal_ConvertMilk.label>
   <!--EN: [PAWN_label] can melt live prey down to sperm in [PAWN_possessive] balls.-->
-  <Enablers_Core_Goal_ConvertSperm.description>[PAWN_label] can melt live prey down to &lt;ALIMT &gt;精子&lt;/ALIMT&gt; in [PAWN_possessive] balls.</Enablers_Core_Goal_ConvertSperm.description>
+  <Enablers_Core_Goal_ConvertSperm.description>[PAWN_label]能将活物炼化，在其睾丸中化为精液。</Enablers_Core_Goal_ConvertSperm.description>
   <!--EN: Spermifactive enzymes-->
-  <Enablers_Core_Goal_ConvertSperm.label>Spermifactive enzymes</Enablers_Core_Goal_ConvertSperm.label>
+  <Enablers_Core_Goal_ConvertSperm.label>生精酶</Enablers_Core_Goal_ConvertSperm.label>
   <!--EN: [PAWN_label] has potent enough digestive enzymes to reasonably digest live prey.-->
-  <Enablers_Core_Goal_Digest.description>[PAWN_label] has potent enough digestive enzymes to reasonably digest live prey.</Enablers_Core_Goal_Digest.description>
+  <Enablers_Core_Goal_Digest.description>[PAWN_label]拥有强效到足以消化活体猎物的消化酶。</Enablers_Core_Goal_Digest.description>
   <!--EN: Digestive enzymes-->
-  <Enablers_Core_Goal_Digest.label>Digestive enzymes</Enablers_Core_Goal_Digest.label>
+  <Enablers_Core_Goal_Digest.label>消化酶</Enablers_Core_Goal_Digest.label>
   <!--EN: [PAWN_label]'s internal organs can function as a sanitary, comfortable, and even medicinal substitute for conventional bedrest.-->
-  <Enablers_Core_Goal_Heal.description>[PAWN_label]&apos;s internal organs can function as a sanitary, comfortable, and even medicinal substitute for conventional bedrest.</Enablers_Core_Goal_Heal.description>
+  <Enablers_Core_Goal_Heal.description>[PAWN_label]的内脏功能齐全，卫生舒适，甚至可作为传统卧床休息的医疗替代品。</Enablers_Core_Goal_Heal.description>
   <!--EN: Analeptic enzymes-->
-  <Enablers_Core_Goal_Heal.label>Analeptic enzymes</Enablers_Core_Goal_Heal.label>
+  <Enablers_Core_Goal_Heal.label>强身酶</Enablers_Core_Goal_Heal.label>
   <!--EN: [PAWN_label] is sphinctrally strong and biochemically stable enough to hold onto prey indefinitely.-->
-  <Enablers_Core_Goal_Longendo.description>[PAWN_label]足够强，足以无限期地抓住猎物。</Enablers_Core_Goal_Longendo.description>
+  <Enablers_Core_Goal_Longendo.description>[PAWN_label]的括约肌力量强劲，且生化状态稳定，足以无限期地困住猎物。</Enablers_Core_Goal_Longendo.description>
   <!--EN: Long-term endo-->
-  <Enablers_Core_Goal_Longendo.label>长期治疗</Enablers_Core_Goal_Longendo.label>
+  <Enablers_Core_Goal_Longendo.label>长期体内治疗</Enablers_Core_Goal_Longendo.label>
   <!--EN: [PAWN_label] is able to remake a pawn in their own image.-->
-  <Enablers_Core_Goal_Reform.description>[PAWN_label] is able to remake a pawn in their own image.</Enablers_Core_Goal_Reform.description>
+  <Enablers_Core_Goal_Reform.description>[PAWN_label]能够按照自身的形象改造另一个角色。</Enablers_Core_Goal_Reform.description>
   <!--EN: Reforming enzymes-->
-  <Enablers_Core_Goal_Reform.label>Reforming enzymes</Enablers_Core_Goal_Reform.label>
+  <Enablers_Core_Goal_Reform.label>重塑酶</Enablers_Core_Goal_Reform.label>
   <!--EN: [PAWN_label] is nice and hospitable enough inside that [PAWN_possessive] innards can be used for comfort, leisure, and sexual pleasure, thanks to numerous quality of life improvements such as sanitization and passive airflow induction.-->
-  <Enablers_Core_Goal_TempEndo.description>[PAWN_label] is nice and hospitable enough inside that [PAWN_possessive] innards can be used for comfort, leisure, and &lt;ALIMT &gt;性的&lt;/ALIMT&gt; pleasure, thanks to numerous quality of life improvements such as sanitization and passive airflow induction.</Enablers_Core_Goal_TempEndo.description>
+  <Enablers_Core_Goal_TempEndo.description>[PAWN_label]的身体内部舒适宜居，[PAWN_possessive]的内脏可用于提供舒适、休闲及&lt;ALIMT &gt;性&lt;/ALIMT&gt;愉悦。这得益于多项生活品质的提升，例如清洁环境和被动气流导入。</Enablers_Core_Goal_TempEndo.description>
   <!--EN: Short-term endo-->
-  <Enablers_Core_Goal_TempEndo.label>Short-term endo</Enablers_Core_Goal_TempEndo.label>
+  <Enablers_Core_Goal_TempEndo.label>短期体内治疗</Enablers_Core_Goal_TempEndo.label>
   <!--EN: [PAWN_label] has a pucker and guts stretchy enough to posternate up live prey.-->
   <Enablers_Core_Type_Anal.description>[PAWN_label]拥有足够的韧性和勇气，可以将活着的猎物捕获。</Enablers_Core_Type_Anal.description>
   <!--EN: Anal elasticity-->

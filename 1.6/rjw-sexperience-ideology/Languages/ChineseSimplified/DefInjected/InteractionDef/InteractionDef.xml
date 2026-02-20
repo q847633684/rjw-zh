@@ -41,7 +41,7 @@
     <li>zooact-&gt;将 [INITIATOR_possessive] 生殖器呈现给</li>
   </AnimalSexTameChatFemale.logRulesInitiator.rulesStrings>
   <!--EN: male animal sex chat-->
-  <AnimalSexTameChatMale.label>male animal sex chat</AnimalSexTameChatMale.label>
+  <AnimalSexTameChatMale.label>雄性动物交配讨论</AnimalSexTameChatMale.label>
   <AnimalSexTameChatMale.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry->[INITIATOR_nameDef] [zooact] [RECIPIENT_nameDef].-->
     <li>r_logentry-&gt;[INITIATOR_nameDef] [zooact] [RECIPIENT_nameDef].</li>

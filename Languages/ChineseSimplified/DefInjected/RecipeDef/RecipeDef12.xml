@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Euthanize a creature by cutting.-->
-  <Euthanize.description>通过切割对生物实施安乐死。</Euthanize.description>
-  <!--EN: Euthanizing by cutting.-->
-  <Euthanize.jobString>正在通过切割实施安乐死。</Euthanize.jobString>
-  <!--EN: euthanize by cut-->
-  <Euthanize.label>安乐死（切割）</Euthanize.label>
-  <!--EN: Remove a body part.-->
-  <RemoveBodyPart.description>移除一个身体部位。</RemoveBodyPart.description>
-  <!--EN: Removing body part.-->
-  <RemoveBodyPart.jobString>正在移除身体部位。</RemoveBodyPart.jobString>
-  <!--EN: remove part-->
-  <RemoveBodyPart.label>移除部位</RemoveBodyPart.label>
+  <!--EN: Make samenstein with some semen.-->
+  <Make_Samenstein.description>用一些精液制作萨门斯坦。</Make_Samenstein.description>
+  <!--EN: Making samenstein.-->
+  <Make_Samenstein.jobString>一起制作。</Make_Samenstein.jobString>
+  <!--EN: make samenstein-->
+  <Make_Samenstein.label>制作共聚斯坦</Make_Samenstein.label>
+  <!--EN: Make spermatuch with some semen.-->
+  <Make_Spermatuch.description>用一些精液制作精子。</Make_Spermatuch.description>
+  <!--EN: Making spermatuch.-->
+  <Make_Spermatuch.jobString>制作精子。</Make_Spermatuch.jobString>
+  <!--EN: make spermatuch-->
+  <Make_Spermatuch.label>做精子</Make_Spermatuch.label>
 </LanguageData>

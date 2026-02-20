@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Gain sacred fervor from performing holy duties to prostitute or repopulate.\n\nClick to convert to development points.-->
-  <CB_Prostitution_FervorTracker.description>通过履行神圣的卖淫或再繁衍职责获得神圣狂热。\n\n点击可转换为发展点数。</CB_Prostitution_FervorTracker.description>
-  <!--EN: Fervor-->
-  <CB_Prostitution_FervorTracker.label>狂热</CB_Prostitution_FervorTracker.label>
-  <!--EN: Line up your whores.-->
-  <CB_Prostitution_Present_Abbility.description>让你的妓女排成一排。</CB_Prostitution_Present_Abbility.description>
-  <!--EN: present whores-->
-  <CB_Prostitution_Present_Abbility.label>展示妓女</CB_Prostitution_Present_Abbility.label>
+  <!--EN: Learn genes to be used for gene tampering.-->
+  <CB_AddGene.description>学习基因以供基因篡改使用。</CB_AddGene.description>
+  <!--EN: learn gene-->
+  <CB_AddGene.label>学习基因</CB_AddGene.label>
+  <!--EN: Spend fervor to tamper with the genes of the target or their unborn.-->
+  <CB_GeneTampering.description>将尝试篡改目标或其未出生后代的基因。</CB_GeneTampering.description>
+  <!--EN: gene tampering-->
+  <CB_GeneTampering.label>基因篡改</CB_GeneTampering.label>
+  <!--EN: Even if not born to one of them, perhaps they would take one of ours with them.-->
+  <CB_OfferPawn.description>即使不是他们所生，也许他们会带着我们的一员离开。</CB_OfferPawn.description>
+  <!--EN: Offer pawn-->
+  <CB_OfferPawn.label>提供角色</CB_OfferPawn.label>
 </LanguageData>

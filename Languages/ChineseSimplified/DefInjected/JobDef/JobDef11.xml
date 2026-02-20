@@ -1,21 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: masturbatin'.-->
-  <DrugMasturbate.reportString>自慰。</DrugMasturbate.reportString>
-  <!--EN: lovin'.-->
-  <DrugSex.reportString>爱爱。</DrugSex.reportString>
-  <!--EN: lovin'.-->
-  <Gangbang.reportString>爱爱。</Gangbang.reportString>
-  <!--EN: lovin'.-->
-  <GettinDrugSex.reportString>爱爱。</GettinDrugSex.reportString>
-  <!--EN: gettin' gangbanged.-->
-  <GettinGangbang.reportString>被群交。</GettinGangbang.reportString>
-  <!--EN: rapin' victim-->
-  <RapeVictim.reportString>强奸受害者</RapeVictim.reportString>
-  <!--EN: Sexually taming TargetA.-->
-  <TameLewd_Lovin.reportString>正在用性爱驯服TargetA。</TameLewd_Lovin.reportString>
-  <!--EN: Sexually training TargetA.-->
-  <TrainLewd_Lovin.reportString>正在用性爱训练TargetA。</TrainLewd_Lovin.reportString>
-  <!--EN: Being sexually conditioned by TargetA.-->
-  <TrainLewd_Reciever.reportString>正在被TargetA用性爱调教。</TrainLewd_Reciever.reportString>
+  <!--EN: Forcing to eject prey-->
+  <RV2_EjectPreyForce.reportString>强制弹出猎物</RV2_EjectPreyForce.reportString>
+  <!--EN: Ejecting prey-->
+  <RV2_EjectPreySelf.reportString>弹出猎物</RV2_EjectPreySelf.reportString>
+  <!--EN: Vore-hunting prey-->
+  <RV2_HuntVorePrey.reportString>吃人-狩猎猎物</RV2_HuntVorePrey.reportString>
+  <!--EN: Vore-kidnapping prey-->
+  <RV2_KidnapVorePrey.reportString>吃人-绑架猎物</RV2_KidnapVorePrey.reportString>
+  <!--EN: Proposing vore-->
+  <RV2_ProposeVore.reportString>求婚中吃人</RV2_ProposeVore.reportString>
+  <!--EN: Proposing feeder vore-->
+  <RV2_ProposeVore_Feeder.reportString>求婚吃人</RV2_ProposeVore_Feeder.reportString>
+  <!--EN: Releasing prey-->
+  <RV2_ReleasePrey.reportString>释放猎物</RV2_ReleasePrey.reportString>
+  <!--EN: Grappling target-->
+  <RV2_VoreGrapple.reportString>格斗目标</RV2_VoreGrapple.reportString>
+  <!--EN: Feeding predator-->
+  <RV2_VoreInitAsFeeder.reportString>捕食动物</RV2_VoreInitAsFeeder.reportString>
+  <!--EN: Voring victim-->
+  <RV2_VoreInitAsPredator.reportString>收留受害者</RV2_VoreInitAsPredator.reportString>
+  <!--EN: Getting vored-->
+  <RV2_VoreInitAsPrey.reportString>被伏击</RV2_VoreInitAsPrey.reportString>
 </LanguageData>

@@ -1,35 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Unfertilized eggs with this gene last twice as long.-->
-  <Menstruation_DoubleEggLifetime.description>携带此基因的未受精卵子寿命延长一倍。</Menstruation_DoubleEggLifetime.description>
-  <!--EN: double egg lifetime-->
-  <Menstruation_DoubleEggLifetime.label>双倍卵子寿命</Menstruation_DoubleEggLifetime.label>
-  <!--EN: Carriers of this gene will ovulate twice as many eggs.-->
-  <Menstruation_DoubleOvulation.description>此基因携带者每次排卵数量翻倍。</Menstruation_DoubleOvulation.description>
-  <!--EN: double ovulation-->
-  <Menstruation_DoubleOvulation.label>双倍排卵</Menstruation_DoubleOvulation.label>
-  <!--EN: Carriers of this gene will enter full estrus every menstrual cycle, regardless of vagina type.-->
-  <Menstruation_FullEstrus.description>此基因携带者每个月经周期都会进入完全发情期，与阴道类型无关。</Menstruation_FullEstrus.description>
-  <!--EN: full estrus-->
-  <Menstruation_FullEstrus.label>完全发情期</Menstruation_FullEstrus.label>
-  <!--EN: Carriers of this gene will never go into estrus.-->
-  <Menstruation_NeverEstrus.description>此基因携带者永远不会进入发情期。</Menstruation_NeverEstrus.description>
-  <!--EN: never estrus-->
-  <Menstruation_NeverEstrus.label>永不发情</Menstruation_NeverEstrus.label>
-  <!--EN: Carriers of this gene will not bleed at the end of their cycle.-->
-  <Menstruation_NoBleeding.description>此基因携带者在周期结束时不会出血。</Menstruation_NoBleeding.description>
-  <!--EN: no bleeding-->
-  <Menstruation_NoBleeding.label>无经血</Menstruation_NoBleeding.label>
-  <!--EN: Eggs with this gene last four times as long.-->
-  <Menstruation_QuadEggLifetime.description>携带此基因的卵子寿命延长至四倍。</Menstruation_QuadEggLifetime.description>
-  <!--EN: quadrule egg lifetime-->
-  <Menstruation_QuadEggLifetime.label>四倍卵子寿命</Menstruation_QuadEggLifetime.label>
-  <!--EN: Carriers of this gene will ovulate four times as many eggs.-->
-  <Menstruation_QuadOvulation.description>此基因携带者每次排卵数量增至四倍。</Menstruation_QuadOvulation.description>
-  <!--EN: quadruple ovulation-->
-  <Menstruation_QuadOvulation.label>四倍排卵</Menstruation_QuadOvulation.label>
-  <!--EN: Unfertilized eggs with this gene last three-quarters as long.-->
-  <Menstruation_ShortEggLifetime.description>携带此基因的未受精卵子寿命缩短为四分之三。</Menstruation_ShortEggLifetime.description>
-  <!--EN: short egg lifetime-->
-  <Menstruation_ShortEggLifetime.label>缩短的卵子寿命</Menstruation_ShortEggLifetime.label>
+  <!--EN: This pawn's body is capable of absorbing prey, both permanently (assimilation) and temporarily (amalgamation).-->
+  <RV2_GoalEnabler_Absorb.description>这种特殊的纳米机械可以使细胞通过某些预绑定的入口通道吸收。</RV2_GoalEnabler_Absorb.description>
+  <!--EN: Cellular xenoconvertibility-->
+  <RV2_GoalEnabler_Absorb.label>异种人细胞转发器</RV2_GoalEnabler_Absorb.label>
+  <!--EN: This pawn has heavily-modified cleavage for cleavage vore.-->
+  <RV2_GoalEnabler_Cleavage.description>此角色拥有经过大幅改造的乳沟，用于乳沟吞食。</RV2_GoalEnabler_Cleavage.description>
+  <!--EN: Cleavage depth-->
+  <RV2_GoalEnabler_Cleavage.label>乳沟深度</RV2_GoalEnabler_Cleavage.label>
+  <!--EN: This pawn's genitals and breasts can produce an enzyme which distills living tissues into chemfuel.-->
+  <RV2_GoalEnabler_ConvertChemfuel.description>一种特殊的纳米机械，可以在不同的器官中分泌转化酶，并将猎物提炼成化合燃料。</RV2_GoalEnabler_ConvertChemfuel.description>
+  <!--EN: Olifactory enzymes-->
+  <RV2_GoalEnabler_ConvertChemfuel.label>产物酶</RV2_GoalEnabler_ConvertChemfuel.label>
+  <!--EN: This pawn's ovaries can produce an enzyme which converts living tissues into eggs.-->
+  <RV2_GoalEnabler_ConvertEggs.description>一种特殊的纳米机械，可以在卵巢中分泌转化酶，并将猎物提炼成卵。</RV2_GoalEnabler_ConvertEggs.description>
+  <!--EN: Ovifactory enzymes-->
+  <RV2_GoalEnabler_ConvertEggs.label>产卵酶</RV2_GoalEnabler_ConvertEggs.label>
+  <!--EN: This pawn's organ lining can produce an enzyme which converts living tissues into urine.-->
+  <RV2_GoalEnabler_ConvertUrine.description>一种特殊的纳米机械，可在肾脏中分泌转化酶，并将其提炼成肥料级尿。</RV2_GoalEnabler_ConvertUrine.description>
+  <!--EN: Urifactory enzymes-->
+  <RV2_GoalEnabler_ConvertUrine.label>化学酶播种机</RV2_GoalEnabler_ConvertUrine.label>
+  <!--EN: This pawn has a permeable membrane for skin, allowing them to engulf prey, like a slime, for membrane vore.-->
+  <RV2_TypeEnabler_Membrane.description>特殊的纳米机械pawn的皮肤和血肉 (或类似的外膜和血浆) 允许史莱姆-吞噬 (膜吃人) 通过可渗透的外膜。</RV2_TypeEnabler_Membrane.description>
+  <!--EN: Dermal porocity-->
+  <RV2_TypeEnabler_Membrane.label>皮肤污染</RV2_TypeEnabler_Membrane.label>
+  <!--EN: This pawn has an elastic and untied navel for navel vore.-->
+  <RV2_TypeEnabler_Navel.description>一种特殊的纳米机械，可以使pawn的肚脐同时起囊和通往胃的作用，赋予肚脐同样的力量吃人</RV2_TypeEnabler_Navel.description>
+  <!--EN: Umbilical elasticity-->
+  <RV2_TypeEnabler_Navel.label>肚脐护甲</RV2_TypeEnabler_Navel.label>
+  <!--EN: This tail has a petal-like maw at the tip, which is capable of swallowing prey down to the stomach.-->
+  <RV2_TypeEnabler_Tailmaw.description>重塑机械体的特殊纳米机械pawn的一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。爆裂成花瓣状的母树，能够将猎物吞下一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。通向一个胃。</RV2_TypeEnabler_Tailmaw.description>
+  <!--EN: Tailmaw-->
+  <RV2_TypeEnabler_Tailmaw.label>尾尾日圆</RV2_TypeEnabler_Tailmaw.label>
+  <!--EN: This pawn has an elastic udder and teats, for udder vore.-->
+  <RV2_TypeEnabler_Udder.description>一种特殊的纳米机械，可以使乳房和奶头的组织得到弹性，使其拥有乳房的力量。吃人</RV2_TypeEnabler_Udder.description>
+  <!--EN: Uberal elasticity-->
+  <RV2_TypeEnabler_Udder.label>旺盛的弹力器</RV2_TypeEnabler_Udder.label>
 </LanguageData>

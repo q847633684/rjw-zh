@@ -1,319 +1,1613 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: How dare...-->
-  <BeenRaped_NotSubmissive.stages.0.description>怎么敢…</BeenRaped_NotSubmissive.stages.0.description>
-  <!--EN: {0} raped me-->
-  <BeenRaped_NotSubmissive.stages.0.label>{0}强奸了我</BeenRaped_NotSubmissive.stages.0.label>
-  <!--EN: I had to accept. But I don't feel so good.-->
-  <BeenRaped_Submissive.stages.0.description>我理应接受。但这不是很舒服。</BeenRaped_Submissive.stages.0.description>
-  <!--EN: had been raped-->
-  <BeenRaped_Submissive.stages.0.label>被强奸</BeenRaped_Submissive.stages.0.label>
-  <!--EN: I've impregnated an animal. It feels wrong, but there was some pleasure in it.-->
-  <BestialBreeding_Disliked.stages.0.description>我让一只动物怀了孕。感觉不太对，但其中也有些快感。</BestialBreeding_Disliked.stages.0.description>
-  <!--EN: impregnated an animal-->
-  <BestialBreeding_Disliked.stages.0.label>使动物受孕</BestialBreeding_Disliked.stages.0.label>
-  <!--EN: impregnated an animal-->
-  <BestialBreeding_Disliked_Social.stages.0.label>使动物受孕</BestialBreeding_Disliked_Social.stages.0.label>
-  <!--EN: I've impregnated an animal. This feels disgusting...-->
-  <BestialBreeding_Horrible.stages.0.description>我让一只动物怀了孕。这感觉真恶心……</BestialBreeding_Horrible.stages.0.description>
-  <!--EN: impregnated an animal-->
-  <BestialBreeding_Horrible.stages.0.label>使动物受孕</BestialBreeding_Horrible.stages.0.label>
-  <!--EN: impregnated an animal-->
-  <BestialBreeding_Horrible_Social.stages.0.label>使动物受孕</BestialBreeding_Horrible_Social.stages.0.label>
-  <!--EN: I've impregnated an animal. It felt good, and it will help with the animal population.-->
-  <BestialBreeding_Liked.stages.0.description>我让一只动物怀了孕。感觉很好，而且这有助于增加动物数量。</BestialBreeding_Liked.stages.0.description>
-  <!--EN: impregnated an animal-->
-  <BestialBreeding_Liked.stages.0.label>使动物受孕</BestialBreeding_Liked.stages.0.label>
-  <!--EN: impregnated an animal-->
-  <BestialBreeding_Liked_Social.stages.0.label>使动物受孕</BestialBreeding_Liked_Social.stages.0.label>
-  <!--EN: I've impregnated an animal. This ensures the colony's survival and strengthens its genetic potential. The pleasure I feel is secondary to our future.-->
-  <BestialBreeding_Respected.stages.0.description>我让一只动物怀了孕。这确保了殖民地的生存并增强了其基因潜力。我所感受到的快感远不及我们的未来重要。</BestialBreeding_Respected.stages.0.description>
-  <!--EN: impregnated an animal-->
-  <BestialBreeding_Respected.stages.0.label>使动物受孕</BestialBreeding_Respected.stages.0.label>
-  <!--EN: impregnated an animal-->
-  <BestialBreeding_Respected_Social.stages.0.label>使动物受孕</BestialBreeding_Respected_Social.stages.0.label>
-  <!--EN: I had sex with animal. I want to die.-->
-  <Bestiality_Abhorrent.stages.0.description>我和动物做爱。 杀了我吧。</Bestiality_Abhorrent.stages.0.description>
-  <!--EN: sex with animal-->
-  <Bestiality_Abhorrent.stages.0.label>和动物做爱</Bestiality_Abhorrent.stages.0.label>
-  <!--EN: I went wild with my bonded animal!-->
-  <Bestiality_Bond_Approved.stages.0.description>我和我的牵绊做了爱！</Bestiality_Bond_Approved.stages.0.description>
-  <!--EN: sex with bonded animal-->
-  <Bestiality_Bond_Approved.stages.0.label>和牵绊动物做爱</Bestiality_Bond_Approved.stages.0.label>
-  <!--EN: Shares a special bond.-->
-  <Bestiality_Bond_Approved_Know.stages.0.description>共享一种特殊的纽带。</Bestiality_Bond_Approved_Know.stages.0.description>
-  <!--EN: sex with bonded animal-->
-  <Bestiality_Bond_Approved_Know.stages.0.label>和牵绊动物做爱</Bestiality_Bond_Approved_Know.stages.0.label>
-  <!--EN: I had sex with an animal. I hope nothing terrible happens to them.-->
-  <Bestiality_Disapproved.stages.0.description>我和动物做爱。 我希望牠们不要太难受。</Bestiality_Disapproved.stages.0.description>
-  <!--EN: sex with animal-->
-  <Bestiality_Disapproved.stages.0.label>和动物做爱</Bestiality_Disapproved.stages.0.label>
-  <!--EN: I had sex with an animal.-->
-  <Bestiality_Honorable.stages.0.description>我和动物做爱。</Bestiality_Honorable.stages.0.description>
-  <!--EN: sex with animal-->
-  <Bestiality_Honorable.stages.0.label>和动物做爱</Bestiality_Honorable.stages.0.label>
-  <!--EN: I had sex with animal. I'm not sure I can forgive myself.-->
-  <Bestiality_Horrible.stages.0.description>我和动物做爱。 我不知道能否原谅自己。</Bestiality_Horrible.stages.0.description>
-  <!--EN: sex with animal-->
-  <Bestiality_Horrible.stages.0.label>和动物做爱</Bestiality_Horrible.stages.0.label>
-  <!--EN: sex with animal-->
-  <Bestiality_Know_Abhorrent.stages.0.label>和动物做爱</Bestiality_Know_Abhorrent.stages.0.label>
-  <!--EN: sex with animal-->
-  <Bestiality_Know_Disapproved.stages.0.label>和动物做爱</Bestiality_Know_Disapproved.stages.0.label>
-  <!--EN: sex with animal-->
-  <Bestiality_Know_Honorable.stages.0.label>和动物做爱</Bestiality_Know_Honorable.stages.0.label>
-  <!--EN: sex with animal-->
-  <Bestiality_Know_Horrible.stages.0.label>和动物做爱</Bestiality_Know_Horrible.stages.0.label>
-  <!--EN: I had sex with a non bonded animal. How could I?-->
-  <Bestiality_NonBonded_Disapproved.stages.0.description>我随便日了一个动物。我怎么能这么做？</Bestiality_NonBonded_Disapproved.stages.0.description>
-  <!--EN: sex with non-bonded animal-->
-  <Bestiality_NonBonded_Disapproved.stages.0.label>和非牵绊动物做爱</Bestiality_NonBonded_Disapproved.stages.0.label>
-  <!--EN: Had sex with a non bonded animal.-->
-  <Bestiality_NonBonded_Know_Disapproved.stages.0.label>和非牵绊动物做了爱</Bestiality_NonBonded_Know_Disapproved.stages.0.label>
-  <!--EN: I had sex with a non-venerated animal. I hope nothing terrible happens to them.-->
-  <Bestiality_Nonvenerated_Disapproved.stages.0.description>我随便日了一个动物。 我希望牠们不要太难受。</Bestiality_Nonvenerated_Disapproved.stages.0.description>
-  <!--EN: sex with non-venerated animal-->
-  <Bestiality_Nonvenerated_Disapproved.stages.0.label>和圣兽以外的动物做爱</Bestiality_Nonvenerated_Disapproved.stages.0.label>
-  <!--EN: sex with any animal-->
-  <Bestiality_Nonvenerated_Know_Disapproved.stages.0.label>和圣兽以外的动物做了爱</Bestiality_Nonvenerated_Know_Disapproved.stages.0.label>
-  <!--EN: That gangbang was not good. Wish I never went.-->
-  <BoringGangbang.stages.0.description>那次轮奸一点都不好。我真希望我没去。</BoringGangbang.stages.0.description>
-  <!--EN: boring gangbang-->
-  <BoringGangbang.stages.0.label>无聊的轮奸</BoringGangbang.stages.0.label>
-  <!--EN: That orgy was not good. Wish I never went.-->
-  <BoringOrgy.stages.0.description>那次药趴一点都不好。我真希望我没去。</BoringOrgy.stages.0.description>
-  <!--EN: boring orgy-->
-  <BoringOrgy.stages.0.label>无聊的药趴</BoringOrgy.stages.0.label>
-  <!--EN: That was a fun gangbang. It really satisfied me.-->
-  <FunGangbang.stages.0.description>那次轮奸很有趣。它真的让我很满足。</FunGangbang.stages.0.description>
-  <!--EN: fun gangbang-->
-  <FunGangbang.stages.0.label>有趣的轮奸</FunGangbang.stages.0.label>
-  <!--EN: That was a fun orgy. It really satisfied me.-->
-  <FunOrgy.stages.0.description>那次药趴很有趣。它真的让我很满足。</FunOrgy.stages.0.description>
-  <!--EN: fun orgy-->
-  <FunOrgy.stages.0.label>有趣的药趴</FunOrgy.stages.0.label>
-  <!--EN: I have to be okay with the way I am, I know no one else is.-->
-  <GenitalSize_Approved.stages.0.description>我……我现在这样也很好！</GenitalSize_Approved.stages.0.description>
-  <!--EN: Despised Genitalsize-->
-  <GenitalSize_Approved.stages.0.label>令人蔑视的生殖器</GenitalSize_Approved.stages.0.label>
-  <!--EN: I think I am below average.-->
-  <GenitalSize_Approved.stages.1.description>我觉得有点小了。</GenitalSize_Approved.stages.1.description>
-  <!--EN: Unwanted Genitalsize-->
-  <GenitalSize_Approved.stages.1.label>令人失望的生殖器</GenitalSize_Approved.stages.1.label>
-  <!--EN: I guess I am the average.-->
-  <GenitalSize_Approved.stages.2.description>我觉得这样就是平均水平了。</GenitalSize_Approved.stages.2.description>
-  <!--EN: Normal Genitals-->
-  <GenitalSize_Approved.stages.2.label>平均水平的生殖器</GenitalSize_Approved.stages.2.label>
-  <!--EN: I think I am above average.-->
-  <GenitalSize_Approved.stages.3.description>我觉得还挺大的。</GenitalSize_Approved.stages.3.description>
-  <!--EN: Appreciated Genitals-->
-  <GenitalSize_Approved.stages.3.label>令人赞叹的生殖器</GenitalSize_Approved.stages.3.label>
-  <!--EN: My genitals are the ideal size and health, I am the perfect example.-->
-  <GenitalSize_Approved.stages.4.description>我不想成为房间里的大象，但我的一部分已经是了。</GenitalSize_Approved.stages.4.description>
-  <!--EN: Venerated Genitals-->
-  <GenitalSize_Approved.stages.4.label>令人震撼的生殖器</GenitalSize_Approved.stages.4.label>
-  <!--EN: Unwanted Genitals-->
-  <GenitalSize_Approved_Social.stages.0.label>令人失望的生殖器</GenitalSize_Approved_Social.stages.0.label>
-  <!--EN: Normal Genitals-->
-  <GenitalSize_Approved_Social.stages.1.label>平均水平的生殖器</GenitalSize_Approved_Social.stages.1.label>
-  <!--EN: Favorable Genitals-->
-  <GenitalSize_Approved_Social.stages.2.label>令人喜欢的生殖器</GenitalSize_Approved_Social.stages.2.label>
-  <!--EN: I do not need great genitals, as I am a being of supreme intellect and grace.-->
-  <GenitalSize_Disapproved.stages.0.description>我不需要过大的生殖器，因为这正是我无上智慧和优雅的象征。</GenitalSize_Disapproved.stages.0.description>
-  <!--EN: Venerated Genitals-->
-  <GenitalSize_Disapproved.stages.0.label>令人震撼的生殖器</GenitalSize_Disapproved.stages.0.label>
-  <!--EN: I think I am below average.-->
-  <GenitalSize_Disapproved.stages.1.description>我觉得还挺小的。</GenitalSize_Disapproved.stages.1.description>
-  <!--EN: Appreciated Genitals-->
-  <GenitalSize_Disapproved.stages.1.label>令人赞叹的生殖器</GenitalSize_Disapproved.stages.1.label>
-  <!--EN: I guess I am the average.-->
-  <GenitalSize_Disapproved.stages.2.description>我觉得这样就是平均水平了。</GenitalSize_Disapproved.stages.2.description>
-  <!--EN: Normal Genitals-->
-  <GenitalSize_Disapproved.stages.2.label>平均水平的生殖器</GenitalSize_Disapproved.stages.2.label>
-  <!--EN: I think I am above average.-->
-  <GenitalSize_Disapproved.stages.3.description>我觉得有点大了。</GenitalSize_Disapproved.stages.3.description>
-  <!--EN: Unwanted Genitals-->
-  <GenitalSize_Disapproved.stages.3.label>令人失望的生殖器</GenitalSize_Disapproved.stages.3.label>
-  <!--EN: I am closer to an animal, than to a human. Why did I have to be born this way?-->
-  <GenitalSize_Disapproved.stages.4.description>相比人类，我更像动物了。我为什么长成了这种样子？</GenitalSize_Disapproved.stages.4.description>
-  <!--EN: Despised Genitals-->
-  <GenitalSize_Disapproved.stages.4.label>令人蔑视的生殖器</GenitalSize_Disapproved.stages.4.label>
-  <!--EN: Favorable Genitals-->
-  <GenitalSize_Disapproved_Social.stages.0.label>令人喜欢的生殖器</GenitalSize_Disapproved_Social.stages.0.label>
-  <!--EN: Normal Genitals-->
-  <GenitalSize_Disapproved_Social.stages.1.label>平均水平的生殖器</GenitalSize_Disapproved_Social.stages.1.label>
-  <!--EN: Unwanted Genitals-->
-  <GenitalSize_Disapproved_Social.stages.2.label>令人失望的生殖器</GenitalSize_Disapproved_Social.stages.2.label>
-  <!--EN: They are speaking behind our backs.-->
-  <IncestuosMarriage_Disapproved.stages.0.description>他们在戳我们的脊梁骨。</IncestuosMarriage_Disapproved.stages.0.description>
-  <!--EN: being gossip-->
-  <IncestuosMarriage_Disapproved.stages.0.label>被人在背后指指点点</IncestuosMarriage_Disapproved.stages.0.label>
-  <!--EN: No one blessed our marriage.-->
-  <IncestuosMarriage_Forbidden.stages.0.description>没人会祝福我们的婚事……</IncestuosMarriage_Forbidden.stages.0.description>
-  <!--EN: social condemnation-->
-  <IncestuosMarriage_Forbidden.stages.0.label>被社会排除在外</IncestuosMarriage_Forbidden.stages.0.label>
-  <!--EN: I have fucked a corpse.-->
-  <Necrophilia_Abhorrent.stages.0.description>我干过尸体。</Necrophilia_Abhorrent.stages.0.description>
-  <!--EN: fucked corpse-->
-  <Necrophilia_Abhorrent.stages.0.label>奸尸</Necrophilia_Abhorrent.stages.0.label>
-  <!--EN: I have fucked a corpse.-->
-  <Necrophilia_Approved.stages.0.description>我干过尸体。</Necrophilia_Approved.stages.0.description>
-  <!--EN: fucked corpse-->
-  <Necrophilia_Approved.stages.0.label>奸尸</Necrophilia_Approved.stages.0.label>
-  <!--EN: I have fucked a corpse.-->
-  <Necrophilia_Disapproved.stages.0.description>我干过尸体。</Necrophilia_Disapproved.stages.0.description>
-  <!--EN: fucked corpse-->
-  <Necrophilia_Disapproved.stages.0.label>奸尸</Necrophilia_Disapproved.stages.0.label>
-  <!--EN: I have fucked a corpse.-->
-  <Necrophilia_Horrible.stages.0.description>我干过尸体。</Necrophilia_Horrible.stages.0.description>
-  <!--EN: fucked corpse-->
-  <Necrophilia_Horrible.stages.0.label>奸尸</Necrophilia_Horrible.stages.0.label>
-  <!--EN: fucked corpse-->
-  <Necrophilia_Know_Abhorrent.stages.0.label>奸尸</Necrophilia_Know_Abhorrent.stages.0.label>
-  <!--EN: fucked corpse-->
-  <Necrophilia_Know_Approved.stages.0.label>奸尸</Necrophilia_Know_Approved.stages.0.label>
-  <!--EN: fucked corpse-->
-  <Necrophilia_Know_Disapproved.stages.0.label>奸尸</Necrophilia_Know_Disapproved.stages.0.label>
-  <!--EN: fucked corpse-->
-  <Necrophilia_Know_Horrible.stages.0.label>奸尸</Necrophilia_Know_Horrible.stages.0.label>
-  <!--EN: I am making our colony stronger by carrying our future.-->
-  <Pregnancy_Elevated_Pregnant.stages.0.description>我很快就会让我们的殖民地变得更加强大。</Pregnancy_Elevated_Pregnant.stages.0.description>
-  <!--EN: pregnant-->
-  <Pregnancy_Elevated_Pregnant.stages.0.label>怀孕</Pregnancy_Elevated_Pregnant.stages.0.label>
-  <!--EN: pregnant-->
-  <Pregnancy_Elevated_Pregnant_Social.stages.0.label>怀孕</Pregnancy_Elevated_Pregnant_Social.stages.0.label>
-  <!--EN: I wish to be pregnant.-->
-  <Pregnancy_Horrible_NonPregnant.stages.0.description>我希望很快点怀孕。</Pregnancy_Horrible_NonPregnant.stages.0.description>
-  <!--EN: not pregnant-->
-  <Pregnancy_Horrible_NonPregnant.stages.0.label>还没怀孕</Pregnancy_Horrible_NonPregnant.stages.0.label>
-  <!--EN: unfertilized-->
-  <Pregnancy_Horrible_NonPregnant_Social.stages.0.label>未受精</Pregnancy_Horrible_NonPregnant_Social.stages.0.label>
-  <!--EN: How did I end up like this? I never wanted to be pregnant!-->
-  <Pregnancy_Horrible_Pregnant.stages.0.description>怎么会变成这样？我从没想过要怀孕！</Pregnancy_Horrible_Pregnant.stages.0.description>
-  <!--EN: pregnant-->
-  <Pregnancy_Horrible_Pregnant.stages.0.label>怀孕</Pregnancy_Horrible_Pregnant.stages.0.label>
-  <!--EN: I never imagined it would end like this — carrying an animal's offspring. This is a nightmare. What am I supposed to do now?-->
-  <Pregnancy_Horrible_PregnantAnimal.stages.0.description>我从没想过会落到这种地步——怀着动物的后代。这简直是一场噩梦。我现在该怎么办？</Pregnancy_Horrible_PregnantAnimal.stages.0.description>
-  <!--EN: pregnant from animal-->
-  <Pregnancy_Horrible_PregnantAnimal.stages.0.label>怀上兽胎</Pregnancy_Horrible_PregnantAnimal.stages.0.label>
-  <!--EN: pregnant from animal-->
-  <Pregnancy_Horrible_PregnantAnimal_Social.stages.0.label>怀上兽胎</Pregnancy_Horrible_PregnantAnimal_Social.stages.0.label>
-  <!--EN: pregnant-->
-  <Pregnancy_Horrible_Pregnant_Social.stages.0.label>怀孕</Pregnancy_Horrible_Pregnant_Social.stages.0.label>
-  <!--EN: The thought of being impregnated by an animal is thrilling — I want to experience it.-->
-  <Pregnancy_Respected_NonPregnantAnimal.stages.0.description>一想到会被动物搞大肚子就让我兴奋不已——我想体验一下。</Pregnancy_Respected_NonPregnantAnimal.stages.0.description>
-  <!--EN: not pregnant from animal-->
-  <Pregnancy_Respected_NonPregnantAnimal.stages.0.label>未曾怀上兽胎</Pregnancy_Respected_NonPregnantAnimal.stages.0.label>
-  <!--EN: not impregnated by an animal-->
-  <Pregnancy_Respected_NonPregnantAnimal_Social.stages.0.label>未曾被动物受孕</Pregnancy_Respected_NonPregnantAnimal_Social.stages.0.label>
-  <!--EN: I am pregnant. This makes me a pillar of society.-->
-  <Pregnancy_Respected_Pregnant.stages.0.description>我怀孕了，这让我为殖民地建设添砖加瓦！</Pregnancy_Respected_Pregnant.stages.0.description>
-  <!--EN: pregnant-->
-  <Pregnancy_Respected_Pregnant.stages.0.label>怀孕</Pregnancy_Respected_Pregnant.stages.0.label>
-  <!--EN: I'm pregnant with an animal's offspring, and it feels right, like I'm meant to be this way.-->
-  <Pregnancy_Respected_PregnantAnimal.stages.0.description>我怀上了动物的后代，这感觉理所当然，仿佛我本该如此。</Pregnancy_Respected_PregnantAnimal.stages.0.description>
-  <!--EN: pregnant from animal-->
-  <Pregnancy_Respected_PregnantAnimal.stages.0.label>怀上兽胎</Pregnancy_Respected_PregnantAnimal.stages.0.label>
-  <!--EN: pregnant from animal-->
-  <Pregnancy_Respected_PregnantAnimal_Social.stages.0.label>怀上兽胎</Pregnancy_Respected_PregnantAnimal_Social.stages.0.label>
-  <!--EN: pregnant-->
-  <Pregnancy_Respected_Pregnant_Social.stages.0.label>怀孕</Pregnancy_Respected_Pregnant_Social.stages.0.label>
-  <!--EN: I raped someone. I shouldn't do that.-->
-  <Rape_Abhorrent.stages.0.description>我强奸了某人。 我不该那么做。</Rape_Abhorrent.stages.0.description>
-  <!--EN: raped someone-->
-  <Rape_Abhorrent.stages.0.label>强奸了某人</Rape_Abhorrent.stages.0.label>
-  <!--EN: I raped someone. I shouldn't do that.-->
-  <Rape_Disapproved.stages.0.description>我强奸了某人。 我不该那么做。</Rape_Disapproved.stages.0.description>
-  <!--EN: raped someone-->
-  <Rape_Disapproved.stages.0.label>强奸了某人</Rape_Disapproved.stages.0.label>
-  <!--EN: I raped someone. I shouldn't do that.-->
-  <Rape_Horrible.stages.0.description>我强奸了某人。 我不该那么做。</Rape_Horrible.stages.0.description>
-  <!--EN: raped someone-->
-  <Rape_Horrible.stages.0.label>强奸了某人</Rape_Horrible.stages.0.label>
-  <!--EN: raped someone-->
-  <Rape_Know_Abhorrent.stages.0.label>强奸了某人</Rape_Know_Abhorrent.stages.0.label>
-  <!--EN: raped someone-->
-  <Rape_Know_Disapproved.stages.0.label>强奸了某人</Rape_Know_Disapproved.stages.0.label>
-  <!--EN: raped someone-->
-  <Rape_Know_Honorable.stages.0.label>强奸了某人</Rape_Know_Honorable.stages.0.label>
-  <!--EN: raped someone-->
-  <Rape_Know_Horrible.stages.0.label>强奸了某人</Rape_Know_Horrible.stages.0.label>
-  <!--EN: not obedient-->
-  <Raped_Know_NotBeingSubmissive.stages.0.label>不听话</Raped_Know_NotBeingSubmissive.stages.0.label>
-  <!--EN: incest-->
-  <Sex_Know_IncestMarriage_Disapproved.stages.0.label>族内通婚</Sex_Know_IncestMarriage_Disapproved.stages.0.label>
-  <!--EN: incest-->
-  <Sex_Know_IncestMarriage_Forbidden.stages.0.label>族内通婚</Sex_Know_IncestMarriage_Forbidden.stages.0.label>
-  <!--EN: corrupted the bloodline-->
-  <Sex_Know_IncestMarriage_Violated.stages.0.label>我脏了</Sex_Know_IncestMarriage_Violated.stages.0.label>
-  <!--EN: incest-->
-  <Sex_Know_Incest_Disapproved.stages.0.label>族内通婚</Sex_Know_Incest_Disapproved.stages.0.label>
-  <!--EN: incest-->
-  <Sex_Know_Incest_Forbidden.stages.0.label>族内通婚</Sex_Know_Incest_Forbidden.stages.0.label>
-  <!--EN: sex with non-family-->
-  <Sex_Know_Incest_Violated.stages.0.label>和非亲族做爱</Sex_Know_Incest_Violated.stages.0.label>
-  <!--EN: boring-->
-  <Sex_Know_NonPromiscuous.stages.0.label>乏味</Sex_Know_NonPromiscuous.stages.0.label>
-  <!--EN: promiscuous-->
-  <Sex_Know_Promiscuous.stages.0.label>乱交</Sex_Know_Promiscuous.stages.0.label>
-  <!--EN: promiscuous-->
-  <Sex_Know_Promiscuous_Approval.stages.0.label>乱交</Sex_Know_Promiscuous_Approval.stages.0.label>
-  <!--EN: It cannot satisfy me.-->
-  <Sex_NonPromiscuous.stages.0.description>根本得不到满足。</Sex_NonPromiscuous.stages.0.description>
-  <!--EN: ordinary sex-->
-  <Sex_NonPromiscuous.stages.0.label>正常的性交</Sex_NonPromiscuous.stages.0.label>
-  <!--EN: I was immoral. It makes me aroused.-->
-  <Sex_Promiscuous.stages.0.description>我不守道德，这恰恰让我性欲旺盛。</Sex_Promiscuous.stages.0.description>
-  <!--EN: promiscuous sex-->
-  <Sex_Promiscuous.stages.0.label>乱交</Sex_Promiscuous.stages.0.label>
-  <!--EN: That gangbang was terrible. ugh.-->
-  <TerribleGangbang.stages.0.description>那次轮奸太糟糕了。呃。</TerribleGangbang.stages.0.description>
-  <!--EN: terrible gangbang-->
-  <TerribleGangbang.stages.0.label>糟糕的轮奸</TerribleGangbang.stages.0.label>
-  <!--EN: That orgy was terrible. ugh.-->
-  <TerribleOrgy.stages.0.description>那次药趴太糟糕了。呃。</TerribleOrgy.stages.0.description>
-  <!--EN: terrible orgy-->
-  <TerribleOrgy.stages.0.label>糟糕的药趴</TerribleOrgy.stages.0.label>
-  <!--EN: That gangbang was awesome! Everything was perfect.-->
-  <UnforgettableGangbang.stages.0.description>那次轮奸太棒了！一切都很完美。</UnforgettableGangbang.stages.0.description>
-  <!--EN: unforgettable gangbang-->
-  <UnforgettableGangbang.stages.0.label>难忘的轮奸</UnforgettableGangbang.stages.0.label>
-  <!--EN: That orgy was awesome! Everything was perfect.-->
-  <UnforgettableOrgy.stages.0.description>那次药趴太棒了！一切都很完美。</UnforgettableOrgy.stages.0.description>
-  <!--EN: unforgettable orgy-->
-  <UnforgettableOrgy.stages.0.label>难忘的药趴</UnforgettableOrgy.stages.0.label>
-  <!--EN: slut-->
-  <Virgin_OnlyForSpouse_Know_Taken.stages.0.label>淫妇</Virgin_OnlyForSpouse_Know_Taken.stages.0.label>
-  <!--EN: I am no longer a virgin.-->
-  <Virgin_Precious_Taken.stages.0.description>我不再是处。</Virgin_Precious_Taken.stages.0.description>
-  <!--EN: Lost virginity to {0}-->
-  <Virgin_Precious_Taken.stages.0.label>失身于{0}</Virgin_Precious_Taken.stages.0.label>
-  <!--EN: I am no longer a virgin.-->
-  <Virgin_Precious_Taken.stages.1.description>我不再是处。</Virgin_Precious_Taken.stages.1.description>
-  <!--EN: Lost virginity to {0}-->
-  <Virgin_Precious_Taken.stages.1.label>失身于{0}</Virgin_Precious_Taken.stages.1.label>
-  <!--EN: I am no longer a virgin.-->
-  <Virgin_Precious_Taken.stages.2.description>我不再是处。</Virgin_Precious_Taken.stages.2.description>
-  <!--EN: Lost virginity to {0}-->
-  <Virgin_Precious_Taken.stages.2.label>失身于{0}</Virgin_Precious_Taken.stages.2.label>
-  <!--EN: I gave my virginity to my love.-->
-  <Virgin_Precious_Taken.stages.3.description>我把我的贞洁交给了我的爱人。</Virgin_Precious_Taken.stages.3.description>
-  <!--EN: Gave virginity to {0}-->
-  <Virgin_Precious_Taken.stages.3.label>把贞洁交给了{0}</Virgin_Precious_Taken.stages.3.label>
-  <!--EN: My virginity was taken forcefully.-->
-  <Virgin_Precious_Taken_Forcefully.stages.0.description>我的贞洁被强行夺走了。</Virgin_Precious_Taken_Forcefully.stages.0.description>
-  <!--EN: Virginity stolen-->
-  <Virgin_Precious_Taken_Forcefully.stages.0.label>贞洁被强行夺走</Virgin_Precious_Taken_Forcefully.stages.0.label>
-  <!--EN: Finally!-->
-  <Virgin_Shameful_Taken.stages.0.description>终于！</Virgin_Shameful_Taken.stages.0.description>
-  <!--EN: Lost virginity to {0}-->
-  <Virgin_Shameful_Taken.stages.0.label>失身于{0}</Virgin_Shameful_Taken.stages.0.label>
-  <!--EN: Finally!-->
-  <Virgin_Shameful_Taken.stages.1.description>终于！</Virgin_Shameful_Taken.stages.1.description>
-  <!--EN: Lost virginity to {0}-->
-  <Virgin_Shameful_Taken.stages.1.label>失身于{0}</Virgin_Shameful_Taken.stages.1.label>
-  <!--EN: Finally!-->
-  <Virgin_Shameful_Taken.stages.2.description>终于！</Virgin_Shameful_Taken.stages.2.description>
-  <!--EN: Lost virginity to {0}-->
-  <Virgin_Shameful_Taken.stages.2.label>失身于{0}</Virgin_Shameful_Taken.stages.2.label>
+  <!--EN: I ate from a corpse. It really just isn't the same as live vore.-->
+  <RV2_AteCorpse_Predator.stages.0.description>我吃了一具尸体。这真的只是不一样吃人</RV2_AteCorpse_Predator.stages.0.description>
+  <!--EN: ate raw corpse-->
+  <RV2_AteCorpse_Predator.stages.0.label>吃了生的尸体</RV2_AteCorpse_Predator.stages.0.label>
+  <!--EN: I ate a meal made from the meat of another human. A bit of a waste, but tasty nonetheless.-->
+  <RV2_AteHumanlikeMeatAsIngredientCannibal_Predator.stages.0.description>我吃了一份用人肉做的食物。有点浪费，但味道还是不错的。</RV2_AteHumanlikeMeatAsIngredientCannibal_Predator.stages.0.description>
+  <!--EN: cooked cannibalism-->
+  <RV2_AteHumanlikeMeatAsIngredientCannibal_Predator.stages.0.label>烹饪食人</RV2_AteHumanlikeMeatAsIngredientCannibal_Predator.stages.0.label>
+  <!--EN: I ate a meal made from the meat of another human. What a waste.-->
+  <RV2_AteHumanlikeMeatAsIngredient_Predator.stages.0.description>我吃了一份用人肉做的食物。多么浪费啊。</RV2_AteHumanlikeMeatAsIngredient_Predator.stages.0.description>
+  <!--EN: cooked cannibalism-->
+  <RV2_AteHumanlikeMeatAsIngredient_Predator.stages.0.label>烹饪食人</RV2_AteHumanlikeMeatAsIngredient_Predator.stages.0.label>
+  <!--EN: Delicious, but I wish they were still kicking...-->
+  <RV2_AteHumanlikeMeatDirectCannibal_Predator.stages.0.description>很好吃，但我希望他们还在踢腿...</RV2_AteHumanlikeMeatDirectCannibal_Predator.stages.0.description>
+  <!--EN: raw cannibalism-->
+  <RV2_AteHumanlikeMeatDirectCannibal_Predator.stages.0.label>吃了生的人肉</RV2_AteHumanlikeMeatDirectCannibal_Predator.stages.0.label>
+  <!--EN: I wish they were still kicking...-->
+  <RV2_AteHumanlikeMeatDirect_Predator.stages.0.description>我希望他们还在踢腿...</RV2_AteHumanlikeMeatDirect_Predator.stages.0.description>
+  <!--EN: raw cannibalism-->
+  <RV2_AteHumanlikeMeatDirect_Predator.stages.0.label>吃了生的人肉</RV2_AteHumanlikeMeatDirect_Predator.stages.0.label>
+  <!--EN: I ate a meal cooked from gray, slimy insect meat. Tasty, but I'd have loved to swallow it raw and wriggling.-->
+  <RV2_AteInsectMeatAsIngredient_ChitinChewer.stages.0.description>我吃了一顿由那种灰灰的发粘的虫肉做成的饭。味道不错，但我更喜欢生吃和蠕动。</RV2_AteInsectMeatAsIngredient_ChitinChewer.stages.0.description>
+  <!--EN: ate cooked insect meat-->
+  <RV2_AteInsectMeatAsIngredient_ChitinChewer.stages.0.label>吃了烹饪过的虫肉</RV2_AteInsectMeatAsIngredient_ChitinChewer.stages.0.label>
+  <!--EN: Delicious insect meat! I wish I could have just swallowed the bugger whole, though.-->
+  <RV2_AteInsectMeatDirect_ChitinChewer.stages.0.description>美味的虫肉!不过，我希望我能把这些东西全部吞下。</RV2_AteInsectMeatDirect_ChitinChewer.stages.0.description>
+  <!--EN: ate insect meat-->
+  <RV2_AteInsectMeatDirect_ChitinChewer.stages.0.label>食用虫肉</RV2_AteInsectMeatDirect_ChitinChewer.stages.0.label>
+  <!--EN: Tastes alright.-->
+  <RV2_ConsumedDigestedPrey_Cum.stages.0.description>味道还可以。</RV2_ConsumedDigestedPrey_Cum.stages.0.description>
+  <!--EN: Drank cumgested pawn-->
+  <RV2_ConsumedDigestedPrey_Cum.stages.0.label>喝了塞满垃圾的酒pawn</RV2_ConsumedDigestedPrey_Cum.stages.0.label>
+  <!--EN: Yuck, slimy.-->
+  <RV2_ConsumedDigestedPrey_Cum_Bad.stages.0.description>恶心，发粘了。</RV2_ConsumedDigestedPrey_Cum_Bad.stages.0.description>
+  <!--EN: Disliked drinking cumgested pawn-->
+  <RV2_ConsumedDigestedPrey_Cum_Bad.stages.0.label>厌恶过量饮酒pawn</RV2_ConsumedDigestedPrey_Cum_Bad.stages.0.label>
+  <!--EN: Delicious batter!-->
+  <RV2_ConsumedDigestedPrey_Cum_Good.stages.0.description>面糊味道不错!</RV2_ConsumedDigestedPrey_Cum_Good.stages.0.description>
+  <!--EN: Liked drinking cumgested pawn-->
+  <RV2_ConsumedDigestedPrey_Cum_Good.stages.0.label>喜欢喝脏东西pawn</RV2_ConsumedDigestedPrey_Cum_Good.stages.0.label>
+  <!--EN: I'm gonna be sick.-->
+  <RV2_ConsumedDigestedPrey_Cum_VeryBad.stages.0.description>我会生病的。</RV2_ConsumedDigestedPrey_Cum_VeryBad.stages.0.description>
+  <!--EN: Hated drinking cumgested pawn-->
+  <RV2_ConsumedDigestedPrey_Cum_VeryBad.stages.0.label>厌恶过量饮酒pawn</RV2_ConsumedDigestedPrey_Cum_VeryBad.stages.0.label>
+  <!--EN: Heavenly seed!-->
+  <RV2_ConsumedDigestedPrey_Cum_VeryGood.stages.0.description>神圣的种子!</RV2_ConsumedDigestedPrey_Cum_VeryGood.stages.0.description>
+  <!--EN: Loved drinking cumgested pawn-->
+  <RV2_ConsumedDigestedPrey_Cum_VeryGood.stages.0.label>醉心于酗酒pawn</RV2_ConsumedDigestedPrey_Cum_VeryGood.stages.0.label>
+  <!--EN: Tastes like milk.-->
+  <RV2_ConsumedDigestedPrey_Milk.stages.0.description>尝起来像牛奶。</RV2_ConsumedDigestedPrey_Milk.stages.0.description>
+  <!--EN: Drank lactified pawn-->
+  <RV2_ConsumedDigestedPrey_Milk.stages.0.label>喝了裂解液pawn</RV2_ConsumedDigestedPrey_Milk.stages.0.label>
+  <!--EN: Tasts a little... meaty.-->
+  <RV2_ConsumedDigestedPrey_Milk_Bad.stages.0.description>有点.多肉的。</RV2_ConsumedDigestedPrey_Milk_Bad.stages.0.description>
+  <!--EN: Disliked drinking lactified pawn-->
+  <RV2_ConsumedDigestedPrey_Milk_Bad.stages.0.label>反感饮用 (已裂解)pawn</RV2_ConsumedDigestedPrey_Milk_Bad.stages.0.label>
+  <!--EN: Such rich flavor!-->
+  <RV2_ConsumedDigestedPrey_Milk_Good.stages.0.description>如此浓郁的风味!</RV2_ConsumedDigestedPrey_Milk_Good.stages.0.description>
+  <!--EN: Liked drinking lactified pawn-->
+  <RV2_ConsumedDigestedPrey_Milk_Good.stages.0.label>喜欢喝乳酸咖啡pawn</RV2_ConsumedDigestedPrey_Milk_Good.stages.0.label>
+  <!--EN: I'm gonna be sick.-->
+  <RV2_ConsumedDigestedPrey_Milk_VeryBad.stages.0.description>我会生病的。</RV2_ConsumedDigestedPrey_Milk_VeryBad.stages.0.description>
+  <!--EN: Hated drinking lactified pawn-->
+  <RV2_ConsumedDigestedPrey_Milk_VeryBad.stages.0.label>讨厌喝乳酸pawn</RV2_ConsumedDigestedPrey_Milk_VeryBad.stages.0.label>
+  <!--EN: Like drinking from the tits of a god!-->
+  <RV2_ConsumedDigestedPrey_Milk_VeryGood.stages.0.description>就像喝了神仙的奶!</RV2_ConsumedDigestedPrey_Milk_VeryGood.stages.0.description>
+  <!--EN: Loved drinking lactified pawn-->
+  <RV2_ConsumedDigestedPrey_Milk_VeryGood.stages.0.label>喜爱饮用裂解品pawn</RV2_ConsumedDigestedPrey_Milk_VeryGood.stages.0.label>
+  <!--EN: Someone denied a vore proposal for something I have a massive fetish for! How inconsiderate!-->
+  <RV2_DeniedVoreProposalObsessed_Mood.stages.0.description>有人拒绝了吃人求婚一件我非常迷恋的东西!多么懦弱!</RV2_DeniedVoreProposalObsessed_Mood.stages.0.description>
+  <!--EN: vore proposal denied (obsessed)-->
+  <RV2_DeniedVoreProposalObsessed_Mood.stages.0.label>吃人拒绝求婚 (迷恋)</RV2_DeniedVoreProposalObsessed_Mood.stages.0.label>
+  <!--EN: vore proposal denied (obsessed)-->
+  <RV2_DeniedVoreProposalObsessed_Social.stages.0.label>吃人拒绝求婚 (迷恋)</RV2_DeniedVoreProposalObsessed_Social.stages.0.label>
+  <!--EN: Someone denied my vore proposal.-->
+  <RV2_DeniedVoreProposal_Mood.stages.0.description>有人拒绝了我的请求吃人求婚。</RV2_DeniedVoreProposal_Mood.stages.0.description>
+  <!--EN: vore proposal denied-->
+  <RV2_DeniedVoreProposal_Mood.stages.0.label>吃人拒绝求婚</RV2_DeniedVoreProposal_Mood.stages.0.label>
+  <!--EN: vore proposal denied-->
+  <RV2_DeniedVoreProposal_Social.stages.0.label>吃人拒绝求婚</RV2_DeniedVoreProposal_Social.stages.0.label>
+  <!--EN: That was rough going down.-->
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_Bad.stages.0.description>太糟糕了。</RV2_DietaryQuirkSatisfactionPredator_Animals_Bad.stages.0.description>
+  <!--EN: Disliked consuming animal prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_Bad.stages.0.label>厌恶捕食动物的动物{0}</RV2_DietaryQuirkSatisfactionPredator_Animals_Bad.stages.0.label>
+  <!--EN: Nice and squirmy!-->
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_Good.stages.0.description>身体健康，蠕动能力出色!</RV2_DietaryQuirkSatisfactionPredator_Animals_Good.stages.0.description>
+  <!--EN: Liked consuming animal prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_Good.stages.0.label>喜欢暴饮暴食{0}</RV2_DietaryQuirkSatisfactionPredator_Animals_Good.stages.0.label>
+  <!--EN: Absolutely disgusting.-->
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_VeryBad.stages.0.description>太恶心了。</RV2_DietaryQuirkSatisfactionPredator_Animals_VeryBad.stages.0.description>
+  <!--EN: Hated consuming animal prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_VeryBad.stages.0.label>憎恨吞噬动物猎物{0}</RV2_DietaryQuirkSatisfactionPredator_Animals_VeryBad.stages.0.label>
+  <!--EN: All that thrashing gave me a real good massage!-->
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_VeryGood.stages.0.description>所有的殴打给了我一个真正的好处按摩不!</RV2_DietaryQuirkSatisfactionPredator_Animals_VeryGood.stages.0.description>
+  <!--EN: Loved consuming animal prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Animals_VeryGood.stages.0.label>喜爱吞噬动物猎物{0}</RV2_DietaryQuirkSatisfactionPredator_Animals_VeryGood.stages.0.label>
+  <!--EN: ...Does this count as cannibalism?-->
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_Bad.stages.0.description>... 这算不算食人吗？</RV2_DietaryQuirkSatisfactionPredator_Humanoids_Bad.stages.0.description>
+  <!--EN: Disliked consuming humanoid prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_Bad.stages.0.label>厌恶吞噬的人形猎物{0}</RV2_DietaryQuirkSatisfactionPredator_Humanoids_Bad.stages.0.label>
+  <!--EN: Nice and smooth.-->
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_Good.stages.0.description>非常光滑。</RV2_DietaryQuirkSatisfactionPredator_Humanoids_Good.stages.0.description>
+  <!--EN: Liked consuming humanoid prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_Good.stages.0.label>喜欢吞噬人形猎物{0}</RV2_DietaryQuirkSatisfactionPredator_Humanoids_Good.stages.0.label>
+  <!--EN: What am I doing?!-->
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryBad.stages.0.description>我在做什么？!</RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryBad.stages.0.description>
+  <!--EN: Hated consuming humanoid prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryBad.stages.0.label>憎恨吞噬人形猎物{0}</RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryBad.stages.0.label>
+  <!--EN: People taste so fucking good!-->
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryGood.stages.0.description>人们的味道真他妈的好!</RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryGood.stages.0.description>
+  <!--EN: Loved consuming humanoid prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryGood.stages.0.label>喜爱吞噬人类猎物{0}</RV2_DietaryQuirkSatisfactionPredator_Humanoids_VeryGood.stages.0.label>
+  <!--EN: Oh, that gave me the heebie-jeebies. At least it's done with.-->
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_Bad.stages.0.description>哦，这让我觉得很不舒服。至少结束了。</RV2_DietaryQuirkSatisfactionPredator_Insectoids_Bad.stages.0.description>
+  <!--EN: Disliked consuming insectoid prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_Bad.stages.0.label>厌恶食用虫族猎物{0}</RV2_DietaryQuirkSatisfactionPredator_Insectoids_Bad.stages.0.label>
+  <!--EN: So juicy and squirmy...~-->
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_Good.stages.0.description>多汁而且还能蠕动... ~</RV2_DietaryQuirkSatisfactionPredator_Insectoids_Good.stages.0.description>
+  <!--EN: Liked consuming insectoid prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_Good.stages.0.label>喜欢食用虫族猎物{0}</RV2_DietaryQuirkSatisfactionPredator_Insectoids_Good.stages.0.label>
+  <!--EN: OH GOD IT'S WRITHING INSIDE ME GET IT OUT GET IT OUT GET IT OUT!-->
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryBad.stages.0.description>天呐!它在我体内翻腾，把它取出来，取出来，取出来!</RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryBad.stages.0.description>
+  <!--EN: Hated consuming insectoid prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryBad.stages.0.label>憎恨被虫族捕食的动物{0}</RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryBad.stages.0.label>
+  <!--EN: Oh, that tickles!~-->
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryGood.stages.0.description>哦，好痒!~</RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryGood.stages.0.description>
+  <!--EN: Loved consuming insectoid prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryGood.stages.0.label>喜爱吞食虫族猎物{0}</RV2_DietaryQuirkSatisfactionPredator_Insectoids_VeryGood.stages.0.label>
+  <!--EN: Metal isn't food!-->
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Bad.stages.0.description>金属不是食物!</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Bad.stages.0.description>
+  <!--EN: Disliked consuming mechanoid prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Bad.stages.0.label>厌恶吞噬机械体猎物{0}</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Bad.stages.0.label>
+  <!--EN: Nice and cold.-->
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Good.stages.0.description>好冷。</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Good.stages.0.description>
+  <!--EN: Liked consuming mechanoid prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Good.stages.0.label>喜欢吞噬机械体猎物{0}</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_Good.stages.0.label>
+  <!--EN: Can't these things explode when they break?!-->
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryBad.stages.0.description>这些东西不能在碎了就爆炸吗？!</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryBad.stages.0.description>
+  <!--EN: Hated consuming mechanoid prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryBad.stages.0.label>憎恨吞噬机械体的猎物{0}</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryBad.stages.0.label>
+  <!--EN: Take that, tin can!-->
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryGood.stages.0.description>把那个收了，锡罐!</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryGood.stages.0.description>
+  <!--EN: Loved consuming mechanoid prey {0}-->
+  <RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryGood.stages.0.label>喜爱吞噬机械体的猎物{0}</RV2_DietaryQuirkSatisfactionPredator_Mechanoids_VeryGood.stages.0.label>
+  <!--EN: How degrading...-->
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_Bad.stages.0.description>多么有辱人格...</RV2_DietaryQuirkSatisfactionPrey_Animals_Bad.stages.0.description>
+  <!--EN: Disliked being consumed by an animal {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_Bad.stages.0.label>反感被动物吞食{0}</RV2_DietaryQuirkSatisfactionPrey_Animals_Bad.stages.0.label>
+  <!--EN: Ride's over already?-->
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_Good.stages.0.description>旅程已经结束了？</RV2_DietaryQuirkSatisfactionPrey_Animals_Good.stages.0.description>
+  <!--EN: Liked being consumed by an animal {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_Good.stages.0.label>喜爱被动物吞食{0}</RV2_DietaryQuirkSatisfactionPrey_Animals_Good.stages.0.label>
+  <!--EN: Filthy, filthy, filthy, filthy!-->
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_VeryBad.stages.0.description>脏，脏!</RV2_DietaryQuirkSatisfactionPrey_Animals_VeryBad.stages.0.description>
+  <!--EN: Hated being consumed by an animal {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_VeryBad.stages.0.label>厌恶被动物吞食{0}</RV2_DietaryQuirkSatisfactionPrey_Animals_VeryBad.stages.0.label>
+  <!--EN: I wanna ride again! Yeehaw!-->
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_VeryGood.stages.0.description>我想再次骑马!耶!</RV2_DietaryQuirkSatisfactionPrey_Animals_VeryGood.stages.0.description>
+  <!--EN: Loved being consumed by an animal {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Animals_VeryGood.stages.0.label>喜爱被动物吞食{0}</RV2_DietaryQuirkSatisfactionPrey_Animals_VeryGood.stages.0.label>
+  <!--EN: I feel used.-->
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_Bad.stages.0.description>我感觉被利用了。</RV2_DietaryQuirkSatisfactionPrey_Humanoids_Bad.stages.0.description>
+  <!--EN: Disliked being consumed by a humanoid {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_Bad.stages.0.label>反感被人形吞噬{0}</RV2_DietaryQuirkSatisfactionPrey_Humanoids_Bad.stages.0.label>
+  <!--EN: I hope I was nice and filling.-->
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_Good.stages.0.description>我希望我过得很好，很充实。</RV2_DietaryQuirkSatisfactionPrey_Humanoids_Good.stages.0.description>
+  <!--EN: Liked being consumed by a humanoid {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_Good.stages.0.label>喜爱被人类吞噬{0}</RV2_DietaryQuirkSatisfactionPrey_Humanoids_Good.stages.0.label>
+  <!--EN: That was abhorrent. Whether or not people should eat other people, they shouldn't do it like that!-->
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryBad.stages.0.description>令人厌恶。无论人们是否应该吃别人，他们都不应该这样做!</RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryBad.stages.0.description>
+  <!--EN: Hated being consumed by a humanoid {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryBad.stages.0.label>讨厌被人形吞噬{0}</RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryBad.stages.0.label>
+  <!--EN: I was prey for someone who could appreciate me!-->
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryGood.stages.0.description>我被一个能欣赏我的人捕食!</RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryGood.stages.0.description>
+  <!--EN: Loved being consumed by a humanoid {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryGood.stages.0.label>喜欢被人形吞噬{0}</RV2_DietaryQuirkSatisfactionPrey_Humanoids_VeryGood.stages.0.label>
+  <!--EN: I am covered in slime and... something sticky. This sucks.-->
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_Bad.stages.0.description>我浑身上下史莱姆还有.粘糊糊的东西。糟透了。</RV2_DietaryQuirkSatisfactionPrey_Insectoids_Bad.stages.0.description>
+  <!--EN: Disliked being consumed by an insectoid {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_Bad.stages.0.label>反感被虫族吞食{0}</RV2_DietaryQuirkSatisfactionPrey_Insectoids_Bad.stages.0.label>
+  <!--EN: I got to see where the jelly gets made.-->
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_Good.stages.0.description>我得去看看胶状物是从哪儿弄的。</RV2_DietaryQuirkSatisfactionPrey_Insectoids_Good.stages.0.description>
+  <!--EN: Liked being consumed by an insectoid {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_Good.stages.0.label>喜欢被虫族吞食{0}</RV2_DietaryQuirkSatisfactionPrey_Insectoids_Good.stages.0.label>
+  <!--EN: Gross, gross, gross, gross, gross!-->
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryBad.stages.0.description>恶心，恶心!</RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryBad.stages.0.description>
+  <!--EN: Hated being consumed by an insectoid {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryBad.stages.0.label>讨厌被虫族吞食{0}</RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryBad.stages.0.label>
+  <!--EN: I was, for a moment, one with the hive.-->
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryGood.stages.0.description>我曾经，为了一个瞬间,一个与蜂巢在一起。</RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryGood.stages.0.description>
+  <!--EN: Loved being consumed by an insectoid {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryGood.stages.0.label>喜欢被虫族吞食{0}</RV2_DietaryQuirkSatisfactionPrey_Insectoids_VeryGood.stages.0.label>
+  <!--EN: Another hostile environment conquered!-->
+  <RV2_DietaryQuirkSatisfactionPrey_Mechanoids_Good.stages.0.description>另一个敌对环境被征服了!</RV2_DietaryQuirkSatisfactionPrey_Mechanoids_Good.stages.0.description>
+  <!--EN: Liked being consumed by a mechanoid {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Mechanoids_Good.stages.0.label>喜欢被机械体吞噬{0}</RV2_DietaryQuirkSatisfactionPrey_Mechanoids_Good.stages.0.label>
+  <!--EN: That soothing tick and hum, the flexing of the hydraulics...~-->
+  <RV2_DietaryQuirkSatisfactionPrey_Mechanoids_VeryGood.stages.0.description>那令人抚慰的 tick 鸣声，那水力的弯曲... ~</RV2_DietaryQuirkSatisfactionPrey_Mechanoids_VeryGood.stages.0.description>
+  <!--EN: Loved being consumed by a mechanoid {0}-->
+  <RV2_DietaryQuirkSatisfactionPrey_Mechanoids_VeryGood.stages.0.label>喜爱被机械体吞噬{0}</RV2_DietaryQuirkSatisfactionPrey_Mechanoids_VeryGood.stages.0.label>
+  <!--EN: That was a waste. I can think of several better things to have done with that prey.-->
+  <RV2_DispositionQuirkSatisfaction_Feeder_Bad.stages.0.description>浪费时间。我能想到对付那个猎物有几件好事。</RV2_DispositionQuirkSatisfaction_Feeder_Bad.stages.0.description>
+  <!--EN: Disliked hand-feeding {0}-->
+  <RV2_DispositionQuirkSatisfaction_Feeder_Bad.stages.0.label>反感用手喂食{0}</RV2_DispositionQuirkSatisfaction_Feeder_Bad.stages.0.label>
+  <!--EN: Another satisfied customer!-->
+  <RV2_DispositionQuirkSatisfaction_Feeder_Good.stages.0.description>又有一位满意的客户!</RV2_DispositionQuirkSatisfaction_Feeder_Good.stages.0.description>
+  <!--EN: Liked hand-feeding {0}-->
+  <RV2_DispositionQuirkSatisfaction_Feeder_Good.stages.0.label>喜欢用手喂食{0}</RV2_DispositionQuirkSatisfaction_Feeder_Good.stages.0.label>
+  <!--EN: I'm not some predator's lackey!-->
+  <RV2_DispositionQuirkSatisfaction_Feeder_VeryBad.stages.0.description>我又不是捕食者的仆人!</RV2_DispositionQuirkSatisfaction_Feeder_VeryBad.stages.0.description>
+  <!--EN: Hated hand-feeding {0}-->
+  <RV2_DispositionQuirkSatisfaction_Feeder_VeryBad.stages.0.label>厌恶喂食{0}</RV2_DispositionQuirkSatisfaction_Feeder_VeryBad.stages.0.label>
+  <!--EN: I wonder if there's anything else around to feed {1}!-->
+  <RV2_DispositionQuirkSatisfaction_Feeder_VeryGood.stages.0.description>不知附近还有没有别的东西可以吃{1}不!</RV2_DispositionQuirkSatisfaction_Feeder_VeryGood.stages.0.description>
+  <!--EN: Loved hand-feeding {0}-->
+  <RV2_DispositionQuirkSatisfaction_Feeder_VeryGood.stages.0.label>喜爱用手喂食{0}</RV2_DispositionQuirkSatisfaction_Feeder_VeryGood.stages.0.label>
+  <!--EN: I'm not cut out for predding.-->
+  <RV2_DispositionQuirkSatisfaction_Predator_Bad.stages.0.description>我不适合捕食。</RV2_DispositionQuirkSatisfaction_Predator_Bad.stages.0.description>
+  <!--EN: Disliked predding for {0}-->
+  <RV2_DispositionQuirkSatisfaction_Predator_Bad.stages.0.label>反感捕食{0}</RV2_DispositionQuirkSatisfaction_Predator_Bad.stages.0.label>
+  <!--EN: I live to eat!-->
+  <RV2_DispositionQuirkSatisfaction_Predator_Good.stages.0.description>我活着就是为了吃饭!</RV2_DispositionQuirkSatisfaction_Predator_Good.stages.0.description>
+  <!--EN: Liked predding for {0}-->
+  <RV2_DispositionQuirkSatisfaction_Predator_Good.stages.0.label>喜欢捕食{0}</RV2_DispositionQuirkSatisfaction_Predator_Good.stages.0.label>
+  <!--EN: Don't make me do that ever again.-->
+  <RV2_DispositionQuirkSatisfaction_Predator_VeryBad.stages.0.description>别让我再这样做了。</RV2_DispositionQuirkSatisfaction_Predator_VeryBad.stages.0.description>
+  <!--EN: Hated predding for {0}-->
+  <RV2_DispositionQuirkSatisfaction_Predator_VeryBad.stages.0.label>厌恶捕食{0}</RV2_DispositionQuirkSatisfaction_Predator_VeryBad.stages.0.label>
+  <!--EN: I'm an apex predator, baby!-->
+  <RV2_DispositionQuirkSatisfaction_Predator_VeryGood.stages.0.description>我是极致捕食者，宝贝!</RV2_DispositionQuirkSatisfaction_Predator_VeryGood.stages.0.description>
+  <!--EN: Loved predding for {0}-->
+  <RV2_DispositionQuirkSatisfaction_Predator_VeryGood.stages.0.label>喜爱捕食{0}</RV2_DispositionQuirkSatisfaction_Predator_VeryGood.stages.0.label>
+  <!--EN: I don't like being inside people.-->
+  <RV2_DispositionQuirkSatisfaction_Prey_Bad.stages.0.description>我不喜欢呆在人里面。</RV2_DispositionQuirkSatisfaction_Prey_Bad.stages.0.description>
+  <!--EN: Disliked being prey for {0}-->
+  <RV2_DispositionQuirkSatisfaction_Prey_Bad.stages.0.label>反感作为猎物{0}</RV2_DispositionQuirkSatisfaction_Prey_Bad.stages.0.label>
+  <!--EN: I hope to get back in soon!-->
+  <RV2_DispositionQuirkSatisfaction_Prey_Good.stages.0.description>我希望能尽快回来!</RV2_DispositionQuirkSatisfaction_Prey_Good.stages.0.description>
+  <!--EN: Liked being prey for {0}-->
+  <RV2_DispositionQuirkSatisfaction_Prey_Good.stages.0.label>喜欢作为猎物{0}</RV2_DispositionQuirkSatisfaction_Prey_Good.stages.0.label>
+  <!--EN: Don't make me do that ever again.-->
+  <RV2_DispositionQuirkSatisfaction_Prey_VeryBad.stages.0.description>别让我再这样做了。</RV2_DispositionQuirkSatisfaction_Prey_VeryBad.stages.0.description>
+  <!--EN: Hated being prey for {0}-->
+  <RV2_DispositionQuirkSatisfaction_Prey_VeryBad.stages.0.label>厌恶作为猎物{0}</RV2_DispositionQuirkSatisfaction_Prey_VeryBad.stages.0.label>
+  <!--EN: Someone else eat me now! Please!-->
+  <RV2_DispositionQuirkSatisfaction_Prey_VeryGood.stages.0.description>现在有人吃了我!求求你了!</RV2_DispositionQuirkSatisfaction_Prey_VeryGood.stages.0.description>
+  <!--EN: Loved being prey for {0}-->
+  <RV2_DispositionQuirkSatisfaction_Prey_VeryGood.stages.0.label>喜欢成为猎物{0}</RV2_DispositionQuirkSatisfaction_Prey_VeryGood.stages.0.label>
+  <!--EN: Someone I like was gurgled into nothingness...-->
+  <RV2_FatallyVoredMemory_Mood.stages.0.description>我喜欢的人含蓄地陷入虚无...</RV2_FatallyVoredMemory_Mood.stages.0.description>
+  <!--EN: A friend was fatally vored-->
+  <RV2_FatallyVoredMemory_Mood.stages.0.label>一个朋友被杀了</RV2_FatallyVoredMemory_Mood.stages.0.label>
+  <!--EN: Hah, serves them right-->
+  <RV2_FatallyVoredMemory_Rival_Mood.stages.0.description>哈，发配对了</RV2_FatallyVoredMemory_Rival_Mood.stages.0.description>
+  <!--EN: A rival was fatally vored-->
+  <RV2_FatallyVoredMemory_Rival_Mood.stages.0.label>一个仇人被杀了</RV2_FatallyVoredMemory_Rival_Mood.stages.0.label>
+  <!--EN: fatally vored my rival in a way I like-->
+  <RV2_FatallyVoredMemory_Rival_Social.stages.0.label>以我喜欢的方式折磨我的仇人</RV2_FatallyVoredMemory_Rival_Social.stages.0.label>
+  <!--EN: fatally vored someone I liked-->
+  <RV2_FatallyVoredMemory_Social.stages.0.label>杀了我喜欢的人</RV2_FatallyVoredMemory_Social.stages.0.label>
+  <!--EN: fed me prey in a way I don't like-->
+  <RV2_FedMePrey_Bad.stages.0.label>用我不喜欢的方式喂养我</RV2_FedMePrey_Bad.stages.0.label>
+  <!--EN: fed me prey in a way I like-->
+  <RV2_FedMePrey_Good.stages.0.label>用我喜欢的方式喂养我</RV2_FedMePrey_Good.stages.0.label>
+  <!--EN: fed me prey in a way I hate-->
+  <RV2_FedMePrey_VeryBad.stages.0.label>以我厌恶的方式喂养了我</RV2_FedMePrey_VeryBad.stages.0.label>
+  <!--EN: fed me prey in a way I really enjoy-->
+  <RV2_FedMePrey_VeryGood.stages.0.label>以我真正喜欢的方式喂养我</RV2_FedMePrey_VeryGood.stages.0.label>
+  <!--EN: She looked a lot better than she tasted.-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Bad.stages.0.description>她看起来比味道好多了。</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Bad.stages.0.description>
+  <!--EN: Hated consuming female ({0})-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Bad.stages.0.label>憎恨吞噬雌性 ({0})</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Bad.stages.0.label>
+  <!--EN: Girls make the best snacks.-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Good.stages.0.description>女孩们做的零食是最好的。</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Good.stages.0.description>
+  <!--EN: Liked consuming female ({0})-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Good.stages.0.label>喜欢吞噬雌性 ({0})</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_Good.stages.0.label>
+  <!--EN: Nothing makes me happier than the feeling of soft, feminine curves inside me.-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_VeryGood.stages.0.description>没有什么比柔美的曲线在我体内的感觉更让我开心了。</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_VeryGood.stages.0.description>
+  <!--EN: Loved consuming female ({0})-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_VeryGood.stages.0.label>喜爱吞噬雌性 ({0})</RV2_GenderPreferenceQuirkSatisfaction_Predator_Female_VeryGood.stages.0.label>
+  <!--EN: Ugh, gross. When was the last time he showered?-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Bad.stages.0.description>呃，恶心。他最后一次洗澡是什么时候？</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Bad.stages.0.description>
+  <!--EN: Hated consuming male ({0})-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Bad.stages.0.label>憎恶吞噬雄性 ({0})</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Bad.stages.0.label>
+  <!--EN: Boys make the best snacks.-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Good.stages.0.description>男孩做的零食是最好的。</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Good.stages.0.description>
+  <!--EN: Liked consuming male ({0})-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Good.stages.0.label>喜欢吞噬雄性 ({0})</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_Good.stages.0.label>
+  <!--EN: Nobody squirms quite like boys do.-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_VeryGood.stages.0.description>没有人像男孩一样蠕动。</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_VeryGood.stages.0.description>
+  <!--EN: Loved consuming male ({0})-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_VeryGood.stages.0.label>喜爱吞噬的男性 ({0})</RV2_GenderPreferenceQuirkSatisfaction_Predator_Male_VeryGood.stages.0.label>
+  <!--EN: I can't believe that bitch got me!-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Bad.stages.0.description>我不敢相信那个婊子抓到我了!</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Bad.stages.0.description>
+  <!--EN: Hated being consumed by a  female ({0})-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Bad.stages.0.label>厌恶被雌性吞噬 ({0})</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Bad.stages.0.label>
+  <!--EN: Put me back.-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Good.stages.0.description>把我放回去。</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Good.stages.0.description>
+  <!--EN: Liked being consumed by a  female ({0})-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Good.stages.0.label>喜欢被雌性吞噬 ({0})</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_Good.stages.0.label>
+  <!--EN: Nothing better than the feeling of being completely enveloped by a beautiful woman.-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_VeryGood.stages.0.description>没有什么比被一个美丽的女人完全包围更好的了。</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_VeryGood.stages.0.description>
+  <!--EN: Loved being consumed by a  female ({0})-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_VeryGood.stages.0.label>爱上了被雌性 ({0})</RV2_GenderPreferenceQuirkSatisfaction_Prey_Female_VeryGood.stages.0.label>
+  <!--EN: Somehow he was even more disgusting on the inside.-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Bad.stages.0.description>不知怎的，他的内心就更令人作呕了。</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Bad.stages.0.description>
+  <!--EN: Hated being consumed by a  male ({0})-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Bad.stages.0.label>厌恶被雄性吞食 ({0})</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Bad.stages.0.label>
+  <!--EN: Put me back!-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Good.stages.0.description>把我放回去!</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Good.stages.0.description>
+  <!--EN: Liked being consumed by a male ({0})-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Good.stages.0.label>喜欢被雄性吞食 ({0})</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_Good.stages.0.label>
+  <!--EN: No matter how tough they play outside, they're wonderfully soft on the inside!-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_VeryGood.stages.0.description>无论他们在外面打得多么硬派，他们的内心都非常软弱!</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_VeryGood.stages.0.description>
+  <!--EN: Loved being consumed by a male ({0})-->
+  <RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_VeryGood.stages.0.label>爱上了被男性吞噬 ({0})</RV2_GenderPreferenceQuirkSatisfaction_Prey_Male_VeryGood.stages.0.label>
+  <!--EN: Ugh!-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Bad.stages.0.description>啊呀!</RV2_GoalPreferenceQuirkSatisfaction_Bad.stages.0.description>
+  <!--EN: Disliked using vore goal for {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Bad.stages.0.label>厌恶使用吃人目标{0}</RV2_GoalPreferenceQuirkSatisfaction_Bad.stages.0.label>
+  <!--EN: That was cruel.-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Bad.stages.0.description>太残忍了。</RV2_GoalPreferenceQuirkSatisfaction_Digest_Bad.stages.0.description>
+  <!--EN: Disliked digesting {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Bad.stages.0.label>反感消化{0}</RV2_GoalPreferenceQuirkSatisfaction_Digest_Bad.stages.0.label>
+  <!--EN: Oh, that hit the spot!-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Good.stages.0.description>哦，击中要害!</RV2_GoalPreferenceQuirkSatisfaction_Digest_Good.stages.0.description>
+  <!--EN: Liked digesting {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Good.stages.0.label>喜欢消化{0}</RV2_GoalPreferenceQuirkSatisfaction_Digest_Good.stages.0.label>
+  <!--EN: That was... not pleasant. At least I'm still alive...-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Bad.stages.0.description>太棒了...不愉快。至少我还活着...</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Bad.stages.0.description>
+  <!--EN: Disliked being digested by {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Bad.stages.0.label>厌恶被消化{0}</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Bad.stages.0.label>
+  <!--EN: All my worries melted away~-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Good.stages.0.description>我所有的担心都烟消云散了 ~</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Good.stages.0.description>
+  <!--EN: Liked being digested by {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Good.stages.0.label>喜欢被消化{0}</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_Good.stages.0.label>
+  <!--EN: That was horrifying.-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryBad.stages.0.description>太可怕了。</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryBad.stages.0.description>
+  <!--EN: Hated being digested by {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryBad.stages.0.label>厌恶被消化{0}</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryBad.stages.0.label>
+  <!--EN: Ahh! That was amazing, becoming part of something better.-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryGood.stages.0.description>啊呀!这太神奇了，成为了更好的东西的一部分。</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryGood.stages.0.description>
+  <!--EN: Loved being digested by {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryGood.stages.0.label>喜欢被消化{0}</RV2_GoalPreferenceQuirkSatisfaction_Digest_Prey_VeryGood.stages.0.label>
+  <!--EN: Surely I could have killed it first, quick and clean, and skipped the slow, painful murder?-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryBad.stages.0.description>当然，我本可以杀了它，又快又干净，然后跳过这个缓慢又痛苦的杀戮？</RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryBad.stages.0.description>
+  <!--EN: Hated digesting {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryBad.stages.0.label>厌恶消化{0}</RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryBad.stages.0.label>
+  <!--EN: My body is a graveyard.~-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryGood.stages.0.description>我的身体就是一个坟墓。~</RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryGood.stages.0.description>
+  <!--EN: Loved digesting {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryGood.stages.0.label>热爱消化{0}</RV2_GoalPreferenceQuirkSatisfaction_Digest_VeryGood.stages.0.label>
+  <!--EN: Nice!-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Good.stages.0.description>不错!</RV2_GoalPreferenceQuirkSatisfaction_Good.stages.0.description>
+  <!--EN: Liked using vore goal for {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Good.stages.0.label>喜欢使用吃人目标{0}</RV2_GoalPreferenceQuirkSatisfaction_Good.stages.0.label>
+  <!--EN: I would have preferred reular sex.-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Bad.stages.0.description>我更喜欢平静的性交</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Bad.stages.0.description>
+  <!--EN: Disliked pleasuring {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Bad.stages.0.label>反感{0}</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Bad.stages.0.label>
+  <!--EN: That scratched a real deep itch.~-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Good.stages.0.description>这让我好受点痒。~</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Good.stages.0.description>
+  <!--EN: Liked pleasuring {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Good.stages.0.label>喜欢愉悦{0}</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_Good.stages.0.label>
+  <!--EN: I just feel kind of dirty now.-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryBad.stages.0.description>我现在感觉有点脏。</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryBad.stages.0.description>
+  <!--EN: Hated pleasuring {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryBad.stages.0.label>厌恶愉悦{0}</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryBad.stages.0.label>
+  <!--EN: I live to please!~-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryGood.stages.0.description>我活着就是为了取悦他人!~</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryGood.stages.0.description>
+  <!--EN: Loved pleasuring {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryGood.stages.0.label>愉悦心情{0}</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Predator_VeryGood.stages.0.label>
+  <!--EN: I would have preferred reular sex.-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Bad.stages.0.description>我更喜欢平静的性交</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Bad.stages.0.description>
+  <!--EN: Disliked pleasuring {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Bad.stages.0.label>反感{0}</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Bad.stages.0.label>
+  <!--EN: That was fun!-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Good.stages.0.description>很有意思!</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Good.stages.0.description>
+  <!--EN: Liked pleasuring {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Good.stages.0.label>喜欢愉悦{0}</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_Good.stages.0.label>
+  <!--EN: I just feel kind of dirty now.-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryBad.stages.0.description>我现在感觉有点脏。</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryBad.stages.0.description>
+  <!--EN: Hated pleasuring {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryBad.stages.0.label>厌恶愉悦{0}</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryBad.stages.0.label>
+  <!--EN: I live to please!~-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryGood.stages.0.description>我活着就是为了取悦他人!~</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryGood.stages.0.description>
+  <!--EN: Loved pleasuring {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryGood.stages.0.label>愉悦心情{0}</RV2_GoalPreferenceQuirkSatisfaction_Pleasure_Prey_VeryGood.stages.0.label>
+  <!--EN: Yuck!-->
+  <RV2_GoalPreferenceQuirkSatisfaction_VeryBad.stages.0.description>恶心!</RV2_GoalPreferenceQuirkSatisfaction_VeryBad.stages.0.description>
+  <!--EN: Hated using vore goal for {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_VeryBad.stages.0.label>厌恶使用吃人目标{0}</RV2_GoalPreferenceQuirkSatisfaction_VeryBad.stages.0.label>
+  <!--EN: Lovely!-->
+  <RV2_GoalPreferenceQuirkSatisfaction_VeryGood.stages.0.description>可爱!</RV2_GoalPreferenceQuirkSatisfaction_VeryGood.stages.0.description>
+  <!--EN: Loved using vore goal for {0}-->
+  <RV2_GoalPreferenceQuirkSatisfaction_VeryGood.stages.0.label>爱用吃人目标{0}</RV2_GoalPreferenceQuirkSatisfaction_VeryGood.stages.0.label>
+  <!--EN: I tried to eat {1} with my ass, but they got away. *Now* how am I supposed to feed my tush?-->
+  <RV2_PredatorAnalDigestInterrupted.stages.0.description>我试着进食{1}与我的屁股,但他们跑了。* 现在 * 我该怎么喂养我的树精？</RV2_PredatorAnalDigestInterrupted.stages.0.description>
+  <!--EN: Anal digestion of {0} interrupted-->
+  <RV2_PredatorAnalDigestInterrupted.stages.0.label>肛门被消化的{0}被打断</RV2_PredatorAnalDigestInterrupted.stages.0.label>
+  <!--EN: I lost {1} in my rear end—permanently!-->
+  <RV2_PredatorAnalDigestSuccess.stages.0.description>我输了{1}在我的屁股里 -- 永久!</RV2_PredatorAnalDigestSuccess.stages.0.description>
+  <!--EN: Anally digested {0}-->
+  <RV2_PredatorAnalDigestSuccess.stages.0.label>被消化{0}</RV2_PredatorAnalDigestSuccess.stages.0.label>
+  <!--EN: I tried to stuff {1} up my butt, but we were interrupted. How disappointing.-->
+  <RV2_PredatorAnalPleasureInterrupted.stages.0.description>我试着去填充{1}抬起我的屁股，但我们被打断了。多么令人失望。</RV2_PredatorAnalPleasureInterrupted.stages.0.description>
+  <!--EN: Posternation of {0} interrupted-->
+  <RV2_PredatorAnalPleasureInterrupted.stages.0.label>后者{0}被打断</RV2_PredatorAnalPleasureInterrupted.stages.0.label>
+  <!--EN: I lost {1} up my butt for a while. They're back out, now.-->
+  <RV2_PredatorAnalPleasureSuccess.stages.0.description>我输了{1}抬起我的屁股一段时间。他们现在回来了。</RV2_PredatorAnalPleasureSuccess.stages.0.description>
+  <!--EN: Posternated {0}-->
+  <RV2_PredatorAnalPleasureSuccess.stages.0.label>后发{0}</RV2_PredatorAnalPleasureSuccess.stages.0.label>
+  <!--EN: I feel so much lighter!-->
+  <RV2_PredatorAnalStoreEnd.stages.0.description>我感觉轻松多了!</RV2_PredatorAnalStoreEnd.stages.0.description>
+  <!--EN: Released {0} from intestinal storage-->
+  <RV2_PredatorAnalStoreEnd.stages.0.label>已释放{0}来自肠道储存器</RV2_PredatorAnalStoreEnd.stages.0.label>
+  <!--EN: I tried to churn {1} down into batter, but they got away. Now I'm all pent-up...-->
+  <RV2_PredatorCockConvertSpermInterrupted.stages.0.description>我试着搅动{1}变成了击球手，但他们逃走了。现在我都被压抑了...</RV2_PredatorCockConvertSpermInterrupted.stages.0.description>
+  <!--EN: Phallic spermifaction of {0} interrupted-->
+  <RV2_PredatorCockConvertSpermInterrupted.stages.0.label>阳刚精液{0}被打断</RV2_PredatorCockConvertSpermInterrupted.stages.0.label>
+  <!--EN: I unsowed and melted {1} into cum. Seed, to living being, to seed again.-->
+  <RV2_PredatorCockConvertSpermSuccess.stages.0.description>我未播种，融化了{1}入精液播种，植入活着的生物，植入种子。</RV2_PredatorCockConvertSpermSuccess.stages.0.description>
+  <!--EN: Phallically spermified {0}-->
+  <RV2_PredatorCockConvertSpermSuccess.stages.0.label>阳刚精子{0}</RV2_PredatorCockConvertSpermSuccess.stages.0.label>
+  <!--EN: Good as new!-->
+  <RV2_PredatorCockHealSuccess.stages.0.description>像新的一样优秀!</RV2_PredatorCockHealSuccess.stages.0.description>
+  <!--EN: Healed {0} in their testicles-->
+  <RV2_PredatorCockHealSuccess.stages.0.label>治愈{0}在他们的睾丸/蛋蛋</RV2_PredatorCockHealSuccess.stages.0.label>
+  <!--EN: I tried to use {1} as a sounding-rod, but we were interrupted. Can't I get just a moment to unwind?-->
+  <RV2_PredatorCockPleasureInterrupted.stages.0.description>我尝试使用{1}作为探测杆，但我们被打断了。我就不能得到一个瞬间放松一下？</RV2_PredatorCockPleasureInterrupted.stages.0.description>
+  <!--EN: Unsowing of {0} as a sex-toy interrupted-->
+  <RV2_PredatorCockPleasureInterrupted.stages.0.label>未播种{0}作为一个性玩具被打断</RV2_PredatorCockPleasureInterrupted.stages.0.label>
+  <!--EN: I sounded myself with {1}—and dropped them in.~-->
+  <RV2_PredatorCockPleasureSuccess.stages.0.description>我的声音听起来{1}~</RV2_PredatorCockPleasureSuccess.stages.0.description>
+  <!--EN: Unsowed {0} as a sex-toy-->
+  <RV2_PredatorCockPleasureSuccess.stages.0.label>未播种{0}作为一个性玩具</RV2_PredatorCockPleasureSuccess.stages.0.label>
+  <!--EN: That's a weight off my loins!-->
+  <RV2_PredatorCockStoreEnd.stages.0.description>我的腰已经瘦了!</RV2_PredatorCockStoreEnd.stages.0.description>
+  <!--EN: Released {0} from ball-storage-->
+  <RV2_PredatorCockStoreEnd.stages.0.label>已释放{0}从储存球区</RV2_PredatorCockStoreEnd.stages.0.label>
+  <!--EN: Good as new, hope you enjoyed the ride!-->
+  <RV2_PredatorFullTourHealSuccess.stages.0.description>像新的一样，希望你旅途愉快!</RV2_PredatorFullTourHealSuccess.stages.0.description>
+  <!--EN: Healed {0} in their guts-->
+  <RV2_PredatorFullTourHealSuccess.stages.0.label>治愈{0}在它们的肠子里</RV2_PredatorFullTourHealSuccess.stages.0.label>
+  <!--EN: I tried to give {1} a full tour of my digestive system, but we were interrupted. How disappointing.-->
+  <RV2_PredatorFullTourPleasureInterrupted.stages.0.description>我试图给予{1}afull tour我的消化系统，但我们被打断了。多么令人失望。</RV2_PredatorFullTourPleasureInterrupted.stages.0.description>
+  <!--EN: Guiding {0} interrupted-->
+  <RV2_PredatorFullTourPleasureInterrupted.stages.0.label>引导{0}被打断</RV2_PredatorFullTourPleasureInterrupted.stages.0.label>
+  <!--EN: I gave {1} a sensual tour of my digestive system. I feel a bit cleaner inside!-->
+  <RV2_PredatorFullTourPleasureSuccess.stages.0.description>我给予{1}asensual巡视我的消化系统。我的身体变得更干净了!</RV2_PredatorFullTourPleasureSuccess.stages.0.description>
+  <!--EN: Guided {0}-->
+  <RV2_PredatorFullTourPleasureSuccess.stages.0.label>引导{0}</RV2_PredatorFullTourPleasureSuccess.stages.0.label>
+  <!--EN: I feel so much lighter!-->
+  <RV2_PredatorFullTourStoreEnd.stages.0.description>我感觉轻松多了!</RV2_PredatorFullTourStoreEnd.stages.0.description>
+  <!--EN: Released {0} from stomach-storage by tour-->
+  <RV2_PredatorFullTourStoreEnd.stages.0.label>已释放{0}从胃-储存器之旅</RV2_PredatorFullTourStoreEnd.stages.0.label>
+  <!--EN: I tried to churn {1} down into milk, but they got away. My taps are so dry...-->
+  <RV2_PredatorNippleConvertMilkInterrupted.stages.0.description>我试着搅动{1}进入乳汁后，它们成功逃脱了。我的水龙头太干了...</RV2_PredatorNippleConvertMilkInterrupted.stages.0.description>
+  <!--EN: Mammary lactifaction of {0} interrupted-->
+  <RV2_PredatorNippleConvertMilkInterrupted.stages.0.label>乳房喷出液体（通常是乳汁）。是挤奶的前置标签。喂养{0}被打断</RV2_PredatorNippleConvertMilkInterrupted.stages.0.label>
+  <!--EN: I unsuckled {1} and melted them into milk. They made a delicious batch!-->
+  <RV2_PredatorNippleConvertMilkSuccess.stages.0.description>我未吮吸{1}并将它们融化成乳汁。他们做出了一批美味的!</RV2_PredatorNippleConvertMilkSuccess.stages.0.description>
+  <!--EN: Mammily lactified {0}-->
+  <RV2_PredatorNippleConvertMilkSuccess.stages.0.label>哺乳动物裂解{0}</RV2_PredatorNippleConvertMilkSuccess.stages.0.label>
+  <!--EN: Good as new!-->
+  <RV2_PredatorNippleHealSuccess.stages.0.description>像新的一样优秀!</RV2_PredatorNippleHealSuccess.stages.0.description>
+  <!--EN: Healed {0} in their breasts-->
+  <RV2_PredatorNippleHealSuccess.stages.0.label>治愈{0}在他们的乳房</RV2_PredatorNippleHealSuccess.stages.0.label>
+  <!--EN: I tried to give {1} a milk-bath, but we were interrupted. Can't I get just a moment to unwind?-->
+  <RV2_PredatorNipplePleasureInterrupted.stages.0.description>我试图给予{1}洗了牛奶浴，但我们被打断了。我就不能得到一个瞬间放松一下？</RV2_PredatorNipplePleasureInterrupted.stages.0.description>
+  <!--EN: Unsuckling of {0} as a sex-toy interrupted-->
+  <RV2_PredatorNipplePleasureInterrupted.stages.0.label>未吮吸的{0}作为一个sexXtoy被打断</RV2_PredatorNipplePleasureInterrupted.stages.0.label>
+  <!--EN: {1} massaged my tit from the inside-out! They should bring a friend or two next time...~-->
+  <RV2_PredatorNipplePleasureSuccess.stages.0.description>{1}从里到外给我的乳头按摩了!他们下次应该会带一两个朋友来... ~</RV2_PredatorNipplePleasureSuccess.stages.0.description>
+  <!--EN: Unsuckled {0} as a sex-toy-->
+  <RV2_PredatorNipplePleasureSuccess.stages.0.label>未吮吸{0}作为一个sexXtoy</RV2_PredatorNipplePleasureSuccess.stages.0.label>
+  <!--EN: Oh, my back is ever so grateful!-->
+  <RV2_PredatorNippleStoreEnd.stages.0.description>噢，我的背真是感激不尽!</RV2_PredatorNippleStoreEnd.stages.0.description>
+  <!--EN: Released {0} from breast-storage-->
+  <RV2_PredatorNippleStoreEnd.stages.0.label>已释放{0}来自乳房-储存区</RV2_PredatorNippleStoreEnd.stages.0.label>
+  <!--EN: I tried to gurgle {1}, but they got away. *Now* what am I supposed to eat?-->
+  <RV2_PredatorOralDigestInterrupted.stages.0.description>我试图咯咯笑{1},但他们跑了。* 现在 * 我应该吃什么？</RV2_PredatorOralDigestInterrupted.stages.0.description>
+  <!--EN: Oral digestion of {0} interrupted-->
+  <RV2_PredatorOralDigestInterrupted.stages.0.label>用嘴被消化的{0}被打断</RV2_PredatorOralDigestInterrupted.stages.0.label>
+  <!--EN: I ate and gurgled {1}. A satisfying meal!-->
+  <RV2_PredatorOralDigestSuccess.stages.0.description>我咯咯笑了起来{1}令人满意的一餐!</RV2_PredatorOralDigestSuccess.stages.0.description>
+  <!--EN: Orally digested {0}-->
+  <RV2_PredatorOralDigestSuccess.stages.0.label>被消化{0}</RV2_PredatorOralDigestSuccess.stages.0.label>
+  <!--EN: Good as new!-->
+  <RV2_PredatorOralHealSuccess.stages.0.description>像新的一样优秀!</RV2_PredatorOralHealSuccess.stages.0.description>
+  <!--EN: Healed {0} in their stomach-->
+  <RV2_PredatorOralHealSuccess.stages.0.label>治愈{0}在它们的胃里</RV2_PredatorOralHealSuccess.stages.0.label>
+  <!--EN: I tried to give {1} a vacation in my stomach, but we were interrupted. How disappointing.-->
+  <RV2_PredatorOralPleasureInterrupted.stages.0.description>我试图给予{1}一个假期在我肚子里，但我们被打断了。多么令人失望。</RV2_PredatorOralPleasureInterrupted.stages.0.description>
+  <!--EN: Bellying {0} interrupted-->
+  <RV2_PredatorOralPleasureInterrupted.stages.0.label>吼叫{0}被打断</RV2_PredatorOralPleasureInterrupted.stages.0.label>
+  <!--EN: I gave {1} a place to relax in my stomach. Being so full felt great!-->
+  <RV2_PredatorOralPleasureSuccess.stages.0.description>我给予{1}一个在我胃里放松的地方。吃得饱饱的感觉真是太棒了!</RV2_PredatorOralPleasureSuccess.stages.0.description>
+  <!--EN: Bellied {0}-->
+  <RV2_PredatorOralPleasureSuccess.stages.0.label>大肚{0}</RV2_PredatorOralPleasureSuccess.stages.0.label>
+  <!--EN: I feel so much lighter!-->
+  <RV2_PredatorOralStoreEnd.stages.0.description>我感觉轻松多了!</RV2_PredatorOralStoreEnd.stages.0.description>
+  <!--EN: Released {0} from stomach-storage-->
+  <RV2_PredatorOralStoreEnd.stages.0.label>已释放{0}从胃储存器中</RV2_PredatorOralStoreEnd.stages.0.label>
+  <!--EN: I tried to melt {1} into lube, but they got away. Now I'm all pent-up...-->
+  <RV2_PredatorVaginalConvertLubeInterrupted.stages.0.description>我试图融化{1}入润滑油,但他们跑了。现在我都被压抑了...</RV2_PredatorVaginalConvertLubeInterrupted.stages.0.description>
+  <!--EN: Vaginal lubrifaction of {0} interrupted-->
+  <RV2_PredatorVaginalConvertLubeInterrupted.stages.0.label>阴道淫荡于{0}被打断</RV2_PredatorVaginalConvertLubeInterrupted.stages.0.label>
+  <!--EN: I unbirthed and melted {1} into lube. Their life began in one womb (probably) and ended in another.-->
+  <RV2_PredatorVaginalConvertLubeSuccess.stages.0.description>我刚出生就融化了{1}入润滑油他们的生命始于一个子宫 (可能)，止于另一个子宫。</RV2_PredatorVaginalConvertLubeSuccess.stages.0.description>
+  <!--EN: Vaginally lubrified {0}-->
+  <RV2_PredatorVaginalConvertLubeSuccess.stages.0.label>经阴道失去知觉{0}</RV2_PredatorVaginalConvertLubeSuccess.stages.0.label>
+  <!--EN: Good as new!-->
+  <RV2_PredatorVaginalHealSuccess.stages.0.description>像新的一样优秀!</RV2_PredatorVaginalHealSuccess.stages.0.description>
+  <!--EN: Healed {0} in their womb-->
+  <RV2_PredatorVaginalHealSuccess.stages.0.label>治愈{0}在他们的子宫内</RV2_PredatorVaginalHealSuccess.stages.0.label>
+  <!--EN: I tried to fuck myself with {1}, but we were interrupted. Can't I get just a moment to unwind?-->
+  <RV2_PredatorVaginalPleasureInterrupted.stages.0.description>我试图操我自己{1},但我们被打断了。我就不能得到一个瞬间放松一下？</RV2_PredatorVaginalPleasureInterrupted.stages.0.description>
+  <!--EN: Unbirthing of {0} as a sex-toy interrupted-->
+  <RV2_PredatorVaginalPleasureInterrupted.stages.0.label>展开{0}作为一个sexXtoy被打断</RV2_PredatorVaginalPleasureInterrupted.stages.0.label>
+  <!--EN: I fucked myself with {1}! I'm still twitching just thinking about it.~-->
+  <RV2_PredatorVaginalPleasureSuccess.stages.0.description>我用干了自己{1}不!一想到这，我还在抽搐。~</RV2_PredatorVaginalPleasureSuccess.stages.0.description>
+  <!--EN: Unbirthed {0} as a sex-toy-->
+  <RV2_PredatorVaginalPleasureSuccess.stages.0.label>未生育{0}作为一个sexXtoy</RV2_PredatorVaginalPleasureSuccess.stages.0.label>
+  <!--EN: How disappointing.-->
+  <RV2_PredatorVaginalReformInterrupted.stages.0.description>多么令人失望。</RV2_PredatorVaginalReformInterrupted.stages.0.description>
+  <!--EN: Rebirth of {0} interrupted-->
+  <RV2_PredatorVaginalReformInterrupted.stages.0.label>重生{0}被打断</RV2_PredatorVaginalReformInterrupted.stages.0.label>
+  <!--EN: They look way better with my genes.-->
+  <RV2_PredatorVaginalReformSuccess.stages.0.description>以我的基因来看，他们看起来好多了。</RV2_PredatorVaginalReformSuccess.stages.0.description>
+  <!--EN: Rebirthed {0}-->
+  <RV2_PredatorVaginalReformSuccess.stages.0.label>重生{0}</RV2_PredatorVaginalReformSuccess.stages.0.label>
+  <!--EN: That's a load off my hips!-->
+  <RV2_PredatorVaginalStoreEnd.stages.0.description>真讨厌我!</RV2_PredatorVaginalStoreEnd.stages.0.description>
+  <!--EN: Released {0} from womb-storage-->
+  <RV2_PredatorVaginalStoreEnd.stages.0.label>已释放{0}从储存室</RV2_PredatorVaginalStoreEnd.stages.0.label>
+  <!--EN: {1} tried to feed me to their ass! I'm not butt-food!-->
+  <RV2_PreyAnalDigestInterrupted.stages.0.description>{1}试图把我喂给他们屁股不!我又不是屁股饭!</RV2_PreyAnalDigestInterrupted.stages.0.description>
+  <!--EN: Escaped anal digestion-->
+  <RV2_PreyAnalDigestInterrupted.stages.0.label>逃跑了肛门被消化</RV2_PreyAnalDigestInterrupted.stages.0.label>
+  <!--EN: {1} tried to push me up their posterior, but we were interrupted. How disappointing.-->
+  <RV2_PreyAnalPleasureInterrupted.stages.0.description>{1}试图把我推到他们的后面，但我们被打断了。多么令人失望。</RV2_PreyAnalPleasureInterrupted.stages.0.description>
+  <!--EN: Posternation by {0} interrupted-->
+  <RV2_PreyAnalPleasureInterrupted.stages.0.label>邮寄给{0}被打断</RV2_PreyAnalPleasureInterrupted.stages.0.label>
+  <!--EN: {1} sent me deep inside their derriere. I'm a spelunker!-->
+  <RV2_PreyAnalPleasureSuccess.stages.0.description>{1}让我深入他们的臀部。我是一名洞穴猎人!</RV2_PreyAnalPleasureSuccess.stages.0.description>
+  <!--EN: Posternated by {0}-->
+  <RV2_PreyAnalPleasureSuccess.stages.0.label>由{0}</RV2_PreyAnalPleasureSuccess.stages.0.label>
+  <!--EN: It's nice to have room to stretch again.-->
+  <RV2_PreyAnalStoreEnd.stages.0.description>有空间再次伸展身体真好。</RV2_PreyAnalStoreEnd.stages.0.description>
+  <!--EN: Released from {0}'s intestinal storage-->
+  <RV2_PreyAnalStoreEnd.stages.0.label>释放{0}的肠道储存器</RV2_PreyAnalStoreEnd.stages.0.label>
+  <!--EN: {1} tried to melt me into sperm! I'm not a disposable sex-toy!-->
+  <RV2_PreyCockConvertSpermInterrupted.stages.0.description>{1}试图将我熔化精子不!我不是一次性的sexXtoy不!</RV2_PreyCockConvertSpermInterrupted.stages.0.description>
+  <!--EN: Escaped phallic spermifaction by {0}-->
+  <RV2_PreyCockConvertSpermInterrupted.stages.0.label>逃脱时{0}</RV2_PreyCockConvertSpermInterrupted.stages.0.label>
+  <!--EN: I had a reinvigorating bath.-->
+  <RV2_PreyCockHealSuccess.stages.0.description>我洗了一个充满活力的浴缸。</RV2_PreyCockHealSuccess.stages.0.description>
+  <!--EN: Healed by {0}'s testicles-->
+  <RV2_PreyCockHealSuccess.stages.0.label>治愈{0}的睾丸/蛋蛋</RV2_PreyCockHealSuccess.stages.0.label>
+  <!--EN: {1} tried to use me like a sounding-rod, but we were interrupted. I was so excited, too.-->
+  <RV2_PreyCockPleasureInterrupted.stages.0.description>{1}我想把我当作探测杆来利用，但是我们被打断了。我也很兴奋。</RV2_PreyCockPleasureInterrupted.stages.0.description>
+  <!--EN: Unsowing by {0} as a sex-toy interrupted-->
+  <RV2_PreyCockPleasureInterrupted.stages.0.label>未播种{0}作为一个sexXtoy被打断</RV2_PreyCockPleasureInterrupted.stages.0.label>
+  <!--EN: {1} used me as a living sounding-rod! I'm a little bit dizzy, but damn if it wasn't hot!-->
+  <RV2_PreyCockPleasureSuccess.stages.0.description>{1}把我当作活的试探杆!我有点头晕，但该死的如果不是这样性感的不!</RV2_PreyCockPleasureSuccess.stages.0.description>
+  <!--EN: Unsown by {0} as a sex-toy-->
+  <RV2_PreyCockPleasureSuccess.stages.0.label>未播种{0}作为一个sexXtoy</RV2_PreyCockPleasureSuccess.stages.0.label>
+  <!--EN: It's nice to have room to stretch again.-->
+  <RV2_PreyCockStoreEnd.stages.0.description>有空间再次伸展身体真好。</RV2_PreyCockStoreEnd.stages.0.description>
+  <!--EN: Released from {0}'s ball-storage-->
+  <RV2_PreyCockStoreEnd.stages.0.label>释放{0}的控球区</RV2_PreyCockStoreEnd.stages.0.label>
+  <!--EN: Mmh~! Still good on the way back up!-->
+  <RV2_PreyExitingMouthPleasuring.stages.0.description>嗯 ~!回来的路上还不错!</RV2_PreyExitingMouthPleasuring.stages.0.description>
+  <!--EN: Pleasuring prey in mouth-->
+  <RV2_PreyExitingMouthPleasuring.stages.0.label>令人愉悦的猎物</RV2_PreyExitingMouthPleasuring.stages.0.label>
+  <!--EN: I'd say "wait your turn", but this actually isn't so bad!-->
+  <RV2_PreyExitingMouthPleasuring.stages.1.description>我会说 “等着轮到你”，但这其实也没那么糟糕!</RV2_PreyExitingMouthPleasuring.stages.1.description>
+  <!--EN: Pleasuring prey in mouth-->
+  <RV2_PreyExitingMouthPleasuring.stages.1.label>令人愉悦的猎物</RV2_PreyExitingMouthPleasuring.stages.1.label>
+  <!--EN: I had a reinvigorating bath, and a nice trip.-->
+  <RV2_PreyFullTourHealSuccess.stages.0.description>我洗了一个充满活力的浴缸，旅途愉快。</RV2_PreyFullTourHealSuccess.stages.0.description>
+  <!--EN: Healed by {0}'s guts-->
+  <RV2_PreyFullTourHealSuccess.stages.0.label>治愈{0}的勇气</RV2_PreyFullTourHealSuccess.stages.0.label>
+  <!--EN: {1} tried to give me a full tour of their digestive system, but we were interrupted. How disappointing.-->
+  <RV2_PreyFullTourPleasureInterrupted.stages.0.description>{1}试图给我一个消化道游览他们的消化系统，但我们被打断了。多么令人失望。</RV2_PreyFullTourPleasureInterrupted.stages.0.description>
+  <!--EN: Tour by {0} interrupted-->
+  <RV2_PreyFullTourPleasureInterrupted.stages.0.label>按{0}被打断</RV2_PreyFullTourPleasureInterrupted.stages.0.label>
+  <!--EN: {1} gave me a sensual tour of their digestive system. Every inch, a pleasure!-->
+  <RV2_PreyFullTourPleasureSuccess.stages.0.description>{1}给了我一个性感的巡视他们的消化系统。每一寸，一种乐趣!</RV2_PreyFullTourPleasureSuccess.stages.0.description>
+  <!--EN: Guided by {0}-->
+  <RV2_PreyFullTourPleasureSuccess.stages.0.label>受驱使{0}</RV2_PreyFullTourPleasureSuccess.stages.0.label>
+  <!--EN: It's nice to have room to stretch again.-->
+  <RV2_PreyFullTourStoreEnd.stages.0.description>有空间再次伸展身体真好。</RV2_PreyFullTourStoreEnd.stages.0.description>
+  <!--EN: Released from {0}'s stomach-storage by tour-->
+  <RV2_PreyFullTourStoreEnd.stages.0.label>释放{0}旅行时的储存胃量</RV2_PreyFullTourStoreEnd.stages.0.label>
+  <!--EN: Good riddance!-->
+  <RV2_PreyInAnusDumping.stages.0.description>很好的解除!</RV2_PreyInAnusDumping.stages.0.description>
+  <!--EN: Dumping remains out of ass-->
+  <RV2_PreyInAnusDumping.stages.0.label>清理残骸屁股</RV2_PreyInAnusDumping.stages.0.label>
+  <!--EN: I'm gonna be sitting here a while...-->
+  <RV2_PreyInAnusDumping.stages.1.description>我会在这里坐一段时间</RV2_PreyInAnusDumping.stages.1.description>
+  <!--EN: Dumping multiple remains out of ass-->
+  <RV2_PreyInAnusDumping.stages.1.label>丢弃多个残骸屁股</RV2_PreyInAnusDumping.stages.1.label>
+  <!--EN: Time's up!-->
+  <RV2_PreyInAnusExiting.stages.0.description>时间到了!</RV2_PreyInAnusExiting.stages.0.description>
+  <!--EN: Dumping live prey out of ass-->
+  <RV2_PreyInAnusExiting.stages.0.label>将活物倾倒出屁股</RV2_PreyInAnusExiting.stages.0.label>
+  <!--EN: How many people did I eat...?-->
+  <RV2_PreyInAnusExiting.stages.1.description>我吃了多少人...？</RV2_PreyInAnusExiting.stages.1.description>
+  <!--EN: Dumping multiple live prey out of ass-->
+  <RV2_PreyInAnusExiting.stages.1.label>将多个活着的猎物扔出屁股</RV2_PreyInAnusExiting.stages.1.label>
+  <!--EN: Come on through my backdoor, why don't you?~-->
+  <RV2_PreyInAnusPassing.stages.0.description>从我的后门进来，为什么不呢？~</RV2_PreyInAnusPassing.stages.0.description>
+  <!--EN: Posternating prey-->
+  <RV2_PreyInAnusPassing.stages.0.label>将猎物收放</RV2_PreyInAnusPassing.stages.0.label>
+  <!--EN: I'm gonna be walking funny after this...-->
+  <RV2_PreyInAnusPassing.stages.1.description>跟在这后面我会觉得很有趣</RV2_PreyInAnusPassing.stages.1.description>
+  <!--EN: Posternating multiple prey-->
+  <RV2_PreyInAnusPassing.stages.1.label>发射多只猎物</RV2_PreyInAnusPassing.stages.1.label>
+  <!--EN: Come on through my backdoor, why don't you?~-->
+  <RV2_PreyInAnusPleasuring.stages.0.description>从我的后门进来，为什么不呢？~</RV2_PreyInAnusPleasuring.stages.0.description>
+  <!--EN: Pleasuring asshole with prey-->
+  <RV2_PreyInAnusPleasuring.stages.0.label>有猎物的愉悦混蛋</RV2_PreyInAnusPleasuring.stages.0.label>
+  <!--EN: I'm gonna be walking funny after this...-->
+  <RV2_PreyInAnusPleasuring.stages.1.description>跟在这后面我会觉得很有趣</RV2_PreyInAnusPleasuring.stages.1.description>
+  <!--EN: Pleasuring asshole with multiple prey-->
+  <RV2_PreyInAnusPleasuring.stages.1.label>有多个猎物的愉悦混蛋</RV2_PreyInAnusPleasuring.stages.1.label>
+  <!--EN: There's that gentle tingle I love...~-->
+  <RV2_PreyInBreastsConvertingMilk.stages.0.description>我喜欢这种温柔的刺痛... ~</RV2_PreyInBreastsConvertingMilk.stages.0.description>
+  <!--EN: Lactifying prey in breast-->
+  <RV2_PreyInBreastsConvertingMilk.stages.0.label>猎物乳房</RV2_PreyInBreastsConvertingMilk.stages.0.label>
+  <!--EN: I suppose udders don't have the same symmetry problems. Mmh, I can't wait to have a taste!-->
+  <RV2_PreyInBreastsConvertingMilk.stages.1.description>我想 uders 没有相同的对称问题。嗯，我好想尝尝!</RV2_PreyInBreastsConvertingMilk.stages.1.description>
+  <!--EN: Lactifying two prey in breasts-->
+  <RV2_PreyInBreastsConvertingMilk.stages.1.label>正在使两个猎物离线乳房</RV2_PreyInBreastsConvertingMilk.stages.1.label>
+  <!--EN: I bet cows are envious of me!-->
+  <RV2_PreyInBreastsConvertingMilk.stages.2.description>我敢打赌奶牛肯定很羡慕我!</RV2_PreyInBreastsConvertingMilk.stages.2.description>
+  <!--EN: Lactifying three prey in breasts-->
+  <RV2_PreyInBreastsConvertingMilk.stages.2.label>正在使三名猎物离线乳房</RV2_PreyInBreastsConvertingMilk.stages.2.label>
+  <!--EN: I'll have enough to feed the colony for days... Or just myself.~-->
+  <RV2_PreyInBreastsConvertingMilk.stages.3.description>我将有足够的食物来喂养这个殖民地几天...或者只有我自己。~</RV2_PreyInBreastsConvertingMilk.stages.3.description>
+  <!--EN: Lactifying several prey in breasts-->
+  <RV2_PreyInBreastsConvertingMilk.stages.3.label>正在使多个猎物离线乳房</RV2_PreyInBreastsConvertingMilk.stages.3.label>
+  <!--EN: Ever wanted to nurture something to the fullest?-->
+  <RV2_PreyInBreastsDissolvingMilk.stages.0.description>想要培育一个东西到极致吗？</RV2_PreyInBreastsDissolvingMilk.stages.0.description>
+  <!--EN: Dissolving prey into breastmilk-->
+  <RV2_PreyInBreastsDissolvingMilk.stages.0.label>将猎物溶解成乳房喷出液体（通常是乳汁）。是挤奶的前置标签。</RV2_PreyInBreastsDissolvingMilk.stages.0.label>
+  <!--EN: You two'll just be milk flowing from my taps here soon.-->
+  <RV2_PreyInBreastsDissolvingMilk.stages.1.description>你们两个很快就会从我的水龙头里流出来。</RV2_PreyInBreastsDissolvingMilk.stages.1.description>
+  <!--EN: Dissolving two prey into breastmilk-->
+  <RV2_PreyInBreastsDissolvingMilk.stages.1.label>将两个猎物溶解进乳房喷出液体（通常是乳汁）。是挤奶的前置标签。中</RV2_PreyInBreastsDissolvingMilk.stages.1.label>
+  <!--EN: You think I can't handle a little thrashing in my dugs?-->
+  <RV2_PreyInBreastsDissolvingMilk.stages.2.description>你认为我不能忍受在我的 dugs 身上敲击？</RV2_PreyInBreastsDissolvingMilk.stages.2.description>
+  <!--EN: Dissolving three prey into breastmilk-->
+  <RV2_PreyInBreastsDissolvingMilk.stages.2.label>将三名猎物溶解进乳房喷出液体（通常是乳汁）。是挤奶的前置标签。中</RV2_PreyInBreastsDissolvingMilk.stages.2.label>
+  <!--EN: I hope we can drink all of y'all before you spoil!-->
+  <RV2_PreyInBreastsDissolvingMilk.stages.3.description>我希望在你们宠坏之前，我们能把你们都喝了!</RV2_PreyInBreastsDissolvingMilk.stages.3.description>
+  <!--EN: Dissolving several prey into breastmilk-->
+  <RV2_PreyInBreastsDissolvingMilk.stages.3.label>将多只猎物溶解进乳房喷出液体（通常是乳汁）。是挤奶的前置标签。中</RV2_PreyInBreastsDissolvingMilk.stages.3.label>
+  <!--EN: Let's get you patched up!-->
+  <RV2_PreyInBreastsHealing.stages.0.description>让我们给你包扎一下!</RV2_PreyInBreastsHealing.stages.0.description>
+  <!--EN: Healing prey in breasts-->
+  <RV2_PreyInBreastsHealing.stages.0.label>治愈猎物乳房</RV2_PreyInBreastsHealing.stages.0.label>
+  <!--EN: Pretty crowded...-->
+  <RV2_PreyInBreastsHealing.stages.1.description>非常拥挤...</RV2_PreyInBreastsHealing.stages.1.description>
+  <!--EN: Healing multiple prey in breasts-->
+  <RV2_PreyInBreastsHealing.stages.1.label>治疗多个猎物乳房</RV2_PreyInBreastsHealing.stages.1.label>
+  <!--EN: Gone soft already?-->
+  <RV2_PreyInBreastsMushingMilk.stages.0.description>已经温软了？</RV2_PreyInBreastsMushingMilk.stages.0.description>
+  <!--EN: Breaking down prey into breastmilk-->
+  <RV2_PreyInBreastsMushingMilk.stages.0.label>将猎物分解成乳房喷出液体（通常是乳汁）。是挤奶的前置标签。</RV2_PreyInBreastsMushingMilk.stages.0.label>
+  <!--EN: Back to the old jiggle-and-wobble.-->
+  <RV2_PreyInBreastsMushingMilk.stages.1.description>回到过去的摇晃和摇晃状态。</RV2_PreyInBreastsMushingMilk.stages.1.description>
+  <!--EN: Breaking down two prey into breastmilk-->
+  <RV2_PreyInBreastsMushingMilk.stages.1.label>将两个猎物分解成乳房喷出液体（通常是乳汁）。是挤奶的前置标签。喂养</RV2_PreyInBreastsMushingMilk.stages.1.label>
+  <!--EN: Sure is a shame I can't redistribute the load now that you're churning down. Ah, well!~-->
+  <RV2_PreyInBreastsMushingMilk.stages.2.description>很遗憾，现在你正在翻腾，我无法重新分配货物。啊，嗯!~</RV2_PreyInBreastsMushingMilk.stages.2.description>
+  <!--EN: Breaking down three prey into breastmilk-->
+  <RV2_PreyInBreastsMushingMilk.stages.2.label>将三名猎物分解成乳房喷出液体（通常是乳汁）。是挤奶的前置标签。喂养</RV2_PreyInBreastsMushingMilk.stages.2.label>
+  <!--EN: I can already feel that familiar tingle!-->
+  <RV2_PreyInBreastsMushingMilk.stages.3.description>我已经能感受到那种熟悉的刺痛!</RV2_PreyInBreastsMushingMilk.stages.3.description>
+  <!--EN: Breaking down several prey into breastmilk-->
+  <RV2_PreyInBreastsMushingMilk.stages.3.label>将几个猎物分解成乳房喷出液体（通常是乳汁）。是挤奶的前置标签。喂养</RV2_PreyInBreastsMushingMilk.stages.3.label>
+  <!--EN: Don't stop...-->
+  <RV2_PreyInBreastsPleasuring.stages.0.description>不停止...</RV2_PreyInBreastsPleasuring.stages.0.description>
+  <!--EN: Pleasuring prey in breast-->
+  <RV2_PreyInBreastsPleasuring.stages.0.label>捕食动物乳房</RV2_PreyInBreastsPleasuring.stages.0.label>
+  <!--EN: Keep going, both of you...!-->
+  <RV2_PreyInBreastsPleasuring.stages.1.description>你们两个继续...!</RV2_PreyInBreastsPleasuring.stages.1.description>
+  <!--EN: Pleasuring two prey in breasts-->
+  <RV2_PreyInBreastsPleasuring.stages.1.label>猎杀两个猎物乳房</RV2_PreyInBreastsPleasuring.stages.1.label>
+  <!--EN: Three... all at once!-->
+  <RV2_PreyInBreastsPleasuring.stages.2.description>三个... 同时建造!</RV2_PreyInBreastsPleasuring.stages.2.description>
+  <!--EN: Pleasuring three prey in breasts-->
+  <RV2_PreyInBreastsPleasuring.stages.2.label>取悦三个猎物乳房</RV2_PreyInBreastsPleasuring.stages.2.label>
+  <!--EN: I'M GONNA—-->
+  <RV2_PreyInBreastsPleasuring.stages.3.description>我要 --</RV2_PreyInBreastsPleasuring.stages.3.description>
+  <!--EN: Pleasuring several prey in breasts-->
+  <RV2_PreyInBreastsPleasuring.stages.3.label>取悦几个猎物乳房</RV2_PreyInBreastsPleasuring.stages.3.label>
+  <!--EN: My tit's laden. A bit unbalanced, but delightful all the same!-->
+  <RV2_PreyInBreastsStoring.stages.0.description>我的山雀饱了。有点不平衡，但仍然令人愉悦!</RV2_PreyInBreastsStoring.stages.0.description>
+  <!--EN: Prey stored in breast-->
+  <RV2_PreyInBreastsStoring.stages.0.label>猎物储存于乳房</RV2_PreyInBreastsStoring.stages.0.label>
+  <!--EN: Two prey, one in each jug: the perfect ratio!-->
+  <RV2_PreyInBreastsStoring.stages.1.description>两个猎物，每个壶里有一个: 完美的比例!</RV2_PreyInBreastsStoring.stages.1.description>
+  <!--EN: Two prey stored in breasts-->
+  <RV2_PreyInBreastsStoring.stages.1.label>两个猎物储存于乳房</RV2_PreyInBreastsStoring.stages.1.label>
+  <!--EN: And back to imbalance—not that I'm complaining!-->
+  <RV2_PreyInBreastsStoring.stages.2.description>回到失衡 -- 我并不是在抱怨!</RV2_PreyInBreastsStoring.stages.2.description>
+  <!--EN: Three prey stored in breasts-->
+  <RV2_PreyInBreastsStoring.stages.2.label>三个猎物储存于乳房</RV2_PreyInBreastsStoring.stages.2.label>
+  <!--EN: I'm so buxom now that you can't even tell if I'm asymmetrical...~-->
+  <RV2_PreyInBreastsStoring.stages.3.description>~</RV2_PreyInBreastsStoring.stages.3.description>
+  <!--EN: Several prey stored in breasts-->
+  <RV2_PreyInBreastsStoring.stages.3.label>一些猎物储存于乳房</RV2_PreyInBreastsStoring.stages.3.label>
+  <!--EN: Oh, the plans I have for you!-->
+  <RV2_PreyInBreastsWarming.stages.0.description>哦，我为你准备的计划!</RV2_PreyInBreastsWarming.stages.0.description>
+  <!--EN: Warming up breast for prey-->
+  <RV2_PreyInBreastsWarming.stages.0.label>热身乳房对于猎物</RV2_PreyInBreastsWarming.stages.0.label>
+  <!--EN: Oh, the plans I have for you!-->
+  <RV2_PreyInBreastsWarming.stages.1.description>哦，我为你准备的计划!</RV2_PreyInBreastsWarming.stages.1.description>
+  <!--EN: Warming up breasts for multiple prey-->
+  <RV2_PreyInBreastsWarming.stages.1.label>热身乳房多个猎物</RV2_PreyInBreastsWarming.stages.1.label>
+  <!--EN: Let's see how big a load you made!-->
+  <RV2_PreyInCockDumpingOrgasm.stages.0.description>让我们看看你负载的东西有多大!</RV2_PreyInCockDumpingOrgasm.stages.0.description>
+  <!--EN: Jizzing out remains-->
+  <RV2_PreyInCockDumpingOrgasm.stages.0.label>取出残骸</RV2_PreyInCockDumpingOrgasm.stages.0.label>
+  <!--EN: Gonna paint the town white!~-->
+  <RV2_PreyInCockDumpingOrgasm.stages.1.description>将油漆城镇变白了!~</RV2_PreyInCockDumpingOrgasm.stages.1.description>
+  <!--EN: Jizzing out multiple remains-->
+  <RV2_PreyInCockDumpingOrgasm.stages.1.label>剩余数</RV2_PreyInCockDumpingOrgasm.stages.1.label>
+  <!--EN: I feel like a power washer.-->
+  <RV2_PreyInCockDumpingStream.stages.0.description>我感觉自己像个电力洗衣机。</RV2_PreyInCockDumpingStream.stages.0.description>
+  <!--EN: Hosing out remains from cock-->
+  <RV2_PreyInCockDumpingStream.stages.0.label>冲洗公鸡的尸体</RV2_PreyInCockDumpingStream.stages.0.label>
+  <!--EN: I could get a job as a public fountain!-->
+  <RV2_PreyInCockDumpingStream.stages.1.description>我可以找份工作公共场所喷泉!</RV2_PreyInCockDumpingStream.stages.1.description>
+  <!--EN: Hosing out multiple remains from cock-->
+  <RV2_PreyInCockDumpingStream.stages.1.label>从公鸡身上冲洗出多个遗骸</RV2_PreyInCockDumpingStream.stages.1.label>
+  <!--EN: You've earned your freedom, little cumsluts!~-->
+  <RV2_PreyInCockExiting.stages.0.description>你赢得了自由，小无赖!~</RV2_PreyInCockExiting.stages.0.description>
+  <!--EN: Jizzing out live prey-->
+  <RV2_PreyInCockExiting.stages.0.label>捕猎活物</RV2_PreyInCockExiting.stages.0.label>
+  <!--EN: OH SWEET MERCY, ONE AT A TIME!-->
+  <RV2_PreyInCockExiting.stages.1.description>哦，温柔的慈悲，一次一个!</RV2_PreyInCockExiting.stages.1.description>
+  <!--EN: Jizzing out multiple live prey-->
+  <RV2_PreyInCockExiting.stages.1.label>杀死多个活物</RV2_PreyInCockExiting.stages.1.label>
+  <!--EN: You've earned your freedom, little cumsluts!~-->
+  <RV2_PreyInCockExitingOrgasm.stages.0.description>你赢得了自由，小无赖!~</RV2_PreyInCockExitingOrgasm.stages.0.description>
+  <!--EN: Jizzing out live prey-->
+  <RV2_PreyInCockExitingOrgasm.stages.0.label>捕猎活物</RV2_PreyInCockExitingOrgasm.stages.0.label>
+  <!--EN: OH SWEET MERCY, ONE AT A TIME!-->
+  <RV2_PreyInCockExitingOrgasm.stages.1.description>哦，温柔的慈悲，一次一个!</RV2_PreyInCockExitingOrgasm.stages.1.description>
+  <!--EN: Jizzing out multiple live prey-->
+  <RV2_PreyInCockExitingOrgasm.stages.1.label>杀死多个活物</RV2_PreyInCockExitingOrgasm.stages.1.label>
+  <!--EN: I'm a living waterslide!-->
+  <RV2_PreyInCockExitingStream.stages.0.description>我是一个活口!</RV2_PreyInCockExitingStream.stages.0.description>
+  <!--EN: Hosing out live prey from cock-->
+  <RV2_PreyInCockExitingStream.stages.0.label>从公鸡身上冲洗猎物</RV2_PreyInCockExitingStream.stages.0.label>
+  <!--EN: Hey! That's too many riders at once!-->
+  <RV2_PreyInCockExitingStream.stages.1.description>嘿!同时有太多乘客!</RV2_PreyInCockExitingStream.stages.1.description>
+  <!--EN: Hosing out multiple live prey from cock-->
+  <RV2_PreyInCockExitingStream.stages.1.label>从公鸡身上冲洗多个活物</RV2_PreyInCockExitingStream.stages.1.label>
+  <!--EN: That's it, down the chute with you...~-->
+  <RV2_PreyInCockPassing.stages.0.description>就这样，和你一起下了降落伞... ~</RV2_PreyInCockPassing.stages.0.description>
+  <!--EN: Unsowing prey-->
+  <RV2_PreyInCockPassing.stages.0.label>放生的猎物</RV2_PreyInCockPassing.stages.0.label>
+  <!--EN: So... tight...~-->
+  <RV2_PreyInCockPassing.stages.1.description>好... 好紧... ~</RV2_PreyInCockPassing.stages.1.description>
+  <!--EN: Unsowing multiple prey-->
+  <RV2_PreyInCockPassing.stages.1.label>放生多个猎物</RV2_PreyInCockPassing.stages.1.label>
+  <!--EN: Little preything, sounding off!~-->
+  <RV2_PreyInCockPleasuring.stages.0.description>小小的猎物，听起来很糟糕!~</RV2_PreyInCockPleasuring.stages.0.description>
+  <!--EN: Sounding with prey-->
+  <RV2_PreyInCockPleasuring.stages.0.label>用猎物探测</RV2_PreyInCockPleasuring.stages.0.label>
+  <!--EN: So... tight...-->
+  <RV2_PreyInCockPleasuring.stages.1.description>如此... 紧张...</RV2_PreyInCockPleasuring.stages.1.description>
+  <!--EN: Sounding with multiple prey-->
+  <RV2_PreyInCockPleasuring.stages.1.label>多只猎物试探</RV2_PreyInCockPleasuring.stages.1.label>
+  <!--EN: Someone's on the way out.-->
+  <RV2_PreyInIntestinesExiting.stages.0.description>有人在出去的路上。</RV2_PreyInIntestinesExiting.stages.0.description>
+  <!--EN: Prey leaving intestines-->
+  <RV2_PreyInIntestinesExiting.stages.0.label>猎物离开肠道</RV2_PreyInIntestinesExiting.stages.0.label>
+  <!--EN: Two gut-sluts, coming through!-->
+  <RV2_PreyInIntestinesExiting.stages.1.description>两根肠子，射了过去!</RV2_PreyInIntestinesExiting.stages.1.description>
+  <!--EN: Two prey leaving intestines-->
+  <RV2_PreyInIntestinesExiting.stages.1.label>两个猎物正在离开肠道</RV2_PreyInIntestinesExiting.stages.1.label>
+  <!--EN: So wonderfully heavy...~-->
+  <RV2_PreyInIntestinesExiting.stages.2.description>好重啊... ~</RV2_PreyInIntestinesExiting.stages.2.description>
+  <!--EN: Three prey leaving intestines-->
+  <RV2_PreyInIntestinesExiting.stages.2.label>三名猎物离开肠道</RV2_PreyInIntestinesExiting.stages.2.label>
+  <!--EN: Here's hoping I don't get backed up!-->
+  <RV2_PreyInIntestinesExiting.stages.3.description>希望我不要被备份!</RV2_PreyInIntestinesExiting.stages.3.description>
+  <!--EN: Several prey leaving intestines-->
+  <RV2_PreyInIntestinesExiting.stages.3.label>几只猎物正在离开肠道</RV2_PreyInIntestinesExiting.stages.3.label>
+  <!--EN: One prey stuck where the sun don't shine.-->
+  <RV2_PreyInIntestinesPassing.stages.0.description>一个猎物附着在了阳光不足的地方。</RV2_PreyInIntestinesPassing.stages.0.description>
+  <!--EN: Stomach-bound prey in intestines-->
+  <RV2_PreyInIntestinesPassing.stages.0.label>胃-绑住的肠子里的猎物</RV2_PreyInIntestinesPassing.stages.0.label>
+  <!--EN: Two prey, coiled up tight in my innards.-->
+  <RV2_PreyInIntestinesPassing.stages.1.description>两个猎物，在我的体内盘绕得很紧。</RV2_PreyInIntestinesPassing.stages.1.description>
+  <!--EN: Two stomach-bound prey in intestines-->
+  <RV2_PreyInIntestinesPassing.stages.1.label>双胃-绑住的肠子里的猎物</RV2_PreyInIntestinesPassing.stages.1.label>
+  <!--EN: Three little gut-sluts, all snatched up snug...-->
+  <RV2_PreyInIntestinesPassing.stages.2.description>三个小小的肠子，都被抢走了.</RV2_PreyInIntestinesPassing.stages.2.description>
+  <!--EN: Three stomach-bound prey in intestines-->
+  <RV2_PreyInIntestinesPassing.stages.2.label>三胃-绑住的肠子里的猎物</RV2_PreyInIntestinesPassing.stages.2.label>
+  <!--EN: Oh, it's bumper-to-bumper traffic on the road from *my* bumper to my belly!~-->
+  <RV2_PreyInIntestinesPassing.stages.3.description>哦，从 * 我的 * 保险杠到我的肚子，这是一次又一次的碰见!~</RV2_PreyInIntestinesPassing.stages.3.description>
+  <!--EN: Several stomach-bound prey up the butt-->
+  <RV2_PreyInIntestinesPassing.stages.3.label>几个胃-绑住的捕食屁股</RV2_PreyInIntestinesPassing.stages.3.label>
+  <!--EN: Bound up tight there, are you?-->
+  <RV2_PreyInIntestinesPleasuring.stages.0.description>绑住的快点，是吗？</RV2_PreyInIntestinesPleasuring.stages.0.description>
+  <!--EN: Pleasuring prey in intestines-->
+  <RV2_PreyInIntestinesPleasuring.stages.0.label>在肠子里愉悦猎物</RV2_PreyInIntestinesPleasuring.stages.0.label>
+  <!--EN: Lemme just clench down and force you up against each other...~-->
+  <RV2_PreyInIntestinesPleasuring.stages.1.description>让我紧紧抓住机会，把你们逼到一起... ~</RV2_PreyInIntestinesPleasuring.stages.1.description>
+  <!--EN: Pleasuring two prey in intestines-->
+  <RV2_PreyInIntestinesPleasuring.stages.1.label>取悦肠子里的两个猎物</RV2_PreyInIntestinesPleasuring.stages.1.label>
+  <!--EN: A threesome? I got plenty of room for that!-->
+  <RV2_PreyInIntestinesPleasuring.stages.2.description>Athreesome什么？我有足够的空间!</RV2_PreyInIntestinesPleasuring.stages.2.description>
+  <!--EN: Pleasuring three prey in intestines-->
+  <RV2_PreyInIntestinesPleasuring.stages.2.label>满足三个动物</RV2_PreyInIntestinesPleasuring.stages.2.label>
+  <!--EN: Party in my butt!-->
+  <RV2_PreyInIntestinesPleasuring.stages.3.description>在我屁股里聚会!</RV2_PreyInIntestinesPleasuring.stages.3.description>
+  <!--EN: Pleasuring several prey in intestines-->
+  <RV2_PreyInIntestinesPleasuring.stages.3.label>取悦肠子里的猎物</RV2_PreyInIntestinesPleasuring.stages.3.label>
+  <!--EN: Rounded out already?-->
+  <RV2_PreyInIntestinesProcessing.stages.0.description>已经四舍五入了？</RV2_PreyInIntestinesProcessing.stages.0.description>
+  <!--EN: Absorbing prey in intestines-->
+  <RV2_PreyInIntestinesProcessing.stages.0.label>在肠子里吸收猎物</RV2_PreyInIntestinesProcessing.stages.0.label>
+  <!--EN: Nothing left but mush...-->
+  <RV2_PreyInIntestinesProcessing.stages.1.description>什么都没有，只有糊状物...</RV2_PreyInIntestinesProcessing.stages.1.description>
+  <!--EN: Absorbing two prey in intestines-->
+  <RV2_PreyInIntestinesProcessing.stages.1.label>在肠子里吸收两个猎物</RV2_PreyInIntestinesProcessing.stages.1.label>
+  <!--EN: I can feel nature calling already...-->
+  <RV2_PreyInIntestinesProcessing.stages.2.description>自然在召唤</RV2_PreyInIntestinesProcessing.stages.2.description>
+  <!--EN: Absorbing three prey in intestines-->
+  <RV2_PreyInIntestinesProcessing.stages.2.label>在肠子里吸收三个猎物</RV2_PreyInIntestinesProcessing.stages.2.label>
+  <!--EN: I could just lie on my belly like a beanbag...~-->
+  <RV2_PreyInIntestinesProcessing.stages.3.description>~</RV2_PreyInIntestinesProcessing.stages.3.description>
+  <!--EN: Absorbing several prey in intestines-->
+  <RV2_PreyInIntestinesProcessing.stages.3.label>在肠子里吸收多个猎物</RV2_PreyInIntestinesProcessing.stages.3.label>
+  <!--EN: They're in deep!-->
+  <RV2_PreyInIntestinesStoring.stages.0.description>他们陷得很深!</RV2_PreyInIntestinesStoring.stages.0.description>
+  <!--EN: Prey stored in intestines-->
+  <RV2_PreyInIntestinesStoring.stages.0.label>储存在肠道的猎物</RV2_PreyInIntestinesStoring.stages.0.label>
+  <!--EN: Two little gut-sluts, wrapped tight like little sausage-links!~-->
+  <RV2_PreyInIntestinesStoring.stages.1.description>两个肠子里的小 sl, 裹得整整齐齐!~</RV2_PreyInIntestinesStoring.stages.1.description>
+  <!--EN: Two stored prey in intestines-->
+  <RV2_PreyInIntestinesStoring.stages.1.label>肠子里有两个储存的猎物</RV2_PreyInIntestinesStoring.stages.1.label>
+  <!--EN: Three links, end-to-end!-->
+  <RV2_PreyInIntestinesStoring.stages.2.description>三通，首尾相连!</RV2_PreyInIntestinesStoring.stages.2.description>
+  <!--EN: Three stored prey in intestines-->
+  <RV2_PreyInIntestinesStoring.stages.2.label>动物肠子里有三个已储存的猎物</RV2_PreyInIntestinesStoring.stages.2.label>
+  <!--EN: I hope I don't get backed up...~-->
+  <RV2_PreyInIntestinesStoring.stages.3.description>我希望我没有被备份... ~</RV2_PreyInIntestinesStoring.stages.3.description>
+  <!--EN: Several stored prey in intestines-->
+  <RV2_PreyInIntestinesStoring.stages.3.label>肠子里有几只动物</RV2_PreyInIntestinesStoring.stages.3.label>
+  <!--EN: Dinner's coming back up...-->
+  <RV2_PreyInMouthExiting.stages.0.description>晚餐回来了...</RV2_PreyInMouthExiting.stages.0.description>
+  <!--EN: Regurgitating prey-->
+  <RV2_PreyInMouthExiting.stages.0.label>反刍兽猎物</RV2_PreyInMouthExiting.stages.0.label>
+  <!--EN: It's like puking, but if vomit had elbows and knees in it...-->
+  <RV2_PreyInMouthExiting.stages.1.description>就像在呕吐，但如果呕吐有肘部和膝盖</RV2_PreyInMouthExiting.stages.1.description>
+  <!--EN: Regurgitating multiple prey-->
+  <RV2_PreyInMouthExiting.stages.1.label>反刍多只猎物</RV2_PreyInMouthExiting.stages.1.label>
+  <!--EN: Delicious!-->
+  <RV2_PreyInMouthPassing.stages.0.description>味道不错!</RV2_PreyInMouthPassing.stages.0.description>
+  <!--EN: Swallowing prey-->
+  <RV2_PreyInMouthPassing.stages.0.label>吞下猎物</RV2_PreyInMouthPassing.stages.0.label>
+  <!--EN: Jaws, don't fail me now!-->
+  <RV2_PreyInMouthPassing.stages.1.description>大嘴，别让我失望!</RV2_PreyInMouthPassing.stages.1.description>
+  <!--EN: Swallowing two prey at once-->
+  <RV2_PreyInMouthPassing.stages.1.label>同时吞下两个猎物</RV2_PreyInMouthPassing.stages.1.label>
+  <!--EN: I think I bit off more than I can chew...-->
+  <RV2_PreyInMouthPassing.stages.2.description>我想我咬得太多了...</RV2_PreyInMouthPassing.stages.2.description>
+  <!--EN: Swallowing three prey at once-->
+  <RV2_PreyInMouthPassing.stages.2.label>同时吞下三个猎物</RV2_PreyInMouthPassing.stages.2.label>
+  <!--EN: Must suppress... gag reflex...-->
+  <RV2_PreyInMouthPassing.stages.3.description>必须抑制...口塞反射...</RV2_PreyInMouthPassing.stages.3.description>
+  <!--EN: Swallowing several prey-->
+  <RV2_PreyInMouthPassing.stages.3.label>吞下多个猎物</RV2_PreyInMouthPassing.stages.3.label>
+  <!--EN: Let's sample the platter, shall we?~-->
+  <RV2_PreyInMouthPleasuring.stages.0.description>让我们来品尝拼盘，好吗？~</RV2_PreyInMouthPleasuring.stages.0.description>
+  <!--EN: Pleasuring prey in mouth-->
+  <RV2_PreyInMouthPleasuring.stages.0.label>令人愉悦的猎物</RV2_PreyInMouthPleasuring.stages.0.label>
+  <!--EN: At this rate, I'm not sure I'll get the chance to taste *all* of you to the fullest!-->
+  <RV2_PreyInMouthPleasuring.stages.1.description>按照这个速度，我不确定我是否有机会品尝到你们所有人!</RV2_PreyInMouthPleasuring.stages.1.description>
+  <!--EN: Pleasuring prey in mouth-->
+  <RV2_PreyInMouthPleasuring.stages.1.label>令人愉悦的猎物</RV2_PreyInMouthPleasuring.stages.1.label>
+  <!--EN: Anyone care for a drink?-->
+  <RV2_PreyInNippleDumping.stages.0.description>有人想喝一杯吗？</RV2_PreyInNippleDumping.stages.0.description>
+  <!--EN: Milking out remains-->
+  <RV2_PreyInNippleDumping.stages.0.label>挤奶残骸耗尽</RV2_PreyInNippleDumping.stages.0.label>
+  <!--EN: Anyone care for a drink?-->
+  <RV2_PreyInNippleDumping.stages.1.description>有人想喝一杯吗？</RV2_PreyInNippleDumping.stages.1.description>
+  <!--EN: Milking out two remains-->
+  <RV2_PreyInNippleDumping.stages.1.label>挤奶拿出两个残骸</RV2_PreyInNippleDumping.stages.1.label>
+  <!--EN: I don't know if I'll ever stop leaking after this...-->
+  <RV2_PreyInNippleDumping.stages.2.description>我不知道我是否会停止在这之后漏水...</RV2_PreyInNippleDumping.stages.2.description>
+  <!--EN: Milking out multiple remains-->
+  <RV2_PreyInNippleDumping.stages.2.label>挤奶剩余数</RV2_PreyInNippleDumping.stages.2.label>
+  <!--EN: Enjoy your bath? I did!-->
+  <RV2_PreyInNippleExiting.stages.0.description>洗澡愉快吗？是的!</RV2_PreyInNippleExiting.stages.0.description>
+  <!--EN: Releasing prey from nipple-->
+  <RV2_PreyInNippleExiting.stages.0.label>释放猎物乳头</RV2_PreyInNippleExiting.stages.0.label>
+  <!--EN: Taking out the bra-stuffers...-->
+  <RV2_PreyInNippleExiting.stages.1.description>取出胸罩-填充者...</RV2_PreyInNippleExiting.stages.1.description>
+  <!--EN: Releasing two prey from nipples-->
+  <RV2_PreyInNippleExiting.stages.1.label>释放两个猎物乳头</RV2_PreyInNippleExiting.stages.1.label>
+  <!--EN: I don't know if I'll ever stop leaking after this...-->
+  <RV2_PreyInNippleExiting.stages.2.description>我不知道我是否会停止在这之后漏水...</RV2_PreyInNippleExiting.stages.2.description>
+  <!--EN: Releasing several prey from nipples-->
+  <RV2_PreyInNippleExiting.stages.2.label>释放多个猎物乳头</RV2_PreyInNippleExiting.stages.2.label>
+  <!--EN: Drink up!-->
+  <RV2_PreyInNipplePassing.stages.0.description>喝完了!</RV2_PreyInNipplePassing.stages.0.description>
+  <!--EN: Unnursing prey-->
+  <RV2_PreyInNipplePassing.stages.0.label>未哺乳的猎物</RV2_PreyInNipplePassing.stages.0.label>
+  <!--EN: Gotta keep the symmetry!-->
+  <RV2_PreyInNipplePassing.stages.1.description>必须保持对称!</RV2_PreyInNipplePassing.stages.1.description>
+  <!--EN: Unnursing two prey-->
+  <RV2_PreyInNipplePassing.stages.1.label>解除两个猎物</RV2_PreyInNipplePassing.stages.1.label>
+  <!--EN: Two at a time! Please!~-->
+  <RV2_PreyInNipplePassing.stages.2.description>一次两个!求求你了!~</RV2_PreyInNipplePassing.stages.2.description>
+  <!--EN: Unnursing several prey-->
+  <RV2_PreyInNipplePassing.stages.2.label>解锁几个猎物</RV2_PreyInNipplePassing.stages.2.label>
+  <!--EN: Oh, that tingles!-->
+  <RV2_PreyInNipplePleasuring.stages.0.description>哦，好疼!</RV2_PreyInNipplePleasuring.stages.0.description>
+  <!--EN: Pleasuring nipple with prey-->
+  <RV2_PreyInNipplePleasuring.stages.0.label>愉悦乳头与猎物</RV2_PreyInNipplePleasuring.stages.0.label>
+  <!--EN: Pump 'em in, pump 'em out!-->
+  <RV2_PreyInNipplePleasuring.stages.1.description>泵入泵出!</RV2_PreyInNipplePleasuring.stages.1.description>
+  <!--EN: Pleasuring nipple with two prey-->
+  <RV2_PreyInNipplePleasuring.stages.1.label>愉悦乳头有两个猎物</RV2_PreyInNipplePleasuring.stages.1.label>
+  <!--EN: I really ought to do this one per nip, but...-->
+  <RV2_PreyInNipplePleasuring.stages.2.description>我真的应该每小时做一次，但是.</RV2_PreyInNipplePleasuring.stages.2.description>
+  <!--EN: Pleasuring nipple with multiple prey-->
+  <RV2_PreyInNipplePleasuring.stages.2.label>愉悦乳头多个猎物</RV2_PreyInNipplePleasuring.stages.2.label>
+  <!--EN: Stopped kicking? Already stewing into mush...-->
+  <RV2_PreyInStomachChurning.stages.0.description>不踢了？已经烤熟了...</RV2_PreyInStomachChurning.stages.0.description>
+  <!--EN: Breaking down prey in stomach-->
+  <RV2_PreyInStomachChurning.stages.0.label>胃中分解猎物</RV2_PreyInStomachChurning.stages.0.label>
+  <!--EN: I'm feeling a bit gassy already.-->
+  <RV2_PreyInStomachChurning.stages.1.description>我已经感觉有点胀气了。</RV2_PreyInStomachChurning.stages.1.description>
+  <!--EN: Breaking down two prey in stomach-->
+  <RV2_PreyInStomachChurning.stages.1.label>胃里有两个猎物</RV2_PreyInStomachChurning.stages.1.label>
+  <!--EN: I'm really urpy now! But, like, in a good way!-->
+  <RV2_PreyInStomachChurning.stages.2.description>我现在真的很紧急!但是，就像，以一种好的方式!</RV2_PreyInStomachChurning.stages.2.description>
+  <!--EN: Breaking down three prey in stomach-->
+  <RV2_PreyInStomachChurning.stages.2.label>消化三个猎物</RV2_PreyInStomachChurning.stages.2.label>
+  <!--EN: Still no regrets!~-->
+  <RV2_PreyInStomachChurning.stages.3.description>无怨无悔!~</RV2_PreyInStomachChurning.stages.3.description>
+  <!--EN: Breaking down several prey in stomach-->
+  <RV2_PreyInStomachChurning.stages.3.label>消化几只猎物</RV2_PreyInStomachChurning.stages.3.label>
+  <!--EN: A proper meal!-->
+  <RV2_PreyInStomachDigesting.stages.0.description>一份真正的食物!</RV2_PreyInStomachDigesting.stages.0.description>
+  <!--EN: Digesting prey in stomach-->
+  <RV2_PreyInStomachDigesting.stages.0.label>在胃内消化猎物</RV2_PreyInStomachDigesting.stages.0.label>
+  <!--EN: So good, I went back for seconds!-->
+  <RV2_PreyInStomachDigesting.stages.1.description>太好了，我已经回去好几秒了!</RV2_PreyInStomachDigesting.stages.1.description>
+  <!--EN: Digesting two prey in stomach-->
+  <RV2_PreyInStomachDigesting.stages.1.label>正在消化胃内的两个猎物</RV2_PreyInStomachDigesting.stages.1.label>
+  <!--EN: Three whole prey, all gurgling away!-->
+  <RV2_PreyInStomachDigesting.stages.2.description>三个完整的猎物，它们都 gurgurgur!</RV2_PreyInStomachDigesting.stages.2.description>
+  <!--EN: Digesting three prey in stomach-->
+  <RV2_PreyInStomachDigesting.stages.2.label>正在消化胃内的三个猎物。</RV2_PreyInStomachDigesting.stages.2.label>
+  <!--EN: I don't care if all these morsels give me indigestion. No regrets!~-->
+  <RV2_PreyInStomachDigesting.stages.3.description>我不在乎这些食物是否让我消化不良。无怨无悔!~</RV2_PreyInStomachDigesting.stages.3.description>
+  <!--EN: Digesting several prey in stomach-->
+  <RV2_PreyInStomachDigesting.stages.3.label>正在消化胃内的猎物。</RV2_PreyInStomachDigesting.stages.3.label>
+  <!--EN: Let's get you patched up!-->
+  <RV2_PreyInStomachHealing.stages.0.description>让我们给你包扎一下!</RV2_PreyInStomachHealing.stages.0.description>
+  <!--EN: Healing prey in stomach-->
+  <RV2_PreyInStomachHealing.stages.0.label>正在治疗胃中的猎物</RV2_PreyInStomachHealing.stages.0.label>
+  <!--EN: Pretty crowded...-->
+  <RV2_PreyInStomachHealing.stages.1.description>非常拥挤...</RV2_PreyInStomachHealing.stages.1.description>
+  <!--EN: Healing multiple prey in stomach-->
+  <RV2_PreyInStomachHealing.stages.1.label>正在治愈胃中的多个猎物</RV2_PreyInStomachHealing.stages.1.label>
+  <!--EN: Sit tight and let my muscles give you a massage...-->
+  <RV2_PreyInStomachPleasuring.stages.0.description>坐好让我的肌肉发达的角色。给你一个按摩...</RV2_PreyInStomachPleasuring.stages.0.description>
+  <!--EN: Pleasuring prey in stomach-->
+  <RV2_PreyInStomachPleasuring.stages.0.label>将猎物放入胃中</RV2_PreyInStomachPleasuring.stages.0.label>
+  <!--EN: Double the prey, double the pleasure!-->
+  <RV2_PreyInStomachPleasuring.stages.1.description>双倍的猎物，双倍的快感!</RV2_PreyInStomachPleasuring.stages.1.description>
+  <!--EN: Pleasuring two prey in stomach-->
+  <RV2_PreyInStomachPleasuring.stages.1.label>取悦两个胃内的猎物</RV2_PreyInStomachPleasuring.stages.1.label>
+  <!--EN: Triple the prey... triple the... yeah...-->
+  <RV2_PreyInStomachPleasuring.stages.2.description>三倍于猎物三倍于他人嗯...</RV2_PreyInStomachPleasuring.stages.2.description>
+  <!--EN: Pleasuring three prey stored in stomach-->
+  <RV2_PreyInStomachPleasuring.stages.2.label>使三个储存在胃中的猎物愉悦</RV2_PreyInStomachPleasuring.stages.2.label>
+  <!--EN: So... full...-->
+  <RV2_PreyInStomachPleasuring.stages.3.description>所以... 满了...</RV2_PreyInStomachPleasuring.stages.3.description>
+  <!--EN: Pleasuring four prey stored in stomach-->
+  <RV2_PreyInStomachPleasuring.stages.3.label>取悦四个储存在胃里的猎物</RV2_PreyInStomachPleasuring.stages.3.label>
+  <!--EN: Nothing quite like a full belly. Especially one that doesn't go away.-->
+  <RV2_PreyInStomachStoring.stages.0.description>没有什么比饱腹更好的了。尤其是不会消失的。</RV2_PreyInStomachStoring.stages.0.description>
+  <!--EN: Prey stored in stomach-->
+  <RV2_PreyInStomachStoring.stages.0.label>胃内储存的猎物</RV2_PreyInStomachStoring.stages.0.label>
+  <!--EN: Extra full!-->
+  <RV2_PreyInStomachStoring.stages.1.description>特别满!</RV2_PreyInStomachStoring.stages.1.description>
+  <!--EN: Two prey stored in stomach-->
+  <RV2_PreyInStomachStoring.stages.1.label>将两个猎物储存在胃内</RV2_PreyInStomachStoring.stages.1.label>
+  <!--EN: So... full...-->
+  <RV2_PreyInStomachStoring.stages.2.description>所以... 满了...</RV2_PreyInStomachStoring.stages.2.description>
+  <!--EN: Three prey stored in stomach-->
+  <RV2_PreyInStomachStoring.stages.2.label>三个猎物被消化</RV2_PreyInStomachStoring.stages.2.label>
+  <!--EN: I'm packed to the brim! I don't think I could eat another... oh, well, maybe...-->
+  <RV2_PreyInStomachStoring.stages.3.description>我要走了!我想我不能再吃了.哦，好吧，也许...</RV2_PreyInStomachStoring.stages.3.description>
+  <!--EN: Several prey stored in stomach-->
+  <RV2_PreyInStomachStoring.stages.3.label>多个猎物被消化</RV2_PreyInStomachStoring.stages.3.label>
+  <!--EN: Oh, the plans I have for you!-->
+  <RV2_PreyInStomachWarming.stages.0.description>哦，我为你准备的计划!</RV2_PreyInStomachWarming.stages.0.description>
+  <!--EN: Warming up stomach for prey-->
+  <RV2_PreyInStomachWarming.stages.0.label>为猎物预热胃</RV2_PreyInStomachWarming.stages.0.label>
+  <!--EN: Oh, the plans I have for you!-->
+  <RV2_PreyInStomachWarming.stages.1.description>哦，我为你准备的计划!</RV2_PreyInStomachWarming.stages.1.description>
+  <!--EN: Warming up stomach for multiple prey-->
+  <RV2_PreyInStomachWarming.stages.1.label>为多个猎物预热胃</RV2_PreyInStomachWarming.stages.1.label>
+  <!--EN: Churning into batter...-->
+  <RV2_PreyInTesticlesConvertingSperm.stages.0.description>正在翻腾成击球手...</RV2_PreyInTesticlesConvertingSperm.stages.0.description>
+  <!--EN: Spermifying prey in balls-->
+  <RV2_PreyInTesticlesConvertingSperm.stages.0.label>球质中的精子化猎物</RV2_PreyInTesticlesConvertingSperm.stages.0.label>
+  <!--EN: Oh man, I'm already feeling blueballed...-->
+  <RV2_PreyInTesticlesConvertingSperm.stages.1.description>天哪，我已经快晕倒了...</RV2_PreyInTesticlesConvertingSperm.stages.1.description>
+  <!--EN: Spermifying two prey in balls-->
+  <RV2_PreyInTesticlesConvertingSperm.stages.1.label>正在使两个球中的猎物精子化</RV2_PreyInTesticlesConvertingSperm.stages.1.label>
+  <!--EN: Batter to bake, seeds to plant. Soon, my jewels.~-->
+  <RV2_PreyInTesticlesConvertingSperm.stages.2.description>面糊需要烘烤，播种。很快，我的宝石。~</RV2_PreyInTesticlesConvertingSperm.stages.2.description>
+  <!--EN: Spermifying three prey in balls-->
+  <RV2_PreyInTesticlesConvertingSperm.stages.2.label>将三个猎物转化为精子</RV2_PreyInTesticlesConvertingSperm.stages.2.label>
+  <!--EN: This'll be a hell of a batch! Just how pregnant could I get someone with this?~-->
+  <RV2_PreyInTesticlesConvertingSperm.stages.3.description>这将是一个地狱一批新的!准确无误怀孕~</RV2_PreyInTesticlesConvertingSperm.stages.3.description>
+  <!--EN: Spermifying several prey in balls-->
+  <RV2_PreyInTesticlesConvertingSperm.stages.3.label>正在使几个球中的猎物精子化</RV2_PreyInTesticlesConvertingSperm.stages.3.label>
+  <!--EN: Too tight in there to hit me in the 'nads, isn't it?-->
+  <RV2_PreyInTesticlesDissolvingSperm.stages.0.description>太紧了，没法打我，不是吗？</RV2_PreyInTesticlesDissolvingSperm.stages.0.description>
+  <!--EN: Dissolving live prey into sperm-->
+  <RV2_PreyInTesticlesDissolvingSperm.stages.0.label>将活着的猎物溶解成精子</RV2_PreyInTesticlesDissolvingSperm.stages.0.label>
+  <!--EN: You two'll be creamy, delicious cum soon. You might even get fucked into someone!-->
+  <RV2_PreyInTesticlesDissolvingSperm.stages.1.description>你们两个会很奶油，很好吃精液很快。你甚至可能会被人操!</RV2_PreyInTesticlesDissolvingSperm.stages.1.description>
+  <!--EN: Dissolving two live prey into sperm-->
+  <RV2_PreyInTesticlesDissolvingSperm.stages.1.label>将两个活物溶解精子</RV2_PreyInTesticlesDissolvingSperm.stages.1.label>
+  <!--EN: I can't wait to jerk off... You'll be batter soon enough.-->
+  <RV2_PreyInTesticlesDissolvingSperm.stages.2.description>我好难受你很快就会击球。</RV2_PreyInTesticlesDissolvingSperm.stages.2.description>
+  <!--EN: Dissolving three live prey into sperm-->
+  <RV2_PreyInTesticlesDissolvingSperm.stages.2.label>将三名活着的猎物溶解进精子</RV2_PreyInTesticlesDissolvingSperm.stages.2.label>
+  <!--EN: Ugh, I'm so blueballed! Soon, fuck, soon!-->
+  <RV2_PreyInTesticlesDissolvingSperm.stages.3.description>啊呀，我好蓝啊!很快，操，很快!</RV2_PreyInTesticlesDissolvingSperm.stages.3.description>
+  <!--EN: Dissolving several live prey into sperm-->
+  <RV2_PreyInTesticlesDissolvingSperm.stages.3.label>将多个活着的猎物溶解进精子</RV2_PreyInTesticlesDissolvingSperm.stages.3.label>
+  <!--EN: Let's get you patched up!-->
+  <RV2_PreyInTesticlesHealing.stages.0.description>让我们给你包扎一下!</RV2_PreyInTesticlesHealing.stages.0.description>
+  <!--EN: Healing prey in testicles-->
+  <RV2_PreyInTesticlesHealing.stages.0.label>治愈猎物睾丸/蛋蛋</RV2_PreyInTesticlesHealing.stages.0.label>
+  <!--EN: Pretty crowded...-->
+  <RV2_PreyInTesticlesHealing.stages.1.description>非常拥挤...</RV2_PreyInTesticlesHealing.stages.1.description>
+  <!--EN: Healing multiple prey in testicles-->
+  <RV2_PreyInTesticlesHealing.stages.1.label>治疗多个猎物睾丸/蛋蛋</RV2_PreyInTesticlesHealing.stages.1.label>
+  <!--EN: Mmh. Lost your will to fight, or just plain died?-->
+  <RV2_PreyInTesticlesMushingSperm.stages.0.description>嗯。失去了战斗的意志，还是死亡了？</RV2_PreyInTesticlesMushingSperm.stages.0.description>
+  <!--EN: Breaking down prey into sperm-->
+  <RV2_PreyInTesticlesMushingSperm.stages.0.label>将猎物分解成精子</RV2_PreyInTesticlesMushingSperm.stages.0.label>
+  <!--EN: I can feel my beanbags softening.~-->
+  <RV2_PreyInTesticlesMushingSperm.stages.1.description>我能感觉到我的豆囊变软了。~</RV2_PreyInTesticlesMushingSperm.stages.1.description>
+  <!--EN: Breaking down two prey into sperm-->
+  <RV2_PreyInTesticlesMushingSperm.stages.1.label>将两个猎物拆成精子</RV2_PreyInTesticlesMushingSperm.stages.1.label>
+  <!--EN: All that's left is to churn y'all into batter...-->
+  <RV2_PreyInTesticlesMushingSperm.stages.2.description>剩下的就是把你们所有人都搅成击球手...</RV2_PreyInTesticlesMushingSperm.stages.2.description>
+  <!--EN: Breaking down three prey into sperm-->
+  <RV2_PreyInTesticlesMushingSperm.stages.2.label>将三名猎物分解精子</RV2_PreyInTesticlesMushingSperm.stages.2.label>
+  <!--EN: Soon. Soon. Soon. Soon.-->
+  <RV2_PreyInTesticlesMushingSperm.stages.3.description>很快。很快。很快。很快。</RV2_PreyInTesticlesMushingSperm.stages.3.description>
+  <!--EN: Breaking down several prey into sperm-->
+  <RV2_PreyInTesticlesMushingSperm.stages.3.label>将几个猎物分解精子</RV2_PreyInTesticlesMushingSperm.stages.3.label>
+  <!--EN: Don't stop...-->
+  <RV2_PreyInTesticlesPleasuring.stages.0.description>不停止...</RV2_PreyInTesticlesPleasuring.stages.0.description>
+  <!--EN: Pleasured prey in balls-->
+  <RV2_PreyInTesticlesPleasuring.stages.0.label>愉快的球捕食</RV2_PreyInTesticlesPleasuring.stages.0.label>
+  <!--EN: Keep going, both of you...!-->
+  <RV2_PreyInTesticlesPleasuring.stages.1.description>你们两个继续...!</RV2_PreyInTesticlesPleasuring.stages.1.description>
+  <!--EN: Pleasured by two prey in balls-->
+  <RV2_PreyInTesticlesPleasuring.stages.1.label>被两个球中的猎物捕食</RV2_PreyInTesticlesPleasuring.stages.1.label>
+  <!--EN: Three... at once.~-->
+  <RV2_PreyInTesticlesPleasuring.stages.2.description>三个... 一下子。~</RV2_PreyInTesticlesPleasuring.stages.2.description>
+  <!--EN: Pleasured by three prey in balls-->
+  <RV2_PreyInTesticlesPleasuring.stages.2.label>被三个球中的猎物捕食</RV2_PreyInTesticlesPleasuring.stages.2.label>
+  <!--EN: I'm gonna—!-->
+  <RV2_PreyInTesticlesPleasuring.stages.3.description>我要...</RV2_PreyInTesticlesPleasuring.stages.3.description>
+  <!--EN: Pleasured by several prey in ballss-->
+  <RV2_PreyInTesticlesPleasuring.stages.3.label>被球兽中的猎物满足</RV2_PreyInTesticlesPleasuring.stages.3.label>
+  <!--EN: So heavy... It feels good.-->
+  <RV2_PreyInTesticlesStoring.stages.0.description>好重...感觉很好。</RV2_PreyInTesticlesStoring.stages.0.description>
+  <!--EN: Prey in testicles-->
+  <RV2_PreyInTesticlesStoring.stages.0.label>捕食睾丸/蛋蛋</RV2_PreyInTesticlesStoring.stages.0.label>
+  <!--EN: One for each nut!-->
+  <RV2_PreyInTesticlesStoring.stages.1.description>每个坚果一个!</RV2_PreyInTesticlesStoring.stages.1.description>
+  <!--EN: Two prey in testicles-->
+  <RV2_PreyInTesticlesStoring.stages.1.label>两个猎物睾丸/蛋蛋</RV2_PreyInTesticlesStoring.stages.1.label>
+  <!--EN: My balls are getting hefty...!-->
+  <RV2_PreyInTesticlesStoring.stages.2.description>我的蛋蛋越来越重了...!</RV2_PreyInTesticlesStoring.stages.2.description>
+  <!--EN: Three prey in testicles-->
+  <RV2_PreyInTesticlesStoring.stages.2.label>三个猎物睾丸/蛋蛋</RV2_PreyInTesticlesStoring.stages.2.label>
+  <!--EN: I can barely lift my sack!-->
+  <RV2_PreyInTesticlesStoring.stages.3.description>我几乎搬不起我的袋子!</RV2_PreyInTesticlesStoring.stages.3.description>
+  <!--EN: Multiple prey in testicles-->
+  <RV2_PreyInTesticlesStoring.stages.3.label>多个猎物睾丸/蛋蛋</RV2_PreyInTesticlesStoring.stages.3.label>
+  <!--EN: Oh, the plans I have for you!-->
+  <RV2_PreyInTesticlesWarming.stages.0.description>哦，我为你准备的计划!</RV2_PreyInTesticlesWarming.stages.0.description>
+  <!--EN: Warming up testicles for prey-->
+  <RV2_PreyInTesticlesWarming.stages.0.label>热身睾丸/蛋蛋对于猎物</RV2_PreyInTesticlesWarming.stages.0.label>
+  <!--EN: Oh, the plans I have for you!-->
+  <RV2_PreyInTesticlesWarming.stages.1.description>哦，我为你准备的计划!</RV2_PreyInTesticlesWarming.stages.1.description>
+  <!--EN: Warming up testicles for multiple prey-->
+  <RV2_PreyInTesticlesWarming.stages.1.label>热身睾丸/蛋蛋多个猎物</RV2_PreyInTesticlesWarming.stages.1.label>
+  <!--EN: Thanks for the orgasm, but goodbye!-->
+  <RV2_PreyInVaginaDumpingOrgasm.stages.0.description>感谢高潮,但再见!</RV2_PreyInVaginaDumpingOrgasm.stages.0.description>
+  <!--EN: Squirting out remains from pussy-->
+  <RV2_PreyInVaginaDumpingOrgasm.stages.0.label>喷射残骸小穴</RV2_PreyInVaginaDumpingOrgasm.stages.0.label>
+  <!--EN: This is gonna take a while to clean up...~-->
+  <RV2_PreyInVaginaDumpingOrgasm.stages.1.description>这需要一段时间来清理... ~</RV2_PreyInVaginaDumpingOrgasm.stages.1.description>
+  <!--EN: Squiriting out multiple remains from pussy-->
+  <RV2_PreyInVaginaDumpingOrgasm.stages.1.label>从附近喷射出多个残骸小穴</RV2_PreyInVaginaDumpingOrgasm.stages.1.label>
+  <!--EN: Ah, sweet relief!-->
+  <RV2_PreyInVaginaDumpingStream.stages.0.description>啊，甜蜜的放松!</RV2_PreyInVaginaDumpingStream.stages.0.description>
+  <!--EN: Streaming out remains from pussy-->
+  <RV2_PreyInVaginaDumpingStream.stages.0.label>剩余物资从小穴</RV2_PreyInVaginaDumpingStream.stages.0.label>
+  <!--EN: I feel like a waterfall!-->
+  <RV2_PreyInVaginaDumpingStream.stages.1.description>我感觉自己像个瀑布!</RV2_PreyInVaginaDumpingStream.stages.1.description>
+  <!--EN: Streaming out multiple remains from pussy-->
+  <RV2_PreyInVaginaDumpingStream.stages.1.label>涌出多个残骸小穴</RV2_PreyInVaginaDumpingStream.stages.1.label>
+  <!--EN: Delivery!-->
+  <RV2_PreyInVaginaExiting.stages.0.description>交付中!</RV2_PreyInVaginaExiting.stages.0.description>
+  <!--EN: Pushing out prey-->
+  <RV2_PreyInVaginaExiting.stages.0.label>将猎物推出</RV2_PreyInVaginaExiting.stages.0.label>
+  <!--EN: They just keep coming...~-->
+  <RV2_PreyInVaginaExiting.stages.1.description>他们就这样不断的过来... ~</RV2_PreyInVaginaExiting.stages.1.description>
+  <!--EN: Pushing out multiple prey-->
+  <RV2_PreyInVaginaExiting.stages.1.label>推出多个猎物</RV2_PreyInVaginaExiting.stages.1.label>
+  <!--EN: Delivery!-->
+  <RV2_PreyInVaginaExitingOrgasm.stages.0.description>交付中!</RV2_PreyInVaginaExitingOrgasm.stages.0.description>
+  <!--EN: Rebirthing prey-->
+  <RV2_PreyInVaginaExitingOrgasm.stages.0.label>捕食猎物</RV2_PreyInVaginaExitingOrgasm.stages.0.label>
+  <!--EN: They just keep coming...~-->
+  <RV2_PreyInVaginaExitingOrgasm.stages.1.description>他们就这样不断的过来... ~</RV2_PreyInVaginaExitingOrgasm.stages.1.description>
+  <!--EN: Rebirthing multiple prey-->
+  <RV2_PreyInVaginaExitingOrgasm.stages.1.label>捕食多个猎物</RV2_PreyInVaginaExitingOrgasm.stages.1.label>
+  <!--EN: Gotta piss this fucker out.-->
+  <RV2_PreyInVaginaExitingStream.stages.0.description>要把这混蛋轰成尿了。</RV2_PreyInVaginaExitingStream.stages.0.description>
+  <!--EN: Streaming out prey from pussy-->
+  <RV2_PreyInVaginaExitingStream.stages.0.label>猎物从小穴</RV2_PreyInVaginaExitingStream.stages.0.label>
+  <!--EN: Ride the rapids!-->
+  <RV2_PreyInVaginaExitingStream.stages.1.description>骑乘急流!</RV2_PreyInVaginaExitingStream.stages.1.description>
+  <!--EN: Streaming out multiple prey from pussy-->
+  <RV2_PreyInVaginaExitingStream.stages.1.label>多只猎物从小穴</RV2_PreyInVaginaExitingStream.stages.1.label>
+  <!--EN: Deeper, deeper!-->
+  <RV2_PreyInVaginaPassing.stages.0.description>越来越深!</RV2_PreyInVaginaPassing.stages.0.description>
+  <!--EN: Unbirthing prey-->
+  <RV2_PreyInVaginaPassing.stages.0.label>解散猎物</RV2_PreyInVaginaPassing.stages.0.label>
+  <!--EN: Take the ferry up the canal!-->
+  <RV2_PreyInVaginaPassing.stages.1.description>乘坐运河不!</RV2_PreyInVaginaPassing.stages.1.description>
+  <!--EN: Unbirthing multiple prey-->
+  <RV2_PreyInVaginaPassing.stages.1.label>解锁多个猎物</RV2_PreyInVaginaPassing.stages.1.label>
+  <!--EN: I'd beg you to fuck me, but I'm already doing that to you.~-->
+  <RV2_PreyInVaginaPleasuring.stages.0.description>我求你干我，但我已经在这样对你了。~</RV2_PreyInVaginaPleasuring.stages.0.description>
+  <!--EN: Pleasuring pussy with prey-->
+  <RV2_PreyInVaginaPleasuring.stages.0.label>愉悦小穴与猎物</RV2_PreyInVaginaPleasuring.stages.0.label>
+  <!--EN: Y'all gotta get me real wet if you wanna go any deeper!-->
+  <RV2_PreyInVaginaPleasuring.stages.1.description>如果你们想再深入一点，就得把我淋湿!</RV2_PreyInVaginaPleasuring.stages.1.description>
+  <!--EN: Pleasuring pussy with multiple prey-->
+  <RV2_PreyInVaginaPleasuring.stages.1.label>愉悦小穴多个猎物</RV2_PreyInVaginaPleasuring.stages.1.label>
+  <!--EN: When am I due? Very soon...~-->
+  <RV2_PreyInWombConvertingLube.stages.0.description>我什么时候到期？很快... ~</RV2_PreyInWombConvertingLube.stages.0.description>
+  <!--EN: Lubrifying prey in womb-->
+  <RV2_PreyInWombConvertingLube.stages.0.label>子宫内有 lurifing 猎物</RV2_PreyInWombConvertingLube.stages.0.label>
+  <!--EN: I could take a cactus with this much lube!-->
+  <RV2_PreyInWombConvertingLube.stages.1.description>我能拥有这么多仙人掌润滑油不!</RV2_PreyInWombConvertingLube.stages.1.description>
+  <!--EN: Lubrifying two prey in womb-->
+  <RV2_PreyInWombConvertingLube.stages.1.label>正在使两个猎物在子宫内快乐</RV2_PreyInWombConvertingLube.stages.1.label>
+  <!--EN: Am I leaking? I think I'm leaking.-->
+  <RV2_PreyInWombConvertingLube.stages.2.description>我漏水吗？我想我在漏水。</RV2_PreyInWombConvertingLube.stages.2.description>
+  <!--EN: Lubrifying three prey in womb-->
+  <RV2_PreyInWombConvertingLube.stages.2.label>在子宫内使三个猎物发光</RV2_PreyInWombConvertingLube.stages.2.label>
+  <!--EN: I could put a wildfire out with all this cunt-juice...-->
+  <RV2_PreyInWombConvertingLube.stages.3.description>我可以用这些树液把野火扑灭...</RV2_PreyInWombConvertingLube.stages.3.description>
+  <!--EN: Lubrifying several prey in womb-->
+  <RV2_PreyInWombConvertingLube.stages.3.label>正在使几只猎物在子宫内快乐</RV2_PreyInWombConvertingLube.stages.3.label>
+  <!--EN: Soon, you'll be nothing more than a useless puddle!-->
+  <RV2_PreyInWombDissolvingLube.stages.0.description>很快，你只会是一个无用的水洼!</RV2_PreyInWombDissolvingLube.stages.0.description>
+  <!--EN: Dissolving prey into cunt-juice-->
+  <RV2_PreyInWombDissolvingLube.stages.0.label>将猎物溶化成蛇液</RV2_PreyInWombDissolvingLube.stages.0.label>
+  <!--EN: I'm gonna be so fucking wet!-->
+  <RV2_PreyInWombDissolvingLube.stages.1.description>我他妈要湿透了!</RV2_PreyInWombDissolvingLube.stages.1.description>
+  <!--EN: Dissolving two prey into cunt-juice-->
+  <RV2_PreyInWombDissolvingLube.stages.1.label>将两个猎物溶解成毒液</RV2_PreyInWombDissolvingLube.stages.1.label>
+  <!--EN: IS it getting slippery in there yet?-->
+  <RV2_PreyInWombDissolvingLube.stages.2.description>里面滑了吗？</RV2_PreyInWombDissolvingLube.stages.2.description>
+  <!--EN: Dissolving three prey into cunt-juice-->
+  <RV2_PreyInWombDissolvingLube.stages.2.label>将三名猎物溶解成毒液</RV2_PreyInWombDissolvingLube.stages.2.label>
+  <!--EN: As wet as I am, this's gotta be some of the easiest sex any of you've ever had. Go out with a bang!-->
+  <RV2_PreyInWombDissolvingLube.stages.3.description>和我一样潮湿，这一定是最容易的性交你们任何人都有过。砰的一声出去!</RV2_PreyInWombDissolvingLube.stages.3.description>
+  <!--EN: Dissolving several prey into cunt-juice-->
+  <RV2_PreyInWombDissolvingLube.stages.3.label>将多名猎物溶解成蛇皮</RV2_PreyInWombDissolvingLube.stages.3.label>
+  <!--EN: Let's get you patched up!-->
+  <RV2_PreyInWombHealing.stages.0.description>让我们给你包扎一下!</RV2_PreyInWombHealing.stages.0.description>
+  <!--EN: Healing prey in womb-->
+  <RV2_PreyInWombHealing.stages.0.label>治疗子宫内的猎物</RV2_PreyInWombHealing.stages.0.label>
+  <!--EN: Pretty crowded...-->
+  <RV2_PreyInWombHealing.stages.1.description>非常拥挤...</RV2_PreyInWombHealing.stages.1.description>
+  <!--EN: Healing multiple prey in womb-->
+  <RV2_PreyInWombHealing.stages.1.label>治疗子宫内的多个猎物</RV2_PreyInWombHealing.stages.1.label>
+  <!--EN: Life's ending just where it began.-->
+  <RV2_PreyInWombMushingLube.stages.0.description>生命就在此处结束。</RV2_PreyInWombMushingLube.stages.0.description>
+  <!--EN: Breaking down prey into lube-->
+  <RV2_PreyInWombMushingLube.stages.0.label>将猎物分解成润滑油</RV2_PreyInWombMushingLube.stages.0.label>
+  <!--EN: Guess the squirming's over. Oh well!~-->
+  <RV2_PreyInWombMushingLube.stages.1.description>我猜蠕动已经结束了。哦，好!~</RV2_PreyInWombMushingLube.stages.1.description>
+  <!--EN: Breaking down two prey into lube-->
+  <RV2_PreyInWombMushingLube.stages.1.label>将两个猎物拆成润滑油</RV2_PreyInWombMushingLube.stages.1.label>
+  <!--EN: Really starting to feel sloshy now!-->
+  <RV2_PreyInWombMushingLube.stages.2.description>现在真的开始感到懒惰了!</RV2_PreyInWombMushingLube.stages.2.description>
+  <!--EN: Breaking down three prey into lube-->
+  <RV2_PreyInWombMushingLube.stages.2.label>将三名猎物分解润滑油</RV2_PreyInWombMushingLube.stages.2.label>
+  <!--EN: I gotta figure out where I'm gonna gush y'all out!-->
+  <RV2_PreyInWombMushingLube.stages.3.description>我要弄明白你们在哪儿!</RV2_PreyInWombMushingLube.stages.3.description>
+  <!--EN: Breaking down several prey into lube-->
+  <RV2_PreyInWombMushingLube.stages.3.label>将几个猎物分解润滑油</RV2_PreyInWombMushingLube.stages.3.label>
+  <!--EN: Don't stop...-->
+  <RV2_PreyInWombPleasuring.stages.0.description>不停止...</RV2_PreyInWombPleasuring.stages.0.description>
+  <!--EN: Pleasured by prey in womb-->
+  <RV2_PreyInWombPleasuring.stages.0.label>被子宫内的猎物捕食</RV2_PreyInWombPleasuring.stages.0.label>
+  <!--EN: Keep going, both of you...!-->
+  <RV2_PreyInWombPleasuring.stages.1.description>你们两个继续...!</RV2_PreyInWombPleasuring.stages.1.description>
+  <!--EN: Pleasured by two prey in womb-->
+  <RV2_PreyInWombPleasuring.stages.1.label>子宫内有两个猎物</RV2_PreyInWombPleasuring.stages.1.label>
+  <!--EN: Three... all at once!-->
+  <RV2_PreyInWombPleasuring.stages.2.description>三个... 同时建造!</RV2_PreyInWombPleasuring.stages.2.description>
+  <!--EN: Pleasured by three prey in womb-->
+  <RV2_PreyInWombPleasuring.stages.2.label>子宫内有三个猎物</RV2_PreyInWombPleasuring.stages.2.label>
+  <!--EN: I'M GONNA—-->
+  <RV2_PreyInWombPleasuring.stages.3.description>我要 --</RV2_PreyInWombPleasuring.stages.3.description>
+  <!--EN: Pleasured by several prey in womb-->
+  <RV2_PreyInWombPleasuring.stages.3.label>被子宫内的猎物所满足</RV2_PreyInWombPleasuring.stages.3.label>
+  <!--EN: My child!-->
+  <RV2_PreyInWombReforming.stages.0.description>我的孩子!</RV2_PreyInWombReforming.stages.0.description>
+  <!--EN: Reforming prey-->
+  <RV2_PreyInWombReforming.stages.0.label>改造猎物</RV2_PreyInWombReforming.stages.0.label>
+  <!--EN: Oh my, twins!-->
+  <RV2_PreyInWombReforming.stages.1.description>天呐，双胞胎啊!</RV2_PreyInWombReforming.stages.1.description>
+  <!--EN: Reforming two prey-->
+  <RV2_PreyInWombReforming.stages.1.label>改造两个猎物</RV2_PreyInWombReforming.stages.1.label>
+  <!--EN: Oh my, triplets!-->
+  <RV2_PreyInWombReforming.stages.2.description>天呐，三胞胎!</RV2_PreyInWombReforming.stages.2.description>
+  <!--EN: Reforming three prey-->
+  <RV2_PreyInWombReforming.stages.2.label>改造三个猎物</RV2_PreyInWombReforming.stages.2.label>
+  <!--EN: Wow, I have a whole litter growing inside.-->
+  <RV2_PreyInWombReforming.stages.3.description>哇，我体内长出了一整只幼崽。</RV2_PreyInWombReforming.stages.3.description>
+  <!--EN: Reforming multiple prey-->
+  <RV2_PreyInWombReforming.stages.3.label>重组多个猎物</RV2_PreyInWombReforming.stages.3.label>
+  <!--EN: Absolutely gravid!-->
+  <RV2_PreyInWombStoring.stages.0.description>怀孕!</RV2_PreyInWombStoring.stages.0.description>
+  <!--EN: Prey stored in womb-->
+  <RV2_PreyInWombStoring.stages.0.label>子宫内储存的猎物</RV2_PreyInWombStoring.stages.0.label>
+  <!--EN: It's twins!-->
+  <RV2_PreyInWombStoring.stages.1.description>是双胞胎!</RV2_PreyInWombStoring.stages.1.description>
+  <!--EN: Two prey stored in womb-->
+  <RV2_PreyInWombStoring.stages.1.label>子宫内储存两个猎物</RV2_PreyInWombStoring.stages.1.label>
+  <!--EN: Triplets!-->
+  <RV2_PreyInWombStoring.stages.2.description>三胞胎!</RV2_PreyInWombStoring.stages.2.description>
+  <!--EN: Three prey stored in womb-->
+  <RV2_PreyInWombStoring.stages.2.label>子宫内储存三名猎物</RV2_PreyInWombStoring.stages.2.label>
+  <!--EN: I've got a whole litter inside me...~-->
+  <RV2_PreyInWombStoring.stages.3.description>~</RV2_PreyInWombStoring.stages.3.description>
+  <!--EN: Several prey stored in womb-->
+  <RV2_PreyInWombStoring.stages.3.label>几只猎物在子宫内储存</RV2_PreyInWombStoring.stages.3.label>
+  <!--EN: Oh, the plans I have for you!-->
+  <RV2_PreyInWombWarming.stages.0.description>哦，我为你准备的计划!</RV2_PreyInWombWarming.stages.0.description>
+  <!--EN: Warming up womb for prey-->
+  <RV2_PreyInWombWarming.stages.0.label>为猎物预热子宫</RV2_PreyInWombWarming.stages.0.label>
+  <!--EN: Oh, the plans I have for you!-->
+  <RV2_PreyInWombWarming.stages.1.description>哦，我为你准备的计划!</RV2_PreyInWombWarming.stages.1.description>
+  <!--EN: Warming up womb for multiple prey-->
+  <RV2_PreyInWombWarming.stages.1.label>为多个猎物预热子宫</RV2_PreyInWombWarming.stages.1.label>
+  <!--EN: {1} tried to churn me into milk! I'm not an enriching source of calcium!-->
+  <RV2_PreyNippleConvertMilkInterrupted.stages.0.description>{1}想把我搅成乳汁!我可不是补钙的来源!</RV2_PreyNippleConvertMilkInterrupted.stages.0.description>
+  <!--EN: Escaped mammary lactifaction by {0}-->
+  <RV2_PreyNippleConvertMilkInterrupted.stages.0.label>乳汁裂解至{0}</RV2_PreyNippleConvertMilkInterrupted.stages.0.label>
+  <!--EN: I had a reinvigorating bath.-->
+  <RV2_PreyNippleHealSuccess.stages.0.description>我洗了一个充满活力的浴缸。</RV2_PreyNippleHealSuccess.stages.0.description>
+  <!--EN: Healed by {0}'s breasts-->
+  <RV2_PreyNippleHealSuccess.stages.0.label>治愈{0}的乳房</RV2_PreyNippleHealSuccess.stages.0.label>
+  <!--EN: {1} tried to draw me a milk-bath, but we were interrupted. I was hoping to relieve some tension in the spa...-->
+  <RV2_PreyNipplePleasureInterrupted.stages.0.description>{1}我想洗个奶浴，但被打断了。我想在温泉浴场放松一下...</RV2_PreyNipplePleasureInterrupted.stages.0.description>
+  <!--EN: Unsuckling by {0} as a sex-toy interrupted-->
+  <RV2_PreyNipplePleasureInterrupted.stages.0.label>被吸食{0}作为一个性玩具被打断</RV2_PreyNipplePleasureInterrupted.stages.0.label>
+  <!--EN: {1} gave me a long, warm bath in their milk, right where it gets made! I feel revitalized!-->
+  <RV2_PreyNipplePleasureSuccess.stages.0.description>{1}在他们的乳房喷出液体（通常是乳汁）。是挤奶的前置标签。中给我洗了一个长而温暖的浴缸，就在它被制造的地方!我感觉精力充沛了!</RV2_PreyNipplePleasureSuccess.stages.0.description>
+  <!--EN: Unsuckled by {0} as a sex-toy-->
+  <RV2_PreyNipplePleasureSuccess.stages.0.label>被吸食{0}作为一个性玩具</RV2_PreyNipplePleasureSuccess.stages.0.label>
+  <!--EN: It's nice to have room to stretch again.-->
+  <RV2_PreyNippleStoreEnd.stages.0.description>有空间再次伸展身体真好。</RV2_PreyNippleStoreEnd.stages.0.description>
+  <!--EN: Released from {0}'s breast-storage-->
+  <RV2_PreyNippleStoreEnd.stages.0.label>释放{0}的乳房-储存区</RV2_PreyNippleStoreEnd.stages.0.label>
+  <!--EN: {1} tried to eat me! I'm not food!-->
+  <RV2_PreyOralDigestInterrupted.stages.0.description>{1}想吃了我!我不是食物!</RV2_PreyOralDigestInterrupted.stages.0.description>
+  <!--EN: Escaped oral digestion-->
+  <RV2_PreyOralDigestInterrupted.stages.0.label>逃跑了用嘴被消化</RV2_PreyOralDigestInterrupted.stages.0.label>
+  <!--EN: I had a reinvigorating bath.-->
+  <RV2_PreyOralHealSuccess.stages.0.description>我洗了一个充满活力的浴缸。</RV2_PreyOralHealSuccess.stages.0.description>
+  <!--EN: Healed by {0}'s stomach-->
+  <RV2_PreyOralHealSuccess.stages.0.label>治愈{0}胃</RV2_PreyOralHealSuccess.stages.0.label>
+  <!--EN: {1} tried to let me relax in their stomach, but we were interrupted. How disappointing.-->
+  <RV2_PreyOralPleasureInterrupted.stages.0.description>{1}试图让我在他们的肚子里放松，但我们被打断了。多么令人失望。</RV2_PreyOralPleasureInterrupted.stages.0.description>
+  <!--EN: Bellying by {0} interrupted-->
+  <RV2_PreyOralPleasureInterrupted.stages.0.label>因{0}被打断</RV2_PreyOralPleasureInterrupted.stages.0.label>
+  <!--EN: {1} let me relax in their stomach. It was a great way to unwind!-->
+  <RV2_PreyOralPleasureSuccess.stages.0.description>{1}让我在他们的肚子里放松一下。放松的好方法!</RV2_PreyOralPleasureSuccess.stages.0.description>
+  <!--EN: Bellied by {0}-->
+  <RV2_PreyOralPleasureSuccess.stages.0.label>被{0}</RV2_PreyOralPleasureSuccess.stages.0.label>
+  <!--EN: It's nice to have room to stretch again.-->
+  <RV2_PreyOralStoreEnd.stages.0.description>有空间再次伸展身体真好。</RV2_PreyOralStoreEnd.stages.0.description>
+  <!--EN: Released from {0}'s stomach-storage-->
+  <RV2_PreyOralStoreEnd.stages.0.label>释放{0}的胃储存器</RV2_PreyOralStoreEnd.stages.0.label>
+  <!--EN: Oh that feels weird-->
+  <RV2_PreyStruggling.stages.0.description>哦，感觉很奇怪</RV2_PreyStruggling.stages.0.description>
+  <!--EN: Struggling prey-->
+  <RV2_PreyStruggling.stages.0.label>挣扎中的猎物</RV2_PreyStruggling.stages.0.label>
+  <!--EN: Feels like a bad belly ache...-->
+  <RV2_PreyStruggling.stages.1.description>肚子疼...</RV2_PreyStruggling.stages.1.description>
+  <!--EN: Multiple struggling prey-->
+  <RV2_PreyStruggling.stages.1.label>多个挣扎中的猎物</RV2_PreyStruggling.stages.1.label>
+  <!--EN: What a horrible feeling-->
+  <RV2_PreyStruggling_Hated.stages.0.description>多么可怕的感觉</RV2_PreyStruggling_Hated.stages.0.description>
+  <!--EN: Struggling prey-->
+  <RV2_PreyStruggling_Hated.stages.0.label>挣扎中的猎物</RV2_PreyStruggling_Hated.stages.0.label>
+  <!--EN: This disgusting feeling, make it stop! Please!-->
+  <RV2_PreyStruggling_Hated.stages.1.description>这种恶心的感觉，来吧停止不!求求你了!</RV2_PreyStruggling_Hated.stages.1.description>
+  <!--EN: Multiple struggling prey-->
+  <RV2_PreyStruggling_Hated.stages.1.label>多个挣扎中的猎物</RV2_PreyStruggling_Hated.stages.1.label>
+  <!--EN: That feels wonderful-->
+  <RV2_PreyStruggling_Loved.stages.0.description>美妙的感觉</RV2_PreyStruggling_Loved.stages.0.description>
+  <!--EN: Struggling prey-->
+  <RV2_PreyStruggling_Loved.stages.0.label>挣扎中的猎物</RV2_PreyStruggling_Loved.stages.0.label>
+  <!--EN: Yes! Keep wiggling around in there!-->
+  <RV2_PreyStruggling_Loved.stages.1.description>是的!在里面继续扭动!</RV2_PreyStruggling_Loved.stages.1.description>
+  <!--EN: Multiple struggling prey-->
+  <RV2_PreyStruggling_Loved.stages.1.label>多个挣扎中的猎物</RV2_PreyStruggling_Loved.stages.1.label>
+  <!--EN: {1} tried to melt me into lube in their womb! I'm not a disposable sex-toy!-->
+  <RV2_PreyVaginalConvertLubeInterrupted.stages.0.description>{1}试图将我熔化润滑油在他们的子宫里!我不是一次性的sexXtoy不!</RV2_PreyVaginalConvertLubeInterrupted.stages.0.description>
+  <!--EN: Escaped vaginal lubrifaction by {0}-->
+  <RV2_PreyVaginalConvertLubeInterrupted.stages.0.label>逃跑了阴道淫荡于{0}</RV2_PreyVaginalConvertLubeInterrupted.stages.0.label>
+  <!--EN: I had a reinvigorating bath.-->
+  <RV2_PreyVaginalHealSuccess.stages.0.description>我洗了一个充满活力的浴缸。</RV2_PreyVaginalHealSuccess.stages.0.description>
+  <!--EN: Healed by {0}'s womb-->
+  <RV2_PreyVaginalHealSuccess.stages.0.label>治愈{0}的子宫</RV2_PreyVaginalHealSuccess.stages.0.label>
+  <!--EN: {1} tried to use me like a dildo, but we were interrupted. I was so excited, too.-->
+  <RV2_PreyVaginalPleasureInterrupted.stages.0.description>{1}试图像个混蛋一样利用我假阴茎,但我们被打断了。我也很兴奋。</RV2_PreyVaginalPleasureInterrupted.stages.0.description>
+  <!--EN: Unbirth by {0} as a sex-toy interrupted-->
+  <RV2_PreyVaginalPleasureInterrupted.stages.0.label>未生育{0}作为一个sexXtoy被打断</RV2_PreyVaginalPleasureInterrupted.stages.0.label>
+  <!--EN: {1} used me as a living dildo! I'm a little bit dizzy, but damn if it wasn't hot!-->
+  <RV2_PreyVaginalPleasureSuccess.stages.0.description>{1}以我为生假阴茎不!我有点头晕，但该死的如果不是这样性感的不!</RV2_PreyVaginalPleasureSuccess.stages.0.description>
+  <!--EN: Unbirthed by {0} as a sex-toy-->
+  <RV2_PreyVaginalPleasureSuccess.stages.0.label>未生育{0}作为一个sexXtoy</RV2_PreyVaginalPleasureSuccess.stages.0.label>
+  <!--EN: I was starting to lose myself...-->
+  <RV2_PreyVaginalReformInterrupted.stages.0.description>我开始迷失自我了.</RV2_PreyVaginalReformInterrupted.stages.0.description>
+  <!--EN: Rebirth by {0} interrupted-->
+  <RV2_PreyVaginalReformInterrupted.stages.0.label>通过{0}被打断</RV2_PreyVaginalReformInterrupted.stages.0.label>
+  <!--EN: Who... Who am I?-->
+  <RV2_PreyVaginalReformSuccess.stages.0.description>谁...你是谁？</RV2_PreyVaginalReformSuccess.stages.0.description>
+  <!--EN: Reborn by {0}-->
+  <RV2_PreyVaginalReformSuccess.stages.0.label>被{0}</RV2_PreyVaginalReformSuccess.stages.0.label>
+  <!--EN: It's nice to have room to stretch again.-->
+  <RV2_PreyVaginalStoreEnd.stages.0.description>有空间再次伸展身体真好。</RV2_PreyVaginalStoreEnd.stages.0.description>
+  <!--EN: Released from {0}'s womb-storage-->
+  <RV2_PreyVaginalStoreEnd.stages.0.label>释放{0}的子宫储存器</RV2_PreyVaginalStoreEnd.stages.0.label>
+  <!--EN: Where's the flavor?-->
+  <RV2_StrippingQuirkSatisfaction_Predator_Clothed_Bad.stages.0.description>味道呢？</RV2_StrippingQuirkSatisfaction_Predator_Clothed_Bad.stages.0.description>
+  <!--EN: Disliked consuming {0} clothed-->
+  <RV2_StrippingQuirkSatisfaction_Predator_Clothed_Bad.stages.0.label>厌恶消费{0}穿着衣服</RV2_StrippingQuirkSatisfaction_Predator_Clothed_Bad.stages.0.label>
+  <!--EN: That tickles!-->
+  <RV2_StrippingQuirkSatisfaction_Predator_Clothed_Good.stages.0.description>好痒!</RV2_StrippingQuirkSatisfaction_Predator_Clothed_Good.stages.0.description>
+  <!--EN: Liked consuming {0} clothed-->
+  <RV2_StrippingQuirkSatisfaction_Predator_Clothed_Good.stages.0.label>喜欢暴饮暴食{0}穿着衣服</RV2_StrippingQuirkSatisfaction_Predator_Clothed_Good.stages.0.label>
+  <!--EN: I didn't want to taste that.-->
+  <RV2_StrippingQuirkSatisfaction_Predator_Naked_Bad.stages.0.description>我不想尝那个。</RV2_StrippingQuirkSatisfaction_Predator_Naked_Bad.stages.0.description>
+  <!--EN: Disliked consuming {0} naked-->
+  <RV2_StrippingQuirkSatisfaction_Predator_Naked_Bad.stages.0.label>厌恶消费{0}裸体</RV2_StrippingQuirkSatisfaction_Predator_Naked_Bad.stages.0.label>
+  <!--EN: Delicious!-->
+  <RV2_StrippingQuirkSatisfaction_Predator_Naked_Good.stages.0.description>味道不错!</RV2_StrippingQuirkSatisfaction_Predator_Naked_Good.stages.0.description>
+  <!--EN: Liked consuming {0} naked-->
+  <RV2_StrippingQuirkSatisfaction_Predator_Naked_Good.stages.0.label>喜欢暴饮暴食{0}裸体</RV2_StrippingQuirkSatisfaction_Predator_Naked_Good.stages.0.label>
+  <!--EN: My clothes! If they're full of holes or stains...-->
+  <RV2_StrippingQuirkSatisfaction_Prey_Clothed_Bad.stages.0.description>我的衣物!如果满是洞或污渍.</RV2_StrippingQuirkSatisfaction_Prey_Clothed_Bad.stages.0.description>
+  <!--EN: Disliked being consumed by {0} while clothed-->
+  <RV2_StrippingQuirkSatisfaction_Prey_Clothed_Bad.stages.0.label>厌恶被{0}期间穿着衣服</RV2_StrippingQuirkSatisfaction_Prey_Clothed_Bad.stages.0.label>
+  <!--EN: I wonder if there are washing-machine preds out there.-->
+  <RV2_StrippingQuirkSatisfaction_Prey_Clothed_Good.stages.0.description>我想知道外面是否有洗衣机牧师。</RV2_StrippingQuirkSatisfaction_Prey_Clothed_Good.stages.0.description>
+  <!--EN: Liked being consumed by {0} while clothed-->
+  <RV2_StrippingQuirkSatisfaction_Prey_Clothed_Good.stages.0.label>喜爱被{0}期间穿着衣服</RV2_StrippingQuirkSatisfaction_Prey_Clothed_Good.stages.0.label>
+  <!--EN: I need a bath...-->
+  <RV2_StrippingQuirkSatisfaction_Prey_Naked_Bad.stages.0.description>我需要洗个澡...</RV2_StrippingQuirkSatisfaction_Prey_Naked_Bad.stages.0.description>
+  <!--EN: Disliked being consumed by {0} while naked-->
+  <RV2_StrippingQuirkSatisfaction_Prey_Naked_Bad.stages.0.label>厌恶被{0}期间裸体</RV2_StrippingQuirkSatisfaction_Prey_Naked_Bad.stages.0.label>
+  <!--EN: Like taking a bath!-->
+  <RV2_StrippingQuirkSatisfaction_Prey_Naked_Good.stages.0.description>比如洗澡!</RV2_StrippingQuirkSatisfaction_Prey_Naked_Good.stages.0.description>
+  <!--EN: Liked being consumed by {0} while naked-->
+  <RV2_StrippingQuirkSatisfaction_Prey_Naked_Good.stages.0.label>喜爱被{0}期间裸体</RV2_StrippingQuirkSatisfaction_Prey_Naked_Good.stages.0.label>
+  <!--EN: {1} managed to struggle out of me, what a shame!-->
+  <RV2_SuccessfulStruggle_Predator.stages.0.description>{1}设法摆脱了我，真可惜!</RV2_SuccessfulStruggle_Predator.stages.0.description>
+  <!--EN: Prey escaped-->
+  <RV2_SuccessfulStruggle_Predator.stages.0.label>猎物逃跑了</RV2_SuccessfulStruggle_Predator.stages.0.label>
+  <!--EN: I was vored, but managed to struggle my way out of {1}!-->
+  <RV2_SuccessfulStruggle_Prey.stages.0.description>我被抛弃了，但还是设法挣扎着逃离了{1}不!</RV2_SuccessfulStruggle_Prey.stages.0.description>
+  <!--EN: Escaped vore-->
+  <RV2_SuccessfulStruggle_Prey.stages.0.label>逃跑了吃人</RV2_SuccessfulStruggle_Prey.stages.0.label>
+  <!--EN: Forced vore goal change-->
+  <RV2_SwitchedGoalOnMe_Social.stages.0.label>forcedvore目标改变</RV2_SwitchedGoalOnMe_Social.stages.0.label>
+  <!--EN: I'll be sitting funny.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Bad.stages.0.description>我坐着会很开心。</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Bad.stages.0.description>
+  <!--EN: Disliked posternating {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Bad.stages.0.label>反感收放{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Bad.stages.0.label>
+  <!--EN: Love to give my ass a treat every now and then.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Good.stages.0.description>爱给我屁股偶尔吃点东西。</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Good.stages.0.description>
+  <!--EN: Liked posternating {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Good.stages.0.label>喜欢装填{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_Good.stages.0.label>
+  <!--EN: Call me butthurt, but my butt fucking hurts!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryBad.stages.0.description>说我屁股疼，可我的屁股好疼!</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryBad.stages.0.description>
+  <!--EN: Hated posternating {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryBad.stages.0.label>憎恶后期{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryBad.stages.0.label>
+  <!--EN: Gotta keep your butt happy!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryGood.stages.0.description>必须让你的屁股开心!</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryGood.stages.0.description>
+  <!--EN: Loved posternating {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryGood.stages.0.label>喜爱后发{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Anal_VeryGood.stages.0.label>
+  <!--EN: It kinda stings. I don't like that.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Bad.stages.0.description>有点疼。我不喜欢那样。</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Bad.stages.0.description>
+  <!--EN: Disliked unsowing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Bad.stages.0.label>反感的不播种{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Bad.stages.0.label>
+  <!--EN: Fuck yeah!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Good.stages.0.description>耶!</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Good.stages.0.description>
+  <!--EN: Liked unsowing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Good.stages.0.label>喜欢不播种{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_Good.stages.0.label>
+  <!--EN: This is how you get a bladder infection.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryBad.stages.0.description>这就是膀胱感染的原因。</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryBad.stages.0.description>
+  <!--EN: Hated unsowing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryBad.stages.0.label>厌恶未播种{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryBad.stages.0.label>
+  <!--EN: Gotta keep your dick happy!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryGood.stages.0.description>我得让你的老二开心点!</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryGood.stages.0.description>
+  <!--EN: Loved unsowing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryGood.stages.0.label>喜爱未播种{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Cock_VeryGood.stages.0.label>
+  <!--EN: Ugh, they're *finally* out.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Bad.stages.0.description>呃，他们终于 * 出去了 *</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Bad.stages.0.description>
+  <!--EN: Disliked guiding {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Bad.stages.0.label>反感的引导{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Bad.stages.0.label>
+  <!--EN: In one end, out the other. Just how it should be.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Good.stages.0.description>一端，另一端。应该是什么样子？</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Good.stages.0.description>
+  <!--EN: Liked guiding {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Good.stages.0.label>喜欢引导{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_Good.stages.0.label>
+  <!--EN: The release does not make up for holding that in so long...-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryBad.stages.0.description>发布并不能弥补持有它在这么长时间内.</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryBad.stages.0.description>
+  <!--EN: Hated guiding {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryBad.stages.0.label>厌恶引导{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryBad.stages.0.label>
+  <!--EN: Every part of me gets to feel every part of you~-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryGood.stages.0.description>~ 我的每一部分都能感受到你的每一部分 ~</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryGood.stages.0.description>
+  <!--EN: Loved guiding {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryGood.stages.0.label>喜爱引导{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_FullTour_VeryGood.stages.0.label>
+  <!--EN: Ugh, this balancing act is annoying.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Bad.stages.0.description>呃，这种平衡的行为真烦人。</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Bad.stages.0.description>
+  <!--EN: Disliked unnursing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Bad.stages.0.label>反感的不哺育{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Bad.stages.0.label>
+  <!--EN: Nice and milky.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Good.stages.0.description>非常好，是奶白的。</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Good.stages.0.description>
+  <!--EN: Liked unnursing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Good.stages.0.label>喜欢未哺育{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_Good.stages.0.label>
+  <!--EN: My back! Augh!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryBad.stages.0.description>我的背!哇!</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryBad.stages.0.description>
+  <!--EN: Hated unnursing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryBad.stages.0.label>厌恶未哺育{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryBad.stages.0.label>
+  <!--EN: Gotta keep your tits happy (and balanced)!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryGood.stages.0.description>必须让你的乳头保持愉悦 (和平衡)!</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryGood.stages.0.description>
+  <!--EN: Loved unnursing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryGood.stages.0.label>未哺育的爱人{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Nipple_VeryGood.stages.0.label>
+  <!--EN: Kinda clicheed.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Bad.stages.0.description>有点克隆头。</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Bad.stages.0.description>
+  <!--EN: Disliked swallowing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Bad.stages.0.label>厌恶吞咽{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Bad.stages.0.label>
+  <!--EN: Tasty!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Good.stages.0.description>真香!</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Good.stages.0.description>
+  <!--EN: Liked swallowing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Good.stages.0.label>喜欢吞食{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_Good.stages.0.label>
+  <!--EN: My jaw hurts!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryBad.stages.0.description>我的下颌好痛!</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryBad.stages.0.description>
+  <!--EN: Hated swallowing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryBad.stages.0.label>厌恶吞食{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryBad.stages.0.label>
+  <!--EN: Gotta keep your stomach happy!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryGood.stages.0.description>我得让你的胃开心!</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryGood.stages.0.description>
+  <!--EN: Loved swallowing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryGood.stages.0.label>喜欢吞食{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Oral_VeryGood.stages.0.label>
+  <!--EN: I'd better not get a bladder infection.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Bad.stages.0.description>我最好别得膀胱感染。</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Bad.stages.0.description>
+  <!--EN: Disliked unbirthing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Bad.stages.0.label>反感不生育{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Bad.stages.0.label>
+  <!--EN: Fuck yeah!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Good.stages.0.description>耶!</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Good.stages.0.description>
+  <!--EN: Liked unbirthing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Good.stages.0.label>喜欢解散{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_Good.stages.0.label>
+  <!--EN: They're not supposed to go back in!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryBad.stages.0.description>他们不应该回去!</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryBad.stages.0.description>
+  <!--EN: Hated unbirthing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryBad.stages.0.label>厌恶解散{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryBad.stages.0.label>
+  <!--EN: Gotta keep your pussy happy!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryGood.stages.0.description>必须保持小穴开心!</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryGood.stages.0.description>
+  <!--EN: Loved unbirthing {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryGood.stages.0.label>喜爱的不生育{0}</RV2_TypePreferenceQuirkSatisfaction_Predator_Vaginal_VeryGood.stages.0.label>
+  <!--EN: Unsanitary.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Bad.stages.0.description>不卫生的。</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Bad.stages.0.description>
+  <!--EN: Disliked being posternated by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Bad.stages.0.label>反感被{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Bad.stages.0.label>
+  <!--EN: Tight and cozy!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Good.stages.0.description>非常舒适!</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Good.stages.0.description>
+  <!--EN: Liked being posternated by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Good.stages.0.label>喜欢被{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_Good.stages.0.label>
+  <!--EN: I need a fucking bath. Ew.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryBad.stages.0.description>我要他妈的洗个澡。恶心。</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryBad.stages.0.description>
+  <!--EN: Hated being posternated by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryBad.stages.0.label>讨厌被{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryBad.stages.0.label>
+  <!--EN: Up the butt is where I belong!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryGood.stages.0.description>屁股朝上就是我的地方!</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryGood.stages.0.description>
+  <!--EN: Loved being posternated by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryGood.stages.0.label>喜欢被{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Anal_VeryGood.stages.0.label>
+  <!--EN: It's a bit musky, and not in a good way.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Bad.stages.0.description>有点香，味道不太好。</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Bad.stages.0.description>
+  <!--EN: Disliked being unsown by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Bad.stages.0.label>不喜欢被{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Bad.stages.0.label>
+  <!--EN: Spunky!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Good.stages.0.description>有灵魂!</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Good.stages.0.description>
+  <!--EN: Liked being unsown by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Good.stages.0.label>喜欢被{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_Good.stages.0.label>
+  <!--EN: Just impale me next time.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryBad.stages.0.description>下次刺穿我吧。</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryBad.stages.0.description>
+  <!--EN: Hated being unsown by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryBad.stages.0.label>讨厌被{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryBad.stages.0.label>
+  <!--EN: Down the cock is where I belong!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryGood.stages.0.description>让公鸡倒地就是属于我的地方!</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryGood.stages.0.description>
+  <!--EN: Loved being unsown by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryGood.stages.0.label>喜欢被{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Cock_VeryGood.stages.0.label>
+  <!--EN: Ugh, there goes half my day. Not worth it.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Bad.stages.0.description>呃，我的时间没了。不值得。</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Bad.stages.0.description>
+  <!--EN: Disliked being swallowed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Bad.stages.0.label>厌恶被吞噬{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Bad.stages.0.label>
+  <!--EN: Ahh... a comfortable belly, and some nice, tight guts!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Good.stages.0.description>啊... 一个舒适的肚子，还有一些紧绷的好肚子!</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Good.stages.0.description>
+  <!--EN: Liked touring {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Good.stages.0.label>喜欢旅行{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_Good.stages.0.label>
+  <!--EN: I envy food... it doesn't have to be awake when it goes through that.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryBad.stages.0.description>我很羡慕食物...经历这一切时，它不必醒着。</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryBad.stages.0.description>
+  <!--EN: Hated being swallowed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryBad.stages.0.label>厌恶被吞噬{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryBad.stages.0.label>
+  <!--EN: What a lovely trip! Amazing all the way through~-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryGood.stages.0.description>多么可爱的旅行啊!令人惊叹消化道贯穿~</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryGood.stages.0.description>
+  <!--EN: Loved touring {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryGood.stages.0.label>热爱旅行{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_FullTour_VeryGood.stages.0.label>
+  <!--EN: Nipples shouldn't eat people.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Bad.stages.0.description>乳头不应该吃人。</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Bad.stages.0.description>
+  <!--EN: Disliked being unnursed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Bad.stages.0.label>反感被照顾{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Bad.stages.0.label>
+  <!--EN: Milky!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Good.stages.0.description>奶白!</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Good.stages.0.description>
+  <!--EN: Liked being unnursed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Good.stages.0.label>喜欢被照顾{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_Good.stages.0.label>
+  <!--EN: This pisses me off on a conceptual level!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryBad.stages.0.description>这在概念层面上让我很恼火!</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryBad.stages.0.description>
+  <!--EN: Hated being unnursed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryBad.stages.0.label>厌恶被人照顾{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryBad.stages.0.label>
+  <!--EN: In the boob is where I belong!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryGood.stages.0.description>我住的地方!</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryGood.stages.0.description>
+  <!--EN: Loved being unnursed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryGood.stages.0.label>不喜欢被照顾{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Nipple_VeryGood.stages.0.label>
+  <!--EN: I think I scraped myself on a tooth.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Bad.stages.0.description>我想我的牙齿擦伤了。</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Bad.stages.0.description>
+  <!--EN: Disliked being swallowed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Bad.stages.0.label>厌恶被吞噬{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Bad.stages.0.label>
+  <!--EN: Ah, tongues and lips and teeth!~-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Good.stages.0.description>啊，舌头，嘴唇，牙齿!~</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Good.stages.0.description>
+  <!--EN: Liked being swallowed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Good.stages.0.label>喜欢被吞噬{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_Good.stages.0.label>
+  <!--EN: I'll kick your teeth in next time, just you watch!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryBad.stages.0.description>下次我要踢你的牙，就你看着!</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryBad.stages.0.description>
+  <!--EN: Hated being swallowed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryBad.stages.0.label>厌恶被吞噬{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryBad.stages.0.label>
+  <!--EN: Down the throat is where I belong!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryGood.stages.0.description>我就在这!</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryGood.stages.0.description>
+  <!--EN: Loved being swallowed by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryGood.stages.0.label>喜爱被吞噬{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Oral_VeryGood.stages.0.label>
+  <!--EN: Being born once was enough.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Bad.stages.0.description>出生一次就足够了。</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Bad.stages.0.description>
+  <!--EN: Disliked being unborn by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Bad.stages.0.label>反感因{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Bad.stages.0.label>
+  <!--EN: Comforting.-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Good.stages.0.description>令人感到安慰。</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Good.stages.0.description>
+  <!--EN: Liked being unborn by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Good.stages.0.label>喜欢即将出世{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_Good.stages.0.label>
+  <!--EN: I don't wanna go back!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryBad.stages.0.description>我不想回去!</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryBad.stages.0.description>
+  <!--EN: Hated being unborn by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryBad.stages.0.label>厌恶尚未出生的孩子{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryBad.stages.0.label>
+  <!--EN: Up the muff is where I belong!-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryGood.stages.0.description>我属于这里!</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryGood.stages.0.description>
+  <!--EN: Loved being unborn by {0}-->
+  <RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryGood.stages.0.label>钟爱尚未出生的孩子被{0}</RV2_TypePreferenceQuirkSatisfaction_Prey_Vaginal_VeryGood.stages.0.label>
 </LanguageData>

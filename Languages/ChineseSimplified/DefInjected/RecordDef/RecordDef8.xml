@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: The milliliters of cum that's been ejaculated into my womb.-->
-  <AmountofCreampied.description>射入我子宫内的精液毫升数。</AmountofCreampied.description>
-  <!--EN: creampied-->
-  <AmountofCreampied.label>内射量</AmountofCreampied.label>
-  <!--EN: The number of my eggs that sperm has fertilized.-->
-  <AmountofFertilizedEggs.description>我的卵子中被精子受精的数量。</AmountofFertilizedEggs.description>
-  <!--EN: fertilized eggs-->
-  <AmountofFertilizedEggs.label>受精卵数量</AmountofFertilizedEggs.label>
+  <!--EN: The number of times I transferred prey into someone during sex.-->
+  <RV2_RJW_VoreTransfer_Giver.description>我在性行为中将猎物转移给别人的次数。</RV2_RJW_VoreTransfer_Giver.description>
+  <!--EN: Vore: Gave prey during sex-->
+  <RV2_RJW_VoreTransfer_Giver.label>吞食：性行为中给出猎物</RV2_RJW_VoreTransfer_Giver.label>
+  <!--EN: The number of times someone transferred a prey into me during sex.-->
+  <RV2_RJW_VoreTransfer_Receiver.description>别人在性行为中将猎物转移给我的次数。</RV2_RJW_VoreTransfer_Receiver.description>
+  <!--EN: Vore: Received prey during sex-->
+  <RV2_RJW_VoreTransfer_Receiver.label>吞食：性行为中接收猎物</RV2_RJW_VoreTransfer_Receiver.label>
 </LanguageData>

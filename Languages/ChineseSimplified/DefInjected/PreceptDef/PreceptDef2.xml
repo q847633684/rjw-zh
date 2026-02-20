@@ -1,49 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: An attempt will be made to tamper with the genes of the target or their unborn.-->
-  <CB_GeneTampering.description>将尝试篡改目标或其未出生后代的基因。</CB_GeneTampering.description>
-  <!--EN: gene tampering-->
-  <CB_GeneTampering.label>基因篡改</CB_GeneTampering.label>
-  <!--EN: offspring given away-->
-  <CB_Repopulation_Duty.comps.0.description>后代被送走</CB_Repopulation_Duty.comps.0.description>
-  <!--EN: offspring not given away-->
-  <CB_Repopulation_Duty.comps.1.description>后代未被送走</CB_Repopulation_Duty.comps.1.description>
-  <!--EN: My child was given away-->
-  <CB_Repopulation_Duty.comps.3.description>我的孩子被送走了</CB_Repopulation_Duty.comps.3.description>
-  <!--EN: Our duty is to repopulate this world, we do not expect anything in return. Depending on the prostitution level, this duty can be sacred or essential-->
-  <CB_Repopulation_Duty.description>我们的职责是让这个世界重新繁衍，我们不求任何回报。根据卖淫等级的不同，这项职责可以是神圣的或必要的</CB_Repopulation_Duty.description>
-  <!--EN: Duty-->
-  <CB_Repopulation_Duty.label>职责</CB_Repopulation_Duty.label>
-  <!--EN: offspring given away-->
-  <CB_Repopulation_Greed.comps.0.description>后代被送走</CB_Repopulation_Greed.comps.0.description>
-  <!--EN: offspring not given away-->
-  <CB_Repopulation_Greed.comps.1.description>后代未被送走</CB_Repopulation_Greed.comps.1.description>
-  <!--EN: My child was given away-->
-  <CB_Repopulation_Greed.comps.2.description>我的孩子被送走了</CB_Repopulation_Greed.comps.2.description>
-  <!--EN: We aid the other factions by bearing their offspring, for a price. Depending on the prostitution level, this can be seen as sacred-->
-  <CB_Repopulation_Greed.description>我们通过为他人生育后代来帮助其他派系，并收取一定代价。根据卖淫等级的不同，这可以被视为神圣的</CB_Repopulation_Greed.description>
-  <!--EN: Greed-->
-  <CB_Repopulation_Greed.label>贪婪</CB_Repopulation_Greed.label>
-  <!--EN: offspring given away-->
-  <CB_Repopulation_Kindness.comps.0.description>后代被送走</CB_Repopulation_Kindness.comps.0.description>
-  <!--EN: offspring not given away-->
-  <CB_Repopulation_Kindness.comps.1.description>后代未被送走</CB_Repopulation_Kindness.comps.1.description>
-  <!--EN: My child was given away-->
-  <CB_Repopulation_Kindness.comps.2.description>我的孩子被送走了</CB_Repopulation_Kindness.comps.2.description>
-  <!--EN: We aid the other factions by bearing their offspring. Depending on the prostitution level, this can be seen as sacred-->
-  <CB_Repopulation_Kindness.description>我们通过为他人生育后代来帮助其他派系。根据卖淫等级的不同，这可以被视为神圣的</CB_Repopulation_Kindness.description>
-  <!--EN: Kindness-->
-  <CB_Repopulation_Kindness.label>善意</CB_Repopulation_Kindness.label>
-  <!--EN: offspring given away-->
-  <CB_Repopulation_None.comps.0.description>后代被送走</CB_Repopulation_None.comps.0.description>
-  <!--EN: My child was given away-->
-  <CB_Repopulation_None.comps.1.description>我的孩子被送走了</CB_Repopulation_None.comps.1.description>
-  <!--EN: We do not try to repopulate the world-->
-  <CB_Repopulation_None.description>我们不会试图让世界重新繁衍</CB_Repopulation_None.description>
-  <!--EN: None-->
-  <CB_Repopulation_None.label>无</CB_Repopulation_None.label>
-  <!--EN: Specialised in handling repopulatist matters.\n- Able to offer any pawn to any visitor.\n- If in a caravan, can offer pawns to settlements\n- Can use fervour points to tamper with genes.\n- Able to convert earned fervour into ideology points.-->
-  <CB_Repopulation_Specialist.description>专门处理再繁衍事务。\n- 能够向任何访客提供任何角色。\n- 如果在远行队中，可以向定居点提供角色。\n- 可以使用狂热点数来篡改基因。\n- 能够将获得的狂热转化为文化点数。</CB_Repopulation_Specialist.description>
-  <!--EN: Repopulation specialist-->
-  <CB_Repopulation_Specialist.label>再繁衍专家</CB_Repopulation_Specialist.label>
+  <!--EN: Children must be protected. To be violent with a child is an irredeemable act.-->
+  <Harm_Child_Abhorrent.description>儿童必须受到保护。对儿童施暴是一种不可原谅的行为。</Harm_Child_Abhorrent.description>
+  <!--EN: abhorrent-->
+  <Harm_Child_Abhorrent.label>令人憎恶</Harm_Child_Abhorrent.label>
+  <!--EN: A child is just another mouth to feed. Either they are useful or they are not.-->
+  <Harm_Child_Accepted.description>孩子只是另一张要吃饭的嘴。他们要么有用，要么没用。</Harm_Child_Accepted.description>
+  <!--EN: accepted-->
+  <Harm_Child_Accepted.label>可接受</Harm_Child_Accepted.label>
+  <!--EN: Only the honorless, the weak, or the desperate resort to harming children.-->
+  <Harm_Child_Disapproved.description>只有无耻、软弱或绝望的人才会去伤害儿童。</Harm_Child_Disapproved.description>
+  <!--EN: disapproved-->
+  <Harm_Child_Disapproved.label>不赞成</Harm_Child_Disapproved.label>
+  <!--EN: Few are the pleasures deeper than drawing the blood of the innocent.-->
+  <Harm_Child_Honorable.description>很少有比让无辜者流血更深层的快感。</Harm_Child_Honorable.description>
+  <!--EN: honorable-->
+  <Harm_Child_Honorable.label>光荣</Harm_Child_Honorable.label>
+  <!--EN: Regardless of our position on violence between adults, harming a child is despicable.-->
+  <Harm_Child_Prohibited.description>无论我们对成人间暴力的立场如何，伤害儿童都是可鄙的。</Harm_Child_Prohibited.description>
+  <!--EN: prohibited-->
+  <Harm_Child_Prohibited.label>禁止</Harm_Child_Prohibited.label>
+  <!--EN: To marry a child is vile, and only the lowest and most disgusting would suggest it.-->
+  <Marriage_Child_Abhorrent.description>与儿童结婚是卑鄙的，只有最下贱、最令人作呕的人才会提出这种建议。</Marriage_Child_Abhorrent.description>
+  <!--EN: abhorrent-->
+  <Marriage_Child_Abhorrent.label>令人憎恶</Marriage_Child_Abhorrent.label>
+  <!--EN: Marriage is a hallowed institution that transcends age.-->
+  <Marriage_Child_Accepted.description>婚姻是超越年龄的神圣制度。</Marriage_Child_Accepted.description>
+  <!--EN: accepted-->
+  <Marriage_Child_Accepted.label>可接受</Marriage_Child_Accepted.label>
+  <!--EN: The young should not be bound into marriage too soon, except in times of desperation.-->
+  <Marriage_Child_Disapproved.description>年轻人不应过早被婚姻束缚，除非在万不得已之时。</Marriage_Child_Disapproved.description>
+  <!--EN: disapproved-->
+  <Marriage_Child_Disapproved.label>不赞成</Marriage_Child_Disapproved.label>
+  <!--EN: A child brings the blessings of long life and sweet pleasure into a sacred matrimony, uplifting both participants.-->
+  <Marriage_Child_Honorable.description>儿童为神圣的婚姻带来长寿和甜蜜欢愉的祝福，使双方都得到升华。</Marriage_Child_Honorable.description>
+  <!--EN: honorable-->
+  <Marriage_Child_Honorable.label>光荣</Marriage_Child_Honorable.label>
+  <!--EN: Marriage to a child is rightly forbidden. They are too young to consent to such a pact.-->
+  <Marriage_Child_Prohibited.description>与儿童结婚理应被禁止。他们太年轻，无法对这种契约表示同意。</Marriage_Child_Prohibited.description>
+  <!--EN: prohibited-->
+  <Marriage_Child_Prohibited.label>禁止</Marriage_Child_Prohibited.label>
+  <!--EN: Child rape is a crime beneath murder and must be treated as such.-->
+  <Rape_Child_Abhorrent.description>强奸儿童是比谋杀更恶劣的罪行，必须严惩不贷。</Rape_Child_Abhorrent.description>
+  <!--EN: abhorrent-->
+  <Rape_Child_Abhorrent.label>令人憎恶</Rape_Child_Abhorrent.label>
+  <!--EN: Children are defenseless...and adorable...and so soft. Shit happens.-->
+  <Rape_Child_Accepted.description>孩子毫无防备……又可爱……又这么柔软。世事难料嘛。</Rape_Child_Accepted.description>
+  <!--EN: accepted-->
+  <Rape_Child_Accepted.label>可接受</Rape_Child_Accepted.label>
+  <!--EN: Molesting children is bad...and kind of pathetic.-->
+  <Rape_Child_Disapproved.description>猥亵儿童很糟糕……而且有点可悲。</Rape_Child_Disapproved.description>
+  <!--EN: disapproved-->
+  <Rape_Child_Disapproved.label>不赞成</Rape_Child_Disapproved.label>
+  <!--EN: "Nature's first green is gold..." One might as well fuck'um while they are tight.-->
+  <Rape_Child_Honorable.description>"大自然的第一抹新绿是金……"趁紧的时候不干白不干。</Rape_Child_Honorable.description>
+  <!--EN: honorable-->
+  <Rape_Child_Honorable.label>光荣</Rape_Child_Honorable.label>
+  <!--EN: The innocence of a child must be protected. Rape violates that innocence and must be punished.-->
+  <Rape_Child_Prohibited.description>儿童的天真必须受到保护。强奸侵犯了这种天真，必须受到惩罚。</Rape_Child_Prohibited.description>
+  <!--EN: prohibited-->
+  <Rape_Child_Prohibited.label>禁止</Rape_Child_Prohibited.label>
 </LanguageData>

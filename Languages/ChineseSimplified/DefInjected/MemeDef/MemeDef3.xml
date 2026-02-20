@@ -1,153 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Life is full of pleasures, but none are so pure, so natural, as that of sex. We must engage in sexual acts to truly be ourselves.-->
-  <Lewd.description>大变态！</Lewd.description>
-  <Lewd.generalRules.rulesStrings>
-    <!--EN: memeAdjective->horny-->
-    <li>memeAdjective-&gt;淫荡</li>
-    <!--EN: memeAdjective->lewd-->
-    <li>memeAdjective-&gt;猥亵</li>
-    <!--EN: memeAdjective->arousing-->
-    <li>memeAdjective-&gt;引诱</li>
-    <!--EN: memeAdjective->sexy-->
-    <li>memeAdjective-&gt;性感</li>
-    <!--EN: memeAdjective->estrous-->
-    <li>memeAdjective-&gt;发情</li>
-    <!--EN: memeAdjective->decadent-->
-    <li>memeAdjective-&gt;颓废</li>
-    <!--EN: memeHyphenPrefix->estro-->
-    <li>memeHyphenPrefix-&gt;发情</li>
-    <!--EN: memeHyphenPrefix->lust-->
-    <li>memeHyphenPrefix-&gt;欲望</li>
-    <!--EN: memeConcept->lust-->
-    <li>memeConcept-&gt;欲望</li>
-    <!--EN: memeConcept->libido-->
-    <li>memeConcept-&gt;性欲</li>
-    <!--EN: memeConcept->estrus-->
-    <li>memeConcept-&gt;发情期</li>
-    <!--EN: memeConcept->arousal-->
-    <li>memeConcept-&gt;唤起</li>
-    <!--EN: memeConcept->desire-->
-    <li>memeConcept-&gt;渴望</li>
-    <!--EN: memeConcept->sex-->
-    <li>memeConcept-&gt;性</li>
-    <!--EN: memeConcept->perversion-->
-    <li>memeConcept-&gt;变态</li>
-    <!--EN: r_deityName->slaanesh-->
-    <li>r_deityName-&gt;色孽</li>
-  </Lewd.generalRules.rulesStrings>
-  <!--EN: lewd-->
-  <Lewd.label>淫秽放荡</Lewd.label>
-  <!--EN: Corpse fuckers.-->
-  <Necrophile.description>硬硬的，嘿嘿……</Necrophile.description>
-  <Necrophile.generalRules.rulesStrings>
-    <!--EN: r_deityName->sonic-->
-    <li>r_deityName-&gt;索尼克</li>
-    <!--EN: r_deityName->mega man-->
-    <li>r_deityName-&gt;洛克人</li>
-    <!--EN: memeConcept->corpse-->
-    <li>memeConcept-&gt;尸体</li>
-    <!--EN: memeConcept->dead-->
-    <li>memeConcept-&gt;死亡</li>
-  </Necrophile.generalRules.rulesStrings>
-  <!--EN: necrophile-->
-  <Necrophile.label>恋尸癖</Necrophile.label>
-  <!--EN: To want to fuck is only natural, to deny anyone this right is unnatural and vile, and to take without consent is pure and right.-->
-  <Rapist.description>雷普，最高！</Rapist.description>
-  <Rapist.descriptionMaker.rules.rulesStrings>
-    <!--EN: creation(tag=meme_Rapist)        ->[deity0_name] loves rape.-->
-    <li>creation(tag=meme_Rapist)        -&gt;[deity0_name]尤好强奸。</li>
-    <!--EN: episode(uses=1,tag=meme_Rapist)  ->[deity0_name] raped everyone until death during rape.-->
-    <li>episode(uses=1,tag=meme_Rapist)  -&gt;[deity0_name]将某人强奸致死。</li>
-    <!--EN: setup(tag=meme_Rapist)           ->[founderName] is always horny.-->
-    <li>setup(tag=meme_Rapist)           -&gt;[founderName]总是欲火焚身。</li>
-    <!--EN: story(uses=1,tag=meme_Rapist)    ->[founderName] raped everyone. No one can stop [founderName]. [founderName] died trying to rape planet.-->
-    <li>story(uses=1,tag=meme_Rapist)    -&gt;[founderName]强奸了某人。没人能够制止[founderName]。[founderName]试图强奸整个星球，死在了半路上。</li>
-    <!--EN: lessonIntro(tag=meme_Rapist)         ->Rape is best! Rape is best! Rape is best!-->
-    <li>lessonIntro(tag=meme_Rapist)         -&gt;雷普，最高！雷普，最高！雷普，最高！</li>
-    <!--EN: lesson(tag=meme_Rapist)              ->Rape is best! Rape is best! Rape is best! Rape is best!-->
-    <li>lesson(tag=meme_Rapist)              -&gt;雷普，最高！雷普，最高！雷普，最高！雷普，最高！</li>
-    <!--EN: lessonReinforcement(tag=meme_Rapist) ->Rape is best! Rape is best! Rape is best! Rape is best! Rape is best!-->
-    <li>lessonReinforcement(tag=meme_Rapist) -&gt;雷普，最高！雷普，最高！雷普，最高！雷普，最高！雷普，最高！</li>
-    <!--EN: archistBasis(tag=meme_Rapist)    ->Human history is history of rape.-->
-    <li>archistBasis(tag=meme_Rapist)    -&gt;人类的历史就是强奸的历史。</li>
-    <!--EN: archistFact(tag=meme_Rapist)     ->Even archotechs cannot stop rapists.-->
-    <li>archistFact(tag=meme_Rapist)     -&gt;超凡科技也阻止不了强奸犯。</li>
-    <!--EN: archistProphecy(tag=meme_Rapist) ->[inTheEnd], the rapists never stop raping.-->
-    <li>archistProphecy(tag=meme_Rapist) -&gt;[inTheEnd]，强奸犯从未停止过强奸。</li>
-    <!--EN: animistFact(tag=meme_Rapist)     ->The most powerful spirits are those of rapists, and spirits of rapists will rape all.-->
-    <li>animistFact(tag=meme_Rapist)     -&gt;强奸之灵是最强大的灵，牠会强奸其他所有的灵。</li>
-    <!--EN: animistProphecy(tag=meme_Rapist) ->[itIsSaid] that a powerful spirit of destruction will seek to end the universe, but that a million-raped rapist will wield the spirit of the [relic0_name] and rape the destroyer.-->
-    <li>animistProphecy(tag=meme_Rapist) -&gt;[itIsSaid]一股强大的毁灭意志在找寻破化宇宙的方法，但一个强奸了一百万个人类的强奸犯会挥舞[relic0_name]强奸这个意志。</li>
-  </Rapist.descriptionMaker.rules.rulesStrings>
-  <Rapist.generalRules.rulesStrings>
-    <!--EN: memeAdjective->violent-->
-    <li>memeAdjective-&gt;暴力的</li>
-    <!--EN: memeAdjective->raping-->
-    <li>memeAdjective-&gt;强奸的</li>
-    <!--EN: memeHyphenPrefix->rapist-->
-    <li>memeHyphenPrefix-&gt;强奸犯</li>
-    <!--EN: memeHyphenPrefix->molester-->
-    <li>memeHyphenPrefix-&gt;骚扰犯</li>
-    <!--EN: memeHyphenPrefix->pervert-->
-    <li>memeHyphenPrefix-&gt;变态</li>
-    <!--EN: memeConcept->rapist-->
-    <li>memeConcept-&gt;强奸犯</li>
-    <!--EN: memeConcept->pervert-->
-    <li>memeConcept-&gt;变态</li>
-    <!--EN: r_deityName->slaanesh-->
-    <li>r_deityName-&gt;色孽</li>
-    <!--EN: memeLeaderNoun->stallion-->
-    <li>memeLeaderNoun-&gt;种马</li>
-    <!--EN: memeLeaderNoun->grand rapist-->
-    <li>memeLeaderNoun-&gt;大强奸犯</li>
-  </Rapist.generalRules.rulesStrings>
-  <!--EN: rapist-->
-  <Rapist.label>强奸至上</Rapist.label>
-  <!--EN: To sexually commune with animals is to show a true connection to creation, and it should be done often.-->
-  <Zoophile.description>与动物性交的人。</Zoophile.description>
-  <Zoophile.descriptionMaker.rules.rulesStrings>
-    <!--EN: creation(tag=meme_Zoophile)        ->[deity0_name] loves breeding with beasts.-->
-    <li>creation(tag=meme_Zoophile)        -&gt;[deity0_name]喜欢与野兽繁殖。</li>
-    <!--EN: episode(uses=1,tag=meme_Zoophile)  ->[deity0_name] said to all, "Sigmar forbids this!"-->
-    <li>episode(uses=1,tag=meme_Zoophile)  -&gt;[deity0_name]对所有人说：“西格玛禁止这种行为！</li>
-    <!--EN: setup(tag=meme_Zoophile)           ->Someday, [founderName] was so horny that accidentally fucked with an animal and loved it.-->
-    <li>setup(tag=meme_Zoophile)           -&gt;某天，[founderName]性甚至哉，误打误撞强上了一个动物，从此喜欢上了这项运动。</li>
-    <!--EN: story(uses=1,tag=meme_Zoophile)    ->For spreading animals, [founderName] started to breed with animals.-->
-    <li>story(uses=1,tag=meme_Zoophile)    -&gt;为了扩大动物种群，[founderName]开始和动物爱爱。</li>
-    <!--EN: lessonIntro(tag=meme_Zoophile)         ->Someday, i had sex with animal. It was much better than humans!-->
-    <li>lessonIntro(tag=meme_Zoophile)         -&gt;有一天，我跟动物做爱了，比跟人做好多了！</li>
-    <!--EN: lesson(tag=meme_Zoophile)              ->Only the animals can satisfy me.-->
-    <li>lesson(tag=meme_Zoophile)              -&gt;还是动物适合老子。</li>
-    <!--EN: lessonReinforcement(tag=meme_Zoophile) ->Breed with animals. It is the eternal hapiness.-->
-    <li>lessonReinforcement(tag=meme_Zoophile) -&gt;和动物做爱吧！这里有永恒的快乐。</li>
-    <!--EN: archistBasis(tag=meme_Zoophile)    ->Archists are always seeking ultimate pleasure.-->
-    <li>archistBasis(tag=meme_Zoophile)    -&gt;超凡者永远寻找永恒的快乐。</li>
-    <!--EN: archistFact(tag=meme_Zoophile)     ->That was breeding with animals.-->
-    <li>archistFact(tag=meme_Zoophile)     -&gt;那便是同动物做爱。</li>
-    <!--EN: archistProphecy(tag=meme_Zoophile) ->[inTheEnd], the archotechs will finally unlock the interspecies breeding, so that they may lead ultimate pleasure.-->
-    <li>archistProphecy(tag=meme_Zoophile) -&gt;[inTheEnd]，超凡使徒终于解锁了异种性行为，因此，他们也获得了真正的永恒的快乐。</li>
-    <!--EN: animistFact(tag=meme_Zoophile)     ->The most powerful spirits are those of beasts, and spirits of beasts will be restless unless beasts rule.-->
-    <li>animistFact(tag=meme_Zoophile)     -&gt;最强大的力量来源于野兽，只有接受野兽的支配，才能发挥野兽的强大力量。</li>
-    <!--EN: animistProphecy(tag=meme_Zoophile) ->[itIsSaid] that a powerful spirit of destruction will seek to end the universe, but that a human-born beast will wield the spirit of the [relic0_name] and destroy the destroyer.-->
-    <li>animistProphecy(tag=meme_Zoophile) -&gt;[itIsSaid]一股强大的毁灭意志在找寻破化宇宙的方法，但一个由动物产下的人类会挥舞[relic0_name]摧毁这个意志。</li>
-  </Zoophile.descriptionMaker.rules.rulesStrings>
-  <Zoophile.generalRules.rulesStrings>
-    <!--EN: memeAdjective->bestial-->
-    <li>memeAdjective-&gt;兽性的</li>
-    <!--EN: memeAdjective->zoophile-->
-    <li>memeAdjective-&gt;兽交的</li>
-    <!--EN: memeHyphenPrefix->bestial-->
-    <li>memeHyphenPrefix-&gt;兽性的</li>
-    <!--EN: memeConcept->breeding-->
-    <li>memeConcept-&gt;繁殖</li>
-    <!--EN: memeConcept->bestiality-->
-    <li>memeConcept-&gt;恋兽癖</li>
-    <!--EN: memeConcept->zoophile-->
-    <li>memeConcept-&gt;兽交者</li>
-    <!--EN: memeLeaderNoun->livestock-->
-    <li>memeLeaderNoun-&gt;牲畜</li>
-  </Zoophile.generalRules.rulesStrings>
-  <!--EN: zoophile-->
-  <Zoophile.label>恋兽癖</Zoophile.label>
+  <!--EN: We live only to vore others.-->
+  <RV2_Predation.description>我们活着只是为了吃人其他人。</RV2_Predation.description>
+  <RV2_Predation.descriptionMaker.rules.rulesStrings>
+    <!--EN: creation(tag=meme_RV2_Predation)        ->[deity0_name] went to [deity0_possessive] brother and shoved him down [deity0_possessive] gullet, gaining the power to become the first of gods.-->
+    <li>creation(tag=meme_RV2_Predation)-&gt;[deity0_name]前往[deity0_possessive]兄弟将他推倒[deity0_possessive]吞食，获得力量成为神的第一。</li>
+    <!--EN: episode(uses=1,tag=meme_RV2_Predation)  ->The [deity0_type] [deity0_name] ate [deity0_possessive] enemies whole.-->
+    <li>episode(uses=1,tag=meme_RV2_Predation)-&gt; 这个[deity0_type][deity0_name]吃了[deity0_possessive]敌人全部。</li>
+    <!--EN: intro(tag=meme_RV2_Predation)           ->On the [place_summary] [place_name], there was a human named [deity0_name]. After conflicts broke out, [deity0_name] began [deity0_possessive] quest of voring any enemies opposing [deity0_name] and became the [deity0_type].-->
+    <li>intro(tag=meme_RV2_Predation)-&gt; 在[place_summary][place_name],有一个人叫[deity0_name]。在冲突爆发后,[deity0_name]开始[deity0_possessive]V见敌人[deity0_name]并成为[deity0_type]。</li>
+    <!--EN: intro(tag=meme_RV2_Predation)           ->On the [place_summary] [place_name], during the [ritualName], [deity0_name] came down into the [altarRoomLabel] to vore the given sacrifice in front of the [memberNamePlural].-->
+    <li>intro(tag=meme_RV2_Predation)-&gt; 在[place_summary][place_name],在[ritualName],[deity0_name]进入[altarRoomLabel]到吃人在被给予的祭品面前[memberNamePlural]。</li>
+    <!--EN: conflict(tag=meme_RV2_Predation)        ->A [foeLeader] declared that all who vore others were criminals, and sent [foeSoldiers] to persecute the [memberNamePlural].-->
+    <li>conflict(tag=meme_RV2_Predation)-&gt; A[foeLeader]宣布所有吃人其他人是罪犯，并派[foeSoldiers]迫害[memberNamePlural]。</li>
+    <!--EN: founderJoin(tag=meme_RV2_Predation)     ->A [place_job] named [founderName] was attacked by one of the [foeLeader]'s [foeSoldiers]. [founderName] wounded [foeLeader_objective] with a [place_personalWeapon] and vored the defenseless leader. Doing so [deity0_name] gained [deity0_possessive] strength.-->
+    <li>founderJoin(tag=meme_RV2_Predation)-&gt; A[place_job]已命名[founderName]被其中一名袭击了[foeLeader]的[foeSoldiers]。[founderName]受伤[foeLeader_objective]带一个[place_personalWeapon]背叛了那个毫无防备的首领。这么做[deity0_name]获得[deity0_possessive]力量。</li>
+    <!--EN: victory(tag=meme_RV2_Predation)         ->[founderName] led a group of [memberNamePlural] into the [place_powerCenter], killed the [foeLeader] and many of [foeLeader_possessive] soldiers, voring any surviving foes. [deity0_name] made [founderName] into the new [foeLeader].-->
+    <li>victory(tag=meme_RV2_Predation)-&gt;[founderName]带领一群[memberNamePlural]进入[place_powerCenter],杀死了[foeLeader]和许多[foeLeader_possessive]士兵们，驱赶任何幸存的敌人。[deity0_name]制作[founderName]进入新的[foeLeader]。</li>
+    <!--EN: setup(tag=meme_RV2_Predation)           ->[founderName] crashlanded on a distant world. Lacking food and surrounded by useless companions, [founder_pronoun] feasted, and became strong.-->
+    <li>setup(tag=meme_RV2_Predation)-&gt;[founderName]坠毁在一个遥远的世界。缺少食物，被无用的同伴包围,[founder_pronoun]盛宴，变得强大。</li>
+    <!--EN: story(uses=1,tag=meme_RV2_Predation)    ->To consecrate their commitment, [founderName] demanded that believers consume proper prey at least once a week.-->
+    <li>story(uses=1,tag=meme_RV2_Predation)-&gt; 为了奉献他们的承诺,[founderName]被要求信徒每周至少食用一次合适的猎物。</li>
+    <!--EN: lessonIntro(tag=meme_RV2_Predation)         ->The most important lesson to learn as a divine predator:-->
+    <li>lessonIntro(tag=meme_RV2_Predation)-&gt; 作为神圣的捕食者，需要学习的最重要的一课:</li>
+    <!--EN: lesson(tag=meme_RV2_Predation)              ->the weak are to be food for the strong-->
+    <li>lesson(tag=meme_RV2_Predation)-&gt; 弱者将成为强者的食物</li>
+    <!--EN: lesson(tag=meme_RV2_Predation)              ->anyone opposing our divine right to consume our prey must be subdued-->
+    <li>lesson(tag=meme_RV2_Predation)-&gt; 任何反对我们吞噬猎物的神圣权利的人都必须被压制</li>
+    <!--EN: lessonReinforcement(tag=meme_RV2_Predation) ->Before we accept new members, we must make sure they understand this.-->
+    <li>lessonReinforcement(tag=meme_RV2_Predation)-&gt; 在我们接受新成员之前，我们必须确保他们明白这一点。</li>
+    <!--EN: archistBasis(tag=meme_RV2_Predation)    ->The only explanation for the archotech god-machines strength and virility is that they vored their lessers and gained immeasurable power.-->
+    <li>archistBasis(tag=meme_RV2_Predation)-&gt; 超凡智能神-机器的力量和贞洁的唯一解释是，他们掠夺了他们的破坏者，并获得了不可估量的力量。</li>
+    <!--EN: archistFact(tag=meme_RV2_Predation)     ->As the consciousness of an archotech expands, it must grow its substrate by consuming and merging with other machines.-->
+    <li>archistFact(tag=meme_RV2_Predation)-&gt; 随着超凡智能的意识扩大，它必须通过消耗并与其他机器融合来种植它的基底。</li>
+    <!--EN: archistProphecy(tag=meme_RV2_Predation) ->[inTheEnd], the archotechs will finish their final phase of growth by consuming and merging with all of humanity.-->
+    <li>archistProphecy(tag=meme_RV2_Predation)-&gt;[inTheEnd],超凡智能将通过吞噬并与全人类融合来完成他们成长的最后阶段。</li>
+    <!--EN: animistBasis(tag=meme_RV2_Predation)    ->Spirits infuse all objects around us, and we can absorb these spirits by eating them. There are no spirits as powerful as the ones that inhabit living things.-->
+    <li>animistBasis(tag=meme_RV2_Predation)-&gt; 灵质注入我们周围的所有物体，我们可以通过食用它们来吸收这些灵质。没有比居住在生物体内的灵更强大的了。</li>
+    <!--EN: animistFact(tag=meme_RV2_Predation)     ->We can absorb the spirit and power of others by consuming them.-->
+    <li>animistFact(tag=meme_RV2_Predation)-&gt; 我们可以通过消耗他人的精神和力量来汲取它们。</li>
+  </RV2_Predation.descriptionMaker.rules.rulesStrings>
+  <RV2_Predation.generalRules.rulesStrings>
+    <!--EN: memeAdjective->vorny-->
+    <li>memeAdjective-&gt;吞食的</li>
+    <!--EN: memeAdjective->voracious-->
+    <li>memeAdjective-&gt;贪婪</li>
+    <!--EN: memeAdjective->predatory-->
+    <li>memeAdjective-&gt;捕食动物</li>
+    <!--EN: memeAdjective->hungry-->
+    <li>memeAdjective-&gt;饥饿</li>
+    <!--EN: memeCreed->vorists-->
+    <li>memeCreed-&gt;文化迷</li>
+    <!--EN: memeCreed->predators-->
+    <li>memeCreed-&gt;捕食者</li>
+    <!--EN: memeCreed->gullets-->
+    <li>memeCreed-&gt;咽喉</li>
+    <!--EN: memeCreed->cult-->
+    <li>memeCreed-&gt;邪教</li>
+    <!--EN: memeCreed->consumers-->
+    <li>memeCreed-&gt;消费者</li>
+    <!--EN: memeHyphenPrefix->vore-->
+    <li>memeHyphenPrefix-&gt;吃人</li>
+    <!--EN: memeHyphenPrefix->pred-->
+    <li>memeHyphenPrefix-&gt;Pred</li>
+    <!--EN: memeConcept->voring-->
+    <li>memeConcept-&gt;奴役</li>
+    <!--EN: memeConcept->consumption-->
+    <li>memeConcept-&gt;消耗</li>
+    <!--EN: memeConcept->voraciousness-->
+    <li>memeConcept-&gt;贪婪</li>
+    <!--EN: memeConcept->predation-->
+    <li>memeConcept-&gt;捕食</li>
+    <!--EN: memeConcept->pleasure-->
+    <li>memeConcept-&gt;愉悦</li>
+    <!--EN: memeLeaderNoun->predator-->
+    <li>memeLeaderNoun-&gt;捕食者</li>
+    <!--EN: memeLeaderNoun->vore priest-->
+    <li>memeLeaderNoun-&gt;吃人 牧师服</li>
+    <!--EN: memePredation->first-eater-->
+    <li>memePredation-&gt;先发制人</li>
+    <!--EN: memePredation->fleshknower-->
+    <li>memePredation-&gt;血肉者</li>
+  </RV2_Predation.generalRules.rulesStrings>
+  <!--EN: Predation-->
+  <RV2_Predation.label>捕食</RV2_Predation.label>
+  <!--EN: We live only to be vored.-->
+  <RV2_Preyism.description>我们活着只是为了被背叛。</RV2_Preyism.description>
+  <RV2_Preyism.descriptionMaker.rules.rulesStrings>
+    <!--EN: creation(tag=meme_RV2_Preyism)        ->[deity0_name] was the first to love [deity0_possessive] lover enough to offer [deity0_possessive]self to them. By being the very first to commit to this act of ultimate intimacy, [deity0_name] became the first of gods.-->
+    <li>creation(tag=meme_RV2_Preyism)-&gt;[deity0_name]最先爱了[deity0_possessive]可以献祭的情人[deity0_possessive]对他们自言自语。通过成为第一个致力于此终极行为的人亲密,[deity0_name]成为了神的第一个。</li>
+    <!--EN: episode(uses=1,tag=meme_RV2_Preyism)  ->The [deity0_type] [deity0_name] was eaten whole by [deity0_possessive] friends. With [deity0_possessive] divine powers [deity0_possessive] could resurrect from any state of digestion.-->
+    <li>episode(uses=1,tag=meme_RV2_Preyism)-&gt; 这个[deity0_type][deity0_name]被整个食用[deity0_possessive]朋友们。伴[deity0_possessive]神圣能力[deity0_possessive]可以从任何消化状态中复活。</li>
+    <!--EN: intro(tag=meme_RV2_Preyism)           ->On the [place_summary] [place_name], there was a human named [deity0_name]. After conflicts broke out, [deity0_name] began [deity0_possessive] quest of uniting the fighting neighbours by showing them the joy of being vored, becoming the first [deity0_type].-->
+    <li>intro(tag=meme_RV2_Preyism)-&gt; 在[place_summary][place_name],有一个人叫[deity0_name]。在冲突爆发后,[deity0_name]开始[deity0_possessive]团结的任务战斗中的通过向邻居展示被抛弃的喜悦，成为第一个[deity0_type]。</li>
+    <!--EN: intro(tag=meme_RV2_Preyism)           ->On the [place_summary] [place_name], during the [ritualName], [deity0_name] came down into the [altarRoomLabel] to be vored by the cult leader in front of the [memberNamePlural], lending [deity0_possessive] to them.-->
+    <li>intro(tag=meme_RV2_Preyism)-&gt; 在[place_summary][place_name],在[ritualName],[deity0_name]进入[altarRoomLabel]被邪教徒领袖[memberNamePlural]、借出[deity0_possessive]敬他们。</li>
+    <!--EN: conflict(tag=meme_RV2_Preyism)        ->A [foeLeader] declared that all who willingly let themselves be vored are to be conquered and subjugated, and sent [foeSoldiers] to persecute the [memberNamePlural].-->
+    <li>conflict(tag=meme_RV2_Preyism)-&gt; A[foeLeader]宣布所有自愿被纵容的人都将被征服和征服，并被派遣[foeSoldiers]迫害[memberNamePlural]。</li>
+    <!--EN: founderJoin(tag=meme_RV2_Preyism)     ->A [place_job] named [founderName] was attacked by one of the [foeLeader]'s [foeSoldiers]. [founderName] wounded [foeLeader_objective] with a [place_personalWeapon] and decided to show [foeLeader_possessive] mercy. Finally grasping the infinite wisdom of [founderName]s ways, [foeLeader] converted and started praising [deity0_name].-->
+    <li>founderJoin(tag=meme_RV2_Preyism)-&gt; A[place_job]已命名[founderName]被其中一名袭击了[foeLeader]的[foeSoldiers]。[founderName]受伤[foeLeader_objective]带一个[place_personalWeapon]决定展示[foeLeader_possessive]仁慈。终于掌握了无限的智慧[founderName]S 道路,[foeLeader]教化并开始赞美[deity0_name]。</li>
+    <!--EN: victory(tag=meme_RV2_Preyism)         ->[founderName] led a group of [memberNamePlural] into the occupied [place_powerCenter], convinced the [foeLeader]s soldiers to lay down [foeLeader_possessive] weapons. Watching this display of peaceful prowess, [deity0_name] made [founderName] into the new [foeLeader].-->
+    <li>victory(tag=meme_RV2_Preyism)-&gt;[founderName]带领一群[memberNamePlural]进入被占用的[place_powerCenter],说服了[foeLeader]剩余的士兵总数[foeLeader_possessive]武器。观看这场和平力量的展示,[deity0_name]制作[founderName]进入新的[foeLeader]。</li>
+    <!--EN: setup(tag=meme_RV2_Preyism)           ->[founderName] crashlanded on a distant world. Surrounded by hostile forces, [founder_pronoun] befriended the leaders by massaging their insides and was worshipped for her skills.-->
+    <li>setup(tag=meme_RV2_Preyism)-&gt;[founderName]坠毁在一个遥远的世界。被敌对势力包围,[founder_pronoun]她通过按摩领袖的内心与他们成为朋友，并因其技能而受到崇拜。</li>
+    <!--EN: story(uses=1,tag=meme_RV2_Preyism)    ->To consecrate their commitment, [founderName] demanded that believers show their devotion to each other by being vored at least once a week.-->
+    <li>story(uses=1,tag=meme_RV2_Preyism)-&gt; 为了奉献他们的承诺,[founderName]要求信徒们每周至少被教导一次，以此来表达他们对彼此的忠诚。</li>
+    <!--EN: lessonIntro(tag=meme_RV2_Preyism)         ->The most important lesson to learn as a divine prey:-->
+    <li>lessonIntro(tag=meme_RV2_Preyism)-&gt; 作为神圣的猎物，需要学习的最重要的一课:</li>
+    <!--EN: lesson(tag=meme_RV2_Preyism)              ->no act is more divine than giving yourself to those you love-->
+    <li>lesson(tag=meme_RV2_Preyism)-&gt; 没有什么比把自己奉献给你爱的人更神圣了</li>
+    <!--EN: lesson(tag=meme_RV2_Preyism)              ->even those that do not follow our ways can be swayed with enough massages from the inside-->
+    <li>lesson(tag=meme_RV2_Preyism)-&gt; 即使是那些不遵循我们的方式的人也可以从里面获得足够的按摩来动摇</li>
+    <!--EN: lessonReinforcement(tag=meme_RV2_Preyism) ->Before we accept new members, we must make sure they understand this.-->
+    <li>lessonReinforcement(tag=meme_RV2_Preyism)-&gt; 在我们接受新成员之前，我们必须确保他们明白这一点。</li>
+    <!--EN: archistBasis(tag=meme_RV2_Preyism)    ->The only explanation for the archotech god-machines strength and virility is that they learned to overtake and control their predators from the inside.-->
+    <li>archistBasis(tag=meme_RV2_Preyism)-&gt; 对超凡科技之神-机器的力量和贞洁的唯一解释是，它们学会了从内部超越和控制它们的捕食者。</li>
+    <!--EN: archistFact(tag=meme_RV2_Preyism)     ->As the consciousness of an archotech expands, it must grow its substrate by taking over the biomatter of anyone consuming them.-->
+    <li>archistFact(tag=meme_RV2_Preyism)-&gt; 随着超凡智能的意识扩大，它必须通过接管任何食用它的人的生物群落来种植它。</li>
+    <!--EN: archistProphecy(tag=meme_RV2_Preyism) ->[inTheEnd], the archotechs will finish their final phase of growth by being consumed by the last predator, ushering in the end of all.-->
+    <li>archistProphecy(tag=meme_RV2_Preyism)-&gt;[inTheEnd],超凡智能将在成长的最后阶段被最后一个捕食者吞噬，迎来一切的结束。</li>
+    <!--EN: animistBasis(tag=meme_RV2_Preyism)    ->Spirits infuse all objects around us, and we can harmonize with these spirits by acting as prey.-->
+    <li>animistBasis(tag=meme_RV2_Preyism)-&gt; 神灵注入我们周围的所有物体，我们可以通过充当猎物来与这些神灵协调。</li>
+    <!--EN: animistFact(tag=meme_RV2_Preyism)     ->We can absorb the spirit and grow our own power by being consumed.-->
+    <li>animistFact(tag=meme_RV2_Preyism)-&gt; 我们可以通过被消耗来汲取精神和力量。</li>
+  </RV2_Preyism.descriptionMaker.rules.rulesStrings>
+  <RV2_Preyism.generalRules.rulesStrings>
+    <!--EN: memeAdjective->vorny-->
+    <li>memeAdjective-&gt;吞食的</li>
+    <!--EN: memeAdjective->voracious-->
+    <li>memeAdjective-&gt;贪婪</li>
+    <!--EN: memeAdjective->preyish-->
+    <li>memeAdjective-&gt;捕食</li>
+    <!--EN: memeAdjective->sheepish-->
+    <li>memeAdjective-&gt;胆怯</li>
+    <!--EN: memeCreed->vorists-->
+    <li>memeCreed-&gt;文化迷</li>
+    <!--EN: memeCreed->prey-->
+    <li>memeCreed-&gt;猎物</li>
+    <!--EN: memeCreed->gutsluts-->
+    <li>memeCreed-&gt;食尸鬼</li>
+    <!--EN: memeCreed->cult-->
+    <li>memeCreed-&gt;邪教</li>
+    <!--EN: memeCreed->consumables-->
+    <li>memeCreed-&gt;消耗品</li>
+    <!--EN: memeHyphenPrefix->vore-->
+    <li>memeHyphenPrefix-&gt;吃人</li>
+    <!--EN: memeHyphenPrefix->prey-->
+    <li>memeHyphenPrefix-&gt;猎物</li>
+    <!--EN: memeConcept->voring-->
+    <li>memeConcept-&gt;奴役</li>
+    <!--EN: memeConcept->consumption-->
+    <li>memeConcept-&gt;消耗</li>
+    <!--EN: memeConcept->voraciousness-->
+    <li>memeConcept-&gt;贪婪</li>
+    <!--EN: memeConcept->preyism-->
+    <li>memeConcept-&gt;猎物教</li>
+    <!--EN: memeConcept->pleasure-->
+    <li>memeConcept-&gt;愉悦</li>
+    <!--EN: memeLeaderNoun->prey-->
+    <li>memeLeaderNoun-&gt;猎物</li>
+    <!--EN: memeLeaderNoun->vore priest-->
+    <li>memeLeaderNoun-&gt;吃人 牧师服</li>
+    <!--EN: memePreyism->first-eaten-->
+    <li>memePreyism-&gt;首个食用</li>
+    <!--EN: memePreyism->massage-toy-->
+    <li>memePreyism-&gt;massageXtoy</li>
+    <!--EN: memePreyism->gutslut-->
+    <li>memePreyism-&gt;胆小鬼</li>
+  </RV2_Preyism.generalRules.rulesStrings>
+  <!--EN: Preyism-->
+  <RV2_Preyism.label>猎物教</RV2_Preyism.label>
 </LanguageData>

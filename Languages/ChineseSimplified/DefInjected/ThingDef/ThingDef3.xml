@@ -1,51 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Bound prisoners cross.-->
-  <OnaholeCross.description>用锁链将生物绑在十字架上。生物无法动弹，只能被其它人随意玩弄。</OnaholeCross.description>
-  <!--EN: Cross-->
-  <OnaholeCross.label>十字架</OnaholeCross.label>
-  <!--EN: A statue of a goddess.-->
-  <OnaholeGoddessStatue.description>受到触手生物寄生的女神像。不需要电力也能使用，并且可以自动捕获敌人使其变成肉便器。</OnaholeGoddessStatue.description>
-  <!--EN: Goddess Statue-->
-  <OnaholeGoddessStatue.label>触手女神像</OnaholeGoddessStatue.label>
-  <!--EN: Hang prisoner on a metal hanger.-->
-  <OnaholeHanger.description>用锁链将生物吊在吊架上。生物无法动弹，只能被其它人随意玩弄。</OnaholeHanger.description>
-  <!--EN: Hanger-->
-  <OnaholeHanger.label>吊架</OnaholeHanger.label>
-  <!--EN: Bound prisoners with a chain hanging them on a horse mount.-->
-  <OnaholeHorseMount.description>用锁链将生物吊在三角木马上。生物无法动弹，只能被其它人随意玩弄。</OnaholeHorseMount.description>
-  <!--EN: Horse Mount-->
-  <OnaholeHorseMount.label>三角木马</OnaholeHorseMount.label>
-  <!--EN: Bound prisoners chained to a metal frame.-->
-  <OnaholeIronMaiden.description>受到触手生物寄生的铁处女。不需要电力也能使用，并且可以自动捕获敌人使其变成肉便器。</OnaholeIronMaiden.description>
-  <!--EN: Iron Maiden-->
-  <OnaholeIronMaiden.label>触手铁处女</OnaholeIronMaiden.label>
-  <!--EN: Bound prisoners chained to a metal frame.-->
-  <OnaholeMetalFrame.description>可以绑住生物的简易金属框架。生物无法动弹，只能被其它人随意玩弄。</OnaholeMetalFrame.description>
-  <!--EN: Metal Frame-->
-  <OnaholeMetalFrame.label>金属框架</OnaholeMetalFrame.label>
-  <!--EN: Bound prisoners Pillory.-->
-  <OnaholePillory.description>将生物锁在枷锁上。生物无法动弹，只能被其它人随意玩弄。</OnaholePillory.description>
-  <!--EN: Pillory-->
-  <OnaholePillory.label>枷锁</OnaholePillory.label>
-  <!--EN: Bound prisoners chained to a pole.-->
-  <OnaholePole.description>用绳子将生物绑在立杆上。生物无法动弹，只能被其它人随意玩弄。</OnaholePole.description>
-  <!--EN: Pole-->
-  <OnaholePole.label>立杆</OnaholePole.label>
-  <!--EN: A trap that uses tentacles to capture and restrain targets. The bound pawn will
-            be dissolved in two days.-->
-  <OnaholeTentacleTrap.description>利用触手捕获并束缚目标的陷阱。绑定的棋子将
-            两天后就解散。</OnaholeTentacleTrap.description>
-  <!--EN: Tentacle Trap-->
-  <OnaholeTentacleTrap.label>触手陷阱</OnaholeTentacleTrap.label>
-  <!--EN: A mimic creature-->
-  <Onahole_Mimic.description>一种伪装成宝箱的怪物。当受到干扰或伤害时，它会变成真实形态——一个拥有强大触手的生物。玩家拥有的宝箱怪在倒下或被杀死时会变成宝箱形态来保护自己，需要体液来恢复。</Onahole_Mimic.description>
-  <!--EN: mimic-->
-  <Onahole_Mimic.label>宝箱怪</Onahole_Mimic.label>
-  <!--EN: tentacle-->
-  <Onahole_Mimic.tools.0.label>触手</Onahole_Mimic.tools.0.label>
-  <!--EN: mimic-->
-  <Onahole_MimicBuilding.description>处于宝箱形态的宝箱怪。它可以用作束缚装置，具有多种功能，包括喂食、挤奶和性爱机器。宝箱怪通过吸收囚犯的体液来维持自己。</Onahole_MimicBuilding.description>
-  <!--EN: mimic-->
-  <Onahole_MimicBuilding.label>宝箱怪</Onahole_MimicBuilding.label>
+  <!--EN: A model popular on glitterworlds. The variable shape fits any user and a wide range of instruments provides unique sensations. This chair is equipped with platesteel restraints. The chair doesn't have any external controls and is instead guided by a wireless neurointerface and decides by itself what feelings user will experience.-->
+  <FuckMachineAutoChair.description>该装置在闪耀世界很受欢迎。可变形以适应任何用户，种类繁多的器械可以提供独特的体验。这种配备钢制束环的扶手椅不需要外部控制，而是由一个无线神经接口控制，它自己决定了这次用户将得到什么样的体验。</FuckMachineAutoChair.description>
+  <!--EN: autochair fuck machine-->
+  <FuckMachineAutoChair.label>自动高潮椅</FuckMachineAutoChair.label>
+  <!--EN: A simple model that will provide many fascinating rides.-->
+  <FuckMachineSaddle.description>方便的设备, 提供迷人的“骑乘感”。</FuckMachineSaddle.description>
+  <!--EN: saddle fuck machine-->
+  <FuckMachineSaddle.label>鞍式炮机</FuckMachineSaddle.label>
+  <!--EN: Though not quite a "machine", it definitely has some "fuck" with the right attitude. Provides some entertainment when there is no electricity, but the hip work can be tiring. Remember to polish the dildo before using, unless you want a torture device.-->
+  <FuckMachineWooden.description>这并不算“机器”，但绝对能让你生“草”。至少在没电的时候还能提供一些娱乐活动，但是用起来屁股会很累。记得使用前把假阴茎擦干净, 除非你想玩刑具.</FuckMachineWooden.description>
+  <!--EN: fuck machine-->
+  <FuckMachineWooden.label>木马</FuckMachineWooden.label>
 </LanguageData>

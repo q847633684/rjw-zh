@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: cum-->
-  <Cum.label>精液</Cum.label>
-  <!--EN: girlcum-->
-  <GirlCum.label>妹汁</GirlCum.label>
-  <!--EN: honey-->
-  <Honey.label>蜜汁</Honey.label>
-  <!--EN: insect spunk-->
-  <InsectSpunk.label>虫液</InsectSpunk.label>
-  <!--EN: milk-->
-  <Milk.label>乳汁</Milk.label>
-  <!--EN: resin-->
-  <Resin.label>植蜜</Resin.label>
+  <!--EN: bioferrite cum-->
+  <BioferriteCum.label>活铁精液</BioferriteCum.label>
+  <!--EN: bioferrite lubricant-->
+  <BioferriteLube.label>活铁润滑剂</BioferriteLube.label>
+  <!--EN: bioferrite milk-->
+  <BioferriteMilk.label>活铁产物</BioferriteMilk.label>
+  <!--EN: demonic cum-->
+  <DemonSpunk.label>邪恶精液</DemonSpunk.label>
+  <!--EN: ectoplasm fluid-->
+  <EctoFluid.label>胞质液</EctoFluid.label>
 </LanguageData>

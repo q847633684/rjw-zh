@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Vore-->
-  <Vore.label>吃人</Vore.label>
+  <!--EN: genital stats-->
+  <RJW_GenitalStats.label>生殖器统计数据</RJW_GenitalStats.label>
+  <!--EN: ownership-->
+  <RJW_OriginalPartOwner.label>所有权</RJW_OriginalPartOwner.label>
 </LanguageData>

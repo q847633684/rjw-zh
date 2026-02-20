@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Designate your colonists, animals and property to and for various sexual tasks or roles.-->
-  <RJW_MainButton.description>为殖民者、动物及资产分配各类性相关任务或角色。</RJW_MainButton.description>
-  <!--EN: RJW-->
-  <RJW_MainButton.label>RJW</RJW_MainButton.label>
+  <!--EN: Currently ongoing vore-->
+  <VoreTab_MainButton.description>正在进行吃人</VoreTab_MainButton.description>
+  <!--EN: Vore-->
+  <VoreTab_MainButton.label>吃人</VoreTab_MainButton.label>
 </LanguageData>

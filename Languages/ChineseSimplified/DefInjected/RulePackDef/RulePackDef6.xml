@@ -1,35 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings>
-    <!--EN: nounInsert->whore-->
-    <li>nounInsert-&gt;妓女</li>
-    <!--EN: nounInsert->prostitute-->
-    <li>nounInsert-&gt;娼妓</li>
-    <!--EN: nounInsert->temptress-->
-    <li>nounInsert-&gt;诱惑者</li>
-    <!--EN: nounInsert->madam-->
-    <li>nounInsert-&gt;老鸨</li>
-    <!--EN: nounInsert->harlot-->
-    <li>nounInsert-&gt;淫妇</li>
-    <!--EN: nounInsert->seductress-->
-    <li>nounInsert-&gt;勾引者</li>
-  </CB_NamerRoleProsituteSpecialist.rulePack.rulesStrings>
-  <CB_NamerRoleWhoring.rulePack.rulesStrings>
-    <!--EN: r_roleName(p=4)->[nounInsert]-->
-    <li>r_roleName(p=4)-&gt;[nounInsert]</li>
-    <!--EN: r_roleName(p=2)->[memeAdjective] [nounInsert]-->
-    <li>r_roleName(p=2)-&gt;[memeAdjective][nounInsert]</li>
-    <!--EN: r_roleName->[nounInsert] of [chosenTheme]-->
-    <li>r_roleName-&gt;[chosenTheme]的[nounInsert]</li>
-    <!--EN: r_roleName->[nounInsert] of [keyDeity]-->
-    <li>r_roleName-&gt;[keyDeity]的[nounInsert]</li>
-    <!--EN: r_roleName->[nounInsert] of [memeConcept]-->
-    <li>r_roleName-&gt;[memeConcept]的[nounInsert]</li>
-    <!--EN: r_roleName->[nounInsert] of [chosenIdeoName]-->
-    <li>r_roleName-&gt;[chosenIdeoName]的[nounInsert]</li>
-    <!--EN: r_roleName->[chosenAdjective] [nounInsert]-->
-    <li>r_roleName-&gt;[chosenAdjective][nounInsert]</li>
-    <!--EN: r_roleName->[keyDeity]'s [nounInsert]-->
-    <li>r_roleName-&gt;[keyDeity]的[nounInsert]</li>
-  </CB_NamerRoleWhoring.rulePack.rulesStrings>
+  <RV2_Goal_Amalgamate.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_addendum->to make [PREY_definite] a part of [PREDATOR_definite] for a bit-->
+    <li>RV2_addendum-&gt;制作[PREY_definite]所属[PREDATOR_definite]一段时间</li>
+    <!--EN: RV2_goalFinish_verb->amalgamating-->
+    <li>RV2_goalFinish_verb-&gt;合并</li>
+    <!--EN: RV2_goalFinish_noun->amalgamation-->
+    <li>RV2_goalFinish_noun-&gt;合并</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] has temporarily become a part of [PREDATOR_definite].-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]已暂时成为[PREDATOR_definite]</li>
+  </RV2_Goal_Amalgamate.rulePack.rulesStrings>
+  <RV2_Goal_Assimilate.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_addendum->to make [PREY_definite] a part of [PREDATOR_definite]-->
+    <li>RV2_addendum-&gt;制作[PREY_definite]所属[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_verb->assimilating-->
+    <li>RV2_goalFinish_verb-&gt;正在同化</li>
+    <!--EN: RV2_goalFinish_noun->assimilation-->
+    <li>RV2_goalFinish_noun-&gt;同化</li>
+    <!--EN: RV2_goalFinish_image->[PREY_definite] has become a part of [PREDATOR_definite].-->
+    <li>RV2_goalFinish_image-&gt;[PREY_definite]已成为[PREDATOR_definite]</li>
+  </RV2_Goal_Assimilate.rulePack.rulesStrings>
+  <RV2_Goal_ConvertChemfuel.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_addendum->to convert into chemfuel-->
+    <li>RV2_addendum-&gt;转化为化合燃料</li>
+    <!--EN: RV2_adverb->industriously-->
+    <li>RV2_adverb-&gt;努力工作</li>
+    <!--EN: RV2_adjective->industrious-->
+    <li>RV2_adjective-&gt;工作狂</li>
+    <!--EN: RV2_goalProduct->a jerry can of fuel-->
+    <li>RV2_goalProduct-&gt;一罐燃料</li>
+    <!--EN: RV2_goalProduct->chemfuel-->
+    <li>RV2_goalProduct-&gt;化合燃料</li>
+    <!--EN: RV2_goalFinish_verb->converting into [RV2_goalProduct]-->
+    <li>RV2_goalFinish_verb-&gt;教化为[RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_noun->conversion into [RV2_goalProduct]-->
+    <li>RV2_goalFinish_noun-&gt;教化为[RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] turning into [RV2_goalProduct]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]变成[RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_tale_noun->[PREY_definite] turning into [RV2_goalProduct] inside of [PREDATOR_definite]-->
+    <li>RV2_goalFinish_tale_noun-&gt;[PREY_definite]变成[RV2_goalProduct]位于[PREDATOR_definite]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->[PREY_definite] has turned into [RV2_goalProduct].-->
+    <li>RV2_goalFinish_desc_sentence-&gt;[PREY_definite]已变成[RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_desc_sentence->Nothing identifiable remains of [PREY_definite].-->
+    <li>RV2_goalFinish_desc_sentence-&gt;没有可识别的残骸[PREY_definite]</li>
+  </RV2_Goal_ConvertChemfuel.rulePack.rulesStrings>
+  <RV2_Goal_ConvertEggs.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_addendum->to convert into eggs-->
+    <li>RV2_addendum-&gt;将卵转化为卵</li>
+    <!--EN: RV2_adverb->motherly-->
+    <li>RV2_adverb-&gt;慈母</li>
+    <!--EN: RV2_goalFinish_verb->converting into eggs-->
+    <li>RV2_goalFinish_verb-&gt;转化为卵</li>
+    <!--EN: RV2_goalFinish_noun->conversion into eggs-->
+    <li>RV2_goalFinish_noun-&gt;教化为卵</li>
+  </RV2_Goal_ConvertEggs.rulePack.rulesStrings>
+  <RV2_Goal_ConvertUrine.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[RECIPIENT_nameDef] for [RV2_goalFinish_noun].-->
+    <li>extraSentencePack-&gt;[RECIPIENT_nameDef]与[RV2_goalFinish_noun]</li>
+    <!--EN: RV2_goalProduct->piss-->
+    <li>RV2_goalProduct-&gt;尿</li>
+    <!--EN: RV2_goalProduct->pee-->
+    <li>RV2_goalProduct-&gt;撒尿</li>
+    <!--EN: RV2_goalProduct->urine-->
+    <li>RV2_goalProduct-&gt;尿</li>
+    <!--EN: RV2_addendum->to convert into [RV2_goalProduct]-->
+    <li>RV2_addendum-&gt;将教化为[RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_verb->converting into [RV2_goalProduct]-->
+    <li>RV2_goalFinish_verb-&gt;教化为[RV2_goalProduct]</li>
+    <!--EN: RV2_goalFinish_noun->conversion into [RV2_goalProduct]-->
+    <li>RV2_goalFinish_noun-&gt;教化为[RV2_goalProduct]</li>
+  </RV2_Goal_ConvertUrine.rulePack.rulesStrings>
+  <RV2_Type_Cleavage.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[INITIATOR_nameDef] is using [INITIATOR_possessive] [RV2_bodypart] to vore-->
+    <li>extraSentencePack-&gt;[INITIATOR_nameDef]正在使用[INITIATOR_possessive][RV2_bodypart]到吃人</li>
+    <!--EN: RV2_bodypart->cleavage-->
+    <li>RV2_bodypart-&gt;乳沟</li>
+    <!--EN: RV2_bodypart->breasts-->
+    <li>RV2_bodypart-&gt;乳房</li>
+    <!--EN: RV2_adjective->sexual-->
+    <li>RV2_adjective-&gt;性的</li>
+    <!--EN: RV2_adverb->sexually-->
+    <li>RV2_adverb-&gt;性</li>
+    <!--EN: RV2_init_predVerb->smothering-->
+    <li>RV2_init_predVerb-&gt;令人有意限制对大脑的供氧，往往是为了使性觉醒。</li>
+    <!--EN: RV2_exit_predVerb->releasing-->
+    <li>RV2_exit_predVerb-&gt;放生</li>
+    <!--EN: RV2_exit_preyVerb->being released by-->
+    <li>RV2_exit_preyVerb-&gt;被释放</li>
+  </RV2_Type_Cleavage.rulePack.rulesStrings>
+  <RV2_Type_CockBladder.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[INITIATOR_nameDef] is using [INITIATOR_possessive] [RV2_bodypart] to vore-->
+    <li>extraSentencePack-&gt;[INITIATOR_nameDef]正在使用[INITIATOR_possessive][RV2_bodypart]到吃人</li>
+    <!--EN: RV2_bodypart->urethra-->
+    <li>RV2_bodypart-&gt;尿道</li>
+    <!--EN: RV2_exit_predVerb->pissing out-->
+    <li>RV2_exit_predVerb-&gt;撒尿</li>
+    <!--EN: RV2_exit_predVerb->peeing out-->
+    <li>RV2_exit_predVerb-&gt;peeingOut</li>
+    <!--EN: RV2_exit_preyVerb->being pissed out by-->
+    <li>RV2_exit_preyVerb-&gt;被激怒</li>
+    <!--EN: RV2_exit_preyVerb->being peed out by-->
+    <li>RV2_exit_preyVerb-&gt;被撒尿</li>
+  </RV2_Type_CockBladder.rulePack.rulesStrings>
+  <RV2_Type_Membrane.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[INITIATOR_nameDef] is using [INITIATOR_possessive] [RV2_bodypart] to vore-->
+    <li>extraSentencePack-&gt;[INITIATOR_nameDef]正在使用[INITIATOR_possessive][RV2_bodypart]到吃人</li>
+    <!--EN: RV2_bodypart->membrane-->
+    <li>RV2_bodypart-&gt;薄膜</li>
+    <!--EN: RV2_exit_predVerb->releasing-->
+    <li>RV2_exit_predVerb-&gt;放生</li>
+    <!--EN: RV2_exit_preyVerb->being released by-->
+    <li>RV2_exit_preyVerb-&gt;被释放</li>
+  </RV2_Type_Membrane.rulePack.rulesStrings>
+  <RV2_Type_Navel.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[INITIATOR_nameDef] is using [INITIATOR_possessive] [RV2_bodypart] to vore-->
+    <li>extraSentencePack-&gt;[INITIATOR_nameDef]正在使用[INITIATOR_possessive][RV2_bodypart]到吃人</li>
+    <!--EN: RV2_bodypart->navel-->
+    <li>RV2_bodypart-&gt;肚脐</li>
+    <!--EN: RV2_exit_predVerb->releasing-->
+    <li>RV2_exit_predVerb-&gt;放生</li>
+    <!--EN: RV2_exit_preyVerb->being released by-->
+    <li>RV2_exit_preyVerb-&gt;被释放</li>
+  </RV2_Type_Navel.rulePack.rulesStrings>
+  <RV2_Type_Tailmaw.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[INITIATOR_nameDef] is using [INITIATOR_possessive] [RV2_bodypart] to vore-->
+    <li>extraSentencePack-&gt;[INITIATOR_nameDef]正在使用[INITIATOR_possessive][RV2_bodypart]到吃人</li>
+    <!--EN: RV2_bodypart->tailmaw-->
+    <li>RV2_bodypart-&gt;尾毛</li>
+    <!--EN: RV2_bodypart->tail-->
+    <li>RV2_bodypart-&gt;一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。</li>
+    <!--EN: RV2_exit_predVerb->releasing-->
+    <li>RV2_exit_predVerb-&gt;放生</li>
+    <!--EN: RV2_exit_preyVerb->being released by-->
+    <li>RV2_exit_preyVerb-&gt;被释放</li>
+  </RV2_Type_Tailmaw.rulePack.rulesStrings>
+  <RV2_Type_Udder.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[INITIATOR_nameDef] is using [INITIATOR_possessive] [RV2_bodypart] to vore-->
+    <li>extraSentencePack-&gt;[INITIATOR_nameDef]正在使用[INITIATOR_possessive][RV2_bodypart]到吃人</li>
+    <!--EN: RV2_bodypart->udder-->
+    <li>RV2_bodypart-&gt;乳房</li>
+    <!--EN: RV2_exit_predVerb->milking out-->
+    <li>RV2_exit_predVerb-&gt;milkingOut</li>
+    <!--EN: RV2_exit_preyVerb->being milked out by-->
+    <li>RV2_exit_preyVerb-&gt;被产出</li>
+  </RV2_Type_Udder.rulePack.rulesStrings>
+  <RV2_Type_VaginalBladder.rulePack.rulesStrings>
+    <!--EN: extraSentencePack->[INITIATOR_nameDef] is using [INITIATOR_possessive] [RV2_bodypart] to vore-->
+    <li>extraSentencePack-&gt;[INITIATOR_nameDef]正在使用[INITIATOR_possessive][RV2_bodypart]到吃人</li>
+    <!--EN: RV2_bodypart->urethra-->
+    <li>RV2_bodypart-&gt;尿道</li>
+    <!--EN: RV2_exit_predVerb->pissing out-->
+    <li>RV2_exit_predVerb-&gt;撒尿</li>
+    <!--EN: RV2_exit_predVerb->peeing out-->
+    <li>RV2_exit_predVerb-&gt;peeingOut</li>
+    <!--EN: RV2_exit_preyVerb->being pissed out by-->
+    <li>RV2_exit_preyVerb-&gt;被激怒</li>
+    <!--EN: RV2_exit_preyVerb->being peed out by-->
+    <li>RV2_exit_preyVerb-&gt;被撒尿</li>
+  </RV2_Type_VaginalBladder.rulePack.rulesStrings>
 </LanguageData>

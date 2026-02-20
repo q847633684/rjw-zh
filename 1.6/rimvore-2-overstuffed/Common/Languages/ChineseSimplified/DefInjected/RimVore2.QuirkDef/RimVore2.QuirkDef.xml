@@ -143,67 +143,67 @@
   <!--EN: [PAWN_label] dislikes fissuring [PAWN_possessive] prey. That's not supposed to be a hole.-->
   <TypePreference_Predator_Cleavage_Dislikes.description>[PAWN_label]反感破裂[PAWN_possessive]猎物。那不应该是个洞。</TypePreference_Predator_Cleavage_Dislikes.description>
   <!--EN: Fissure-averse pred-->
-  <TypePreference_Predator_Cleavage_Dislikes.label>厌恶裂隙的 pred</TypePreference_Predator_Cleavage_Dislikes.label>
+  <TypePreference_Predator_Cleavage_Dislikes.label>厌恶裂隙的捕食者</TypePreference_Predator_Cleavage_Dislikes.label>
   <!--EN: [PAWN_label] likes fissuring [PAWN_possessive] prey. Cleavage doesn't need to stretch as far beyond the norm, unlike other methods.-->
   <TypePreference_Predator_Cleavage_Likes.description>[PAWN_label]喜欢碎裂[PAWN_possessive]猎物。乳沟不像其他方法，不需要伸展得太远而超出常规。</TypePreference_Predator_Cleavage_Likes.description>
   <!--EN: Fissurist pred-->
-  <TypePreference_Predator_Cleavage_Likes.label>Fissurist pred</TypePreference_Predator_Cleavage_Likes.label>
+  <TypePreference_Predator_Cleavage_Likes.label>裂隙捕食者</TypePreference_Predator_Cleavage_Likes.label>
   <!--EN: [PAWN_label] doesn't really care one way or the other about fissuring prey.-->
   <TypePreference_Predator_Cleavage_Neutral.description>[PAWN_label]不在乎用这种或那种方式切割猎物。</TypePreference_Predator_Cleavage_Neutral.description>
   <!--EN: Fissure-ambivalent pred-->
-  <TypePreference_Predator_Cleavage_Neutral.label>裂隙-矛盾 pred</TypePreference_Predator_Cleavage_Neutral.label>
+  <TypePreference_Predator_Cleavage_Neutral.label>裂隙-矛盾捕食者</TypePreference_Predator_Cleavage_Neutral.label>
   <!--EN: [PAWN_label] loves fissuring [PAWN_possessive] prey, to the exclusion of other types. No other type of vore makes it so easy to make out with prey on the way down.-->
   <TypePreference_Predator_Cleavage_Obsessed.description>[PAWN_label]喜爱碎裂[PAWN_possessive]捕食的动物，拒绝其他类型的动物。没有其他类型的吃人这样在怀孕的时候就很容易和猎物亲昵了。</TypePreference_Predator_Cleavage_Obsessed.description>
   <!--EN: Ravenous fissurist pred-->
-  <TypePreference_Predator_Cleavage_Obsessed.label>贪婪的 fissurist pred</TypePreference_Predator_Cleavage_Obsessed.label>
+  <TypePreference_Predator_Cleavage_Obsessed.label>贪婪的裂隙捕食者</TypePreference_Predator_Cleavage_Obsessed.label>
   <!--EN: [PAWN_label] hates fissuring [PAWN_possessive] prey. It doesn't even deserve to be called vore.-->
   <TypePreference_Predator_Cleavage_Refuses.description>[PAWN_label]厌恶破裂[PAWN_possessive]猎物。它甚至不值得被召唤吃人</TypePreference_Predator_Cleavage_Refuses.description>
   <!--EN: Fissure-abhorring pred-->
-  <TypePreference_Predator_Cleavage_Refuses.label>厌恶裂隙的 pred</TypePreference_Predator_Cleavage_Refuses.label>
+  <TypePreference_Predator_Cleavage_Refuses.label>厌恶裂隙的捕食者</TypePreference_Predator_Cleavage_Refuses.label>
   <!--EN: [PAWN_label] dislikes engulfing prey through [PAWN_possessive] permeable outer membrane. It's a good way to get filth and grime in your plasm.-->
   <TypePreference_Predator_Membrane_Dislikes.description>[PAWN_label]厌恶吞噬猎物[PAWN_possessive]可渗透的外膜。这是一个让你的血浆里有污物和污垢的好方法。</TypePreference_Predator_Membrane_Dislikes.description>
   <!--EN: Dermal-averse pred-->
-  <TypePreference_Predator_Membrane_Dislikes.label>厌恶皮肤的 pred</TypePreference_Predator_Membrane_Dislikes.label>
+  <TypePreference_Predator_Membrane_Dislikes.label>厌恶皮肤的捕食者</TypePreference_Predator_Membrane_Dislikes.label>
   <!--EN: [PAWN_label] likes engulfing prey through [PAWN_possessive] permeable outer membrane, like a slime. Glomp!-->
   <TypePreference_Predator_Membrane_Likes.description>[PAWN_label]比如吞噬猎物[PAWN_possessive]可渗透的外膜，就像史莱姆Glomp!</TypePreference_Predator_Membrane_Likes.description>
   <!--EN: Dermacist pred-->
-  <TypePreference_Predator_Membrane_Likes.label>Dermacist pred</TypePreference_Predator_Membrane_Likes.label>
+  <TypePreference_Predator_Membrane_Likes.label>真皮捕食者</TypePreference_Predator_Membrane_Likes.label>
   <!--EN: [PAWN_label] doesn't really care one way or the other about engulfing prey.-->
   <TypePreference_Predator_Membrane_Neutral.description>[PAWN_label]不在乎吞噬猎物的方式。</TypePreference_Predator_Membrane_Neutral.description>
   <!--EN: Dermal-ambivalent pred-->
-  <TypePreference_Predator_Membrane_Neutral.label>皮肤冲突 pred</TypePreference_Predator_Membrane_Neutral.label>
+  <TypePreference_Predator_Membrane_Neutral.label>皮肤冲突捕食者</TypePreference_Predator_Membrane_Neutral.label>
   <!--EN: [PAWN_label] loves engulfing prey through [PAWN_possessive] permeable outer membrane, like a slime. It's fun to walk around with prey like you've got a skeleton.-->
   <TypePreference_Predator_Membrane_Obsessed.description>[PAWN_label]喜爱吞噬猎物[PAWN_possessive]可渗透的外膜，就像史莱姆像骷髅一样和猎物四处走动很有趣。</TypePreference_Predator_Membrane_Obsessed.description>
   <!--EN: Ravenous dermacist pred-->
-  <TypePreference_Predator_Membrane_Obsessed.label>贪婪的 dermacist pred</TypePreference_Predator_Membrane_Obsessed.label>
+  <TypePreference_Predator_Membrane_Obsessed.label>贪婪的 dermacist捕食者</TypePreference_Predator_Membrane_Obsessed.label>
   <!--EN: [PAWN_label] hates engulfing prey through [PAWN_possessive] permeable outer membrane. Who would ever want to be restricted to a stiff, unyielding skeleton?-->
   <TypePreference_Predator_Membrane_Refuses.description>[PAWN_label]厌恶吞食猎物[PAWN_possessive]可渗透的外膜。谁会想被限制在一具僵硬、不屈服的骷髅里？</TypePreference_Predator_Membrane_Refuses.description>
   <!--EN: Dermal-abhorring pred-->
-  <TypePreference_Predator_Membrane_Refuses.label>厌恶皮肤的 pred</TypePreference_Predator_Membrane_Refuses.label>
+  <TypePreference_Predator_Membrane_Refuses.label>厌恶皮肤的捕食者</TypePreference_Predator_Membrane_Refuses.label>
   <!--EN: [PAWN_label] dislikes ennaveling [PAWN_possessive] prey. That was supposed to be tied a while ago!-->
   <TypePreference_Predator_Navel_Dislikes.description>[PAWN_label]厌恶 ennaveling[PAWN_possessive]猎物。应该在不久前被绑起来的!</TypePreference_Predator_Navel_Dislikes.description>
   <!--EN: Umbilical-averse pred-->
-  <TypePreference_Predator_Navel_Dislikes.label>厌恶脐带的 pred</TypePreference_Predator_Navel_Dislikes.label>
+  <TypePreference_Predator_Navel_Dislikes.label>厌恶脐带的捕食者</TypePreference_Predator_Navel_Dislikes.label>
   <!--EN: [PAWN_label] likes ennaveling [PAWN_possessive] prey. It fed 'em once before; it can do so again!-->
   <TypePreference_Predator_Navel_Likes.description>[PAWN_label]喜欢圣兽[PAWN_possessive]猎物。它以前喂过一次; 它还能喂一次!</TypePreference_Predator_Navel_Likes.description>
   <!--EN: Umbilicist pred-->
-  <TypePreference_Predator_Navel_Likes.label>脐带 pred</TypePreference_Predator_Navel_Likes.label>
+  <TypePreference_Predator_Navel_Likes.label>脐带捕食者</TypePreference_Predator_Navel_Likes.label>
   <!--EN: [PAWN_label] doesn't really care one way or the other about ennaveling prey.-->
   <TypePreference_Predator_Navel_Neutral.description>[PAWN_label]不在乎用这种或那种方式将猎物变化。</TypePreference_Predator_Navel_Neutral.description>
   <!--EN: Umbilical-ambivalent pred-->
-  <TypePreference_Predator_Navel_Neutral.label>脐带-矛盾 pred</TypePreference_Predator_Navel_Neutral.label>
+  <TypePreference_Predator_Navel_Neutral.label>脐带-矛盾捕食者</TypePreference_Predator_Navel_Neutral.label>
   <!--EN: [PAWN_label] loves ennaveling [PAWN_possessive] prey, to the exclusion of other types. No other method is as belly-centric.-->
   <TypePreference_Predator_Navel_Obsessed.description>[PAWN_label]喜爱圣兽[PAWN_possessive]捕食的动物，拒绝其他类型的动物。没有其他方法是以腹部为中心。</TypePreference_Predator_Navel_Obsessed.description>
   <!--EN: Ravenous umbilicist pred-->
-  <TypePreference_Predator_Navel_Obsessed.label>贪婪的脐巢 pred</TypePreference_Predator_Navel_Obsessed.label>
+  <TypePreference_Predator_Navel_Obsessed.label>贪婪的脐巢捕食者</TypePreference_Predator_Navel_Obsessed.label>
   <!--EN: [PAWN_label] hates ennaveling [PAWN_possessive] prey. $PNom isn't a fetus anymore!-->
   <TypePreference_Predator_Navel_Refuses.description>[PAWN_label]憎恶奴役[PAWN_possessive]猎物。$ PNom 不再是胎儿了!</TypePreference_Predator_Navel_Refuses.description>
   <!--EN: Umbilical-abhorring pred-->
-  <TypePreference_Predator_Navel_Refuses.label>厌恶脐带的 pred</TypePreference_Predator_Navel_Refuses.label>
+  <TypePreference_Predator_Navel_Refuses.label>厌恶脐带的捕食者</TypePreference_Predator_Navel_Refuses.label>
   <!--EN: [PAWN_label] dislikes pythening [PAWN_possessive] prey. It's even harder to coordinate than anal vore.-->
   <TypePreference_Predator_Tailmaw_Dislikes.description>[PAWN_label]厌恶者[PAWN_possessive]猎物。协调起来比analvore</TypePreference_Predator_Tailmaw_Dislikes.description>
   <!--EN: Caudal-averse pred-->
-  <TypePreference_Predator_Tailmaw_Dislikes.label>厌恶尾象的 pred</TypePreference_Predator_Tailmaw_Dislikes.label>
+  <TypePreference_Predator_Tailmaw_Dislikes.label>厌恶尾象的捕食者</TypePreference_Predator_Tailmaw_Dislikes.label>
   <!--EN: [PAWN_label] likes pythening [PAWN_possessive] prey. What else do you do with a vore-capable tail?-->
   <TypePreference_Predator_Tailmaw_Likes.description>[PAWN_label]喜欢[PAWN_possessive]猎物。你还能做什么与吃人-有能力一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。什么？</TypePreference_Predator_Tailmaw_Likes.description>
   <!--EN: Caudalist pred-->
@@ -211,7 +211,7 @@
   <!--EN: [PAWN_label] doesn't really care one way or the other about pythening prey.-->
   <TypePreference_Predator_Tailmaw_Neutral.description>[PAWN_label]不管怎样，我不在意你怎么发现它的猎物。</TypePreference_Predator_Tailmaw_Neutral.description>
   <!--EN: Caudal-ambivalent pred-->
-  <TypePreference_Predator_Tailmaw_Neutral.label>盘尾矛盾 pred</TypePreference_Predator_Tailmaw_Neutral.label>
+  <TypePreference_Predator_Tailmaw_Neutral.label>盘尾矛盾捕食者</TypePreference_Predator_Tailmaw_Neutral.label>
   <!--EN: [PAWN_label] loves pythening [PAWN_possessive] prey, to the exclusion of other types. It's like having a helping hand hunting.-->
   <TypePreference_Predator_Tailmaw_Obsessed.description>[PAWN_label]喜爱[PAWN_possessive]捕食的动物，拒绝其他类型的动物。这就像有一个帮手在打猎。</TypePreference_Predator_Tailmaw_Obsessed.description>
   <!--EN: Ravenous caudalist pred-->
@@ -219,11 +219,11 @@
   <!--EN: [PAWN_label] hates pythening [PAWN_possessive] prey. What's the point when [PAWN_pronoun] already has a mouth?-->
   <TypePreference_Predator_Tailmaw_Refuses.description>[PAWN_label]厌恶死亡[PAWN_possessive]猎物。关键是什么[PAWN_pronoun]已经有一张嘴了？</TypePreference_Predator_Tailmaw_Refuses.description>
   <!--EN: Caudal-abhorring pred-->
-  <TypePreference_Predator_Tailmaw_Refuses.label>敌视 pred</TypePreference_Predator_Tailmaw_Refuses.label>
+  <TypePreference_Predator_Tailmaw_Refuses.label>敌视捕食者</TypePreference_Predator_Tailmaw_Refuses.label>
   <!--EN: [PAWN_label] dislikes unnursing prey into [PAWN_possessive] udder. There are better ways to get milk.-->
   <TypePreference_Predator_Udder_Dislikes.description>[PAWN_label]厌恶非哺乳动物的猎物[PAWN_possessive]乳房更发达。有更好的方法来获取牛奶。</TypePreference_Predator_Udder_Dislikes.description>
   <!--EN: Uberal-averse pred-->
-  <TypePreference_Predator_Udder_Dislikes.label>厌恶生育的 pred</TypePreference_Predator_Udder_Dislikes.label>
+  <TypePreference_Predator_Udder_Dislikes.label>厌恶生育的捕食者</TypePreference_Predator_Udder_Dislikes.label>
   <!--EN: [PAWN_label] likes unnursing prey into [PAWN_possessive] udder. Milk's good.-->
   <TypePreference_Predator_Udder_Likes.description>[PAWN_label]喜欢将非哺乳动物变成[PAWN_possessive]乳房更发达。牛奶很好。</TypePreference_Predator_Udder_Likes.description>
   <!--EN: Uberist pred-->
@@ -231,15 +231,15 @@
   <!--EN: [PAWN_label] doesn't really care one way or the other about unnursing prey into [PAWN_possessive] udder.-->
   <TypePreference_Predator_Udder_Neutral.description>[PAWN_label]不在乎如何将猎物解为[PAWN_possessive]乳房更发达。</TypePreference_Predator_Udder_Neutral.description>
   <!--EN: Uberal-ambivalent pred-->
-  <TypePreference_Predator_Udder_Neutral.label>旺盛的-矛盾的 pred</TypePreference_Predator_Udder_Neutral.label>
+  <TypePreference_Predator_Udder_Neutral.label>旺盛的-矛盾的捕食者</TypePreference_Predator_Udder_Neutral.label>
   <!--EN: [PAWN_label] loves unnursing prey into [PAWN_possessive] udder, to the exclusion of other types. Moo!-->
   <TypePreference_Predator_Udder_Obsessed.description>[PAWN_label]喜爱将未受精的猎物转化为[PAWN_possessive]乳房，其他类型除外。Moo!</TypePreference_Predator_Udder_Obsessed.description>
   <!--EN: Ravenous uberist pred-->
-  <TypePreference_Predator_Udder_Obsessed.label>贪婪的繁荣 pred</TypePreference_Predator_Udder_Obsessed.label>
+  <TypePreference_Predator_Udder_Obsessed.label>贪婪的繁荣捕食者</TypePreference_Predator_Udder_Obsessed.label>
   <!--EN: [PAWN_label] hates unnursing prey into [PAWN_possessive] udder. Find another cow.-->
   <TypePreference_Predator_Udder_Refuses.description>[PAWN_label]憎恶未哺乳的猎物转化为[PAWN_possessive]乳房更发达。另找一头牛。</TypePreference_Predator_Udder_Refuses.description>
   <!--EN: Uberal-abhorring pred-->
-  <TypePreference_Predator_Udder_Refuses.label>厌恶生育的 pred</TypePreference_Predator_Udder_Refuses.label>
+  <TypePreference_Predator_Udder_Refuses.label>厌恶生育的捕食者</TypePreference_Predator_Udder_Refuses.label>
   <!--EN: [PAWN_label] dislikes being fissured. There are higher-intensity forms of vore out there.-->
   <TypePreference_Prey_Cleavage_Dislikes.description>[PAWN_label]不喜欢被撕开。有更高强度的吃人在外面。</TypePreference_Prey_Cleavage_Dislikes.description>
   <!--EN: Fissure-averse prey-->
