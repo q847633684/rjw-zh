@@ -39,7 +39,8 @@
 		<li><packageId>rjw.menstruation</packageId></li>
 		<li><packageId>hehehew.sizedapparelforslaves</packageId></li>
 		<li><packageId>teacher.uap</packageId></li>
-		<li><packageId>rim.job.world.onahole.ext</packageId></li>
+		<!--Onahole 扩展	导致 Onahole_Mimic 贴图裁剪异常，CE 裁剪报错
+		<li><packageId>rim.job.world.onahole.ext</packageId></li>-->
 		<li><packageId>rim.job.world.pe</packageId></li>
 		<li><packageId>moth.rjw.flavor</packageId></li>
 		<li><packageId>archersaiter.rjw.traits</packageId></li>
