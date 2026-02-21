@@ -44,9 +44,9 @@
 		<li><packageId>rim.job.world.pe</packageId></li>
 		<li><packageId>moth.rjw.flavor</packageId></li>
 		<li><packageId>archersaiter.rjw.traits</packageId></li>
-		<li><packageId>nabber.rimvore2</packageId></li>
-		<li><packageId>rutrix.rimvore2interactions</packageId></li>
-		<li><packageId>mamahorseteeth.rimvore2extravores</packageId></li>
+		<!--<li><packageId>nabber.rimvore2</packageId></li>-->
+		<!--<li><packageId>rutrix.rimvore2interactions</packageId></li>-->
+		<!--<li><packageId>mamahorseteeth.rimvore2extravores</packageId></li>-->
 		<li><packageId>asmr.rjw.racesupport</packageId></li>
 	</modDependencies>
 	<loadAfter>
