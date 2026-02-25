@@ -100,7 +100,7 @@
   <!--EN: Add ({0})-->
   <RepopulationGeneAddPrice>添加({0})</RepopulationGeneAddPrice>
   <!--EN: {0} has been added to {1}.-->
-  <RepopulationGeneAddedMessage>{0} has been added to {1}.</RepopulationGeneAddedMessage>
+  <RepopulationGeneAddedMessage>{0} 已添加到 {1}。</RepopulationGeneAddedMessage>
   <!--EN: {0} has been added to the unborn.-->
   <RepopulationGeneAddedUnbornMessage>{0}已被添加至胎儿。</RepopulationGeneAddedUnbornMessage>
   <!--EN: Fervor: {0}-->

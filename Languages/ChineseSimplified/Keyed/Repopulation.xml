@@ -74,7 +74,7 @@
   <!--EN: Select to see all learned genes.-->
   <RepopulationActionDesc>查看所有已获取基因。</RepopulationActionDesc>
   <!--EN: These genes have been learned by {0}.\n \nAdding genes with Gene Tampering requires {1} fervor, plus an additional {2} fervor per level of complexity of the gene.\n \nRemoving a gene requires {3} fervor, plus an additional {4} fervor per level of complexity of the gene \n \nTargeting an unborn halfs the cost.-->
-  <RepopulationActionDiaNode>These genes have been learned by {0}.\n \nAdding genes with Gene Tampering requires {1} fervor, plus an additional {2} fervor per level of complexity of the gene.\n \nRemoving a gene requires {3} fervor, plus an additional {4} fervor per level of complexity of the gene \n \nTargeting an unborn halfs the cost.</RepopulationActionDiaNode>
+  <RepopulationActionDiaNode>这些基因已被 {0} 了解。\n \n通过基因篡改添加基因需要 {1} 热度，每增加一个基因复杂度，需要额外的 {2} 热度。\n \n删除一个基因需要 {3} 热度，再加上每层基因复杂度额外的 {4} 热度 \n \n瞄准未出生的人，成本减半。</RepopulationActionDiaNode>
   <!--EN: Fervor is required to learn a gene-->
   <RepopulationActionDisabled>需要热忱圣点来获取基因</RepopulationActionDisabled>
   <!--EN: Learned genes-->
