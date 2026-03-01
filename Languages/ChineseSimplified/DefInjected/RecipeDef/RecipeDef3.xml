@@ -1,111 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Make an armbinder.-->
-  <MakeArmbinder.description>制作拘束手套.</MakeArmbinder.description>
-  <!--EN: Making armbinder.-->
-  <MakeArmbinder.jobString>做出了拘束手套.</MakeArmbinder.jobString>
-  <!--EN: make armbinder-->
-  <MakeArmbinder.label>制作拘束手套</MakeArmbinder.label>
-  <!--EN: Make a blindfold.-->
-  <MakeBlindfold.description>制作眼罩.</MakeBlindfold.description>
-  <!--EN: Making blindfold.-->
-  <MakeBlindfold.jobString>做出了眼罩.</MakeBlindfold.jobString>
-  <!--EN: make blindfold-->
-  <MakeBlindfold.label>制作眼罩</MakeBlindfold.label>
-  <!--EN: Make a chastity belt, prevents access to genitals and anus.-->
-  <MakeChastityBelt.description>制作一个贞操带，阻止触碰生殖器和肛门。</MakeChastityBelt.description>
-  <!--EN: Making chastity belt.-->
-  <MakeChastityBelt.jobString>做出了贞操带。</MakeChastityBelt.jobString>
-  <!--EN: make chastity belt-->
-  <MakeChastityBelt.label>制作贞操带</MakeChastityBelt.label>
-  <!--EN: Make a chastity belt, prevents access to genitals, have a hole for anal sex.-->
-  <MakeChastityBeltO.description>制作一个贞操带，阻止触碰生殖器，有一个用于肛交的开口。</MakeChastityBeltO.description>
-  <!--EN: Making chastity belt.-->
-  <MakeChastityBeltO.jobString>做出了贞操带。</MakeChastityBeltO.jobString>
-  <!--EN: make chastity belt(open)-->
-  <MakeChastityBeltO.label>制作贞操带（开放式）</MakeChastityBeltO.label>
-  <!--EN: Make a chastity cage, prevents erection.-->
-  <MakeChastityCage.description>制作一个能阻止勃起的贞操笼。</MakeChastityCage.description>
-  <!--EN: Making chastity cage.-->
-  <MakeChastityCage.jobString>做出了一个贞操笼</MakeChastityCage.jobString>
-  <!--EN: make chastity cage-->
-  <MakeChastityCage.label>制作贞操笼</MakeChastityCage.label>
-  <!--EN: Make a chastity cage, prevents erection.-->
-  <MakeChastityCageMicro.description>制作贞操笼，防止勃起。</MakeChastityCageMicro.description>
-  <!--EN: Making chastity cage.-->
-  <MakeChastityCageMicro.jobString>制作贞操笼。</MakeChastityCageMicro.jobString>
-  <!--EN: make micro chastity cage-->
-  <MakeChastityCageMicro.label>制作微型贞操笼</MakeChastityCageMicro.label>
-  <!--EN: Make a chastity cage, prevents erection.-->
-  <MakeChastityCageSmall.description>制作贞操笼，防止勃起。</MakeChastityCageSmall.description>
-  <!--EN: Making chastity cage.-->
-  <MakeChastityCageSmall.jobString>制作贞操笼。</MakeChastityCageSmall.jobString>
-  <!--EN: make small chastity cage-->
-  <MakeChastityCageSmall.label>制作小型贞操笼</MakeChastityCageSmall.label>
-  <!--EN: Make a gag with a ball, prevents talking.-->
-  <MakeGagBall.description>制作一个充气式口塞，影响说话。</MakeGagBall.description>
-  <!--EN: Making gag.-->
-  <MakeGagBall.jobString>做出了口球</MakeGagBall.jobString>
-  <!--EN: make ball gag-->
-  <MakeGagBall.label>制作充气式口塞</MakeGagBall.label>
-  <!--EN: Make a gag with a ring, prevents talking.-->
-  <MakeGagRing.description>制作一个环形口球，影响说话。</MakeGagRing.description>
-  <!--EN: Making gag.-->
-  <MakeGagRing.jobString>做出了口球</MakeGagRing.jobString>
-  <!--EN: make ring gag-->
-  <MakeGagRing.label>制作环形口球</MakeGagRing.label>
-  <!--EN: Make a legbinder.-->
-  <MakeLegbinder.description>制作拘束靴.</MakeLegbinder.description>
-  <!--EN: Making legbinder.-->
-  <MakeLegbinder.jobString>做出了拘束靴.</MakeLegbinder.jobString>
-  <!--EN: make legbinder-->
-  <MakeLegbinder.label>制作拘束靴</MakeLegbinder.label>
-  <!--EN: Make an unlocked armbinder.-->
-  <MakeUnlockedArmbinder.description>制作一个未上锁的臂夹。</MakeUnlockedArmbinder.description>
-  <!--EN: Making armbinder.-->
-  <MakeUnlockedArmbinder.jobString>Making 臂缚器.</MakeUnlockedArmbinder.jobString>
-  <!--EN: make unlocked armbinder-->
-  <MakeUnlockedArmbinder.label>制作未上锁臂夹</MakeUnlockedArmbinder.label>
-  <!--EN: Make a chastity belt, prevents access to genitals and anus, that isn't locked.-->
-  <MakeUnlockedChastityBelt.description>制作一个未上锁的贞操带，防止进入生殖器和肛门。</MakeUnlockedChastityBelt.description>
-  <!--EN: Making chastity belt.-->
-  <MakeUnlockedChastityBelt.jobString>制作贞操带。</MakeUnlockedChastityBelt.jobString>
-  <!--EN: make unlocked chastity belt-->
-  <MakeUnlockedChastityBelt.label>制作未上锁贞操带</MakeUnlockedChastityBelt.label>
-  <!--EN: Make a chastity belt, prevents access to genitals, has a hole for anal sex and isn't locked.-->
-  <MakeUnlockedChastityBeltO.description>制作一个未上锁的贞操带，防止进入生殖器，有肛交孔。</MakeUnlockedChastityBeltO.description>
-  <!--EN: Making chastity belt.-->
-  <MakeUnlockedChastityBeltO.jobString>制作贞操带.</MakeUnlockedChastityBeltO.jobString>
-  <!--EN: make unlocked chastity belt(open)-->
-  <MakeUnlockedChastityBeltO.label>制作未上锁贞操带(打开)</MakeUnlockedChastityBeltO.label>
-  <!--EN: Make a chastity cage, prevents erection, and isnt locked.-->
-  <MakeUnlockedChastityCage.description>制作一个未上锁的贞操笼，防止勃起。</MakeUnlockedChastityCage.description>
-  <!--EN: Making chastity belt.-->
-  <MakeUnlockedChastityCage.jobString>制作贞操笼。</MakeUnlockedChastityCage.jobString>
-  <!--EN: make unlocked chastity cage-->
-  <MakeUnlockedChastityCage.label>制作未上锁贞操笼</MakeUnlockedChastityCage.label>
-  <!--EN: Make a gag with a ball, that prevents talking and isn't locked.-->
-  <MakeUnlockedGagBall.description>制作一个未上锁的球形口塞，防止说话。</MakeUnlockedGagBall.description>
-  <!--EN: Making gag.-->
-  <MakeUnlockedGagBall.jobString>制作口塞。</MakeUnlockedGagBall.jobString>
-  <!--EN: make unlocked ball gag-->
-  <MakeUnlockedGagBall.label>制作未上锁球形口塞</MakeUnlockedGagBall.label>
-  <!--EN: Make a gag with a ring, prevents talking and isn't locked.-->
-  <MakeUnlockedGagRing.description>制作一个未上锁的环形口塞，防止说话。</MakeUnlockedGagRing.description>
-  <!--EN: Making gag.-->
-  <MakeUnlockedGagRing.jobString>制作环形口塞。</MakeUnlockedGagRing.jobString>
-  <!--EN: make unlocked ring gag-->
-  <MakeUnlockedGagRing.label>制作未上锁环形口塞</MakeUnlockedGagRing.label>
-  <!--EN: Make an unlocked legbinder.-->
-  <MakeUnlockedLegbinder.description>制作一个未上锁的腿绑。</MakeUnlockedLegbinder.description>
-  <!--EN: Making legbinder.-->
-  <MakeUnlockedLegbinder.jobString>制作腿绑。</MakeUnlockedLegbinder.jobString>
-  <!--EN: make unlocked legbinder-->
-  <MakeUnlockedLegbinder.label>制作未上锁腿绑</MakeUnlockedLegbinder.label>
-  <!--EN: Make an unlocked blindfold.-->
-  <UnlockedMakeBlindfold.description>制作一个未上锁的蒙眼布。</UnlockedMakeBlindfold.description>
-  <!--EN: Making blindfold.-->
-  <UnlockedMakeBlindfold.jobString>制作蒙眼布。</UnlockedMakeBlindfold.jobString>
-  <!--EN: make unlocked blindfold-->
-  <UnlockedMakeBlindfold.label>制作未上锁蒙眼布</UnlockedMakeBlindfold.label>
+  <!--EN: Install a bioscaffold.-->
+  <InstallBioscaffold.description>植入生物支架。</InstallBioscaffold.description>
+  <!--EN: Installing bioscaffold.-->
+  <InstallBioscaffold.jobString>正在植入生物支架。</InstallBioscaffold.jobString>
+  <!--EN: install bioscaffold-->
+  <InstallBioscaffold.label>植入生物支架</InstallBioscaffold.label>
+  <!--EN: Install a limbic stimulator.-->
+  <InstallLimbicStimulator.description>植入边缘刺激器。</InstallLimbicStimulator.description>
+  <!--EN: Installing limbic stimulator.-->
+  <InstallLimbicStimulator.jobString>正在植入边缘刺激器。</InstallLimbicStimulator.jobString>
+  <!--EN: install limbic stimulator-->
+  <InstallLimbicStimulator.label>植入边缘刺激器</InstallLimbicStimulator.label>
+  <!--EN: Install an ovary agitator.-->
+  <InstallOvaryAgitator.description>植入卵巢激扰器。</InstallOvaryAgitator.description>
+  <!--EN: Installing ovary agitator.-->
+  <InstallOvaryAgitator.jobString>正在植入卵巢激扰器。</InstallOvaryAgitator.jobString>
+  <!--EN: install ovary agitator-->
+  <InstallOvaryAgitator.label>植入卵巢激扰器</InstallOvaryAgitator.label>
+  <!--EN: Install a scrambler.-->
+  <InstallScrambler.description>植入扰频器。</InstallScrambler.description>
+  <!--EN: Installing scrambler.-->
+  <InstallScrambler.jobString>正在植入扰频器。</InstallScrambler.jobString>
+  <!--EN: install scrambler-->
+  <InstallScrambler.label>植入扰频器</InstallScrambler.label>
+  <!--EN: Remove the bioscaffold.-->
+  <RemoveBioscaffold.description>移除生物支架。</RemoveBioscaffold.description>
+  <!--EN: Removing bioscaffold.-->
+  <RemoveBioscaffold.jobString>正在移除生物支架。</RemoveBioscaffold.jobString>
+  <!--EN: remove Bioscaffold-->
+  <RemoveBioscaffold.label>移除生物支架</RemoveBioscaffold.label>
+  <!--EN: Remove the limbic stimulator.-->
+  <RemoveLimbicStimulator.description>移除边缘系统刺激器。</RemoveLimbicStimulator.description>
+  <!--EN: Removing limbic stimulator.-->
+  <RemoveLimbicStimulator.jobString>正在移除边缘系统刺激器。</RemoveLimbicStimulator.jobString>
+  <!--EN: remove limbic stimulator-->
+  <RemoveLimbicStimulator.label>移除边缘系统刺激器</RemoveLimbicStimulator.label>
+  <!--EN: Remove the ovary agitator.-->
+  <RemoveOvaryAgitator.description>移除卵巢激扰器。</RemoveOvaryAgitator.description>
+  <!--EN: Removing ovary agitator.-->
+  <RemoveOvaryAgitator.jobString>正在移除卵巢激扰器。</RemoveOvaryAgitator.jobString>
+  <!--EN: remove ovary agitator-->
+  <RemoveOvaryAgitator.label>移除卵巢激扰器</RemoveOvaryAgitator.label>
 </LanguageData>

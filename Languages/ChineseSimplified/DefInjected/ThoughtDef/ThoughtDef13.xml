@@ -1,243 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: I hurt another child. I drew blood. What is wrong with me?-->
-  <Harm_Child_Abhorrent.stages.0.description>我伤害了另一个孩子。我弄得他流血了。我到底怎么了？</Harm_Child_Abhorrent.stages.0.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Abhorrent.stages.0.label>伤害儿童</Harm_Child_Abhorrent.stages.0.label>
-  <!--EN: I attacked an innocent child. I drew blood. I am a monster.-->
-  <Harm_Child_Abhorrent.stages.1.description>我袭击了一个无辜的孩子。我见血了。我就是个怪物。</Harm_Child_Abhorrent.stages.1.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Abhorrent.stages.1.label>伤害儿童</Harm_Child_Abhorrent.stages.1.label>
-  <!--EN: I harmed another kid. They started it.-->
-  <Harm_Child_Accepted.stages.0.description>我伤害了另一个孩子。是他们先挑衅的。</Harm_Child_Accepted.stages.0.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Accepted.stages.0.label>伤害儿童</Harm_Child_Accepted.stages.0.label>
-  <!--EN: I harmed a kid. It had to be done.-->
-  <Harm_Child_Accepted.stages.1.description>我伤害了一个孩子。这是必须的。</Harm_Child_Accepted.stages.1.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Accepted.stages.1.label>伤害儿童</Harm_Child_Accepted.stages.1.label>
-  <!--EN: I have attacked another kid. I'd better keep my head down.-->
-  <Harm_Child_Disapproved.stages.0.description>我又打了一个孩子。我最好低调点。</Harm_Child_Disapproved.stages.0.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Disapproved.stages.0.label>伤害儿童</Harm_Child_Disapproved.stages.0.label>
-  <!--EN: I have attacked a minor. Was that justifiable?-->
-  <Harm_Child_Disapproved.stages.1.description>我袭击了一个未成年人。这样做合理吗？</Harm_Child_Disapproved.stages.1.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Disapproved.stages.1.label>伤害儿童</Harm_Child_Disapproved.stages.1.label>
-  <!--EN: I really fucked that kid up.-->
-  <Harm_Child_Honorable.stages.0.description>我真是彻底毁了那孩子。</Harm_Child_Honorable.stages.0.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Honorable.stages.0.label>伤害儿童</Harm_Child_Honorable.stages.0.label>
-  <!--EN: I really fucked that kid up. It's fun when they are that weak.-->
-  <Harm_Child_Honorable.stages.1.description>那孩子被我搞得够呛。他们这么弱的时候，玩起来真过瘾。</Harm_Child_Honorable.stages.1.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Honorable.stages.1.label>伤害儿童</Harm_Child_Honorable.stages.1.label>
-  <!--EN: I saw someone hurting a kid. Someone needs to do something!-->
-  <Harm_Child_Know_Abhorrent.stages.0.description>我看到有人伤害了一个孩子。必须有人采取行动！</Harm_Child_Know_Abhorrent.stages.0.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Know_Abhorrent.stages.0.label>伤害儿童</Harm_Child_Know_Abhorrent.stages.0.label>
-  <!--EN: I have witnessed someone hurting a child. There must be justice or this place must burn.-->
-  <Harm_Child_Know_Abhorrent.stages.1.description>我亲眼目睹了有人伤害孩子。正义必须伸张，否则这地方就该烧个精光。</Harm_Child_Know_Abhorrent.stages.1.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Know_Abhorrent.stages.1.label>伤害儿童</Harm_Child_Know_Abhorrent.stages.1.label>
-  <!--EN: Someone hurt some kid. I had better be careful.-->
-  <Harm_Child_Know_Accepted.stages.0.description>有人伤害了孩子，我得当心点。</Harm_Child_Know_Accepted.stages.0.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Know_Accepted.stages.0.label>伤害儿童</Harm_Child_Know_Accepted.stages.0.label>
-  <!--EN: Someone hurt a kid... I guess they might have had it coming...-->
-  <Harm_Child_Know_Accepted.stages.1.description>有人伤害了一个孩子...我想他们可能活该吧...</Harm_Child_Know_Accepted.stages.1.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Know_Accepted.stages.1.label>伤害儿童</Harm_Child_Know_Accepted.stages.1.label>
-  <!--EN: Someone just hurt a kid. I should say something.-->
-  <Harm_Child_Know_Disapproved.stages.0.description>有人刚伤害了一个孩子。我该说点什么。</Harm_Child_Know_Disapproved.stages.0.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Know_Disapproved.stages.0.label>伤害儿童</Harm_Child_Know_Disapproved.stages.0.label>
-  <!--EN: Someone just harmed a kid. Perhaps I should say something?-->
-  <Harm_Child_Know_Disapproved.stages.1.description>有人刚刚伤害了一个孩子。或许我该说点什么？</Harm_Child_Know_Disapproved.stages.1.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Know_Disapproved.stages.1.label>伤害儿童</Harm_Child_Know_Disapproved.stages.1.label>
-  <!--EN: I just saw someone hurt a kid. They do that for fun around here.-->
-  <Harm_Child_Know_Honorable.stages.0.description>我刚看见有人伤害一个孩子。在这儿，他们就是为了好玩才这么做的。</Harm_Child_Know_Honorable.stages.0.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Know_Honorable.stages.0.label>伤害儿童</Harm_Child_Know_Honorable.stages.0.label>
-  <!--EN: I just saw someone harm a kid. I hope I get my chance to do the same, soon.-->
-  <Harm_Child_Know_Honorable.stages.1.description>我刚看到有人伤害了孩子。希望我能很快有机会以牙还牙。</Harm_Child_Know_Honorable.stages.1.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Know_Honorable.stages.1.label>伤害儿童</Harm_Child_Know_Honorable.stages.1.label>
-  <!--EN: Someone has harmed a child. That's against the rules, right?-->
-  <Harm_Child_Know_Prohibited.stages.0.description>有人伤害了一个孩子。这违反了规则，对吧？</Harm_Child_Know_Prohibited.stages.0.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Know_Prohibited.stages.0.label>伤害儿童</Harm_Child_Know_Prohibited.stages.0.label>
-  <!--EN: Someone has harmed a child. How can that possibly have been justified?-->
-  <Harm_Child_Know_Prohibited.stages.1.description>有人伤害了孩子。这怎么可能有正当理由？</Harm_Child_Know_Prohibited.stages.1.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Know_Prohibited.stages.1.label>伤害儿童</Harm_Child_Know_Prohibited.stages.1.label>
-  <!--EN: I have harmed another child. I am in so much trouble.-->
-  <Harm_Child_Prohibited.stages.0.description>我伤害了另一个孩子。我陷入了巨大的麻烦。</Harm_Child_Prohibited.stages.0.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Prohibited.stages.0.label>伤害儿童</Harm_Child_Prohibited.stages.0.label>
-  <!--EN: I have harmed a child and the blood cannot be washed from my hands.-->
-  <Harm_Child_Prohibited.stages.1.description>我伤害了孩子，双手沾满的鲜血无法洗净。</Harm_Child_Prohibited.stages.1.description>
-  <!--EN: harmed a child-->
-  <Harm_Child_Prohibited.stages.1.label>伤害儿童</Harm_Child_Prohibited.stages.1.label>
-  <!--EN: I have been forced to marry a grown-up. What the hell is wrong with this place?-->
-  <Marriage_Child_Abhorrent.stages.0.description>我被迫嫁给一个成年人。这地方到底出了什么问题？</Marriage_Child_Abhorrent.stages.0.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Abhorrent.stages.0.label>娶了个孩子</Marriage_Child_Abhorrent.stages.0.label>
-  <!--EN: I have been forced to marry a child. I will never live this down. I am part and party to monstrousness.-->
-  <Marriage_Child_Abhorrent.stages.1.description>我被迫娶了一个孩子。我永远不会这样生活下去。我是怪物的一部分。</Marriage_Child_Abhorrent.stages.1.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Abhorrent.stages.1.label>娶了个孩子</Marriage_Child_Abhorrent.stages.1.label>
-  <!--EN: My spouse is a little older, but we will grow together.-->
-  <Marriage_Child_Accepted.stages.0.description>我的爱人年纪稍大一些，但我们会一起成长。</Marriage_Child_Accepted.stages.0.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Accepted.stages.0.label>娶了个孩子</Marriage_Child_Accepted.stages.0.label>
-  <!--EN: My spouse is a little young, but we will grow together.-->
-  <Marriage_Child_Accepted.stages.1.description>我的爱人还小，但我们会一起成长。</Marriage_Child_Accepted.stages.1.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Accepted.stages.1.label>娶了个孩子</Marriage_Child_Accepted.stages.1.label>
-  <!--EN: I didn't expect to get married so soon, but I'll make the best of it.-->
-  <Marriage_Child_Disapproved.stages.0.description>没想到这么早结婚，但我会好好经营我们的婚姻。</Marriage_Child_Disapproved.stages.0.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Disapproved.stages.0.label>娶了个孩子</Marriage_Child_Disapproved.stages.0.label>
-  <!--EN: I have become a cradle robber. There will be cruel gossip.-->
-  <Marriage_Child_Disapproved.stages.1.description>我竟成了偷儿孽种。世道如此，流言蜚语自是难免。</Marriage_Child_Disapproved.stages.1.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Disapproved.stages.1.label>娶了个孩子</Marriage_Child_Disapproved.stages.1.label>
-  <!--EN: I married a grown-up. That makes me a grown-up now.-->
-  <Marriage_Child_Honorable.stages.0.description>我嫁给了一个成年人。这让我现在也成了成年人。</Marriage_Child_Honorable.stages.0.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Honorable.stages.0.label>娶了个孩子</Marriage_Child_Honorable.stages.0.label>
-  <!--EN: I have taken a child to my marriage bed. My cup runneth over.-->
-  <Marriage_Child_Honorable.stages.1.description>我已将孩童迎入婚床。我的福杯满溢。</Marriage_Child_Honorable.stages.1.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Honorable.stages.1.label>娶了个孩子</Marriage_Child_Honorable.stages.1.label>
-  <!--EN: I just saw someone marry a kid. The Rim is like some fucked up version of hell.-->
-  <Marriage_Child_Know_Abhorrent.stages.0.description>我刚看到有人娶了个孩子。这地方就像某种扭曲的地狱版本。</Marriage_Child_Know_Abhorrent.stages.0.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Know_Abhorrent.stages.0.label>娶了个孩子</Marriage_Child_Know_Abhorrent.stages.0.label>
-  <!--EN: A child was just forced to marry. If this is what we must do to survive, do we deserve to?-->
-  <Marriage_Child_Know_Abhorrent.stages.1.description>一个孩子刚刚被迫结婚。如果这是为了生存而必须做的事，我们是否还配得上生存？</Marriage_Child_Know_Abhorrent.stages.1.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Know_Abhorrent.stages.1.label>娶了个孩子</Marriage_Child_Know_Abhorrent.stages.1.label>
-  <!--EN: That kid seemed young for marriage, but they make a cute couple.-->
-  <Marriage_Child_Know_Accepted.stages.0.description>那孩子看起来年纪太小就结婚了，但他们确实是天生一对。</Marriage_Child_Know_Accepted.stages.0.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Know_Accepted.stages.0.label>娶了个孩子</Marriage_Child_Know_Accepted.stages.0.label>
-  <!--EN: That kid seemed young for marriage, but love is love.-->
-  <Marriage_Child_Know_Accepted.stages.1.description>那孩子看起来年纪太小就结婚了，但爱情就是爱情。</Marriage_Child_Know_Accepted.stages.1.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Know_Accepted.stages.1.label>娶了个孩子</Marriage_Child_Know_Accepted.stages.1.label>
-  <!--EN: That kid was too young to get married. I hope that doesn't become a trend.-->
-  <Marriage_Child_Know_Disapproved.stages.0.description>那孩子年纪太小，不适合结婚。希望这种情况不会成为一种趋势。</Marriage_Child_Know_Disapproved.stages.0.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Know_Disapproved.stages.0.label>娶了个孩子</Marriage_Child_Know_Disapproved.stages.0.label>
-  <!--EN: That kid was too young for marriage. I hope they will be alright.-->
-  <Marriage_Child_Know_Disapproved.stages.1.description>那孩子年纪太小，不适合结婚。希望他们能平安无事。</Marriage_Child_Know_Disapproved.stages.1.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Know_Disapproved.stages.1.label>娶了个孩子</Marriage_Child_Know_Disapproved.stages.1.label>
-  <!--EN: That kid married a grown-up. The ceremony, the future...everything seems so exciting!-->
-  <Marriage_Child_Know_Honorable.stages.0.description>那孩子娶了个成年人。仪式、未来...一切都显得那么令人兴奋！</Marriage_Child_Know_Honorable.stages.0.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Know_Honorable.stages.0.label>娶了个孩子</Marriage_Child_Know_Honorable.stages.0.label>
-  <!--EN: A child is wed to one who will offer them a guiding hand. Our present is joyous, and our future is secured.-->
-  <Marriage_Child_Know_Honorable.stages.1.description>孩童将与指引者结为连理。当下我们欢欣鼓舞，未来亦安稳无忧。</Marriage_Child_Know_Honorable.stages.1.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Know_Honorable.stages.1.label>娶了个孩子</Marriage_Child_Know_Honorable.stages.1.label>
-  <!--EN: What kind of marriage was that? That kid was so young. Isn't that illegal?-->
-  <Marriage_Child_Know_Prohibited.stages.0.description>那种婚姻算什么？那孩子这么小。这难道不违法吗？</Marriage_Child_Know_Prohibited.stages.0.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Know_Prohibited.stages.0.label>娶了个孩子</Marriage_Child_Know_Prohibited.stages.0.label>
-  <!--EN: They are marrying children now. This place is sick.-->
-  <Marriage_Child_Know_Prohibited.stages.1.description>他们现在在娶孩子。这个地方真病态。</Marriage_Child_Know_Prohibited.stages.1.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Know_Prohibited.stages.1.label>娶了个孩子</Marriage_Child_Know_Prohibited.stages.1.label>
-  <!--EN: My spouse is an adult. This is not right. Why is this happening?-->
-  <Marriage_Child_Prohibited.stages.0.description>我的配偶是成年人。这不对。为什么会这样？</Marriage_Child_Prohibited.stages.0.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Prohibited.stages.0.label>娶了个孩子</Marriage_Child_Prohibited.stages.0.label>
-  <!--EN: My spouse is so young. I hope I can salvage something from this dreadful, early matrimony.-->
-  <Marriage_Child_Prohibited.stages.1.description>我的配偶如此年轻。我希望能在这次可怕的早婚中挽回些什么。</Marriage_Child_Prohibited.stages.1.description>
-  <!--EN: married a child-->
-  <Marriage_Child_Prohibited.stages.1.label>娶了个孩子</Marriage_Child_Prohibited.stages.1.label>
-  <!--EN: I thought it would be fun. I think I really hurt that kid. I am fucked up.-->
-  <Rape_Child_Abhorrent.stages.0.description>我以为会有趣。我觉得我真伤了那孩子。我搞砸了自己的人生。</Rape_Child_Abhorrent.stages.0.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Abhorrent.stages.0.label>强奸儿童</Rape_Child_Abhorrent.stages.0.label>
-  <!--EN: I am a monster. What prurient madness made me do that to an innocent child?-->
-  <Rape_Child_Abhorrent.stages.1.description>我真是个人畜不成的怪物！究竟是什么卑劣的狂念，竟让我对一个无辜的孩子做出那种事？</Rape_Child_Abhorrent.stages.1.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Abhorrent.stages.1.label>强奸儿童</Rape_Child_Abhorrent.stages.1.label>
-  <!--EN: I just fucked another kid. They didn't exactly say "yes", but that makes it more fun.-->
-  <Rape_Child_Accepted.stages.0.description>我刚刚和另一个孩子发生了关系。他们并没有明确说“是”，但这反而更有趣。</Rape_Child_Accepted.stages.0.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Accepted.stages.0.label>强奸儿童</Rape_Child_Accepted.stages.0.label>
-  <!--EN: That one put up quite the fight for a such young thing. Fun.-->
-  <Rape_Child_Accepted.stages.1.description>这么小的家伙竟能打得这么凶。真有意思。</Rape_Child_Accepted.stages.1.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Accepted.stages.1.label>强奸儿童</Rape_Child_Accepted.stages.1.label>
-  <!--EN: I raped some kid. I hope they don't go whining to the grown-ups.-->
-  <Rape_Child_Disapproved.stages.0.description>我强奸了一个孩子。希望他们不会去向大人哭诉。</Rape_Child_Disapproved.stages.0.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Disapproved.stages.0.label>强奸儿童</Rape_Child_Disapproved.stages.0.label>
-  <!--EN: In my lust, I have defiled a youth. My reputation will likely suffer.-->
-  <Rape_Child_Disapproved.stages.1.description>在欲望驱使下，我玷污了一个孩子。我的名声恐怕会因此受损。</Rape_Child_Disapproved.stages.1.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Disapproved.stages.1.label>强奸儿童</Rape_Child_Disapproved.stages.1.label>
-  <!--EN: I raped a kid. I am glad I've grown strong enough to do that now.-->
-  <Rape_Child_Honorable.stages.0.description>我强奸了一个孩子。我很高兴自己已经成长到足以做这件事的程度了。</Rape_Child_Honorable.stages.0.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Honorable.stages.0.label>强奸儿童</Rape_Child_Honorable.stages.0.label>
-  <!--EN: I just had a sweet little thing. I love it when they squirm.-->
-  <Rape_Child_Honorable.stages.1.description>我刚刚和一个可爱的孩子发生了关系。我很喜欢他们扭动的样子。</Rape_Child_Honorable.stages.1.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Honorable.stages.1.label>强奸儿童</Rape_Child_Honorable.stages.1.label>
-  <!--EN: Did that person just molest some kid? Why didn't anyone stop them?-->
-  <Rape_Child_Know_Abhorrent.stages.0.description>那个人刚刚强奸了一个孩子？为什么没人阻止他？</Rape_Child_Know_Abhorrent.stages.0.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Know_Abhorrent.stages.0.label>强奸儿童</Rape_Child_Know_Abhorrent.stages.0.label>
-  <!--EN: Did that person actually just molest a child? There must be blood for this offense.-->
-  <Rape_Child_Know_Abhorrent.stages.1.description>那个人真的强奸了一个孩子？这种罪行必须流血来惩罚。</Rape_Child_Know_Abhorrent.stages.1.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Know_Abhorrent.stages.1.label>强奸儿童</Rape_Child_Know_Abhorrent.stages.1.label>
-  <!--EN: Someone just raped a kid. I have to be careful.-->
-  <Rape_Child_Know_Accepted.stages.0.description>有人强奸了小孩。我必须小心点。</Rape_Child_Know_Accepted.stages.0.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Know_Accepted.stages.0.label>强奸儿童</Rape_Child_Know_Accepted.stages.0.label>
-  <!--EN: Someone just raped a kid. That dumb-ass child should have been more careful.-->
-  <Rape_Child_Know_Accepted.stages.1.description>有人强奸了小孩。那个蠢蛋孩子应该更小心点。</Rape_Child_Know_Accepted.stages.1.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Know_Accepted.stages.1.label>强奸儿童</Rape_Child_Know_Accepted.stages.1.label>
-  <!--EN: That person just raped a kid. What a jerk.-->
-  <Rape_Child_Know_Disapproved.stages.0.description>那个人刚刚强奸了一个孩子。真是个混蛋。</Rape_Child_Know_Disapproved.stages.0.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Know_Disapproved.stages.0.label>强奸儿童</Rape_Child_Know_Disapproved.stages.0.label>
-  <!--EN: That person just raped a kid. What an asshole.-->
-  <Rape_Child_Know_Disapproved.stages.1.description>那个人刚刚强奸了一个孩子。真是个混蛋。</Rape_Child_Know_Disapproved.stages.1.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Know_Disapproved.stages.1.label>强奸儿童</Rape_Child_Know_Disapproved.stages.1.label>
-  <!--EN: Some fucker raped a kid. Better them than me.-->
-  <Rape_Child_Know_Honorable.stages.0.description>某个混蛋强奸了孩子。与其是我，不如是他们倒好。</Rape_Child_Know_Honorable.stages.0.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Know_Honorable.stages.0.label>强奸儿童</Rape_Child_Know_Honorable.stages.0.label>
-  <!--EN: I saw someone rape a child. At least one of them had some fun.-->
-  <Rape_Child_Know_Honorable.stages.1.description>我目睹了有人强奸儿童。至少其中一人乐在其中。</Rape_Child_Know_Honorable.stages.1.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Know_Honorable.stages.1.label>强奸儿童</Rape_Child_Know_Honorable.stages.1.label>
-  <!--EN: Someone raped a kid. That is so wrong.-->
-  <Rape_Child_Know_Prohibited.stages.0.description>有人强奸了小孩。这太不对了。</Rape_Child_Know_Prohibited.stages.0.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Know_Prohibited.stages.0.label>强奸儿童</Rape_Child_Know_Prohibited.stages.0.label>
-  <!--EN: Someone raped a child. This will not stand, and this cannot be permitted to happen again.-->
-  <Rape_Child_Know_Prohibited.stages.1.description>有人强奸了小孩。这种事绝不能再次发生。</Rape_Child_Know_Prohibited.stages.1.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Know_Prohibited.stages.1.label>强奸儿童</Rape_Child_Know_Prohibited.stages.1.label>
-  <!--EN: I was just messing around. It was supposed to be fun. I am in so much trouble.-->
-  <Rape_Child_Prohibited.stages.0.description>我只是在开玩笑。本该是件有趣的事。现在可真是麻烦大了。</Rape_Child_Prohibited.stages.0.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Prohibited.stages.0.label>强奸儿童</Rape_Child_Prohibited.stages.0.label>
-  <!--EN: I have ravaged an innocent. I don't know what came over me. Can anything undo this black stain?-->
-  <Rape_Child_Prohibited.stages.1.description>我蹂躏了一个无辜者。不知当时为何失控。这污点可有办法洗净？</Rape_Child_Prohibited.stages.1.description>
-  <!--EN: raped a child-->
-  <Rape_Child_Prohibited.stages.1.label>强奸儿童</Rape_Child_Prohibited.stages.1.label>
+  <!--EN: I was allowed to offer myself to visitors-->
+  <CB_Prostitution_Essential_After.stages.0.description>我被允许向访客献身</CB_Prostitution_Essential_After.stages.0.description>
+  <!--EN: Dutiful prostitute-->
+  <CB_Prostitution_Essential_After.stages.0.label>尽职的娼妓</CB_Prostitution_Essential_After.stages.0.label>
+  <!--EN: is a prostitute-->
+  <CB_Prostitution_Essential_Know.stages.0.label>是一名娼妓</CB_Prostitution_Essential_Know.stages.0.label>
+  <!--EN: It's been so long since I tried offering myself to visitors!-->
+  <CB_Prostitution_Essential_NotTrying.stages.0.description>我已经很久没有尝试向访客献身了！</CB_Prostitution_Essential_NotTrying.stages.0.description>
+  <!--EN: Failing my duty-->
+  <CB_Prostitution_Essential_NotTrying.stages.0.label>未能履行职责</CB_Prostitution_Essential_NotTrying.stages.0.label>
+  <!--EN: I was forced to sell myself to visitors-->
+  <CB_Prostitution_Horrendous_After.stages.0.description>我被迫向访客出卖自己</CB_Prostitution_Horrendous_After.stages.0.description>
+  <!--EN: Unwilling whore-->
+  <CB_Prostitution_Horrendous_After.stages.0.label>不情愿的妓女</CB_Prostitution_Horrendous_After.stages.0.label>
+  <!--EN: is a prostitute-->
+  <CB_Prostitution_Horrendous_Know.stages.0.label>是一名娼妓</CB_Prostitution_Horrendous_Know.stages.0.label>
+  <!--EN: I whored myself out-->
+  <CB_Prostitution_Reluctant_After.stages.0.description>我出卖了自己的肉体</CB_Prostitution_Reluctant_After.stages.0.description>
+  <!--EN: Reluctant prostitute-->
+  <CB_Prostitution_Reluctant_After.stages.0.label>勉强的娼妓</CB_Prostitution_Reluctant_After.stages.0.label>
+  <!--EN: I performed my sacred duty towards visitors-->
+  <CB_Prostitution_Sacred_After.stages.0.description>我履行了向访客的神圣职责</CB_Prostitution_Sacred_After.stages.0.description>
+  <!--EN: Sacred prostitute-->
+  <CB_Prostitution_Sacred_After.stages.0.label>神圣的娼妓</CB_Prostitution_Sacred_After.stages.0.label>
+  <!--EN: is a sacred prostitute-->
+  <CB_Prostitution_Sacred_Know.stages.0.label>是一名神圣的娼妓</CB_Prostitution_Sacred_Know.stages.0.label>
+  <!--EN: Blasphemous! It's been so long since I tried offering myself to visitors!-->
+  <CB_Prostitution_Sacred_NotTrying.stages.0.description>亵渎！我已经很久没有尝试向访客献身了！</CB_Prostitution_Sacred_NotTrying.stages.0.description>
+  <!--EN: Failing my sacred duty-->
+  <CB_Prostitution_Sacred_NotTrying.stages.0.label>未能履行神圣职责</CB_Prostitution_Sacred_NotTrying.stages.0.label>
+  <!--EN: I was forced to sell myself to visitors-->
+  <CB_Prostitution_Unwilling_After.stages.0.description>我被迫向访客出卖自己</CB_Prostitution_Unwilling_After.stages.0.description>
+  <!--EN: Unwilling whore-->
+  <CB_Prostitution_Unwilling_After.stages.0.label>不情愿的妓女</CB_Prostitution_Unwilling_After.stages.0.label>
+  <!--EN: Our duty is sharing ourselves with visitors.-->
+  <CB_Whoring_Essential_Required.stages.0.description>我们的职责是与访客分享我们自己。</CB_Whoring_Essential_Required.stages.0.description>
+  <!--EN: Duties upheld-->
+  <CB_Whoring_Essential_Required.stages.0.label>职责已履行</CB_Whoring_Essential_Required.stages.0.label>
+  <!--EN: Our mandatory whores haven't performed our duty towards visitors for far too long.-->
+  <CB_Whoring_Essential_Required.stages.1.description>我们的强制娼妓已经太久没有履行对访客的职责了。</CB_Whoring_Essential_Required.stages.1.description>
+  <!--EN: Mandatory whores failing duties-->
+  <CB_Whoring_Essential_Required.stages.1.label>强制娼妓未能履行职责</CB_Whoring_Essential_Required.stages.1.label>
+  <!--EN: Our sacred duty is sharing ourselves with visitors.-->
+  <CB_Whoring_Sacred_Required.stages.0.description>我们的神圣职责是与访客分享我们自己。</CB_Whoring_Sacred_Required.stages.0.description>
+  <!--EN: Sacred duties upheld-->
+  <CB_Whoring_Sacred_Required.stages.0.label>神圣职责已履行</CB_Whoring_Sacred_Required.stages.0.label>
+  <!--EN: Our mandatory whores haven't performed their sacred duty towards visitors for far too long.-->
+  <CB_Whoring_Sacred_Required.stages.1.description>我们的强制娼妓已经太久没有履行对访客的神圣职责了。</CB_Whoring_Sacred_Required.stages.1.description>
+  <!--EN: Mandatory whores failing sacred duties-->
+  <CB_Whoring_Sacred_Required.stages.1.label>强制娼妓未能履行神圣职责</CB_Whoring_Sacred_Required.stages.1.label>
 </LanguageData>

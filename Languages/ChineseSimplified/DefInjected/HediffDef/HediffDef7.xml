@@ -1,70 +1,115 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Antisperm antibody.
-Increases death rate of sperm.-->
-  <Hediff_ASA.description>抗精子抗体。
-增加精子死亡率。</Hediff_ASA.description>
-  <!--EN: Antisperm antibody-->
-  <Hediff_ASA.label>抗精子抗体</Hediff_ASA.label>
-  <!--EN: antisperm antibody-->
-  <Hediff_ASA.labelNoun>抗精子抗体</Hediff_ASA.labelNoun>
-  <!--EN: {0} has an antisperm antibody-->
-  <Hediff_ASA.labelNounPretty>{0} has an antisperm antibody</Hediff_ASA.labelNounPretty>
-  <!--EN: A condition caused by being around someone in estrus. Sex drive and satisfaction is increased by the scent of heat.-->
-  <Hediff_AffectedByPheromones.description>因身处发情期个体周围而导致的状态。发情期的气味增加了性欲和性满足感。</Hediff_AffectedByPheromones.description>
-  <!--EN: Affected by pheromones-->
-  <Hediff_AffectedByPheromones.label>受信息素影响</Hediff_AffectedByPheromones.label>
-  <!--EN: weak-->
-  <Hediff_AffectedByPheromones.stages.0.label>微弱</Hediff_AffectedByPheromones.stages.0.label>
+  <!--EN: An immunodeficiency virus that spreads through sexual contact.-->
+  <AcuteHIV.description>一种通过性接触传播的免疫缺陷病毒。</AcuteHIV.description>
+  <!--EN: HIV - Acute-->
+  <AcuteHIV.label>HIV - 急性期</AcuteHIV.label>
+  <!--EN: detectable-->
+  <AcuteHIV.stages.0.label>可检测</AcuteHIV.stages.0.label>
+  <!--EN: minor-->
+  <AcuteHIV.stages.1.label>轻微</AcuteHIV.stages.1.label>
+  <!--EN: minor-->
+  <AcuteHIV.stages.2.label>轻微</AcuteHIV.stages.2.label>
+  <!--EN: minor-->
+  <AcuteHIV.stages.3.label>轻微</AcuteHIV.stages.3.label>
   <!--EN: moderate-->
-  <Hediff_AffectedByPheromones.stages.1.label>中等</Hediff_AffectedByPheromones.stages.1.label>
-  <!--EN: strong-->
-  <Hediff_AffectedByPheromones.stages.2.label>强烈</Hediff_AffectedByPheromones.stages.2.label>
-  <!--EN: Under the effect of an immunosuppressant, hampering the body's ability to fight off infection and disease.-->
-  <Hediff_Cyclosporine.description>在免疫抑制剂的作用下，身体抵抗感染和疾病的能力受到抑制。</Hediff_Cyclosporine.description>
-  <!--EN: Cyclosporine-->
-  <Hediff_Cyclosporine.label>环孢素</Hediff_Cyclosporine.label>
-  <!--EN: A condition caused by a womb entering the most fertile phase of its menstrual cycle. Sexual arousal and desire increase dramatically as the body yearns to become pregnant.
-Increased chance of vaginal sex occurring and potentially lower standards in mate selection.-->
-  <Hediff_Estrus.description>因子宫进入月经周期中最易受孕的阶段而导致的状态。随着身体渴望怀孕，性唤起和性欲急剧增加。
-阴道性交发生的几率增加，择偶标准可能降低。</Hediff_Estrus.description>
-  <!--EN: Estrus-->
-  <Hediff_Estrus.label>发情期</Hediff_Estrus.label>
-  <!--EN: estrus-->
-  <Hediff_Estrus.labelNoun>发情期</Hediff_Estrus.labelNoun>
-  <!--EN: A condition caused by a womb its most fertile phase of the menstrual cycle. Sexual arousal and desire increase slightly.
-Slightly increased chance of vaginal sex.-->
-  <Hediff_Estrus_Concealed.description>因子宫处于月经周期中最易受孕的阶段而导致的状态。性唤起和性欲略有增加。
-阴道性交发生的几率略有增加。</Hediff_Estrus_Concealed.description>
-  <!--EN: Estrus (concealed)-->
-  <Hediff_Estrus_Concealed.label>发情期（隐性）</Hediff_Estrus_Concealed.label>
-  <!--EN: estrus-->
-  <Hediff_Estrus_Concealed.labelNoun>发情期</Hediff_Estrus_Concealed.labelNoun>
-  <!--EN: fertile-->
-  <Hediff_ForceFertile.description>可育</Hediff_ForceFertile.description>
-  <!--EN: Fertile-->
-  <Hediff_ForceFertile.label>强制可育</Hediff_ForceFertile.label>
-  <!--EN: fertile-->
-  <Hediff_ForceFertile.labelNoun>可育</Hediff_ForceFertile.labelNoun>
-  <!--EN: {0} is fertile-->
-  <Hediff_ForceFertile.labelNounPretty>{0} is fertile</Hediff_ForceFertile.labelNounPretty>
-  <!--EN: Bleeding from the vagina at the end of the menstrual cycle.
-Often painful.-->
-  <Hediff_MenstrualCramp.description>经期中</Hediff_MenstrualCramp.description>
-  <!--EN: In period-->
-  <Hediff_MenstrualCramp.label>中枢性疼痛</Hediff_MenstrualCramp.label>
-  <!--EN: in period-->
-  <Hediff_MenstrualCramp.labelNoun>经期中</Hediff_MenstrualCramp.labelNoun>
-  <!--EN: unpleasant-->
-  <Hediff_MenstrualCramp.stages.0.label>不快</Hediff_MenstrualCramp.stages.0.label>
-  <!--EN: annoying-->
-  <Hediff_MenstrualCramp.stages.1.label>恼人</Hediff_MenstrualCramp.stages.1.label>
-  <!--EN: aching-->
-  <Hediff_MenstrualCramp.stages.2.label>疼痛</Hediff_MenstrualCramp.stages.2.label>
-  <!--EN: painful-->
-  <Hediff_MenstrualCramp.stages.3.label>痛苦</Hediff_MenstrualCramp.stages.3.label>
-  <!--EN: A mild reprieve from menstrual (and other) sources of pain.-->
-  <Hediff_PainReliever.description>从经期（及其他）疼痛中得到轻微缓解。</Hediff_PainReliever.description>
-  <!--EN: Pain reliever-->
-  <Hediff_PainReliever.label>止痛药</Hediff_PainReliever.label>
+  <AcuteHIV.stages.4.label>中等</AcuteHIV.stages.4.label>
+  <!--EN: major-->
+  <AcuteHIV.stages.5.label>严重</AcuteHIV.stages.5.label>
+  <!--EN: major-->
+  <AcuteHIV.stages.6.label>严重</AcuteHIV.stages.6.label>
+  <!--EN: major-->
+  <AcuteHIV.stages.7.label>严重</AcuteHIV.stages.7.label>
+  <!--EN: extreme-->
+  <AcuteHIV.stages.8.label>极端</AcuteHIV.stages.8.label>
+  <!--EN: extreme-->
+  <AcuteHIV.stages.9.label>极端</AcuteHIV.stages.9.label>
+  <!--EN: Boobitis is a highly contagious mechanite plague that causes permanent breast growth if left untreated. It was initialy created as a harmless glittertech "party drug" but has since mutated and spread to virtually every human colony.-->
+  <Boobitis.description>乳房机械液炎是一种高度传染性的机械液瘟疫，如果不加以治疗，会导致乳房永久性增长。它最初是作为一种无害的闪耀科技“派对药物”被创造出来的，但此后发生了变异，并传播到了几乎每一个人形殖民地。</Boobitis.description>
+  <!--EN: boobitis-->
+  <Boobitis.label>乳房机械液炎</Boobitis.label>
+  <!--EN: subtle swelling-->
+  <Boobitis.stages.0.label>轻微肿胀</Boobitis.stages.0.label>
+  <!--EN: noticable swelling-->
+  <Boobitis.stages.1.label>明显肿胀</Boobitis.stages.1.label>
+  <!--EN: spectacular swelling-->
+  <Boobitis.stages.2.label>显著肿胀</Boobitis.stages.2.label>
+  <!--EN: An immunodeficiency virus that spreads through sexual contact.-->
+  <ChronicHIV.description>一种通过性接触传播的免疫缺陷病毒。</ChronicHIV.description>
+  <!--EN: HIV - Chronic-->
+  <ChronicHIV.label>HIV - 慢性期</ChronicHIV.label>
+  <!--EN: detectable-->
+  <ChronicHIV.stages.0.label>可检测</ChronicHIV.stages.0.label>
+  <!--EN: minor-->
+  <ChronicHIV.stages.1.label>轻微</ChronicHIV.stages.1.label>
+  <!--EN: minor-->
+  <ChronicHIV.stages.2.label>轻微</ChronicHIV.stages.2.label>
+  <!--EN: minor-->
+  <ChronicHIV.stages.3.label>轻微</ChronicHIV.stages.3.label>
+  <!--EN: moderate-->
+  <ChronicHIV.stages.4.label>中等</ChronicHIV.stages.4.label>
+  <!--EN: major-->
+  <ChronicHIV.stages.5.label>严重</ChronicHIV.stages.5.label>
+  <!--EN: major-->
+  <ChronicHIV.stages.6.label>严重</ChronicHIV.stages.6.label>
+  <!--EN: major-->
+  <ChronicHIV.stages.7.label>严重</ChronicHIV.stages.7.label>
+  <!--EN: extreme-->
+  <ChronicHIV.stages.8.label>极端</ChronicHIV.stages.8.label>
+  <!--EN: extreme-->
+  <ChronicHIV.stages.9.label>极端</ChronicHIV.stages.9.label>
+  <!--EN: Genital sores that spread through sexual contact.-->
+  <Herpes.description>疱疹是一种无法治愈但不致命的疾病。受感染的角色在患处会感到疼痛和瘙痒。治疗可有效减轻症状的强度。</Herpes.description>
+  <!--EN: Herpes-->
+  <Herpes.label>疱疹</Herpes.label>
+  <!--EN: minor-->
+  <Herpes.stages.0.label>轻微</Herpes.stages.0.label>
+  <!--EN: moderate-->
+  <Herpes.stages.1.label>中等</Herpes.stages.1.label>
+  <!--EN: major-->
+  <Herpes.stages.2.label>严重</Herpes.stages.2.label>
+  <!--EN: Very susceptible to disease.-->
+  <Immunodeficiency.description>极易感染疾病。</Immunodeficiency.description>
+  <!--EN: Immunodeficiency-->
+  <Immunodeficiency.label>免疫缺陷</Immunodeficiency.label>
+  <!--EN: minor-->
+  <Immunodeficiency.stages.0.label>轻微</Immunodeficiency.stages.0.label>
+  <!--EN: major-->
+  <Immunodeficiency.stages.1.label>严重</Immunodeficiency.stages.1.label>
+  <!--EN: extreme-->
+  <Immunodeficiency.stages.2.label>极端</Immunodeficiency.stages.2.label>
+  <!--EN: A bacterial infection that spreads through sexual contact.-->
+  <Syphilis.description>梅毒是一种影响精神的严重疾病。如果不加以治疗，会导致思想堕落、情绪问题，可能对大脑、肝脏和肾脏造成永久性损伤，并最终导致死亡。好消息是，通过适当的治疗很容易治愈。</Syphilis.description>
+  <!--EN: Syphilis-->
+  <Syphilis.label>梅毒</Syphilis.label>
+  <!--EN: minor-->
+  <Syphilis.stages.0.label>轻微</Syphilis.stages.0.label>
+  <!--EN: moderate-->
+  <Syphilis.stages.1.label>中等</Syphilis.stages.1.label>
+  <!--EN: major-->
+  <Syphilis.stages.2.label>严重</Syphilis.stages.2.label>
+  <!--EN: extreme-->
+  <Syphilis.stages.3.label>极端</Syphilis.stages.3.label>
+  <!--EN: extreme-->
+  <Syphilis.stages.4.label>极端</Syphilis.stages.4.label>
+  <!--EN: extreme-->
+  <Syphilis.stages.5.label>极端</Syphilis.stages.5.label>
+  <!--EN: permanent viral damage-->
+  <VirusPerma.comps.0.permanentLabel>permanent viral damage</VirusPerma.comps.0.permanentLabel>
+  <!--EN: Viral damage.-->
+  <VirusPerma.description>病毒损伤。</VirusPerma.description>
+  <!--EN: Destroyed by disease-->
+  <VirusPerma.injuryProps.destroyedLabel>Destroyed by disease</VirusPerma.injuryProps.destroyedLabel>
+  <!--EN: Destroyed by disease-->
+  <VirusPerma.injuryProps.destroyedOutLabel>Destroyed by disease</VirusPerma.injuryProps.destroyedOutLabel>
+  <!--EN: viral damage-->
+  <VirusPerma.label>病毒损伤</VirusPerma.label>
+  <!--EN: Genital warts that spread through sexual contact.-->
+  <Warts.description>生殖器疣有碍观瞻，并会引起瘙痒/灼烧感。它们易于治疗，且绝不致命。</Warts.description>
+  <!--EN: Warts-->
+  <Warts.label>疣</Warts.label>
+  <!--EN: minor-->
+  <Warts.stages.0.label>轻微</Warts.stages.0.label>
+  <!--EN: major-->
+  <Warts.stages.1.label>严重</Warts.stages.1.label>
 </LanguageData>

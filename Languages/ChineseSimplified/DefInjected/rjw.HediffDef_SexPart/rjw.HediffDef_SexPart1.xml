@@ -79,7 +79,7 @@
   <!--EN: a cactoid vagina-->
   <CactoidVagina.labelNoun>一乘阴道</CactoidVagina.labelNoun>
   <!--EN: A deer's anus.-->
-  <CervineAnus.description>鹿的肛门。</CervineAnus.description>
+  <CervineAnus.description>Adeer的肛门</CervineAnus.description>
   <!--EN: cervine anus-->
   <CervineAnus.label>塞文肛门</CervineAnus.label>
   <!--EN: a deer anus-->
@@ -137,7 +137,7 @@
   <!--EN: elf anus-->
   <ElfAnus.label>精灵肛门</ElfAnus.label>
   <!--EN: an elf anus-->
-  <ElfAnus.labelNoun>一个elfanus</ElfAnus.labelNoun>
+  <ElfAnus.labelNoun>一个精灵肛门</ElfAnus.labelNoun>
   <!--EN: A thinner and longer humanlike penis. Is that glitter?-->
   <ElfPenis.description>更纤细、更健壮的人类阳具/屌那是闪光吗？</ElfPenis.description>
   <!--EN: elf penis-->

@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: refilling drug for-->
-  <RefillDrugInfuser.gerund>装填药物</RefillDrugInfuser.gerund>
-  <!--EN: Refill drug infuser-->
-  <RefillDrugInfuser.label>给药物注入器装填药物</RefillDrugInfuser.label>
-  <!--EN: refill drug for-->
-  <RefillDrugInfuser.verb>装填药物</RefillDrugInfuser.verb>
-  <!--EN: refilling food for-->
-  <RefillFeederFood.gerund>装填食物</RefillFeederFood.gerund>
-  <!--EN: Refill auto feeder-->
-  <RefillFeederFood.label>给自动喂食器装填食物</RefillFeederFood.label>
-  <!--EN: refill food for-->
-  <RefillFeederFood.verb>装填食物</RefillFeederFood.verb>
+  <!--EN: soliciting-->
+  <Soliciting.gerund>拉客中</Soliciting.gerund>
+  <!--EN: solicite visitors-->
+  <Soliciting.label>拉客</Soliciting.label>
+  <!--EN: solicite-->
+  <Soliciting.verb>拉客中</Soliciting.verb>
 </LanguageData>

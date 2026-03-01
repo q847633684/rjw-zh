@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: A model popular on glitterworlds. The variable shape fits any user and a wide range of instruments provides unique sensations. This chair is equipped with platesteel restraints. The chair doesn't have any external controls and is instead guided by a wireless neurointerface and decides by itself what feelings user will experience.-->
-  <FuckMachineAutoChair.description>该装置在闪耀世界很受欢迎。可变形以适应任何用户，种类繁多的器械可以提供独特的体验。这种配备钢制束环的扶手椅不需要外部控制，而是由一个无线神经接口控制，它自己决定了这次用户将得到什么样的体验。</FuckMachineAutoChair.description>
-  <!--EN: autochair fuck machine-->
-  <FuckMachineAutoChair.label>自动高潮椅</FuckMachineAutoChair.label>
-  <!--EN: A simple model that will provide many fascinating rides.-->
-  <FuckMachineSaddle.description>方便的设备, 提供迷人的“骑乘感”。</FuckMachineSaddle.description>
-  <!--EN: saddle fuck machine-->
-  <FuckMachineSaddle.label>鞍式炮机</FuckMachineSaddle.label>
-  <!--EN: Though not quite a "machine", it definitely has some "fuck" with the right attitude. Provides some entertainment when there is no electricity, but the hip work can be tiring. Remember to polish the dildo before using, unless you want a torture device.-->
-  <FuckMachineWooden.description>这并不算“机器”，但绝对能让你生“草”。至少在没电的时候还能提供一些娱乐活动，但是用起来屁股会很累。记得使用前把假阴茎擦干净, 除非你想玩刑具.</FuckMachineWooden.description>
-  <!--EN: fuck machine-->
-  <FuckMachineWooden.label>木马</FuckMachineWooden.label>
+  <!--EN: A single-use nanite-constructed lattice of organic mesh material meant to be installed inside a woman's womb prior to pregnancy. It provides an enriching environment for an unborn baby to grow more quickly.-->
+  <Bioscaffold.description>这是一种单次使用的纳米结构有机网状晶格材料，旨在怀孕前植入女性子宫。它能提供一个肥沃（富集）的环境，让胎儿发育得更加迅速。</Bioscaffold.description>
+  <!--EN: bioscaffold-->
+  <Bioscaffold.label>生物支架</Bioscaffold.label>
+  <!--EN: A perpetual slow-release chemical stimulation implant that is embedded deep within the reward center of the brain, greatly increasing the need for lovin'. The need is said to become so strong that it can drive people to force themselves onto others, even if they wouldn't otherwise. Post-lovin' clarity will leave the implanted in a state of bliss, but they may also feel a sense of regret if they steal lovin' if they normally wouldn't - at least until they become used to doing it.-->
+  <LimbicStimulator.description>一种嵌入大脑奖赏中心深处的永久性缓释化学刺激植入物，会极大地增加其对“爱爱”的需求。据说这种需求会变得如此强烈，以至于会驱使人们强行违背他人意愿发生关系，即使他们平时并不会这样做。事后的清醒会让植入者处于一种极度愉悦的状态，但如果他们违背本性进行了强取豪夺，也可能会感到悔恨——至少在他们习以为常之前是这样。</LimbicStimulator.description>
+  <!--EN: limbic stimulator-->
+  <LimbicStimulator.label>边缘系统刺激器</LimbicStimulator.label>
+  <!--EN: A crude slaver implant used to increase the number of eggs released during ovulation, increasing the likelihood of having multiple children per pregnancy. Their use is largely limited to rimworlds lacking in cloning infrastructure as most civilized and unified worlds have outlawed them.\n\nWhile it provides an initial boost in fertility, the implant will slowly deplete the victims's ovaries over several years until they're infertile. Allies of implanted victims will be angered.-->
+  <OvaryAgitator.description>一种粗糙的奴隶主植入物，用于增加排卵期释放的卵子数量，从而提高单次怀孕产下多胎的概率。由于大多数文明和统一的世界已经取缔了这种装置，它们的使用很大程度上局限于缺乏克隆设施的边缘世界。\n\n虽然它在初期能提升生育能力，但该植入物会在数年内缓慢耗尽受害者的卵巢功能，直至其不育。受害者的盟友会因此感到愤怒。</OvaryAgitator.description>
+  <!--EN: ovary agitator-->
+  <OvaryAgitator.label>卵巢激扰器</OvaryAgitator.label>
+  <!--EN: A slaver implant, similar to the mindscrew, that can inject disorienting mind imagery directly into the visual cortex of the brain through a complex network of nanoelectrodes. Victims of scrambler implantation tend to socially withdraw to minimize additional stimulation. As a consequence of their confusion, they also become physically meek, making them easy to impose upon. Allies of implanted victims will be angered.-->
+  <Scrambler.description>一种类似于精神钉（mindscrew）的奴隶主植入物。它可以通过复杂的纳米电极网络，直接将令人眩晕的心智图像注入大脑视觉皮层。植入扰频器的受害者往往会产生社交退缩，以减少额外的刺激。由于这种混乱状态，他们在生理上也变得温顺，从而容易被他人强加意志。受害者的盟友会因此感到愤怒。</Scrambler.description>
+  <!--EN: scrambler-->
+  <Scrambler.label>扰频器</Scrambler.label>
 </LanguageData>

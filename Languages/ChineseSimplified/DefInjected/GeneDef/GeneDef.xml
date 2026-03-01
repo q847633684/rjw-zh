@@ -161,7 +161,7 @@
   <!--EN: genderfluid-->
   <rjw_genes_gender_fluid.label>性别流动</rjw_genes_gender_fluid.label>
   <!--EN: When this Xenotype transfers fluids during sex, the giver will not get hungry.-->
-  <rjw_genes_generous_donor.description>当该外来种在性行为中输送体液时，给予者不会感到饥饿。</rjw_genes_generous_donor.description>
+  <rjw_genes_generous_donor.description>当该外来种在性行为中输送精液时，给予者不会感到饥饿。</rjw_genes_generous_donor.description>
   <!--EN: generous donor-->
   <rjw_genes_generous_donor.label>慷慨捐赠者</rjw_genes_generous_donor.label>
   <!--EN: Carriers of this gene are immune against genetic STDs and some other genes that imply negative side-effects.-->

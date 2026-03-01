@@ -1,17 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: being onahole.-->
-  <BeOnahole.reportString>当肉便器</BeOnahole.reportString>
-  <!--EN: binding TargetA.-->
-  <BindOnahole.reportString>正在束缚TargetA</BindOnahole.reportString>
-  <!--EN: morphing into building-->
-  <MorphToBuilding.reportString>演变成建筑</MorphToBuilding.reportString>
-  <!--EN: refilling TargetA.-->
-  <RefillDrugInfuser.reportString>正在给TargetA的药物注入器装填药物</RefillDrugInfuser.reportString>
-  <!--EN: refilling auto feeder of TargetA.-->
-  <RefillFeederFood.reportString>正在给TargetA的喂食器装填食物</RefillFeederFood.reportString>
-  <!--EN: release onahole-->
-  <UnbindOnahole.reportString>正在解除TargetA的束缚</UnbindOnahole.reportString>
-  <!--EN: Using Onahole TargetA-->
-  <UseOnahole.reportString>用肉便器TargetA泄欲</UseOnahole.reportString>
+  <!--EN: lovin' animal-->
+  <Bestiality.reportString>兽交。</Bestiality.reportString>
+  <!--EN: lovin' animal-->
+  <BestialityForFemale.reportString>兽交。</BestialityForFemale.reportString>
+  <!--EN: breeding-->
+  <Breed.reportString>配种。</Breed.reportString>
+  <!--EN: gettin' bred.-->
+  <GettinBred.reportString>被配种。</GettinBred.reportString>
+  <!--EN: gettin' licked.-->
+  <GettinLicked.reportString>被舔了。</GettinLicked.reportString>
+  <!--EN: lovin'.-->
+  <GettinLoved.reportString>爱爱。</GettinLoved.reportString>
+  <!--EN: gettin' raped.-->
+  <GettinRaped.reportString>被强奸。</GettinRaped.reportString>
+  <!--EN: gettin' sucked.-->
+  <GettinSucked.reportString>被吸了。</GettinSucked.reportString>
+  <!--EN: lovin'.-->
+  <GettingQuickie.reportString>爱爱。</GettingQuickie.reportString>
+  <!--EN: equipping-->
+  <GiveBondageGear.reportString>穿戴</GiveBondageGear.reportString>
+  <!--EN: joining TargetA in bed.-->
+  <JoinInBed.reportString>爬上某人的床。</JoinInBed.reportString>
+  <!--EN: doing quickie with TargetA.-->
+  <Quickie.reportString>和某人打野战</Quickie.reportString>
+  <!--EN: hacking implanted mech of TargetA.-->
+  <RJW_HackMechPregnancy.reportString>正在黑入指定目标的植入机械。</RJW_HackMechPregnancy.reportString>
+  <!--EN: Knotted.-->
+  <RJW_Knotted.reportString>打结了。</RJW_Knotted.reportString>
+  <!--EN: masturbatin'.-->
+  <RJW_Masturbate.reportString>自慰。</RJW_Masturbate.reportString>
+  <!--EN: mating-->
+  <RJW_Mate.reportString>交配。</RJW_Mate.reportString>
+  <!--EN: raping.-->
+  <RandomRape.reportString>随机强奸。</RandomRape.reportString>
+  <!--EN: rapin' CP-->
+  <RapeComfortPawn.reportString>强奸泄欲对象。</RapeComfortPawn.reportString>
+  <!--EN: rapin' enemy-->
+  <RapeEnemy.reportString>强奸敌人。</RapeEnemy.reportString>
+  <!--EN: rapin' enemy-->
+  <RapeEnemyByAnimal.reportString>被动物强奸的敌人。</RapeEnemyByAnimal.reportString>
+  <!--EN: rapin' enemy-->
+  <RapeEnemyByInsect.reportString>被虫子强奸的敌人。</RapeEnemyByInsect.reportString>
+  <!--EN: rapin' enemy-->
+  <RapeEnemyByMech.reportString>被机械体强奸的敌人。</RapeEnemyByMech.reportString>
+  <!--EN: rapin' enemy-->
+  <RapeEnemyToParasite.reportString>强奸敌对寄生体。</RapeEnemyToParasite.reportString>
+  <!--EN: struggling-->
+  <StruggleInBondageGear.reportString>挣扎</StruggleInBondageGear.reportString>
+  <!--EN: unlocking-->
+  <UnlockBondageGear.reportString>解锁</UnlockBondageGear.reportString>
+  <!--EN: violating corpse-->
+  <ViolateCorpse.reportString>亵渎尸体</ViolateCorpse.reportString>
 </LanguageData>

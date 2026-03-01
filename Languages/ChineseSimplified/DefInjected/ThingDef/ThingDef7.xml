@@ -1,97 +1,273 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Medium version of Combat armor. Combat armor was issued within the Old world Armed Forces during the Great War. Now it serves all kind of soldiers in Rimworld.-->
-  <Fallarmory_MediumCombatArmor.description>中型战斗装甲。战斗装甲在大战期间由旧世界武装部队配发。如今它为边缘世界的各种士兵服务。</Fallarmory_MediumCombatArmor.description>
-  <!--EN: Medium Combat armor-->
-  <Fallarmory_MediumCombatArmor.label>中型战斗装甲</Fallarmory_MediumCombatArmor.label>
-  <!--EN: Maid's headdress. It is for cleanliness and does not protect the head.-->
-  <Gunmar_Apparel_MaidHead.description>女仆头饰。主要用于保持清洁，不提供头部防护。</Gunmar_Apparel_MaidHead.description>
-  <!--EN: maid headdress-->
-  <Gunmar_Apparel_MaidHead.label>女仆头饰</Gunmar_Apparel_MaidHead.label>
-  <!--EN: The nun's uniform, which symbolizes chastity, has ironically spawned numerous fetishes. Defile the wearer's chastity to your heart's content!-->
-  <Nun.description>象征着贞洁的修女服，讽刺地催生了无数的癖好。尽情玷污穿戴者的贞洁吧！</Nun.description>
-  <!--EN: Nun-->
-  <Nun.label>修女</Nun.label>
-  <!--EN: Nun's headdress-->
-  <NunHead.description>修女头饰</NunHead.description>
-  <!--EN: NunHead-->
-  <NunHead.label>修女头饰</NunHead.label>
-  <!--EN: A garment worn to seduce and show off the body.-->
-  <SSAChinadress.description>一种用来引诱和展示身材的服装。</SSAChinadress.description>
-  <!--EN: China dress-->
-  <SSAChinadress.label>旗袍</SSAChinadress.label>
-  <!--EN: It is an old religious garb that believes that a woman's purpose is to bear children, and that the act is a sacred act.-->
-  <SSACultist.description>这是一种古老的宗教服装，信奉女性的目的是生育子嗣，并且这种行为是神圣的。</SSACultist.description>
-  <!--EN: Cultist-->
-  <SSACultist.label>邪教徒</SSACultist.label>
-  <!--EN: Exotic clothing worn by women of an ancient empire.-->
-  <SSAEgypt.description>古代帝国女性所穿的异域服饰。</SSAEgypt.description>
-  <!--EN: Egypt-->
-  <SSAEgypt.label>埃及风情</SSAEgypt.label>
-  <!--EN: Common outfit typically worn by concubines in brothels.-->
-  <SSAHanbok.description>青楼中妾室通常穿着的常见服装。</SSAHanbok.description>
-  <!--EN: Hanbok-->
-  <SSAHanbok.label>韩服</SSAHanbok.label>
-  <!--EN: This is the kimono worn by concubines in high end brothels.-->
-  <SSAKimono.description>这是高档青楼中妾室所穿的和服。</SSAKimono.description>
-  <!--EN: Concubine's Kimono-->
-  <SSAKimono.label>妾室和服</SSAKimono.label>
-  <!--EN: An outfit for house servants of the master. Such servants also keep the Master's bed warm.-->
-  <SSASexymaid.description>为主人的家仆准备的装束。这样的仆人也负责为主人暖床。</SSASexymaid.description>
-  <!--EN: Sexy maid-->
-  <SSASexymaid.label>性感女仆装</SSASexymaid.label>
-  <!--EN: A demonic look that embodies a succubus, a vile creature that sucks out a man's... spirit.-->
-  <SSASuccubus.description>一种恶魔般的外观，体现了魅魔——一种吸取男人……精气的邪恶生物。</SSASuccubus.description>
-  <!--EN: Succubus-->
-  <SSASuccubus.label>魅魔</SSASuccubus.label>
-  <!--EN: This dress is made of simple animal skin.-->
-  <SSATribaldress.description>这件连衣裙由简单的动物皮制成。</SSATribaldress.description>
-  <!--EN: Tribal Dress-->
-  <SSATribaldress.label>部落连衣裙</SSATribaldress.label>
-  <!--EN: It is a dress made of simple animal skin that shows off the body more.-->
-  <SSATribaldressB.description>这是一件由简单动物皮制成的连衣裙，更能展示身材。</SSATribaldressB.description>
-  <!--EN: Tribal Breeder Dress-->
-  <SSATribaldressB.label>部落繁殖者连衣裙</SSATribaldressB.label>
-  <!--EN: A more gothic look for a sex slave costume that embodies a vile temptress.-->
-  <SSAWitch.description>一种更具哥特风格的性奴隶装束，体现了邪恶的诱惑者形象。</SSAWitch.description>
-  <!--EN: Witch-->
-  <SSAWitch.label>女巫</SSAWitch.label>
-  <!--EN: Witch's hat-->
-  <SSAWitchhat.description>女巫帽</SSAWitchhat.description>
-  <!--EN: SSAWitchhat-->
-  <SSAWitchhat.label>女巫帽</SSAWitchhat.label>
-  <!--EN: Full sets of Combat armor. Combat armor was issued within the Old world Armed Forces during the Great War. Now it serves all kind of soldiers in Rimworld.-->
-  <SSA_HeavyCombatArmor.description>全套战斗装甲。战斗装甲在大战期间由旧世界武装部队配发。如今它为边缘世界的各种士兵服务。</SSA_HeavyCombatArmor.description>
-  <!--EN: Heavy Combat armor-->
-  <SSA_HeavyCombatArmor.label>重型战斗装甲</SSA_HeavyCombatArmor.label>
-  <!--EN: Sex slave`s bikini, show wearer as ready to be used or put on display.-->
-  <Sexslavebikini.description>性奴的比基尼，昭示着穿戴者随时可供使用或展示。</Sexslavebikini.description>
-  <!--EN: sex slave bikini-->
-  <Sexslavebikini.label>性奴比基尼</Sexslavebikini.label>
-  <!--EN: Cum rags don't need nice clothes.-->
-  <Sexslaverag.description>精液抹布还需要什么好衣服。</Sexslaverag.description>
-  <!--EN: Sex Slave Rag-->
-  <Sexslaverag.label>性奴破布装</Sexslaverag.label>
-  <!--EN: Sheer dress, while it technically covers the body, it is very thin and revealing.-->
-  <Sheerdress.description>薄纱裙，虽然理论上能遮住身体，但质地非常薄且暴露。</Sheerdress.description>
-  <!--EN: Sheer dress-->
-  <Sheerdress.label>薄纱裙</Sheerdress.label>
-  <!--EN: Put the collar on the target-->
-  <Slave_Collar.comps.0.useLabel>给目标戴上项圈</Slave_Collar.comps.0.useLabel>
-  <!--EN: A heavy metal ring locked on the neck with a long chain leash, reminding the wearer of their situation at all times.-->
-  <Slave_Collar.description>一个锁在脖子上的沉重金属环，带有长链牵绳，时刻提醒着佩戴者自己的处境。</Slave_Collar.description>
-  <!--EN: Slave collar-->
-  <Slave_Collar.label>奴隶项圈</Slave_Collar.label>
-  <!--EN: Bunny girl outfit, ready to objectify and humiliate even the most wilful slave.-->
-  <Slavebunnymktwo.description>兔女郎装束，准备好物化甚至羞辱最任性的奴隶。</Slavebunnymktwo.description>
-  <!--EN: Slave bunny-->
-  <Slavebunnymktwo.label>奴隶兔女郎</Slavebunnymktwo.label>
-  <!--EN: This ratty and simple kimono means that the wearer is little more than a common slave, barely worth even simple clothing.-->
-  <Slavekimono.description>这件破烂简陋的和服意味着穿着者不过是个普通奴隶，甚至连件粗布衣裳都不配有。</Slavekimono.description>
-  <!--EN: Slave Kimono-->
-  <Slavekimono.label>奴隶和服</Slavekimono.label>
-  <!--EN: Once symbolic of the Star Guardians, these garments are now mere tokens of elite concubines.-->
-  <Stargar.description>曾是星之守护者的象征，这些服装如今只是精英妾室的标志。</Stargar.description>
-  <!--EN: Starguardian-->
-  <Stargar.label>星之守护者</Stargar.label>
+  <!--EN: The phallus of a male arthropod, for excreting a spermatophore to inseminate a female arthropod.-->
+  <AedeagusPenis.description>一种雄性节肢动物的阳具，用于排泄精囊使雌性节肢动物授精。</AedeagusPenis.description>
+  <!--EN: aedeagus-->
+  <AedeagusPenis.label>阳茎</AedeagusPenis.label>
+  <!--EN: A flower's male reproductive organ. A long and thin filament, with a large pollen-producing head in the tip.-->
+  <AntherPenis.description>一朵花的男性生殖器官。一种细细的细丝植物，尖端有一个很大的产生花粉的头。</AntherPenis.description>
+  <!--EN: anther-->
+  <AntherPenis.label>另一个</AntherPenis.label>
+  <!--EN: A small penis supported by a bone.-->
+  <BearPenis.description>由骨头支撑的小阴茎</BearPenis.description>
+  <!--EN: bear penis-->
+  <BearPenis.label>熊阳具/屌</BearPenis.label>
+  <!--EN: An exotic anus made of bioferrite, an unusual substance possessing both organic and metallic characteristics. Its sphincter is remarkably resilient yet surprisingly flexible, and it can feel unnervingly responsive to psychic influence. The chaotic growth patterns of mechanites during its formation have given it a distinct, almost crystalline structure, offering a unique and intense experience.-->
+  <BioferriteAnus.description>异国情调的肛门由活铁 (一种兼具有机物和金属特性的异常物质) 制成。它的括约肌非常有弹性，但却出奇的柔韧，它能对心灵影响做出不稳定的反应。纳米机械在形成过程中混乱的生长模式使它获得了明显的、几乎是结晶的结构，提供了一种独特而强烈的体验。</BioferriteAnus.description>
+  <!--EN: bioferrite anus-->
+  <BioferriteAnus.label>活铁肛门</BioferriteAnus.label>
+  <!--EN: A pair of breasts made of a strange, metallic-organic fibrous substance. They possess an unsettling shimmer and a subtle psychic resonance, feeling both firm and strangely yielding to the touch. Their surface might display faint, shifting patterns, hinting at the chaotic mechanite processes within.-->
+  <BioferriteBreasts.description>一对乳房由金属有机纤维物质制成。他们闪着令人不安的微光和微弱的心灵共鸣，触摸它们的表面可能显示出微弱的、不断变化的模式，暗示着内部混乱的机械过程。</BioferriteBreasts.description>
+  <!--EN: bioferrite breasts-->
+  <BioferriteBreasts.label>活铁乳房</BioferriteBreasts.label>
+  <!--EN: An exotic penis composed of bioferrite, a fibrous substance with both organic and metallic properties. Its shaft has a peculiar, almost segmented texture, and it feels strangely warm and cool to the touch. Subtle psychic flows can cause a faint, unsettling vibration during arousal, and its chaotic, cancer-like formation gives it an unnaturally perfect, yet alien, symmetry.-->
+  <BioferritePenis.description>异国情调的阳具/屌由活铁构成，活铁是一种兼具有机物和金属特性的纤维物质。它的杆身拥有一种奇特的、几乎是分段的质地，给人一种奇怪的温暖和凉爽的感觉触摸微小的灵流会引起微弱的、不安的震动性兴奋,而它混乱的、癌症般的构造使它拥有了异常完美但又陌生的对称。</BioferritePenis.description>
+  <!--EN: bioferrite penis-->
+  <BioferritePenis.label>活铁阳具/屌</BioferritePenis.label>
+  <!--EN: An exotic vagina crafted from bioferrite, a unique material blending organic and metallic traits. Its inner folds possess a peculiar, almost shifting texture, and it seems to subtly resonate with psychic energies during penetration. The chaotic, cancer-like process of its creation by mechanites has resulted in a form that is both alien and alluring, providing an unnerving yet intense sensation.-->
+  <BioferriteVagina.description>异国情调的阴道由活铁精心制作而成，活铁是一种融合了有机物与金属特性的独特材料。它的内部褶皱拥有一种奇特的、几乎在变的结构，它似乎与心灵能量巧妙地共鸣插入由纳米机械创造的混乱的、类似癌症的过程导致了一种既陌生又诱人的形式，提供了一种紧张而强烈的感觉。</BioferriteVagina.description>
+  <!--EN: bioferrite vagina-->
+  <BioferriteVagina.label>活铁阴道</BioferriteVagina.label>
+  <!--EN: A rather long but thin penis with large testicles.-->
+  <BovinePenis.description>一个相当长但纤细的阳具/屌大睾丸/蛋蛋</BovinePenis.description>
+  <!--EN: bovine penis-->
+  <BovinePenis.label>牛阳具/屌</BovinePenis.label>
+  <!--EN: A rather thin and deep vagina, likely belonging to a large mammal.-->
+  <BovineVagina.description>较薄和深阴道,很可能属于一种大型哺乳动物。</BovineVagina.description>
+  <!--EN: bovine vagina-->
+  <BovineVagina.label>牛阴道</BovineVagina.label>
+  <!--EN: A rough plant-like anus. No thorns this time.-->
+  <CactoidAnus.description>粗糙的植物肛门这次没有刺。</CactoidAnus.description>
+  <!--EN: cactoid anus-->
+  <CactoidAnus.label>喜好肛门</CactoidAnus.label>
+  <!--EN: A pair of rough plant-like breasts, with thorns all around them, and flower-like nipples.-->
+  <CactoidBreasts.description>一对粗糙的植物乳房,四周布满了刺，如花一般乳头</CactoidBreasts.description>
+  <!--EN: cactoid breasts-->
+  <CactoidBreasts.label>喜好乳房</CactoidBreasts.label>
+  <!--EN: A rough plant-like penis, with thorns along the shaft.-->
+  <CactoidPenis.description>粗糙的植物阳具/屌,伴随着长有荆棘的杆身。</CactoidPenis.description>
+  <!--EN: cactoid penis-->
+  <CactoidPenis.label>喜好阳具/屌</CactoidPenis.label>
+  <!--EN: A rough plant-like vagina, with thorns lining the inner walls. The thorns grip male genitals during sex.-->
+  <CactoidVagina.description>粗糙的植物阴道,石壁两侧布满荆棘。荆棘荆棘在性交</CactoidVagina.description>
+  <!--EN: cactoid vagina-->
+  <CactoidVagina.label>喜好阴道</CactoidVagina.label>
+  <!--EN: A deer's anus.-->
+  <CervineAnus.description>Adeer的肛门</CervineAnus.description>
+  <!--EN: cervine anus-->
+  <CervineAnus.label>塞文肛门</CervineAnus.label>
+  <!--EN: A long and flexible tentacle, capable of laying eggs.-->
+  <DemonTentaclesF.description>一个长而柔韧的触手,能够产卵。</DemonTentaclesF.description>
+  <!--EN: demon tentacle-->
+  <DemonTentaclesF.label>恶魔触手</DemonTentaclesF.label>
+  <!--EN: An anus with a tough hide on the outside.-->
+  <DinoAnus.description>一个肛门外面有一个坚固的兽皮。</DinoAnus.description>
+  <!--EN: dinosaur anus-->
+  <DinoAnus.label>恐龙肛门</DinoAnus.label>
+  <!--EN: A large tapered penis that is slightly flattened at the top. It looks similar to a large tongue.-->
+  <DinoPenis.description>一个大的锥形的。阳具/屌顶部稍微压平了。它看起来就像一条大舌。</DinoPenis.description>
+  <!--EN: dino penis-->
+  <DinoPenis.label>恐龙阳具/屌</DinoPenis.label>
+  <!--EN: A egg-laying vagina with a tough hide on the outside.-->
+  <DinoVagina.description>Avagina外面有一个坚固的兽皮。</DinoVagina.description>
+  <!--EN: dinosaur vagina-->
+  <DinoVagina.label>恐龙阴道</DinoVagina.label>
+  <!--EN: A canine anus.-->
+  <DogAnus.description>犬科动物肛门</DogAnus.description>
+  <!--EN: dog anus-->
+  <DogAnus.label>狗肛门</DogAnus.label>
+  <!--EN: An somewhat elongated anus with unexpectedly soft scales covering it on the outside, found normaly under tails of draconoids.-->
+  <DragonAnus.description>有点细长肛门外面覆盖着意想不到的柔软鳞片，龙血石的一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。下发现了正常。</DragonAnus.description>
+  <!--EN: dragon anus-->
+  <DragonAnus.label>龙肛门</DragonAnus.label>
+  <!--EN: A large and flexible prehensile penis.-->
+  <ElephantPenis.description>一种大型的、灵活的可接受的武器阳具/屌</ElephantPenis.description>
+  <!--EN: elephant penis-->
+  <ElephantPenis.label>象阳具/屌</ElephantPenis.label>
+  <!--EN: The deep vagina of a female elephant.-->
+  <ElephantVagina.description>深邃的阴道母象的后代。</ElephantVagina.description>
+  <!--EN: elephant vagina-->
+  <ElephantVagina.label>象阴道</ElephantVagina.label>
+  <!--EN: A tighter humanlike anus. Smells of flowers.-->
+  <ElfAnus.description>更紧密的人类肛门花香。</ElfAnus.description>
+  <!--EN: elf anus-->
+  <ElfAnus.label>精灵肛门</ElfAnus.label>
+  <!--EN: A thinner and longer humanlike penis. Is that glitter?-->
+  <ElfPenis.description>更纤细、更健壮的人类阳具/屌那是闪光吗？</ElfPenis.description>
+  <!--EN: elf penis-->
+  <ElfPenis.label>精灵阳具/屌</ElfPenis.label>
+  <!--EN: A tighter humanlike vagina. Tastes like oranges.-->
+  <ElfVagina.description>更紧密的人类阴道尝起来像橘子。</ElfVagina.description>
+  <!--EN: elf vagina-->
+  <ElfVagina.label>精灵阴道</ElfVagina.label>
+  <!--EN: A feline anus.-->
+  <FelineAnus.description>一只猫科动物肛门</FelineAnus.description>
+  <!--EN: feline anus-->
+  <FelineAnus.label>猫科动物肛门</FelineAnus.label>
+  <!--EN: bioferrite splater-->
+  <FilthBioferriteCum.label>活铁剥离器</FilthBioferriteCum.label>
+  <!--EN: bioferrite lubricant splater-->
+  <FilthBioferriteLube.label>活铁润滑剂剪毛者</FilthBioferriteLube.label>
+  <!--EN: bioferrite milk splatter-->
+  <FilthBioferriteMilk.label>活铁产物泼洒</FilthBioferriteMilk.label>
+  <!--EN: foul cum splater-->
+  <FilthDemonSpunk.label>难闻精液剪毛者</FilthDemonSpunk.label>
+  <!--EN: ethereal splater-->
+  <FilthEctoFluid.label>空灵碎布</FilthEctoFluid.label>
+  <!--EN: A translucent, almost intangible anus. Penetrating it sends chills down the spine.-->
+  <GhostAnus.description>一个半一个透明人参与了性行为。的，几乎无形的肛门穿透它会让脊椎感到寒冷。</GhostAnus.description>
+  <!--EN: immaterial anus-->
+  <GhostAnus.label>无形肛门</GhostAnus.label>
+  <!--EN: A translucent, almost intangible pair of breasts. Touching them sends chills down the spine.-->
+  <GhostBreasts.description>半一个透明人参与了性行为。的、几乎无形的一对乳房触摸它们会让脊椎感到寒冷。</GhostBreasts.description>
+  <!--EN: immaterial breasts-->
+  <GhostBreasts.label>无形乳房</GhostBreasts.label>
+  <!--EN: A translucent, almost intangible penis. Touching it sends chills down the spine.-->
+  <GhostPenis.description>一个半一个透明人参与了性行为。的，几乎无形的阳具/屌触摸它会让脊椎感到寒冷。</GhostPenis.description>
+  <!--EN: immaterial penis-->
+  <GhostPenis.label>无形阳具/屌</GhostPenis.label>
+  <!--EN: A translucent, almost intangible vagina. Penetrating it sends chills down the spine.-->
+  <GhostVagina.description>一个半一个透明人参与了性行为。的，几乎无形的阴道穿透它会让脊椎感到寒冷。</GhostVagina.description>
+  <!--EN: immaterial vagina-->
+  <GhostVagina.label>无形阴道</GhostVagina.label>
+  <!--EN: An anus that glows slightly. It is uncomfortably hot inside.-->
+  <GhoulAnus.description>一个anusGlslightly。很不舒服性感的在里面。</GhoulAnus.description>
+  <!--EN: ghoul anus-->
+  <GhoulAnus.label>食尸鬼肛门</GhoulAnus.label>
+  <!--EN: A pair of humanlike breasts that glow slightly. They're very hot to the touch.-->
+  <GhoulBreasts.description>一对微微发光的人类乳房。它们摸起来很烫。</GhoulBreasts.description>
+  <!--EN: irradiated breasts-->
+  <GhoulBreasts.label>受到辐射乳房</GhoulBreasts.label>
+  <!--EN: A humanlike penis that glows slightly. It's very hot to the touch.-->
+  <GhoulPenis.description>微微发光的类人阴茎。摸起来很烫。</GhoulPenis.description>
+  <!--EN: ghoul penis-->
+  <GhoulPenis.label>食尸鬼阳具/屌</GhoulPenis.label>
+  <!--EN: A humanlike vagina that glows slightly. It is uncomfortably hot inside.-->
+  <GhoulVagina.description>微微发光的人类阴道。内部非常烫。</GhoulVagina.description>
+  <!--EN: ghoul vagina-->
+  <GhoulVagina.label>食尸鬼阴道</GhoulVagina.label>
+  <!--EN: A rough and jagged stone-like penis.-->
+  <GolemPenis.description>粗糙锯齿状的岩石阳具/屌</GolemPenis.description>
+  <!--EN: golem penis-->
+  <GolemPenis.label>魔人阳具/屌</GolemPenis.label>
+  <!--EN: An anus shaped like a doughnut.-->
+  <HorseAnus.description>一个肛门甜甜圈的形状。</HorseAnus.description>
+  <!--EN: equine anus-->
+  <HorseAnus.label>马肛门</HorseAnus.label>
+  <!--EN: The clitoris of the female spotted hyena is enlarged into a pseudo-penis, through which the female urinates and reproduces. It can even get erect!-->
+  <HyenaVagina.description>该阴核有少量雌性斑点鬣狗被扩大成假阳具/屌,雌性动物通过它排泄和繁殖。它甚至会直立!</HyenaVagina.description>
+  <!--EN: hyena pseudo-penis-->
+  <HyenaVagina.label>鬣狗超凡阳具/屌</HyenaVagina.label>
+  <!--EN: A generic mammalian animal's anus.-->
+  <MammalAnus.description>一只普通的哺乳类动物肛门</MammalAnus.description>
+  <!--EN: mammal anus-->
+  <MammalAnus.label>哺乳动物肛门</MammalAnus.label>
+  <!--EN: A group of breasts/nipples that mammals use to suckle their young.-->
+  <MammalBreasts.description>一群乳房/乳头哺乳动物用来哺育幼崽的工具。</MammalBreasts.description>
+  <!--EN: mammal breasts-->
+  <MammalBreasts.label>哺乳动物乳房</MammalBreasts.label>
+  <!--EN: A generic mammalian animal's penis.-->
+  <MammalPenis.description>一只普通的哺乳类动物阳具/屌</MammalPenis.description>
+  <!--EN: mammal penis-->
+  <MammalPenis.label>哺乳动物阳具/屌</MammalPenis.label>
+  <!--EN: A generic vagina that probably belongs to some mammal.-->
+  <MammalVagina.description>一个通用的阴道那可能是属于某个哺乳动物的。</MammalVagina.description>
+  <!--EN: mammal vagina-->
+  <MammalVagina.label>哺乳动物阴道</MammalVagina.label>
+  <!--EN: A girthy, retractable penis that tapers to a point; it likely belongs to a seal, walrus, or hippo.-->
+  <MarinePenis.description>粗壮、可伸缩的阴茎，逐渐变细；它可能属于海豹、海象或河马。</MarinePenis.description>
+  <!--EN: marine penis-->
+  <MarinePenis.label>陆战队员阳具/屌</MarinePenis.label>
+  <!--EN: A slippery vagina.-->
+  <MarineVagina.description>光滑的阴道</MarineVagina.description>
+  <!--EN: marine vagina-->
+  <MarineVagina.label>陆战队员阴道</MarineVagina.label>
+  <!--EN: A very thin, but otherwise humanoid-looking penis.-->
+  <MonkeyPenis.description>一个非常纤细，但看起来像人形的人阳具/屌</MonkeyPenis.description>
+  <!--EN: monkey penis-->
+  <MonkeyPenis.label>猴类阳具/屌</MonkeyPenis.label>
+  <!--EN: A disgusting, rotting anus. Its insides are as cold as a grave.-->
+  <NecroAnus.description>腐烂的恶心生物肛门它的内部像坟墓一样冰冷。</NecroAnus.description>
+  <!--EN: necro anus-->
+  <NecroAnus.label>死灵肛门</NecroAnus.label>
+  <!--EN: A disgusting, rotting pair of breasts.-->
+  <NecroBreasts.description>一对腐烂的恶心生物乳房</NecroBreasts.description>
+  <!--EN: decayed breasts-->
+  <NecroBreasts.label>衰竭乳房</NecroBreasts.label>
+  <!--EN: A disgusting, rotting penis that somehow still works.-->
+  <NecroPenis.description>腐烂的恶心生物阳具/屌这仍然有效。</NecroPenis.description>
+  <!--EN: necro penis-->
+  <NecroPenis.label>死灵阳具/屌</NecroPenis.label>
+  <!--EN: A disgusting, rotting vagina. Its insides are as cold as a grave.-->
+  <NecroVagina.description>腐烂的恶心生物阴道它的内部像坟墓一样冰冷。</NecroVagina.description>
+  <!--EN: necro vagina-->
+  <NecroVagina.label>死灵阴道</NecroVagina.label>
+  <!--EN: An anus that looks like a mix between an humanlike anus and an equine anus.-->
+  <OrcAnus.description>一个肛门那似乎是人类的混合体肛门和一匹马肛门</OrcAnus.description>
+  <!--EN: orc anus-->
+  <OrcAnus.label>兽人肛门</OrcAnus.label>
+  <!--EN: A pair of humanlike breasts that sag greatly.-->
+  <OrcBreasts.description>一对人类乳房大幅度地下垂。</OrcBreasts.description>
+  <!--EN: orc breasts-->
+  <OrcBreasts.label>兽人乳房</OrcBreasts.label>
+  <!--EN: A girthy penis with a preputial ring, but otherwise similar to a humanoid penis.-->
+  <OrcPenis.description>发狂阳具/屌带有包皮环，但在其他方面类似于人形阳具/屌</OrcPenis.description>
+  <!--EN: orc penis-->
+  <OrcPenis.label>兽人阳具/屌</OrcPenis.label>
+  <!--EN: A loose humanlike vagina with very large lips.-->
+  <OrcVagina.description>松散的人类阴道有非常大的嘴唇。</OrcVagina.description>
+  <!--EN: orc vagina-->
+  <OrcVagina.label>兽人阴道</OrcVagina.label>
+  <!--EN: A pore-like sexual organ of a female arthropod for receiving a spermatophore. Very loosely comparable to a vagina.-->
+  <OviporeVagina.description>毛孔状的性的接受精囊的雌性节肢动物的器官。非常松散，可与阴道</OviporeVagina.description>
+  <!--EN: ovipore-->
+  <OviporeVagina.label>卵细胞</OviporeVagina.label>
+  <!--EN: A corkscrew shaped penis.-->
+  <PigPenis.description>螺旋形阳具/屌</PigPenis.description>
+  <!--EN: pig penis-->
+  <PigPenis.label>任何猪属动物。 阳具/屌</PigPenis.label>
+  <!--EN: The foldy vagina of a female pig.-->
+  <PigVagina.description>部落部落阴道雌性任何猪属动物。</PigVagina.description>
+  <!--EN: pig vagina-->
+  <PigVagina.label>任何猪属动物。 阴道</PigVagina.label>
+  <!--EN: A flower's female reproductive organ. The sticky entrance is connected to the ovaries via a long tube-like structure.-->
+  <PistilVagina.description>一朵花的雌性生殖器官。粘性入口通过一个长的与卵巢相连插管-像结构。</PistilVagina.description>
+  <!--EN: pistil-->
+  <PistilVagina.label>雌蕊</PistilVagina.label>
+  <!--EN: A smooth and tapering to point penis, hidden inside a cloacal slit when its owner are not aroused.-->
+  <ReptilePenis.description>有点光滑和逐渐变细。阳具/屌,当它的主人不在时隐藏在泄殖腔的狭缝中性兴奋的没有。</ReptilePenis.description>
+  <!--EN: reptile penis-->
+  <ReptilePenis.label>爬行动物阳具/屌</ReptilePenis.label>
+  <!--EN: A pair of scale-covered breasts, without nipples.-->
+  <ScaleBreasts.description>一对覆盖有鳞片的乳房,不带乳头没有。</ScaleBreasts.description>
+  <!--EN: scaly breasts-->
+  <ScaleBreasts.label>鳞片乳房</ScaleBreasts.label>
+  <!--EN: A mass of tentacle-like penises, capable of both restraining and pleasuring.-->
+  <TentaclePenis.description>大量的触手-比如阴茎，同时具有抑制和愉悦的能力。</TentaclePenis.description>
+  <!--EN: tentacles-->
+  <TentaclePenis.label>触手</TentaclePenis.label>
+  <!--EN: A naturally grown wooden anus. While the outside looks like bark, the inside is soft.-->
+  <TreeAnus.description>自然生长的木材肛门虽然外面看起来像树皮，但里面是柔软的。</TreeAnus.description>
+  <!--EN: bark anus-->
+  <TreeAnus.label>树皮肛门</TreeAnus.label>
+  <!--EN: A pair of naturally grown wooden breasts. Hard bark covers the entire outer portion, while leaving the nipples underneath exposed.-->
+  <TreeBreasts.description>一对自然生长的木材乳房坚硬的树皮覆盖了整个身体外部，同时乳头地下暴露</TreeBreasts.description>
+  <!--EN: bark breasts-->
+  <TreeBreasts.label>树皮乳房</TreeBreasts.label>
+  <!--EN: A naturally grown wooden penis. The testicles are completely covered in hard, wooden bark, while the texture along the shaft is softer, leaving the tip uncovered.-->
+  <TreePenis.description>自然生长的木材阳具/屌该睾丸/蛋蛋被坚硬的木树皮完全覆盖，而轴沿线的纹理更加柔软，使得尖头暴露在外。</TreePenis.description>
+  <!--EN: bark penis-->
+  <TreePenis.label>树皮阳具/屌</TreePenis.label>
+  <!--EN: A naturally grown wooden vagina. While the outside looks like bark, the inside is soft.-->
+  <TreeVagina.description>自然生长的木材阴道虽然外面看起来像树皮，但里面是柔软的。</TreeVagina.description>
+  <!--EN: bark vagina-->
+  <TreeVagina.label>树皮阴道</TreeVagina.label>
+  <!--EN: A large penis with a huge flare at the tip.-->
+  <TurtlePenis.description>一个大阳具/屌尖端有巨大的照明弹。</TurtlePenis.description>
+  <!--EN: turtle penis-->
+  <TurtlePenis.label>龟阳具/屌</TurtlePenis.label>
+  <!--EN: A mass of vines where a penis would be.-->
+  <VinePenis.description>一团藤蔓植物，其中一个阳具/屌是的。</VinePenis.description>
+  <!--EN: vines-->
+  <VinePenis.label>藤蔓植物</VinePenis.label>
 </LanguageData>

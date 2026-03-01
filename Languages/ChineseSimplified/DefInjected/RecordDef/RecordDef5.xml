@@ -1,55 +1,99 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: The number of times of anal sex.-->
-  <AnalSexCount.description>肛交的次数。</AnalSexCount.description>
-  <!--EN: anal intercourses-->
-  <AnalSexCount.label>肛交</AnalSexCount.label>
-  <!--EN: The number of times of blowjob.-->
-  <BlowjobCount.description>口交的次数。</BlowjobCount.description>
-  <!--EN: blowjobs-->
-  <BlowjobCount.label>口交</BlowjobCount.label>
-  <!--EN: The number of times of cunnilingus.-->
-  <CunnilingusCount.description>舔阴的次数。</CunnilingusCount.description>
-  <!--EN: cunnilingus-->
-  <CunnilingusCount.label>舔阴</CunnilingusCount.label>
-  <!--EN: The number of times of fingering.-->
-  <FingeringCount.description>指交的次数。</FingeringCount.description>
-  <!--EN: fingerings-->
-  <FingeringCount.label>指交</FingeringCount.label>
-  <!--EN: The number of times of footjob.-->
-  <FootjobCount.description>足交的次数。</FootjobCount.description>
-  <!--EN: footjob-->
-  <FootjobCount.label>足交</FootjobCount.label>
-  <!--EN: The number of times of handjob/fingering.-->
-  <GenitalCaressCount.description>用手指刺激阴茎/阴道的次数。</GenitalCaressCount.description>
-  <!--EN: genital touched-->
-  <GenitalCaressCount.label>摸阴</GenitalCaressCount.label>
-  <!--EN: The number of times of handjob.-->
-  <HandjobCount.description>手交的次数。</HandjobCount.description>
-  <!--EN: handjobs-->
-  <HandjobCount.label>手交</HandjobCount.label>
-  <!--EN: How lustful i am.-->
-  <Lust.description>我多淫荡。</Lust.description>
-  <!--EN: lust-->
-  <Lust.label>色欲</Lust.label>
-  <!--EN: The number of times of something sexual.-->
-  <MiscSexualBehaviorCount.description>一些性交的次数。</MiscSexualBehaviorCount.description>
-  <!--EN: misc. intercourses-->
-  <MiscSexualBehaviorCount.label>杂项</MiscSexualBehaviorCount.label>
-  <!--EN: The number of times of received oral sex.-->
-  <OralSexCount.description>吞精的次数。</OralSexCount.description>
-  <!--EN: oral intercourses-->
-  <OralSexCount.label>吞精</OralSexCount.label>
-  <!--EN: The number of times of orgasm.-->
-  <OrgasmCount.description>高潮的次数。</OrgasmCount.description>
-  <!--EN: orgasms-->
-  <OrgasmCount.label>高潮</OrgasmCount.label>
-  <!--EN: The number of sex partners.-->
-  <SexPartnerCount.description>性伴侣的个数。</SexPartnerCount.description>
-  <!--EN: sex partners-->
-  <SexPartnerCount.label>性伴侣</SexPartnerCount.label>
-  <!--EN: The number of times of vaginal sex.-->
-  <VaginalSexCount.description>阴道性交的次数。</VaginalSexCount.description>
-  <!--EN: vaginal intercourses-->
-  <VaginalSexCount.label>阴道性交</VaginalSexCount.label>
+  <!--EN: The number of times I have amalgamated someone.-->
+  <RV2_Goal_Amalgamate_Predator.description>我合并某人的次数。</RV2_Goal_Amalgamate_Predator.description>
+  <!--EN: Vore: Amalgamate Predator-->
+  <RV2_Goal_Amalgamate_Predator.label>吃人: 合并捕食者</RV2_Goal_Amalgamate_Predator.label>
+  <!--EN: The number of times I have been amalgamated.-->
+  <RV2_Goal_Amalgamate_Prey.description>我被合并的次数。</RV2_Goal_Amalgamate_Prey.description>
+  <!--EN: Vore: Amalgamate Prey-->
+  <RV2_Goal_Amalgamate_Prey.label>吃人: 混杂的猎物</RV2_Goal_Amalgamate_Prey.label>
+  <!--EN: The number of times I have assimilated someone.-->
+  <RV2_Goal_Assimilate_Predator.description>我同化某人的次数。</RV2_Goal_Assimilate_Predator.description>
+  <!--EN: Vore: Assimilate Predator-->
+  <RV2_Goal_Assimilate_Predator.label>吃人: 同化捕食者</RV2_Goal_Assimilate_Predator.label>
+  <!--EN: The number of times I have been assimilated.-->
+  <RV2_Goal_Assimilate_Prey.description>我被同化的次数。</RV2_Goal_Assimilate_Prey.description>
+  <!--EN: Vore: Assimilate Prey-->
+  <RV2_Goal_Assimilate_Prey.label>吃人: 同化猎物</RV2_Goal_Assimilate_Prey.label>
+  <!--EN: The number of times I have converted someone into chemfuel.-->
+  <RV2_Goal_ConvertChemfuel_Predator.description>我将某人教化为化合燃料的次数。</RV2_Goal_ConvertChemfuel_Predator.description>
+  <!--EN: Vore: Olify Predator-->
+  <RV2_Goal_ConvertChemfuel_Predator.label>吃人: Olify 捕食者</RV2_Goal_ConvertChemfuel_Predator.label>
+  <!--EN: The number of times I have been converted into chemfuel.-->
+  <RV2_Goal_ConvertChemfuel_Prey.description>我被改装成化合燃料的次数。</RV2_Goal_ConvertChemfuel_Prey.description>
+  <!--EN: Vore: Olify Prey-->
+  <RV2_Goal_ConvertChemfuel_Prey.label>吃人: 橄榄绿猎物</RV2_Goal_ConvertChemfuel_Prey.label>
+  <!--EN: The number of times I have converted someone into eggs.-->
+  <RV2_Goal_ConvertEggs_Predator.description>我将某人教化为卵的次数。</RV2_Goal_ConvertEggs_Predator.description>
+  <!--EN: Vore: Ovify Predator-->
+  <RV2_Goal_ConvertEggs_Predator.label>吃人: 产卵的捕食者</RV2_Goal_ConvertEggs_Predator.label>
+  <!--EN: The number of times I have been converted into eggs.-->
+  <RV2_Goal_ConvertEggs_Prey.description>我被转化为卵的次数。</RV2_Goal_ConvertEggs_Prey.description>
+  <!--EN: Vore: Ovify Prey-->
+  <RV2_Goal_ConvertEggs_Prey.label>吃人: 产卵的猎物</RV2_Goal_ConvertEggs_Prey.label>
+  <!--EN: The number of times I have converted someone into urine.-->
+  <RV2_Goal_ConvertUrine_Predator.description>我将某人变成尿的次数。</RV2_Goal_ConvertUrine_Predator.description>
+  <!--EN: Vore: Urify Predator-->
+  <RV2_Goal_ConvertUrine_Predator.label>吃人: Urify 捕食者</RV2_Goal_ConvertUrine_Predator.label>
+  <!--EN: The number of times I have been converted into urine.-->
+  <RV2_Goal_ConvertUrine_Prey.description>我被变成尿的次数。</RV2_Goal_ConvertUrine_Prey.description>
+  <!--EN: Vore: Urify Prey-->
+  <RV2_Goal_ConvertUrine_Prey.label>吃人: Urify 猎物</RV2_Goal_ConvertUrine_Prey.label>
+  <!--EN: The number of times I have vored someone with my cleavage.-->
+  <RV2_Type_Cleavage_Predator.description>我用乳沟</RV2_Type_Cleavage_Predator.description>
+  <!--EN: Vore: Cleavage Predator-->
+  <RV2_Type_Cleavage_Predator.label>吃人:乳沟捕食者</RV2_Type_Cleavage_Predator.label>
+  <!--EN: The number of times I have been vored by someones cleavage.-->
+  <RV2_Type_Cleavage_Prey.description>我被人欺负的次数乳沟</RV2_Type_Cleavage_Prey.description>
+  <!--EN: Vore: Cleavage Prey-->
+  <RV2_Type_Cleavage_Prey.label>吃人:乳沟猎物</RV2_Type_Cleavage_Prey.label>
+  <!--EN: The number of times I have cock-vored someone into my bladder.-->
+  <RV2_Type_CockBladder_Predator.description>我将某人鸡巴置入我膀胱的次数。</RV2_Type_CockBladder_Predator.description>
+  <!--EN: Vore: Bladder (Cock) Predator-->
+  <RV2_Type_CockBladder_Predator.label>吃人: 膀胱 (公鸡) 捕食者</RV2_Type_CockBladder_Predator.label>
+  <!--EN: The number of times I have been cock-vored into someones bladder.-->
+  <RV2_Type_CockBladder_Prey.description>我被鸡巴置入某人膀胱的次数。</RV2_Type_CockBladder_Prey.description>
+  <!--EN: Vore: Bladder (Cock) Prey-->
+  <RV2_Type_CockBladder_Prey.label>吃人: 膀胱 (公鸡) 猎物</RV2_Type_CockBladder_Prey.label>
+  <!--EN: The number of times I have vored someone through my membrane.-->
+  <RV2_Type_Membrane_Predator.description>我透过膜背叛某人的次数。</RV2_Type_Membrane_Predator.description>
+  <!--EN: Vore: Membrane Predator-->
+  <RV2_Type_Membrane_Predator.label>吃人: 薄膜捕食者</RV2_Type_Membrane_Predator.label>
+  <!--EN: The number of times I have been vored through someones membrane.-->
+  <RV2_Type_Membrane_Prey.description>我被人穿过膜的次数。</RV2_Type_Membrane_Prey.description>
+  <!--EN: Vore: Membrane Prey-->
+  <RV2_Type_Membrane_Prey.label>吃人: 薄膜猎物</RV2_Type_Membrane_Prey.label>
+  <!--EN: The number of times I have vored someone with my navel.-->
+  <RV2_Type_Navel_Predator.description>我用肚脐给某人求婚的次数。</RV2_Type_Navel_Predator.description>
+  <!--EN: Vore: Navel Predator-->
+  <RV2_Type_Navel_Predator.label>吃人: 肚脐捕食者</RV2_Type_Navel_Predator.label>
+  <!--EN: The number of times I have been vored by someones navel.-->
+  <RV2_Type_Navel_Prey.description>我被某人 navel 见肚脐的次数。</RV2_Type_Navel_Prey.description>
+  <!--EN: Vore: Navel Prey-->
+  <RV2_Type_Navel_Prey.label>吃人: 肚脐猎物</RV2_Type_Navel_Prey.label>
+  <!--EN: The number of times I have vored someone using my tail.-->
+  <RV2_Type_Tailmaw_Predator.description>我使用我的一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。</RV2_Type_Tailmaw_Predator.description>
+  <!--EN: Vore: Tail Predator-->
+  <RV2_Type_Tailmaw_Predator.label>吃人:一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。捕食者</RV2_Type_Tailmaw_Predator.label>
+  <!--EN: The number of times I have been vored by someones tail.-->
+  <RV2_Type_Tailmaw_Prey.description>我被人欺负的次数一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。</RV2_Type_Tailmaw_Prey.description>
+  <!--EN: Vore: Tail Prey-->
+  <RV2_Type_Tailmaw_Prey.label>吃人:一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。猎物</RV2_Type_Tailmaw_Prey.label>
+  <!--EN: The number of times I have vored someone with my udder.-->
+  <RV2_Type_Udder_Predator.description>我用乳房折磨过的人的次数。</RV2_Type_Udder_Predator.description>
+  <!--EN: Vore: Udder Predator-->
+  <RV2_Type_Udder_Predator.label>吃人: 乳房捕食者</RV2_Type_Udder_Predator.label>
+  <!--EN: The number of times I have been vored by someones udder.-->
+  <RV2_Type_Udder_Prey.description>我被其他人欺负的次数。</RV2_Type_Udder_Prey.description>
+  <!--EN: Vore: Udder Prey-->
+  <RV2_Type_Udder_Prey.label>吃人: 乳房猎物</RV2_Type_Udder_Prey.label>
+  <!--EN: The number of times I have vaginally vored someone into my bladder.-->
+  <RV2_Type_VaginalBladder_Predator.description>我将某人塞进膀胱的次数。</RV2_Type_VaginalBladder_Predator.description>
+  <!--EN: Vore: Bladder (Vaginal) Predator-->
+  <RV2_Type_VaginalBladder_Predator.label>吃人: 膀胱 (阴道) 捕食者</RV2_Type_VaginalBladder_Predator.label>
+  <!--EN: The number of times I have been vaginally vored into someones bladder.-->
+  <RV2_Type_VaginalBladder_Prey.description>我被刺入某人膀胱的次数。</RV2_Type_VaginalBladder_Prey.description>
+  <!--EN: Vore: Bladder (Vaginal) Prey-->
+  <RV2_Type_VaginalBladder_Prey.label>吃人: 膀胱 (阴道) 猎物</RV2_Type_VaginalBladder_Prey.label>
 </LanguageData>

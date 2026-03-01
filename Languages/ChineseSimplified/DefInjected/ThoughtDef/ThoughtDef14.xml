@@ -1,53 +1,123 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: I was allowed to offer myself to visitors-->
-  <CB_Prostitution_Essential_After.stages.0.description>我被允许向访客献身</CB_Prostitution_Essential_After.stages.0.description>
-  <!--EN: Dutiful prostitute-->
-  <CB_Prostitution_Essential_After.stages.0.label>尽职的娼妓</CB_Prostitution_Essential_After.stages.0.label>
-  <!--EN: is a prostitute-->
-  <CB_Prostitution_Essential_Know.stages.0.label>是一名娼妓</CB_Prostitution_Essential_Know.stages.0.label>
-  <!--EN: It's been so long since I tried offering myself to visitors!-->
-  <CB_Prostitution_Essential_NotTrying.stages.0.description>我已经很久没有尝试向访客献身了！</CB_Prostitution_Essential_NotTrying.stages.0.description>
-  <!--EN: Failing my duty-->
-  <CB_Prostitution_Essential_NotTrying.stages.0.label>未能履行职责</CB_Prostitution_Essential_NotTrying.stages.0.label>
-  <!--EN: I was forced to sell myself to visitors-->
-  <CB_Prostitution_Horrendous_After.stages.0.description>我被迫向访客出卖自己</CB_Prostitution_Horrendous_After.stages.0.description>
-  <!--EN: Unwilling whore-->
-  <CB_Prostitution_Horrendous_After.stages.0.label>不情愿的妓女</CB_Prostitution_Horrendous_After.stages.0.label>
-  <!--EN: is a prostitute-->
-  <CB_Prostitution_Horrendous_Know.stages.0.label>是一名娼妓</CB_Prostitution_Horrendous_Know.stages.0.label>
-  <!--EN: I whored myself out-->
-  <CB_Prostitution_Reluctant_After.stages.0.description>我出卖了自己的肉体</CB_Prostitution_Reluctant_After.stages.0.description>
-  <!--EN: Reluctant prostitute-->
-  <CB_Prostitution_Reluctant_After.stages.0.label>勉强的娼妓</CB_Prostitution_Reluctant_After.stages.0.label>
-  <!--EN: I performed my sacred duty towards visitors-->
-  <CB_Prostitution_Sacred_After.stages.0.description>我履行了向访客的神圣职责</CB_Prostitution_Sacred_After.stages.0.description>
-  <!--EN: Sacred prostitute-->
-  <CB_Prostitution_Sacred_After.stages.0.label>神圣的娼妓</CB_Prostitution_Sacred_After.stages.0.label>
-  <!--EN: is a sacred prostitute-->
-  <CB_Prostitution_Sacred_Know.stages.0.label>是一名神圣的娼妓</CB_Prostitution_Sacred_Know.stages.0.label>
-  <!--EN: Blasphemous! It's been so long since I tried offering myself to visitors!-->
-  <CB_Prostitution_Sacred_NotTrying.stages.0.description>亵渎！我已经很久没有尝试向访客献身了！</CB_Prostitution_Sacred_NotTrying.stages.0.description>
-  <!--EN: Failing my sacred duty-->
-  <CB_Prostitution_Sacred_NotTrying.stages.0.label>未能履行神圣职责</CB_Prostitution_Sacred_NotTrying.stages.0.label>
-  <!--EN: I was forced to sell myself to visitors-->
-  <CB_Prostitution_Unwilling_After.stages.0.description>我被迫向访客出卖自己</CB_Prostitution_Unwilling_After.stages.0.description>
-  <!--EN: Unwilling whore-->
-  <CB_Prostitution_Unwilling_After.stages.0.label>不情愿的妓女</CB_Prostitution_Unwilling_After.stages.0.label>
-  <!--EN: Our duty is sharing ourselves with visitors.-->
-  <CB_Whoring_Essential_Required.stages.0.description>我们的职责是与访客分享我们自己。</CB_Whoring_Essential_Required.stages.0.description>
-  <!--EN: Duties upheld-->
-  <CB_Whoring_Essential_Required.stages.0.label>职责已履行</CB_Whoring_Essential_Required.stages.0.label>
-  <!--EN: Our mandatory whores haven't performed our duty towards visitors for far too long.-->
-  <CB_Whoring_Essential_Required.stages.1.description>我们的强制娼妓已经太久没有履行对访客的职责了。</CB_Whoring_Essential_Required.stages.1.description>
-  <!--EN: Mandatory whores failing duties-->
-  <CB_Whoring_Essential_Required.stages.1.label>强制娼妓未能履行职责</CB_Whoring_Essential_Required.stages.1.label>
-  <!--EN: Our sacred duty is sharing ourselves with visitors.-->
-  <CB_Whoring_Sacred_Required.stages.0.description>我们的神圣职责是与访客分享我们自己。</CB_Whoring_Sacred_Required.stages.0.description>
-  <!--EN: Sacred duties upheld-->
-  <CB_Whoring_Sacred_Required.stages.0.label>神圣职责已履行</CB_Whoring_Sacred_Required.stages.0.label>
-  <!--EN: Our mandatory whores haven't performed their sacred duty towards visitors for far too long.-->
-  <CB_Whoring_Sacred_Required.stages.1.description>我们的强制娼妓已经太久没有履行对访客的神圣职责了。</CB_Whoring_Sacred_Required.stages.1.description>
-  <!--EN: Mandatory whores failing sacred duties-->
-  <CB_Whoring_Sacred_Required.stages.1.label>强制娼妓未能履行神圣职责</CB_Whoring_Sacred_Required.stages.1.label>
+  <!--EN: Another divine child was sent into the world-->
+  <CB_Repopulation_GivenAway.stages.0.description>又一个神圣的孩子被送往世界</CB_Repopulation_GivenAway.stages.0.description>
+  <!--EN: Sacred repopulation-->
+  <CB_Repopulation_GivenAway.stages.0.label>神圣再繁衍</CB_Repopulation_GivenAway.stages.0.label>
+  <!--EN: Another child was sent into the world-->
+  <CB_Repopulation_GivenAway.stages.1.description>又一个孩子被送往世界</CB_Repopulation_GivenAway.stages.1.description>
+  <!--EN: Repopulation-->
+  <CB_Repopulation_GivenAway.stages.1.label>再繁衍</CB_Repopulation_GivenAway.stages.1.label>
+  <!--EN: One less mouth to feed-->
+  <CB_Repopulation_GivenAway.stages.2.description>少一张吃饭的嘴</CB_Repopulation_GivenAway.stages.2.description>
+  <!--EN: Child given away-->
+  <CB_Repopulation_GivenAway.stages.2.label>孩子被送走</CB_Repopulation_GivenAway.stages.2.label>
+  <!--EN: Why are we doing this?-->
+  <CB_Repopulation_GivenAway.stages.3.description>我们为什么要这样做？</CB_Repopulation_GivenAway.stages.3.description>
+  <!--EN: Child given away-->
+  <CB_Repopulation_GivenAway.stages.3.label>孩子被送走</CB_Repopulation_GivenAway.stages.3.label>
+  <!--EN: Why are we doing this?-->
+  <CB_Repopulation_GivenAway.stages.4.description>我们为什么要这样做？</CB_Repopulation_GivenAway.stages.4.description>
+  <!--EN: Child given away-->
+  <CB_Repopulation_GivenAway.stages.4.label>孩子被送走</CB_Repopulation_GivenAway.stages.4.label>
+  <!--EN: Another child was sent into the world-->
+  <CB_Repopulation_GivenAway_Duty.stages.0.description>又一个孩子被送往世界</CB_Repopulation_GivenAway_Duty.stages.0.description>
+  <!--EN: Child sent away-->
+  <CB_Repopulation_GivenAway_Duty.stages.0.label>孩子被送走</CB_Repopulation_GivenAway_Duty.stages.0.label>
+  <!--EN: Another child was sent into the world-->
+  <CB_Repopulation_GivenAway_Duty_Essential.stages.0.description>又一个孩子被送往世界</CB_Repopulation_GivenAway_Duty_Essential.stages.0.description>
+  <!--EN: Repopulation-->
+  <CB_Repopulation_GivenAway_Duty_Essential.stages.0.label>再繁衍</CB_Repopulation_GivenAway_Duty_Essential.stages.0.label>
+  <!--EN: Another divine child was sent into the world-->
+  <CB_Repopulation_GivenAway_Duty_Sacred.stages.0.description>又一个神圣的孩子被送往世界</CB_Repopulation_GivenAway_Duty_Sacred.stages.0.description>
+  <!--EN: Sacred repopulation-->
+  <CB_Repopulation_GivenAway_Duty_Sacred.stages.0.label>神圣再繁衍</CB_Repopulation_GivenAway_Duty_Sacred.stages.0.label>
+  <!--EN: The most sacred of duties is to repopulate-->
+  <CB_Repopulation_MyChild_Know.stages.0.description>最神圣的职责就是再繁衍</CB_Repopulation_MyChild_Know.stages.0.description>
+  <!--EN: My child sent away-->
+  <CB_Repopulation_MyChild_Know.stages.0.label>我的孩子被送走</CB_Repopulation_MyChild_Know.stages.0.label>
+  <!--EN: Repopulating is an important duty-->
+  <CB_Repopulation_MyChild_Know.stages.1.description>再繁衍是一项重要的职责</CB_Repopulation_MyChild_Know.stages.1.description>
+  <!--EN: My child sent away-->
+  <CB_Repopulation_MyChild_Know.stages.1.label>我的孩子被送走</CB_Repopulation_MyChild_Know.stages.1.label>
+  <!--EN: Did it have to be mine?-->
+  <CB_Repopulation_MyChild_Know.stages.2.description>为什么非得是我的？</CB_Repopulation_MyChild_Know.stages.2.description>
+  <!--EN: My child sent away-->
+  <CB_Repopulation_MyChild_Know.stages.2.label>我的孩子被送走</CB_Repopulation_MyChild_Know.stages.2.label>
+  <!--EN: They sent my child away!-->
+  <CB_Repopulation_MyChild_Know.stages.3.description>他们把我的孩子送走了！</CB_Repopulation_MyChild_Know.stages.3.description>
+  <!--EN: My child sent away-->
+  <CB_Repopulation_MyChild_Know.stages.3.label>我的孩子被送走</CB_Repopulation_MyChild_Know.stages.3.label>
+  <!--EN: They sent my child away!-->
+  <CB_Repopulation_MyChild_Know.stages.4.description>他们把我的孩子送走了！</CB_Repopulation_MyChild_Know.stages.4.description>
+  <!--EN: My child sent away-->
+  <CB_Repopulation_MyChild_Know.stages.4.label>我的孩子被送走</CB_Repopulation_MyChild_Know.stages.4.label>
+  <!--EN: The most sacred of duties is to repopulate-->
+  <CB_Repopulation_MyChild_Know_Duty.stages.0.description>最神圣的职责就是再繁衍</CB_Repopulation_MyChild_Know_Duty.stages.0.description>
+  <!--EN: My child sent away-->
+  <CB_Repopulation_MyChild_Know_Duty.stages.0.label>我的孩子被送走</CB_Repopulation_MyChild_Know_Duty.stages.0.label>
+  <!--EN: Repopulating is an important duty-->
+  <CB_Repopulation_MyChild_Know_Duty.stages.1.description>再繁衍是一项重要的职责</CB_Repopulation_MyChild_Know_Duty.stages.1.description>
+  <!--EN: My child sent away-->
+  <CB_Repopulation_MyChild_Know_Duty.stages.1.label>我的孩子被送走</CB_Repopulation_MyChild_Know_Duty.stages.1.label>
+  <!--EN: Did it have to be mine?-->
+  <CB_Repopulation_MyChild_Know_Duty.stages.2.description>为什么非得是我的？</CB_Repopulation_MyChild_Know_Duty.stages.2.description>
+  <!--EN: My child sent away-->
+  <CB_Repopulation_MyChild_Know_Duty.stages.2.label>我的孩子被送走</CB_Repopulation_MyChild_Know_Duty.stages.2.label>
+  <!--EN: They sent my child away!-->
+  <CB_Repopulation_MyChild_Know_Duty.stages.3.description>他们把我的孩子送走了！</CB_Repopulation_MyChild_Know_Duty.stages.3.description>
+  <!--EN: My child sent away-->
+  <CB_Repopulation_MyChild_Know_Duty.stages.3.label>我的孩子被送走</CB_Repopulation_MyChild_Know_Duty.stages.3.label>
+  <!--EN: They sent my child away!-->
+  <CB_Repopulation_MyChild_Know_Duty.stages.4.description>他们把我的孩子送走了！</CB_Repopulation_MyChild_Know_Duty.stages.4.description>
+  <!--EN: My child sent away-->
+  <CB_Repopulation_MyChild_Know_Duty.stages.4.label>我的孩子被送走</CB_Repopulation_MyChild_Know_Duty.stages.4.label>
+  <!--EN: It was their time to go into the world, and we refused-->
+  <CB_Repopulation_RefusedGivenAway.stages.0.description>到了他们该去往世界的时候，而我们拒绝了</CB_Repopulation_RefusedGivenAway.stages.0.description>
+  <!--EN: Divine child withheld-->
+  <CB_Repopulation_RefusedGivenAway.stages.0.label>神圣的孩子被扣留</CB_Repopulation_RefusedGivenAway.stages.0.label>
+  <!--EN: We broke the agreement-->
+  <CB_Repopulation_RefusedGivenAway.stages.1.description>我们违背了约定</CB_Repopulation_RefusedGivenAway.stages.1.description>
+  <!--EN: Child withheld-->
+  <CB_Repopulation_RefusedGivenAway.stages.1.label>孩子被扣留</CB_Repopulation_RefusedGivenAway.stages.1.label>
+  <!--EN: We broke the agreement-->
+  <CB_Repopulation_RefusedGivenAway.stages.2.description>我们违背了约定</CB_Repopulation_RefusedGivenAway.stages.2.description>
+  <!--EN: Child withheld-->
+  <CB_Repopulation_RefusedGivenAway.stages.2.label>孩子被扣留</CB_Repopulation_RefusedGivenAway.stages.2.label>
+  <!--EN: We broke the agreement-->
+  <CB_Repopulation_RefusedGivenAway.stages.3.description>我们违背了约定</CB_Repopulation_RefusedGivenAway.stages.3.description>
+  <!--EN: Child withheld-->
+  <CB_Repopulation_RefusedGivenAway.stages.3.label>孩子被扣留</CB_Repopulation_RefusedGivenAway.stages.3.label>
+  <!--EN: We should never have considered this-->
+  <CB_Repopulation_RefusedGivenAway.stages.4.description>我们根本就不该考虑这个</CB_Repopulation_RefusedGivenAway.stages.4.description>
+  <!--EN: Child withheld-->
+  <CB_Repopulation_RefusedGivenAway.stages.4.label>孩子被扣留</CB_Repopulation_RefusedGivenAway.stages.4.label>
+  <!--EN: It was their time to go into the world, and we refused-->
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.0.description>到了他们该去往世界的时候，而我们拒绝了</CB_Repopulation_RefusedGivenAway_Duty.stages.0.description>
+  <!--EN: Divine child withheld-->
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.0.label>神圣的孩子被扣留</CB_Repopulation_RefusedGivenAway_Duty.stages.0.label>
+  <!--EN: We broke the agreement-->
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.1.description>我们违背了约定</CB_Repopulation_RefusedGivenAway_Duty.stages.1.description>
+  <!--EN: Child withheld-->
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.1.label>孩子被扣留</CB_Repopulation_RefusedGivenAway_Duty.stages.1.label>
+  <!--EN: We broke the agreement-->
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.2.description>我们违背了约定</CB_Repopulation_RefusedGivenAway_Duty.stages.2.description>
+  <!--EN: Child withheld-->
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.2.label>孩子被扣留</CB_Repopulation_RefusedGivenAway_Duty.stages.2.label>
+  <!--EN: We broke the agreement-->
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.3.description>我们违背了约定</CB_Repopulation_RefusedGivenAway_Duty.stages.3.description>
+  <!--EN: Child withheld-->
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.3.label>孩子被扣留</CB_Repopulation_RefusedGivenAway_Duty.stages.3.label>
+  <!--EN: We should never have considered this-->
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.4.description>我们根本就不该考虑这个</CB_Repopulation_RefusedGivenAway_Duty.stages.4.description>
+  <!--EN: Child withheld-->
+  <CB_Repopulation_RefusedGivenAway_Duty.stages.4.label>孩子被扣留</CB_Repopulation_RefusedGivenAway_Duty.stages.4.label>
+  <!--EN: We are fulfilling our duty to repopulate this planet-->
+  <CB_Repopulation_Required.stages.0.description>我们正在履行再繁衍这个星球的职责</CB_Repopulation_Required.stages.0.description>
+  <!--EN: Repopulating-->
+  <CB_Repopulation_Required.stages.0.label>正在再繁衍</CB_Repopulation_Required.stages.0.label>
+  <!--EN: We are not fulfilling our duty to repopulate this planet-->
+  <CB_Repopulation_Required.stages.1.description>我们没有履行再繁衍这个星球的职责</CB_Repopulation_Required.stages.1.description>
+  <!--EN: Not repopulating-->
+  <CB_Repopulation_Required.stages.1.label>未进行再繁衍</CB_Repopulation_Required.stages.1.label>
 </LanguageData>

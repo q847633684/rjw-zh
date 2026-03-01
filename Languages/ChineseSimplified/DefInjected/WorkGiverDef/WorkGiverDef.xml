@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: cleaning self-->
-  <Cumpilation_CleanSelf.gerund>清洗自己</Cumpilation_CleanSelf.gerund>
-  <!--EN: clean self-->
-  <Cumpilation_CleanSelf.label>清洗自己</Cumpilation_CleanSelf.label>
-  <!--EN: clean self-->
-  <Cumpilation_CleanSelf.verb>清洗自己</Cumpilation_CleanSelf.verb>
-  <!--EN: collecting fluids into a-->
-  <Cumpilation_CleanSelfWithSink.gerund>收集体液到</Cumpilation_CleanSelfWithSink.gerund>
-  <!--EN: collect cum into a bucket-->
-  <Cumpilation_CleanSelfWithSink.label>将精液收集到桶中</Cumpilation_CleanSelfWithSink.label>
-  <!--EN: collect fluids into a-->
-  <Cumpilation_CleanSelfWithSink.verb>收集体液到</Cumpilation_CleanSelfWithSink.verb>
+  <!--EN: refilling drug for-->
+  <RefillDrugInfuser.gerund>装填药物</RefillDrugInfuser.gerund>
+  <!--EN: Refill drug infuser-->
+  <RefillDrugInfuser.label>给药物注入器装填药物</RefillDrugInfuser.label>
+  <!--EN: refill drug for-->
+  <RefillDrugInfuser.verb>装填药物</RefillDrugInfuser.verb>
+  <!--EN: refilling food for-->
+  <RefillFeederFood.gerund>装填食物</RefillFeederFood.gerund>
+  <!--EN: Refill auto feeder-->
+  <RefillFeederFood.label>给自动喂食器装填食物</RefillFeederFood.label>
+  <!--EN: refill food for-->
+  <RefillFeederFood.verb>装填食物</RefillFeederFood.verb>
 </LanguageData>

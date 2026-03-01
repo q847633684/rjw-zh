@@ -1,29 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: I don't think anyone's looking. Lemme just...-->
-  <ItchyCrotch.stages.0.description>应该没人看着吧。让我挠挠……</ItchyCrotch.stages.0.description>
-  <!--EN: itchy crotch-->
-  <ItchyCrotch.stages.0.label>腹股沟瘙痒</ItchyCrotch.stages.0.label>
-  <!--EN: The worst part is: the more I scratch, the more it burns.-->
-  <ItchyCrotch.stages.1.description>最糟的是：越挠越灼痛。</ItchyCrotch.stages.1.description>
-  <!--EN: itchy, burning crotch-->
-  <ItchyCrotch.stages.1.label>瘙痒灼痛的腹股沟</ItchyCrotch.stages.1.label>
-  <!--EN: saw an ugly rash on {0}'s crotch-->
-  <SawDiseasedPrivates1.stages.0.label>看到{0}腹股沟上有丑陋的皮疹</SawDiseasedPrivates1.stages.0.label>
-  <!--EN: saw disgusting warts on {0}'s crotch-->
-  <SawDiseasedPrivates2.stages.0.label>看到{0}腹股沟上有恶心的疣</SawDiseasedPrivates2.stages.0.label>
-  <!--EN: nauseated by {0}'s diseased crotch-->
-  <SawDiseasedPrivates3.stages.0.label>被{0}染病的腹股沟恶心到了</SawDiseasedPrivates3.stages.0.label>
-  <!--EN: Everyone's so stupid and everything's so annoying. Even me, I just can't think clearly.-->
-  <SyphiliticThoughts.stages.0.description>所有人都那么蠢，所有事都那么烦。连我自己都思绪不清。</SyphiliticThoughts.stages.0.description>
-  <!--EN: syphilitic thoughts-->
-  <SyphiliticThoughts.stages.0.label>梅毒思维</SyphiliticThoughts.stages.0.label>
-  <!--EN: OK, what I need is... uh... what was I doing again? Oh right this thing. This fucking thing THIS FUCKING PIECE OF SHIT. FUCKING DAMN PIECE OF GARBAGE-->
-  <SyphiliticThoughts.stages.1.description>好，我需要的是……呃……我刚在干什么？哦对了这破事。这该死的破事，这该死的狗屎，该死的垃圾玩意！</SyphiliticThoughts.stages.1.description>
-  <!--EN: extreme syphilitic thoughts-->
-  <SyphiliticThoughts.stages.1.label>极端梅毒思维</SyphiliticThoughts.stages.1.label>
-  <!--EN: Every day I feel weaker than the day before. I can feel my life slowly slipping away.-->
-  <WastingAway.stages.0.description>每天都感觉比前一天更虚弱。我能感觉到生命正慢慢流逝。</WastingAway.stages.0.description>
-  <!--EN: wasting away-->
-  <WastingAway.stages.0.label>日渐消瘦</WastingAway.stages.0.label>
+  <!--EN: I raped a child. There was nothing they could do to overpower me.-->
+  <AdultRapedChild.stages.0.description>我侵犯了一个孩子。他们根本无法反抗我。</AdultRapedChild.stages.0.description>
+  <!--EN: raped a child-->
+  <AdultRapedChild.stages.0.label>侵犯了儿童</AdultRapedChild.stages.0.label>
+  <!--EN: I had to resort to raping some kid. Sex is sex, I guess.-->
+  <AdultRapedChildDispleased.stages.0.description>我不得已去侵犯了个孩子。性就是性，我想。</AdultRapedChildDispleased.stages.0.description>
+  <!--EN: raped a child-->
+  <AdultRapedChildDispleased.stages.0.label>侵犯了儿童</AdultRapedChildDispleased.stages.0.label>
+  <!--EN: I thought I could trust them...-->
+  <ChildRapedByAdult.stages.0.description>我本以为可以信任他们……</ChildRapedByAdult.stages.0.description>
+  <!--EN: raped by an adult-->
+  <ChildRapedByAdult.stages.0.label>被成人侵犯</ChildRapedByAdult.stages.0.label>
+  <!--EN: I was pinned down and violated by someone older, and all I want is more.-->
+  <MasochistChildRapedByAdult.stages.0.description>我被一个年长的人压制并侵犯了，而我想要的却是更多。</MasochistChildRapedByAdult.stages.0.description>
+  <!--EN: raped by an adult (Masochist)-->
+  <MasochistChildRapedByAdult.stages.0.label>被成人侵犯（受虐狂）</MasochistChildRapedByAdult.stages.0.label>
+  <!--EN: {0} raped one of my children-->
+  <RapedMyChild.stages.0.description>{0}侵犯了我的一个孩子</RapedMyChild.stages.0.description>
+  <!--EN: raped my child-->
+  <RapedMyChild.stages.0.label>侵犯了我的孩子</RapedMyChild.stages.0.label>
 </LanguageData>

@@ -1,15 +1,81 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Adds a sergal vagina-->
-  <MultiVaginaSergalVagina.description>添加一个瑟伽尔式阴道</MultiVaginaSergalVagina.description>
-  <!--EN: Adding a sergal vagina-->
-  <MultiVaginaSergalVagina.jobString>正在添加瑟伽尔式阴道</MultiVaginaSergalVagina.jobString>
-  <!--EN: add sergal vagina-->
-  <MultiVaginaSergalVagina.label>添加瑟伽尔式阴道</MultiVaginaSergalVagina.label>
-  <!--EN: Attaches a sergal vagina-->
-  <SexReassignmentVSergalVagina.description>植入一个瑟伽尔式阴道</SexReassignmentVSergalVagina.description>
-  <!--EN: Attaching a sergal vagina-->
-  <SexReassignmentVSergalVagina.jobString>正在植入瑟伽尔式阴道</SexReassignmentVSergalVagina.jobString>
-  <!--EN: attach sergal vagina-->
-  <SexReassignmentVSergalVagina.label>植入瑟伽尔式阴道</SexReassignmentVSergalVagina.label>
+  <!--EN: Install the cellular xenoconverter required for absorptive vore.-->
+  <RV2_InstallGoalEnabler_Absorb.description>安装吸收所需的异种细胞转换器吃人</RV2_InstallGoalEnabler_Absorb.description>
+  <!--EN: Install cellular xenoconverter-->
+  <RV2_InstallGoalEnabler_Absorb.label>安装异种细胞转换器</RV2_InstallGoalEnabler_Absorb.label>
+  <!--EN: Install the enzyme seeder required to allow turning prey into chemfuel.-->
+  <RV2_InstallGoalEnabler_ConvertChemfuel.description>安装需要让猎物转化为化合燃料的生物酶过滤器。</RV2_InstallGoalEnabler_ConvertChemfuel.description>
+  <!--EN: Install olifactive enzyme seeder-->
+  <RV2_InstallGoalEnabler_ConvertChemfuel.label>安装 olifactive 酶法</RV2_InstallGoalEnabler_ConvertChemfuel.label>
+  <!--EN: Install the enzyme seeder required to allow turning prey into eggs.-->
+  <RV2_InstallGoalEnabler_ConvertEggs.description>安装需要让猎物转化为卵的酶播种装置。</RV2_InstallGoalEnabler_ConvertEggs.description>
+  <!--EN: Install ovifactive enzyme seeder-->
+  <RV2_InstallGoalEnabler_ConvertEggs.label>安装产卵酶</RV2_InstallGoalEnabler_ConvertEggs.label>
+  <!--EN: Install the enzyme seeder required to allow turning prey into urine.-->
+  <RV2_InstallGoalEnabler_ConvertUrine.description>安装需要允许将猎物变成尿的酶过滤器。</RV2_InstallGoalEnabler_ConvertUrine.description>
+  <!--EN: Install urifactive enzyme seeder-->
+  <RV2_InstallGoalEnabler_ConvertUrine.label>安装营养酶播种机</RV2_InstallGoalEnabler_ConvertUrine.label>
+  <!--EN: Install the suite of adjustments required to allow cleavage vore.-->
+  <RV2_InstallTypeEnabler_Cleavage.description>安装所需的一系列调整以允许cleavagevore</RV2_InstallTypeEnabler_Cleavage.description>
+  <!--EN: Install cleavage vore suite-->
+  <RV2_InstallTypeEnabler_Cleavage.label>安装cleavagevore套房</RV2_InstallTypeEnabler_Cleavage.label>
+  <!--EN: Install the porocizer required to enable membrane vore.-->
+  <RV2_InstallTypeEnabler_Membrane.description>安装启用薄膜所需的烟雾装置吃人</RV2_InstallTypeEnabler_Membrane.description>
+  <!--EN: Install dermal porocizer-->
+  <RV2_InstallTypeEnabler_Membrane.label>安装皮肤污垢</RV2_InstallTypeEnabler_Membrane.label>
+  <!--EN: Install the elasticizer required to enable navel vore.-->
+  <RV2_InstallTypeEnabler_Navel.description>安装需要的护盾以启用肚脐吃人</RV2_InstallTypeEnabler_Navel.description>
+  <!--EN: Install umbilical elasticizer-->
+  <RV2_InstallTypeEnabler_Navel.label>安装脐带弹射器</RV2_InstallTypeEnabler_Navel.label>
+  <!--EN: Install the actinodivisor required to enable tailmaw vore.-->
+  <RV2_InstallTypeEnabler_Tailmaw.description>安装日化机以启用尾甲所需吃人</RV2_InstallTypeEnabler_Tailmaw.description>
+  <!--EN: Install caudal actinodivisor-->
+  <RV2_InstallTypeEnabler_Tailmaw.label>安装尾尾形日身</RV2_InstallTypeEnabler_Tailmaw.label>
+  <!--EN: Install the elasticizer required to enable udder vore.-->
+  <RV2_InstallTypeEnabler_Udder.description>安装需要的弹力装置以启用乳房吃人</RV2_InstallTypeEnabler_Udder.description>
+  <!--EN: Install uberal elasticizer-->
+  <RV2_InstallTypeEnabler_Udder.label>安装弹性弹射器</RV2_InstallTypeEnabler_Udder.label>
+  <!--EN: Make cellular xenoconverter-->
+  <RV2_MakeGoalEnabler_Absorb.label>制作异种细胞转发器</RV2_MakeGoalEnabler_Absorb.label>
+  <!--EN: Make olifactive enzyme seeder-->
+  <RV2_MakeGoalEnabler_ConvertChemfuel.label>制作产物酶</RV2_MakeGoalEnabler_ConvertChemfuel.label>
+  <!--EN: Make ovifactive enzyme seeder-->
+  <RV2_MakeGoalEnabler_ConvertEggs.label>制作产卵酶</RV2_MakeGoalEnabler_ConvertEggs.label>
+  <!--EN: Make urifactive enzyme seeder-->
+  <RV2_MakeGoalEnabler_ConvertUrine.label>解锁制作</RV2_MakeGoalEnabler_ConvertUrine.label>
+  <!--EN: Make cleavage vore suite-->
+  <RV2_MakeTypeEnabler_Cleavage.label>制作cleavagevore套房</RV2_MakeTypeEnabler_Cleavage.label>
+  <!--EN: Make dermal porocizer-->
+  <RV2_MakeTypeEnabler_Membrane.label>制作</RV2_MakeTypeEnabler_Membrane.label>
+  <!--EN: Make umbilical elasticizer-->
+  <RV2_MakeTypeEnabler_Navel.label>制作脐带护甲</RV2_MakeTypeEnabler_Navel.label>
+  <!--EN: Make caudal actinodivisor-->
+  <RV2_MakeTypeEnabler_Tailmaw.label>制作尾形圆形器</RV2_MakeTypeEnabler_Tailmaw.label>
+  <!--EN: Make uberal elasticizer-->
+  <RV2_MakeTypeEnabler_Udder.label>解锁制作</RV2_MakeTypeEnabler_Udder.label>
+  <!--EN: Remove assimilated fat from ass.-->
+  <RV2_RemoveCosmeticHediff_Ass.description>移除被同化的脂肪于屁股</RV2_RemoveCosmeticHediff_Ass.description>
+  <!--EN: Removing assimilated fat from ass-->
+  <RV2_RemoveCosmeticHediff_Ass.jobString>移除被同化的脂肪于屁股</RV2_RemoveCosmeticHediff_Ass.jobString>
+  <!--EN: Remove assimilated fat from ass.-->
+  <RV2_RemoveCosmeticHediff_Ass.label>移除被同化的脂肪于屁股</RV2_RemoveCosmeticHediff_Ass.label>
+  <!--EN: Remove assimilated fat from belly.-->
+  <RV2_RemoveCosmeticHediff_Belly.description>从腹部移除被同化的脂肪。</RV2_RemoveCosmeticHediff_Belly.description>
+  <!--EN: Removing assimilated fat from belly-->
+  <RV2_RemoveCosmeticHediff_Belly.jobString>移除腹部被同化的脂肪</RV2_RemoveCosmeticHediff_Belly.jobString>
+  <!--EN: Remove assimilated fat from belly.-->
+  <RV2_RemoveCosmeticHediff_Belly.label>从腹部移除被同化的脂肪。</RV2_RemoveCosmeticHediff_Belly.label>
+  <!--EN: Remove assimilated fat from labia.-->
+  <RV2_RemoveCosmeticHediff_Labia.description>移除被同化的脂肪于阴唇</RV2_RemoveCosmeticHediff_Labia.description>
+  <!--EN: Removing assimilated fat from labia-->
+  <RV2_RemoveCosmeticHediff_Labia.jobString>移除被同化的脂肪于阴唇</RV2_RemoveCosmeticHediff_Labia.jobString>
+  <!--EN: Remove assimilated fat from labia.-->
+  <RV2_RemoveCosmeticHediff_Labia.label>移除被同化的脂肪于阴唇</RV2_RemoveCosmeticHediff_Labia.label>
+  <!--EN: Remove assimilated fat from lips.-->
+  <RV2_RemoveCosmeticHediff_Lips.description>从嘴唇移除被同化的脂肪。</RV2_RemoveCosmeticHediff_Lips.description>
+  <!--EN: Removing assimilated fat from lips-->
+  <RV2_RemoveCosmeticHediff_Lips.jobString>从嘴唇移除被同化的脂肪</RV2_RemoveCosmeticHediff_Lips.jobString>
+  <!--EN: Remove assimilated fat from lips.-->
+  <RV2_RemoveCosmeticHediff_Lips.label>从嘴唇移除被同化的脂肪。</RV2_RemoveCosmeticHediff_Lips.label>
 </LanguageData>

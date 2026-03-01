@@ -1,15 +1,747 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Euthanize a creature by cutting.-->
-  <Euthanize.description>通过切割对生物实施安乐死。</Euthanize.description>
-  <!--EN: Euthanizing by cutting.-->
-  <Euthanize.jobString>正在通过切割实施安乐死。</Euthanize.jobString>
-  <!--EN: euthanize by cut-->
-  <Euthanize.label>安乐死（切割）</Euthanize.label>
-  <!--EN: Remove a body part.-->
-  <RemoveBodyPart.description>移除一个身体部位。</RemoveBodyPart.description>
-  <!--EN: Removing body part.-->
-  <RemoveBodyPart.jobString>正在移除身体部位。</RemoveBodyPart.jobString>
-  <!--EN: remove part-->
-  <RemoveBodyPart.label>移除部位</RemoveBodyPart.label>
+  <!--EN: Attaches a bioferrite anus-->
+  <AnalSurgeryBioferriteAnus.description>附着有活铁肛门</AnalSurgeryBioferriteAnus.description>
+  <!--EN: Attaching a bioferrite anus-->
+  <AnalSurgeryBioferriteAnus.jobString>附着活铁肛门</AnalSurgeryBioferriteAnus.jobString>
+  <!--EN: attach bioferrite anus-->
+  <AnalSurgeryBioferriteAnus.label>附着活铁肛门</AnalSurgeryBioferriteAnus.label>
+  <!--EN: Attaches a cactoid anus-->
+  <AnalSurgeryCactoidAnus.description>附上包裹肛门</AnalSurgeryCactoidAnus.description>
+  <!--EN: Attaching a cactoid anus-->
+  <AnalSurgeryCactoidAnus.jobString>附上包裹肛门</AnalSurgeryCactoidAnus.jobString>
+  <!--EN: attach cactoid anus-->
+  <AnalSurgeryCactoidAnus.label>附上可可豆肛门</AnalSurgeryCactoidAnus.label>
+  <!--EN: Attaches a deer anus-->
+  <AnalSurgeryCervineAnus.description>附上一个deeranus</AnalSurgeryCervineAnus.description>
+  <!--EN: Attaching a deer anus-->
+  <AnalSurgeryCervineAnus.jobString>附上一个deeranus</AnalSurgeryCervineAnus.jobString>
+  <!--EN: attach cervine anus-->
+  <AnalSurgeryCervineAnus.label>附上塞文肛门</AnalSurgeryCervineAnus.label>
+  <!--EN: Attaches a dog anus-->
+  <AnalSurgeryDogAnus.description>绑定一条狗肛门</AnalSurgeryDogAnus.description>
+  <!--EN: Attaching a dog anus-->
+  <AnalSurgeryDogAnus.jobString>附上一条狗肛门</AnalSurgeryDogAnus.jobString>
+  <!--EN: attach dog anus-->
+  <AnalSurgeryDogAnus.label>连接狗肛门</AnalSurgeryDogAnus.label>
+  <!--EN: Attaches a dragon anus-->
+  <AnalSurgeryDragonAnus.description>附上一个dragonanus</AnalSurgeryDragonAnus.description>
+  <!--EN: Attaching a dragon anus-->
+  <AnalSurgeryDragonAnus.jobString>附上一个dragonanus</AnalSurgeryDragonAnus.jobString>
+  <!--EN: attach dragon anus-->
+  <AnalSurgeryDragonAnus.label>附加dragonanus</AnalSurgeryDragonAnus.label>
+  <!--EN: Attaches an elf anus-->
+  <AnalSurgeryElfAnus.description>附上elfanus</AnalSurgeryElfAnus.description>
+  <!--EN: Attaching an elf anus-->
+  <AnalSurgeryElfAnus.jobString>附加一个elfanus</AnalSurgeryElfAnus.jobString>
+  <!--EN: attach elf anus-->
+  <AnalSurgeryElfAnus.label>附加elfanus</AnalSurgeryElfAnus.label>
+  <!--EN: Attaches a feline anus-->
+  <AnalSurgeryFelineAnus.description>连接猫科动物肛门</AnalSurgeryFelineAnus.description>
+  <!--EN: Attaching a feline anus-->
+  <AnalSurgeryFelineAnus.jobString>将猫科动物连接肛门</AnalSurgeryFelineAnus.jobString>
+  <!--EN: attach feline anus-->
+  <AnalSurgeryFelineAnus.label>附着猫科动物肛门</AnalSurgeryFelineAnus.label>
+  <!--EN: Attaches an immaterial anus-->
+  <AnalSurgeryGhostAnus.description>附加一个无形的肛门</AnalSurgeryGhostAnus.description>
+  <!--EN: Attaching an immaterial anus-->
+  <AnalSurgeryGhostAnus.jobString>附加无形材料肛门</AnalSurgeryGhostAnus.jobString>
+  <!--EN: attach immaterial anus-->
+  <AnalSurgeryGhostAnus.label>无形地附着肛门</AnalSurgeryGhostAnus.label>
+  <!--EN: Attaches a ghoul anus-->
+  <AnalSurgeryGhoulAnus.description>附着一个食尸鬼肛门</AnalSurgeryGhoulAnus.description>
+  <!--EN: Attaching a ghoul anus-->
+  <AnalSurgeryGhoulAnus.jobString>附上食尸鬼肛门</AnalSurgeryGhoulAnus.jobString>
+  <!--EN: attach ghoul anus-->
+  <AnalSurgeryGhoulAnus.label>附着食尸鬼肛门</AnalSurgeryGhoulAnus.label>
+  <!--EN: Attaches an quine anus-->
+  <AnalSurgeryHorseAnus.description>附上奎因肛门</AnalSurgeryHorseAnus.description>
+  <!--EN: Attaching an quine anus-->
+  <AnalSurgeryHorseAnus.jobString>附加奎因肛门</AnalSurgeryHorseAnus.jobString>
+  <!--EN: attach equine anus-->
+  <AnalSurgeryHorseAnus.label>牵绊马肛门</AnalSurgeryHorseAnus.label>
+  <!--EN: Attaches a mammalian anus-->
+  <AnalSurgeryMammalAnus.description>附着哺乳动物肛门</AnalSurgeryMammalAnus.description>
+  <!--EN: Attaching a mammalian anus-->
+  <AnalSurgeryMammalAnus.jobString>将哺乳类动物连接起来肛门</AnalSurgeryMammalAnus.jobString>
+  <!--EN: attach mammal anus-->
+  <AnalSurgeryMammalAnus.label>附着哺乳动物肛门</AnalSurgeryMammalAnus.label>
+  <!--EN: Attaches a necro anus-->
+  <AnalSurgeryNecroAnus.description>绑定死灵肛门</AnalSurgeryNecroAnus.description>
+  <!--EN: Attaching a necro anus-->
+  <AnalSurgeryNecroAnus.jobString>绑定死灵肛门</AnalSurgeryNecroAnus.jobString>
+  <!--EN: attach necro anus-->
+  <AnalSurgeryNecroAnus.label>拴上死灵胡肛门</AnalSurgeryNecroAnus.label>
+  <!--EN: Attaches an orc anus-->
+  <AnalSurgeryOrcAnus.description>发射兽人肛门</AnalSurgeryOrcAnus.description>
+  <!--EN: Attaching an orc anus-->
+  <AnalSurgeryOrcAnus.jobString>发射兽人肛门</AnalSurgeryOrcAnus.jobString>
+  <!--EN: attach orc anus-->
+  <AnalSurgeryOrcAnus.label>附上兽人肛门</AnalSurgeryOrcAnus.label>
+  <!--EN: Attaches a wooden anus-->
+  <AnalSurgeryTreeAnus.description>连接木肛门</AnalSurgeryTreeAnus.description>
+  <!--EN: Attaching a wooden anus-->
+  <AnalSurgeryTreeAnus.jobString>连接木肛门</AnalSurgeryTreeAnus.jobString>
+  <!--EN: attach bark anus-->
+  <AnalSurgeryTreeAnus.label>附着树皮肛门</AnalSurgeryTreeAnus.label>
+  <!--EN: Attaches a pair of cactoid breasts-->
+  <BreastSurgeryCactoidBreasts.description>附上一对计算机乳房</BreastSurgeryCactoidBreasts.description>
+  <!--EN: Attaching a pair of cactoid breasts-->
+  <BreastSurgeryCactoidBreasts.jobString>连接一对计算机乳房</BreastSurgeryCactoidBreasts.jobString>
+  <!--EN: attach cactoid breasts-->
+  <BreastSurgeryCactoidBreasts.label>附上可可豆乳房</BreastSurgeryCactoidBreasts.label>
+  <!--EN: Attaches a pair of immaterial breasts-->
+  <BreastSurgeryGhostBreasts.description>附上一对无形的乳房</BreastSurgeryGhostBreasts.description>
+  <!--EN: Attaching a pair of immaterial breasts-->
+  <BreastSurgeryGhostBreasts.jobString>拴上一对无形的乳房</BreastSurgeryGhostBreasts.jobString>
+  <!--EN: attach immaterial breasts-->
+  <BreastSurgeryGhostBreasts.label>无形地附着乳房</BreastSurgeryGhostBreasts.label>
+  <!--EN: Attaches a pair of irradiated breasts-->
+  <BreastSurgeryGhoulBreasts.description>附上一对受照射的乳房</BreastSurgeryGhoulBreasts.description>
+  <!--EN: Attaching a pair of irradiated breasts-->
+  <BreastSurgeryGhoulBreasts.jobString>附上一对已辐射的乳房</BreastSurgeryGhoulBreasts.jobString>
+  <!--EN: attach irradiated breasts-->
+  <BreastSurgeryGhoulBreasts.label>附着射线乳房</BreastSurgeryGhoulBreasts.label>
+  <!--EN: Attaches a pair of mammalian breasts-->
+  <BreastSurgeryMammalBreasts.description>拴上一对哺乳类动物乳房</BreastSurgeryMammalBreasts.description>
+  <!--EN: Attaching a pair of mammalian breasts-->
+  <BreastSurgeryMammalBreasts.jobString>拴上一对哺乳类动物乳房</BreastSurgeryMammalBreasts.jobString>
+  <!--EN: attach mammal breasts-->
+  <BreastSurgeryMammalBreasts.label>附着哺乳动物乳房</BreastSurgeryMammalBreasts.label>
+  <!--EN: Attaches A pair of decayed breasts-->
+  <BreastSurgeryNecroBreasts.description>附上一对衰竭乳房</BreastSurgeryNecroBreasts.description>
+  <!--EN: Attaching A pair of decayed breasts-->
+  <BreastSurgeryNecroBreasts.jobString>附上一对腐烂的乳房</BreastSurgeryNecroBreasts.jobString>
+  <!--EN: attach decayed breasts-->
+  <BreastSurgeryNecroBreasts.label>连接衰竭乳房</BreastSurgeryNecroBreasts.label>
+  <!--EN: Attaches a pair of orc breasts-->
+  <BreastSurgeryOrcBreasts.description>发射一对兽人乳房</BreastSurgeryOrcBreasts.description>
+  <!--EN: Attaching a pair of orc breasts-->
+  <BreastSurgeryOrcBreasts.jobString>绑定一对兽人乳房</BreastSurgeryOrcBreasts.jobString>
+  <!--EN: attach orc breasts-->
+  <BreastSurgeryOrcBreasts.label>附上兽人乳房</BreastSurgeryOrcBreasts.label>
+  <!--EN: Attaches a pair of scaly breasts-->
+  <BreastSurgeryScaleBreasts.description>附有一对鳞片乳房</BreastSurgeryScaleBreasts.description>
+  <!--EN: Attaching a pair of scaly breasts-->
+  <BreastSurgeryScaleBreasts.jobString>拴上一对有鳞片的乳房</BreastSurgeryScaleBreasts.jobString>
+  <!--EN: attach scaly breasts-->
+  <BreastSurgeryScaleBreasts.label>附着有鳞片的乳房</BreastSurgeryScaleBreasts.label>
+  <!--EN: Attaches a pair of wooden breasts-->
+  <BreastSurgeryTreeBreasts.description>拴上一对木乳房</BreastSurgeryTreeBreasts.description>
+  <!--EN: Attaching a pair of wooden breasts-->
+  <BreastSurgeryTreeBreasts.jobString>拴上一对木乳房</BreastSurgeryTreeBreasts.jobString>
+  <!--EN: attach bark breasts-->
+  <BreastSurgeryTreeBreasts.label>附着树皮乳房</BreastSurgeryTreeBreasts.label>
+  <!--EN: Adds a bioferrite anus-->
+  <MultiAnusBioferriteAnus.description>添加活铁肛门</MultiAnusBioferriteAnus.description>
+  <!--EN: Adding a bioferrite anus-->
+  <MultiAnusBioferriteAnus.jobString>添加活铁肛门</MultiAnusBioferriteAnus.jobString>
+  <!--EN: add bioferrite anus-->
+  <MultiAnusBioferriteAnus.label>添加活铁肛门</MultiAnusBioferriteAnus.label>
+  <!--EN: Adds a cactoid anus-->
+  <MultiAnusCactoidAnus.description>添加娱乐肛门</MultiAnusCactoidAnus.description>
+  <!--EN: Adding a cactoid anus-->
+  <MultiAnusCactoidAnus.jobString>添加娱乐肛门</MultiAnusCactoidAnus.jobString>
+  <!--EN: add cactoid anus-->
+  <MultiAnusCactoidAnus.label>添加可可豆肛门</MultiAnusCactoidAnus.label>
+  <!--EN: Adds a deer anus-->
+  <MultiAnusCervineAnus.description>添加一个deeranus</MultiAnusCervineAnus.description>
+  <!--EN: Adding a deer anus-->
+  <MultiAnusCervineAnus.jobString>添加一个deeranus</MultiAnusCervineAnus.jobString>
+  <!--EN: add cervine anus-->
+  <MultiAnusCervineAnus.label>添加塞文肛门</MultiAnusCervineAnus.label>
+  <!--EN: Adds a dog anus-->
+  <MultiAnusDogAnus.description>添加一条狗肛门</MultiAnusDogAnus.description>
+  <!--EN: Adding a dog anus-->
+  <MultiAnusDogAnus.jobString>添加一条狗肛门</MultiAnusDogAnus.jobString>
+  <!--EN: add dog anus-->
+  <MultiAnusDogAnus.label>添加狗肛门</MultiAnusDogAnus.label>
+  <!--EN: Adds a dragon anus-->
+  <MultiAnusDragonAnus.description>添加一个dragonanus</MultiAnusDragonAnus.description>
+  <!--EN: Adding a dragon anus-->
+  <MultiAnusDragonAnus.jobString>添加一个dragonanus</MultiAnusDragonAnus.jobString>
+  <!--EN: add dragon anus-->
+  <MultiAnusDragonAnus.label>添加dragonanus</MultiAnusDragonAnus.label>
+  <!--EN: Adds an elf anus-->
+  <MultiAnusElfAnus.description>添加一个elfanus</MultiAnusElfAnus.description>
+  <!--EN: Adding an elf anus-->
+  <MultiAnusElfAnus.jobString>添加elfanus</MultiAnusElfAnus.jobString>
+  <!--EN: add elf anus-->
+  <MultiAnusElfAnus.label>添加elfanus</MultiAnusElfAnus.label>
+  <!--EN: Adds a feline anus-->
+  <MultiAnusFelineAnus.description>添加猫科动物肛门</MultiAnusFelineAnus.description>
+  <!--EN: Adding a feline anus-->
+  <MultiAnusFelineAnus.jobString>添加了一只猫科动物肛门</MultiAnusFelineAnus.jobString>
+  <!--EN: add feline anus-->
+  <MultiAnusFelineAnus.label>添加猫科动物肛门</MultiAnusFelineAnus.label>
+  <!--EN: Adds an immaterial anus-->
+  <MultiAnusGhostAnus.description>添加非物质肛门</MultiAnusGhostAnus.description>
+  <!--EN: Adding an immaterial anus-->
+  <MultiAnusGhostAnus.jobString>添加非物质肛门</MultiAnusGhostAnus.jobString>
+  <!--EN: add immaterial anus-->
+  <MultiAnusGhostAnus.label>添加无形的肛门</MultiAnusGhostAnus.label>
+  <!--EN: Adds a ghoul anus-->
+  <MultiAnusGhoulAnus.description>添加食尸鬼肛门</MultiAnusGhoulAnus.description>
+  <!--EN: Adding a ghoul anus-->
+  <MultiAnusGhoulAnus.jobString>添加食尸鬼肛门</MultiAnusGhoulAnus.jobString>
+  <!--EN: add ghoul anus-->
+  <MultiAnusGhoulAnus.label>添加食尸鬼肛门</MultiAnusGhoulAnus.label>
+  <!--EN: Adds an quine anus-->
+  <MultiAnusHorseAnus.description>添加奎因肛门</MultiAnusHorseAnus.description>
+  <!--EN: Adding an quine anus-->
+  <MultiAnusHorseAnus.jobString>加成肛门</MultiAnusHorseAnus.jobString>
+  <!--EN: add equine anus-->
+  <MultiAnusHorseAnus.label>添加马肛门</MultiAnusHorseAnus.label>
+  <!--EN: Adds a mammalian anus-->
+  <MultiAnusMammalAnus.description>添加一个哺乳类动物肛门</MultiAnusMammalAnus.description>
+  <!--EN: Adding a mammalian anus-->
+  <MultiAnusMammalAnus.jobString>添加一个哺乳类动物肛门</MultiAnusMammalAnus.jobString>
+  <!--EN: add mammal anus-->
+  <MultiAnusMammalAnus.label>添加哺乳动物肛门</MultiAnusMammalAnus.label>
+  <!--EN: Adds a necro anus-->
+  <MultiAnusNecroAnus.description>添加死灵肛门</MultiAnusNecroAnus.description>
+  <!--EN: Adding a necro anus-->
+  <MultiAnusNecroAnus.jobString>添加死灵肛门</MultiAnusNecroAnus.jobString>
+  <!--EN: add necro anus-->
+  <MultiAnusNecroAnus.label>添加死灵胡肛门</MultiAnusNecroAnus.label>
+  <!--EN: Adds an orc anus-->
+  <MultiAnusOrcAnus.description>添加兽人肛门</MultiAnusOrcAnus.description>
+  <!--EN: Adding an orc anus-->
+  <MultiAnusOrcAnus.jobString>添加兽人肛门</MultiAnusOrcAnus.jobString>
+  <!--EN: add orc anus-->
+  <MultiAnusOrcAnus.label>添加兽人肛门</MultiAnusOrcAnus.label>
+  <!--EN: Adds a wooden anus-->
+  <MultiAnusTreeAnus.description>添加木材肛门</MultiAnusTreeAnus.description>
+  <!--EN: Adding a wooden anus-->
+  <MultiAnusTreeAnus.jobString>添加木材肛门</MultiAnusTreeAnus.jobString>
+  <!--EN: add bark anus-->
+  <MultiAnusTreeAnus.label>加入树皮肛门</MultiAnusTreeAnus.label>
+  <!--EN: Adds a pair of cactoid breasts-->
+  <MultiBreastCactoidBreasts.description>添加一对可可豆乳房</MultiBreastCactoidBreasts.description>
+  <!--EN: Adding a pair of cactoid breasts-->
+  <MultiBreastCactoidBreasts.jobString>加成乳房</MultiBreastCactoidBreasts.jobString>
+  <!--EN: add cactoid breasts-->
+  <MultiBreastCactoidBreasts.label>添加可可豆乳房</MultiBreastCactoidBreasts.label>
+  <!--EN: Adds a pair of immaterial breasts-->
+  <MultiBreastGhostBreasts.description>添加了一对无形的乳房</MultiBreastGhostBreasts.description>
+  <!--EN: Adding a pair of immaterial breasts-->
+  <MultiBreastGhostBreasts.jobString>添加一对无形的乳房</MultiBreastGhostBreasts.jobString>
+  <!--EN: add immaterial breasts-->
+  <MultiBreastGhostBreasts.label>添加无形的乳房</MultiBreastGhostBreasts.label>
+  <!--EN: Adds a pair of irradiated breasts-->
+  <MultiBreastGhoulBreasts.description>添加一对辐照乳房</MultiBreastGhoulBreasts.description>
+  <!--EN: Adding a pair of irradiated breasts-->
+  <MultiBreastGhoulBreasts.jobString>添加一对辐照乳房</MultiBreastGhoulBreasts.jobString>
+  <!--EN: add irradiated breasts-->
+  <MultiBreastGhoulBreasts.label>添加辐射乳房</MultiBreastGhoulBreasts.label>
+  <!--EN: Adds a pair of mammalian breasts-->
+  <MultiBreastMammalBreasts.description>添加一对哺乳类动物乳房</MultiBreastMammalBreasts.description>
+  <!--EN: Adding a pair of mammalian breasts-->
+  <MultiBreastMammalBreasts.jobString>添加一对哺乳类动物乳房</MultiBreastMammalBreasts.jobString>
+  <!--EN: add mammal breasts-->
+  <MultiBreastMammalBreasts.label>添加哺乳动物乳房</MultiBreastMammalBreasts.label>
+  <!--EN: Adds A pair of decayed breasts-->
+  <MultiBreastNecroBreasts.description>添加一对衰竭乳房</MultiBreastNecroBreasts.description>
+  <!--EN: Adding A pair of decayed breasts-->
+  <MultiBreastNecroBreasts.jobString>添加一对衰竭乳房</MultiBreastNecroBreasts.jobString>
+  <!--EN: add decayed breasts-->
+  <MultiBreastNecroBreasts.label>添加衰竭乳房</MultiBreastNecroBreasts.label>
+  <!--EN: Adds a pair of orc breasts-->
+  <MultiBreastOrcBreasts.description>添加一对兽人乳房</MultiBreastOrcBreasts.description>
+  <!--EN: Adding a pair of orc breasts-->
+  <MultiBreastOrcBreasts.jobString>添加一对兽人乳房</MultiBreastOrcBreasts.jobString>
+  <!--EN: add orc breasts-->
+  <MultiBreastOrcBreasts.label>添加兽人乳房</MultiBreastOrcBreasts.label>
+  <!--EN: Adds a pair of scaly breasts-->
+  <MultiBreastScaleBreasts.description>添加了一对有鳞片的乳房</MultiBreastScaleBreasts.description>
+  <!--EN: Adding a pair of scaly breasts-->
+  <MultiBreastScaleBreasts.jobString>添加一对有鳞片的乳房</MultiBreastScaleBreasts.jobString>
+  <!--EN: add scaly breasts-->
+  <MultiBreastScaleBreasts.label>添加鳞片乳房</MultiBreastScaleBreasts.label>
+  <!--EN: Adds a pair of wooden breasts-->
+  <MultiBreastTreeBreasts.description>添加一对木乳房</MultiBreastTreeBreasts.description>
+  <!--EN: Adding a pair of wooden breasts-->
+  <MultiBreastTreeBreasts.jobString>添加一对木乳房</MultiBreastTreeBreasts.jobString>
+  <!--EN: add bark breasts-->
+  <MultiBreastTreeBreasts.label>加入树皮乳房</MultiBreastTreeBreasts.label>
+  <!--EN: Adds an aedeagus-->
+  <MultiPenisAedeagusPenis.description>添加一个 aedeagus</MultiPenisAedeagusPenis.description>
+  <!--EN: Adding an aedeagus-->
+  <MultiPenisAedeagusPenis.jobString>添加 aedeagus</MultiPenisAedeagusPenis.jobString>
+  <!--EN: add aedeagus-->
+  <MultiPenisAedeagusPenis.label>添加 aedeagus</MultiPenisAedeagusPenis.label>
+  <!--EN: Adds a flower's anther-->
+  <MultiPenisAntherPenis.description>添加花的另一半</MultiPenisAntherPenis.description>
+  <!--EN: Adding a flower's anther-->
+  <MultiPenisAntherPenis.jobString>添加鲜花的另一半</MultiPenisAntherPenis.jobString>
+  <!--EN: add anther-->
+  <MultiPenisAntherPenis.label>添加另一个</MultiPenisAntherPenis.label>
+  <!--EN: Adds a bear penis-->
+  <MultiPenisBearPenis.description>添加一只熊阳具/屌</MultiPenisBearPenis.description>
+  <!--EN: Adding a bear penis-->
+  <MultiPenisBearPenis.jobString>添加一只熊阳具/屌</MultiPenisBearPenis.jobString>
+  <!--EN: add bear penis-->
+  <MultiPenisBearPenis.label>添加熊阳具/屌</MultiPenisBearPenis.label>
+  <!--EN: Adds a bioferrite penis-->
+  <MultiPenisBioferritePenis.description>添加活铁阳具/屌</MultiPenisBioferritePenis.description>
+  <!--EN: Adding a bioferrite penis-->
+  <MultiPenisBioferritePenis.jobString>添加活铁阳具/屌</MultiPenisBioferritePenis.jobString>
+  <!--EN: add bioferrite penis-->
+  <MultiPenisBioferritePenis.label>添加活铁阳具/屌</MultiPenisBioferritePenis.label>
+  <!--EN: Adds a bovine penis-->
+  <MultiPenisBovinePenis.description>添加一只牛阳具/屌</MultiPenisBovinePenis.description>
+  <!--EN: Adding a bovine penis-->
+  <MultiPenisBovinePenis.jobString>添加牛阳具/屌</MultiPenisBovinePenis.jobString>
+  <!--EN: add bovine penis-->
+  <MultiPenisBovinePenis.label>添加牛阳具/屌</MultiPenisBovinePenis.label>
+  <!--EN: Adds a cactoid penis-->
+  <MultiPenisCactoidPenis.description>添加娱乐阳具/屌</MultiPenisCactoidPenis.description>
+  <!--EN: Adding a cactoid penis-->
+  <MultiPenisCactoidPenis.jobString>添加娱乐阳具/屌</MultiPenisCactoidPenis.jobString>
+  <!--EN: add cactoid penis-->
+  <MultiPenisCactoidPenis.label>添加可可豆阳具/屌</MultiPenisCactoidPenis.label>
+  <!--EN: Adds a dino penis-->
+  <MultiPenisDinoPenis.description>添加恐龙阳具/屌</MultiPenisDinoPenis.description>
+  <!--EN: Adding a dino penis-->
+  <MultiPenisDinoPenis.jobString>添加恐龙阳具/屌</MultiPenisDinoPenis.jobString>
+  <!--EN: add dino penis-->
+  <MultiPenisDinoPenis.label>添加恐龙阳具/屌</MultiPenisDinoPenis.label>
+  <!--EN: Adds an elephant penis-->
+  <MultiPenisElephantPenis.description>添加一头大象阳具/屌</MultiPenisElephantPenis.description>
+  <!--EN: Adding an elephant penis-->
+  <MultiPenisElephantPenis.jobString>添加一只大象阳具/屌</MultiPenisElephantPenis.jobString>
+  <!--EN: add elephant penis-->
+  <MultiPenisElephantPenis.label>添加大象阳具/屌</MultiPenisElephantPenis.label>
+  <!--EN: Adds an elf penis-->
+  <MultiPenisElfPenis.description>添加一个elfpenis</MultiPenisElfPenis.description>
+  <!--EN: Adding an elf penis-->
+  <MultiPenisElfPenis.jobString>添加elfpenis</MultiPenisElfPenis.jobString>
+  <!--EN: add elf penis-->
+  <MultiPenisElfPenis.label>添加elfpenis</MultiPenisElfPenis.label>
+  <!--EN: Adds an immaterial penis-->
+  <MultiPenisGhostPenis.description>添加非物质阳具/屌</MultiPenisGhostPenis.description>
+  <!--EN: Adding an immaterial penis-->
+  <MultiPenisGhostPenis.jobString>添加非物质阳具/屌</MultiPenisGhostPenis.jobString>
+  <!--EN: add immaterial penis-->
+  <MultiPenisGhostPenis.label>添加无形的阳具/屌</MultiPenisGhostPenis.label>
+  <!--EN: Adds an ghoul penis-->
+  <MultiPenisGhoulPenis.description>添加食尸鬼阳具/屌</MultiPenisGhoulPenis.description>
+  <!--EN: Adding an ghoul penis-->
+  <MultiPenisGhoulPenis.jobString>添加食尸鬼阳具/屌</MultiPenisGhoulPenis.jobString>
+  <!--EN: add ghoul penis-->
+  <MultiPenisGhoulPenis.label>添加食尸鬼阳具/屌</MultiPenisGhoulPenis.label>
+  <!--EN: Adds a golem penis-->
+  <MultiPenisGolemPenis.description>添加傀儡阳具/屌</MultiPenisGolemPenis.description>
+  <!--EN: Adding a golem penis-->
+  <MultiPenisGolemPenis.jobString>添加一个傀儡阳具/屌</MultiPenisGolemPenis.jobString>
+  <!--EN: add golem penis-->
+  <MultiPenisGolemPenis.label>添加傀儡阳具/屌</MultiPenisGolemPenis.label>
+  <!--EN: Adds a mammalian penis-->
+  <MultiPenisMammalPenis.description>添加一个哺乳类动物阳具/屌</MultiPenisMammalPenis.description>
+  <!--EN: Adding a mammalian penis-->
+  <MultiPenisMammalPenis.jobString>添加一个哺乳类动物阳具/屌</MultiPenisMammalPenis.jobString>
+  <!--EN: add mammal penis-->
+  <MultiPenisMammalPenis.label>添加哺乳动物阳具/屌</MultiPenisMammalPenis.label>
+  <!--EN: Adds a marine mammal penis-->
+  <MultiPenisMarinePenis.description>添加海洋哺乳动物阳具/屌</MultiPenisMarinePenis.description>
+  <!--EN: Adding a marine mammal penis-->
+  <MultiPenisMarinePenis.jobString>添加一只海洋哺乳动物阳具/屌</MultiPenisMarinePenis.jobString>
+  <!--EN: add marine penis-->
+  <MultiPenisMarinePenis.label>添加陆战队员阳具/屌</MultiPenisMarinePenis.label>
+  <!--EN: Adds a monkey penis-->
+  <MultiPenisMonkeyPenis.description>添加一只猴子阳具/屌</MultiPenisMonkeyPenis.description>
+  <!--EN: Adding a monkey penis-->
+  <MultiPenisMonkeyPenis.jobString>添加一只猴子阳具/屌</MultiPenisMonkeyPenis.jobString>
+  <!--EN: add monkey penis-->
+  <MultiPenisMonkeyPenis.label>添加猴类阳具/屌</MultiPenisMonkeyPenis.label>
+  <!--EN: Adds a necro penis-->
+  <MultiPenisNecroPenis.description>添加死灵阳具/屌</MultiPenisNecroPenis.description>
+  <!--EN: Adding a necro penis-->
+  <MultiPenisNecroPenis.jobString>添加死灵阳具/屌</MultiPenisNecroPenis.jobString>
+  <!--EN: add necro penis-->
+  <MultiPenisNecroPenis.label>添加死灵胡阳具/屌</MultiPenisNecroPenis.label>
+  <!--EN: Adds an orc penis-->
+  <MultiPenisOrcPenis.description>添加兽人阳具/屌</MultiPenisOrcPenis.description>
+  <!--EN: Adding an orc penis-->
+  <MultiPenisOrcPenis.jobString>添加兽人阳具/屌</MultiPenisOrcPenis.jobString>
+  <!--EN: add orc penis-->
+  <MultiPenisOrcPenis.label>添加兽人阳具/屌</MultiPenisOrcPenis.label>
+  <!--EN: Adds a pig penis-->
+  <MultiPenisPigPenis.description>添加一个pigpenis</MultiPenisPigPenis.description>
+  <!--EN: Adding a pig penis-->
+  <MultiPenisPigPenis.jobString>添加一个pigpenis</MultiPenisPigPenis.jobString>
+  <!--EN: add pig penis-->
+  <MultiPenisPigPenis.label>添加pigpenis</MultiPenisPigPenis.label>
+  <!--EN: Adds a reptile penis-->
+  <MultiPenisReptilePenis.description>添加爬行动物阳具/屌</MultiPenisReptilePenis.description>
+  <!--EN: Adding a reptile penis-->
+  <MultiPenisReptilePenis.jobString>添加爬行动物阳具/屌</MultiPenisReptilePenis.jobString>
+  <!--EN: add reptile penis-->
+  <MultiPenisReptilePenis.label>添加爬行动物阳具/屌</MultiPenisReptilePenis.label>
+  <!--EN: Adds reproductive tentacles-->
+  <MultiPenisTentaclePenis.description>添加了生殖触手</MultiPenisTentaclePenis.description>
+  <!--EN: Adding reproductive tentacles-->
+  <MultiPenisTentaclePenis.jobString>添加生殖触手</MultiPenisTentaclePenis.jobString>
+  <!--EN: add tentacles-->
+  <MultiPenisTentaclePenis.label>添加触手</MultiPenisTentaclePenis.label>
+  <!--EN: Adds a wooden penis-->
+  <MultiPenisTreePenis.description>添加木材阳具/屌</MultiPenisTreePenis.description>
+  <!--EN: Adding a wooden penis-->
+  <MultiPenisTreePenis.jobString>添加木材阳具/屌</MultiPenisTreePenis.jobString>
+  <!--EN: add bark penis-->
+  <MultiPenisTreePenis.label>加入树皮阳具/屌</MultiPenisTreePenis.label>
+  <!--EN: Adds a turtle penis-->
+  <MultiPenisTurtlePenis.description>添加一只龟阳具/屌</MultiPenisTurtlePenis.description>
+  <!--EN: Adding a turtle penis-->
+  <MultiPenisTurtlePenis.jobString>添加一只龟阳具/屌</MultiPenisTurtlePenis.jobString>
+  <!--EN: add turtle penis-->
+  <MultiPenisTurtlePenis.label>添加龟阳具/屌</MultiPenisTurtlePenis.label>
+  <!--EN: Adds a mass of vines-->
+  <MultiPenisVinePenis.description>添加葡萄树块</MultiPenisVinePenis.description>
+  <!--EN: Adding a mass of vines-->
+  <MultiPenisVinePenis.jobString>添加大量藤蔓植物</MultiPenisVinePenis.jobString>
+  <!--EN: add vines-->
+  <MultiPenisVinePenis.label>添加藤蔓植物</MultiPenisVinePenis.label>
+  <!--EN: Adds a bioferrite vagina-->
+  <MultiVaginaBioferriteVagina.description>添加活铁阴道</MultiVaginaBioferriteVagina.description>
+  <!--EN: Adding a bioferrite vagina-->
+  <MultiVaginaBioferriteVagina.jobString>添加活铁阴道</MultiVaginaBioferriteVagina.jobString>
+  <!--EN: add bioferrite vagina-->
+  <MultiVaginaBioferriteVagina.label>添加活铁阴道</MultiVaginaBioferriteVagina.label>
+  <!--EN: Adds a bovine vagina-->
+  <MultiVaginaBovineVagina.description>添加一只牛阴道</MultiVaginaBovineVagina.description>
+  <!--EN: Adding a bovine vagina-->
+  <MultiVaginaBovineVagina.jobString>添加牛阴道</MultiVaginaBovineVagina.jobString>
+  <!--EN: add bovine vagina-->
+  <MultiVaginaBovineVagina.label>添加牛阴道</MultiVaginaBovineVagina.label>
+  <!--EN: Adds a cactoid vagina-->
+  <MultiVaginaCactoidVagina.description>添加娱乐阴道</MultiVaginaCactoidVagina.description>
+  <!--EN: Adding a cactoid vagina-->
+  <MultiVaginaCactoidVagina.jobString>添加娱乐阴道</MultiVaginaCactoidVagina.jobString>
+  <!--EN: add cactoid vagina-->
+  <MultiVaginaCactoidVagina.label>添加可可豆阴道</MultiVaginaCactoidVagina.label>
+  <!--EN: Adds a female demon tentacle-->
+  <MultiVaginaDemonTentaclesF.description>添加一个母魔触手</MultiVaginaDemonTentaclesF.description>
+  <!--EN: Adding a female demon tentacle-->
+  <MultiVaginaDemonTentaclesF.jobString>添加一个母魔触手</MultiVaginaDemonTentaclesF.jobString>
+  <!--EN: add demon tentacle-->
+  <MultiVaginaDemonTentaclesF.label>添加恶魔触手</MultiVaginaDemonTentaclesF.label>
+  <!--EN: Adds an elephant vagina-->
+  <MultiVaginaElephantVagina.description>添加一头大象阴道</MultiVaginaElephantVagina.description>
+  <!--EN: Adding an elephant vagina-->
+  <MultiVaginaElephantVagina.jobString>添加一只大象阴道</MultiVaginaElephantVagina.jobString>
+  <!--EN: add elephant vagina-->
+  <MultiVaginaElephantVagina.label>添加大象阴道</MultiVaginaElephantVagina.label>
+  <!--EN: Adds an elf vagina-->
+  <MultiVaginaElfVagina.description>添加一个elfvagina</MultiVaginaElfVagina.description>
+  <!--EN: Adding an elf vagina-->
+  <MultiVaginaElfVagina.jobString>添加elfvagina</MultiVaginaElfVagina.jobString>
+  <!--EN: add elf vagina-->
+  <MultiVaginaElfVagina.label>添加elfvagina</MultiVaginaElfVagina.label>
+  <!--EN: Adds an immaterial vagina-->
+  <MultiVaginaGhostVagina.description>添加非物质阴道</MultiVaginaGhostVagina.description>
+  <!--EN: Adding an immaterial vagina-->
+  <MultiVaginaGhostVagina.jobString>添加非物质阴道</MultiVaginaGhostVagina.jobString>
+  <!--EN: add immaterial vagina-->
+  <MultiVaginaGhostVagina.label>添加无形的阴道</MultiVaginaGhostVagina.label>
+  <!--EN: Adds a ghoul vagina-->
+  <MultiVaginaGhoulVagina.description>添加食尸鬼阴道</MultiVaginaGhoulVagina.description>
+  <!--EN: Adding a ghoul vagina-->
+  <MultiVaginaGhoulVagina.jobString>添加食尸鬼阴道</MultiVaginaGhoulVagina.jobString>
+  <!--EN: add ghoul vagina-->
+  <MultiVaginaGhoulVagina.label>添加食尸鬼阴道</MultiVaginaGhoulVagina.label>
+  <!--EN: Adds a hyena pseudo-penis-->
+  <MultiVaginaHyenaVagina.description>添加一个鬣狗伪-阳具/屌</MultiVaginaHyenaVagina.description>
+  <!--EN: Adding a hyena pseudo-penis-->
+  <MultiVaginaHyenaVagina.jobString>添加一条鬣狗伪-阳具/屌</MultiVaginaHyenaVagina.jobString>
+  <!--EN: add hyena pseudo-penis-->
+  <MultiVaginaHyenaVagina.label>添加鬣狗阳具/屌</MultiVaginaHyenaVagina.label>
+  <!--EN: Adds a mammalian vagina-->
+  <MultiVaginaMammalVagina.description>添加一个哺乳类动物阴道</MultiVaginaMammalVagina.description>
+  <!--EN: Adding a mammalian vagina-->
+  <MultiVaginaMammalVagina.jobString>添加一个哺乳类动物阴道</MultiVaginaMammalVagina.jobString>
+  <!--EN: add mammal vagina-->
+  <MultiVaginaMammalVagina.label>添加哺乳动物阴道</MultiVaginaMammalVagina.label>
+  <!--EN: Adds a marine mammal vagina-->
+  <MultiVaginaMarineVagina.description>添加海洋哺乳动物阴道</MultiVaginaMarineVagina.description>
+  <!--EN: Adding a marine mammal vagina-->
+  <MultiVaginaMarineVagina.jobString>添加一只海洋哺乳动物阴道</MultiVaginaMarineVagina.jobString>
+  <!--EN: add marine vagina-->
+  <MultiVaginaMarineVagina.label>添加陆战队员阴道</MultiVaginaMarineVagina.label>
+  <!--EN: Adds a necro vagina-->
+  <MultiVaginaNecroVagina.description>添加死灵阴道</MultiVaginaNecroVagina.description>
+  <!--EN: Adding a necro vagina-->
+  <MultiVaginaNecroVagina.jobString>添加死灵阴道</MultiVaginaNecroVagina.jobString>
+  <!--EN: add necro vagina-->
+  <MultiVaginaNecroVagina.label>添加死灵胡阴道</MultiVaginaNecroVagina.label>
+  <!--EN: Adds an orc vagina-->
+  <MultiVaginaOrcVagina.description>添加兽人阴道</MultiVaginaOrcVagina.description>
+  <!--EN: Adding an orc vagina-->
+  <MultiVaginaOrcVagina.jobString>添加兽人阴道</MultiVaginaOrcVagina.jobString>
+  <!--EN: add orc vagina-->
+  <MultiVaginaOrcVagina.label>添加兽人阴道</MultiVaginaOrcVagina.label>
+  <!--EN: Adds an ovipore-->
+  <MultiVaginaOviporeVagina.description>添加卵细胞</MultiVaginaOviporeVagina.description>
+  <!--EN: Adding an ovipore-->
+  <MultiVaginaOviporeVagina.jobString>添加卵细胞</MultiVaginaOviporeVagina.jobString>
+  <!--EN: add ovipore-->
+  <MultiVaginaOviporeVagina.label>添加卵细胞</MultiVaginaOviporeVagina.label>
+  <!--EN: Adds a pig vagina-->
+  <MultiVaginaPigVagina.description>添加一个pigvagina</MultiVaginaPigVagina.description>
+  <!--EN: Adding a pig vagina-->
+  <MultiVaginaPigVagina.jobString>添加一个pigvagina</MultiVaginaPigVagina.jobString>
+  <!--EN: add pig vagina-->
+  <MultiVaginaPigVagina.label>添加pigvagina</MultiVaginaPigVagina.label>
+  <!--EN: Adds a flower's pistil-->
+  <MultiVaginaPistilVagina.description>添加花的雌蕊</MultiVaginaPistilVagina.description>
+  <!--EN: Adding a flower's pistil-->
+  <MultiVaginaPistilVagina.jobString>添加花的雌蕊</MultiVaginaPistilVagina.jobString>
+  <!--EN: add pistil-->
+  <MultiVaginaPistilVagina.label>添加雌蕊</MultiVaginaPistilVagina.label>
+  <!--EN: Adds a wooden vagina-->
+  <MultiVaginaTreeVagina.description>添加木材阴道</MultiVaginaTreeVagina.description>
+  <!--EN: Adding a wooden vagina-->
+  <MultiVaginaTreeVagina.jobString>添加木材阴道</MultiVaginaTreeVagina.jobString>
+  <!--EN: add bark vagina-->
+  <MultiVaginaTreeVagina.label>加入树皮阴道</MultiVaginaTreeVagina.label>
+  <!--EN: Attaches an aedeagus-->
+  <SexReassignmentPAedeagusPenis.description>发射一枚 aedeagus</SexReassignmentPAedeagusPenis.description>
+  <!--EN: Attaching an aedeagus-->
+  <SexReassignmentPAedeagusPenis.jobString>附上 aedeagus</SexReassignmentPAedeagusPenis.jobString>
+  <!--EN: attach aedeagus-->
+  <SexReassignmentPAedeagusPenis.label>附上 aedeagus</SexReassignmentPAedeagusPenis.label>
+  <!--EN: Attaches a flower's anther-->
+  <SexReassignmentPAntherPenis.description>将花植入</SexReassignmentPAntherPenis.description>
+  <!--EN: Attaching a flower's anther-->
+  <SexReassignmentPAntherPenis.jobString>将花的另一半连接</SexReassignmentPAntherPenis.jobString>
+  <!--EN: attach anther-->
+  <SexReassignmentPAntherPenis.label>连接另一个</SexReassignmentPAntherPenis.label>
+  <!--EN: Attaches a bear penis-->
+  <SexReassignmentPBearPenis.description>拴上一只熊阳具/屌</SexReassignmentPBearPenis.description>
+  <!--EN: Attaching a bear penis-->
+  <SexReassignmentPBearPenis.jobString>拴上一只熊阳具/屌</SexReassignmentPBearPenis.jobString>
+  <!--EN: attach bear penis-->
+  <SexReassignmentPBearPenis.label>连接熊阳具/屌</SexReassignmentPBearPenis.label>
+  <!--EN: Attaches a bioferrite penis-->
+  <SexReassignmentPBioferritePenis.description>附着有活铁阳具/屌</SexReassignmentPBioferritePenis.description>
+  <!--EN: Attaching a bioferrite penis-->
+  <SexReassignmentPBioferritePenis.jobString>附着活铁阳具/屌</SexReassignmentPBioferritePenis.jobString>
+  <!--EN: attach bioferrite penis-->
+  <SexReassignmentPBioferritePenis.label>附着活铁阳具/屌</SexReassignmentPBioferritePenis.label>
+  <!--EN: Attaches a bovine penis-->
+  <SexReassignmentPBovinePenis.description>附着一只牛阳具/屌</SexReassignmentPBovinePenis.description>
+  <!--EN: Attaching a bovine penis-->
+  <SexReassignmentPBovinePenis.jobString>拴住牛阳具/屌</SexReassignmentPBovinePenis.jobString>
+  <!--EN: attach bovine penis-->
+  <SexReassignmentPBovinePenis.label>牵绊牛阳具/屌</SexReassignmentPBovinePenis.label>
+  <!--EN: Attaches a cactoid penis-->
+  <SexReassignmentPCactoidPenis.description>附上包裹阳具/屌</SexReassignmentPCactoidPenis.description>
+  <!--EN: Attaching a cactoid penis-->
+  <SexReassignmentPCactoidPenis.jobString>附上包裹阳具/屌</SexReassignmentPCactoidPenis.jobString>
+  <!--EN: attach cactoid penis-->
+  <SexReassignmentPCactoidPenis.label>附上可可豆阳具/屌</SexReassignmentPCactoidPenis.label>
+  <!--EN: Attaches a dino penis-->
+  <SexReassignmentPDinoPenis.description>发射恐龙阳具/屌</SexReassignmentPDinoPenis.description>
+  <!--EN: Attaching a dino penis-->
+  <SexReassignmentPDinoPenis.jobString>正在连接恐龙阳具/屌</SexReassignmentPDinoPenis.jobString>
+  <!--EN: attach dino penis-->
+  <SexReassignmentPDinoPenis.label>连接恐龙阳具/屌</SexReassignmentPDinoPenis.label>
+  <!--EN: Attaches an elephant penis-->
+  <SexReassignmentPElephantPenis.description>收容大象阳具/屌</SexReassignmentPElephantPenis.description>
+  <!--EN: Attaching an elephant penis-->
+  <SexReassignmentPElephantPenis.jobString>拴上大象阳具/屌</SexReassignmentPElephantPenis.jobString>
+  <!--EN: attach elephant penis-->
+  <SexReassignmentPElephantPenis.label>拴上大象阳具/屌</SexReassignmentPElephantPenis.label>
+  <!--EN: Attaches an elf penis-->
+  <SexReassignmentPElfPenis.description>附上elfpenis</SexReassignmentPElfPenis.description>
+  <!--EN: Attaching an elf penis-->
+  <SexReassignmentPElfPenis.jobString>附加一个elfpenis</SexReassignmentPElfPenis.jobString>
+  <!--EN: attach elf penis-->
+  <SexReassignmentPElfPenis.label>附加elfpenis</SexReassignmentPElfPenis.label>
+  <!--EN: Attaches an immaterial penis-->
+  <SexReassignmentPGhostPenis.description>附加一个无形的阳具/屌</SexReassignmentPGhostPenis.description>
+  <!--EN: Attaching an immaterial penis-->
+  <SexReassignmentPGhostPenis.jobString>附加无形材料阳具/屌</SexReassignmentPGhostPenis.jobString>
+  <!--EN: attach immaterial penis-->
+  <SexReassignmentPGhostPenis.label>无形地附着阳具/屌</SexReassignmentPGhostPenis.label>
+  <!--EN: Attaches an ghoul penis-->
+  <SexReassignmentPGhoulPenis.description>附着一个食尸鬼阳具/屌</SexReassignmentPGhoulPenis.description>
+  <!--EN: Attaching an ghoul penis-->
+  <SexReassignmentPGhoulPenis.jobString>附上食尸鬼阳具/屌</SexReassignmentPGhoulPenis.jobString>
+  <!--EN: attach ghoul penis-->
+  <SexReassignmentPGhoulPenis.label>附着食尸鬼阳具/屌</SexReassignmentPGhoulPenis.label>
+  <!--EN: Attaches a golem penis-->
+  <SexReassignmentPGolemPenis.description>绑定一个傀儡阳具/屌</SexReassignmentPGolemPenis.description>
+  <!--EN: Attaching a golem penis-->
+  <SexReassignmentPGolemPenis.jobString>绑定一个傀儡阳具/屌</SexReassignmentPGolemPenis.jobString>
+  <!--EN: attach golem penis-->
+  <SexReassignmentPGolemPenis.label>附上傀儡阳具/屌</SexReassignmentPGolemPenis.label>
+  <!--EN: Attaches a mammalian penis-->
+  <SexReassignmentPMammalPenis.description>附着哺乳动物阳具/屌</SexReassignmentPMammalPenis.description>
+  <!--EN: Attaching a mammalian penis-->
+  <SexReassignmentPMammalPenis.jobString>将哺乳类动物连接起来阳具/屌</SexReassignmentPMammalPenis.jobString>
+  <!--EN: attach mammal penis-->
+  <SexReassignmentPMammalPenis.label>附着哺乳动物阳具/屌</SexReassignmentPMammalPenis.label>
+  <!--EN: Attaches a marine mammal penis-->
+  <SexReassignmentPMarinePenis.description>附着一只海洋哺乳动物阳具/屌</SexReassignmentPMarinePenis.description>
+  <!--EN: Attaching a marine mammal penis-->
+  <SexReassignmentPMarinePenis.jobString>连接海洋哺乳动物阳具/屌</SexReassignmentPMarinePenis.jobString>
+  <!--EN: attach marine penis-->
+  <SexReassignmentPMarinePenis.label>附上陆战队员阳具/屌</SexReassignmentPMarinePenis.label>
+  <!--EN: Attaches a monkey penis-->
+  <SexReassignmentPMonkeyPenis.description>附上一只猴子阳具/屌</SexReassignmentPMonkeyPenis.description>
+  <!--EN: Attaching a monkey penis-->
+  <SexReassignmentPMonkeyPenis.jobString>拴上一只猴子阳具/屌</SexReassignmentPMonkeyPenis.jobString>
+  <!--EN: attach monkey penis-->
+  <SexReassignmentPMonkeyPenis.label>附上猴类阳具/屌</SexReassignmentPMonkeyPenis.label>
+  <!--EN: Attaches a necro penis-->
+  <SexReassignmentPNecroPenis.description>绑定死灵阳具/屌</SexReassignmentPNecroPenis.description>
+  <!--EN: Attaching a necro penis-->
+  <SexReassignmentPNecroPenis.jobString>绑定死灵阳具/屌</SexReassignmentPNecroPenis.jobString>
+  <!--EN: attach necro penis-->
+  <SexReassignmentPNecroPenis.label>拴上死灵胡阳具/屌</SexReassignmentPNecroPenis.label>
+  <!--EN: Attaches an orc penis-->
+  <SexReassignmentPOrcPenis.description>发射兽人阳具/屌</SexReassignmentPOrcPenis.description>
+  <!--EN: Attaching an orc penis-->
+  <SexReassignmentPOrcPenis.jobString>发射兽人阳具/屌</SexReassignmentPOrcPenis.jobString>
+  <!--EN: attach orc penis-->
+  <SexReassignmentPOrcPenis.label>附上兽人阳具/屌</SexReassignmentPOrcPenis.label>
+  <!--EN: Attaches a pig penis-->
+  <SexReassignmentPPigPenis.description>附上一个pigpenis</SexReassignmentPPigPenis.description>
+  <!--EN: Attaching a pig penis-->
+  <SexReassignmentPPigPenis.jobString>附上一个pigpenis</SexReassignmentPPigPenis.jobString>
+  <!--EN: attach pig penis-->
+  <SexReassignmentPPigPenis.label>附加pigpenis</SexReassignmentPPigPenis.label>
+  <!--EN: Attaches a reptile penis-->
+  <SexReassignmentPReptilePenis.description>附着爬行动物阳具/屌</SexReassignmentPReptilePenis.description>
+  <!--EN: Attaching a reptile penis-->
+  <SexReassignmentPReptilePenis.jobString>附着爬行动物阳具/屌</SexReassignmentPReptilePenis.jobString>
+  <!--EN: attach reptile penis-->
+  <SexReassignmentPReptilePenis.label>附着爬行动物阳具/屌</SexReassignmentPReptilePenis.label>
+  <!--EN: Attaches reproductive tentacles-->
+  <SexReassignmentPTentaclePenis.description>附着生殖触手</SexReassignmentPTentaclePenis.description>
+  <!--EN: Attaching reproductive tentacles-->
+  <SexReassignmentPTentaclePenis.jobString>附加生殖触手</SexReassignmentPTentaclePenis.jobString>
+  <!--EN: attach tentacles-->
+  <SexReassignmentPTentaclePenis.label>附上触手</SexReassignmentPTentaclePenis.label>
+  <!--EN: Attaches a wooden penis-->
+  <SexReassignmentPTreePenis.description>连接木阳具/屌</SexReassignmentPTreePenis.description>
+  <!--EN: Attaching a wooden penis-->
+  <SexReassignmentPTreePenis.jobString>连接木阳具/屌</SexReassignmentPTreePenis.jobString>
+  <!--EN: attach bark penis-->
+  <SexReassignmentPTreePenis.label>附着树皮阳具/屌</SexReassignmentPTreePenis.label>
+  <!--EN: Attaches a turtle penis-->
+  <SexReassignmentPTurtlePenis.description>附着一只龟阳具/屌</SexReassignmentPTurtlePenis.description>
+  <!--EN: Attaching a turtle penis-->
+  <SexReassignmentPTurtlePenis.jobString>拴上一只龟阳具/屌</SexReassignmentPTurtlePenis.jobString>
+  <!--EN: attach turtle penis-->
+  <SexReassignmentPTurtlePenis.label>拴上龟阳具/屌</SexReassignmentPTurtlePenis.label>
+  <!--EN: Attaches a mass of vines-->
+  <SexReassignmentPVinePenis.description>附着一团藤蔓植物</SexReassignmentPVinePenis.description>
+  <!--EN: Attaching a mass of vines-->
+  <SexReassignmentPVinePenis.jobString>附着一团藤蔓植物</SexReassignmentPVinePenis.jobString>
+  <!--EN: attach vines-->
+  <SexReassignmentPVinePenis.label>连接藤蔓植物</SexReassignmentPVinePenis.label>
+  <!--EN: Attaches a bioferrite vagina-->
+  <SexReassignmentVBioferriteVagina.description>附着有活铁阴道</SexReassignmentVBioferriteVagina.description>
+  <!--EN: Attaching a bioferrite vagina-->
+  <SexReassignmentVBioferriteVagina.jobString>附着活铁阴道</SexReassignmentVBioferriteVagina.jobString>
+  <!--EN: attach bioferrite vagina-->
+  <SexReassignmentVBioferriteVagina.label>附着活铁阴道</SexReassignmentVBioferriteVagina.label>
+  <!--EN: Attaches a bovine vagina-->
+  <SexReassignmentVBovineVagina.description>附着一只牛阴道</SexReassignmentVBovineVagina.description>
+  <!--EN: Attaching a bovine vagina-->
+  <SexReassignmentVBovineVagina.jobString>拴住牛阴道</SexReassignmentVBovineVagina.jobString>
+  <!--EN: attach bovine vagina-->
+  <SexReassignmentVBovineVagina.label>牵绊牛阴道</SexReassignmentVBovineVagina.label>
+  <!--EN: Attaches a cactoid vagina-->
+  <SexReassignmentVCactoidVagina.description>附上包裹阴道</SexReassignmentVCactoidVagina.description>
+  <!--EN: Attaching a cactoid vagina-->
+  <SexReassignmentVCactoidVagina.jobString>附上包裹阴道</SexReassignmentVCactoidVagina.jobString>
+  <!--EN: attach cactoid vagina-->
+  <SexReassignmentVCactoidVagina.label>附上可可豆阴道</SexReassignmentVCactoidVagina.label>
+  <!--EN: Attaches a female demon tentacle-->
+  <SexReassignmentVDemonTentaclesF.description>附上一个母魔触手</SexReassignmentVDemonTentaclesF.description>
+  <!--EN: Attaching a female demon tentacle-->
+  <SexReassignmentVDemonTentaclesF.jobString>附上一个母魔触手</SexReassignmentVDemonTentaclesF.jobString>
+  <!--EN: attach demon tentacle-->
+  <SexReassignmentVDemonTentaclesF.label>附着恶魔触手</SexReassignmentVDemonTentaclesF.label>
+  <!--EN: Attaches an elephant vagina-->
+  <SexReassignmentVElephantVagina.description>收容大象阴道</SexReassignmentVElephantVagina.description>
+  <!--EN: Attaching an elephant vagina-->
+  <SexReassignmentVElephantVagina.jobString>拴上大象阴道</SexReassignmentVElephantVagina.jobString>
+  <!--EN: attach elephant vagina-->
+  <SexReassignmentVElephantVagina.label>拴上大象阴道</SexReassignmentVElephantVagina.label>
+  <!--EN: Attaches an elf vagina-->
+  <SexReassignmentVElfVagina.description>附上elfvagina</SexReassignmentVElfVagina.description>
+  <!--EN: Attaching an elf vagina-->
+  <SexReassignmentVElfVagina.jobString>附加一个elfvagina</SexReassignmentVElfVagina.jobString>
+  <!--EN: attach elf vagina-->
+  <SexReassignmentVElfVagina.label>附加elfvagina</SexReassignmentVElfVagina.label>
+  <!--EN: Attaches an immaterial vagina-->
+  <SexReassignmentVGhostVagina.description>附加一个无形的阴道</SexReassignmentVGhostVagina.description>
+  <!--EN: Attaching an immaterial vagina-->
+  <SexReassignmentVGhostVagina.jobString>附加无形材料阴道</SexReassignmentVGhostVagina.jobString>
+  <!--EN: attach immaterial vagina-->
+  <SexReassignmentVGhostVagina.label>无形地附着阴道</SexReassignmentVGhostVagina.label>
+  <!--EN: Attaches a ghoul vagina-->
+  <SexReassignmentVGhoulVagina.description>附着一个食尸鬼阴道</SexReassignmentVGhoulVagina.description>
+  <!--EN: Attaching a ghoul vagina-->
+  <SexReassignmentVGhoulVagina.jobString>附上食尸鬼阴道</SexReassignmentVGhoulVagina.jobString>
+  <!--EN: attach ghoul vagina-->
+  <SexReassignmentVGhoulVagina.label>附着食尸鬼阴道</SexReassignmentVGhoulVagina.label>
+  <!--EN: Attaches a hyena pseudo-penis-->
+  <SexReassignmentVHyenaVagina.description>附上一个假鬣狗-阳具/屌</SexReassignmentVHyenaVagina.description>
+  <!--EN: Attaching a hyena pseudo-penis-->
+  <SexReassignmentVHyenaVagina.jobString>附上一个假鬣狗阳具/屌</SexReassignmentVHyenaVagina.jobString>
+  <!--EN: attach hyena pseudo-penis-->
+  <SexReassignmentVHyenaVagina.label>附上鬣狗阳具/屌</SexReassignmentVHyenaVagina.label>
+  <!--EN: Attaches a mammalian vagina-->
+  <SexReassignmentVMammalVagina.description>附着哺乳动物阴道</SexReassignmentVMammalVagina.description>
+  <!--EN: Attaching a mammalian vagina-->
+  <SexReassignmentVMammalVagina.jobString>将哺乳类动物连接起来阴道</SexReassignmentVMammalVagina.jobString>
+  <!--EN: attach mammal vagina-->
+  <SexReassignmentVMammalVagina.label>附着哺乳动物阴道</SexReassignmentVMammalVagina.label>
+  <!--EN: Attaches a marine mammal vagina-->
+  <SexReassignmentVMarineVagina.description>附着一只海洋哺乳动物阴道</SexReassignmentVMarineVagina.description>
+  <!--EN: Attaching a marine mammal vagina-->
+  <SexReassignmentVMarineVagina.jobString>连接海洋哺乳动物阴道</SexReassignmentVMarineVagina.jobString>
+  <!--EN: attach marine vagina-->
+  <SexReassignmentVMarineVagina.label>附上陆战队员阴道</SexReassignmentVMarineVagina.label>
+  <!--EN: Attaches a necro vagina-->
+  <SexReassignmentVNecroVagina.description>绑定死灵阴道</SexReassignmentVNecroVagina.description>
+  <!--EN: Attaching a necro vagina-->
+  <SexReassignmentVNecroVagina.jobString>绑定死灵阴道</SexReassignmentVNecroVagina.jobString>
+  <!--EN: attach necro vagina-->
+  <SexReassignmentVNecroVagina.label>拴上死灵胡阴道</SexReassignmentVNecroVagina.label>
+  <!--EN: Attaches an orc vagina-->
+  <SexReassignmentVOrcVagina.description>发射兽人阴道</SexReassignmentVOrcVagina.description>
+  <!--EN: Attaching an orc vagina-->
+  <SexReassignmentVOrcVagina.jobString>发射兽人阴道</SexReassignmentVOrcVagina.jobString>
+  <!--EN: attach orc vagina-->
+  <SexReassignmentVOrcVagina.label>附上兽人阴道</SexReassignmentVOrcVagina.label>
+  <!--EN: Attaches an ovipore-->
+  <SexReassignmentVOviporeVagina.description>附着卵细胞</SexReassignmentVOviporeVagina.description>
+  <!--EN: Attaching an ovipore-->
+  <SexReassignmentVOviporeVagina.jobString>附着卵细胞</SexReassignmentVOviporeVagina.jobString>
+  <!--EN: attach ovipore-->
+  <SexReassignmentVOviporeVagina.label>附着卵细胞</SexReassignmentVOviporeVagina.label>
+  <!--EN: Attaches a pig vagina-->
+  <SexReassignmentVPigVagina.description>附上一个pigvagina</SexReassignmentVPigVagina.description>
+  <!--EN: Attaching a pig vagina-->
+  <SexReassignmentVPigVagina.jobString>附上一个pigvagina</SexReassignmentVPigVagina.jobString>
+  <!--EN: attach pig vagina-->
+  <SexReassignmentVPigVagina.label>附加pigvagina</SexReassignmentVPigVagina.label>
+  <!--EN: Attaches a flower's pistil-->
+  <SexReassignmentVPistilVagina.description>附着花的雌蕊</SexReassignmentVPistilVagina.description>
+  <!--EN: Attaching a flower's pistil-->
+  <SexReassignmentVPistilVagina.jobString>连接花的雌蕊</SexReassignmentVPistilVagina.jobString>
+  <!--EN: attach pistil-->
+  <SexReassignmentVPistilVagina.label>附着雌蕊</SexReassignmentVPistilVagina.label>
+  <!--EN: Attaches a wooden vagina-->
+  <SexReassignmentVTreeVagina.description>连接木阴道</SexReassignmentVTreeVagina.description>
+  <!--EN: Attaching a wooden vagina-->
+  <SexReassignmentVTreeVagina.jobString>连接木阴道</SexReassignmentVTreeVagina.jobString>
+  <!--EN: attach bark vagina-->
+  <SexReassignmentVTreeVagina.label>附着树皮阴道</SexReassignmentVTreeVagina.label>
 </LanguageData>

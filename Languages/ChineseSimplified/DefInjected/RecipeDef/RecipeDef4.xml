@@ -1,45 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Install a bioscaffold.-->
-  <InstallBioscaffold.description>植入生物支架。</InstallBioscaffold.description>
-  <!--EN: Installing bioscaffold.-->
-  <InstallBioscaffold.jobString>正在植入生物支架。</InstallBioscaffold.jobString>
-  <!--EN: install bioscaffold-->
-  <InstallBioscaffold.label>植入生物支架</InstallBioscaffold.label>
-  <!--EN: Install a limbic stimulator.-->
-  <InstallLimbicStimulator.description>植入边缘刺激器。</InstallLimbicStimulator.description>
-  <!--EN: Installing limbic stimulator.-->
-  <InstallLimbicStimulator.jobString>正在植入边缘刺激器。</InstallLimbicStimulator.jobString>
-  <!--EN: install limbic stimulator-->
-  <InstallLimbicStimulator.label>植入边缘刺激器</InstallLimbicStimulator.label>
-  <!--EN: Install an ovary agitator.-->
-  <InstallOvaryAgitator.description>植入卵巢激扰器。</InstallOvaryAgitator.description>
-  <!--EN: Installing ovary agitator.-->
-  <InstallOvaryAgitator.jobString>正在植入卵巢激扰器。</InstallOvaryAgitator.jobString>
-  <!--EN: install ovary agitator-->
-  <InstallOvaryAgitator.label>植入卵巢激扰器</InstallOvaryAgitator.label>
-  <!--EN: Install a scrambler.-->
-  <InstallScrambler.description>植入扰频器。</InstallScrambler.description>
-  <!--EN: Installing scrambler.-->
-  <InstallScrambler.jobString>正在植入扰频器。</InstallScrambler.jobString>
-  <!--EN: install scrambler-->
-  <InstallScrambler.label>植入扰频器</InstallScrambler.label>
-  <!--EN: Remove the bioscaffold.-->
-  <RemoveBioscaffold.description>移除生物支架。</RemoveBioscaffold.description>
-  <!--EN: Removing bioscaffold.-->
-  <RemoveBioscaffold.jobString>正在移除生物支架。</RemoveBioscaffold.jobString>
-  <!--EN: remove Bioscaffold-->
-  <RemoveBioscaffold.label>移除生物支架</RemoveBioscaffold.label>
-  <!--EN: Remove the limbic stimulator.-->
-  <RemoveLimbicStimulator.description>移除边缘系统刺激器。</RemoveLimbicStimulator.description>
-  <!--EN: Removing limbic stimulator.-->
-  <RemoveLimbicStimulator.jobString>正在移除边缘系统刺激器。</RemoveLimbicStimulator.jobString>
-  <!--EN: remove limbic stimulator-->
-  <RemoveLimbicStimulator.label>移除边缘系统刺激器</RemoveLimbicStimulator.label>
-  <!--EN: Remove the ovary agitator.-->
-  <RemoveOvaryAgitator.description>移除卵巢激扰器。</RemoveOvaryAgitator.description>
-  <!--EN: Removing ovary agitator.-->
-  <RemoveOvaryAgitator.jobString>正在移除卵巢激扰器。</RemoveOvaryAgitator.jobString>
-  <!--EN: remove ovary agitator-->
-  <RemoveOvaryAgitator.label>移除卵巢激扰器</RemoveOvaryAgitator.label>
+  <!--EN: Contract the areolae.-->
+  <Surgery_ContractAreola.description>缩小乳晕。</Surgery_ContractAreola.description>
+  <!--EN: contracting areolae-->
+  <Surgery_ContractAreola.jobString>正在缩小乳晕</Surgery_ContractAreola.jobString>
+  <!--EN: contract areolae-->
+  <Surgery_ContractAreola.label>缩小乳晕</Surgery_ContractAreola.label>
+  <!--EN: Contract the nipples.-->
+  <Surgery_ContractNipple.description>缩小乳头。</Surgery_ContractNipple.description>
+  <!--EN: contracting nipples-->
+  <Surgery_ContractNipple.jobString>正在缩小乳头</Surgery_ContractNipple.jobString>
+  <!--EN: Contract nipples-->
+  <Surgery_ContractNipple.label>缩小乳头</Surgery_ContractNipple.label>
+  <!--EN: Darken the nipples.-->
+  <Surgery_DarkenNipple.description>加深乳头颜色。</Surgery_DarkenNipple.description>
+  <!--EN: darkening nipples-->
+  <Surgery_DarkenNipple.jobString>正在加深乳头颜色</Surgery_DarkenNipple.jobString>
+  <!--EN: Darken nipples-->
+  <Surgery_DarkenNipple.label>加深乳头颜色</Surgery_DarkenNipple.label>
+  <!--EN: Expand the areolae.-->
+  <Surgery_ExpandAreola.description>扩大乳晕。</Surgery_ExpandAreola.description>
+  <!--EN: expanding areolae-->
+  <Surgery_ExpandAreola.jobString>正在扩大乳晕</Surgery_ExpandAreola.jobString>
+  <!--EN: expand areolae-->
+  <Surgery_ExpandAreola.label>扩大乳晕</Surgery_ExpandAreola.label>
+  <!--EN: Expand the nipples.-->
+  <Surgery_ExpandNipple.description>扩大乳头。</Surgery_ExpandNipple.description>
+  <!--EN: expanding nipples-->
+  <Surgery_ExpandNipple.jobString>正在扩大乳头</Surgery_ExpandNipple.jobString>
+  <!--EN: Expand nipple-->
+  <Surgery_ExpandNipple.label>扩大乳头</Surgery_ExpandNipple.label>
+  <!--EN: Lighten the nipples.-->
+  <Surgery_LightenNipple.description>减淡乳头颜色。</Surgery_LightenNipple.description>
+  <!--EN: lightening nipples-->
+  <Surgery_LightenNipple.jobString>正在减淡乳头颜色</Surgery_LightenNipple.jobString>
+  <!--EN: Lighten nipples-->
+  <Surgery_LightenNipple.label>减淡乳头颜色</Surgery_LightenNipple.label>
 </LanguageData>

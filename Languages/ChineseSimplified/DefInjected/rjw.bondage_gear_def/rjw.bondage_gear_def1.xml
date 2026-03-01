@@ -27,15 +27,15 @@
   <!--EN: An unlocked armbinder that prevents any pawn it's attached to from using their arms.-->
   <UnlockedArmbinder.description>一个解锁的手臂束缚器，可以防止它所附着的任何棋子使用他们的手臂。</UnlockedArmbinder.description>
   <!--EN: unlocked armbinder-->
-  <UnlockedArmbinder.label>未上锁手臂束缚器</UnlockedArmbinder.label>
+  <UnlockedArmbinder.label>未上锁：手臂束缚器</UnlockedArmbinder.label>
   <!--EN: An unlocked blindfold which blocks the wearer's vision.-->
   <UnlockedBlindfold.description>一款未上锁的眼罩，可以阻挡佩戴者的视线。</UnlockedBlindfold.description>
   <!--EN: unlocked blindfold-->
-  <UnlockedBlindfold.label>未上锁眼罩</UnlockedBlindfold.label>
+  <UnlockedBlindfold.label>未上锁：眼罩</UnlockedBlindfold.label>
   <!--EN: An unlocked chastity belt that prevents sex and masturbation.-->
   <UnlockedChastityBelt.description>一种未上锁的贞操带，可以防止性交和自慰。</UnlockedChastityBelt.description>
   <!--EN: unlocked chastity belt-->
-  <UnlockedChastityBelt.label>未上锁贞操带</UnlockedChastityBelt.label>
+  <UnlockedChastityBelt.label>未上锁：贞操带</UnlockedChastityBelt.label>
   <!--EN: An unlocked chastity belt which allows anal sex.-->
   <UnlockedChastityBeltO.description>一种可以进行肛交的未上锁的贞操带。</UnlockedChastityBeltO.description>
   <!--EN: unlocked chastity belt(Open)-->
@@ -43,17 +43,17 @@
   <!--EN: An unlocked chastity cage for penises that prevents erections.-->
   <UnlockedChastityCage.description>一种用于阴茎的无锁贞操笼，可以防止勃起。</UnlockedChastityCage.description>
   <!--EN: unlocked chastity cage-->
-  <UnlockedChastityCage.label>未上锁贞操笼</UnlockedChastityCage.label>
+  <UnlockedChastityCage.label>未上锁：贞操笼</UnlockedChastityCage.label>
   <!--EN: An unlocked ball gag that prevents talking and other oral interactions.-->
   <UnlockedGagBall.description>一个未上锁的球形口塞，可以阻止说话和其他口部互动。</UnlockedGagBall.description>
   <!--EN: unlocked ball gag-->
-  <UnlockedGagBall.label>未上锁球形口塞</UnlockedGagBall.label>
+  <UnlockedGagBall.label>未上锁：球形口塞</UnlockedGagBall.label>
   <!--EN: An unlocked ring gag that prevents talking and allows oral interaction.-->
   <UnlockedGagRing.description>一种未上锁的环形口塞，可以防止说话，但允许口交。</UnlockedGagRing.description>
   <!--EN: unlocked ring gag-->
-  <UnlockedGagRing.label>未上锁环形口塞</UnlockedGagRing.label>
+  <UnlockedGagRing.label>未上锁：环形口塞</UnlockedGagRing.label>
   <!--EN: An unlocked legbinder that prevents any pawn it's attached to from using their legs.-->
   <UnlockedLegbinder.description>一种未上锁的腿部束缚器，可以阻止任何被束缚的奴隶使用双腿。</UnlockedLegbinder.description>
   <!--EN: unlocked legbinder-->
-  <UnlockedLegbinder.label>未上锁腿部束缚器</UnlockedLegbinder.label>
+  <UnlockedLegbinder.label>未上锁：腿部束缚器</UnlockedLegbinder.label>
 </LanguageData>

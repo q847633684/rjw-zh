@@ -1,17 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: cleaning self-->
-  <Cumpilation_CleanSelf.reportString>清洗自己</Cumpilation_CleanSelf.reportString>
-  <!--EN: collecting fluids-->
-  <Cumpilation_CleanSelfWithSink.reportString>收集体液</Cumpilation_CleanSelfWithSink.reportString>
-  <!--EN: Overflowing Cumflation-->
-  <Cumpilation_OverflowingCumflation.reportString>精液膨胀溢出</Cumpilation_OverflowingCumflation.reportString>
-  <!--EN: vomiting fluid.-->
-  <Cumpilation_VomitFluid.reportString>呕吐液体</Cumpilation_VomitFluid.reportString>
-  <!--EN: deflating into TargetA.-->
-  <DeflateBucket.reportString>向 TargetA 排放</DeflateBucket.reportString>
-  <!--EN: deflating into TargetA.-->
-  <DeflateClean.reportString>向 TargetA 排放</DeflateClean.reportString>
-  <!--EN: deflating onto the floor.-->
-  <DeflateDirty.reportString>向地面排放</DeflateDirty.reportString>
+  <!--EN: joining in on some fun.-->
+  <JoinInSex.reportString>参加一些有趣的活动。</JoinInSex.reportString>
+  <!--EN: sneaking a peep.-->
+  <WatchSex.reportString>偷偷地偷看。</WatchSex.reportString>
 </LanguageData>

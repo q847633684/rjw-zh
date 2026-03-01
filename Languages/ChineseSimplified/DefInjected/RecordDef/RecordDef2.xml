@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: The number of times I whored myself.-->
-  <CountOfWhore.description>我进行了多少次服务。</CountOfWhore.description>
-  <!--EN: times whored-->
-  <CountOfWhore.label>服务次数</CountOfWhore.label>
-  <!--EN: The amount of silvers I have earned as a whore.-->
-  <EarnedMoneyByWhore.description>我当娼妓总共赚了多少白银。</EarnedMoneyByWhore.description>
-  <!--EN: silvers earned as a whore-->
-  <EarnedMoneyByWhore.label>当娼妓挣来的白银</EarnedMoneyByWhore.label>
+  <!--EN: Total time spent using fuck machine (or bound to it).-->
+  <TimeOnFuckMachine.description>使用炮机（或绑在炮机上）的总时间。</TimeOnFuckMachine.description>
+  <!--EN: time on fuck machine-->
+  <TimeOnFuckMachine.label>使用炮机</TimeOnFuckMachine.label>
+  <!--EN: Total time wearing plug in butthole.-->
+  <TimePluggedAnal.description>肛塞在肛门内塞入的总时间。</TimePluggedAnal.description>
+  <!--EN: wearing anal plug-->
+  <TimePluggedAnal.label>塞上肛塞</TimePluggedAnal.label>
 </LanguageData>

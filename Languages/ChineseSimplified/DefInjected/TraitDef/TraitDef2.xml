@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
-  <!--EN: Dead people can't say no, can they?-->
-  <Necrophiliac.degreeDatas.0.description>死人永远不会拒绝，不是吗？</Necrophiliac.degreeDatas.0.description>
-  <!--EN: necrophile-->
-  <Necrophiliac.degreeDatas.0.label>恋尸癖</Necrophiliac.degreeDatas.0.label>
-  <!--EN: [PAWN_nameDef] loves sex and always wants more. Can regain psyfocus only through sex.-->
-  <Nymphomaniac.degreeDatas.0.description>[PAWN_nameDef]总是喜欢做爱而且不易满足。</Nymphomaniac.degreeDatas.0.description>
-  <!--EN: hypersexual-->
-  <Nymphomaniac.degreeDatas.0.label>性爱成瘾</Nymphomaniac.degreeDatas.0.label>
-  <!--EN: [PAWN_nameDef] doesn't take "No" as an answer.-->
-  <Rapist.degreeDatas.0.description>[PAWN_nameDef]不接受他人的拒绝……</Rapist.degreeDatas.0.description>
-  <!--EN: rapist-->
-  <Rapist.degreeDatas.0.label>强奸犯</Rapist.degreeDatas.0.label>
-  <!--EN: [PAWN_nameDef] likes to walk on the wild side.-->
-  <Zoophile.degreeDatas.0.description>[PAWN_nameDef]喜欢走在狂野的那一边。</Zoophile.degreeDatas.0.description>
-  <!--EN: zoophile-->
-  <Zoophile.degreeDatas.0.label>恋兽癖</Zoophile.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] never experienced. However, her hymen had damaged for some reason.-->
+  <Virgin.degreeDatas.0.description>[PAWN_nameDef]从未经历过性生活，但是她的处女膜因某种原因损坏了。</Virgin.degreeDatas.0.description>
+  <!--EN: damaged virgin-->
+  <Virgin.degreeDatas.0.label>处女膜破损</Virgin.degreeDatas.0.label>
+  <!--EN: [PAWN_nameDef] never experienced.-->
+  <Virgin.degreeDatas.1.description>[PAWN_nameDef]还未经人事。</Virgin.degreeDatas.1.description>
+  <!--EN: virgin-->
+  <Virgin.degreeDatas.1.label>未经人事</Virgin.degreeDatas.1.label>
+  <!--EN: [PAWN_nameDef] looks experienced. But the hymen is still there.-->
+  <Virgin.degreeDatas.2.description>[PAWN_nameDef]看起来身经百战，但她的处女膜确实还在。</Virgin.degreeDatas.2.description>
+  <!--EN: virgin?-->
+  <Virgin.degreeDatas.2.label>处女？</Virgin.degreeDatas.2.label>
+  <!--EN: [PAWN_nameDef] never experienced.-->
+  <Virgin.degreeDatas.3.description>[PAWN_nameDef]还没有和人爱爱过。</Virgin.degreeDatas.3.description>
+  <!--EN: virgin-->
+  <Virgin.degreeDatas.3.label>处女</Virgin.degreeDatas.3.label>
 </LanguageData>
