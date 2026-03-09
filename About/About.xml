@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>RJW 汉化整合包 (DD版)</name>
 	<author>q84763384</author>
@@ -9,44 +9,33 @@
 		<li>1.6</li>
 	</supportedVersions>
 	<modDependencies>
-		<li>
-			<packageId>rim.job.world</packageId>
-			<displayName>RimJob World</displayName>
-			<steamWorkshopUrl>https://gitgud.io/Ed86/rjw</steamWorkshopUrl>
-		</li>
-		<li><packageId>ed86.rjw.whorebeds</packageId></li>
-		<li><packageId>nugerumon.romancetweaksmoreoptions</packageId></li>
-		<li><packageId>eltoro.stretching</packageId></li>
-		<li><packageId>dord.nuditymattersmore</packageId></li>
-		<li><packageId>shark510.nuditymattersmoreopinions</packageId></li>
-		<li><packageId>rjw.fb</packageId></li>
-		<li><packageId>rjw.fc</packageId></li>
-		<li><packageId>ed86.rjwinsects</packageId></li>
-		<li><packageId>rjw.std</packageId></li>
-		<li><packageId>c0ffee.rimworld.animations</packageId></li>
-		<li><packageId>rjw.quirks</packageId></li>
-		<li><packageId>c0ffee.rjw.events</packageId></li>
-		<li><packageId>otyoty.sizedapparel</packageId></li>
-		<li><packageId>otyoty.sizedapparel.extended</packageId></li>
-		<li><packageId>rjw.dirtytalk</packageId></li>
-		<li><packageId>abscon.privacy.please</packageId></li>
-		<!--<li><packageId>calamabanana.rjw.brothelcolony</packageId></li>-->
-		<li><packageId>rimworld.ekss.rjwex</packageId></li>
-		<li><packageId>vegapnk.rjw.genes</packageId></li>
-		<li><packageId>rjw.sexperience</packageId></li>
-		<li><packageId>rjw.sexperience.ideology</packageId></li>
-		<li><packageId>rjw.menstruation</packageId></li>
-		<li><packageId>hehehew.sizedapparelforslaves</packageId></li>
-		<li><packageId>teacher.uap</packageId></li>
-		<!--Onahole 扩展	导致 Onahole_Mimic 贴图裁剪异常，CE 裁剪报错
-		<li><packageId>rim.job.world.onahole.ext</packageId></li>-->
-		<li><packageId>rim.job.world.pe</packageId></li>
-		<li><packageId>moth.rjw.flavor</packageId></li>
-		<li><packageId>archersaiter.rjw.traits</packageId></li>
-		<!--<li><packageId>nabber.rimvore2</packageId></li>-->
-		<!--<li><packageId>rutrix.rimvore2interactions</packageId></li>-->
-		<!--<li><packageId>mamahorseteeth.rimvore2extravores</packageId></li>-->
-		<li><packageId>asmr.rjw.racesupport</packageId></li>
+		<li><packageId>rim.job.world</packageId><displayName>RimJob World</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>ed86.rjw.whorebeds</packageId><displayName>RJW Whore Beds</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>nugerumon.romancetweaksmoreoptions</packageId><displayName>Romance Tweaks More Options</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>eltoro.stretching</packageId><displayName>RJW Stretching</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>dord.nuditymattersmore</packageId><displayName>Nudity Matters More</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>shark510.nuditymattersmoreopinions</packageId><displayName>Nudity Matters More Opinions</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>rjw.fb</packageId><displayName>RJW FB</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>rjw.fc</packageId><displayName>RJW FC</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>ed86.rjwinsects</packageId><displayName>RJW Insects</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>rjw.std</packageId><displayName>RJW STD</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>c0ffee.rimworld.animations</packageId><displayName>RJW Animations</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>rjw.quirks</packageId><displayName>RJW Quirks</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>c0ffee.rjw.events</packageId><displayName>RJW Events</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>otyoty.sizedapparel</packageId><displayName>Sized Apparel</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>otyoty.sizedapparel.extended</packageId><displayName>Sized Apparel Extended</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>abscon.privacy.please</packageId><displayName>Privacy Please</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>rimworld.ekss.rjwex</packageId><displayName>RJW Ex</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>vegapnk.rjw.genes</packageId><displayName>RJW Genes</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>rjw.sexperience</packageId><displayName>RJW Sexperience</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>rjw.sexperience.ideology</packageId><displayName>RJW Sexperience Ideology</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>rjw.menstruation</packageId><displayName>RJW Menstruation</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>hehehew.sizedapparelforslaves</packageId><displayName>Sized Apparel for Slaves</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>teacher.uap</packageId><displayName>UAP</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>rim.job.world.pe</packageId><displayName>RJW PE</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>moth.rjw.flavor</packageId><displayName>RJW Flavor</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>archersaiter.rjw.traits</packageId><displayName>RJW Traits</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
+		<li><packageId>asmr.rjw.racesupport</packageId><displayName>RJW Race Support</displayName><steamWorkshopUrl>https://steamcommunity.com/workshop/browse/?appid=294100</steamWorkshopUrl></li>
 	</modDependencies>
 	<loadAfter>
 		<li>rim.job.world</li>

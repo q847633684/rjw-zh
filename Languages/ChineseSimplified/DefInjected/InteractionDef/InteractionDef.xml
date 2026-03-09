@@ -312,7 +312,7 @@
   <Colonist_Horny.label>殖民者-性欲旺盛的</Colonist_Horny.label>
   <Colonist_Horny.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry(INITIATOR_opinion<-25, priority=1)->[bad_opinion]-->
-    <li>r_logentry(INITIATOR_opinion-25, priority=1)-&gt;[bad_opinion]</li>
+    <li>r_logentry(INITIATOR_opinion&lt;=-25, priority=1)-&gt;[bad_opinion]</li>
     <!--EN: bad_opinion->...gross-->
     <li>bad_opinion-&gt;没有。... 恶心</li>
     <!--EN: bad_opinion->...ew...-->
@@ -1288,7 +1288,7 @@
     <!--EN: is_milkproducing(INITIATOR_opinion>=25)->They're [milkproducing] wonderfully, thank you!-->
     <li>is_milkproducing(INITIATOR_opinion&gt;=25)-&gt; 他们是[milkproducing]太棒了，谢谢!</li>
     <!--EN: is_milkproducing(INITIATOR_opinion<=-25)->They're [milkproducing] more than your [boobs] possibly could, [counterpart]!-->
-    <li>is_milkproducing(INITIATOR_opinio=-25)-&gt; 他们是[milkproducing]比你的更多[boobs]可能有,[counterpart]</li>
+    <li>is_milkproducing(INITIATOR_opinion&lt;=-25)-&gt; 他们是[milkproducing]比你的更多[boobs]可能有,[counterpart]</li>
     <!--EN: is_milkproducing->They're [milkproducing] well, [counterpart].-->
     <li>is_milkproducing-&gt;他们是[milkproducing]嗯,[counterpart]</li>
     <!--EN: is_milkproducing->These [boobs] are [milkproducing] well, it feels great!-->
@@ -1302,7 +1302,7 @@
     <!--EN: not_milkproducing(INITIATOR_opinion>=25)->My [boobs] just can't compare to your [breastcompliment] [boobs]!-->
     <li>not_milkproducing(INITIATOR_opinion&gt;=25)-&gt; 我的[boobs]无法与你的相比[breastcompliment][boobs]</li>
     <!--EN: not_milkproducing(INITIATOR_opinion<=-25)->They aren't [milkproducing] at all and you know it, [counterpart]!-->
-    <li>not_milkproducing(INITIATOR_opinio=-25)-&gt; 他们不是[milkproducing]你也知道的,[counterpart]</li>
+    <li>not_milkproducing(INITIATOR_opinion&lt;=-25)-&gt; 他们不是[milkproducing]你也知道的,[counterpart]</li>
     <!--EN: not_milkproducing->They're not [milkproducing] at all, [counterpart]! It's [milkterrible]!-->
     <li>not_milkproducing-&gt;他们不是[milkproducing]完全可以,[counterpart]它是[milkterrible]</li>
     <!--EN: not_milkproducing->There's no milk coming out at all! It's [milkterrible]!-->
@@ -1318,7 +1318,7 @@
     <!--EN: is_milkproducing(INITIATOR_opinion>=25)->That's great! My [boobs] are [milkproducing] nicely too!-->
     <li>is_milkproducing(INITIATOR_opinion&gt;=25)-&gt; 太棒了!我的[boobs]是[milkproducing]太棒了!</li>
     <!--EN: is_milkproducing(INITIATOR_opinion<=-25)->I should hope so...-->
-    <li>is_milkproducing(INITIATOR_opinio=-25)-&gt; 我希望如此...</li>
+    <li>is_milkproducing(INITIATOR_opinion&lt;=-25)-&gt; 我希望如此...</li>
     <!--EN: is_milkproducing->That's good, [counterpart]. Mine are too.-->
     <li>is_milkproducing-&gt;不错,[counterpart]我的也是。</li>
     <!--EN: is_milkproducing->My [boobs] are [milkproducing] well too, doesn't it feel nice?-->
@@ -1328,7 +1328,7 @@
     <!--EN: not_milkproducing(INITIATOR_opinion>=25)->My [boobs] just can't compare to your [breastcompliment] [boobs]!-->
     <li>not_milkproducing(INITIATOR_opinion&gt;=25)-&gt; 我的[boobs]无法与你的相比[breastcompliment][boobs]</li>
     <!--EN: not_milkproducing(INITIATOR_opinion<=-25)->Your [boobs] are [milkproducing] better than mine? [milkterrible]!-->
-    <li>not_milkproducing(INITIATOR_opinio=-25)-&gt; 你的[boobs]是[milkproducing]比我的好？[milkterrible]</li>
+    <li>not_milkproducing(INITIATOR_opinion&lt;=-25)-&gt; 你的[boobs]是[milkproducing]比我的好？[milkterrible]</li>
     <!--EN: not_milkproducing->I'm jealous!-->
     <li>not_milkproducing-&gt;我有多嫉妒了!</li>
     <!--EN: r_logentry->...-->
@@ -1342,7 +1342,7 @@
     <!--EN: is_milkproducing(INITIATOR_opinion>=25)->Your [breastcompliment] [boobs] will give us plenty of tasty milk soon enough, [counterpart]!-->
     <li>is_milkproducing(INITIATOR_opinion&gt;=25)-&gt; 你的[breastcompliment][boobs]很快就会得到很多鲜美的牛奶,[counterpart]</li>
     <!--EN: is_milkproducing(INITIATOR_opinion<=-25)->You should be ashamed, [counterpart]!-->
-    <li>is_milkproducing(INITIATOR_opinio=-25)-&gt; 你应该感到羞耻,[counterpart]</li>
+    <li>is_milkproducing(INITIATOR_opinion&lt;=-25)-&gt; 你应该感到羞耻,[counterpart]</li>
     <!--EN: is_milkproducing->I'm sure your [boobs] will get there, [counterpart].-->
     <li>is_milkproducing-&gt;我敢肯定你的[boobs]会到达那里,[counterpart]</li>
     <!--EN: r_logentry(INITIATOR_thoughtLabel==not producing milk, priority=1)->[not_milkproducing]-->
@@ -1374,7 +1374,7 @@
     <!--EN: r_logentry(INITIATOR_trait==abrasive, tag=New_Colony_Masochistb)->Why do you say it like that? Are you some kind of pervert?-->
     <li>r_logentry(INITIATOR_trait==abrasive, tag=New_Colony_Masochistb)-&gt; 你为什么这样说？你是某种变态吗？</li>
     <!--EN: r_logentry(INITIATOR_opinion<-25, tag=New_Colony_Masochistb)->Why do you say it like that? Are you some kind of pervert?-->
-    <li>r_logentry(INITIATOR_opinion-25, tag=New_Colony_Masochistb)-&gt; 你为什么这样说？你是某种变态吗？</li>
+    <li>r_logentry(INITIATOR_opinion&lt;=-25, tag=New_Colony_Masochistb)-&gt; 你为什么这样说？你是某种变态吗？</li>
     <!--EN: r_logentry(INITIATOR_intellectual_level<3, priority=0.5)->Yeah, that wouldn't be good!-->
     <li>r_logentry(INITIATOR_intellectual_level3, priority=0.5)-&gt; 耶，那可不行!</li>
     <!--EN: r_logentry->Um...yeah...-->
@@ -1474,7 +1474,7 @@
   <OrgyChat.label>乱交-聊天</OrgyChat.label>
   <OrgyChat.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry(INITIATOR_opinion<-25, priority=1)->[bad_opinion]-->
-    <li>r_logentry(INITIATOR_opinion-25, priority=1)-&gt;[bad_opinion]</li>
+    <li>r_logentry(INITIATOR_opinion&lt;=-25, priority=1)-&gt;[bad_opinion]</li>
     <!--EN: bad_opinion(RECIPIENT_gender==Male)->It would've been much better without your nasty [penis] involved.-->
     <li>bad_opinion(RECIPIENT_gender==Male)-&gt; 没有你的下贱就更好了[penis]相关。</li>
     <!--EN: bad_opinion(RECIPIENT_gender==Female)->It would've been much better without your nasty [vagina] involved.-->
@@ -1660,7 +1660,7 @@
   <Sexlife_Generic_Good.label>性生活-通用-良好</Sexlife_Generic_Good.label>
   <Sexlife_Generic_Good.logRulesInitiator.rulesStrings>
     <!--EN: r_logentry(INITIATOR_opinion<-25, priority=1)->[bad_opinion]-->
-    <li>r_logentry(INITIATOR_opinion-25, priority=1)-&gt;[bad_opinion]</li>
+    <li>r_logentry(INITIATOR_opinion&lt;=-25, priority=1)-&gt;[bad_opinion]</li>
     <!--EN: bad_opinion(INITIATOR_thoughtDefName==GotRaped, RECIPIENT_trait==rapist, priority=2)->[bad_opinion_rapist]-->
     <li>bad_opinion(INITIATOR_thoughtDefName==GotRaped, RECIPIENT_trait==rapist, priority=2)-&gt;[bad_opinion_rapist]</li>
     <!--EN: bad_opinion(INITIATOR_thoughtDefName==GotRaped, RECIPIENT_thoughtLabel==stole some lovin’, priority=2)->[bad_opinion_rapist]-->

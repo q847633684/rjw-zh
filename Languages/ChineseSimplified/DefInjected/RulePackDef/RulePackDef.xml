@@ -352,7 +352,7 @@
     <!--EN: sex_f->[sex_n]-->
     <li>sex_f-&gt;[sex_n]</li>
     <!--EN: lover(INITIATOR_opinion>=85)->[best]-->
-    <li>lover(INITIATOR_opinion&gt;=85)-&gt;[best]</li>
+    <li>lover(opinion&gt;=85)-&gt;[best]</li>
     <!--EN: best->babe-->
     <li>best-&gt;婴儿</li>
     <!--EN: best->sweetheart-->
@@ -362,7 +362,7 @@
     <!--EN: best->sweetie-->
     <li>best-&gt;小甜心</li>
     <!--EN: lover(INITIATOR_opinion>=25)->[friend]-->
-    <li>lover(INITIATOR_opinion&gt;=25)-&gt;[friend]</li>
+    <li>lover(opinion&gt;=25)-&gt;[friend]</li>
     <!--EN: friend->cutie-->
     <li>friend-&gt;可爱</li>
     <!--EN: friend->sweetcheeks-->
@@ -378,7 +378,7 @@
     <!--EN: neutral->[RECIPIENT_nameDef]-->
     <li>neutral-&gt;[RECIPIENT_nameDef]</li>
     <!--EN: lover(INITIATOR_opinion<=-25)->[rival]-->
-    <li>lover(INITIATOR_opinion=-25)-&gt;[rival]</li>
+    <li>lover(opinion&lt;=-25)-&gt;[rival]</li>
     <!--EN: rival(RECIPIENT_gender==Female)->skank-->
     <li>rival(RECIPIENT_gender==Female)-&gt; 阴阳怪气</li>
     <!--EN: rival(RECIPIENT_gender==Female)->slut-->
@@ -388,7 +388,7 @@
     <!--EN: rival(RECIPIENT_gender==Male)->sleaze-->
     <li>rival(RECIPIENT_gender==Male)-&gt; 肮脏</li>
     <!--EN: lover(INITIATOR_opinion<=-85)->[worst]-->
-    <li>lover(INITIATOR_opinion=-85)-&gt;[worst]</li>
+    <li>lover(opinion&lt;=-85)-&gt;[worst]</li>
     <!--EN: worst(RECIPIENT_gender==Female)->whore-->
     <li>worst(RECIPIENT_gender==Female)-&gt; 妓女</li>
     <!--EN: worst(RECIPIENT_gender==Female)->bitch-->
@@ -408,7 +408,7 @@
     <!--EN: sex_react_m->[sex_react_n]-->
     <li>sex_react_m-&gt;[sex_react_n]</li>
     <!--EN: lover(INITIATOR_opinion>=85)->[best]-->
-    <li>lover(INITIATOR_opinion&gt;=85)-&gt;[best]</li>
+    <li>lover(opinion&gt;=85)-&gt;[best]</li>
     <!--EN: best->babe-->
     <li>best-&gt;婴儿</li>
     <!--EN: best->sweetheart-->
@@ -418,7 +418,7 @@
     <!--EN: best->sweetie-->
     <li>best-&gt;小甜心</li>
     <!--EN: lover(INITIATOR_opinion>=25)->[friend]-->
-    <li>lover(INITIATOR_opinion&gt;=25)-&gt;[friend]</li>
+    <li>lover(opinion&gt;=25)-&gt;[friend]</li>
     <!--EN: friend->cutie-->
     <li>friend-&gt;可爱</li>
     <!--EN: friend->sweetcheeks-->
@@ -434,7 +434,7 @@
     <!--EN: neutral->[RECIPIENT_nameDef]-->
     <li>neutral-&gt;[RECIPIENT_nameDef]</li>
     <!--EN: lover(INITIATOR_opinion<=-25)->[rival]-->
-    <li>lover(INITIATOR_opinion=-25)-&gt;[rival]</li>
+    <li>lover(opinion&lt;=-25)-&gt;[rival]</li>
     <!--EN: rival(RECIPIENT_gender==Female)->skank-->
     <li>rival(RECIPIENT_gender==Female)-&gt; 阴阳怪气</li>
     <!--EN: rival(RECIPIENT_gender==Female)->slut-->
@@ -444,7 +444,7 @@
     <!--EN: rival(RECIPIENT_gender==Male)->sleaze-->
     <li>rival(RECIPIENT_gender==Male)-&gt; 肮脏</li>
     <!--EN: lover(INITIATOR_opinion<=-85)->[worst]-->
-    <li>lover(INITIATOR_opinion=-85)-&gt;[worst]</li>
+    <li>lover(opinion&lt;=-85)-&gt;[worst]</li>
     <!--EN: worst(RECIPIENT_gender==Female)->whore-->
     <li>worst(RECIPIENT_gender==Female)-&gt; 妓女</li>
     <!--EN: worst(RECIPIENT_gender==Female)->bitch-->
@@ -588,7 +588,7 @@
     <!--EN: laughs->HA HA-->
     <li>laughs-&gt;哈哈</li>
     <!--EN: counterpart(INITIATOR_opinion>=25)->[friend]-->
-    <li>counterpart(INITIATOR_opinion&gt;=25)-&gt;[friend]</li>
+    <li>counterpart(opinion&gt;=25)-&gt;[friend]</li>
     <!--EN: friend->friend-->
     <li>friend-&gt;朋友</li>
     <!--EN: friend->pal-->
@@ -612,7 +612,7 @@
     <!--EN: neutral->[RECIPIENT_nameDef]-->
     <li>neutral-&gt;[RECIPIENT_nameDef]</li>
     <!--EN: counterpart(INITIATOR_opinion<=-25)->[rival]-->
-    <li>counterpart(INITIATOR_opinion=-25)-&gt;[rival]</li>
+    <li>counterpart(opinion&lt;=-25)-&gt;[rival]</li>
     <!--EN: rival(RECIPIENT_trait==masochist, INITIATOR_trait!=masochist, priority=1)->[disapprove]-->
     <li>rival(RECIPIENT_trait==masochist, INITIATOR_trait!=masochist, priority=1)-&gt;[disapprove]</li>
     <!--EN: disapprove(RECIPIENT_trait==zoophile, INITIATOR_trait!=zoophile)->animal fucker-->
