@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shared -->
+  <EFluids_Tooltip_RequiresRestart>需要重启游戏</EFluids_Tooltip_RequiresRestart>
+  <EFluids_RestartRequired>此设置需要重启游戏才能生效。</EFluids_RestartRequired>
+  <EFluids_Button_Reset>重置</EFluids_Button_Reset>
+
+  <!-- Template Settings -->
+  <EFluids_chance_Label>测试几率：{0}</EFluids_chance_Label>
+  <EFluids_chance_Tooltip>测试提示信息。</EFluids_chance_Tooltip>
+  <EFluids_text_Label>测试设置</EFluids_text_Label>
+  <EFluids_text_Tooltip>测试提示信息。</EFluids_text_Tooltip>
+  
+  <!-- Graphics Settings -->
+  <EFluids_EnableCumflationGraphics_Label>启用灌精膨胀贴图</EFluids_EnableCumflationGraphics_Label>
+  <EFluids_EnableCumflationGraphics_Tooltip>为子宫启用灌精膨胀的外观贴图。仅具装饰视觉效果。</EFluids_EnableCumflationGraphics_Tooltip>
+  <EFluids_EnableMilkGraphics_Label>启用滴奶贴图</EFluids_EnableMilkGraphics_Label>
+  <EFluids_EnableMilkGraphics_Tooltip>启用乳汁滴落贴图。仅具装饰视觉效果。</EFluids_EnableMilkGraphics_Tooltip>
+  <EFluids_EnableAnalDrip_Label>启用肛门滴落贴图</EFluids_EnableAnalDrip_Label>
+  <EFluids_EnableAnalDrip_Tooltip>启用肛门精液滴落贴图。仅具装饰视觉效果。</EFluids_EnableAnalDrip_Tooltip>
+  <EFluids_EnableVaginalDrip_Label>启用阴道滴落贴图</EFluids_EnableVaginalDrip_Label>
+  <EFluids_EnableVaginalDrip_Tooltip>启用阴道精液滴落贴图。仅具装饰视觉效果。</EFluids_EnableVaginalDrip_Tooltip>
+  
+  <!-- Cumflation Settings -->
+  <EFluids_CapacityMod_Label>液体容量系数：{0}</EFluids_CapacityMod_Label>
+  <EFluids_CapacityMod_Tooltip>调整肛门与胃部的最大容量上限，这会直接影响液体外溢以及灌精膨胀的程度。</EFluids_CapacityMod_Tooltip>
+  <EFluids_WasteMod_Label>液体损耗比例系数：{0}</EFluids_WasteMod_Label>
+  <EFluids_WasteMod_Tooltip>调整收集精液时作为污物浪费的比例。设为 0 时完全无损耗，大于 1 时会增加浪费量。</EFluids_WasteMod_Tooltip>
+  
+  <!-- Deflation Job Settings -->
+  <EFluids_EnableHelpingColonist_Label>允许协助殖民者消胀</EFluids_EnableHelpingColonist_Label>
+  <EFluids_EnableHelpingColonist_Tooltip>允许居民对属于玩家派系的自由殖民者执行消胀/排液工作。</EFluids_EnableHelpingColonist_Tooltip>
+
+  <EFluids_EnableHelpingSlave_Label>允许协助奴隶消胀</EFluids_EnableHelpingSlave_Label>
+  <EFluids_EnableHelpingSlave_Tooltip>允许居民对属于玩家殖民地的奴隶执行消胀/排液工作。</EFluids_EnableHelpingSlave_Tooltip>
+
+  <EFluids_EnableHelpingPrisoner_Label>允许协助囚犯消胀</EFluids_EnableHelpingPrisoner_Label>
+  <EFluids_EnableHelpingPrisoner_Tooltip>允许居民对玩家殖民地关押的囚犯执行消胀/排液工作。</EFluids_EnableHelpingPrisoner_Tooltip>
+</LanguageData>

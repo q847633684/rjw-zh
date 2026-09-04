@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <MasturbateMTB_Label>机械体使用平均间隔时间：{0}</MasturbateMTB_Label>
+    <MasturbateMTB_Tooltip>尝试使用机械体的平均间隔时间（单位：小时）。\n\n数值越小 = 越频繁。数值越大 = 越少发生。\n示例：1 ≈ 每小时一次，24 ≈ 每天一次。</MasturbateMTB_Tooltip>
+    <ImpregnationMod_Label>植入几率系数：{0}</ImpregnationMod_Label>
+    <ImpregnationMod_Tooltip>修改基础植入成功几率。\n\n默认情况下，该项使用 RJW 妊娠设置中的人类受孕几率并翻倍，同时与 RJW 保持相同的殖民者生育力计算机制。\n\n调高该数值会提高植入成功率；调低该数值则会降低成功率。</ImpregnationMod_Tooltip>
+</LanguageData>

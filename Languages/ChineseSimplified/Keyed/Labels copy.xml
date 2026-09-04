@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <MCPTarget_FMech>需要友方机械体。</MCPTarget_FMech>
+    <MCPTarget_Implanter>需要功能正常的植入器。</MCPTarget_Implanter>
+    <MCPTarget_Impregnatable>目标必须可以受孕。</MCPTarget_Impregnatable>
+    <MCPTarget_Hostile>目标不能处于敌对状态。</MCPTarget_Hostile>
+    <MCPTarget_Reachable>目标必须能够到达。</MCPTarget_Reachable>
+    <MCPTarget_Success>{0} 成功产出了一枚次级核心。</MCPTarget_Success>
+    <MCPTarget_Fail>生物打印发生灾难性失败。{0} 已绝育。</MCPTarget_Fail>
+</LanguageData>

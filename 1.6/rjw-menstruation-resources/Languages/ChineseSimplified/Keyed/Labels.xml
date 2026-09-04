@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Settings: labels -->
+  <RJWMR_Settings_EnablePregnancy_Label>启用“异常妊娠”健康状态</RJWMR_Settings_EnablePregnancy_Label>
+  <RJWMR_Settings_EnablePostpartumExhaustionHuman_Label>启用人类“产后虚脱”健康状态</RJWMR_Settings_EnablePostpartumExhaustionHuman_Label>
+  <RJWMR_Settings_EnablePostpartumExhaustionAnimal_Label>启用动物“产后虚脱”健康状态</RJWMR_Settings_EnablePostpartumExhaustionAnimal_Label>
+  <RJWMR_Settings_EnablePostpartumExhaustionAll_Label>将“产后虚脱”应用于所有妊娠</RJWMR_Settings_EnablePostpartumExhaustionAll_Label>
+  <RJWMR_Settings_EnableShorterBiotech_Label>加快生物科技（Biotech）异常妊娠速度</RJWMR_Settings_EnableShorterBiotech_Label>
+
+  <!-- Settings: tooltips -->
+  <RJWMR_Settings_EnablePregnancy_Tip>在资源妊娠期间添加“异常妊娠”健康状态，带来临时的负面减益。</RJWMR_Settings_EnablePregnancy_Tip>
+  <RJWMR_Settings_EnablePostpartumExhaustionHuman_Tip>在人类女性分娩后添加“产后虚脱”状态，使其暂时无法移动。</RJWMR_Settings_EnablePostpartumExhaustionHuman_Tip>
+  <RJWMR_Settings_EnablePostpartumExhaustionAnimal_Tip>在雌性动物分娩后添加“产后虚脱”状态，使其暂时无法移动。</RJWMR_Settings_EnablePostpartumExhaustionAnimal_Tip>
+  <RJWMR_Settings_EnablePostpartumExhaustionAll_Tip>将“产后虚脱”应用于所有妊娠，而不仅限于资源妊娠。需要同时启用上方对应的人类或动物选项。</RJWMR_Settings_EnablePostpartumExhaustionAll_Tip>
+  <RJWMR_Settings_EnableShorterBiotech_Tip>加快生物科技（Biotech）的异常妊娠速度，以匹配月经系统多胎妊娠（Menstruation Multiple Pregnancy）。这可能会对游戏性能产生影响。</RJWMR_Settings_EnableShorterBiotech_Tip>
+
+</LanguageData>
