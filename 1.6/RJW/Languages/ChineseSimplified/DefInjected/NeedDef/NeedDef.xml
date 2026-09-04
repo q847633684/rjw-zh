@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Person is now hooked on shrooms. Without them, their bedroom performance may fall.-->
-  <Chemical_HumpShroom.description>这个人对驼峰菇着了迷，如果失去了它，这个人的性能力将大幅度下降。</Chemical_HumpShroom.description>
+  <Chemical_HumpShroom.description>此人已对驼峰菇上瘾。没有它，床上表现可能会大打折扣。</Chemical_HumpShroom.description>
   <!--EN: humpshroom-->
   <Chemical_HumpShroom.label>驼峰菇</Chemical_HumpShroom.label>
   <!--EN: Represents fulfillment of sexual need, which is gained by doing sexual related activities and declined by time & turn-ons.-->

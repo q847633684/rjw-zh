@@ -63,17 +63,17 @@
   <!--EN: Obsessed-->
   <Humanlike_Paraphilia.stages.4.label>痴迷</Humanlike_Paraphilia.stages.4.label>
   <!--EN: Hump shroom effects addiction.-->
-  <HumpShroomAddiction.description>驼峰菇效果成瘾。</HumpShroomAddiction.description>
+  <HumpShroomAddiction.description>对驼峰菇成瘾。若不定期摄入，成瘾者的满足感会急剧崩溃。</HumpShroomAddiction.description>
   <!--EN: humpshroom addiction-->
   <HumpShroomAddiction.label>驼峰菇成瘾</HumpShroomAddiction.label>
   <!--EN: withdrawal-->
   <HumpShroomAddiction.stages.1.label>未满足</HumpShroomAddiction.stages.1.label>
   <!--EN: Hump shroom aphrodisiac effects.-->
-  <HumpShroomEffect.description>驼峰菇催情效果。</HumpShroomEffect.description>
+  <HumpShroomEffect.description>食用驼峰菇引起的高度兴奋状态。一切看起来都更……有趣了。</HumpShroomEffect.description>
   <!--EN: induced libido-->
   <HumpShroomEffect.label>催情</HumpShroomEffect.label>
   <!--EN: Hump shroom effects tolerance.-->
-  <HumpShroomTolerance.description>驼峰菇效果耐受。</HumpShroomTolerance.description>
+  <HumpShroomTolerance.description>对驼峰菇产生了耐受性。需要更高剂量才能达到相同效果。</HumpShroomTolerance.description>
   <!--EN: humpshroom tolerance-->
   <HumpShroomTolerance.label>驼峰菇耐受</HumpShroomTolerance.label>
   <!--EN: A complex device that prevents fertilization and pregnancy.-->

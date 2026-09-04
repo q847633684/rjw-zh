@@ -1,21 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   <!--EN: Designate animal for breeding. The colony animals will try to breed this animal.-->
-  <RJW_BreedAnimal.headerTip>Designate animal for breeding. The colony animals will try to breed this animal.</RJW_BreedAnimal.headerTip>
+  <RJW_BreedAnimal.headerTip>将动物指定为配种对象。殖民地的动物会尝试与该动物交配。</RJW_BreedAnimal.headerTip>
   <!--EN: Designate pawn for breeding. The colony animals will try to breed this pawn.-->
-  <RJW_BreedHumanlike.headerTip>Designate pawn for breeding. The colony animals will try to breed this pawn.</RJW_BreedHumanlike.headerTip>
-  <!--EN: Designate animal as a breeder. These animals will try to breed pawns desiganted for breeding.-->
-  <RJW_BreederAnimal.headerTip>Designate animal as a breeder. These animals will try to breed pawns desiganted for breeding.</RJW_BreederAnimal.headerTip>
+  <RJW_BreedHumanlike.headerTip>将小人指定为配种对象。殖民地的动物会尝试与该小人交配。</RJW_BreedHumanlike.headerTip>
+  <!--EN: Designate animal as a breeder. These animals will try to breed pawns designated for breeding.-->
+  <RJW_BreederAnimal.headerTip>将动物指定为配种者。这些动物会尝试与被指定为配种对象的小人交配。</RJW_BreederAnimal.headerTip>
   <!--EN: Designate pawn as a comfort pawn. This pawn will then be used by others to relieve their pent-up needs.-->
-  <RJW_Comfort.headerTip>Designate pawn as a comfort pawn. This pawn will then be used by others to relieve their pent-up needs.</RJW_Comfort.headerTip>
+  <RJW_Comfort.headerTip>将小人指定为泄欲对象。其他小人会利用其发泄压抑的性需求。</RJW_Comfort.headerTip>
   <!--EN: Gender-->
   <RJW_Gender.headerTip>性别</RJW_Gender.headerTip>
-  <!--EN: Designate pawn as the <color=yellow>Hero</color>. A <color=yellow>Hero</color> can be directly ordered to do lovin' with other pawns.-->
-  <RJW_Hero.headerTip>将角色指定为</RJW_Hero.headerTip>
+  <!--EN: Designate pawn as the Hero. A Hero can be directly ordered to do lovin' with other pawns.-->
+  <RJW_Hero.headerTip>将小人指定为&lt;color=yellow&gt;主角&lt;/color&gt;。&lt;color=yellow&gt;主角&lt;/color&gt;可被直接命令与其他小人发生亲密行为。</RJW_Hero.headerTip>
   <!--EN: Prisoners-->
-  <RJW_IsPrisoner.headerTip>囚犯？</RJW_IsPrisoner.headerTip>
+  <RJW_IsPrisoner.headerTip>囚犯</RJW_IsPrisoner.headerTip>
   <!--EN: Slaves-->
-  <RJW_IsSlave.headerTip>奴隶？</RJW_IsSlave.headerTip>
+  <RJW_IsSlave.headerTip>奴隶</RJW_IsSlave.headerTip>
+  <!--EN: Sexuality-->
+  <RJW_Sexuality.headerTip>性取向</RJW_Sexuality.headerTip>
   <!--EN: Designate pawn as a prostitute. Prostitutes provide service to guests for silver.-->
-  <RJW_Whore.headerTip>Designate pawn as a prostitute. Prostitutes provide service to guests for silver.</RJW_Whore.headerTip>
+  <RJW_Whore.headerTip>将小人指定为妓女。妓女为客人提供服务以换取白银。</RJW_Whore.headerTip>
 </LanguageData>
